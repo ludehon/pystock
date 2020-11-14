@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 from scipy.interpolate import interp1d
 
 DATA_FOLDER = "wf2/"
-
+RESSOURCES_FOLTER = "ressources/"
 
 def clean_string(content):
     content = content.translate(str.maketrans("", "", string.punctuation))
@@ -48,12 +48,12 @@ class wordFreq:
         self.count = dict()
         self.nameMap = dict()
         self.filter = set()
-        with open("top_en.txt") as f:
+        with open(RESSOURCES_FOLTER + "top_en.txt") as f:
             lines = f.read().splitlines()
         self.stopWords = set(stopwords.words("english")).union(set(lines))
-        self.loadFilter("cleaned_nasdaq.csv")
-        self.loadFilter("cleaned_nyse.csv")
-        self.loadFilter("cleaned_amex.csv")
+        self.loadFilter(RESSOURCES_FOLTER + "cleaned_nasdaq.csv")
+        self.loadFilter(RESSOURCES_FOLTER + "cleaned_nyse.csv")
+        self.loadFilter(RESSOURCES_FOLTER + "cleaned_amex.csv")
 
     def loadFilter(self, filterFile):
         data = pandas.read_csv(filterFile)
