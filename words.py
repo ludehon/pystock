@@ -1,8 +1,15 @@
+#Import the correct library according to the OS.
+import os
+if (os.name == "nt"):
+    import tools.windows_toolbox as tools
+else:
+    import tools.linux_tools as tools
+
+# Import common libraries
 import string
 import collections
 import pandas
 import json
-import os
 import glob
 from nltk.corpus import stopwords
 from datetime import datetime, timezone
@@ -116,7 +123,7 @@ class wordFreq:
         files = glob.glob(DATA_FOLDER + "*json")
         files.sort(key=os.path.getmtime)
         for file in files:
-            date = file.split("/")[1].split("_")[0]
+            date = tools.find_date(file)
             dates.append(date)
             freq = json.load(open(file))
             freq = {
