@@ -1,0 +1,3 @@
+TODO
+
+mapping in text processing to replace ticker and compagny first name by compagny name : pltr, palantir technlogies -> palantir
