@@ -55,28 +55,33 @@ class wordFreq:
 
     def loadFilter(self, filterFile):
         df = pandas.read_csv(filterFile)
-        df["First_name"] = df.Name.str.split().str[0]
+        df["Symbol"] = df["Symbol"].str.lower()
+        df["Name"] = df["Name"].str.lower()
+        df["First_Name"] = df.Name.str.split().str[0]
 
-        first_name_map = df[["Name", "First_name"]].set_index("Name").to_dict('list')
-        ticker_map = df[["Symbol", "First_name"]].set_index("Symbol").to_dict('list')
-        self.nameMap = {**ticker_map, **first_name_map}
+        first_Name_map = df[["Name", "First_Name"]].set_index("Name").to_dict()["First_Name"]
+        ticker_map = df[["Symbol", "First_Name"]].set_index("Symbol").to_dict()["First_Name"]
+        fusion = {**ticker_map, **first_Name_map}
+        
+        self.nameMap = {**self.nameMap, **fusion}
 
         self.filter = self.filter.union(
-            set(df["First_name"].str.lower().tolist())
+            set(df["First_Name"].str.lower().tolist())
         )
 
 
     # return set of words from content
     # remove punctuation
-    # replace ticker and full company name by the first name
     # lower case
+    # replace ticker and full company name by the first name
     # keep only company names
     # content : str
     def processContent(self, content):
         content = clean_string(content)
-        for key, value in self.nameMap.items():
-            content = content.replace(key, value[0])
         content = content.lower().split()
+        for i in range(len(content)):
+            if content[i] in self.nameMap.keys():
+                content[i] = self.nameMap[content[i]]
         content = self.filterWords(content)
         return set(content)
 
