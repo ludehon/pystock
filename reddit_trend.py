@@ -52,7 +52,7 @@ if __name__ == "__main__":
     # mode 2 : display word occurence over time
     if False:
         dates = date_generator("10")
-        dates = ["2020-11-14"]
+        dates = ["2020-11-15"]
         subs = ["stocks", "investing", "wallstreetbets"]
 
         for date in dates:
@@ -63,4 +63,5 @@ if __name__ == "__main__":
     else:
         wf = wordFreq()
         toExclude = ["nio"]
-        wf.displayTimeSerie(5, toExclude)
+        toLookAt = []
+        wf.displayTimeSerie(10, toExclude, toLookAt)

@@ -67,6 +67,10 @@ class wordFreq:
 
         self.filter = self.filter.union(
             set(df["First_Name"].str.lower().tolist())
+        ).union(
+            set(df["Symbol"].str.lower().tolist())
+        ).union(
+            set(df["Name"].str.lower().tolist())
         )
 
 
@@ -79,10 +83,10 @@ class wordFreq:
     def processContent(self, content):
         content = clean_string(content)
         content = content.lower().split()
+        content = self.filterWords(content)
         for i in range(len(content)):
             if content[i] in self.nameMap.keys():
                 content[i] = self.nameMap[content[i]]
-        content = self.filterWords(content)
         return set(content)
 
     # content : str
@@ -141,10 +145,12 @@ class wordFreq:
 
     # display word occurence by day (n=size)
     # size : int, toExclude : list[str]
-    def displayTimeSerie(self, size, toExclude=[]):
+    def displayTimeSerie(self, size, toExclude=[], toLookAt=[]):
         top = self.loadTop(size)
         df = self.loadStats(top)
         df = df.drop(toExclude, axis=1)
+        if(len(toLookAt) > 1):
+            df = df[toLookAt]
         df = smoothDF(df)
         ax = df.plot.line()
         ax.set_title("Word trend by day " + str(size) + "/")
