@@ -163,8 +163,3 @@ class wordFreq:
 
     def loadFromFile(self, date):
         self.count = json.load(open(date + "_word_frequency.json"))
-
-
-if __name__ == "__main__":
-    tester = test_wordFreq()
-    tester.test_count()
