@@ -165,18 +165,6 @@ class wordFreq:
         self.count = json.load(open(date + "_word_frequency.json"))
 
 
-class test_wordFreq:
-    def __init__(self):
-        self.wf = wordFreq()
-
-    def test_count(self):
-        content = "these are english words apple aapl  TESLA, micron mu: "
-        print(content)
-        self.wf.addWords(content)
-        print(self.wf.getCount())
-        # should be "apple : 1, tesla : 1, micron : 1"
-
-
 if __name__ == "__main__":
     tester = test_wordFreq()
     tester.test_count()
