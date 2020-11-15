@@ -5,7 +5,7 @@ from words import wordFreq
 class Tester:
     def test_count(self):
         wf = wordFreq()
-        content = "these are english words apple aapl  TESLA, micron mu: "
+        content = "these are english words apple aapl  TESLA, mu: "
         wf.addWords(content)
         assert(len(wf.count.keys()) == 3)
         assert(wf.count["apple"] == 1)
