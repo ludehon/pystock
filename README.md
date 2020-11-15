@@ -6,6 +6,7 @@ main in reddit_trend.py, tests in words.py
 - numpy
 - praw
 - nltk
+- pytest
 
 ## Trello
 https://trello.com/b/M3uJcQ1x/project-pystock
