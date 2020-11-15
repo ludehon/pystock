@@ -8,9 +8,7 @@ from nltk.corpus import stopwords
 from datetime import datetime, timezone
 import pandas as pd
 import numpy as np
-import seaborn as sns
 import matplotlib.pyplot as plt
-from scipy.interpolate import interp1d
 
 DATA_FOLDER = "wf2/"
 RESSOURCES_FOLTER = "ressources/"
