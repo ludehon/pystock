@@ -57,8 +57,8 @@ class wordFreq:
         df = pandas.read_csv(filterFile)
         df["First_name"] = df.Name.str.split().str[0]
 
-        ticker_map = df[["Symbol", "First_name"]].set_index("Symbol").T.to_dict('list')
-        first_name_map = df[["Name", "First_name"]].set_index("Name").T.to_dict('list')
+        first_name_map = df[["Name", "First_name"]].set_index("Name").to_dict('list')
+        ticker_map = df[["Symbol", "First_name"]].set_index("Symbol").to_dict('list')
         self.nameMap = {**ticker_map, **first_name_map}
 
         self.filter = self.filter.union(
