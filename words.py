@@ -19,11 +19,15 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from scipy.interpolate import interp1d
 
+DATA_FOLDER = "wf2/"
+RESSOURCES_FOLTER = "ressources/"
 
 def clean_string(content):
     content = content.translate(str.maketrans("", "", string.punctuation))
     return content
 
+DATA_FOLDER = "wf2/"
+RESSOURCES_FOLTER = "ressources/"
 
 # rate = {0, 1}, data = list
 def lowPassFilter(data, rate):
@@ -53,12 +57,12 @@ class wordFreq:
         self.count = dict()
         self.nameMap = dict()
         self.filter = set()
-        with open(tools.RESSOURCES_FOLTER + "top_en.txt") as f:
+        with open(RESSOURCES_FOLTER + "top_en.txt") as f:
             lines = f.read().splitlines()
         self.stopWords = set(stopwords.words("english")).union(set(lines))
-        self.loadFilter(tools.RESSOURCES_FOLTER + "cleaned_nasdaq.csv")
-        self.loadFilter(tools.RESSOURCES_FOLTER + "cleaned_nyse.csv")
-        self.loadFilter(tools.RESSOURCES_FOLTER + "cleaned_amex.csv")
+        self.loadFilter(RESSOURCES_FOLTER + "cleaned_nasdaq.csv")
+        self.loadFilter(RESSOURCES_FOLTER + "cleaned_nyse.csv")
+        self.loadFilter(RESSOURCES_FOLTER + "cleaned_amex.csv")
 
     def loadFilter(self, filterFile):
         data = pandas.read_csv(filterFile)
@@ -101,7 +105,7 @@ class wordFreq:
     # size : int
     def loadTop(self, size):
         stats = collections.Counter()
-        files = glob.glob(tools.DATA_FOLDER + "*json")
+        files = glob.glob(DATA_FOLDER + "*json")
         files.sort(key=os.path.getmtime)
         for file in files:
             freq = json.load(open(file))
@@ -118,7 +122,7 @@ class wordFreq:
     def loadStats(self, tops):
         freqs = []
         dates = []
-        files = glob.glob(tools.DATA_FOLDER + "*json")
+        files = glob.glob(DATA_FOLDER + "*json")
         files.sort(key=os.path.getmtime)
         for file in files:
             date = tools.find_date(file)
