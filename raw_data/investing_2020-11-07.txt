@@ -1,0 +1,256 @@
+ETF Diversification Arguments - Why Weighting Matters More Than Holdings - QQQ  
+
+# Introduction:
+
+This will be a short post regarding the weighting of individual securities in an ETF and taking the implications of that into consideration. ETFs can often be associated with security due to their large number of holdings, it is seen as an indicator for reduced risk, but something that needs to be considered more is this - are all your holdings being weighed equally, why/why not?
+
+# Weighting Matters and How It Will Increase/Decrease Your Risk Exposure:
+
+An important consideration is that the "diverse" ETFs or funds may not be as diversified as you think when the weightings of individual securities are taken into account. Let's take a very popular ETF as an example: QQQ.
+
+QQQ is very popular market-cap-weighted (larger companies are given more weight more than smaller ones) tracking the NASDAQ 100 index. Because of this weighting system, the top 8 of the stocks in QQQ have a much more significant impact to the growth or decline of the ETF than the other 92! Technology stocks alone make up over 50% of QQQ, so how diversified are you really when over 50% of your potential portfolio is dependent on how well the largest 8 tech companies are doing?
+
+The way to minimize your risk to one particular sector or from ETFs that are overweight on several stocks would be to simply search for equal-weight funds (funds that give equal weighting to large/smaller companies), or funds that are simply more broadly diversified than the NASDAQ-100. However be aware there are also plenty of arguments against these funds. For example, you limit your upsides potential, or you give more weight to potential bad apples since all companies are not created equal.
+
+Regardless the point here is, if you are looking for diversification/security, then, the most important thing is exposure to different sectors so that your portfolio isn't subject to the exact same risks. (Tech / Oil / Subway) Not all market sectors move in tandem, the tech sector has done incredibly well over the past year, however, it is dangerous to take that and project it forward into the future. It was this exact thinking that led to the 2000 tech bubble.
+
+# Final Thoughts:
+
+**This is not an argument against owning QQQ (or any similar ETFs), it simply a post regarding to how the weighting of stocks in a fund can affect performance and sector exposure.** Take your risk tolerance into account, are you fine with a large percentage of your portfolio being dedicated to tech, or some other sector? If yeah then have at it, but always do you research. If not, then more broadly diversified funds like SPY or VTI will be more your friend.
+
+There are many sites that break down the goals of ETFs and their individual holdings + weightings of those holdings. Research your funds to ensure they line up with your diversification or consolidation goals.
+
+Thanks for reading guys, if anyone has good researching recommendations or favorite ETFs to recommend then please comment. And have a good day! (or don't if you don't want to, I'm not your mom, I can't tell you what to do)_END_OF_POST_PYSTOCK_ Any good CBD or marijuana stocks to buy into? I'm ever new at trading and I decided to throw some money at the weed industry. I have a small amount in CGC but I've heard that's not wisest stock to be involved with. I'm sure stocks will change since the election has been declared, but was wondering if buying into any weed stocks are smart right now and which ones.
+Thanks for any help_END_OF_POST_PYSTOCK_ Berkshire Hathaway buys back $9B in stock in Q3   
+
+Berkshire Hathaway (NYSE:[BRK.B](https://seekingalpha.com/symbol/BRK.B?source=news_body_link)) (NYSE:[BRK.A](https://seekingalpha.com/symbol/BRK.A?source=news_body_link)) [bought back \~$9B of stock during Q3](https://seekingalpha.com/pr/18075672-berkshire-hathaway-inc-news-release?source=news_body_link), bringing the nine-month total to \~$16B.
+
+That's up from the $5.1B of stock the conglomerate bought in Q2.
+
+Q3 operating earnings of $5.48B vs. $5.51B in Q2 and $8.07B in the year-ago quarter.
+
+The only major business segment to see a Y/Y  increase in operating earnings was railroad, utilities and energy, while  insurance underwriting posted a loss vs. a year-ago profit. (updated at  8:18 AM).
+
+Losses and costs associated with COVID-19  negatively hurt its commercial insurance and reinsurance underwriting  results; furthermore, future judicial rulings and regulatory and  legislative actions relating to insurance coverage and claims may affect  future results.
+
+"Our underwriting results for the remainder of  2020 and the first quarter of 2021 for certain business may be adversely  affected from lower premiums attributable to credits granted to  policyholders and where premiums are a function of the insured’s  payroll," the company said in its 10-Q.
+
+Operating earnings by segment:
+
+* Insurance underwriting: loss of $213M vs. earnings of $440M a year ago.
+* Insurance - investment income: $1.02B vs. $1.48B a year ago.
+* Railroad, utilities and energy: $2.74B vs. $2.64B a year ago.
+* Other businesses: $2.35B vs. $2.46B a year ago;
+* Other: loss of $412M vs. earnings of $1.05B a year ago.
+
+&#x200B;
+
+Q3 net earnings of $30.1B vs. $26.3B in Q2 and  $16.5B a year ago; investment gains fell to $24.8B vs. $31.0B in Q2 and  rose from $8.7B a year ago.
+
+Insurance float was \~$135B at Sept. 30, 2020, vs. \~$131B at June 30, 2020.
+
+[ The company had \~$145.7B of cash, equivalents and short-term investments as of Sept. 30](https://berkshirehathaway.com/qtrly/3rdqtr20.pdf?source=news_body_link), 2020, just under the $146.6B it had at June 30.
+
+About 70% of Berkshire's  investments in equities securities' aggregate fair value at Sept. 30  was concentrated in four companies with Apple (NASDAQ:[AAPL](https://seekingalpha.com/symbol/AAPL?source=news_body_link)) by far the biggest, at $111.7B. The others are Bank of America (NYSE:[BAC](https://seekingalpha.com/symbol/BAC?source=news_body_link)) at $24.9B, Coca-Cola (NYSE:[KO](https://seekingalpha.com/symbol/KO?source=news_body_link)) at $19.7B, and American Express (NYSE:[AXP](https://seekingalpha.com/symbol/AXP?source=news_body_link)) at $15.2B.
+
+At Dec. 31, 2019, its investments in those four  companies represented 60% of aggregate fair value — $73.7B for AAPL,  $33.4B for BAC, $22.1B for KO and $18.9B for AXP.
+
+Digging further down into Berkshire's 10-Q filing  and the company's unit results, its railroad, BNSF saw earnings before  income taxes slip to $1.78B vs. $1.94B in Q3 2019, primarily due to  lower volumes because of the pandemic.
+
+Berkshire Hathaway Energy's earnings before income taxes increased to $1.12B from $1.06B a year earlier.
+
+Manufacturing earnings before income taxes fell to  $2.26B from $2.48B, and service and retailing earnings before income  tax increased to $779M from $639M.
+
+McLane Company saw earnings before income taxes nearly double Y/Y to $96M from $50M.
+
+[https://seekingalpha.com/news/3633328-berkshire-hathaway-buys-back-9b-in-stock-in-q3](https://seekingalpha.com/news/3633328-berkshire-hathaway-buys-back-9b-in-stock-in-q3)_END_OF_POST_PYSTOCK_ Nintendo(TYO 7974) Analysis Nintendo, I think is the best gaming stock to buy. My partial reasonings:
+
+* Gaming is all about IP. And Nintendo has the most recognisable IP. Mario, Pokemon(part ownership), Zelda etc have the brand recognition that few other games have.
+* Pricing power. Nintendo can sell a game without giving any discounts and people will buy it. Case in point, Nintendo released its latest Super Mario 3d All-Stars games at $60, which are just 3 fairly simple ports. Yet, [they sold 5.21M copies within 12 days(at page 10).](https://www.nintendo.co.jp/ir/pdf/2020/201105_4e.pdf) Because of its IP strength, they are also able to sell older Wii-U ports at full price. Their titles also don't get much discounted. No other gaming company boast such pricing power among its player base. This is one of the reason there Operating Profits jumped 209% till September(click the first link).
+* Lower development cost. Nintendo game philosophy is centred around the concept of "fun". So, unlike developers like Ubisoft, EA, Bethesda(parent acquired by MSFT), Rockstar, Activision Blizzard etc, they follow a unique strategy in developing games which results in a much lower development cost compared to their peers. Nintendo's gaming base(which includes hyper fans to children) is also supportive of its efforts. This has two-way benefits for Nintendo compared to its peers.
+   * Development costs of games are skyrocketing and at this rate, these companies will slowly have more difficulty in recouping costs.
+   * Nintendo's development cost, while not known per games is hypothesized to be lower. This means Nintendo finds it much easier to recoup costs.
+* Other game companies in different stock exchanges worldwide have much higher multiples of valuations. Nintendo, who is expected to have higher growth(for the next 4 years) than most of the developers I have searched for, is relatively cheaply valued. [Simple Valuation Comparison.](https://imgur.com/gallery/j2EqHcx)
+* Nintendo has more than adequate cash buffer. It is [currently the most cash-rich company in Japan.](https://news.livedoor.com/lite/article_detail/18788644/) Given Nintendo's experimental strategies, this ensures that Nintendo is extremely unlikely to face any liquidity crisis.
+* Nintendo is also a platform holder. Which means it stands to profit from every game sold by other developers in its platform and its own games have a higher margin. This also allowed it to launch Switch Online subscription service, which while cheap, could provide a hefty return, especially in the upcoming few years. Also, unlike Sony and Microsoft, Nintendo actually makes money from the beginning while selling each console.
+* Future plans(rumour based)
+   * Nintendo is expected to release a pro version of Switch(or just upgrade the Switch internals) which would boost Switch sales(management already upgraded forecast today by 20%).
+   * Nintendo management didn't shy away from the possibility of launching other forms of online gaming service. They are experimenting with game streaming. Control: Ultimate Edition is already available to stream in Nintendo Switch.
+   * Many others not mentioned here for brevity's sake.
+* Growing diversified revenue source.
+   * Their merchandising business is going to grow along with its gaming revenues.
+   * Unique products like the Mario Kart: Home Circuit, Amiibos(which are a combined form of merchandise and in-app purchase), Nintendo Labo etc points to a company that has managed to integrate the physical and virtual world very competently. These products while a small part of its revenue equation would likely keep on growing.
+   * Their cinema ventures(an upcoming movie in partnership with Illumination) could grow further. Management has stated that they are likely to invest in these ventures more based on their success. This may result in TV shows and similar products getting released more. It must be mentioned though, Nintendo generally uses partnerships to venture into these markets and doesn't directly release the products, which means they get a small portion of the overall revenue.
+   * Theme park partnership with Universal.
+* Upcoming titles could add significant profit potentials for Nintendo. Although we don't exactly know what they will be, management has already stated that they have merged their development efforts(before it was split among Wii-U and 3ds) which would lead to higher outputs.
+   * One of the disappointments is that Nintendo still seems to have not poured enough resources into its mobile gaming efforts and seems like we wouldn't get any revolutionary products like Pokemon Go. However, Nintendo published games in the Switch have very high attachment rates which somewhat counters the lack of games on mobile.
+   * As an example, let's compare Super Mario Odyssey against Witcher 3. Witcher 3(an extremely popular game and released a movie), which released in 2015 and is available in many platforms sold around 50M(as of May) copies. The base price of the game has been much lower than the $60 price Nintendo requires. Yet, Super Mario Odyssey sold around 19M copies being in a single platform. This, by no means, is an apple to an orange scenario. But I presented this example to illustrate the next point I am coming to and to make you aware of the strength of the Switch platform.
+* Brand loyalty. Nintendo fans are very brand loyal because of the unique market approach of Nintendo. While other publishers are constantly barraged with gamer complaints and vocal minorities, Nintendo, while keeping its fans loyal, managed to shield itself from much of the disdain some gamers have towards other publishers. EA, Activision Blizzard, Epic, Ubisoft(even CD Projekt Red) etc seems to be constantly bamboozled by their vocal minority fans. As a result, the sense of community and brand loyalty is missing. Nintendo tends to do exceptionally well in this regard which is necessary for sustainable game sales. This also somewhat explains the exceptional attachment rates, pricing power etc. Its various games' fanbase also has a reputation of being helpful and welcoming, lacking the toxicity(Smash is an exception) of other gaming communities.
+* Competent management. This is the name of the game. While other studios constantly seem to be in the need to change in management, developer exits etc. Current Nintendo management has proved itself to be worthy. 
+* ARKK contains NTDOY as a holdings.
+
+Risks:
+
+* Nintendo has a habit of creating extremely profitable products and then suddenly getting derailed. However, for the next 4 years, this sort of mishap is unlikely to happen.
+* Sony and Microsoft are going to release their next-generation consoles. Although, this is unlikely to dent sales(because of Nintendo's blue ocean strategy) as management didn't really imply that it would happen; instead they chose to upgrade the sales forecast.
+
+Final commentary:
+
+Gaming has entered a mega-trend territory. I think Nintendo is best positioned to capture this mega-trend as they have all the ingredients of success. Plus, Nintendo being undervalued compared to its peers make it a good opportunity to ride this trend.
+
+Gaming is ultimately a risky business and no other publisher(other than MSFT, which already is valued to the teeth) is as well positioned in this market as Nintendo.
+
+TL;DR: I think Nintendo is the best stock for the next 3-4 years among other gaming stocks.
+
+Have a good day! :-)
+
+[Here's an old meme that refused to die.](https://knowyourmeme.com/photos/1248336-it-prints-money)_END_OF_POST_PYSTOCK_ Master List: Future Trends To Buy Right Now Watching the recent EV rallies just make me feel like these were painfully inevitable. These things aren't *hard* to predict... we knew it was going to happen for years, it's just getting on-board early enough and being patient. The whole industry has *'bubbled'* (NIO, XPENG, LI etc.) so it's not even a case of choosing the right company, just having skin in the game somewhere.   
+
+
+I'm building a list of sectors where big runs will inevitably happen in the future:  
+
+
+**My Favourites:**
+
+\- Space Tourism  
+\- AI  
+\- Big Data  
+\- Recycling   
+\- Gene Editing  
+\- Underground Cities  
+
+
+**Others:**
+
+\- Clean Energy  
+\- Automation  
+\- Quantum Computing  
+\- 3D Printing  
+\- Cyber Security  
+\- Cloud Services  
+\- Neurotechnology  
+\- Drones & UAVs  
+
+
+If you have any specific companies for any of these (or more areas to add) please suggest your secret players._END_OF_POST_PYSTOCK_ VIX Strategies I have finished studying option strategies with the finding that most strategies are riskier and less profitable than just owning SPY as shown by the CBOE option indices.  I have shifted to studying the VIX as it seems to be a different asset class with lower correlation.  The little bit of academic papers i have been able to find still say that buy and hold is better than a hedged position with vix options, but i am still researching.  Any one familiar with an ETF or index that uses VIX options to diversify and improve the sharpe ratio?   Any other benefit of VIX products?  Most of the you tube videos focus of market timing to use the vix which I dont subscribe to.   
+
+Thanks._END_OF_POST_PYSTOCK_ Any simple method of calculating time weighted ROI in company pensions etc. where regular contributions are made every few weeks? many of us have plans such as a company pension plan, matching rrsp etc. where a regular contribution is being made every x number of weeks. This makes it very hard to calculate how much one is truly making in a year. Many organizations that administer such funds only offer personal rate of return calculations which do not reflect the point that x amount of money got invested for x number of time.
+
+is there a *simpler* method of calculating true rate of return in such situations?
+
+How do you ensure how much are you "really"  making or losing in such situations?
+
+Your replies will be highly appreciated. Thanks, in advance._END_OF_POST_PYSTOCK_ International growth ETF Vanguard International Growth Fund Investor Shares (VWIGX) has an expense ratio of 0.43% and contains month-end 10 largest holdings (38.80% of total net assets) as of 09/30/2020:
+
+1	Alibaba Group Holding Ltd.
+2	Tencent Holdings Ltd.
+3	Tesla Inc.
+4	ASML Holding NV
+5	MercadoLibre Inc.
+6	Kering SA
+7	M3 Inc.
+8	Meituan Dianping
+9	TAL Education Group
+10	Spotify Technology SA
+
+I have not been able to find a Vanguard equivalent ETF. Any suggestions for other ETFs that have similar top 10 holdings?_END_OF_POST_PYSTOCK_ Any reason why Aurora Cannabis and Tilray skyrocketed but Aphria Inc remained the same when news of ballot measures to legalize recreational marijuana were approved in 4 states. The stocks of aurora and Tilray skyrocketed yesterday however the same didn't happen for Aphria. All three are in recreational and medicinal marijuana. All three are in Canadian and new york stock exchange. All three have almost the same mode of operations. All were operating in the same single dollar price bracket. I am trying to understand what could be the reason why one stock didn't do as well when such a positive news came out. It didn't even grow on the high ride of fellow companies._END_OF_POST_PYSTOCK_ How does intellectual property work in terms of NIO's battery as a service? Hello, everyone. I'm among the bullish investors in NIO and I'm currently conjuring up possibilities with their BaaS.
+
+However, I have one concern that's been bugging me because I'm not well-versed in this topic. My main question is: **Can another EV company or company in general establish a service similar to BaaS (Battery as a Service) like the one NIO has?** 
+
+**And if they do establish it, would it be considered intellectual theft and illegal?**
+
+I hope this is not an obvious answer question, but I'm genuinely concerned about it.
+
+Because if it's not something other companies can up and copy, then it might be something other EV companies like XPENG or LI, maybe even TESLA can use to bridge a partnership between themselves and NIO._END_OF_POST_PYSTOCK_ Is the S&P 500 really the best bet with dead companies and a quarter allocation to FAAMG? So I quite frequently see that your best investment for long term strategy is to just buy and hold something like VOO.  I've been questioning if it really is because it doesn't seem to be as diversified as people may think. With consideration of the index being 22% FAAMG, it doesn't seem to be THAT diversified. Also a good chunk of the companies are probably companies will never recover, have even stock price, or continue to downtrend?  Is the s&p really that great of a bet if you're willing to do just a little bit of active management and weed out some of these garbage companies? Is it ok that there will be companies that don't perform well, because those will be smaller %s of the fund? But even then, why have that dead weight in your portfolio?
+
+I guess I'd really just love to know what y'all think, if you agree or disagree, or if you can open my eyes to the light for this so I can be more confident in investing in something like VOO. It's hard, especially now, to keep putting money in VOO when I've been splitting my money evenly between VOO and QQQ and see QQQ drastically outperform.  I'm in my mid 20s, so maybe its worth staying riskier with QQQ and VOO isn't worth it for me? Would appreciate some thoughts!_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Long term S&P 500 outlook...Hussman You don't have to tell me Hussman's returns are awful over last few years...I know. He has expected a downturn for 5 years now. But he is the most qualified economist (PhD Stanford) of the fund managers, and this is not a timing opinion:
+
+"But what if valuations literally never ever visit historical norms again? Fine, let’s examine that possibility. Suppose we assume that market valuations maintain the “permanently high plateau” that Irving Fisher famously projected at the 1929 market peak. What then?
+
+Well, let’s do the arithmetic. We know that real “structural” GDP growth over the past decade has averaged only about 1.6% annually. That’s the rate at which real GDP has grown in recent years, excluding the impact of changes in the rate of unemployment. It’s essentially the underlying economic growth that’s driven by the sum of demographic labor force growth and trend productivity growth (output = workers x output/worker). Even a 3% structural growth rate would require a near-doubling of trend productivity. Let’s be optimistic and bump expected structural growth up to 2%. Adding 2% inflation then gives us 4% nominal growth.
+
+It’s worth noting that at the very peak of the recent economic expansion, the actual nominal growth rate of S&P 500 revenues over the recent 20 years had averaged just 3.6% annually, which reflects the full benefit of stock buybacks and share reductions over that period. Likewise, the growth rate of U.S. nominal GDP averaged just 4% in the 20 years measured up to the peak of the recent expansion.
+
+Now, suppose we also assume that the profit margins observed at the peak of the recent economic expansion will never, ever normalize. We can then expect earnings to match the growth rate of revenues, and we’ll assume that dividends do the same, leaving us with expected long-term growth of 4% all around.
+
+Finally, let’s assume that market valuations never, ever retreat. In that case, prices would grow at the same rate as fundamentals, which gives us 4% annual capital gains for a passive investment in the S&P 500. Add the current S&P 500 dividend yield of 1.6% (which would also remain constant forever), and if all of these assumptions were to work out for investors, **they would imply long-term investment returns for the S&P 500 of 5.6% annually. Emphatically, that figure relies on the S&P 500 maintaining the most extreme valuations in U.S. financial history forever."**_END_OF_POST_PYSTOCK_ How would you play BYND (Beyond Meat) earnings? BYND is a well accepted rival of the legendary impossible foods, however I don’t think the rivalry matters too much considering the exponential growth of the meat substitute industry. They are releasing earnings 9 Nov.
+How do you think the market has reacted to the coronavirus? Is there like an increase in buyers since 1) Covid was started because of an animal and 2) most people are switching to a healthier lifestyle as they are unable to keep up with the fitness routines they had previously planned. However, it could also have a negating effect on the market, since more people are becoming money conscious and unwilling to spend more on meat alt. I know it is a dumb way to asses the market but what do you think? How would the sales have been this quarter? Is it a call, put or just watch? What do you suggest?_END_OF_POST_PYSTOCK_ How to define the relationship between savings/liquidity and stock market capitalization? The total US stock market is currently valued at 37 trillion, while the total savings in the US are only 18.4 trillion and the money supply is 11.6 Trillion. 
+
+Many "experts" argue that there is to much liquidiy in the system and this will push the stock market even higher. But how high can the stock market go, if the capitalization is already x3 savings?
+
+Is there an indicator - or a similar instrument - to define the relationship between savings/liquidity and stock market capitalization?
+
+Thanks_END_OF_POST_PYSTOCK_ UI Stock climbs 23% after First Quarter Fiscal 2021 Report What are your thoughts on the company? I have been using their products for years at our office and really like them.
+
+F**irst Quarter Fiscal 2021 Summary**
+
+* Revenues of $473.5 million, increasing 46.5% year-over-year
+* GAAP diluted EPS of $2.46, increasing 72.0% year-over-year
+* Non-GAAP diluted EPS of $2.47, increasing 71.5% year-over-year
+
+[https://finance.yahoo.com/news/ubiquiti-inc-reports-first-quarter-123000701.html](https://finance.yahoo.com/news/ubiquiti-inc-reports-first-quarter-123000701.html)
+
+I also noticed a lot of public venues that use Ubiquiti hardware in recent years. Sort of made it a sport to scan the ceiling of every hotel lobby I enter.
+
+I think they could grow even more in the next few years since their products are enterprise quality priced at retail level. They also seem to have a solid software stack unlike other network hardware  producers and a reasonable licensing model.
+
+Tom Lawrence goes in to Ubiquiti's business model and why he likes it:[https://www.youtube.com/watch?v=j7oMllL5w3A](https://www.youtube.com/watch?v=j7oMllL5w3A)What I like about him is that he is a small business owner and makes his money installing these systems and not a douchebag stock market expert.
+
+Ubiquiti's founder worked at Apple an I guess you can see that in their industrial design. It‘s not common to see networking equipment that actually looks good._END_OF_POST_PYSTOCK_ Unpopular opinion--don't agree with Ray Dalio's perspective in many ways Despite how much I like listening to his philosophy, in a lot of ways I don't agree with Big Ray. 
+
+In a rhetorical sense, he speaks in complicated manners about concepts that are actually really simple when you break them down. More than that though, he doesn't actually get to a point. He suggests certain things--like cycles, reserve currencies, etc.--but doesn't really make a coherent prediction that he can point to and validate. I think he does this because his suggestions haven't always panned out. E.g. now that the Fed has stepped in, his market crash call that had been pending for three years and running is off the board. 
+
+I also think he's kind of into bear porn. It's not that I necessarily disagree with him as much as I want to hear his opinion with the consideration of counterpoints to his opinion. Okay, so China is rising, and the U.S. is printing money as a sign of a dying superpower. But can China overcome quickly slowing growth, a corrupt system, and a system that chooses surveillance over business? Another example: China has a plurality of the world's IPOs--okay, but large IPO numbers indicate bubbles too. 
+
+I guess it just seems like he doesn't use his imagination to challenge these extremely broad, bold views in many ways. I just hear the same thing over and over (and why is he on TV and media so much anyway?), to the point where it feels like he has stake in it, and that this stake is his company, brand, and merchandise. 
+
+Overall, yes, I disagree with him. Not with his views as much as the certainty of his views, and how they're such 'simple, repetitious cycles'. Why wouldn't 1971 been when Russia took over, when we finally went off the gold standard? Why is MM3 now suddenly the time when China will be the one to overtake us, despite their incredible flaws? It just doesn't add up, and there isn't enough humility and uncertainty for me to really trust him. Also, when he says that diversifying is a way to lower risk but maintain the same returns--yeah, no. 
+
+I still really respect him. You can't get to where he is without being a legend. But I think he's kind of a cult figure at this point. The reason I love Buffett is because everything he says is exactly as simple or complicated as what he's talking about. It's straightforward, without any launching predictions or starry-eyed proselytizing. For all Dalio's transcendental practice, I think he's got some blind spots. 
+
+Go ahead and roast me then._END_OF_POST_PYSTOCK_ Auto Trader Software (IG.com) anyone interested in a indie auto trader software that I have created? for more information PM me
+
+backstory: I have developed a system that would retrieve IG crypto market and with the logic that I designed would trade itself. I have been testing using a demo account till now however the results are not optimal (did not profit well), and have decided that it is as far as I can go with it.
+
+didn't wanna waste the data and the effort I was hoping if anyone is interested in it so that I can make some money out of it._END_OF_POST_PYSTOCK_ Why you shouldn't grow too comfortable with the stock market (specifically index funds) It is no secret that the fed has slashed interest rates to historical lows this year. It is also no secret that the fed's interest rate has been at unprecedented low levels for the past 10 years since the 2008 financial crisis. Not only that but the interest rates on 10-year treasury bonds have been slowly deflating to alarmingly low levels for the past 25-odd years. The average certified deposit rate today is a fraction of what it once was a few decades ago. The return on nearly every other alternative to investing in the stock market has plummeted in recent decades. The effects of this can easily be seen in the performance of the stock market. With no other place to store their money, entities instead shovel their money into stock market indices which promise much higher returns on investment than all other alternatives. The market has skyrocketed in the past decades because of this, as without any effective place to store capital, people simply reinvest dividends and other earnings into the market, driving the price of stocks ever higher. 
+
+The stock market is a tower, and the yields on government bonds and alternative investments are the foundation of this tower. At any given moment, there are only so many resources to go around, the most stable building will see a balance between the height of the tower and the strength of the foundation. Putting too many resources into the foundation and the tower would rarely fall, but it wouldn't be very tall either as there wouldn't be enough to build it very tall. Putting too much towards the height of the building and it would be extremely unstable, falling fast and hard at the sight of any trouble due to a weak foundation. 
+
+We are stuck in a very tall, very skinny, very unstable skyscraper. In an effort to appease financial institutions and rescue dying industries, we have gutted our rates to near zero. This cannot and will not last. The only question is how much longer it will be until the rates have to come up and the stock market pops like a balloon. If I had to guess, it'll probably happen when the government can no longer run a massive deficit every year and has to reign in spending and lending towards financial institutions. This may sound like a doomsday prediction, but it isn't. 88% of the wealth in the stock market is owned by the 1%. It'll hurt, but the world isn't gonna burn because of it._END_OF_POST_PYSTOCK_ Buy and Hold weed? ACB has has gone 56% today (11/6), and in this week it has gone up 143%. Normally I would call anyone that thought they could still profit on this stock an idiot. But seeing how Biden is most likely to win the election I have re thought my position on this. Everyone knows that Biden is a lot more lenient towards weed than Trump and Republicans. Add this to the fact that New York is going to legalize weed starting in 2021, and I feel that ACB might still go up. I am starting to think that I might buy some stocks when it drops a few percent, like all stocks do after having a massive win streak (NIO for example). And after it drops that few percent, I'll buy some stocks and hold until Janish when the stock should go up after it becomes legal in NY.
+
+I wanna know some other peoples thoughts on this. Do you guys agree with this or do you think im a idiot overthinking it?_END_OF_POST_PYSTOCK_ Online Stock/forex trading brokerage in Spanish I'm trying to help a friend in Colombia get started investing in the stock market and or forex since she's really interested in the topic. Unfortunately, neither of us can find any reputable companies that support international customers AND offer their platform in Spanish. ¿ayuadame?_END_OF_POST_PYSTOCK_ How to convert foreign financial statements to USD? I have a company I am researching and want to do DCF analysis on, however this is a Canadian company and the financial statements are in CAD. I tried looking all over the internet for those financial statement that are already converted into USD and found one on macrotrends, however when I converted the financial statements myself from CAD to USD I got different numbers than what's published on macrotrends and I can't figure out why. The numbers are not super different, but different enough (up to around an 8% difference) to warrant looking further into. I don't know which numbers to trust, my own or the ones on macrotrends, since either I did the conversion calculation incorrectly or because sometimes different sources of financial information is slightly off (as I noticed before with other research I've done).
+
+The way I converted the financial statements was by looking at the exchange rate of the CAD to the USD at that moment in time (to account for fluctuation) and multiplying the financial statement numbers by that ratio for that particular year. I went back 5 years in time when doing the conversions.
+
+Am I missing something? Did I do it incorrectly, any constructive advice or information will be appreciated.
+
+Edit: (By the way this stock does trade on the NYSE)
+
+Edit 2: What's even more curious is I actually found another online source that has the financial statements in USD but it's different from both my calculations and macrotrends, again the difference is slight but still present._END_OF_POST_PYSTOCK_ Thoughts on medical waste disposal companies for upcoming Covid vaccine? Once a vaccine begins to roll out, millions of Americans will be receiving an injection, meaning healthcare facilities will need to dispose of these needles afterwards. Sharps Compliance specializes in just that! This company is a leading market provider for collecting sharps and other small quantities of medical waste.
+
+It is no secret that the company is expecting a pick up in demand - I mean just like at what the CEO said last week:
+
+“From our vantage point today, we remain confident that we’re in the midst of a very strong flu immunization season as evidenced by 50%+ increase in flu-related return mailbacks processed for August, September and October 2020.  We are also hopeful that the flu immunization season could be followed by substantial activity related to a potential COVID-19 vaccine which many experts believe could be available later this year or early 2021. We have a robust inventory of our medical waste mailback solutions in place to meet anticipated strong demand and this month are commissioning a new autoclave online at our Pennsylvania facility, expanding our medical waste processing capacity from 18 million to 27 million pounds per year, which is up from 10 million pounds a year ago.”
+
+This is a relatively small company only generating about $50mm in revenue annually and that is reflected in the price at $6/share ($100mm market cap). The potential increase in revenue from more mail backs due to covid vaccines + higher flu immunizations is a huge tailwind.
+
+In my opinion, the company is not being valued based on potential covid demand and rather just its core business. I mean eventually we are going to get a vaccine right? It’s only a matter of time and once it does, the share price should see a significant increase to reflect that.
+
+
+Latest investor presentation for those who want to read more about the company:
+
+https://investor.sharpsinc.com/static-files/41b2988f-ff81-4ad4-a58a-949c98f34d14_END_OF_POST_PYSTOCK_

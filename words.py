@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-DATA_FOLDER = "wf2/"
+DATA_FOLDER = "wf3/"
 RESSOURCES_FOLTER = "ressources/"
 
 def clean_string(content):
@@ -177,7 +177,7 @@ class wordFreq:
     def saveToFile(self, date=None):
         if date == None:
             date = str(datetime.utcnow()).split(" ")[0]
-        json.dump(self.count, open("wf2/" + date + "_word_frequency" + ".json", "w"))
+        json.dump(self.count, open(DATA_FOLDER + date + "_word_frequency" + ".json", "w"))
 
     def loadFromFile(self, date):
         self.count = json.load(open(date + "_word_frequency.json"))

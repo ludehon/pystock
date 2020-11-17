@@ -1,0 +1,199 @@
+Quarantine orders in England. How long before we get the same orders? March Dip v2.0 incoming? Prime Minister Boris Johnson imposes stay-at-home order in England as coronavirus cases surge https://www.cnbc.com/2020/10/31/prime-minister-boris-johnson-imposes-stay-at-home-order-in-england-as-coronavirus-cases-surge.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard_END_OF_POST_PYSTOCK_ Do REIT indexes make sense in a post-COVID world? When I was building my portfolio, my advisor pointed out that REITs have historically been the best performing asset class, even more profitable than total-market stock indexes like VTSAX. Their only issue is tax inefficiency, which in a taxable account would make them less profitable net-of-tax than VTSAX. Therefore, I hold a combination of VGSLX and VGRLX in my tax advantaged account.
+
+As most of you know, REITs like VGSLX and VGRLX took a massive hit from COVID-19. They dipped over 40% during the COVID crash, and are still more than 20% below their pre-COVID price, while stock indexes like VTSAX are at their pre-COVID levels, in some cases higher.
+
+My concern though is about their long-term future prospects.
+
+VTSAX represents business in general, and as such, we have high degree of confidence in it recovering at some point in the post-COVID future. Indeed, this strong expectation is perhaps the chief reason it has already recovered.
+
+I'm wondering whether REIT index funds like VGSLX and VGRLX represent a much narrower - and therefore, less diverse and certain - economic hypothesis: that urban centers will enjoy ever-increasing economic growth, supporting ever-increasing real-estate prices.
+
+My understanding is that REIT indexes tend to hold real-estate assets in major, popular urban centers. Therefore, if those centers decline on long-term basis, REIT indexes are no longer a profitable investment.
+
+There are signs that this might indeed be happening. Jobs are becoming permanently remote, especially in the growing tech sector. The most desirable pre-COVID urban centers like NYC and San Francisco are undergoing a resident exodus, with rents dropping as much as 30% across the board. There's a massive relocation from urban centers to suburbs and sparser living. All of these would support a theory that REIT indexes are no longer a competitive investment.
+
+Even if residents move from expensive urban centers like San Francisco to less expensive urban centers like Austin TX, this will be long-term detrimental to the value of REITs, since it breaks the process REIT growth has previously relied upon: desirable urban centers becoming ever more desirable over time. Instead, we'll see a cyclical process, in which real-estate in certain urban centers appreciate for a while, until it reaches saturation, and then demand dies down as people set their sights on cheaper locations, which they can do as remote workers. This will happen because cities will no longer serve as pools of talented employees and the increasingly higher-paying jobs to employ them, fueling the real-estate price growth.
+
+For example, suppose you are a REIT that is heavily invested in an urban area that used to be hot before COVID, like San Francisco. You now notice an exodus, and your holdings are losing heavily. If you even still have the capital, you can check which cities are "the new hot", like maybe Austin TX, and you buy assets there. But then in a few years, instead of delivering substantial appreciation as they did pre-COVID, your assets stop appreciating because residents are now all moving to the next cheaper location, like Boise ID.
+
+This process will make consistent REIT growth impossible to sustain.
+
+If that's the case, why invest in REIT indexes in a post-COVID world?_END_OF_POST_PYSTOCK_ What are some ways to earn income (passive or active) on shares of stock you already own? How can I earn additional money with the shares of stock I already own?  I am aware that all options have their own risk/reward.
+
+Some obvious options:
+
+* Lend out the asset for borrowing
+* Borrow money using the asset as collateral
+* Write call options and collect the premium
+
+What other strategies can be deployed to earn income similar to the above mentioned?
+
+Edit: Assume there are no restrictions on the stock being "used" in this way._END_OF_POST_PYSTOCK_ Russell 2000 & IWM performance, anyone? I noticed the Russell 2000 has performed quite well the last month, and even the last 3 months, despite being a serious laggard YTD.
+
+IWM 25.50% in 3 months vs. 9.04% for SPY and 12.38% for QQQ.
+This last month it's in the green while the rest are in the red.
+I don't own the fund as I have total market ETFs and I choose individual small caps.  However, I couldn't help but notice on my radar.
+
+Russell 2000 growth has even better performance than the blend.
+
+Thoughts as to why the big switch here?  Especially with these more domestic/smaller plays in the current environment?
+Do you think more or less risk going forward the next few months for small caps?
+
+Since it is so behind YTD, is it possible we might see further pulling away before the end of the year? I'm starting to wonder if it's not worth tilting a little here._END_OF_POST_PYSTOCK_ Moving average drawdown protection in place of TMF - Hedgefundie's strategy  
+
+To  start with, I contribute approximately 15% of my gross income to my  union defined contribution pension plan, so I'm fairly well covered for  retirement through that alone. However, being a DINK with 200k combined  income, I still have substantial funds for investing (with lots of room  in tax-free accounts) and would like to invest aggressively in those  tax-free accounts. Age 33.
+
+That  said, I have to say I'm interested in the [Hedgefundie strategy](https://www.bogleheads.org/forum/viewtopic.php?t=288192) and the  principles of Lifecycle Investing. The former has certainly worked well  in backtests, when equities have been rather steadily rising and  interest rates steadily falling. I'm comfortable with assuming equities  will continue rising but not as comfortable assuming interest rates will  continue falling. And with interest rates being as low as they are, I  see little value in holding Treasuries (or almost any bond other than  high-yield ones, for that matter) other than as cheap insurance (in an  asset that has historically been negatively correlated with equities).
+
+I'm  wondering what people's thoughts are on using moving average crosses  mostly as sell signals to prevent the significant drawdowns that can  seriously harm leveraged ETFs (i.e. using moving average crosses as the  cheap insurance). I've been considering a strategy of liquidating all  leveraged holdings when the S&P500 crosses below its 350EMA and  re-entering when it crosses back over the 50EMA, as a way of staying out  during significant drawdowns and the accompanying increase in  volatility. And perhaps holding TMF during those times, rather than all  the time as per the Hedgefundie strategy. I feel like, going forward,  TMF will underperform UPRO/TQQQ and thus will have an opportunity cost  to it that makes it no longer cheap insurance.
+
+I  understand that moving average strategies offer little protection for  black swan events that cause significant gap downs, and I know there's  the potential for false negatives when the market whipsaws (which would  lead to unnecessary selling and buying - thus transaction costs), but I  feel like the pros>cons.
+
+Please criticize.
+
+(Long UPRO/TQQQ/VWO/REET/PGHY/GDX)_END_OF_POST_PYSTOCK_ Bloomberg article anticipates the US stock market could be headed for a lost decade [https://www.bloomberg.com/opinion/articles/2020-10-31/personal-finance-what-if-stocks-don-t-always-go-up-advice-for-young-investors](https://www.bloomberg.com/opinion/articles/2020-10-31/personal-finance-what-if-stocks-don-t-always-go-up-advice-for-young-investors)
+
+This article is definitely concerning and brings up some good points. I don’t know that you can bet on tripling your investment, but I feel safe assuming that it’ll grow considerably given that many people’s current cost basis is based on the fire sale that the COVID recession brought at the beginning. And really the market is doing so bad right now because COVID cases are rising because it’s winter, but once it starts to heat up and COVID cases aren’t spiking the way they currently are I’m sure the market will regain some territory - or at least not be pinned down the way it currently is. And it seems like his assessment was generally a response to the conventional advice that you can guarantee returns by investing in an index fund that follows the S&P 500 or investing in the big tech companies (and there is definitely a concern that they could be harmed by anti-trust suits). But I think it depends on what you’re investing in. 
+
+Like if you’re in airlines they’re directly affected, probably more than any other industry, by COVID restrictions. Their earnings have been shit because of it and once people aren’t afraid to travel I just don’t see how their earnings and then share value don’t go up. If you wanted to hedge against the sort of losses he talks about I would probably sell once they start announcing vaccines coming out because I’d be surprised if the market didn’t drive prices up with their optimism that that means everything is going back to normal. On top of that, when he says that the market in 2012 still wasn’t above its 2000 peak it’s a bit disingenuous because when you look at the S&P over the past 20 years he’s right, but 2000 was a peak (at about 1491), then after a dip, the market went to a high of about 1535 in 2007, then the market crashed in 08 and started recovering and he just picked an arbitrary point in that recovery that proved his point but which became irrelevant the very next year, in 2013, when the market DID exceed 2000 levels and then boomed over the next 7 years to more than double what it was in 2000 or 2006.
+
+Regarding what he said about big tech companies, yeah I would probably stay out of tech. Those companies already have such a high share price that I’ve always been skeptical of jumping in anyway. He also says globalization is in retreat, and I think that’s a bit of a hasty conclusion. I think we’re definitely at a crossroads where we’re trying to determine if we’re going to dive headfirst into a more globalist orientation or retreat and be more isolationist, but I’m skeptical that in the longer term we aren’t going to be more globalist in orientation. But I do think we’re in for a bit of identity seeking as it pertains to whether we’re going to be more globalist or isolationist, because if you recall TPP had pretty steep opposition on both sides of the aisle - but not so much that Obama wasn’t willing to pursue it. And I think the luster of isolationism has probably been tarnished a bit by Trump. Though globalism is really one of those things, just like anti-racism and shit like that, where this election seems to sort of serve as a referendum on it. 
+
+Trump is certainly not a fan of globalism, but Biden seems at least more globally oriented and has at least in some cases shown an inclination towards reviving Obama-era policies that Trump dismantled because Biden was part of the Obama era so his legacy is sorta tied up in that as well, and one of those policies was TPP. As far as workers demanding a fairer split of capitalism, that’s fair. I do anticipate things like wage hikes, but that could also result in people spending more because they have more (i.e. Keynesianism). I also think it’s a fair point about the aging demographics thing. It makes sense that boomers would want to divest themselves of riskier stocks and people just haven’t been having kids as much as they used to, so the working-age population is surely going to feel that bite at some point (though I’m not sure when). However, the US has long been an exception to the rule of shitty population growth rates in the west. In general, we don’t have a ton of kids, but where we have historically differed is that we attract a lot of immigrants so our population grows that way - and Biden has already stated that he’s going to be reversing some of Trump’s immigration policies.
+
+&#x200B;_END_OF_POST_PYSTOCK_ The case for why ARKK ETFs are NOT an exceptional investment. I would like to preface this by first saying I really don't care whether or not you personally invest in ARKK or whatever. If you believe in your investments more power to you and I'm not here to bash anyone's choices there's no guarantees in life.
+
+That said...
+
+ARKK is the concept of an actively managed mutual fund in the format of an ETF. Long term, study after study after study has shown (in the context of long term investing), an overwhelming majority of actively managed funds do not beat the regular stock market index. Furthermore, ARKK's high expense ratio has the potential to cause significant drag on your earnings if ARK fails to deliver on outperforming the market the next few years.
+
+So if you would not buy an actively managed mutual fund that sells itself by "outperforming the market" and "picking a collection of innovative stocks", why buy ARKK? It might seem revolutionary as an ETF. But when you view ARKK in it's mutual fund form, [ADNPX](https://www.morningstar.com/funds/xnas/adnpx/quote), ARKK stops resembling some wonder ETF and starts to more accurately resemble what it really is - an active managed fund that's just attempting to rebrand itself.
+
+The REAL reason why Catherine Wood is a genius is that she has successfully identified and tapped into an new market of investors -  young naive investors that follow hype with limited experience with active funds - and sold them on an old idea with trendy new branding. With her success with ARKK, you're starting to see a lot of other actively managed mutual funds release their own ETF versions to buy into this market as well and compete with ARKK.
+
+The only real way ARKK will prove me wrong and become a legitimate "exceptional" investment is if all of it's other holdings take off like Tesla did. Otherwise, Cathy more or less just got lucky at the right time and place._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ What we found after analyzing Hollysys Automation for more than 6 months As a value investor, one of the things I look out for is a catalyst for price realisation. After all, even if a stock is criminally undervalued, if it does not have something in its future that will cause other people to wake up to its value, it could stay undervalued forever. Today I’m going to talk about a company that has a very clear catalyst which the value, as well as price of the stock, hinges upon. If the catalyst is positive, the upside is enormous, with the stock possibly doubling or tripling almost overnight.
+
+It all started about 6 months ago when I decided to analyse automation. The coming 4th Industrial Revolution will see human-performed tasks being done by robots, and companies that provide these automation services could do very well indeed. After a quick screen, Hollysys Automation Technologies immediately jumped out at me: the company presented itself with spectacular financials characterized by high liquidity; low debt; steadily growing FCF/revenue/net income over the decade; consistent book value; an average ROE of 15% over a decade, ROCE 13%, a stock price trading at a 30-50% discount compared to competitors, and DCF models estimating a value of $30-40 (currently trading about $11). In other words, the dream of any value investor.
+
+I will be the first to admit I don’t have as much knowledge in the automation industry as I’d like – and that’s something I’ve been working on over the past few months. So, after a quick look at their impressive financial statements, our next step was to talk to the IR of the various Hollysys competitors to better understand the competitive environment that Hollysys were operating in, and whether they could preserve their impressive return ratios over the long term.
+
+As a quick overview of the company, Hollysys operates in two segments: industrial automation and railway automation. In industrial, most of the company’s revenue comes from automating fossil fuel energy plants. It would not be unfair to compare it to a defence company or a public contractor, since the Chinese Communist Party controls the state railways and owns a 75% stake in SINOPEC, China's largest and most important oil company. In addition, the company also has a dominant market position in safety systems for nuclear power plants in China, a sector that is growing with a CAGR of 17%, bringing the number of reactors in the country from 16 in 2012 to 56 in 2020. As the only certified provider of nuclear automation services in the country, HOLI has a monopoly in this subsector.
+
+In the railway sector they hold a 30% market share, and they do not expect further increases in market share. Long-term organic revenue growth is likely to be 5%, primarily coming from after-sale services. However, they are actively researching new products such as CBTC (Communications-based train control) in subways, smart systems on highways, etc. If these products gain traction, which they should, then growth will be higher. Also, the company proved to have a great competitive advantage in the high-speed railway field as they are 1 of the 3 approved providers in 300-350km/h segment and 200-250km/h and the largest company in terms of ATP (on board equipment) sets.
+
+In their ‘Smart factories’ subsegment, they provide solutions to accelerate product development cycles for large white goods companies like Haier. They provide integrated data collection products like SCADA (Supervisory Control And Data Acquisition), data utilisation and analysing services to understand the application situations, designing the system architecture, data management and so on, being the largest company in terms of Supervisory Control and Data Acquisition. Another example of this subsegment of industrial automation would be their contract with Diaobignshan where they used to collect data to build a factory virtually and rapidly iterated designs to optimise efficiencies at low cost. They provide after-build services such as combustion optimization, equipment monitoring and maintenance, etc. This segment generates real tangible returns for customers, with higher production efficiencies and lower cost. However, it’s worth noting that some of their revenue in this segment comes from fossil fuel companies as well, so a surge in renewable builds could see revenue dropping even more than it would appear at first glance.
+
+All the segments that Hollysys operates in have been growing impressively for the past few years, at a rate above even the high growth of the general Chinese economy. To fuel their supply-side based growth, fossil fuel plants have been opening across China at an unprecedented rate, while China’s high-speed railway network has gone from virtually non-existent 15 years ago to being 2/3rds of the entire world’s track length. As Chinese wages rise, the pressure on factory owners to automate is also increasing to stave off price competition from South-East Asian competitors.
+
+So far, the situation all looks good from a high-level company view. But when you either zoom out to look at the macro environment, or in to look at the specifics of the business, cracks begin showing.
+
+The situation with the Chinese government is tricky – and not for the reason you might think. Despite the fact that most of HOLI’s revenue comes from state-owned entities, and it’s monopolistic market position also dependent on the government, we do not see the government introducing competition to the market to drive down prices as a big threat. China has applied a protect-and-nurture strategy for domestic companies in every sector you could think of very successfully, creating such behemoths as Tencent and Alibaba. You prevent superior foreign competition from entering the market, and choose a winner for each sector, allowing it to take monopolistic profits to accelerate the rate of innovation and shorten the timeline that it needs to compete with foreign companies. From the past decade, Hollysys is the chosen winner for the sectors that it competes in, and that the threat of increased competition due to the Chinese government is virtually non-existent. Companies like Siemens or ABB still have objectively superior products and will likely continue to do so for the foreseeable future. Until HOLI catches up with them and can compete in a global free market, the handholding from the government will not end.
+
+However, while the Chinese government will not introduce competition to the markets that HOLI competes in, whether it will continue to incentivise those markets is another question entirely. In a recent Chinese government conference, China firmly stated that it would become carbon neutral by 2060 (pay attention: NET carbon emissions will be equal to 0, and not TOTAL emissions, which is quite different). I have no doubt that this will happen – the largest benefit of a single-party state is that these long-term plans can be set in stone and executed upon decades in advance, something which China has been doing since the ways of Deng. And quite obviously, there is consequently a very real threat to the heavily polluting fossil fuel-based power plants that HOLI derives a lot of its revenue from. Banning the construction of new fossil fuel plants is an obvious way to reach this target, but whether China chooses to do this or to find alternative methods of cutting net emissions is less obvious. I would like to remind you that coal consumption, which fell from 2013 to 2017, driven in part by China's willingness to significantly improve air quality, has started to rise again in more recent years as the economy suffered a severe backlash forcing the government to stimulate industrial growth. 
+
+ Although the government has not released some specifics regarding how these emissions will be reduced, it is thought that this was strongly desired to allow the Communist Party to have the flexibility necessary in the short term to support the economic recovery following the pandemic. Renewables cannot as yet compete with fossil fuels in lifetime cost of operation, and building more fossil plants is a tried-and-true method of giving the economy a shot in the arm, something that any economy could do with right now.
+
+At the same time, future constructions of railways are also uncertain. Most of the tracks laid in recent years is economically unviable, with low demand and a poor populace in these tier-3 cities laying a cap on ticket prices. However, the government views high-speed rail as a socially beneficial alternative to coaches and planes for the hundreds of millions of migrant workers that travel between large cities and the country every holiday, and thus heavily subsidises losses and encouraged more construction in the last 5-year plan. Whether continued construction in both railways and fossil fuel power plants will happen is up in the air and something that we will see in the next 5-year plan, due in March 2021.
+
+A natural response to the threat to fossil fuel power generation automation would be to ask whether Hollysys could simply transition to automating the renewable power generation sector. My research indicates that this is not realistic. The various wind turbines, solar panels, dams, etc. they do not require a complex level of automation like that used in a refinery plan. The latter are huge power plants that occupy hundreds of square meters which require automated processes to obtain the greatest result with the least effort.
+
+📷 [https://postimg.cc/JtMhBQRR](https://postimg.cc/JtMhBQRR)
+
+^(image from) ^(https://www.e-education.psu.edu/eme801/node/4701)
+
+While as regards the structures and machines used for renewable energy, they do not require complicate automated processes such as those used in oil and petrochemical plants; the entire process is enclosed within the turbine itself (as far as wind energy is concerned), so that it becomes almost impossible to state that these types of energy require any automation processes. In the image below I have shown you what the inside of a wind turbine looks like, which differs drastically from the previous image of the refinery plant.
+
+📷 [https://postimg.cc/p9K2mm79](https://postimg.cc/p9K2mm79)
+
+^(image from) ^(https://www.energy.gov/eere/wind/inside-wind-turbine)
+
+A field of application, which is very different from the one discussed above, could be to offer automation processes for the companies that produce the different solar panels, wind turbines and so on. This, however, has nothing to do with the automation processes used in oil and petrochemical businesses; here we are dealing with real industrial processes which cannot be connected to the former since they are completely different fields.
+
+The problem is that we are not sure if Hollysys can provide such solutions and even if it is able, we do not know the time needed for this transition. One of Hollysys' strengths was its vast knowledge in the oil industry, which allowed it to keep various competitors away, but this advantage will not be reflected in the renewable sector since they have no knowledge in this field and, and from what I’ve seen, the company has not shown any interest in this sector, neither from the various conference calls held in the past nor from the annual or quarterly reports, which suggests management is either unaware of the threat or incapable of addressing it. The fact that management accounts for some fossil fuel plant automation revenue in ‘smart factories’ suggests the latter, and that they’re trying to make it look less serious than it is.
+
+We are not saying that the company is in danger of failure, since it still has two other revenue streams to rely on, but we will certainly see a decrease in revenues (in 2019, 41% of revenues derive from automation sector, of those 41%, 40% are from oil industries) and a deterioration in the relationship with the Chinese government.
+
+Overall, the conclusion can be drawn that if the coming 5-year plan is unfavourable to Hollysys, the company will face serious setbacks to its short and long-term prospects as the market is pricing in, while a positive 5-year plan that encourages construction of both fossil fuel plants and railways would be hugely accretive to the value of the company. My personal stance is to wait and see what the 5-year plan says – with a small-cap Chinese stock like this, the market is unlikely to immediately react and fully reprice Hollysys on positive news, allowing me a chance to get in after the future is secure even if I miss out some gains. The uncertainty regarding the possible downside to a company is something I hate, although if you have more stomach for risk and think the 5-year plan will be friendly to HOLI, you could jump in now.
+
+If you are positive enough to jump in now you may find interesting that in my positive-scenario-model, I therefore attribute to the automation sector a CAGR of about 5% for the next 10 years, the railway sector a CAGR of 5-6% (assuming continued construction in the next 5-year plan) and attribute to the nuclear sector a CAGR of 12-15% given the enormous progress made in this particular sector in the last 10 years. The final stock price would be something between $25-30 but only if Hollysys starts to be valued with the same multiples of its peers and Chinese government postpones its good intentions to reduce their carbon impact on the rest of the world in order to sustain Chinese’s economy recovery.
+
+Other important facts concerning the company:
+
+&#x200B;
+
+* About 3 months ago the ex-CEO Baiqing Shao was changed, who has      held the role for more than 7 years and was one of the founders of the      company, with a member of the company's directors, Mr Colin Shang. The      reasons for this decision were not entirely transparent, as the company      initially stated that the CEO had left office and remained on good terms      with the company, but in the latest quarterly report the company states      the following: **"Dispute in connection with the ownership of Ace      Lead Profits Limited (" Ace Lead ") may adversely impact us."**      *We were made aware of a shareholder’s dispute regarding ownership of one      of the principal shareholders. In August 2016, Mr. Changli Wang, the then      sole shareholder of Ace Lead, one of our record shareholders, transferred      his single share in Ace Lead to Mr. Baiqing Shao for a nominal      consideration. As of the date hereof, Ace Lead owns 4,144,223 ordinary      shares of our company, representing 6.9% of the outstanding shares of our      company. We were recently notified that Mr. Wang indicated that, as Mr.      Shao had stepped down as the chairman and chief executive officer of our      company since July 2020, he should no longer be entitled to any share in      Ace Lead and he should immediately transfer the share in Ace Lead to one      or more persons designated by Mr. Wang. As of the date of this annual      report, Mr. Shao has not transferred the share in ACE Lead to any      designees of Mr. Wang. We cannot predict the outcome of the dispute. If      Mr. Shao refuses to transfer the share in ACE Lead to a person designated      by Mr. Wang, the dispute could escalate and litigation may ensue between      Mr. Shao and Mr. Wang, and our company may become involved. Any escalation      of this dispute, including potential litigation, may cause us to incur      significant time, resources and cost if we were to become involved.*  
+As easily understood this does not seem a "friendly" decision by the old CEO, moreover with 7% of the shares in circulation he can do much more damage to the company by attending the shareholders' meetings, being one of the shareholders with the highest participation .
+* Many impairments of goodwill. The M&E refers to two companies      they bought, Concord and Bond. They are based in Singapore and Malaysia.      But their business spread in south east Asian and middle east. Before      COVID-19, the macro-economy situation in those areas was not good, and      then COVID-19 brought new challenges. Therefore, their management expects      future lower profit in M&E. They also do not give guidance on the      development of M&E since the company think risk control is the key      focus, rather than revenue growth.
+* When they got asked what they thought about Trump will to delist      Chinese companies from U.S. exchanges they said that they are evaluating      recent issues that may potentially affect their status as a Nasdaq-listed      company and it is prudent to say that they do not exclude that option. So,      no real answer was given about that, which makes me think that they do not      have any plan for the near future.
+* IR is slow to respond to investors. I sent two emails, the first of      which was generally positive and the second follow-up which raised some of      the issues discussed in this article. IR has not responded to the second      for more than a month, which makes me very uncomfortable.
+
+Also, I wanted to give you a feedback on what Hollysys has to say about this matter but investor relator has not replied to my email for more than 1 month, this gives you a clue on how bad their communication with investors is. On the other hand, I have scheduled another call with one of their competitors on 18 November to talk about what can be done for companies like these to keep up with the almost sure transition that China will experience in the following years._END_OF_POST_PYSTOCK_ Seriously worried about oil I started dollar cost averaging into BP and RDS back in early April. This is my first year of investing and one of my first buys was BP/Shell because of the dividends and the March drop. 
+
+I’m not someone from WSB who thinks stocks can only go up and I told myself for a potential 12 months of losses. I was fine with it at the time because I felt I was getting paid 5% in dividends to persevere through the hard times. When the times return to somewhat normality, I’ll have have a great ROI from DCA during the crappy months. 
+
+Well fast forward 6-7 months and my oil position is continuing to drop and it’s continuing to eat away at my new-investor insecurities. BP is now at 25 year lows. I was prepared for losses when I didn’t have any losses, and now I have losses I want to sell-up and hide it under the mattress.
+
+Any words of advice?
+
+Is anyone else invested in BP/RDS?_END_OF_POST_PYSTOCK_ What are examples of "cannot-fail" stocks that ended up crashing and staying down? There are some companies today that, at a glance, might just seem too big to fail (say, google, microsoft, apple, amazon, alibaba, etc). 
+
+This made me wonder, have there been examples in the past of similarly large companies that everyone/most assumed couldn't fail, but ended up crashing down and staying there? I'm not necessarily asking about companies that had comparable assets, but rather about companies that were similarly perceived by many as "too big to fail"._END_OF_POST_PYSTOCK_ Does the price of selling call options indicate how optimistic speculators are about the stock? I'm learning the basics of selling call options. I'm wondering what exactly determines the price. When you see a high or low sell price for a call option, what does it indicate to you? 
+
+To make it easier, I'm offering 3 example stocks below. For purposes of comparison I've set all the following to be the same:
+
+* Same Expiration date: 11/13
+* Similar strike price: around 110% of the current share price. 
+
+**[NIO](https://robinhood.com/stocks/NIO):**
+
+* Current Share Price: $30.74
+* Expiring date: 11/13
+* Strike Price: $33 (110% of current share price)
+* Sell call price: $1.63
+* Sell call price is 5.3% of current share price.
+
+**[Southwest (LUV)](https://robinhood.com/stocks/LUV)**
+
+* Current Share Price: $39.53
+* Expiring date: 11/13
+* Strike Price: $43 (109% of current share price)
+* Sell call price: $0.68
+* Sell call price is 1.7% of current share price.
+
+**[Plug Power (PLUG)](https://robinhood.com/stocks/PLUG)**
+
+* Current Share Price: $14
+* Expiring date: 11/13
+* Strike Price: $15.5 (110% of current share price)
+* Sell call price: $0.87
+* Sell call price is 6.2% of current share price.
+
+What can we determine from this information:
+
+|Company|Sell Call Price as % of Current Share Price|
+:--|:--|
+|NIO|5.3%|
+|South West (LUV)|1.7%|
+|Plug Power (PLUG)|6.2%|
+
+Like can we say investors are 3-3.5x more excited about NIO and PLUG compared to LUV? Are NIO and PLUG similar in terms of their ability to reach the target call price? What insights can we extract here about how the market feels about the stock's prospect for the next 2 weeks?_END_OF_POST_PYSTOCK_ What is the likelihood of SBE - Chargepoint deal falling through? In your opinion what is this likelihood of this dealing falling through?
+
+What would happen to SBE stock were this to happen?
+
+How risky of an investment is it at this time?
+
+Curious to hear thoughts. Would love to have a discussion with people on both sides of the argument + hear a little bit of devil's advocate_END_OF_POST_PYSTOCK_ Which emerging market country to invest for the decade? Given valuations, I think emerging markets (with its growing population) will be a great place to invest. I have several on my list (Indonesia, Vietnam, Nigeria, Brazil, and Argentina). Aside from investing into a broad index as many countries have an array of infrastructure and stable political system, what country would you invest in?_END_OF_POST_PYSTOCK_

@@ -1,0 +1,274 @@
+$FNF DD, what do you think? Hello.
+
+I have been eyeing some value stocks, and FNF is near the top of my list.
+
+They have extremely healthy earnings growth, top tier dividend growth, a healthy (minus covid) 10 year price chart, ROA ROE and ROI are all positive and healthy.
+
+HOWEVER: There has been a large number of insider SELL orders within the past few months, and I see in the most recent cash flow statement that $1,648 MILLION in long term debt has been issued, compared to ZERO every quarter for four quarters before this one.
+
+I wish I could know what the debt was issued for... it seems like a good value play to me._END_OF_POST_PYSTOCK_ Which U.K. stocks are you picking up this week? Sorry if this has already been discussed; I just wondered which U.K. stocks you were picking up this week due to the new lockdown? I’m looking at some hospitality / non-essential stores in particular. It would be interesting to know which you were thinking would drop and be a perfect chance to buy at, long or short hold?_END_OF_POST_PYSTOCK_ I feel like for every piece of common investing advice, there is another common investing advice that directly opposes it. 1. "Time in the market beats timing the market" vs "Valuations matter"
+
+First tip implies that the best time to invest is as early as possible, regardless of how cheap or expensive the market is. Second tip says that valuations will inevitably drag an undervalued market up and an overvalued market down, and implies that one should only invest when valuations are reasonable.
+
+2. "Buy and Hold" vs "Take profits"/"Smart money is selling"
+
+I've been hearing the second one a lot these last two months. Lots of news about insiders selling their shares and asset managers moving to entirely cash. But that does directly oppose the old mantra of buy and hold.
+
+3. "Let your winners run" vs "Don't chase"
+
+One basically says if you have a hot outperforming stock, avoid the temptation to sell it. The other one basically says if you see a hot outperforming stock, avoid the temptation to buy it._END_OF_POST_PYSTOCK_ why is everyone so against active investing and stock picking? i don’t know about all of you but this is all i see over social media; that active investing is bad.
+
+everyone is preaching about chucking your money in an index fund and forgetting about it. i don’t see how this is better carrying a load of underperforming stocks when you can have a basket of your own picks.
+
+whenever i raise my point it’ll either get no answer or someone will point out that “a group of monkeys picked better stocks than the average investor” or something outlandish like that.
+
+if monkeys could do it randomly, why could you not replicate that with a more refined design? the reason they performed so well is that they often picked a bunch of small cap stocks, so why not do the same? i don’t get how the argument that stock picking and active investing is bad.
+
+not to mention the wealth management industry; do you really think it would be alive and this big if it did not work?
+
+all of the investors in these funds are sophisticated investors, so they have been around the block a few times and are by no means stupid. there must be a reason for the industry to be alive still because why would it if it is that easy to chuck 1 mil in an index fund and make your averaged annualised of 10-11% before inflation? 
+
+something with the whole thing just doesn’t sit right with me. at 16 i would love to know how and why people debate this. thank you
+
+TL;DR - Why is everyone so against stock picking and active investing?_END_OF_POST_PYSTOCK_ How is CRSP US Mega Cap Growth Index calculated? Hello,
+
+So I was browsing though some good ETFs, as you do, and I found one called MGK. This ETF tracks [CRSP US Mega Cap Growth Index](https://www.crsp.org/products/investment-products/crsp-us-mega-cap-growth-index). How is it calculated? Why is its growth [better](https://www.etf.com/etfanalytics/etf-comparison/VOO-vs-MGK) than S&P 500?
+
+I know its tech heavy. But what were the calculations that they did which gave the tech companies a bigger percentage?
+
+[Portfolio holdings](https://investor.vanguard.com/etf/profile/portfolio/MGK/portfolio-holdings)_END_OF_POST_PYSTOCK_ question: can dollar AND spy/qqq both fall? if dollar chart is falling if people also start selling off on equities can these both happen? i felt like there was an inverse relationship as obiviously weak dollar -> rising equity. but it seems that a weak dollar + massive sellers = ?? can someone help me out to understand this potential situation_END_OF_POST_PYSTOCK_ What is this Great Reset proposed by WEF and what does it mean for us? You might or might not have heard about "The Great Reset" that WEF people want to implement during this pandemic, seizing it an opportunity to change the world completely.
+
+I thought maybe some people here have delved into it and have researched it in detail.
+
+Is it realistic? Will it really be global?
+
+I just don't see Russia, Eastern Europe and many other countries ever signing up for something like.
+
+Surely there would be protests and opposition to it?
+
+Which investments would be best for such a case?_END_OF_POST_PYSTOCK_ The Investment CAPM What is everybody’s thoughts on the Investment CAPM?
+
+Does it confirm that value and momentum are basically equilibrium phenomena?
+
+Does it conclusively disprove behavioural explanations for both?
+
+Does it finally show that efficient markets are a better representation of reality than behavioural finance?
+
+Interested to here the perspectives..._END_OF_POST_PYSTOCK_ Investing Strategies - Dividend Growth Investing - Advantages/Disadvantages + Breakdown # Introduction
+
+Hello guys, this will be a breakdown for the Dividend Growth strategy. It is important to understand how companies need to be evaluated differently based on the investment philosophy you are pursuing. Now, investing in a dividend growth strategy takes time and patience, depending on your income goal, it can take awhile before a dividend portfolio can fully support enough cash flow to sustain your lifestyle without you needing to rely on a full-time or part-time job. But that is the exciting part, once you have enough income from the dividends you can retire or work a job that you perhaps find more exciting?
+
+# The Strategy:
+
+The dividend growth strategy is focused on building up a portfolio of high quality companies that not only pay out a dividend, but have regularly been increasing the dividend payout. The end goal is to create passive income to live off the increasing dividend payouts. So the focus is placed more on the cash flow for wealth rather than the stock appreciation (appreciation is ofcourse an added bonus).
+
+NOTE: **Dividend yield is not main focus.** A common misconception is that a high dividend yield, is the most important measure, however, a yield that is considerably higher similar stocks in the same industry may indicate not a good dividend but rather a depressed price due to company issues. This price may signal a dividend cut or the elimination of the dividend. Most dividend ETFs will filter out the top percentage of dividends yields for this reason.
+
+The strategy here is on the **dividend growth**. If a company increases their payout overtime it is going to have an insane snowball effect when the dividends are reinvested (kinda like the snowball effect for paying off debt). Dividend growth investing uses the compounding effect of reinvesting dividends into the same investment to increase your future dividend payments. With each reinvestment, your shares grow slightly larger. With slightly more shares, your next dividend payment is sightly larger. With enough time invested in solid companies, the growth effect is amazing. This is why dividend growers are so important, they add more fuel to this compounding effect!
+
+If you really want to see this effect visualized, check out the charts for Warren Buffets wealth. In 2018 alone, Berkshire raked in **$3.8 billion** in dividends – “a sum that will increase in 2019,” Buffett said in the annual letter. The great majority of the stocks in Berkshire's portfolio are dividend stocks. And many of those stock are growing their dividend.
+
+# Disadvantages:
+
+* Dividends are not always guaranteed. In 2020, there we dozens of companies that cut their dividends due to financial pressure. At any moment, companies can hugely decrease their dividend payout or completely get rid of it. **However, there have been many quality companies that have still increased their payouts during this time.**
+* Unless you are holding these stocks in an IRA you will pay taxes on them. Growth stocks typically don’t pay out so there’s no forced withdrawal, so you don’t get hit with taxes, however the trade off is you are now reliant on the appreciation of the stock.
+* When compared to index investing it decreases diversification since you're really only invested into “large cap” stocks. You'll be missing out on the mid-cap and small-cap stocks
+* Some say dividend payouts of the sign of a dying company. For some perhaps this is true, however a strong counter argument is this. If a company is well established and the payout for moving into a new market sector, or a new acquisition wouldn't be favorable, a company can instead payout dividends to entice investors rather than potentially sacrifice company value just in the name of potential growth.
+
+# Advantages:
+
+* Historically dividends have provided 43% of the S&P 500 total return from 1930 - 2017 (according to Blackrock). Dividends provide an ongoing return while waiting for capital appreciation.
+* The snowball effect of dividend growth compounding can provide competitive returns regardless of whether the price of the stock increases in value or not.
+* **Reinvesting dividends during sideways moving markets, bear markets, and corrections, purchase more shares with the dividend while the prices are lower. Later, when prices recover, the return is actually enhanced by the temporary fall in the stock price. Reinvesting dividends and accumulating more shares during corrections and bear markets greatly boosts dividend growth investing returns in the long run. This is a significant advantage of dividend stocks over growth stocks in less than ideal market conditions.**
+* Creating passive income and preserving capital. Like all stocks they are an excellent hedge against inflation.
+
+# Types of Companies to invest into:
+
+Below will be a list of Dividend paying companies that have **increased their dividends yearly**. Often when you are researching these companies you will see them thrown into these categories based on how often they have increased their dividends:
+
+* Challenger: 5+ years
+* Contender: 10-24 years
+* Champion/Aristocrat: 25+ years
+* King: 50+ years
+
+And now the companies (only a few common examples, there are way too many to list):
+
+* AAPL - Apple - Challenger
+* MSFT - Microsoft - Contender
+* JPM - JPMorgan Chase - Challenger
+* VZ - Verizon - Contender
+* JNJ - Johnson and Johnson - King
+* MMM - 3M - King
+* T - AT&T - Champion
+* KO - Coca-Cola - King
+
+And so on, many of these companies are ones we all recognize because they are so well established have have very wide markets. They have incredible staying power for these reasons, often having enough money to expand into new markets by buying up new companies or just allocating free capital to the sectors.
+
+# How to evaluate the companies for this strategy:
+
+Since the focus of this investing is less on capital appreciation and more on the dividend growth we need to evaluate the following factors:
+
+* Dividend payout ratio:
+   * Payout less than 50% of its earnings in the form of dividends is generally considered stable
+   * The company has the potential to raise its earnings over the long term.
+* Free Cash Flow to Equity:
+   * This is simply what is paid out after expenses and debts have been paid. If a company has too much debt it can affect their ability to continue paying out and increasing their dividends.
+* Debt to EBITDA ratio (Earnings before interest depreciation and amortization)
+   * A company with a lower ratio, when compared to similar companies, is more attractive. See AT&T vs Verizon!
+* **High dividend yield are not the focus and can often signal an unsustainable payout! Look for companies in the healthier 3-6% range. (Do research after this ofcourse, this doesn't immediately mean it is healthy)**
+
+There are ofcourse many other factors. Consider the business, does it have a sustainable model (Coca-Cola $ Pepsi)? Is its market shrinking (See oil companies)? Do you like the company and management?? For this type of investing (any type really), you need to know what you are investing into!
+
+# Performance & Final Thoughts:
+
+It depends on what timeframe you are looking at, if say we take from December 1999 - 2017 the S&P 500 Dividend Aristocrats Index outperformed the S&P 500 by 3.37% per year. But if we take other timeframes then the S&P500 is dominant. Beating the S&P500 over the long term is near impossible, but **beating the S&P isn't the goal of this strategy**. This strategy is focused on passive income.
+
+Please supplement this post with your own research. Compare this strategy to general index investing and growth investing. Find what is right for you.
+
+The hope is this post provided insight into this strategy and evaluating dividend paying companies. Each different type of investor can learn from the other, dividend vs index vs growth or otherwise. Anyways, have a good day everyone!
+
+&#x200B;
+
+Edit 1: I did forget to mention ETFs. There are a lot that have many different strategies when it comes to dividends. Some particularly high quality ETFs would be: DGRO, DGRW, SPYD, and NOBL._END_OF_POST_PYSTOCK_ Anyone else tired of hearing about how "overvalued" the stock market is? I don't mean just in terms of the recovery over the last six months... Even pre-COVID, couldn't help but hear about how PE ratios and the Shiller CAPE are near historical highs. But isn't it silly to consider those valuation signals without the context of interest rates? After all, the biggest alternative to equities is bonds. Given that bonds are near historical low yields, isn't it to be expected that stocks be at historical high valuations? The way I see it, [the spread between (stock) earnings yields and bond yields](https://www.yardeni.com/pub/valuationfed.pdf) is substantially higher than it has been in the past, implying that stocks are undervalued.
+
+4% earnings yields (25 P/E ratio) sounds terrible and like the stock market is overvalued... but only compared to the past, not compared to current alternatives (\~1% for risk-free)._END_OF_POST_PYSTOCK_ Dump your rail stock This is my device for you: Get rid of all your rail stock. Reinvest in companies like Tesla, Daimler and Google. Rail is on the way to becoming obsolete (as in there will not be any freight moving by rail whatsoever) because self driving trucks will make trucking cheaper than rail. Companies will have no reason to use rail because not only will it be slower, but it will also be more expensive. As self driving trucks enter service by the middle of the decade, expect bankruptcies of successful companies like Canadian National, Canadian Pacific, Union Pacific, Norfolk Southern, CSXT and Kansas City Southern. Read about it in the link submitted below:
+
+https://ark-invest.com/analyst-research/autonomous-trucks/_END_OF_POST_PYSTOCK_ Is SQ being punished because of Dorsey and Twitter? I noticed huge dip in SQ stock price in recent month. Last week way more than other peers from tech world. I was wondering if it has anything to do with Jack Dorsey  and his troubles with Congress and his Twitter censorship backlash.
+Do you think there is an extra risk investing in his companies at the moment with incoming elections?_END_OF_POST_PYSTOCK_ QYLD - why hasn’t it recovered QYLD YTD performance:
+NAV down 12.4%
+Yield 11.19%
+So YTD return is -0.25%
+
+While QQQ YTD return is 31.49%.
+
+I understand the upside is limited in QYLD since it keeps getting called, but why is its NAV still down so much? 
+
+I don’t see the point of having it in a portfolio, I might as well simply withdraw money from a savings account to achieve same net return._END_OF_POST_PYSTOCK_ Hydrogen Wars’ Pit Europe v. China for $700 Billion Business - Bloomberg article Hydrogen is the new Oil... Europe has so much offshore wind farms, they're now using the excess energy capacity to create hydrogen fuel.  Now China is racing ahead to try and dominate another growing industry...  It could also be that Europe and China no longer want to rely on a dirty fuel that's mainly produced by unstable and despotic regimes.... All while the US is being left behind, while supporting a dying industry.  If Biden wins, start investing in Hydrogen businesses... Gonna look into options tomorrow for the following:
+
+Bloom Energy (NYSE:BE)
+
+FuelCell Energy (NASDAQ:FCEL)
+
+Plug Power (NASDAQ:PLUG)
+
+Ballard Power Systems (NASDAQ:BLDP)
+
+
+[‘Hydrogen Wars’ Pit Europe v. China for $700 Billion Business](https://www.bloomberg.com/news/articles/2020-11-01/-hydrogen-wars-pit-europe-v-china-for-700-billion-business)_END_OF_POST_PYSTOCK_ Where to find stock market financial data? Hey there I'm an investor looking to find data providers that offer records of company financial history in the US and Canadian markets going as far back as 30 years (10 years is fine)
+
+Where do sites like guru focus, yahoo finance get their data from and how can I myself tap into that pool to have a more personalized experience?
+
+Any help would be greatly appreciated!_END_OF_POST_PYSTOCK_ Dunkin' Brands to go private > Inspire Brands Inc will buy Dunkin’ Brands Group Inc for $8.76 billion, the two companies said late on Friday, bringing chains like Arby’s and Dunkin’ Donuts under the same umbrella in one of the largest restaurant deals.
+
+> Inspire Brands, which owns Arby’s, Buffalo Wild Wings and Sonic Drive-In, said its all-cash deal to take the owner of Dunkin’ Donuts and Baskin-Robbins chains private would value it at $106.50 a share. That represents a nearly 20% premium over Dunkin’s last closing share price on Oct. 23, before the New York Times first reported the deal talks.
+
+> Including debt, the deal is valued at about $11.3 billion, the companies said.
+
+https://www.reuters.com/article/innovationNews/idUSKBN27G00D_END_OF_POST_PYSTOCK_ Public company with paying and non-paying shares Is there any public with two kinds of shares, one that pays dividends and the other one doesn’t? 
+
+For example, a company that had an equal amount of common stock and “dividend stock” and that each quarter it distributed 50% of the profits to only those with dividend stock and reinvested the remaining 50%. 
+
+This is possible to do if I’m not wrong, but I can’t think of any case of a publicly-listed company that has that structure (just companies with a class of shares that have more voting rights than another class, like Alphabet)._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ 3M (NYSE: MMM) - A Dividend King - A quick look at a noteworthy portfolio inclusion.  
+
+# Introduction:
+
+3M (way before it was called the Minnesota Mining & Manufacturing) might not be the most iconic corporation, however it is one of the largest in the US, in fact they are one of the few companies actually in the DOW Jones. 3M has been an incredibly innovative company since its humble beginnings, currently it holds over 118,000 patents. They are involved extensively in industry, worker safety, US health care, and consumer goods, producing over 60,000 different products, and operating in over 70 countries.
+
+# So why own the stock?
+
+This is going to come down to your investing preference. If you prefer dividend growth investing, that is, investing into companies that have continuously increased their dividend payout to more quickly compound your dividend reinvestments, then this will definitely be up your alley. If you more prefer growth stocks, well MMM is unfortunately well past its years for growth, especially when compared to the tech companies.
+
+So for investors looking to add this dividend stock, what makes MMM a dividend king? Well...
+
+* It has paid out dividends to its holders for over 100 years
+* It has increased that dividend for 62 consecutive years.
+* The growth rate of that dividend has been 10.99% over the last 5 years alone.
+* The dividend payout ratio is a very healthy 72.95%,
+* Lastly, the current dividend yield is 3.68%, setting its current payout to $5.88 a year per share.
+* Consistent and strong revenue/income and a debt ratio of only 0.46.  
+
+   * COVID ofcourse has impacted their income, however their healthcare involvement has buffered the loss across their other sectors. The ongoing increases do ofcourse present a risk, but that is the same for every stock.
+* Many firms and analysts have marked 3M as undervalued below the \~$180 mark, citing discounted cash flow and margin/return-driven EV/EBITDA (Enterprise Value/Earnings Before Interest, Taxes, Depreciation & Amortization)
+
+# Takeaway/Final Thoughts:
+
+This was just a quick post to get the brain juices going, so please do your research to supplement the brisk points mentioned above.
+
+This post is probs going to come more down to individual investing philosophy, but those comment are always interesting to read so they are more than welcome! Each different type of investor can learn from the other, dividend vs index vs growth or otherwise. Anyways, have a good day everyone!_END_OF_POST_PYSTOCK_ Unpopular opinion time: people under 30 should not invest in vtsax First of all, before voting or commenting, please read the following article - https://content.time.com/time/business/article/0,8599,1982327,00.html
+
+For everyone that is going to ignore the article, here's one quote that helps sum things up
+
+"Question: You are advocating that people in their 20s and early 30s take all their retirement savings and buy stocks on margin. Can you explain why that's not as crazy as it sounds?
+
+Answer: It's not as crazy as it sounds because it helps people better diversify risk across time. It would be really crazy if you only invested in the stock market one year of your life, because that could be a really bad year. That could be 2008. People do have the right intuition — that it's better to spread exposure to the stock market over time. The problem is, having just a few thousand dollars in the market in your 20s doesn't give you very much diversification across time when you have hundreds of thousands or millions of dollars in the stock market in your late 50s and 60s. Another way of saying it is, we believe in stocks for the long run, but most people, when they have lots of stocks, don't have the long run, and when they have the long run, don't have lots of stocks. People seriously underinvest in the market for the first 25 years of their working life."
+
+I think that the default non-thinking reflex on this sub to tell people under 30 to invest in vtsax needs to be challenged
+
+So, what do you all think? Personally, as someone under 30 I'm heavily invested in TQQQ and UPRO (I'd rather have leveraged ETFs than invest on margin, there's a similar effect of increasing market exposure early)_END_OF_POST_PYSTOCK_ Effect of brokerage charges on intraday trading. Hello,
+
+I created a simple model to see the effects of brokerage charges on intraday trading.
+
+My assumption was that the brokerage charges were 0.5% and the initial sum was 100 + 12 (the +12 is because we are assuming that the average trader's account grows by 12%). And we further assume that the average trader buys and sells assets worth their entire funds everyday.
+
+In this model, the average trader will lose all their money in 112 days. Even if we assume that this average intraday trader trades 33% of his fund's worth of money everyday, this will mean they will lose all of it in 300 days or 1 year's worth of working days.
+
+Now if we assume that the brokerage is 0.03%, then this capital will last us for upto 4.5 years! or 13.5 years if they keep divesting and reinvesting 33% everyday.
+
+What do you guys think? Is this in line with any of your observations?_END_OF_POST_PYSTOCK_ How can I invest into “remote work” Covid has changed a lot about businesses and how employees can work. In my opinion, as time goes on more and more companies will allow their employees to work from home. What are some companies that are focused around remote work and would benefit from these changes.  Yes i know im late to this but as a long term investor, i still see alot of opportunity for growth._END_OF_POST_PYSTOCK_ A warning to those who watch financial YouTube and/or hold CNSX:VERY [https://www.youtube.com/watch?v=rkl39ppvTGg&t=83s](https://www.youtube.com/watch?v=rkl39ppvTGg&t=83s)
+
+This is mainly a post for people who watch YouTube for financial analysis. I don't care if you own $VERY. I think it's a pure gamble and if you're okay with that then it's not for me to say what you should/shouldn't do with your money. 
+
+&#x200B;
+
+First, for those watch YouTube videos for analysis, please watch the first 2 minutes of this video and read the email Sven (the YouTube creator) received. 
+
+TLDR for those who don't have 2 minutes:
+
+A organization contacted Sven saying that broker deals with YouTubers and public companies who are looking to get "marketing" for their "business model." Then they listed a bunch of YouTubers and publicly traded companies they have worked with/promoted. Their goal is to get the YouTuber to interview with the CEO or get a "vlog like video" made about the company or a combination of both. 
+
+&#x200B;
+
+I looked through a bunch of videos where the YouTuber is interviewing the CEO of a micro companies. Some don't provide any discourses, some provide a generic >!bullshit !<discourses that doesn't specify that they have received financial benefit(s) to cover that specific company. I guess this is a matter for the regulators to figure out, but a lot of shady things are happening in the backgrounds. Companies have realized they can pay YouTubers get a direct pipeline to retail invertors and create "awareness" about their low volume, low market cap companies. If I were you I would be very hesitant in taking anyone on YouTube seriously. Especially the ones listed in the email.
+
+&#x200B;
+
+Secondly, to the holders of $VERY. Please watch the video.  If you are really bullish on the company, then the way Management is diluting your ownership of the company shouldn't be that concerning. Plus its always good to have different points of view on companies we own.
+
+Although most people are not going to heed this warning. There has never been another time in history where so much information was available to us. It has become increasing harder to sift through all the garbage to find actual analysis.
+
+Good luck to everybody.
+
+&#x200B;
+
+&#x200B;
+
+Disclosure:
+
+I didn't make this video, I don't know Sven, and I don't have a position in the company nor am I going to open one. I just found a few interesting pieces of information I thought I would share._END_OF_POST_PYSTOCK_ Profiting off civil unrest / war Given that the USA is edging itself closer to what could be described as a civil uprising / war. And evil p  
+   
+So i have put on my foil hat here in Europe, and I am ready to invest some more time and money into my portfolio that i have dubbed "Clusterfuck".  
+
+
+What I am looking for are a few more interesting stocks / firms that might see a surge during a crisis in the US. Submit a suggestion with a small explanation on why it could see a spike.   
+
+
+I already invested in a few stocks (a few 1000s) back in May, right after the George Floyd incident.   
+
+
+**Currently invested in.**   
+Vista Outdoor Inc.   
+Costco. -_END_OF_POST_PYSTOCK_

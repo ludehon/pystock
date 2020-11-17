@@ -1,0 +1,236 @@
+SNAP is the next big "social media" stock - here's why - SNAP is no longer a social media company, it's important to think of them as a technology and media company, this will help you see the 5-10 year outlook on this company much more clearly
+
+- 249M DAU's, up 18% YoY, SNAP is growing at an incredible rate for an app that many considered dead. Compare this to twitters 189M DAU's, SNAP is gaining popularity outside of North America (India is becoming a massive market)
+
+- Unlike Twitter or FB, who have aging user-bases, SNAP's userbase is the next generation. Most users are either Gen-z's or Millenials. SNAP has the power to reach 90% of all 13-24 year olds in America.
+
+- With a young user base, and $1 trillion in buying power, advertisers are very attracted to this platform, this is why we have seen average revenue per user consistently increase YoY.
+
+- SNAP is heavily investing in original content. Celebs like Kevin Hart, Conor Mcgregor, Will Smith all make original content for the app. 70% of ALL Gen-z's in the USA were exposed to this content in Q3 alone (insane reach to younger generation)
+
+- On average 30 app opens a day, 4 Billion Snaps created every day
+
+- Augmented Reality: SNAP is leading AR tech, and advertisers are moving towards using AR in their ads, SNAP is the leader in interactive/AR ads. (Nike, Gucci, Sephora, MLB, etc)
+
+- Creator Community: SNAP just introduced snapchat Minis to the platform, software developers can make mini apps that live inside of Snapchat - this will attract a lot of developers as it is a way for them to make money. (Headspace has already made a meditation mini-app for Snapchat. Zynga is already developing mini-games for snapchat)
+
+Things to watch out for: 
+- SNAP has had history of burning cash, things are looking better as EPS is climbing, so we are on the right track. Just be aware of this.
+
+TLDR:
+
+SNAP has the largest influence on the next generation of the world (Millenials & Gen-z), if you want to capitalize on this generation, then they are the company to look out for.
+
+I made a YouTube video on this topic, going more in-depth, if you prefer to watch instead:
+
+https://www.youtube.com/watch?v=umA8vNNG7xQ&ab_channel=KyleDulay_END_OF_POST_PYSTOCK_ Question about Free Ride Trade Violation Question for you guys/gals, it's slightly more complex than googling I think-
+
+My account had a restriction on it where only settled cash could be used to purchase securities. Typically in this scenario, any purchases I attempted that would require more $ than what was settled in the account at the time would be denied, and I would get an email about it explaining insufficient settled funds. However last week I had a trade go through (purchase) which I subsequently sold about 80% of it the next day. The day after that sale, both the purchase and sale were reversed and the realized gains that I had made from the sale were effectively taken out of my account, due to the explanation of insufficient settled funds for the purchase (which would have normally been denied in that scenario but for some reason went through).
+
+Is this legal or typical in this situation? It seems like the bank made an error by allowing the trade to go through in the first place. Was the violation on my part at the time of the purchase of the new security, or just when I tried to sell it? If it's the later, I feel like the sale should have been denied and the stock returned back to me. Any thoughts on the matter are appreciated._END_OF_POST_PYSTOCK_ SNAP price alert Snapchat is currently trading at a daily RSI of 92. Going off that, this is a good time to start entering a short position on SNAP for a quick swing trade. If you are currently holding SNAP, right now is a good time to lock in some profits. The ROI should be at least 10% based on trading patterns of similar stocks that made such huge jumps in a short period of time. A good exit point would be when the daily RSI drops to around 65. For the traders out there with higher risk tolerance you can start buying some short period put options. Just remember to take a position with which you are comfortable and have good risk management. Happy trading!_END_OF_POST_PYSTOCK_ Tesla NHTSA letter over suspension *“Due to the opinion of SAMR/DPAC that the topic required a recall in the China market, Tesla was left with the choice of either voluntarily recalling the subject vehicles or carrying a heavy burden through the Chinese administrative process. While Tesla disagrees with the opinion of SAMR/DPAC, the Company has decided not to dispute a recall for the China market only.”*
+
+"Tesla has also not determined the existence of an unreasonable risk to motor vehicle safety. Theoccurrence of such failures in China (approx. 0.1%) and elsewhere (less than 0.05%) remainsexceedingly rare and if a failure does occur, it is immediately apparent to the driver. For the FrontSuspension Aft Link, a full separation typically occurs at low speeds and high steer angles, most oftenwhen the vehicle is in reverse. For the Rear Suspension Upper Link, the vehicle remains controllable afterthe part has completely separated. Finally, Tesla is not aware of any crashes, injuries or deaths, or firesrelated to this issue."
+
+[https://www.scribd.com/document/481323122/Tesla-NHTSA-letter-over-suspension](https://www.scribd.com/document/481323122/Tesla-NHTSA-letter-over-suspension)_END_OF_POST_PYSTOCK_ 1MDB Scandal question Why would a countries economic development fund issue bonds to borrow money in the first place? Isn’t the point of the fund to collect taxes from locals and finance development projects with that tax revenue?
+
+I never understood this part of the story and I’m wondering if anyone could explain to me why that would be perceived as normal behavior to leverage up a tax financed investment fund.
+
+Thanks_END_OF_POST_PYSTOCK_ Question reg. Buying/selling stocks within the same tax year So I've been buying and selling random stocks like tesla, amd, apple ect. I usually aim for a 10% increase before I sell but is typically done sometimes the same month or 2/3 months but still in the same tax year. Is it worth doing this or is the capital gain tax make it a waste of time? I've made a decent profit from my initial investment but thats not considering the tax im gonna have to pay after this year. Any advice would be much appreciated._END_OF_POST_PYSTOCK_ Are there any studies of the performance of investors who bought and held stocks for 10+ years vs the market? The average retail investor has a ROI of 2% vs the S&P 500’s return of 9.8%. 
+
+But this obviously includes people who make a ton of emotional trades. For example people who doubt their choice and liquidate everything when it underperforms in the short term. People who try to time the market. People who sell solid  innovative companies too early to “lock in gains”. 
+
+And then we’re comparing this to a theoretical person who buys the entire market and never sells. 
+
+But what about comparing people who buy and hold their top 5-10 individual stocks and never sell? 
+
+So far I tried backtesting this with various blue chip stocks like McDonald’s, Costco, Apple, BRK, google, j&j, WM, GE, Intel and so forth. For 10+ years and almost all of them outperformed the market. 
+
+I even tried getting rid of the obvious massive tech winners and just relied on “boomer” stocks like McDonald’s, coca-cola, Costco j&j and GE from 2010-2020 and it just very slightly underperformed the market with 11.71 CAGR vs 12.97 CAGR of the S&P. 
+
+But if you do a longer time period of 15+ years the boomer portfolio actually outperformed the market. 
+
+Every time I see studies promoting index funds it always compares the emotional retail investor vs the market. Or the fund managers who aren’t allowed to take risk or have to show quarterly results vs the market. 
+
+But I think a more fair comparison are retail investors who also buy, hold and never sell vs the market and fund managers with a long term strategy 10+ years such as the ARK ETFs vs the market._END_OF_POST_PYSTOCK_ Long calls before an election? This is NOT a political post, I just want to know what everyones plans with long term options are heading into these next few weeks? Should I wait to get into anything long term, or should I just go for it now? I'm looking April calls on Target right now, but not sure if it's the right time._END_OF_POST_PYSTOCK_ SaaS metrics and valuation Looking for a good resource on the most important SaaS metrics to understand and track, and also on valuation when it comes to SaaS companies specifically. Is it all about the Sales multiples in the early days as profits are reinvested into future growth?_END_OF_POST_PYSTOCK_ Biotech BCLI is a risky but cheap BCLI keeps making great hiring moves and partnerships as the big reveal of Phase 3 results approaches. Stock dived 40% earlier this week for no reason that could be found in the news cycle. The most common theory for the dip is a bear raid and that hypothesis was somewhat validated when in overnight markets somebody bought 55 million dollars worth of stock. Since then it has been creeping up.
+
+https://finance.yahoo.com/news/bcli-manufacturing-agreement-catalent-recent-093000838.html
+
+Excerpts:
+
+>On October 22, 2020, BrainStorm Cell Therapeutics, Inc. (NASDAQ:BCLI) announced an agreement with Catalent, Inc. (CTLT) for the manufacture of NurOwn®, which is currently being evaluated in a Phase 3 clinical trial in patients with amyotrophic lateral sclerosis (ALS). The agreement calls for Catalent to produce cGMP clinical supply of NurOwn at its new 32,000 square foot cell therapy manufacturing facility in Houston, TX. Upon FDA approval of NurOwn, we anticipate the companies extending the agreement to include production of commercial supplies of NurOwn from the same facility.
+
+
+>This is an exciting development for the company as we anticipate patient demand to be very high should the Phase 3 clinical trial be successful and NurOwn is approved by the FDA. Thus, having a high-quality manufacturing partnership in place shows that BrainStorm is serious about meeting that demand and not letting access to therapy be an issue for patients.
+
+
+
+>Stock Sell Off Unwarranted
+
+>Following release of the 3Q20 financial results, BrainStorm’s stock has decreased by approximately 40% for no discernible reason. During the 3Q20 conference call the company reaffirmed that results for the Phase 3 ALS trial will be available by the end of November 2020 and we know of no change to that schedule over the past week. While it’s not unusual for stocks to be highly volatile ahead of binary data readouts, which is how we view the Phase 3 ALS results, we have heard concern from some investors that the recent price drop represented a possible unblinding of the data. However, this is not correct, the study remains blinded, and the schedule for releasing the results remains the same. We believe investors who understand the risk of the upcoming data readout could use the recent sell-off as a buying opportunity.
+
+>Conclusion
+
+>The manufacturing agreement with Catalent is great news for the company and patients, as it should alleviate what is likely to be significant demand for NurOwn upon approval. The next expected news from the company is the topline data release for the Phase 3 ALS trial, with those results expected before the end of November 2020. With no changes to our model our valuation remains at $33 per share as we anxiously await the results of the Phase 3 ALS trial._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ 'PayPal in Talks to Buy Crypto Firms Including BitGo', Paypal Seem to be going deeper on Crypto than first thought. https://www.bloomberg.com/news/articles/2020-10-22/paypal-said-to-be-in-talks-to-buy-crypto-firms-including-bitgo
+
+PayPal Holdings Inc. is exploring acquisitions of cryptocurrency companies including Bitcoin custodian BitGo Inc., according to people familiar with the matter, a move that would expand its embrace of digital coins.
+
+PayPal has been holding talks with BitGo, a company that helps investors store Bitcoin securely, and could reach a deal within weeks, the people said, asking not to be identified because the matter is private. Talks could still fall apart and PayPal could opt to buy other targets, the people added.
+
+It couldn’t be learned how much PayPal would pay for BitGo if it goes ahead with the deal. BitGo raised $58.5 million in 2018 at a $170 million valuation, according to PitchBook.
+
+Representatives for BitGo and PayPal declined to comment.
+
+Palo Alto, California-based BitGo was founded in 2013 by Chief Executive Officer Mike Belshe. It offers digital wallets that require multiple signatures for transactions, as well as offline vaults for storing Bitcoin and rival currencies. It was one of the first companies in the space to focus on institutional investors, according to its website.
+
+The company applied in August to New York regulators to become an independent, regulated qualified custodian under New York State Banking Law, a press release showed. Custodians like BitCoin are responsible for safekeeping digital assets using secure storage.
+
+PayPal announced on Wednesday that its customers can buy, sell and hold cryptocurrencies including Bitcoin, Ether, Bitcoin Cash and Litecoin from digital wallets, as well as use the virtual money to shop at the 26 million merchants on its network. The announcement led Bitcoin to surge past $13,000 for the first time since July 2019.
+
+PayPal said it would partner with BitGo competitor Paxos Trust Company, a regulated provider of cryptocurrency products and services for its new service.
+
+BitGo is backed by investors including Goldman Sachs Group Inc., Craft Ventures, Digital Currency Group, DRW, Galaxy Digital Ventures, Redpoint Ventures, Valor Equity Partners and Founders Fund._END_OF_POST_PYSTOCK_ Future Of Oil:The Possibilities Of The Inverese Of Public Perception Is it not entirely in the realm of possibilities that we do not find an effective substitute for the advantages of oil. That oil becomes more and more valuable as time goes on. As stockpiles dwindle, populations increases, and standards of living increase worldwide. 
+
+We all have this faith, this faith that a new technology or goverment megaproject will bring us into a golden age of alternative fuels. I have some food for though.
+
+Do you remember how much influence and pressure the tobacco companies had on public policy? 
+
+Tobacco is worth ~800 billion.
+Oil is worth ~81 trillion 
+
+You don't have to image what kind of power oil has. Between 150K/1M people have been shot, burnt and vaporized in Iraq. A war of accepted oil interests.
+
+This was not some desperate attempt by the oil companies to stay alive, it was just a small acquisition of power. Imagine what they are capable of if they were truly in any danger.
+
+I think the rumors of oils demise have been greatly exaggerated._END_OF_POST_PYSTOCK_ Germany‘s reputation as business and investment location among US companies keeps rising A friend just sent me a link to an interview with the president of the American Chamber of Commerce in Germany. Pretty interesting to hear how US companies view the whole countries‘ management during the corona crisis and why they keep investing. 
+https://youtu.be/P1k2hxYtbIM_END_OF_POST_PYSTOCK_ Southwest Earnings: Liquid And Well-Managed  
+
+* Available seat mile YOY decline of 33% vs. Delta's 63% and United's 70%
+* Load factor drop of 39 percentage points vs. Delta's 47 and United's 38
+* Passenger yield decrease of 23% vs. Delta's 2% and United's 4%
+
+Stock gains 6%.
+
+&#x200B;
+
+[Source](https://seekingalpha.com/article/4380848-southwest-earnings-liquid-and-well-managed)_END_OF_POST_PYSTOCK_ Is TLT a good long term(lifetime) investment and can someone explain it like I'm 5? So correct me if I'm wrong, but US Government Bonds are a pretty good investment if you hold the idea that Uncle Sam will not default on his debt.
+
+As for TLT, from my research so far, I read about how the price of TLT has a negative correlation with interest rates.
+
+Currently, rates are low and  I read JPow said he doesn't plan on rasing rates for two years. So its a good time to buy, correct?
+
+However, if/when The Fed rasies rates, should you still hold or sell?
+
+What happens if/when The Fed decides to set negative rates?
+
+Thanks in advance_END_OF_POST_PYSTOCK_ Gilead Sciences shares are trading higher after the company announced the FDA approved remdesivir for the treatment of COVID-19. [KuberSpeaks powered by Benzinga ](https://kuberspeaks.com/newsdetail-18024551)
+
+https://m.benzinga.com/article/18024797
+
+Post this news GILD is up 7% after hours
+Earnings for Q3 is on October 28th.
+Is this a good time to get in and buy options
+Is the recommendation to take profits or invest for long as their profits will grow at least for next 6-12 months. Over $3000 for one dosage of Remdesvir
+Anyone has any idea how many dosages would have been sold in last 3 months and in future
+1 Millions will amount to 1 Billion worth of Revenue
+
+Any comments will be appreciated_END_OF_POST_PYSTOCK_ Added return from lending securities in your portfolio?  Hi!
+
+I'm trying to quantify how much added return can be generated by loaning out securities. I know some securities are harder to borrow so have higher rates but am wondering if there are any studies that you know of that have been done at the index level? Say SP500 returns that could be made if you lent out all securities?
+
+&#x200B;
+
+Thank you_END_OF_POST_PYSTOCK_ Is there a way to get alerts for insider buying as soon as they become public information? I've found some interesting stocks by screening for insider purchasing. 
+
+&#x200B;
+
+Problem is, most of these purchases were made a few months ago, and the stocks significantly ran up in price after insider buying.
+
+&#x200B;
+
+Does anyone know a way to get alerts for insider buying as soon as they become public information?_END_OF_POST_PYSTOCK_ Financial planners and political bias Not a political post, but one about bias.
+
+I went with my Mom to a meeting with her Financial Planner at a well-regarded institution. My Mom uses this advisor for all sorts of things like estate planning, income management, insurance, tying up my Dad's estate, and so on, so I think the services are worth the fee for her. He's made her consistent money.
+
+Anyhoo, we got to talking about upheavals in the next month or so and the FP was not worried at all. In fact, he is pretty convinced that a Covid-19 vaccine is coming out in the next month or so. Now, outside of politics, based on everything I have read and the doctors I have spoken with, this is just not going to happen. 
+
+The FP also made other statements about the stimulus that, again, run contrary to everything I've read. To gloss, he's beyond hopeful for a stimulus package getting through before the next Presidential term and is in no way anxious about the fall-out from a stalled deal between the House/The White House or any other bullshit politicking from the Senate.
+
+I understand that probably a lot of people in this industry are conservative. I also know I probably don't want to talk politics with my doctor, much less my barber. I also understand that you're not supposed to change your holdings based on how the wind blows and that it's nigh impossible to time the market. I am a liberal, yes, but I have not been opposed to holding energy or gun stocks in the past. The goal is, as always, to make money.
+
+But this got me curious: is there any data or are there any studies/articles about the political leanings of financial advisors and how they impact client portfolios/holdings?
+
+Could it ever become a self-fulfilling prophecy? Could people with firm political convictions not know how to make money when the other party is in control of the govt? As a bad example... are there people who are just holding out on oil during a liberal president and getting frustrated about it, instead of just investing in greener tech opportunities?
+
+I know there are contradictions in party-mission and performance. I know gun sales went through the roof during Obama. But I'm just wondering... is there any data that discuses whether political philosophy affects investing philosophy, which then affects performance, which then confirms political philosophy?_END_OF_POST_PYSTOCK_ CRISPR: The four public companies EDIT, NTLA, CRSP and BEAM With the recent Nobel Prize in chemistry being awarded to the pioneers in the field I thought it could be interesting write a small updated article for those who never heard of it and why it is such a huge opportunity.
+
+[https://abcnews.go.com/Technology/wireStory/panel-announce-2020-nobel-prize-chemistry-73466890](https://abcnews.go.com/Technology/wireStory/panel-announce-2020-nobel-prize-chemistry-73466890)
+
+What is CRISPR, how does it work, who does what?
+
+[https://www.youtube.com/watch?v=jAhjPd4uNFY](https://www.youtube.com/watch?v=jAhjPd4uNFY) (Video recommended)
+
+[https://en.wikipedia.org/wiki/CRISPR](https://en.wikipedia.org/wiki/CRISPR)
+
+Basically every living organism is comprised of a DNA code that determines its layout based on 4 'letters' (amino acids ATCG). CRISPR related tech allows you to change, alter or delete certain parts of that code with relative ease. Hopefully you can imagine the consequences of this little fact, being able to be an architect of life itself. If you can't don't worry others have already done it for you.
+
+&#x200B;
+
+**Intellia Therapeutics** pipeline:
+
+[https://www.intelliatx.com/pipeline-2/](https://www.intelliatx.com/pipeline-2/)
+
+*Recent 52week high:*
+
+[https://www.reddit.com/r/IntelliaTherapeutics/comments/j869f2/ntla\_52\_week\_high\_after\_nobel\_prize\_recognition/](https://www.reddit.com/r/IntelliaTherapeutics/comments/j869f2/ntla_52_week_high_after_nobel_prize_recognition/)
+
+&#x200B;
+
+**CRISPR Therapeutics** pipeline:
+
+[http://www.crisprtx.com/programs/pipeline](http://www.crisprtx.com/programs/pipeline)
+
+*Recent ATH:*
+
+[https://www.reddit.com/r/CrisprTherapeutics/comments/jcopnr/new\_ath\_for\_crsp/](https://www.reddit.com/r/CrisprTherapeutics/comments/jcopnr/new_ath_for_crsp/)
+
+&#x200B;
+
+**Editas Medicine** pipeline:
+
+[https://www.editasmedicine.com/gene-editing-pipeline/](https://www.editasmedicine.com/gene-editing-pipeline/)
+
+*52 week high:*
+
+[https://www.reddit.com/r/EditasMedicine/comments/ep3p8i/edit\_reaches\_52\_week\_high/](https://www.reddit.com/r/EditasMedicine/comments/ep3p8i/edit_reaches_52_week_high/)
+
+&#x200B;
+
+**Beam therapeutics** pipeline:
+
+[https://beamtx.com/our-portfolio/](https://beamtx.com/our-portfolio/)
+
+New kid on the block, IPO'd this year their main approach is using base editing
+
+[https://www.youtube.com/watch?v=xzlToB\_0dNk](https://www.youtube.com/watch?v=xzlToB_0dNk) (Video recommended)
+
+*Today's ATH:*
+
+[https://www.reddit.com/r/BeamTherapeutics/](https://www.reddit.com/r/BeamTherapeutics/)
+
+&#x200B;
+
+In the end which one should you buy, who holds the most promise? Who will win the patent battle? Which method is superior? I've been following the tech for 7 years and I believe all of them will be winners in the end. I can't predict who will win the patent battle, that's why I advice, if you are willing to invest in this sphere to buy all four of them. I'm heavy on EDIT, NTLA & BEAM but that's just me. gl_END_OF_POST_PYSTOCK_

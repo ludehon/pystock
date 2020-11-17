@@ -1,0 +1,491 @@
+DoorDash S-1 https://www.sec.gov/Archives/edgar/data/1792789/000119312520292381/d752207ds1.htm
+
+17% CP in 2018
+50% CP in 2020
+
+They make +8% margin on customers' 3rd year on platform
+
+"In 2019 and during the nine months ended September 30, 2020, we generated revenue of $885 million and $1.9 billion, respectively. In the same periods, we had gross profit of $335 million and $944 million, respectively, and $(200) million and $433 million, respectively, in Contribution Profit (Loss)"_END_OF_POST_PYSTOCK_ Why does BJ’s Wholesale trade at a much lower multiple than Costco? Title pretty much sums it up. Looking at LTM data, Costco trades at 22x EV/EBITDA while BJ’s trades at 10x. Why is that? Is it just because Costco’s size?
+
+BJ’s revenue has been soaring ever since Covid began and pretty much matches Costco’s QoQ growth. I think there is more opportunity as we head into winter and possible second wave. Looking at a possible investment before year end.
+
+
+Appreciate any insight!
+
+Thanks_END_OF_POST_PYSTOCK_ Etrade securities lending I was poking around etrade today and I saw that my accounts are now eligible for securities lending. Sounds awesome - would love to offer up my long term by and hold stocks for some incremental income. I'm curious if anyone has signed up for this before or if anyone has been able to quantify what the actual % benefit is? Would love to hear any amateur securities lending insight_END_OF_POST_PYSTOCK_ Sell Nio next week? (Noob with few positions) Sorry but I'm a noob to investing so pls enlighten me.
+
+I have 20 shares at $41 so would it be a good idea to make little gains when earnings come out next week if it hits $50+?
+
+I will most likely hold long term but I just want advice on how viable of a strategy it is to make profit like this._END_OF_POST_PYSTOCK_ S&P 500 jumps more than 1% to a record close https://www.cnbc.com/2020/11/12/stock-market-futures-open-to-close-news.html
+
+U.S. stocks rose on Friday as investors bet again on stocks that would benefit from a potentially effective vaccine and economic recovery next year.
+
+The Dow Jones Industrial Average traded higher by 452 points, or 1.6%. The S&P 500 gained 1.5%, while the techy-heavy Nasdaq Composite rose 0.8%. The Russell 2000, which tracks small-cap stocks, jumped more than 2% to an intraday record, and was on pace for its first all-time closing high since August 2018.
+
+Shares of Disney gained 2%. Shares of Carnival Corp., United Airlines and Boeing all rose, capping big gains for the week. At the sector level, energy and industrials rose 3.9% and 1.9%, respectively, to lead the S&P 500 higher. Financials and materials were also up more than 1%.
+
+“This week’s positive vaccine news is a game-changer in our view, as it allows the market to look through the recent surge in COVID-19 cases to the impending end of the pandemic and broader reopening of the economy,” wrote Marko Kolanovic, JPMorgan’s head of macro quantitative and derivatives strategy, who was among the first to call the market’s turn in March.
+
+The Dow gained 4% for the week after Pfizer’s news on Monday that the vaccine it is developing with BioNTech was more than 90% effective in a trial. This caused a rotation into the cyclical stocks that would benefit from an economic comeback next year. Investors dumped technology shares which have held up during the pandemic._END_OF_POST_PYSTOCK_ beaten down stocks most likely to survive the pandemic? Hi all, what are some beaten down stocks (At a fraction of their price 1 year ago) that are likely to survive the pandemic? i'm looking for companies with balance sheets strong enough to survive another year (or even 2 more years) of intermittent lockdown, social distancing etc. 
+
+thanks!_END_OF_POST_PYSTOCK_ NVDA: Impact of Amazon moving away from nVidia chips to custom ASICs? In a [blog post for Amazon AWS](https://aws.amazon.com/blogs/aws/majority-of-alexa-now-running-on-faster-more-cost-effective-amazon-ec2-inf1-instances/) yesterday, it seems Amazon has been developing their own ASICs (AWS Inferentia) to better power Alexa and their AI infrastructure, and the results seem pretty great - " resulted in 25% lower end-to-end latency, and 30% lower cost compared to GPU-based instances for Alexa’s text-to-speech workloads."
+
+Since they're currently using NVIDIA GPUs to power this part of their business, what do you think the long term impact would be for NVIDIA? 
+
+I suspect since Amazon's Alexa / AI side of the business will continue to grow, cutting NVIDIA out of the picture would be a significant blow to them, and a boon for Amazon. But maybe this could have also been one of the reasons NVIDIA sought to buy Arm a couple months ago?_END_OF_POST_PYSTOCK_ Can someone help explain hedged vs unhedged gold ETFs? I have a question about gold ETFs I am considering adding to my portfolio (Canada).
+
+There are two funds, CGL and CGL.C. The first is hedged against changes in the value of $CAD, the second is not. Can someone explain how this differs? As far as I can tell, the unhedged doesn't compensate for changes in the underlying currency. But can someone explain why a fund that DOES account for changes in the value of the currency is desirable? 
+
+Eg. I buy CGL or CGL.C as a hedge against inflation. If dollar CAD inflation takes off, wouldn't I want the one that isn't compensating for the change in the dollar?
+
+Sorry if this is a rookie question, but I've never traded any ETFs before. Thanks :)_END_OF_POST_PYSTOCK_ Mohnish Pabrai's Dalal Street LLC 13F holdings for quarter ending 30 September 2020  Mohnish Pabrai's Dalal Street LLC has submitted its list of holdings to the SEC for Q3 ending 30 September, which can be seen below:
+
+[https://www.sec.gov/Archives/edgar/data/1549575/000154957520000012/xslForm13F\_X01/infotable.xml](https://www.sec.gov/Archives/edgar/data/1549575/000154957520000012/xslForm13F_X01/infotable.xml)
+
+**Summary:**
+
+* The fund reported 2 stocks in the 13F
+* Sold all holdings of Fiat Chrysler Automobiles N.V.
+* Increased his holdings of Micron Technology, Inc. by <1%
+* Started a new position in Seritage Growth Properties by taking an 8% stake_END_OF_POST_PYSTOCK_ Annual Shareholder Letters Hi all, 
+
+I'm curious how many of you read shareholder letters and if so what do you find the most important piece of information that is included? 
+
+I recently have been reading various letters from random companies and I find it fascinating how each company progress over the years._END_OF_POST_PYSTOCK_ Why are TransUnion (TRU) and Experian (EXPGY) so slept on? Look at the 5 year charts on these. Both of these credit bureaus have wildly outperformed the market consistently. Experian’s chart is especially amazing, like nothing can touch it. Why don’t people talk about these more? I didn’t even know they were publicly traded until today. Am I missing something? Seems like a great place to stick some money allocated to individual stocks._END_OF_POST_PYSTOCK_ Long term investing - with margin, thoughts? Margin is something we normally see in Forex, like 50:1 margin trades. I was thinking though, and wondering, why we don't see it in stock investments? Not that big of a margin though obviously. Say I wanted to buy Amazon at, to make things easier, 2000 a share. What if I used a 2:1 margin, and that way, was able to buy twice as many shares and make twice as much over the long run. Isn't it safe to assume that Amazon ( or any other big fast growing company) won't suffer a 50% drop? Is there something that I'm missing here?_END_OF_POST_PYSTOCK_ Guessing this article that went out has something to do with NIO going down 2 hours ago https://m.benzinga.com/article/18361189?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+benzinga%2Ftrading-ideas+%28Channels+-+Trading+Ideas%29
+
+It was climbing and dropped dramatically. What’s your thoughts? Has it peaked? 
+
+XPEV took a hit but after yesterday I guess that was expected
+
+Edit: this article went out on Revolut news_END_OF_POST_PYSTOCK_ What is a follow on public offering.... of shares  
+
+I have some call options expiring in december and it just dropped 8% today...
+
+[https://seekingalpha.com/news/3635987-bigcommerce-prices-follow-on-offering-68](https://seekingalpha.com/news/3635987-bigcommerce-prices-follow-on-offering-68)
+
+It seems they are running this thing:
+
+BigCommerce Holdings (NASDAQ:[BIGC](https://seekingalpha.com/symbol/BIGC?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link)) has [priced](https://seekingalpha.com/pr/18084904-bigcommerce-announces-pricing-of-follow-on-public-offering?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link) follow-on public offering of 1M shares of its Series 1 common stock at $68.00/share
+
+What does this even mean, a follow on public earning and why is it priced so low and why would they do that thx._END_OF_POST_PYSTOCK_ Tweedy, Browne 13F for quarter ending 30 September  Tweedy, Browne have submitted their list of holdings to the SEC for Q3 ending 30 September, which can be seen below:
+
+[https://www.sec.gov/Archives/edgar/data/732905/000095012320011657/xslForm13F\_X01/0000950123-20-011657-1817.xml](https://www.sec.gov/Archives/edgar/data/732905/000095012320011657/xslForm13F_X01/0000950123-20-011657-1817.xml)
+
+Their top 5 holdings by percentage of portfolio are:
+
+1. Berkshire Hathaway Class A
+2. Johnson & Johnson
+3. Cisco Systems
+4. Alphabet Class A
+5. Baidu
+
+They reduced their holdings in all five by less than 1% over the last quarter.
+
+The biggest reduction in their portfolio is in these 5 stocks:
+
+1. Eastfield Res Ltd - Sold all
+2. Phillips 66 - 80% reduction
+3. Unilever PLC ADR - 49% reduction
+4. ConocoPhillips (Phillips Petroleum) - 40% reduction
+5. Baxter International - 11% reduction_END_OF_POST_PYSTOCK_ Dump stocks before second lockdown - or ride it through? It feels like a second lockdown is coming to the US soon. COVID cases are spiking and holiday travel + shopping + gatherings will no doubt make this get worse fast.
+
+Strategically, is it best to take profits from the last few months and get out of the market now before it sinks? Or... just ride it out, buying along the way?_END_OF_POST_PYSTOCK_ First Quarter Results: 3 months into the /r/investing underrated stock survey and overall you're up 10-11% Building on a previous post ([http://redd.it/i2thge/](http://redd.it/i2thge/)) asking the community to pick underrated stocks, I've aggregated the results after one quarter has passed.  See below for takeaways after \~3 months.
+
+Note: you can view a visual version here: [https://i.imgur.com/sRrYmmy.png](https://i.imgur.com/sRrYmmy.png)
+
+Key takeaways:
+
+* Overall average return of 9.9%, with an equal weighted return of 11%. If you picked a stock from this list at random, you would have a 44% chance of a return greater than 10%
+* Highest returning pick: Nio Inc (NIO) at 260% flagged by /u/Carrera_GT, /u/makesalotofmoney, /u/Charlie_Brown364
+* If you invested in the top 5 most upvoted stocks (NET, CRSP, STNE, NVDA, NOK), you would have seen a return of 12.7%
+* If you invested in the top 5 most controversial stocks (TSLA, WD, AMD, LMND, UBER), you would have seen a return of 18.6%
+* If you had invested in the stocks with greater than 10% return in the first 30 days, your total return would be 27.4%
+
+
+|**Symbol**|**Company**|**Increase**|**Provided by**|
+|:-|:-|:-|:-|
+|**NIO**|Nio Inc - ADR|260%|/u/makesalotofmoney, /u/Carrera_GT, /u/Charlie Brown364|
+|**ALNOV**|Novacyt SA|174%|/u/Snoopmatt|
+|**GME**|GameStop Corp.|168%|/u/EmployerOfTheMonth|
+|**PEIX**|Pacific Ethanol Inc|109%|/u/adamtejot|
+|**PLUG**|Plug Power Inc|108%|/u/lukwas_|
+|**TUP**|Tupperware Brands Corporation|100%|/u/Scumbaggedfriends|
+|**DQ**|Daqo New Energy Corp|74%|/u/stonk_daddy|
+|**TA**|Travelcenters of America Inc|73%|/u/jk_tilt|
+|**INSP**|Inspire Medical Systems Inc|72%|/u/JPINFV2|
+|**PINS**|Pinterest Inc|72%|/u/EthanPhan|
+|**CDLX**|Cardlytics Inc|67%|/u/whossayn, /u/YarManYak|
+|**NVTA**|InVitae Corp|66%|/u/emtvaikkajoku, /u/CrackHeadRodeo|
+|**XPEL**|Xpel Inc|65%|/u/Bkazzle|
+|**TSE:WELL**|WELL Health Technologies Corp|64%|/u/Unlucky-Prize, /u/IcemanVish|
+|**ENPH**|Enphase Energy Inc|61%|/u/deGoblin|
+|**SITM**|SiTime Corp|60%|/u/drbh_|
+|**NET**|Cloudflare Inc|60%|/u/thereisnospoongeek, /u/olliemacg, /u/Boots2243|
+|**BABYF**|Else Nutrition Holdings Inc|60%|/u/PringlesAreUs|
+|**PTON**|Peloton Interactive Inc|59%|/u/loosetingles|
+|**APPS**|Digital Turbine Inc|59%|/u/toop4|
+|**SPWR**|SunPower Corporation|58%|/u/Hadouukken|
+|**SOLO**|Electrameccanica Vehicles Corp|57%|/u/IHaveUsernameBlock|
+|**CSIQ**|Canadian Solar Inc.|56%|/u/MrMineHeads, vvv561|
+|**TTD**|Trade Desk Inc|50%|/u/all_hail_hypno, /u/Kay312010|
+|**NTLA**|Intellia Therapeutics Inc|50%|/u/earthmoonsun|
+|**SIX**|Six Flags Entertainment Corp|49%|/u/EthosPathosLegos|
+|**GM**|General Motors Company|47%|/u/Buttershine_Beta|
+|**TXG**|10X Genomics Inc|46%|/u/Unlucky-Prize|
+|**TAN**|Invesco Solar ETF|44%|/u/z74al|
+|**TPIC**|TPI Composites Inc|44%|/u/polwas|
+|**TCNNF**|Trulieve Cannabis Corp|43%|/u/grphelps1, /u/Cucumber_Cooling|
+|**TSLA**|Tesla Inc|42%|/u/Skurinator, /u/goldcakes, /u/redmars1234, /u/Drortmeyer2017|
+|**Uber**|Uber Technologies Inc|41%|/u/DukeBD2021|
+|**AAXN**|Axon Enterprise Inc|41%|/u/ansofteng|
+|**GBTC**|Grayscale Bitcoin Trust (Btc)|40%|/u/asherlevi|
+|**SE**|Sea Ltd|39%|/u/scatterblodded, /u/tradeintel828384839, /u/thug_funnie, /u/Meymo|
+|**RAZFF**|Razer Inc|36%|/u/ThatOneRedditBro|
+|**ICLN**|iShares Global Clean Energy ETF|36%|/u/drheman25Q|
+|**IIPR**|Innovative Industrial Properties Inc|35%|/u/Dalis_Ktm|
+|**BL**|Blackline Inc|35%|/u/veebeew|
+|**CRLBF**|Cresco Labs Inc|35%|/u/UncleSlippyFist|
+|**ALLY**|Ally Financial Inc|34%|/u/jcurtis44|
+|**PLNHF**|Planet 13 Holdings Inc|32%|/u/MMatter1|
+|**STNE**|StoneCo Ltd|32%|/u/GromGrommeta|
+|**UTZ**|Utz Brands Inc|32%|/u/RIC_FLAIR-WOOO|
+|**WD**|Walker & Dunlop, Inc.|30%|/u/TBSchemer|
+|**BEP**|Brookfield Renewable Partners LP|30%|/u/YourPineapplePunch|
+|**INMD**|Inmode Ltd|29%|/u/meta-cognizant, /u/craneman813|
+|**PENN**|Penn National Gaming, Inc|28%|/u/Calpool|
+|**AVLR**|Avalara Inc|27%|/u/nomdeplume_alias|
+|**BPY**|Brookfield Property Partners LP Unit|27%|/u/Onarco|
+|**STO:TIGO-SDB**|Millicom International Cellular SA(SWE)|27%|/u/joseph460|
+|**WIZZ**|Wizz Air Holdings PLC|25%|/u/Matous_Palecek|
+|**MMMB**|Mamamancini's Holdings Inc|25%|/u/Jayesslee|
+|**CVAC**|CureVac|25%|/u/Tangerinho|
+|**DNNGY**|Orsted A S Unsponsored ADR|24%|/u/BrentfordFC21|
+|**WKHS**|Workhorse Group Inc|24%|/u/VisionsDB|
+|**AIR**|AAR Corp.|24%|/u/paulo92834|
+|**EZJ**|ProShares Ultra MSCI Japan ETF|24%|/u/Necessary_Club_6714|
+|**OTCMKTS:PRXXF**|Paradox Interactive AB (publ)|23%|/u/I_worship_odin|
+|**ALXN**|Alexion Pharmaceuticals, Inc.|22%|/u/fisk47|
+|**APHA**|Aphria Inc|21%|/u/Aprhria, /u/Bdghablig|
+|**FSR**|Fisker Inc|21%|/u/bigsexy12|
+|**SQ**|Square Inc|21%|/u/cuti95, /u/ConstructivePlayer, /u/Lfastrsx, /u/jercky, /u/CharlieBrown364|
+|**TGT**|Target Corporation|21%|/u/Kosher-Bacon|
+|**DKNG**|Draftkings Inc|21%|/u/boomshalock|
+|**TTCF**|Tattooed Chef Inc|20%|/u/Mug_of_coffee|
+|**KLR**|Kaleyra Inc|20%|/u/souptrades|
+|**NVDA**|NVIDIA Corporation|20%|/u/TBSchemer, friedtea15|
+|**RNLSY**|Renault ADR|19%|/u/jw8700|
+|**NOW**|ServiceNow Inc|18%|/u/cookingboy|
+|**CDW**|CDW common stock|18%|/u/plorfu|
+|**TSE:AC**|Air Canada|18%|/u/priamXus|
+|**NUAN**|Nuance Communications Inc.|17%|/u/IwantmyMTZ|
+|**ESNT**|Essent Group Ltd|17%|/u/veggie-man|
+|**RUN**|Sunrun Inc|16%|/u/FactualNeutronStar|
+|**URW**|Unibail-Rodamco-Westfield SE|16%|/u/eams66|
+|**SAM**|Boston Beer Company Inc|16%|/u/Top_Island|
+|**NATH**|Nathan's Famous, Inc.|16%|/u/howtoreadspaghetti|
+|**MU**|Micron Technology, Inc.|15%|/u/Wexoch|
+|**VTR**|Ventas, Inc.|15%|/u/Unlucky-Prize|
+|**FLR**|Fluor Corp|15%|/u/lost_searching|
+|**TWLO**|Twilio Inc|15%|/u/MarconianRex|
+|**OTCMKTS:GMWKF**|Games Workshop Group PLC|14%|/u/MAUSECOP, /u/Thenattylimit|
+|**JPM**|JPMorgan Chase & Co.|14%|/u/wrs97|
+|**WMT**|Walmart Inc|14%|/u/anthonyjh21|
+|**MX**|Magnachip Semiconductor Corp|14%|/u/samtony234|
+|**HR.UN**|H&R Real Estate Investment Trust|14%|/u/CaptainCanuck93|
+|**NPSNY**|Naspers Limited|14%|/u/Demandredz|
+|**TRVN**|Trevena Inc|13%|/u/pacosteles|
+|**CRSP**|Crispr Therapeutics AG|13%|/u/emtvaikkajoku|
+|**MTCH**|Match Group Inc|13%|/u/BallinLikeImKobe24|
+|**TAP**|Molson Coors Beverage Co Class B|13%|/u/howtoreadspaghetti|
+|**TEAM**|Atlassian Corporation PLC|13%|/u/shadowrckts|
+|**ASML**|ASML Holding NV|13%|/u/EthosPathosLegos, /u/earthmoonsun|
+|**BFIT**|Global X Health & Wellness Thematic ETF|13%|/u/Venhuizer|
+|**OTIC**|Otonomy Inc|12%|/u/Unlucky-Prize|
+|**TSM**|Taiwan Semiconductor Mfg. Co. Ltd.|12%|/u/Paks_12345, /u/sogladatwork, /u/BlissfulThinkr|
+|**LOGI**|Logitech International SA|12%|/u/CharlieBrown364|
+|**PRPL**|Purple Innovation Inc|12%|/u/jloy88, /u/CharlieBrown364, /u/RemiMartin|
+|**VIAC**|CBS Corporation Common Stock|12%|/u/1987supertramp|
+|**SBSW**|Sibanye Stillwater Ltd|12%|/u/marqui4me|
+|**BAM**|Brookfield Asset Management Inc|11%|/u/duongroi, /u/Avaronah|
+|**TQQQ**|ProShares UltraPro QQQ|11%|/u/iggy555, /u/Guiterrezjm6|
+|**NCR**|NCR Corporation|11%|/u/IAMBEOWULFF, /u/fistymonkey1337|
+|**BBY**|Best Buy Co Inc|11%|/u/1madeamistake|
+|**COTY**|Coty Inc|11%|/u/NhatNguyen2112|
+|**YETI**|Yeti Holdings Inc|10%|/u/boomwhackers|
+|**MS**|Morgan Stanley|10%|/u/wrs97|
+|**HKMPF**|Hikma Pharmaceuticals Plc|10%|/u/Marvins-Room|
+|**OLED**|Universal Display Corporation|10%|/u/niknikniknikniknik1|
+|**XBC**|Xebec Adsorption Inc.|10%|/u/Mug_of_coffee|
+|**LDL**|Lydall, Inc.|10%|/u/Henisockle|
+|**MAC**|Macerich Co|9%|/u/skvettlappen|
+|**MMX**|Maverix Metals Inc|9%|/u/AwesomeMathUse|
+|**NYSE:PSTH**|Pershing Square Tontine Holdings Ord Shs Class A|9%|/u/5_yr_lurker|
+|**SNE**|Sony Corp|9%|/u/drorhac|
+|**SLP**|Simulations Plus, Inc.|9%|/u/hellohi3|
+|**MELI**|Mercadolibre Inc|9%|/u/pontoumporcento|
+|**ISRG**|Intuitive Surgical, Inc.|8%|/u/swalloforswallo|
+|**DRNA**|Dicerna Pharmaceuticals Inc|8%|/u/earthmoonsun|
+|**AWK**|American Water Works Company Inc|8%|/u/InfamousLegato|
+|**OKTA**|Okta Inc|8%|/u/Bcr731|
+|**SEDG**|Solaredge Technologies Inc|7%|/u/m4r1vs|
+|**AAPL**|Apple Inc|7%|/u/tcldstnvdw|
+|**BRK.B**|Berkshire Hathaway Inc. Class B|7%|/u/Jeroen_Jrn, /u/Cuza|
+|**TD**|Toronto-Dominion Bank|7%|/u/robbierox123|
+|**TJX**|TJX Companies Inc|7%|/u/princess-smartypants|
+|**NVR**|NVR, Inc.|7%|/u/Linnake|
+|**RMCF**|Rocky Mountain Chocolate Factory, Inc.|7%|/u/howtoreadspaghetti|
+|**CVS**|CVS Health Corp|7%|/u/handsomeandsmart_|
+|**VTSAX**|Vanguard Total Stock Market Index Fund Admiral Shares|6%|/u/WackyBeachJustice|
+|**ESRT**|Empire State Realty Trust Inc|6%|/u/silverpaw1786|
+|**VEEV**|Veeva Systems Inc|5%|/u/JohnSpartans|
+|**GFL**|GFL Environmental Inc|5%|/u/lenadunhamsbutthole|
+|**SDC**|SmileDirectClub Inc|5%|/u/meeni131|
+|**BABA**|Alibaba Group Holding Ltd - ADR|5%|/u/helio987, /u/ScreeMart, /u/Necessary_Club_6714|
+|**SAVE**|Spirit Airlines Incorporated|5%|/u/Matous_Palecek|
+|**NYMT**|New York Mortgage Trust Inc|5%|/u/ToKeepAndToHoldForev|
+|**AUMN**|Golden Minerals Co|5%|/u/YEEEEEAAAAA|
+|**RTX**|Raytheon Technologies Corp|5%|/u/anon2019L|
+|**EW**|Edwards Lifesciences Corp|4%|/u/TheTubbyOlive|
+|**DIS**|Walt Disney Co|4%|/u/jadenmc2189, /u/biz_student|
+|**LZAGY**|Lonza Group ADR|4%|/u/Fuck512|
+|**ZTS**|Zoetis Inc|4%|/u/BearBearChooey|
+|**DOCU**|Docusign Inc|4%|/u/h3ku, /u/Teach-101|
+|**RIGL**|Rigel Pharmaceuticals, Inc.|3%|/u/Gay_Demons|
+|**BB**|BlackBerry Ltd|3%|/u/mh1t, /u/EthosPathosLegos|
+|**ARCC**|Ares Capital Corporation|3%|/u/ThemChecks|
+|**HERO**|Global X Video Games & Esports ETF|3%|/u/sgtyzi|
+|**SPOT**|Spotify Technology SA|3%|/u/_Hard4Jesus|
+|**NEWR**|New Relic Inc|2%|/u/Dalis_Ktm|
+|**TRU**|TransUnion|2%|/u/AndyCircus|
+|**BAC**|Bank of America Corp|2%|/u/oobydoobydoobydoo, /u/wrs97|
+|**BAH**|Booz Allen Hamilton Holding Corporation|2%|/u/i_smel_hookers|
+|**EH**|EHang Holdings Ltd - ADR|2%|/u/TheEUR0PEAN|
+|**CVM**|CEL-SCI Corporation|2%|/u/Golden_Pineapple|
+|**ELVT**|Elevate Credit Inc|2%|/u/ScoreFuture|
+|**CIBR**|First Trust NASDAQ Cybersecurity ETF|2%|/u/komoggmu321|
+|**MSFT**|Microsoft Corporation|1%|/u/TBSchemer|
+|**WAB**|Westinghouse Air Brake Technologies Corp|1%|/u/warman506|
+|**IMMNOV**|Immunovia AB (publ)|1%|/u/jennyther|
+|**OXB**|Oxford BioMedica plc|0%|/u/arabidopsis|
+|**PD**|Pagerduty Inc|0%|/u/throthrowth|
+|**RDFN**|Redfin Corp|0%|/u/shreddit47|
+|**PMCB**|Pharmacyte Biotech Inc|0%|/u/DillieTheSquid|
+|**CCI**|Crown Castle International Corp|\-1%|/u/jkgator|
+|**VHC**|VirnetX Holding Corporation|\-1%|/u/vyts18|
+|**O**|Realty Income Corp|\-2%|/u/bushysmalls|
+|**BYND**|Beyond Meat Inc|\-2%|/u/Kreisensalat, /u/Flipside|
+|**TNDM**|Tandem Diabetes Care Inc|\-2%|/u/liao24|
+|**IAC**|IAC/Interactivecorp|\-2%|/u/dvdmovie1|
+|**PRLB**|Proto Labs Inc|\-2%|/u/JEesSs|
+|**NSRGY**|Nestle ADR|\-2%|/u/suburban_robot|
+|**PLD**|Prologis Inc|\-2%|/u/ImPinkSnail|
+|**VMW**|VMware, Inc.|\-3%|/u/kingbrow2020|
+|**BCLI**|Brainstorm Cell Therapeutics Inc|\-3%|/u/BigSexyTolo|
+|**TDOC**|Teladoc Health Inc|\-3%|/u/staniel_diverson, /u/Raybay192, /u/Drifter 1996, /u/moveitover|
+|**HZNP**|Horizon Therapeutics PLC|\-3%|/u/thesearchforanswer|
+|**AMD**|Advanced Micro Devices, Inc.|\-4%|/u/ArneGo, /u/apqwer, /u/LoveOfProfit|
+|**VNRX**|VolitionRX Ltd|\-4%|/u/RiDDDiK1337|
+|**FSLY**|Fastly Inc|\-4%|/u/AwesomeMathUse|
+|**EQIX**|Equinix Inc|\-4%|/u/gce1010|
+|**MDWD**|Mediwound Ltd|\-4%|/u/blueblade408|
+|**FCEL**|FuelCell Energy Inc|\-4%|/u/i-kno-nothing, /u/dewaser|
+|**HELE**|Helen of Troy Limited|\-5%|/u/aa341|
+|**WFC**|Wells Fargo & Co|\-5%|/u/yehdhbdjdjd|
+|**HEAR**|Turtle Beach Corp|\-5%|/u/chancsc11|
+|**FLIR**|FLIR Systems, Inc.|\-5%|/u/zerokarma|
+|**MAXR**|Maxar Technologies Inc|\-5%|/u/Borne2Run|
+|**HII**|Huntington Ingalls Industries Inc|\-6%|/u/howtoreadspaghetti|
+|**ETSY**|Etsy Inc|\-6%|/u/PeskyShart|
+|**CYBR**|Cyberark Software Ltd|\-6%|/u/Kevenam|
+|**MO**|Altria Group Inc|\-6%|/u/ARGENT_UM_PUR, /u/gm14202|
+|**INTC**|Intel Corporation|\-6%|/u/ionlypwn, /u/TitanCrasher54, /u/niknikniknikniknik1|
+|**AYX**|Alteryx Inc|\-7%|/u/Kme2|
+|**LON:KEFI**|KEFI Gold and Copper Plc|\-7%|/u/Scipio-Africannabis-|
+|**ATVI**|Activision Blizzard, Inc.|\-7%|/u/Mondanivalo|
+|**CCJ**|Cameco Corp|\-7%|/u/jh4962772, /u/Commandobolt, /u/3STmotivation|
+|**AMT**|American Tower Corp|\-8%|/u/editviewgo|
+|**RAMPF**|Polaris Infrastructure Inc|\-8%|/u/CaptainCanuck93|
+|**KR**|Kroger Co|\-9%|/u/bxkrish|
+|**OTCMKTS:MMTRS**|Mills Music Trust Unit|\-9%|/u/ARGENT_UM_PUR|
+|**VLO**|Valero Energy Corporation|\-10%|/u/chickenandcheesefart|
+|**WORK**|Slack Technologies Inc|\-11%|/u/AntwanDixon_|
+|**BLU**|BELLUS Health Inc|\-11%|/u/NhatNguyen2112|
+|**GPL**|Great Panther Mining Ltd|\-11%|/u/Tony0x01|
+|**FNMA**|Federal National Mortgage Association|\-11%|/u/figbuilding, /u/onkel_axel|
+|**FNV**|Franco Nevada Corp|\-12%|/u/AwesomeMathUse|
+|**OTGLY**|CD Projekt 4 ADR Representing Ord Shs|\-12%|/u/Thtb|
+|**IMKTA**|Ingles Markets, Incorporated|\-12%|/u/kimjungoon|
+|**SHOP**|Shopify Inc|\-12%|/u/AwesomeMathUse|
+|**GILD**|Gilead Sciences, Inc.|\-14%|/u/Leroy--Brown|
+|**SWCH**|Switch Inc|\-14%|/u/gce1010|
+|**KL**|Kirkland Lake Gold Ltd|\-14%|/u/New_username_|
+|**JBSS**|John B. Sanfilippo & Son, Inc.|\-15%|/u/chris011186|
+|**TSE:FAF**|Fire & Flower Holdings Corp|\-15%|/u/tobcar|
+|**NYT**|New York Times Co|\-15%|/u/jonhuang|
+|**ACMR**|ACM Research Inc|\-15%|/u/moveitover|
+|**ZAGG**|Zagg Inc|\-16%|/u/ni_shi_shei|
+|**LMND**|Lemonade Inc|\-16%|/u/br1ghtness, /u/skkreet, /u/hahadumblloyd|
+|**GAN**|Gan Ltd|\-17%|/u/emcdeezy22|
+|**RVP**|Retractable Technologies, Inc.|\-17%|/u/EmreCanPuns|
+|**TSE:GCM**|Gran Colombia Gold Corp|\-17%|/u/Linnake|
+|**TAAL**|Taal Distributed Information Techs Inc|\-17%|/u/AwesomeMathUse|
+|**CHGG**|Chegg Inc|\-19%|/u/Boots2243|
+|**UAVS**|Ageagle Aerial Systems Inc|\-19%|/u/fishkillr|
+|**FFMGF**|First Mining Gold Corp|\-20%|/u/RecCenterBall|
+|**EDIT**|Editas Medicine Inc|\-20%|/u/earthmoonsun|
+|**AGRA**|Agraflora Organics International Inc|\-20%|/u/spreeshark|
+|**PAF**|Pan African Resources plc|\-20%|/u/Fruity_Pineapple|
+|**DS**|Drive Shack Inc|\-22%|/u/Bobjenkins97|
+|**LON:AAZ**|Anglo Asian Mining|\-22%|/u/krenaldi1|
+|**INSG**|Inseego Corp|\-22%|/u/esoccer141414|
+|**RAD**|Rite Aid Corporation|\-22%|/u/ManagerMilkshake|
+|**TWOU**|2U Inc|\-22%|/u/DickDaddy|
+|**TMDX**|TransMedics Group Inc|\-23%|/u/DropoutEngy|
+|**DXCM**|DexCom, Inc.|\-24%|/u/InformalAid|
+|**NOK**|Nokia Oyj|\-25%|/u/perfectriot, /u/LiabilityFree|
+|**AYTU**|Aytu Bioscience Inc|\-25%|/u/Bkzkilla2, /u/beefy-ambulance, /u/subaruveganguy22|
+|**SDGR**|Schrodinger Inc|\-26%|/u/TipasaNuptials, /u/asianmarysue, /u/RattleGoreBitcoin|
+|**GNUS**|Genius Brands International Inc|\-29%|/u/due11|
+|**JMIA**|Jumia Technologies AG - ADR|\-30%|/u/Jerund, /u/souptrades, /u/7YearOldCodPlayer, /u/CharlieBrown364, /u/fortnitehead|
+|**BBAR**|Banco Bbva Argentina SA|\-30%|/u/GAV17|
+|**OPK**|Opko Health Inc.|\-34%|/u/CS1026|
+|**LLNW**|Limelight Networks, Inc.|\-35%|/u/cyberdex, /u/thug_funnie|
+|**PTOTF**|Patriot One Technologies Inc|\-38%|/u/DanReynolds|
+|**WTRH**|Waitr Holdings Inc|\-46%|/u/exstaticj|
+|**CYDY**|CytoDyn Inc|\-49%|/u/dufmum|
+|**IBIO**|Ibio Inc|\-55%|/u/PrairieDogger69|
+|**SRNE**|Sorrento Therapeutics Inc|\-58%|/u/DowJonesLocker|
+|**BTU**|Peabody Energy Corporation|\-61%|/u/aviatoraway1|
+|**ALT**|Altimmune Inc|\-61%|/u/Spes-Caritas|
+|**SHLO**|Shiloh Industries|\-94%|/u/brainbroked|
+
+
+As a reminder, please do not interpret results seen here as an endorsement of the investing prowess of the community. Invest at your own risk._END_OF_POST_PYSTOCK_ Historical investing performance calculator Is there an online resource that can calculate hypothetical historical investment returns that include more than just stock price such as splits, dividend payments, etc.? 
+
+Fairly new to investing directly in stocks and interested in researching these other variables and how they impact long term plays beyond raw share price.
+
+Thanks!_END_OF_POST_PYSTOCK_ Nio, Xpeng, and Li are now worth more than Detroit's big 3 As of market open, Nio, Xpeng, and Li had market caps. of 71, 35, and 31 billion, respectively.  This totals 137 billion.  Gm, Ford, and Fiat Chrysler are worth 57, 33, and 29 billion, respectively.  This totals 119 billion.  
+
+&#x200B;
+
+Anyone have thoughts on this?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ NIO Discussion  
+
+Let's have a serious DD in state of all the raging fire going on in the market right now. Let's debate and align ourselves to our goal and the direction of the company. Let's begin!
+
+Nio competitors (Can we beat them?):
+
+1. BYD
+2. XPEV
+3. Li
+4. almost all the other EV out there in the market
+
+How is NIO ahead of their competitor besides luxury and BaaS which is easily copied.
+
+Pros:
+
+1. NIO is a startup and currently at a growth phase. Go back to your fundamental and tell me, is NIO currently overprice or severely overpriced
+2. Large Total Addressable Market
+3. BaaS is attractive especially taxi fleet and robotaxi in the future
+4. Chinese government backing (A reason why everyone is investing in it right?)
+
+Cons:
+
+1. Dependent on government backing out from funding. (Come on its possible)
+2. I've been to China, there are Tesla car everywhere (Status). Foreign cars are perceived better there.
+3. It may be profitable, but not so soon. OR NEVER since they have high capex businesses. There are many firm going bankrupt as a reason for that
+4. Their the firstmoover for Baas but it is not an advantage... It is easily copied and follow by the rest of its competitors
+5. Priced to perfection
+6. It is reliant on third party like JAC motors. How are they going to get their own factory? How much dilution is it going to take to raise money for a factory to keep up with the demand? Can we assume that NIO's factory will be as good as JAC motors?
+7. Risk of BaaS station catching fire due to poor quality in the long run. It is going to be a pain to keep having new batteries as it is costly. The only way to preserve quality in the long run is to always use new batteries to swap the vehicles (Which cost tons of money.)
+
+In the event whereby cars starts catching fire due to poor maintenance of batteries, the brand is going to get tarnish.
+
+8) Are quality assurance audited?
+
+I would love a good debate and I wish everyone respect each other opinions on the direction of this company. Let's have a breakdown and a good analysis of this company.
+
+God bless!_END_OF_POST_PYSTOCK_ Brokerz_Trading - What is happening with Alibaba, is it a buy right now? The Chinese ecommerce company raised $74bn in its annual Singles’ Day, the world’s biggest sales event, Reuters reports. However, it was not all good news for Alibaba, which this Wednesday suffered an 8.3% drop as new anti-trust regulations in China were published.  
+
+What is happening with Alibaba, is it a buy right now?_END_OF_POST_PYSTOCK_ Why did the share value of this high-yield bond fund drop? (BSJL) I've been researching bond funds, and I've noticed that the share values in ordinary corporate bond funds like iShares' LQD, or Invesco's 2021 maturity BSCL fund, have fully recovered from their pre-Covid levels. But high-yield funds like JNK have been slower to recover. In the case of Invesco's 2021 maturity high-yield fund, BSJL, the shares seem to have permanently lost about 7 percent of their value.
+
+Does anyone know why exactly this is? Would it mainly be due to expectations of greater default risk in the future? Could the shares thus recover in 2021, if not as many companies default as expected? Or is it mainly due to defaults that are already occurring? (In that case, the shares presumably wouldn't recover much in 2021, right?) Or is it a combination? How can I tell the difference here, and in bond funds in general?
+
+Thanks._END_OF_POST_PYSTOCK_ China’s President Xi Jinping personally decided to pull the plug on Ant Group’s $37-billion (£28 billion) initial public offering [https://www.reuters.com/article/antgroup-ipo/chinese-president-xi-jinping-decided-to-halt-ants-ipo-wsj-idINL4N2HY4U2](https://www.reuters.com/article/antgroup-ipo/chinese-president-xi-jinping-decided-to-halt-ants-ipo-wsj-idINL4N2HY4U2)
+
+Original WSJ which is paywalled [so](http://archive.vn/QTDjt)_END_OF_POST_PYSTOCK_ ABBV CEO sold 231,604 shares today totaling 22.4 Million! Been looking at the technicals of this stock for the last two weeks and the move up hasn't doesn't make sense, not even to the CEO... Bad news coming?
+
+[https://finance.yahoo.com/news/abbvie-inc-abbv-chairman-board-231508714.html](https://finance.yahoo.com/news/abbvie-inc-abbv-chairman-board-231508714.html)_END_OF_POST_PYSTOCK_ The Economist: "Value investing is struggling to remain relevant" [https://www.economist.com/briefing/2020/11/12/value-investing-is-struggling-to-remain-relevant](https://www.economist.com/briefing/2020/11/12/value-investing-is-struggling-to-remain-relevant)
+
+&#x200B;
+
+Found this to be an excellent read and would love to hear what /investing has to say. Full article below: 
+
+&#x200B;
+
+It is now more than 20 years since the Nasdaq, an index of technology shares, crashed after a spectacular rise during the late 1990s. The peak in March 2000 marked the end of the internet bubble. The bust that followed was a vindication of the stringent valuation methods pioneered in the 1930s by Benjamin Graham, the father of “value” investing, and popularised by Warren Buffett. For this school, value means a low price relative to recent profits or the accounting (“book”) value of assets. Sober method and rigour were not features of the dotcom era. Analysts used vaguer measures, such as “eyeballs” or “engagement”. If that was too much effort, they simply talked up “the opportunity”.
+
+Plenty of people sense a replay of the dotcom madness today. For much of the past decade a boom in America’s stockmarket has been powered by an elite of technology (or technology-enabled) shares, including Apple, Alphabet, Facebook, Microsoft and Amazon. The value stocks favoured by disciples of Graham have generally languished. But change may be afoot. In the past week or so, fortunes have reversed. Technology stocks have sold off. Value stocks have rallied, as prospects for a coronavirus vaccine raise hopes of a quick return to a normal economy. This might be the start of a long-heralded rotation from overpriced tech to far cheaper cyclicals—stocks that do well in a strong economy. Perhaps value is back.
+
+This would be comforting. It would validate a particular approach to valuing companies that has been relied upon for the best part of a century by some of the most successful investors. But the uncomfortable truth is that some features of value investing are ill-suited to today’s economy. As the industrial age gives way to the digital age, the intrinsic worth of businesses is not well captured by old-style valuation methods, according to a recent essay by Michael Mauboussin and Dan Callahan of Morgan Stanley Investment Management.
+
+The job of stockpicking remains to take advantage of the gap between expectations and fundamentals, between a stock’s price and its true worth. But the job has been complicated by a shift from tangible to intangible capital—from an economy where factories, office buildings and machinery were key to one where software, ideas, brands and general know-how matter most. The way intangible capital is accounted for (or rather, not accounted for) distorts measures of earnings and book value, which makes them less reliable metrics on which to base a company’s worth. A different approach is required—not the flaky practice of the dotcom era but a serious method, grounded in logic and financial theory. However, the vaunted heritage of old-school value investing has made it hard for a fresher approach to gain traction.
+
+## Graham’s cracker
+
+To understand how this investment philosophy became so dominant, go back a century or so to when equity markets were still immature. Prices were noisy. Ideas about value were nascent. The decision to buy shares in a particular company might by based on a tip, on inside information, on a prejudice, or gut feel. A new class of equity investors was emerging. It included far-sighted managers of the endowment funds of universities. They saw that equities had advantages over bonds—notably those backed by mortgages, railroads or public utilities—which had been the preferred asset of long-term investors, such as insurance firms.
+
+This new church soon had two doctrinal texts. In 1934 Graham published “Security Analysis” (with co-author David Dodd), a dense exposition of number-crunching techniques for stockpickers. Another of Graham’s books is easier to read and perhaps more influential. “The Intelligent Investor”, first published in 1949, ran in revised editions right up until (and indeed beyond) Graham’s death in 1976. The first edition is packed with sage analysis, which is as relevant today as it was 70 years ago.
+
+Underpinning it all is an important distinction—between the price and value of a stock. Price is a creature of fickle sentiment, of greed and fear. Intrinsic value, by contrast, depends on a firm’s earnings power. This in turn derives from the capital assets on its books: its factories, machines, office buildings and so on.
+
+The approach leans heavily on company accounts. The valuation of a stock should be based on a conservative multiple of future profits, which are themselves based on a sober projection of recent trends. The book value of the firm’s assets provides a cross-check. The past might be a crude guide to the future. But as Graham argued, it is a “more reliable basis of valuation than some other future plucked out of the air of either optimism or pessimism”. As an extra precaution, investors should seek a margin of safety between the price paid for a stock and its intrinsic value, to allow for any errors in the reckoning. The tenets of value investing were thus established. Be conservative. Seek shares with a low price-earnings or price-to-book ratio.
+
+The enduring status of his approach owes more to Graham as tutor than the reputation he enjoyed as an investor. Graham taught a class on stockpicking at Columbia University. His most famous student was Mr Buffett, who took Graham’s investment creed, added his own twists and became one of the world’s richest men. Yet the stories surrounding Mr Buffett’s success are as important as the numbers, argued Aswath Damodaran of New York University’s Stern School of Business in a recent series of YouTube lectures on value investing. The bold purchase of shares in troubled American Express in 1964; the decision to dissolve his partnership in 1969, because stocks were too dear; the way he stoically sat out the dotcom mania decades later. These stories are part of the Buffett legend. The philosophy of value investing has been burnished by association.
+
+It helped also that academic finance gave a back-handed blessing to value investing. An empirical study in 1992 by Eugene Fama, a Nobel-prize-winning finance theorist, and Kenneth French found that volatility, a measure of risk, did not explain stock returns between 1963 and 1990, as academic theory suggested it should. Instead they found that low price-to-book shares earned much higher returns over the long run than high price-to-book shares. One school of finance, which includes these authors, concluded that price-to-book might be a proxy for risk. For another school, including value investors, the Fama-French result was evidence of market inefficiency—and a validation of the value approach.
+
+All this has had a lasting impact. Most investors “almost reflexively describe themselves as value investors, because it sounds like the right thing to say”, says Mr Damodaran. Why would they not? Every investor is a value investor, even if they are not attached to book value or trailing earnings as the way to select stocks. No sane person wants to overpay for stocks. The problem is that “value” has become a label for a narrow kind of analysis that often confuses means with ends. The approach has not worked well for a while. For much of the past decade, value stocks have lagged behind the general market and a long way behind “growth” stocks, their antithesis (see chart 1). Old-style value investing looks increasingly at odds with how the economy operates.
+
+In Graham’s day the backbone of the economy was tangible capital. But things have changed. What makes companies distinctive, and therefore valuable, is not primarily their ownership of physical assets. The spread of manufacturing technology beyond the rich world has taken care of that. Any new design for a gadget, or garment, can be assembled to order by contract manufacturers from components made by any number of third-party factories. The value in a smartphone or a pair of fancy athletic shoes is mostly in the design, not the production.
+
+In service-led economies the value of a business is increasingly in intangibles—assets you cannot touch, see or count easily. It might be software; think of Google’s search algorithm or Microsoft’s Windows operating system. It might be a consumer brand like Coca-Cola. It might be a drug patent or a publishing copyright. A lot of intangible wealth is even more nebulous than that. Complex supply chains or a set of distribution channels, neither of which is easily replicable, are intangible assets. So are the skills of a company’s workforce. In some cases the most valuable asset of all is a company’s culture: a set of routines, priorities and commitments that have been internalised by the workforce. It can’t always be written down. You cannot easily enter a number for it into a spreadsheet. But it can be of huge value all the same.
+
+## A beancounter’s nightmare
+
+There are three important aspects to consider with respect to intangibles, says Mr Mauboussin: their measurement, their characteristics, and their implications for the way companies are valued. Start with measurement. Accounting for intangibles is notoriously tricky. The national accounts in America and elsewhere have made a certain amount of progress in grappling with the challenge. Some kinds of expenditure that used to be treated as a cost of production, such as r&d and software development, are now treated as capital spending in gdp figures. The effect on measured investment rates is quite marked (see chart 2). But intangibles’ treatment in company accounts is a bit of a mess. By their nature, they have unclear boundaries. They make accountants queasy. The more leeway a company has to turn day-to-day costs into capital assets, the more scope there is to fiddle with reported earnings. And not every dollar of r&d or advertising spending can be ascribed to a patent or a brand. This is why, with a few exceptions, such spending is treated in company accounts as a running cost, like rent or electricity.
+
+The treatment of intangibles in mergers makes a mockery of this. If, say, one firm pays $2bn for another that has $1bn of tangible assets, the residual $1bn is counted as an intangible asset—either as brand value, if that can be appraised, or as “goodwill”. That distorts comparisons. A firm that has acquired brands by merger will have those reflected in its book value. A firm that has developed its own brands will not.
+
+The second important aspect of intangibles is their unique characteristics. A business whose assets are mostly intangible will behave differently from one whose assets are mostly tangible. Intangible assets are “non-rival” goods: they can be used by lots of people simultaneously. Think of the recipe for a generic drug or the design of a semiconductor. That makes them unlike physical assets, whose use by one person or for one kind of manufacture precludes their use by or for another.
+
+In their book “Capitalism Without Capital” Jonathan Haskel and Stian Westlake provided a useful taxonomy, which they call the four Ss: scalability, sunkenness, spillovers and synergies. Of these, scalability is the most salient. Intangibles can be used again and again without decay or constraint. Scalability becomes turbo-charged with network effects. The more people use a firm’s services, the more useful they are to other customers. They enjoy increasing returns to scale; the bigger they get, the cheaper it is to serve another customer. The big business successes of the past decade—Google, Amazon and Facebook in America; and Alibaba and Tencent in China—have grown to a size that was not widely predicted. But there are plenty of older asset-light businesses that were built on such network effects—think of Visa and Mastercard. The result is that industries become dominated by one or a few big players. The same goes for capital spending. A small number of leading firms now account for a large share of overall investment (see chart 3).
+
+Physical assets usually have some second-hand value. Intangibles are different. Some are tradable: you can sell a well-known brand or license a patent. But many are not. You cannot (or cannot easily) sell a set of relationships with suppliers. That means the costs incurred in creating the asset are not recoverable—hence sunkenness. Business and product ideas can easily be copied by others, unless there is some legal means, such as a patent or copyright, to prevent it. This characteristic gives rise to spillovers from one company to another. And ideas often multiply in value when they are combined with other ideas. So intangibles tend to generate bigger synergies than tangible assets.
+
+The third aspect of intangibles to consider is their implications for investors. A big one is that earnings and accounting book value have become less useful in gauging the value of a company. Profits are revenues minus costs. If a chunk of those costs are not running expenses but are instead spending on intangible assets that will generate future cashflows, then earnings are understated. And so, of course, is book value. The more a firm spends on advertising, r&d, workforce training, software development and so on, the more distorted the picture is.
+
+The distinction between a running expense and investment is crucial for securities analysis. An important part of the stock analyst’s job is to understand both the magnitude of investment and the returns on it. This is not a particularly novel argument, as Messrs Mauboussin and Callahan point out. It was made nearly 60 years ago in a seminal paper by Merton Miller and Francesco Modigliani, two Nobel-prize-winning economists. They divided the value of a company into two parts. The first—call it the “steady state”—assumes that that the company can sustain its current profits into the future. The second is the present value of future growth opportunities—essentially what the firm might become. The second part depends on the firm’s investment: how much it does, the returns on that investment and how long the opportunity lasts. To begin to estimate this you have to work out the true rate of investment and the true returns on that investment.
+
+The nature of intangible assets makes this a tricky calculation. But worthwhile analysis is usually difficult. “You can’t abdicate your responsibility to understand the magnitude of investment and the returns to it,” says Mr Mauboussin. Old-style value investors emphasise the steady state but largely ignore the growth-opportunities part. But for a youngish company able to grow at an exponential rate by exploiting increasing returns to scale, the future opportunity will account for the bulk of valuation. For such a firm with a high return on investment, it makes sense to plough profits back into the firm—and indeed to borrow to finance further investment.
+
+Picking winners in an intangible economy—and paying a price for stocks commensurate with their chances of success—is not for the faint-hearted. Some investments will be a washout; sunkenness means some costs cannot be recovered. Network effects give rise to winner-takes-all or winner-takes-most markets, in which the second-best firm is worth a fraction of the best. Value investing seems safer. But the trouble with screening for stocks with a low price-to-book or price-to-earnings ratio is that it is likelier to select businesses whose best times are behind them than it is to identify future success.
+
+## Up, up and away
+
+Properly understood, the idea of fundamental value has not changed. Graham’s key insight was that price will sometimes fall below intrinsic value (in which case, buy) and sometimes will rise above it (in which case, sell). In an economy mostly made up of tangible assets you could perhaps rely on a growth stock that had got ahead of itself to be pulled back to earth, and a value stock that got left behind to eventually catch up. Reversion to the mean was the order of the day. But in a world of increasing returns to scale, a firm that rises quickly will often keep on rising.
+
+The economy has changed. The way investors think about valuation has to change, too. This is a case that’s harder to make when the valuation differential between tech and value stocks is so stark. A correction at some stage would not be a great surprise. The appeal of old-style value investing is that it is tethered to something concrete. In contrast, forward-looking valuations are by their nature more speculative. Bubbles are perhaps unavoidable; some people will extrapolate too far. Nevertheless, were Ben Graham alive today he would probably be revising his thinking. No one, least of all the father of value investing, said stockpicking was easy._END_OF_POST_PYSTOCK_
