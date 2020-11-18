@@ -1,6 +1,7 @@
 import time
 import praw
 import json
+import pandas as pd
 from words import wordFreq
 from datetime import datetime, timezone
 
@@ -47,10 +48,27 @@ def get_wf_from_sub(subs, limit, nowDate=None):
     return wf
 
 
+# startDate, endDate : str (YYYY-MM-DD)
+def get_wf_from_raw(startDate, endDate):
+    dates = pd.date_range(start=startDate, end=endDate).tolist()
+    subs = ["stocks", "investing", "wallstreetbets"]
+    for date in dates:
+        date = str(date).split(" ")[0]
+        wf = wordFreq()
+        for sub in subs:
+            with open("raw_data/" + sub + "_" + date + ".txt") as f:
+                content = f.read()
+                posts = content.split("_END_OF_POST_PYSTOCK_")
+                for post in posts:
+                    wf.addWords(post)
+        wf.saveToFile(date)
+
+
 if __name__ == "__main__":
     # mode 1 : scrap data from reddit and save it
     # mode 2 : display word occurence over time
-    if False:
+    mode = 2
+    if mode == 1:
         dates = date_generator("10")
         dates = ["2020-11-15"]
         subs = ["stocks", "investing", "wallstreetbets"]
@@ -60,8 +78,10 @@ if __name__ == "__main__":
                 subs, 100, date
             )  # 1000 posts = 1 month back in time, 1000 max
             wf.saveToFile(date)
-    else:
+    elif mode == 2:
         wf = wordFreq()
-        toExclude = ["nio"]
+        toExclude = []
         toLookAt = []
         wf.displayTimeSerie(10, toExclude, toLookAt)
+    elif mode == 3:
+        get_wf_from_raw("2020-11-13", "2020-11-18")

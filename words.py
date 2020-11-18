@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-DATA_FOLDER = "wf3/"
+DATA_FOLDER = "wf4/"
 RESSOURCES_FOLTER = "ressources/"
 
 def clean_string(content):
