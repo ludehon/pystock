@@ -48,8 +48,9 @@ def get_wf_from_sub(subs, limit, nowDate=None):
     return wf
 
 
+# save word occurence from raw files to dict files
 # startDate, endDate : str (YYYY-MM-DD)
-def get_wf_from_raw(startDate, endDate):
+def save_wf_from_raw(startDate, endDate):
     dates = pd.date_range(start=startDate, end=endDate).tolist()
     subs = ["stocks", "investing", "wallstreetbets"]
     for date in dates:
@@ -67,6 +68,7 @@ def get_wf_from_raw(startDate, endDate):
 if __name__ == "__main__":
     # mode 1 : scrap data from reddit and save it
     # mode 2 : display word occurence over time
+    # mode 3 : scrap data from raw data
     mode = 2
     if mode == 1:
         dates = date_generator("10")
@@ -84,4 +86,4 @@ if __name__ == "__main__":
         toLookAt = []
         wf.displayTimeSerie(10, toExclude, toLookAt)
     elif mode == 3:
-        get_wf_from_raw("2020-11-13", "2020-11-18")
+        save_wf_from_raw("2020-11-13", "2020-11-18")
