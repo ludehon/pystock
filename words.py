@@ -149,7 +149,7 @@ class wordFreq:
         top = self.loadTop(size)
         df = self.loadStats(top)
         df = df.drop(toExclude, axis=1)
-        if(len(toLookAt) > 1):
+        if(len(toLookAt) > 0):
             df = df[toLookAt]
         df = smoothDF(df)
         ax = df.plot.line()

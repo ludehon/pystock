@@ -1,0 +1,258 @@
+ Trading is hard without some kind of mentor. I managed to successfully time the market and sold at the peak of a stock price. I knew it would go back down but thought I had to wait for the trade to settle before I could buy again. Lo and behold it spikes back up again and I'm suddenly left buying back in at a loss. Times like these make me wish I had someone I trust to show me the ropes instead of fumbling around all this blindly. 
+
+On the bright side, the lesson only cost me $300, so I'm not about to sell off a kidney over this._END_OF_POST_PYSTOCK_ Yahoo Finance Adjusted Close for Mutual Fund Hey Guys,
+
+I am new here and have a question concerning the adjusted close prices of yahoo finances. 
+
+I am doing an analysis concerning Mutual Fund Performance.
+
+I know that I can calculate the NAV Returns with the close prices. Can I calculate the Total Returns of Mutual Funds if I use the Adjusted Close Prices?_END_OF_POST_PYSTOCK_ What are some good investing strategies? What if someone just started out investing in stocks and they don't have tens of thousands of dollars to invest in one stock?
+
+I started investing in individual stocks 2 months ago. So far I have like $2k invested in 8 different stocks. I want to hold these stocks for the long term and i want to add even more shares of these stocks.
+
+What would be the best approach if lets say I buy 10 shares of a company (because that's all the money I have at the moment to invest) and the price goes up 10-20% before I have the money to buy more shares? Should DCA and increase my average for that stock or should i wait until the stock falls below my average (if it even ever does fall that much...)?
+
+Example:
+I buy 1 share of Tesla at $400. I want to buy more but don't jave the money for it. Next month i can buy one more share but it went up 25% so now it's $500. What would be the best approach?
+
+1. Buy and hope it goes up even more
+2. Buy on red days only
+3. Wait for a big dip and buy (maybe it wont, or maybe i wont have the money when it does)
+
+Thank you!_END_OF_POST_PYSTOCK_ Can anyone explain simply Interest Rates' impacts on Equities? "Stocks are expensive and especially vulnerable to higher inflation and/or interest rates." - Forbes  
+With Bloomberg saying, according to Citigroup that the USD may be down at least another 20% next  year, it is clear the impact that and inflation will have on US equities. However, I am unclear on the impact that interest rates have on equities. Right now we are in Monetary Policy 2, with zero interest rates. Soon we may be looking at negative interest rates. How does that play out for the equities market? Cheers_END_OF_POST_PYSTOCK_ Need someone to fact check me Hey everyone, just really need you to fact check me and help with gaps. 
+
+My background: USA, 31, making $92k pre-tax. Just paid off $50k in loans. 
+
+Currently: 
+
+Emergency fund: 15k with 5k saved for w9 taxes. 
+
+Roth IRA: 500/month, maxing out
+
+Schwab S&P 500: 500/month for forever?
+
+Goals: Put away a chunk for a house in 1- 2 years (more for repairs that come up than a down payment since I could get the new home owner 3% help). 
+
+Rent part of the house out for income. 
+
+Reduce my living costs by moving in with partner and/or live abroad cheaply while renting out that house. 
+
+I also have 11k in a 403b I need to roll over eventually. 
+
+Am I missing something?_END_OF_POST_PYSTOCK_ Several questions on Schwab, Simple IRA, and investing strategies Alright, so I have a Simple IRA through Schwab right now and have about 3k in it.
+
+-Is there a way to deposit money into my Simple IRA by myself or is it done purely through employer/paycheck contributions?
+
+-Should I be doing my primary stock trading in the IRA or should I leave my mutual funds there? I'm using Daniel Solin's advice for mutual funds (spread through S&P Index fund, Small stock index fund, international equity index fund, and U.S. bond market index fund) and, based on the amount of time and effort I'd like to spend, I am pretty comfortable having the majority of my investments being in mutual funds.
+
+That being said, I do like investing on the side and have been doing some crypto trading as well as a little bit of day trading.
+
+I'd like to consolidate everything as much as possible, so should I be using my crypto apps (cash app, ledger live, and binance) for crypto and Schwab for the rest? What is the best way to manage these?
+
+Thanks!_END_OF_POST_PYSTOCK_ What are your “dark horse” investing picks? It seems like everyone and their mothers is investing in stuff like FAANG, S&P 500, VGT, etc. This is most what people tend to focus on when they talk about investing.
+
+I’m making this post to start a discussion about “unconventional” investments, and ask and see what dark horse picks some of you may be choosing to put money into. Im talking things like sectors that go against current trends, overlooked industries, untapped markets, or your point blank baseless predictions._END_OF_POST_PYSTOCK_ Can low-income landlords see my investments and savings? On disability and applying for low-income housing, have a few thousand in savings and a few thousand in the stock market. They go by income and say I need to report ALL income and assets including stocks, bonds, dividends, savings accounts. Do they have access to these accounts if I just don't report them? Will they find out,  do these landlords/management firms have access to see all my assets? If this isn't the right area to post in can I get a recommendation?_END_OF_POST_PYSTOCK_ Best tech mutual fund IYO? Like the title says, I’m also new to investing but my family says save for the future and invest for my retirement. I’ve been looking at a couple like FSPTX and PRGTX. I have some already invested in FBSOX but I’d like to invest some more. I have ~2400 to play with so what other suggestions do you guys have?_END_OF_POST_PYSTOCK_ Who to choose ? Need advice I want to open a Roth IRA in the future, I’ve been doing extensive research on many offers. So far I am down to four choices; M1, Fidelity, Charles Schwab, and TD Ameritrade. They all offer 0 annual fees and low minimums. But you guys are more experienced with the actual performance of these companies, so from this which should I choose to go with? Any advice would be greatly appreciated, thank you for your time._END_OF_POST_PYSTOCK_ Google will let users open bank accounts, pay friends and manage budgets through a new version of its app rolling out today [CNBC](https://www.cnbc.com/2020/11/18/google-moves-into-venmo-and-banking-turf-with-checking-account-app.html)
+
+Google will let users open a bank account through its Google Pay app, in a partnership with Citi and Stanford Federal Credit Union beginning next year.
+
+The tech giant is relaunching the payments app to allow people to pay friends, similar to PayPal’s popular Venmo and Square’s Cash App. 
+   
+"It's going to have a broad appeal, but especially among the younger population, Gen Z, that are more tech-driven and mobile-focused," says Anand Selva, CEO of U.S. consumer banking at Citi._END_OF_POST_PYSTOCK_ Help me understand marijuana companies. I am of the group that marijuana will likely only become more and more accepted and legalized over time. Naturally I'd like to capitalize on this.  What I can't get my head around is the need for weed companies. If it's legalized in a state or county for that matter.  It's not an exceptionally hard thing to grow yourself.  Especially with the ease of being able to buy growing lights and whatnot at a hardware store or over the internet. So what's the "need" of a marijuana company if you can legally possess it and as a result grow your own?_END_OF_POST_PYSTOCK_ Nintendo Deep Dive [https://asymmetricskew.substack.com/p/nintendo-switching-the-business-model](https://asymmetricskew.substack.com/p/nintendo-switching-the-business-model)
+
+As many of you know, Nintendo is a iconic company that has brought created numerous gaming classics such as Donkey Kong and Super Mario Bros. However the business model has historically been hindered by the subpar economics of hit driven console business. With the release of the Switch and Nintendo Accounts/Switch Online Membership, entry into theme parks and movies, I believe the company is pivoting towards a less volatile higher margin revenue stream. See the link for more details and would appreciate hearing people's thoughts on the company._END_OF_POST_PYSTOCK_ PLTR lock-up period is confusing Please help me make sense:
+Per S1A 9/29:
+https://www.sec.gov/Archives/edgar/data/1321655/000119312520250103/d904406ds1a.htm
+Offering: 257,135,415 Shares
+Our executive officers, directors, and record holders representing over 99% of our capital stock and securities convertible into or exchangeable for our capital stock are subject to market standoff or lock-up agreements with us under which they cannot sell, offer, contract to sell, pledge, grant any option to purchase, lend, or otherwise dispose of shares of our capital stock, or enter into any hedging or similar transaction or arrangement that is designed to or could reasonably be expected to lead to or result in a sale or disposition or transfer of any of the economic consequences of ownership of shares of our capital stock, until the start of the third trading day following the date of public disclosure of our financial results for the year ending December 31, 2020 (the “lock-up period”), except as described below and subject to certain other exceptions.
+Starting on the first day of trading, the restrictions contained in the lock-up agreements will no longer apply to (i) an aggregate of 383,609,647 shares of common stock, including shares issuable upon exercise of outstanding stock options, and (ii) an aggregate of 68,149,214 shares of common stock issuable upon vesting of restricted stock units. The remaining 1,863,150,291 shares, including shares issuable upon exercise of outstanding stock options, will be able to be sold after the lock-up period, subject to applicable securities laws and our insider trading policy. In addition, certain record holders subject to market standoff agreements with us have not signed the lock-up agreement and are therefore not permitted to sell any shares during the lock-up period. If such record holders sign the lock-up agreement, up to an additional 37,369,371 shares of common stock, including shares issuable upon exercise of outstanding stock options, would be able to be sold during the lock-up period. 89,007,617 shares held by our Founders and their affiliates will be permitted to be sold immediately under the Founders’ lock-up agreements and will be registered for resale pursuant to the registration statement..."
+Per FactSet: Identifier Description Shares PLTR-US Class A Common Stock 1,471,832,735 FDS19SUL Class B Common Stock 405,096,034 FDS19VQT Class F Common Stock 1,005,000
+Description Shares Basic Shares 1,877,933,769 Diluted Shares 552,922,763 In-the-Money Convertible Debt - In-the-Money Convertible Preferred - Stock Compensation 552,922,763 Stock Options and Warrants 370,569,807 2010 Equity Incentive Plan 362,938,081 Long Term Incentive Plan 7,631,726 Restricted Stock Units 178,770,282 2010 Equity Incentive Plan 178,685,408 2010 Equity Incentive Plan 84,874 Performance Shares 3,582,674 2010 Equity Incentive Plan - Growth Units 3,582,674 Fully Diluted Shares Outstanding 2,430,856,532
+Per https://techcrunch.com/2020/09/18/in-its-4th-revision-to-the-sec-palantir-tries-to-explain-what-the-hell-is-going-on/: “One part of that complication was its invention of a direct listing with a lockup. When a company directly lists on a stock exchange, recent tradition holds that insiders are not locked up, which means that they will be allowed to start buying and selling their shares as soon as the company hits the market. For reasons that are known only to Palantir, the company decided to mostly block employee trading, limiting the float that can be expected when it begins trading.”
+“Palantir will lock up about 80% of shares in the company, allowing about 380 million shares to trade on opening day. Eight million more shares will come on the market in November when certain restricted stock units vest for company employees, and other vested RSUs will also not be beholden to the lockup agreement as they come next year.”
+
+
+******
+
+Questions: 
+
+1) 380 million shares refers to 383,609,647 in S1. Why does S1 list an offering of Offering of 257,135,415 Shares? 
+******
+2) I read "Our executive officers, directors, and record holders representing over 99% of our capital stock and securities convertible into or exchangeable for our capital stock are subject to market standoff or lock-up agreements with us" to mean current officers are subject to 80% lockup until 3rd trading date after Q4 results, around 2/17/2021. But based on Soros' statement and 13F, SCM sold 20%. Would 80% apply to former directors (his former employee?) or how else to make sense of this? 
+******
+3) When would 68,149,214 become available to trade? 4) Given F-share ownership structure, Peter Thiel and Stephen Cohen (the software engineer, not the hedge fund manager) no doubt approved this lock-up period. It is not traditional 180 days, nor is it at all traditional in a direct listing. No doubt they would want to stabilize stock price with lock-up (no ECM support as with traditional IPO) but why time with Q4 earnings (realize answer is speculative)? 
+******
+5) Why do FactSet and other sources list a float of 62%? Wouldn't it be less than 20% (B shares not traded until converted 1:1 and F shares never traded). 
+******
+6) What are difference between shares subject to lockup and RSUs? 7 million in TechCrunch might refer to Long Term Incentive Plan 7,631,726 per FactSet. But wouldn't 2010 incentive shares be fully vested by now?
+
+
+BIG PICTURE: On or around 2/17/21 (3 mons and 3 trading session after Q3 earnings release) what would be impact on stock? I can't imagine all insiders duping every share (although would seemingly retain control if choose to retain very few), but valuation was rumored around $50-60 Billion for past few years even before incredible run in tech. With stock now above 19 and EV ~35B, if valuation approaches what Thiel et al seeming hoped for in next three months would they be expected to flood the market with shares? Then again they approved lockup? I don't understand._END_OF_POST_PYSTOCK_ Investment History Asset Allocation Test Program Hi,
+
+ I am wondering if there is an app or a website similar to M1 investing, where I would be able to enter a hypothetical group of investments into an asset allocation pie and view the results of those investments over a set period of time in history.
+
+An example would be, I would like to take an all weather asset allocation strategy and put it through different time frames in the past to see how it has performed, then tweak things so I can see what would the maximum and minimum return over the past 5-30 years would have been if the assets had been allocated differently.
+
+Please Direct me to any app or program that might help.
+
+Thank you_END_OF_POST_PYSTOCK_ Covid during 2020 Managed to save 10k during the pandemic and have no clue on how to invest it. Currently have it sitting in a bank account while I educate myself on real estate, taxes and life. Built up a daily routine that clears my mind, body and soul. Any advice would be appreciated as I have a baby on the way. Hope everyone is well!_END_OF_POST_PYSTOCK_ Canadian ETF advice needed! Looking for a Canadian (growth oriented) ETF that I can dump a $1000 a month and forget about it. I have a position on XEI.TO but I don't particularly like it. I think there are better options out there. I'm 26. Give me your advice!
+
+Sorry, I need to copy paste the text so the bot doesn't auto-remove my post for being too short...
+
+Looking for a Canadian (growth oriented) ETF that I can dump a $1000 a month and forget about it. I have a position on XEI.TO but I don't particularly like it. I think there are better options out there. I'm 26. Give me your advice!_END_OF_POST_PYSTOCK_ Thoughts on NEE LEAPS? I bought 1/21/22 $50 call
+
+What are your opinions on renewable energy LEAPS?
+
+
+For 2022 and 2023, the company forecasts 6%-8% growth off the expected increase in 2021 earnings, which translates to an EPS range of $2.55-$2.75 for 2022 and $2.77-$2.97 for 2023.
+
+NextEra Energy Resources, the company's clean energy business, was the only segment to post a decline in profit to $376M vs. $381M a year ago but reported a record quarter of origination, adding nearly 2,200 MW to its renewables backlog during Q3 and reaching more than 15K MW, larger than the unit's existing renewables portfolio.
+
+NextEra has emerged as the world's most valuable utility and recently passed Exxon and Chevron in market cap, as its shares have surged 26% YTD as investors endorse its clean energy strategy.
+
+
+NextEra Energy is a holding company, engaged in electric power and energy infrastructure. Co. has two principal businesses, Florida Power & Light Company (FPL) and NextEra Energy Resources, LLC (NEER). FPL is a rate-regulated electric utility engaged primarily in the generation, transmission, distribution and sale of electric energy in Florida. FPL provides service to its electric customers through a transmission and distribution system that links its generation facilities to its customers. NEER, through its subsidiaries, owns, develops, constructs, manages and operates electric generation facilities in wholesale energy markets primarily in the United States and Canada_END_OF_POST_PYSTOCK_ Vaccine logistics companies to get in on now  Since everybody is focusing on Moderna and Pfizer, I thought it would be a good time to take a look into the other companies that are equipped to handle distribution of these vaccines around the world-
+
+**United Parcel Service (UPS)** has been creating freezer farms in Kentucky and the Netherlands that can house up to 1.4 million vaccine doses, situated close to air cargo hubs for fast distribution.
+
+**FedEx (FDX) and DHL** have time-tested cold supply chains in place and are ramping up infrastructure to handle ultra-low temperatures.
+
+**Carrier Corp (CARR) and Trane Technologies (TT)**, leaders in refrigeration solutions are developing a range of cold-storage solutions for efficient transport through road, rail, and sea, complete with monitoring capabilities.
+
+On the medical supply front, **Mckesson (MCK)** is the designated distributor of vaccines and supplies (including needles, syringes, face shields, etc - [see complete kit here](https://www.mckesson.com/About-McKesson/COVID-19/Vaccine-Support/)) and **Corning Incorporated (GLW)** has been selected by Operation Warp Speed to manufacture specialized glass vials needed for vaccines.
+
+**CVS** and **Walgreens (WBA)** will be administering the shots to the public.
+
+For a detailed read, [see here](https://grufity.com/dashboards/1605598524932/Vaccine-Development-and-Logistics-Stocks)._END_OF_POST_PYSTOCK_ Has a good opportunity developed to buy Prosus NV? Prosus will release earnings in Nov 23 and it is expected to be good.
+
+Moreover, as we know, they own around 31% of Tencent and the price disparity between it’s owned Tencent stock and it’s own stock(which is itself just a part of Nespar).
+
+We know that there's generally a holdings company discount, but the discount in Prosus and Nespar is insane and so management has decided to go for $5B buyback of it’s shares.
+
+What do you guys think about this whole ordeal?
+
+[Prosus buyback and discount, opportunity analysis](https://www.fool.com/investing/2020/11/03/prosus-finally-admits-the-obvious-will-buy-back-sh/)
+
+[Prosus earnings expectations](https://techcentral.co.za/prosus-expects-up-to-22-7-interim-earnings-growth/102977/)_END_OF_POST_PYSTOCK_ GME So I invested in GameStop towards the beginning of the year and I’ve made some gains (kinda small bc I didn’t have a lot to throw at it) but what do you guys think about buying more GME since it’s so close to Black Friday? I imagine it’ll go up but I don’t have experience to know for sure. Safe bet?_END_OF_POST_PYSTOCK_ Target Crammed a Year’s Worth of Growth Into a Quarter "Just how big was Target’s quarter? Let’s put it in perspective. The retailer’s sales totaled $22.3 billion in the three months ended Oct. 31, a $3.9 billion increase from the same period last year. By comparison, the chain’s increase in sales for the entire preceding fiscal year was $2.7 billion. In other words, in the third quarter alone, it had to figure out how to manage the equivalent of a more than a year’s worth of growth. And that’s after experiencing a huge sales increase in the second quarter. It’s an utterly herculean operational lift — requiring a rethinking of supply chain, inventory management and labor models — and it bodes well for Target’s long-term prospects that it was able to adapt to these conditions so quickly."
+
+https://finance.yahoo.com/news/target-crammed-worth-growth-quarter-113202818.html_END_OF_POST_PYSTOCK_ When will the index funds (and active) buy Tesla shares- how soon? High! I have a questoin.  I am new to investing.
+
+WHEN will the index (and active funds if they want to) buy Tesla shares?  I see inclusion date is 21st Dec.  So will they start buying now or do they wait till nearer the date??
+
+The reason I ask is I have an S&P 500 index fund but I want to sell some of it as I don't want to buy Tesla shares at the point of inclusion as I feel they will be temporarily overpriced.  But I also want to keep the index fund as long as possible before having to sell as they start buying tESLA shares_END_OF_POST_PYSTOCK_ Any reason for NKLA to be rising? I own some. Actually I was able to get into a lawsuit because I purchased some within a date that’s allowed.
+
+So if anyone else purchased NKLA recently there are contacts to get yourself into the suit. They told me expect like 20-40% in return. I didn’t put that much money in so that’s why I don’t care to tell people. 
+
+The more people that get into the lawsuit, the more spread out the money goes. Lawyers will get 30% total or something and fees and so on
+
+Talked to a lady in charge of that yesterday._END_OF_POST_PYSTOCK_ Is it worth to franchise in this case?  So there's a restaurant chain in my country which only operates in two locations. But the places are always packed with people and they have a big competitive advantage in terms of price. They are like Five Guys (menu with fries and unlimited drinks), but much cheaper. I'm sure each location has more than 1000 customers each day.
+
+Where I will open the franchise is a popular location in a city with lots of students that look for affordable tasty food, with bigger surrounding cities. Also, there aren't probably more than 4 competitors in the whole city.  
+
+When I called them to discuss franchising options, they asked for 25k Euros. What do you think about this price in terms of franchising? What are the normal prices in the industry? Do you think it is worth it to franchise?_END_OF_POST_PYSTOCK_ Important PSA EARNINGS REPORTS
+
+You’ve all seen the comments about them. You may have even written some yourself.
+
+“Wow. They beat earnings and their stock fell.”
+
+“LOL, didn’t meet expectations, stock still up 5%”
+
+“2020: Company does well, stock goes down”
+
+Come on people. I get that there’s a cynical humor that helps cope with an ever changing market, but these comments make it seem like people expect good news to always mean that a stock goes up, and bad news to always mean that a stock goes down. 
+
+When will people realize that 1) most of the volume of the market is automated and algorithmic and/or institutional and based on deeper factors and 2) the stock market is way more complex than “good is up, bad is down.”
+
+I think that maybe with Robinhood and free transaction trading, lots of lay people are getting involved with stocks and they treat it as gambling - buy before a big event, sell afterwards. They don’t realize that there’s mathematics PhDs running super computers that manage transactions for large institution firms at the microsecond level trying to figure out a small part of the complexity that beginners simplify into “good is up and bad is down.”
+
+So here’s the PSA part: THE STOCK MARKET IS NOT AN INDICE FOR HOW A COMPANY OR ECONOMY IS DOING. It is an extremely complex entity that is influenced by that, but also driven by investor sentiment, government regulation and intervention, large and small players, etc. Quit it with the oversimplification!_END_OF_POST_PYSTOCK_ FOMO and Palantir (PLTR) Really tempted to to buy some PLTR today, maybe 100 shares. I know its partially an emotional decision (FOMO) after how well its been performing, but I feel like it cant be that bad of an idea, right? Should I wait for a dip? 
+
+
+How do y'all feel about PLTR? 
+
+
+Disclaimer: I'm a total noob at investing, but the majority of my portfolio (90%) is XGRO, so I feel like I have some play room, right?_END_OF_POST_PYSTOCK_ The AMC question How are people feeling about AMC...? On the one hand, you have the news of the vaccine, which could be the proverbial white knight for the embattled franchise. At the same time, you have the huge competition from streaming services, not to mention other theaters, independent and otherwise, and the delayed release for basically every major blockbuster. I also have heard that they are knocking on the door of bankruptcy and bleeding money. Their theater rental plan--from what I have heard--has been a huge failure. Nonetheless, if AMC can make a comeback, it would be a huge payoff for investors.
+
+Any thoughts on this?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Palantir on list of applicants for EU’s Gaia-X project [Palantir Gaia-X](https://www.handelsblatt.com/politik/international/cloud-projekt-partner-mit-fragezeichen-gaia-x-zieht-auch-umstrittene-unternehmen-an/26632572.html)
+
+According to Germany’s business magazine Handelsblatt, Palantir is among the companies that are applying for a partnership with the newly found European cloud alliance on their Gaia-X project.
+On the list of +100 applicants appear the usual suspects, such as as Google, Microsoft and Amazon.
+
+What do you think are the chances for Palantir on this?_END_OF_POST_PYSTOCK_ New investor = addicted and going reckless In short, I use to invest when I had no money; i lost enough to stay out of it. Fast forward 5 years and I find myself throwing tens of thousands around and people are questioning my sanity.
+
+In short 
+
+- bought 1k DND @ IPO = 10k gain (not realized / still holding)
+- bought 1k Palantir @ IPO = 8k gain (not realized / still holding)
+- bought 20k IPIX @ early june = 5k gain (not realized / still holding)
+
+I'm worried about the next move = buying air bnb and a lot of it 
+
+Is this reckless? Should I be selling these? I have no other need for money.
+
+Thanks in advance._END_OF_POST_PYSTOCK_ Ghost Kitchens / Cloud Kitchens? Any publically traded stocks? Hi guys,
+
+Are there any stocks that are geared solely towards or heavily into Ghost Kitchens / Cloud Kitchens? I can't seem to find any publicly traded companies?
+
+It seems like this will be a msssive trend currently and moving forward and also something that makes total sense for new food delivery companies.
+
+Any adjacent markets that could benefit?
+
+Thanks!_END_OF_POST_PYSTOCK_ As a new investor, am I being too hopeful in mmj stock? Aurora up 69.65% Corp Cannibas Etfs up 18% I have my 401k, roth IRA, and employee stock program that is doing good. I'm relying more on that to retire along with other means. I use my extra money to play and learn the market on my own. With that said, MMJ seemed like a no brainer. Full disclosure I've been medical card holder for years so I might be biased. I'm not dumping thousands, but I have about 1800 in stock. Its been hard, however I'm holding on for the long run. 
+
+The more I researched tips and videos. I find your "regular" old trader typically have a negative stance on its future. I think it pretty clear Cannibas turned a corner this year in the U.S, Canada, and Mexico. What do expiernced traders see that I dont?_END_OF_POST_PYSTOCK_ Is there another tool evaluate stock volatility than Beta? New to investing and I was wondering if other metrics exist to assess a stock's volatility. I know that Beta is the tool that most frequently appears on a stock quote, but I'm curious if there are tools out there that I could be using.
+
+FWIW I only just started learning the basics about investing this summer, so if there any books that you can think to recommend on the topic please do so. I have pretty gotten all that I can out of resources like Investopidia._END_OF_POST_PYSTOCK_ Volume Concern Is anyone else concerned with the lack of volume there has been in the overall market in the last 10 years? Look at any major index ETF (SPY, QQQ, IWM) or any Large Cap Blue Chip Stock. We have a record amount of retail traders right now, and with the implementation of High Frequency Traders and new Hedge Funds I would think that volumes would have been increasing in the last 10 years. But we have trading volumes that have been decreasing for 10 years now. I'm not entirely sure what to think about this it just seems strange and doesn't really make sense to me. If anyone could shed some light on this it would be greatly appreciated._END_OF_POST_PYSTOCK_ Walmart earnings top expectations as customers’ new shopping habits send e-commerce sales soaring 79% Earnings per share: $1.34, adjusted vs. $1.18 expected, according to Refinitiv's consensus estimates
+
+Revenue: $134.7 billion vs. $132.2 billion expected by Refinitiv estimates
+
+U.S. same-store sales: up 6.4% vs. gain of 3.9% expected by StreetAccount survey
+
+https://www.google.com/amp/s/www.cnbc.com/amp/2020/11/17/walmart-wmt-q3-2021-earnings-.html_END_OF_POST_PYSTOCK_ How to get more leverage(financing) in the stock market? How can you get more leverage to increase the returns on a high sharpe ratio strategy. Maximum leverage is 1:2 in stocks but I would need something like 1:6 for optimal leverage and resonable drawdowns
+
+Since brokers ask for at least 50% margin, is there another way of financing? Perhaps shorting some low returns products but even for that you need a 50% margin. What are you using when you need more leverage? Unfortunately emitting debt like Goldman Sachs at a 1% yield isn't an option._END_OF_POST_PYSTOCK_ Cracks in MSFT Azure vs. Amazon AWS a concern? I'm betting pretty big on MSFT in the context of Azure for the long term.  It's second only to Amazon's AWS and still has loads of room to grow.  Google's GCP is a distant third.
+
+I'm hearing now that with Azure's rapid scale has come growing pains.  Complaints of reliability and simplicity when compared to Amazon's AWS.  I'm not sure MSFT will be able to shape up in terms of quality (if the rest of the their software really is an example).  Anyone else in the same MSFT boat and feeling nervous?  Basically looking to assuage my fears..._END_OF_POST_PYSTOCK_ Easy / flexible tool to create custom stock screeners? Hi everyone,
+
+Can anyone recommend an EASY tool for setting up custom screens?I use TD Ameritrade but creating screeners is too much programming for me without a particularly good guide.
+
+I'd like to be able to "ask questions" like
+
+"which stocks' prices varied within +/- 10% of their average daily price over the past 30 days?"
+
+or
+
+"which stocks' prices varied within +10% AND -10% of their average daily price over the past 30 days?"
+
+Is there anything that exists like this?  
+
+
+(not sure if this is an "advice" thread, so apologies if this is supposed to go in the sticky)
+
+&#x200B;
+
+thanks_END_OF_POST_PYSTOCK_ Financial Instruments For Betting Against CLOs? I don’t want to make this post excessively long, in my mind I believe that financial institutions that have a lot of exposure to CLOs will see heavy losses in the coming two years, I’m looking for the most potentially profitable instrument that I could use to bet on this.
+
+I was considering very long puts on both KKR and Apollo Capital management, in the event of heavy losses in the CLO field would these puts have a good chance of gaining profit? Would I have more luck purchasing puts on banks directly with large amounts of exposure such as Sumitomo?_END_OF_POST_PYSTOCK_ Why does VXUS have more Japan than China? Looking at the allocations in Vanguard Total International ETF, VXUS, I'm surprised to see that Japan is the biggest holding at 17%. I would have guessed China based on GDP but it's only allocation 12%. How are the market allocations to each country determined?_END_OF_POST_PYSTOCK_ Renewable energy etf recommendation? I’m looking for a renewable energy etf recommendation and would like to take a long view/long term position in renewables to hedge against some of my equities in big oil. I think they will be fine long term but I’d like to start setting the stage for what the world may be like in 20-30 years. Does anyone have a couple of etfs in mind or even individual companies that are worth investing in? I have a Schwab account if that makes any difference. If the etf has a stake in VWDRY that’s all the better. I saw some recent news on wind farms so I’m feeling interested in that. I do own some GE which shares some of that space too. Not sure if I should pursue that more at <$10 a share or move to something else that is strictly energy. If solar is better positioned I’d like to hear your thoughts on that as well. Thanks for your suggestions in advance.
+
+Edit: thanks all!_END_OF_POST_PYSTOCK_ ant's antitrust problem may actually be an upside As you may be aware, Ant Financial's IPO was canceled pending further regulatory action. There are some rumors floating around that Jack made his public comments regarding regulation in the grey area of online lending on purpose. This is so that Ant can be "officially" sanctioned and regulated as a banking institution.
+
+Prior to this, the online lending market is a grey area, with many other smaller products available. What Ant's doing is that they are setting up this regulatory action to kill off other current and future competitors - now you basically a banking license to do this business, and only Ant will have in the foreseeable future. Sure they now have to do things like holding more reserves etc, but they will actually have an effective monopoly in the now legitimized private online lending business with a huge regulatory barrier of entry. In addition, they aren't like the central chinese banks, which frequently are required to lend to certain projects (for example infrastructure projects) which are not profitable.
+
+On the other hand, if Ant IPO'd as a fintech company without any concrete regulations, they are subject to much more regulatory risk in the future, and the down side may be much worse.
+
+In summary, I think BABA is a good medium to long term play. The Ant "antitrust" regulations may curb the tech aspect of the monopoly but in fact allows it to become a banking monopoly (in certain markets)._END_OF_POST_PYSTOCK_
