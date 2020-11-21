@@ -10,8 +10,10 @@ from words import wordFreq
 from datetime import datetime, timezone
 from reddit_trend import save_wf_from_raw
 
-RAW_FOLDER = "raw_data/"
-POST_SEPARATOR = "_END_OF_POST_PYSTOCK_"
+import shared
+
+RAW_FOLDER = shared.RAW_FOLDER
+POST_SEPARATOR = shared.POST_SEPARATOR
 
 subs = ["stocks", "investing", "wallstreetbets"]
 date_pattern = re.compile("g_(.+)\.")

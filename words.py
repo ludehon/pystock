@@ -10,8 +10,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-DATA_FOLDER = "wf4/"
-RESSOURCES_FOLTER = "ressources/"
+import shared
+
+DATA_FOLDER = shared.DATA_FOLDER
+RESSOURCES_FOLTER = shared.RESSOURCES_FOLTER
 
 def clean_string(content):
     content = content.translate(str.maketrans("", "", string.punctuation))

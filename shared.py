@@ -1,0 +1,4 @@
+DATA_FOLDER = "wf4/"
+RESSOURCES_FOLTER = "ressources/"
+RAW_FOLDER = "raw_data/"
+POST_SEPARATOR = "_END_OF_POST_PYSTOCK_"
