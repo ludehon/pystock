@@ -2,12 +2,19 @@ import time
 import praw
 import json
 import time
+import glob
+import re
+import pandas as pd
+from os import listdir
 from words import wordFreq
 from datetime import datetime, timezone
-
+from reddit_trend import save_wf_from_raw
 
 RAW_FOLDER = "raw_data/"
 POST_SEPARATOR = "_END_OF_POST_PYSTOCK_"
+
+subs = ["stocks", "investing", "wallstreetbets"]
+date_pattern = re.compile("g_(.+)\.")
 
 def saveToFile(name, content):
     print("saved")
@@ -37,6 +44,7 @@ def scrapDate(sub, date):
 
     saveToFile(sub + "_" + date, dayContent)
 
+# scrap data from every posts possible (1000 max)
 def scrappAll(sub):
     credentials = json.load(open("credentials.json"))
     reddit = praw.Reddit(
@@ -48,7 +56,7 @@ def scrappAll(sub):
     )
     print("  processing " + sub)
     subreddit = reddit.subreddit(sub)
-    new_sub = subreddit.new(limit=1000)
+    new_sub = subreddit.new(limit=500)
 
     i = 0
     dayContent = ""
@@ -73,14 +81,44 @@ def scrappAll(sub):
     saveToFile(sub + "_" + currentPostDate, dayContent)
 
 
+# either scrap all days or 1 date only
 def scrap(sub, date=None):
     if date:
         scrapDate(sub, date)
     else:
         scrappAll(sub)
 
+# get date from fileName
+def get_date(filename):
+    match = date_pattern.search(filename)
+    if not match:
+        return None
+    date = match.group(1)
+    date = datetime.strptime(date, '%Y-%m-%d')
+    return date
+
+# scrap data from unprocessed days in /raw, and save the stats into json in /wf
+def scrapMissing():
+    files = glob.glob("raw_data/investing*.txt")
+    dates = (get_date(file) for file in files)
+    dates = (d for d in dates if d is not None)
+    last_date = max(dates)
+    today = datetime.today()
+    dates = pd.date_range(start=last_date, end=today).tolist()
+    dates = dates[1:]  # unprocessed dates
+    if (len(dates) == 0):
+        return
+    start = dates[0]
+    end = dates[-1]
+    for date in dates:
+        date = str(date).split(" ")[0]
+        for sub in subs:
+            scrapDate(sub, date)
+    save_wf_from_raw(start, end)
+    
+
 if __name__ == "__main__":
-    subs = ["stocks", "investing", "wallstreetbets"]
-    for sub in subs:
-        scrap(sub, "2020-11-17")
+    # for sub in subs:
+    #     scrap(sub, "2020-11-21")
+    scrapMissing()
 

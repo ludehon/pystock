@@ -1,0 +1,636 @@
+ Most promising stock of 2019/2020 IPO’s If you had to pick 1 stock to dca into over the next 5 years looking for maximum growth potential which would it be? $U has really captured my attention and I think that’s the one I would choose. Disclaimer, this is my first post._END_OF_POST_PYSTOCK_ What’s the big deal with earnings? I constantly see posts about upcoming earnings reports. Why would someone that isn’t already invested in a company care about there earnings? How do earning correlate to how the stock performs immediately afterward? What information are people looking to gain from an earnings report?_END_OF_POST_PYSTOCK_ How do you pick growth stocks? Hi everyone,
+
+I'm a fairly new investor (\~early 20s), so far I've really bought into index funds and dividend stocks, but have been hearing that I need to look more and more into growth stocks. I'm interested in picking a few individual growth stocks. Beyond the obvious stable but growing tech picks like Microsoft, Apple, Google, etc. how do you identify growth? Is it a lot of betting on potential of a product/idea? A lot of the growth stocks that soar in value seem to not be showing positive earnings. I'm curious how to identify and get in on growth stocks, since it seems like its largely gambling to me._END_OF_POST_PYSTOCK_ Investors finally reward General Motors’ shift to EVs even as it cuts emerging mobility plans https://www.cnbc.com/2020/11/21/coronavirus-pandemic-and-evs-prove-gms-worth-to-investors.html
+
+As GM profitably navigates the coronavirus pandemic, Wall Street is paying more attention to its EV operations.
+
+GM has discontinued several “mobility” initiatives such as Maven and e-bikes to better concentrate on more profitable or lucrative operations.
+
+Many of the initiatives were launched in an effort to spur GM’s lagging stock price and position it as a “mobility” company._END_OF_POST_PYSTOCK_ Not sure if it's been posted about but thoughts on SBE? As the coming partnership with ChargePoint is nearing, the stock has taken off in the last 5 days, going from 17$ all the way to its high at around 27$. 
+
+I know the company is backed by some major companies, most importantly Tesla. These guys have the majority of the market when it comes to supplying charging stations around NA and EU. What do you guys think about the future of this company? To me, the future looks bright. Is it a good buying time?_END_OF_POST_PYSTOCK_ Should you sell off your profits to secure your wins Is this a method people do?
+For example, if I have 10 stocks at $1 and it goes up to $1.10.
+Im now at $11 total and so I should sell off 1 share in order to secure my gain?
+
+Is this a thing?
+
+My guess is that this is a tactic that can be useful since most people cant continuously monitor their stock gains/losses every single minute.
+
+At some point im guessing youll be left with 1 stock if all goes well and then you just sell that off. 
+
+How would this strategy work out compared to just keeping a stock for a really long time?_END_OF_POST_PYSTOCK_ Johnson & Johnson (NYSE: JNJ) - An in-depth Stock Analysis # Introduction:
+
+Good morning everyone. It is apparent that JNJ is going to win the poll (on r/dividends), so here is the post as promised. The poll still has a little time, an analysis will be done for whichever stock is in 2nd place, and last place. Additionally I am considering grabbing one from the comments.
+
+Anyways, Since this is a more in-depth look at the stock we will be answering the same questions again.
+
+There will be a few questions we are looking to answer:
+
+1. Is there revenue growth?
+2. Is there earnings growth?
+3. Is the company really leveraged?
+4. Is there strong cash flow?
+
+Let's start by taking a look at the business model and moat.
+
+# JNJ - Johnson & Johnson:
+
+Johnson & Johnson is classified as a Dividend King, they have paid dividend continuously since 1963 and increased for 58 consecutive years.
+
+Johnson & Johnson is the world’s largest and most diverse healthcare company. Three divisions make up the firm:
+
+* pharmaceutical,
+* medical devices and diagnostics,
+* consumer good/discretionary
+
+The pharmaceutical and medical devices account for \~80% of sales and generates most of the cash flow. The drug division focuses on the following therapeutic areas:
+
+* immunology,
+* oncology,
+* neurology,
+* pulmonary,
+* cardiology,
+* metabolic diseases.
+
+The device segment focuses on surgery tools, orthopedics, vision care, and a few others. The last segment of consumer focuses on baby care, beauty, oral care, over-the-counter drugs, and women’s health.
+
+**Strengths:**
+
+>\-  Johnson & Johnson is one of the well known and trusted brands in the world. It it one of the most consistent earnings growers.  
+>  
+>\- Their 3 healthcare segments provide unequaled diversity of quality products for the healthcare industry.  
+>  
+>\- Developed nations have populations whose average age is increasing rapidly. Older people consume, on average, 7 times as much healthcare services and products as younger people. In addition, the growing global middle-class will be consuming an increasing amounts of healthcare. This will further increase their sales.  
+>  
+>\- The company is more resistant to competitors due to its established distribution network and sales.
+
+**Risks:**
+
+>\-  Litigation surrounding several J&J products have the potential to blemish the company’s reputation and cost billions of dollars. There is currently an ongoing talcum powder lawsuit.  
+>  
+>\- They are subject to more broad threats to the privatized healthcare industry, to include: increased regulation/scrutiny from consumers and government, plans for more government run healthcare, and increased risk of higher lawsuit costs. There are plenty of other threats to the healthcare industry as a whole, however JNJ is more resistant to the institution of gov't funded healthcare since they provide so many products. However there is always the threat of decreased profit margins as regulations call for price fixing.  
+>  
+>(NOTE: This is not an endorsement for or against either Government Funded/Privatized Healthcare, this is simply mentioning a potential risk to the company due to a changing environment, nothing more)
+
+# Financial History:
+
+One thing that is really nice about Johnson and Johnson is their company financial performance sheets give 10 years of history, most of the time companies will just do 3, or 5 years, so they are definitely not trying to hide anything, and as we will see below, they have no reason to.
+
+|Year|Revenue|EBITDA|Debt|Debt / Earning|
+|:-|:-|:-|:-|:-|
+|2011|$65,030|$19,389|$14,179|0.7|
+|2013|$71,312|$23,161|$15,123|0.7|
+|2015|$70,074|$22,116|$15,200|0.7|
+|2017|$76,450|$24,539|$32,183|1.3|
+|2019|$82,059|$28,079|$28,579|1.0|
+
+The revenue has increased an average of 3% average, the earnings has increased faster than the top line revenue at 4.7% average, and they are very under-leveraged when it comes to debt, especially compared to some recent companies we have seen (IBM, KO, PEP).
+
+|Year|Cash Flow from Operations|Capital Expenditures|FCF/E Ratio|
+|:-|:-|:-|:-|
+|2011|14,298|2,893|15,859|
+|2015|19,569|3,463|16,113|
+|2019|23,416|3,498|17,098|
+
+Increases straight across the board. CFO has increased 6% average, their CAPEX has increased by an average of 2%, but regardless their Free Cash Flow to Equity ratio is increasing despite them putting more money back into the company. They have been using some of their additional cash flow to pay down debt, the debt payment for 2019 was $2.82 Billion. Dividend Payments accounted for \~$10 Billion, and with some of the remaining the company bought back shares.
+
+So ...
+
+1. Is there revenue growth?  - Yes
+2. Is there earnings growth? - Yes
+3. Is the company really leveraged? - Very low debt
+4. Is there strong cash flow? - Yes
+
+# Some other numbers:
+
+NOTE: Current for November 2020 and very likely to change.
+
+|Current Annual Payout / Share|$4.04|
+|:-|:-|
+|Yield|2.76%|
+|10 Yr Div Growth Rate|6.9%|
+|3 Yr Div Growth Rate|6.0%|
+|1 Yr Div Growth Rate|5.9%|
+|Current EPS Payout Ratio|64.64%|
+
+From a dividend growth standpoint, this would potentially be a great portfolio inclusion. With many companies the 1/3 year dividend growth has been decreasing, JNJ has been maintaining and they have strong prospects of increasing the dividend growth rate again.
+
+Let's project what the Annual Dividend Payout could be using a 6% constant growth rate. (NOTE: Just an estimate, not a guarantee of what could happen)
+
+|Year|2021|2022|2023|2024|2025|
+|:-|:-|:-|:-|:-|:-|
+|Payout|$4.28|$4.53|$4.81|$5.10|$5.40|
+
+Delicious.
+
+# Final Thoughts:
+
+From a financial perspective, JNJ is incredibly healthy, they have increasing revenue, earnings, low-debt, and high cash flow. Additionally, they responsibly uses their cash flow to pay down debt, pay their shareholders, and buy back shares. Additionally, the dividend history and growth is very consistent.
+
+There are definitely some risks to consider, the company does face lawsuits often enough and the details/payouts for those were not discussed here. Furthermore the health care sector is more subject to a changing environment due to the expansion/introduction/rollback of regulations and expansion of public healthcare options. Take this into consideration.
+
+I hope everyone found this post interesting, please supplement this with your own research.
+
+As always, thanks for reading, and have a good day/night!
+
+EDIT: For those than cannot find the poll and are interested, [It can be found here.](https://www.reddit.com/r/dividends/comments/jxs9uy/which_of_the_following_would_you_like_to_see_a/?utm_source=share&utm_medium=web2x&context=3)_END_OF_POST_PYSTOCK_ Seeking advice in this subreddit about what certain stocks are going to do in the future is the equivalent of asking the same to a magic 8 ball. I know similar stuff has been said here, but I keep seeing this problem still. This sub is great to look at DD’s at stocks and to get good stock news. However, it is incredibly ridiculous the amount of posts and comments here asking what x stock is going to do or how the stock market is going to perform next month. I would've thought it would be just the people who are new to the stock market or this subreddit, but there are actually a large number of people here that have been posting/commenting on the subreddit for a while, meaning they aren't new here and they STILL do this. 
+
+However, this isn't even the main problem. The actual problem is the people who reply to these posts/comments and they act like they know what they are talking about so they will say some BS with 100% confidence which probably will influence many of the people who don't know any better. The more you think about it, the more concerning it actually becomes. I don't believe ignorance warrants someone to getting screwed over so just because someone is dumb enough to trust a random redditor and lose money doesn't mean they deserve it. This is very serious stuff since this is literally people's money and I wish more people realized how awful it is that people will come here and look at any advice and dump their money into a random stock and then come back later with major losses.
+
+**I think this even applies to most people on this subreddit but at a more subliminal level**. I have a feeling that there are many people here that still are prone to this, even if they don't blatantly listen to random people. For example, pretty much everyone in this subreddit agreed to not buy anything during March because "the bottom hasn't come yet". I have even seen posts asking if the stimulus package would help the stock market and people pretty much agreed that it wasn't going to do much (you can look at the threads if you want). People would reply to these posts with absolute confidence; not a "probably not" or "I don't think so", but a "It's not going to do x". When these posts/comments are constantly upvoted and replicated, this can even influence the people who disagreed, creating a conformity effect based on majority social influence and not factual information. 
+
+I guarantee you there are people here who were interested in buying in March when stocks were at a very low price, looked at this subreddits opinions, and ended up not buying them because the majority of people said not to. When in reality, that would've been the ideal thing to do, and they could've made a lot of money. I don't know how these types of posts and comments are so popular on this subreddit, but they are. I am making this post to remind people of these things, and I don't want the same thing to happen to as many people in the future._END_OF_POST_PYSTOCK_ EV Bubble Pop Is Going to Leave so Many Bagholders in This Sub The amount of posts stating “I’ve made so much money on NIO, BLNK, XPNG, LI, etc. but EVs are the future and I’m not selling” are nuts. I also rode SBE but sold at $25-$26 as a 100% gain on no fundamental change to the company is insane. 
+
+Yeah EVs probably are the future, but when everything EV related is flying (Blink has $4M in revenue and a $600M+ market cap, that’s 150 P/S ratio lmao) they’re all going down together soon.
+
+Take profits, selling is as if not more important than buying. For the “if it’s a longterm investment don’t time the market” and “idc if it dips I’m holding for years, cost doesn’t matter in the longterm” quit being ignorant.
+
+Cost basis 100% matters in the longterm, buying a stock now vs buying after a 50% decline will lead to a massive multiple difference in returns down the road if it performs well.
+
+The FOMO is obvious, get your popcorn ready for some loss porn._END_OF_POST_PYSTOCK_ I have 6k can I get any stock recommendations? So I just invested for the first time last week I put 1000$ into Tesla and came out this weekend at 1200$ I want to learn and know more so if you guys could give me any tips on what or where I can learn more so I can invest intelligently or give me recommendations on what you all think I should put my 6k into send a comment! I’m currently in army training so I only get my phone on the weekends but any help would be awesome! Thanks._END_OF_POST_PYSTOCK_ How do I find the quality research I need when google doesn’t cut it? I’m new to the stock market and I’m 20 years old I can’t invest yet since I’m really short on cash but with in the next couple of months I should be able to correct my financial mistakes and start saving some buffer money. Then after that I will start investing. Meanwhile I want to do lots of quality research so I can make educated investments.
+
+I thought of some things that I should consider when investing but whenever I try to look them up about a company I can’t find it. For example I would try to look at what kind of insurance policies a company has but I would get weird results from google. I want to build a profile on most of the things that can go wrong with a company and what they have going for them but its hard to do that with google. Also, the news only updates me on what is happening right now which doesn’t help. 
+
+TL:DR- how do I find out quality info on companies (like insurance policies, risks, Ceo’s history, possible things that can go wrong, advantages, ect.) Google and the news alone don’t seem like enough._END_OF_POST_PYSTOCK_ I’m just starting to learn about stocks for investment purposes, I have some questions I live in Iraq. So if I want to invest in Tesla for example, would I face any problems? Also, would it be ok to use foreign online brokers like TD ameritrade? 
+
+And if there are any recommendations for things I should learn about through searching/reading, please let me know. My current knowledge about stocks is pretty limited._END_OF_POST_PYSTOCK_ ETF investor wants to buy growth stock with market cap below 15B (that pays dividend). Hi, I'm looking for stocks to add to my portfolio that have a market cap below 15B (and pay a dividend).  
+The idea is to purchase stocks that may outperform QQQ and be target for a merger/acquisition.  
+  
+Only found TER (Teradyne) so far. 
+I can do without dividends too if the stock has great products like CRNC (Cerence).  
+Any suggestions?_END_OF_POST_PYSTOCK_ Wall Street Week Ahead for the trading week beginning November 23rd, 2020 Good Saturday morning to all of you here on r/stocks. I hope everyone on this sub made out pretty nicely in the market this past week, and is ready for the new trading week ahead.
+
+Here is everything you need to know to get you ready for the trading week beginning November 23rd, 2020.
+
+# **Stocks may continue to struggle Thanksgiving week amid Covid-19 outbreaks  - [(Source)](https://www.cnbc.com/2020/11/20/stocks-may-continue-to-struggle-thanksgiving-week-amid-covid-19-outbreaks.html)**
+*****
+> Stocks could continue to struggle with the twin themes of the spreading virus and a potentially robust recovery, once a vaccine is deployed next year.
+*****
+> In the coming week, the restrictions the spreading virus is imposing on the economy will be clear, when many Americans choose to stay at home over the Thanksgiving Day holiday and partake in much smaller celebrations.
+*****
+> “On the Covid side, there will be more lockdowns, but I think the message is loud and clear. ‘People: Don’t be cavalier around Thanksgiving,’” said Tom Lee, founder of Fundstrat. Thanksgiving traditionally kicks off the holiday shopping season, an important time of the year for the economy which could be hobbled by Covid. The U.S. reported 182,000 new cases Thursday.
+*****
+> Lee said the market will continue to feel the push pull of the drag from the pandemic against the promise of recovery, seen in the rebound of cyclical stocks. Cyclical sectors industrials and materials were both up about 1% for the week, and financials were up a half percent. But tech and communications, both big tech and growth sectors that benefited from the stay-at-home trade, were lower.
+*****
+> “I think stocks are kind of consolidating and maybe it’s going to go on for a couple of days,” Lee said. He added that stocks could start to perk up late in the week, and investors are expecting stocks to head higher into year end. “The cyclicals have held up like champs, and the small caps, and value have been really holding up,” Lee said.
+*****
+> Stocks were mixed in the past week, with the Dow and S&P 500 slightly lower, and the Nasdaq up 0.2%. The Russell 2000 was the star performer, with a gain of 2.4% for the week. The Russell is up 16% since the beginning of October.
+*****
+> The S&P shot up sharply on Nov. 9 when Pfizer announced its vaccine as 95% effective, but it never regained that intraday high of 3,645 and has since traded in a sideways pattern. The S&P 500 closed at 3,557 Friday, down 0.8% for the week.
+*****
+> JPMorgan economists warned Friday that the “winter will be grim” and they forecast that the restrictions due to the virus will drag on the economy, resulting in a negative first quarter. They expect a strong rebound in the second and third quarter, once the vaccine is distributed and an anticipated fiscal stimulus program takes hold.
+*****
+> “It’s hard for some investors to look over that period and see the recovery. I think this is where we are now,” said Katie Nixon, Northern Trust Wealth Management CIO. She said the concern is how much damage the restrictions will do as the virus spreads at a record rate. “This is happening and with exponential force right now. It’s just shocking to see the numbers and how state and local authorities are trying to deal with it in a variety of ways.”
+*****
+> But Nixon said she’s very positive on the market longer term, and the economy will heal once the vaccine becomes available. She said fiscal stimulus from Washington would help.
+*****
+> Senate Majority Leader Mitch McConnell signaled he would again discuss a package with Democrats, and that funds that were being used for Fed programs could be diverted to a fiscal package.
+*****
+> The Treasury Thursday indicated it would not continue five of the Fed’s emergency program from when they expire at year end, surprising some in the markets. The Fed objected, but the markets took the development in stride, as traders expect the programs to be reinstated if financial conditions warrant it.
+*****
+> The Fed releases the minutes of its last meeting Wednesday afternoon, and that could be important as traders are watching to see if the central bank reveals any detail of discussions on potential changes to its asset buying program. There is widespread speculation the Fed could tweak its $80 billion Treasury buying program at the December meeting to include more longer duration notes and bonds, a move that should hold down already low long-term rates.
+*****
+> Also in the week ahead, there is some key data including personal income and spending and durable goods on Wednesday. Consumer confidence is Tuesday and consumer sentiment is released Wednesday. There are also a few Fed speakers, who will be watched closely for any comments on the expiring programs.
+*****
+> Any word on fiscal stimulus talks will get market attention, though there is skepticism anything will before next year. If a package is not passed, the unemployment benefits going to 12 million Americans will end at the end of December, and mortgage forbearance will end. Bank of America economists said if there is no stimulus package to prevent these things, there would be a 1.5 percentage point drag on first quarter growth.
+*****
+> “The biggest thing we need to do is prevent bankruptcies and prevent unemployment from rising,” Nixon said. She said the labor market has stalled, and it is important to avoid the deep scarring from bankruptcies.
+*****
+> She said it is not too late for investors to get in on the rotation into growth,and some investors are worried they didn’t get in on time. “Value has so much to go to catch up on growth,” she said.
+*****
+
+# **This past week saw the following moves in the S&P:**
+###### **([CLICK HERE FOR THE FULL S&P TREE MAP FOR THE PAST WEEK!](https://i.imgur.com/Dt851zw.png))**
+
+# **Major Indices for this past week:**
+###### **([CLICK HERE FOR THE MAJOR INDICES FOR THE PAST WEEK!](https://i.imgur.com/z0QkpJg.png))**
+
+# **Major Futures Markets as of Friday's close:**
+###### **([CLICK HERE FOR THE MAJOR FUTURES INDICES AS OF FRIDAY!](https://i.imgur.com/C6pCv7E.png))**
+
+# **Economic Calendar for the Week Ahead:**
+###### **([CLICK HERE FOR THE FULL ECONOMIC CALENDAR FOR THE WEEK AHEAD!](https://i.imgur.com/oZTJQHz.png))**
+
+# **Percentage Changes for the Major Indices, WTD, MTD, QTD, YTD as of Friday's close:**
+###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/cvWS8RF.png))**
+
+# **S&P Sectors for the Past Week:**
+###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/8Ne631r.png))**
+
+# **Major Indices Pullback/Correction Levels as of Friday's close:**
+###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/zxKBLlJ.png)**
+
+# **Major Indices Rally Levels as of Friday's close:**
+###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/7rkxdbu.png))**
+
+# **Most Anticipated Earnings Releases for this week:**
+###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/oc4y8Xg.png))**
+
+# **Here are the upcoming IPO's for this week:**
+###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/Cr8W4RY.png))**
+
+# **Friday's Stock Analyst Upgrades & Downgrades:**
+###### **([CLICK HERE FOR THE CHART LINK #1!](https://i.imgur.com/ZLXSTFW.png))**
+###### **([CLICK HERE FOR THE CHART LINK #2!](https://i.imgur.com/6y6L8lt.png))**
+
+*****
+
+> # The Thanksgiving Trade
+
+> Trading around Thanksgiving has a bullish tendency perhaps buoyed by the “holiday spirit.” First published in the 1987 Stock Trader’s Almanac, the Wednesday before and the Friday after Thanksgiving combined were up 34 times in 35 years. The only S&P 500 decline was in 1964.
+
+> Subsequently, this trend changed. In the 33 years since 1987, there have been 9 declines and 24 advances. The best short-term trade appears to be getting long into any weakness on Monday or Tuesday of Thanksgiving week and selling into any subsequent rally by the end of Thanksgiving week. But as COVID-19 cases are on the rise again remain nimble as exogenous events like Greece’s debt crisis in 2011 or 2018’s fourth quarter rout can cancel Thanksgiving on Wall Street.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://64.media.tumblr.com/b5ce4af9292059c4d14b95baeef02b2c/d8ddf7af01919e17-07/s1280x1920/c4a8ff5b8e431b28dd3e24654e98204861afd94d.jpg))**
+
+> Also of note is the change in the yearend rally. Prior to 1987, from the close of trading on the Friday after Thanksgiving to yearend, the S&P 500 rallied only 20 times in 35 years. As Thanksgiving bullishness lost steam in 1987, the rally afterwards occurred more frequently. Since 1987, S&P 500 has logged gains in 25 of 33 years from the close on Friday after Thanksgiving to yearend.
+
+*****
+
+> # 5 Noteworthy Charts To Watch As Stocks Soar
+
+> First, the big economic data point this week was retail sales. Although the headline number was a little light at 0.3% versus an expected 0.5% gain month-over-month, it still hit another new all-time high along the way (source: US Census Bureau). “The miss could be a sign the consumer is finally starting to slow amid record COVID-19 cases and more restrictions, with restaurant sales dipping for the first time since April,” explained LPL Financial Chief Market Strategist Ryan Detrick.
+
+> The good news is retail sales has hit a new high for five consecutive months, and the economy has never been in a recession after three consecutive new highs—yet another sign the recession may be over, even if it hasn’t been called officially.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://i0.wp.com/lplresearch.com/wp-content/uploads/2020/11/11.18.20-Blog-Chart-1.png?ssl=1))**
+
+> How strong has the recent rally been? Well, as of Tuesday’s close, the S&P 500 Index was on pace to have its second-best month of November ever. November isn’t over yet of course, but this could open the door to a potential late-month snap back lower after a huge move, which would be perfectly normal and healthy.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://i1.wp.com/lplresearch.com/wp-content/uploads/2020/11/11.18.20-Blog-Chart-2.png?ssl=1))**
+
+> After Monday’s record close, the S&P 500 now has 24 new all-time high closes in 2020.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://i0.wp.com/lplresearch.com/wp-content/uploads/2020/11/11.18.20-Blog-Chart-3.png?ssl=1))**
+
+> The surge after the election was historic in many ways. The number of stocks in the S&P 500 recently making new monthly highs caught our attention. As shown in the LPL Chart of the Day, previous surges in new monthly highs opened the door for near-term weakness, but the weakness was a nice buying opportunity. In fact, a year after previous major breadth thrusts saw stocks higher every single time, not something we want to ignore.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://i0.wp.com/lplresearch.com/wp-content/uploads/2020/11/11.18.20-Blog-Chart-4.png?ssl=1))**
+
+> Last, more than 85% of the stocks in the S&P 500 recently were above their 200-day moving average—another sign of impressive participation in this recent market strength. Once again, future results would suggest this extreme strength is a sign of potential future strong performance and weakness could be used as a buying opportunity.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://i1.wp.com/lplresearch.com/wp-content/uploads/2020/11/11.18.20-Blog-Chart-5.png?ssl=1))**
+
+*****
+
+> # B.I.G. Tips - Retail Sales Slow
+
+> The October Retail Sales report missed expectations this morning on both a headline and core basis. In addition to the weaker than expected reading for October, September's report was also revised lower.
+
+> Breadth in this month’s report was also negative for the first time since April. Of the thirteen sectors tracked in the report, just five showed growth while eight declined. On the positive side, Non-Store retail was the main bright spot with m/m growth of 3.11%. That’s the last thing every traditional retailer wants to hear and could be indicative of another wave of retrenchment on the part of consumers as the weather gets colder and case counts rise. Electronics and Appliances also reported strong sales growth likely aided by the launch of the iPhone 12. On the downside, Clothing and Sporting Goods both saw m/m declines of over 4%, while sales at General Merchandise retailers dropped 1.1%.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2020/11/111720-retail-by-category.png))**
+
+> While the monthly pace of retail sales is back at all-time highs, the characteristics behind the total level of sales have changed markedly in the post COVID world. In our just-released B.I.G. Tips report, we looked at these changing dynamics to highlight the groups that have been the biggest winners and losers from the shifts.
+
+*****
+
+> # Finally A New High for Small Caps
+
+> It only took over two years, but the Russell 2000 finally put in a new all-time high on Friday. As shown in the charts below, Friday marked the first all-time high on a closing basis since August 31st, 2018; a total of 553 trading days between highs. As shown in the second chart below, since the index began trading in the late 80's, that makes for the third-longest stretch without a new high. The only two longer periods were from March 10th, 2000 through April 2nd, 2004 and from July 16, 2007 through April 26th, 2011. Both of those streaks were nearly twice as long as the past two years' streak.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2020/11/111620-R2000.png))**
+
+> The Russell 2000 is up another 2% to more fresh highs this morning, but the recent move to new highs has left the index very overbought. As shown in the snapshot of our Trend Analyzer below, at Friday's close small caps like the Russell 2000 (IWM) and Core S&P Small-Cap ETF (IJR) are two of the most overbought major index ETFs after having seen some of the strongest performance over the past five days. Granted, as other large-cap indices like the S&P 500 (SPY) and Nasdaq (QQQ) were quicker to return to all-time highs earlier this year making them some of the stronger performers on the year, small caps have been laggards on a year to date basis. In other words, this year's weakest performers have been a factor in recent strength. Click here to view Bespoke's premium membership options for our best research available.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2020/11/111620-R2Kf-TA.png))**
+
+*****
+
+> # A Month for the Ages
+
+> Just when you think you've seen it all from this market, a month like November comes around. Stock returns so far this month have been extraordinary, and what makes the gains even more impressive is the fact that they came not from a starting point of a depressed bear-market environment but instead from a level that was already pretty close to record highs. Within the Russell 3000, which encompasses stocks with market caps of all sizes, the average MTD performance of stocks in the index is a gain of over 15%. Even in the large-cap S&P 500, the average stock in the index has rallied more than 13.5% so far this month! Keep in mind too that these are just averages, and plenty of individual stocks are up multiples of that.
+
+> In the Russell 3000, there are 51 stocks that are up over 50% so far in November. We don't have enough room to list them all, but the first table below shows the twenty top performers. Topping the list is Five Prime Therapeutics (FPRX), which has rallied more than 349% this month! That's years worth of returns in sixteen days. Behind FPRX, there are two other stocks - Cooper Standard (CPS) and Revlon (REV) - which have both more than doubled. Many of the names listed below are unknown small caps, but a handful of names like Transocean (RIG), Coty (COTY), and Lyft (LYFT) are very well known.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2020/11/111620-Best-RAY-MTD.png))**
+
+> In the large-cap S&P 500, the gains haven't been as gaudy but are still impressive. As shown in the table below, the twenty top-performing stocks in the index are all up over 30% MTD. One sector well represented on this list is Energy with eight of the twenty names listed coming from that sector.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2020/11/111620-Best-SP-MTD1.png))**
+
+> While just about every stock in the S&P 500 is up this month, 18 stocks have managed to trade lower. Of these 18 stocks, only two - Hanesbrands (HBI) and NortonLifeLock (NLOK) - are down more than 5%. What's really interesting about this list, however, is that while Energy dominates the list of S&P 500 winners, no sector dominates the list of losers as it's a diverse set of stocks spanning ten of the eleven GICS sectors. The only sector not represented is Industrials.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2020/11/111620-Worst-SP-MTD.png))**
+
+*****
+
+> # Long Term Averages Taken Out
+
+> With equities having another strong day yesterday, a large number of stocks closed above their 200-DMAs. For the S&P 500 as a whole, nearly 90% of the index closed above their long term moving averages. That was the highest percentage for the broad index since July 3rd, 2014. As equities pullback today, that reading is lower at 86.56% as of this writing which is still in the 90th percentile of readings since 1990.
+
+> As shown in the charts below, the same applies on a sector by sector basis as well. Consumer Discretionary, Consumer Staples, Financials, Industrials, and Materials all currently boast readings above 90%. For Consumer Discretionary, there have been a few similarly high readings since the start of the month, and these have all been the highest on record since at least 1990. For other sectors, recent readings have similarly been at multi-year highs. Levels for Communication Services, Health Care, and Materials, are all their highest since September or late August, but for others, it has been much longer since we saw similar readings. For example, the last time Industrials saw as high of a percentage of stocks above their 200-DMA was way back in May of 2013, and for Consumer Staples, the last higher reading was in October of 2013. The sector that has the weakest number of stocks above their 200-DMAs is unsurprisingly Energy. Whereas yesterday exactly half of the stocks in the Energy sector finished above their 200-DMA, today less than a third remain above that level. Granted, that is far better than the end of October when not even 5% were above.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2020/11/111720-200-Day.png))**
+
+> In the table below, we show a list of the S&P 500 Energy sector's components showing how far each is above/below their 200-day moving average as well as the MTD and YTD performance. Baker Hughes (BKR), Halliburton (HAL), and Marathon (MPC) are all the most elevated, currently above their 200-DMAs by double-digit percentages. TechnipFMC (FTI) and National Oilwell Varco (NOV) have been the top performers in the sector, but they both still sit a few percentage points below their 50-DMAs even after rallies of more than 40% this month. The only Energy sector stock to have fallen in what has been a remarkably strong month is Cabot Oil and Gas (COG), though it is one of the best performers YTD with a decline of just 2.4%. Still, its recent decline leaves it as one of the furthest below its 200-DMA.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2020/11/111720-200-DMA-table2.png))**
+
+*****
+
+> # Stocks Flying Around the Globe
+
+> Since bottoming on the last trading day of November, the S&P 500 (SPY) has had a banner month so far this November rising 10.61% month to date. While there is still nearly two weeks left in the month, SPY is on pace for its best month since April. That is also in the top 1% of monthly moves of the past two decades. Other than April, the only month of the past 20 years that has seen a larger gain was October of 2011.
+
+> Looking across the various country ETFs in our Global Macro Dashboard, there similarly have been some massive moves so far this month. Several of these have risen over 20% and only two, India (INDA) and China (MSHI), have risen by single-digit percentages. Spain (EWP), Italy (EWI), France (EWQ), Mexico (EWW), Norway (ENOR), and the UK (EWU) are all on pace for their best month of the past twenty years. Every other country ETF is also seeing monthly moves in the top decile of their respective 20-year ranges. For some of these, like Singapore (EWS) or Switzerland (EWL), this month has been the best month in over a decade.
+
+> ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2020/11/111820-Country-ETF.png))**
+
+*****
+
+###### **([CLICK HERE FOR NEXT WEEK'S MOST NOTABLE EARNINGS RELEASES!](https://i.imgur.com/oc4y8Xg.png))**
+###### **([CLICK HERE FOR NEXT WEEK'S HIGHEST VOLATILITY EARNINGS RELEASES!](https://i.imgur.com/hQbUx7g.png))**
+
+*****
+
+Below are some of the notable companies coming out with earnings releases this upcoming trading week ahead which includes the date/time of release & consensus estimates courtesy of Earnings Whispers:
+
+*****
+
+> # ***Monday 11.23.20 Before Market Open:***
+> ###### ([CLICK HERE FOR MONDAY'S PRE-MARKET EARNINGS TIME & ESTIMATES!](https://i.imgur.com/BMoOMlV.png))
+
+> # ***Monday 11.23.20 After Market Close:*** 
+> ###### ([CLICK HERE FOR MONDAY'S AFTER-MARKET EARNINGS TIME & ESTIMATES LINK!](https://i.imgur.com/36x74Ed.png))
+
+*****
+
+> # ***Tuesday  11.24.20 Before Market Open:***
+> ###### ([CLICK HERE FOR TUESDAY'S PRE-MARKET EARNINGS TIME & ESTIMATES!](https://i.imgur.com/l4A2Jya.png))
+
+> # ***Tuesday 11.24.20 After Market Close:*** 
+> ###### ([CLICK HERE FOR TUESDAY'S AFTER-MARKET EARNINGS TIME & ESTIMATES!](https://i.imgur.com/NDGIEPk.png))
+
+*****
+
+> # ***Wednesday 11.25.20 Before Market Open:*** 
+> ###### ([CLICK HERE FOR WEDNESDAY'S PRE-MARKET EARNINGS TIME & ESTIMATES!](https://i.imgur.com/9El1A8i.png))
+
+> # ***Wednesday 11.25.20 After Market Close:*** 
+> ###### ([CLICK HERE FOR WEDNESDAY'S AFTER-MARKET EARNINGS TIME & ESTIMATES!]())
+NONE.
+
+*****
+
+> # ***Thursday 11.26.20 Before Market Open:*** 
+> ###### ([CLICK HERE FOR THURSDAY'S PRE-MARKET EARNINGS TIME & ESTIMATES!]())
+NONE. (U.S. MARKETS CLOSED IN OBSERVANCE OF THANKSGIVING DAY.)
+
+> # ***Thursday 11.26.20 After Market Close:*** 
+> ###### ([CLICK HERE FOR THURSDAY'S AFTER-MARKET EARNINGS TIME & ESTIMATES!]())
+NONE. (U.S. MARKETS CLOSED IN OBSERVANCE OF THANKSGIVING DAY.)
+
+*****
+
+> # ***Friday 11.27.20 Before Market Open:*** 
+> ###### ([CLICK HERE FOR FRIDAY'S PRE-MARKET EARNINGS TIME & ESTIMATES!]())
+NONE.
+
+*****
+
+> # ***Friday 11.27.20 After Market Close:***
+> ###### ([CLICK HERE FOR FRIDAY'S AFTER-MARKET EARNINGS TIME & ESTIMATES!]())
+NONE.
+
+*****
+
+> # Best Buy Co., Inc. $119.14
+**Best Buy Co., Inc. (BBY)** is confirmed to report earnings at approximately 7:00 AM ET on Tuesday, November 24, 2020. The consensus earnings estimate is $1.73 per share on revenue of $10.90 billion and the Earnings Whisper ® number is $1.93 per share. Investor sentiment going into the company's earnings release has 67% expecting an earnings beat. Consensus estimates are for year-over-year earnings growth of 53.10% with revenue increasing by 11.63%. Short interest has decreased by 7.3% since the company's last earnings release while the stock has drifted higher by 5.0% from its open following the earnings release to be 31.2% above its 200 day moving average of $90.81. Overall earnings estimates have been revised higher since the company's last earnings release. On Wednesday, November 11, 2020 there was some notable buying of 2,115 contracts of the $125.00 call expiring on Friday, November 27, 2020. Option traders are pricing in a 7.4% move on earnings and the stock has averaged a 6.0% move in recent quarters.
+
+> #([CLICK HERE FOR THE CHART!](http://elite.finviz.com/chart.ashx?t=BBY&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l))
+
+*****
+
+> # Niu Technologies $35.73
+**Niu Technologies (NIU)** is confirmed to report earnings at approximately 3:00 AM ET on Monday, November 23, 2020. The consensus earnings estimate is $0.18 per share on revenue of $139.37 million and the Earnings Whisper ® number is $0.24 per share. Investor sentiment going into the company's earnings release has 58% expecting an earnings beat. Consensus estimates are for year-over-year earnings growth of 50.00% with revenue increasing by 52.21%. Short interest has increased by 43.4% since the company's last earnings release while the stock has drifted higher by 78.7% from its open following the earnings release to be 117.9% above its 200 day moving average of $16.40. Overall earnings estimates have been revised higher since the company's last earnings release. On Thursday, November 5, 2020 there was some notable buying of 2,443 contracts of the $35.00 call expiring on Friday, December 18, 2020. Option traders are pricing in a 18.1% move on earnings and the stock has averaged a 4.0% move in recent quarters.
+
+> #([CLICK HERE FOR THE CHART!](http://elite.finviz.com/chart.ashx?t=NIU&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l))
+
+*****
+
+> # DICK'S Sporting Goods, Inc. $58.51
+**DICK'S Sporting Goods, Inc. (DKS)** is confirmed to report earnings at approximately 7:30 AM ET on Tuesday, November 24, 2020. The consensus earnings estimate is $0.90 per share on revenue of $2.23 billion and the Earnings Whisper ® number is $1.07 per share. Investor sentiment going into the company's earnings release has 65% expecting an earnings beat. Consensus estimates are for year-over-year earnings growth of 73.08% with revenue increasing by 13.65%. Short interest has decreased by 6.0% since the company's last earnings release while the stock has drifted higher by 9.2% from its open following the earnings release to be 39.8% above its 200 day moving average of $41.87. Overall earnings estimates have been revised higher since the company's last earnings release. On Friday, November 20, 2020 there was some notable buying of 4,884 contracts of the $60.00 call expiring on Friday, December 18, 2020. Option traders are pricing in a 12.1% move on earnings and the stock has averaged a 8.6% move in recent quarters.
+
+> #([CLICK HERE FOR THE CHART!](http://elite.finviz.com/chart.ashx?t=DKS&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l))
+
+*****
+
+> # Dollar Tree Stores, Inc. $94.97
+**Dollar Tree Stores, Inc. (DLTR)** is confirmed to report earnings at approximately 7:30 AM ET on Tuesday, November 24, 2020. The consensus earnings estimate is $1.15 per share on revenue of $6.11 billion and the Earnings Whisper ® number is $1.24 per share. Investor sentiment going into the company's earnings release has 63% expecting an earnings beat. Consensus estimates are for year-over-year earnings growth of 6.48% with revenue increasing by 6.33%. Short interest has decreased by 28.7% since the company's last earnings release while the stock has drifted lower by 4.6% from its open following the earnings release to be 7.8% above its 200 day moving average of $88.07. Overall earnings estimates have been revised higher since the company's last earnings release. On Monday, November 9, 2020 there was some notable buying of 5,278 contracts of the $100.00 call expiring on Friday, December 18, 2020. Option traders are pricing in a 8.3% move on earnings and the stock has averaged a 7.1% move in recent quarters.
+
+> #([CLICK HERE FOR THE CHART!](http://elite.finviz.com/chart.ashx?t=DLTR&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l))
+
+*****
+
+> # Daqo New Energy Corp. $41.71
+**Daqo New Energy Corp. (DQ)** is confirmed to report earnings at approximately 6:30 AM ET on Monday, November 23, 2020. The consensus earnings estimate is $0.32 per share on revenue of $124.60 million. Investor sentiment going into the company's earnings release has 47% expecting an earnings beat. Consensus estimates are for earnings to decline year-over-year by 5.88% with revenue increasing by 48.49%. Short interest has increased by 215.3% since the company's last earnings release while the stock has drifted lower by 66.2% from its open following the earnings release to be 90.8% above its 200 day moving average of $21.86. Overall earnings estimates have been revised lower since the company's last earnings release. On Tuesday, October 27, 2020 there was some notable buying of 2,142 contracts of the $130.00 put and 2,069 contracts of the $220.00 call expiring on Friday, December 18, 2020. Option traders are pricing in a 12.2% move on earnings and the stock has averaged a 8.1% move in recent quarters.
+
+> #([CLICK HERE FOR THE CHART!](http://elite.finviz.com/chart.ashx?t=DQ&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l))
+
+*****
+
+> # Medtronic, Inc. $110.16
+**Medtronic, Inc. (MDT)** is confirmed to report earnings at approximately 6:45 AM ET on Tuesday, November 24, 2020. The consensus earnings estimate is $0.78 per share on revenue of $7.05 billion and the Earnings Whisper ® number is $0.88 per share. Investor sentiment going into the company's earnings release has 52% expecting an earnings beat. Consensus estimates are for earnings to decline year-over-year by 40.46% with revenue decreasing by 8.51%. Short interest has decreased by 6.9% since the company's last earnings release while the stock has drifted higher by 5.0% from its open following the earnings release to be 10.9% above its 200 day moving average of $99.36. Overall earnings estimates have been revised higher since the company's last earnings release. On Wednesday, November 4, 2020 there was some notable buying of 1,800 contracts of the $67.50 call expiring on Friday, January 15, 2021. Option traders are pricing in a 4.0% move on earnings and the stock has averaged a 2.4% move in recent quarters.
+
+> #([CLICK HERE FOR THE CHART!](http://elite.finviz.com/chart.ashx?t=MDT&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l))
+
+*****
+
+> # Twist Bioscience Corporation $115.56
+**Twist Bioscience Corporation (TWST)** is confirmed to report earnings at approximately 4:05 PM ET on Monday, November 23, 2020. The consensus estimate is for a loss of $0.71 per share on revenue of $22.70 million and the Earnings Whisper ® number is ($0.66) per share. Investor sentiment going into the company's earnings release has 47% expecting an earnings beat. Consensus estimates are for year-over-year earnings growth of 26.04% with revenue increasing by 44.26%. Short interest has decreased by 19.1% since the company's last earnings release while the stock has drifted higher by 74.1% from its open following the earnings release to be 116.2% above its 200 day moving average of $53.45. Overall earnings estimates have been revised lower since the company's last earnings release. Option traders are pricing in a 6.9% move on earnings and the stock has averaged a 5.2% move in recent quarters.
+
+> #([CLICK HERE FOR THE CHART!](http://elite.finviz.com/chart.ashx?t=TWST&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l))
+
+*****
+
+> # Autodesk, Inc. $254.89
+**Autodesk, Inc. (ADSK)** is confirmed to report earnings at approximately 4:00 PM ET on Tuesday, November 24, 2020. The consensus earnings estimate is $0.95 per share on revenue of $938.89 million and the Earnings Whisper ® number is $1.02 per share. Investor sentiment going into the company's earnings release has 62% expecting an earnings beat The company's guidance was for earnings of $0.91 to $0.97 per share on revenue of $930.00 million to $945.00 million. Consensus estimates are for year-over-year earnings growth of 33.80% with revenue increasing by 11.41%. Short interest has decreased by 18.8% since the company's last earnings release while the stock has drifted higher by 3.3% from its open following the earnings release to be 18.9% above its 200 day moving average of $214.29. Overall earnings estimates have been revised lower since the company's last earnings release. On Wednesday, November 11, 2020 there was some notable buying of 510 contracts of the $260.00 call expiring on Friday, December 18, 2020. Option traders are pricing in a 6.8% move on earnings and the stock has averaged a 4.3% move in recent quarters.
+
+> #([CLICK HERE FOR THE CHART!](http://elite.finviz.com/chart.ashx?t=ADSK&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l))
+
+*****
+
+> # Baozun Inc. $41.92
+**Baozun Inc. (BZUN)** is confirmed to report earnings at approximately 6:00 AM ET on Monday, November 23, 2020. Investor sentiment going into the company's earnings release has 48% expecting an earnings beat The company's guidance was for revenue of $253.00 million to $260.00 million. Short interest has decreased by 9.0% since the company's last earnings release while the stock has drifted higher by 10.7% from its open following the earnings release to be 20.9% above its 200 day moving average of $34.67. Overall earnings estimates have been revised lower since the company's last earnings release. On Thursday, November 19, 2020 there was some notable buying of 2,009 contracts of the $28.00 put expiring on Friday, January 15, 2021. Option traders are pricing in a 9.1% move on earnings and the stock has averaged a 8.5% move in recent quarters.
+
+> #([CLICK HERE FOR THE CHART!](http://elite.finviz.com/chart.ashx?t=BZUN&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l))
+
+*****
+
+> # Deere & Company $258.56
+**Deere & Company (DE)** is confirmed to report earnings at approximately 6:45 AM ET on Wednesday, November 25, 2020. The consensus earnings estimate is $1.39 per share on revenue of $7.23 billion and the Earnings Whisper ® number is $1.51 per share. Investor sentiment going into the company's earnings release has 54% expecting an earnings beat. Consensus estimates are for earnings to decline year-over-year by 35.05% with revenue decreasing by 26.94%. Short interest has decreased by 53.6% since the company's last earnings release while the stock has drifted higher by 31.4% from its open following the earnings release to be 45.3% above its 200 day moving average of $177.93. Overall earnings estimates have been revised higher since the company's last earnings release. On Friday, November 20, 2020 there was some notable buying of 1,280 contracts of the $235.00 put expiring on Friday, November 27, 2020. Option traders are pricing in a 4.8% move on earnings and the stock has averaged a 4.8% move in recent quarters.
+
+> #([CLICK HERE FOR THE CHART!](http://elite.finviz.com/chart.ashx?t=DE&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l))
+
+*****
+
+# DISCUSS!
+
+What are you all watching for in this upcoming trading week?
+
+*****
+
+I hope you all have a wonderful weekend and a great trading week ahead r/stocks._END_OF_POST_PYSTOCK_ I want to sell 1/3 of my Apple shares. Need honest opinions. So Apple makes up 44% of my current portfolio. This, to me, is too high. Coupled with the fact that Apple is my worst performing stock, I want to pull a Buffett and reduce my Apple holdings by 1/3. This will still make Apple my largest
+holding, but it will pull it down to about 30% of my portfolio. Which stocks would you recommend I consider instead? Current holds as follows:
+
+Apple
+Nio
+Tesla
+Plug
+Pinterest
+
+Looking for something ideally large growth or potentially higher risk hyper growth. Not really into "safe" stocks with lower growth or the FAANGs. 
+
+Thank you in advance!_END_OF_POST_PYSTOCK_ What are the undervalued electric vehicle or hydrogen stocks right now (November 21, 2020)? Most of the stocks I’ve checked out have risen 100-2000% in the last few months (NIO, LI, WKHS, PLUG, BLDP, etc.). Does anyone know of any electric vehicle, hydrogen, or related stocks that haven’t shot the moon yet?_END_OF_POST_PYSTOCK_ Thoughts on NIO? I just bought in a week weeks ago after FOMO for months. But lot of industry thinkers like below seem to believe it’s overvalued. I thought the same about Tesla for months and then got sick of watching ppl double their money. How do you analyze these sorts of stocks?
+
+https://investorplace.com/2020/11/avoid-nio-stock-as-it-enters-full-bubble-mode-cseo/amp/_END_OF_POST_PYSTOCK_ InvestorPlace: 3 Quantum Glass Stocks for the Future of Batteries (QuantumScape / QS included) On November 20, Faizan Farooque wrote an article in InvestorPlace listing three stocks involved in the holy grail of EV.  The article is titled "3 Quantum Glass Stocks for the Future of Batteries."
+
+[I can't provide the link because one of the tickers goes against this subreddit's rules.]
+
+The three picks are Samsung, Panasonic, and QuantumScape.  I'll focus on the third, the **electric vehicle battery supplier backed by Volkswagen and even Bill Gates himself**.  Past discussions can be found here:
+
+[Bill Gates-backed Electric Vehicle battery supplier, QuantumScape, to "IPO" (QS)](https://www.reddit.com/r/stocks/comments/ja0oq3/bill_gatesbacked_electric_vehicle_battery/)
+
+[QuantumScape (QS): Upside of 100% or More? (Bill Gates-backed Electric Vehicle battery supplier)](https://www.reddit.com/r/stocks/comments/jts3au/quantumscape_qs_upside_of_100_or_more_bill/)
+
+The ticker QS will come live in just a week's time.
+
+Anyways, on to to relevant quotes from Farooque's article:
+
+> Volkswagen (OTCMKTS:VWAGY)-backed QuantumScape, a manufacturer of large-capacity solid-state lithium-metal batteries. Volkswagen will use the company exclusively for its EV needs. Being the European EV market leader, the fastest-growing EV market on the planet should be reason enough for you to be bullish.
+
+> However, it would help if you were patient with this stock. All of the parties involved said they have enough funds to back its ambitions. But the issue is cost-effectiveness and managing demand. Since we are dealing with experimental technology, those issues can be resolved in due time. You need to hang tight and believe in the concept.
+
+*Disclosure: Long on warrants.*_END_OF_POST_PYSTOCK_ I bought 150 shares of CRSR at 17.36 and i'm not sure what to do with them Hey so i've bought CRSR near its IPO because I used to play games when i was younger and knew the company has great products and the numbers looked good and I figured it might go to the 25-30 range maybe next year and i could double my money.
+
+Less than 2 months later its already at 40$ and i made more than 100% on my shares. I always compared CRSR to LOGI in terms of where i see it going in the future but this insane run is making me both happy and nervous. I'm not even sure anymore what my exit point is and whether i should let it run or take my profits now. 
+
+&#x200B;
+
+I don't need the money right now and can easily let it sit on it for another year or more but im having trouble (im a new investor and CRSR is my first stock that made so much profit) figuring out what do with it now so i look for advice from you guys. Thanks._END_OF_POST_PYSTOCK_ $PLTR - sell or cover with options? Hi all,
+
+Fairly new to trading, currently own some quite good performing stocks (Palantir, NIO, Xpeng) which are all above +80% at least. I have a lot of faith in NIO and Xpeng so will keep those as is but bit more skeptical about Palantir. Just wanted to discuss how to move forward and get some advice from some Wall Street veterans.
+
+At this point Palantir is at an almost 100% profit for me (bought around $9 and now at $18). These are the ways I want to go:
+
+\- Sell all my Palantir stock at 100% profit (or add a stop loss) but also buy some long term 2021 Call options in case the stock price still rises to still have some gains and not kick myself in the head for the next years.
+
+\- Keep all my Palantir stocks but buy some Put options to protect myself incase the stock price will suddenly drop.
+
+Obviously I don't expect anyone to look into the future, but just want some advice on how I can use options to slightly protect myself for making a stupid decision, or hear reassurance PLTR will keep performing over the next years.
+
+Thanks in advance mates!_END_OF_POST_PYSTOCK_ Is it too late to buy into BABA? I'm late to the party (didnt have enough capital before) but the share price is so high right now. I have enough to maybe get 10 shares of BABA but I don't know if it would be a smart choice at this point. Any advice?
+
+Note: I am not in need of cash so I would be planning on holding long term_END_OF_POST_PYSTOCK_ DBX getting more popular. Opinion? What are your opinions In Dropbox? Since this summer I see more and more people on YouTube, Reddit and on other platforms that talk about Dropbox as If it is the next great tech darling. I like DBX and I think it will do well, but I doubt it will quadrouple in the next 5 years as some suggest.
+
+Also, what is odd is the fact that 1) the pandemic did not propell this stock and 2) even though all these social media gurus talk about it and pump it, the stock fell which I believe is just short term impacience from traders and hype.
+
+Here are my thoughts:
+
+Talking valuations is has a sub 20 forward PE and recently started getting profitable. The market cap is just around 8b. Share price 19$.
+
+Financials. It's short term assets cover is short and long term liabilities. No debt. And a future buyback program. Positive FCF.
+
+Product. I use dropbox at work and at home with my family and I really like the fact that it's UI is easy to understand and use, when comparing it to OneDrive and GoogleDrive. So, user growth+ a nice product which is expanding into smart workspace, not just cloud storage. Also, they bought hellosign, which could be second to DocuSign in the digital signature space. 
+
+When glancing who owns DBX shares, we can see really large funds like vanguard, black rock and the rennaisance group. Also insiders hold 30 percent of the company and they did not sell any shares recently. One co-founder is still actively with the company and is the CEO for 13 yrs. I love it when founders stay and fight for the company, it gives the company credibility.
+
+Possible tailwinds: included into NASDAQ 100 and S&P500. Smart workspace makes a big difference and people accelerate to it's products. Hellosign gets a DocuSign type valuation. A big fund actively promotes the company.
+
+The risks: google or microsoft focus more on smart workspace and kill dbx product by underpricing. Extending into smart workspace fails and it kills their financials.
+Pretty large shareholder dillution in the past. So that growth/dillution is not that great.
+CEO and co-founder leaves the company
+Meh expected revenue growth of 8.5% in the future.
+
+
+Based on the fcf to equity discounting that many people use for the company, and a discount ratio of 8%, a growth ratio of 2.2%(5yr us bond), the share price should be around 23$ now. Price target 2025 40$.
+
+
+*Full disclosure, I Have a long position in DBX
+** No intention of pumping and dumping, I just wanna see if I am misreading something and unnecessarily risking my capital._END_OF_POST_PYSTOCK_ China advancing on hydro-fuel https://www.bloomberg.com/news/articles/2020-11-19/china-defies-elon-musk-s-warnings-and-pushes-ahead-with-hydrogen so on the 2nd of November, China set up a 15 year plan for new energy veichles. One of those beeing hydrogen. Is there an investing opportunity here? Why is Musk against it?_END_OF_POST_PYSTOCK_ PSTH - Could it be stripe? Hi Guys.
+
+Anyone else looking into PSTH?
+He is acquiring a new company with rumours either Stripe or Bloomberg.
+
+I am still reading up but this looks very promising. If its Stripe we could be in for Big profits.
+
+I got in this week with 300 shares at 23.50. Looking to add another 300 next week. Possibly more. I'm excited about this one._END_OF_POST_PYSTOCK_ {VRTX} - Is this still a buy? Hi guys.
+I have been following Vertex for some weeks now. I think it's a very strong company, with great balance sheet (no debt, lots of cash, earnings are rising) and a very big most since it has the monopoly of cystis fibrosis drugs. The market share of this disease is expanding a lot (https://www.globenewswire.com/news-release/2020/09/17/2095231/0/en/Cystic-Fibrosis-Market-to-Expand-Profoundly-at-a-CAGR-of-24-4-and-Reach-USD-31-88-Billion-by-2027-Increasing-Awareness-regarding-CF-to-Lighten-Sales-Prospects-states-Fortune-Busine.html), with a CAGR of 24.4%
+
+Now, this is the thing:
+https://www.hhs.gov/about/news/2020/11/20/fact-sheet-trump-administration-finalizes-proposal-to-lower-drug-costs.html
+
+I'd like to hear from you guys if this last news is bad news or we can just ignore it. How bad can Vertex be affected by lower price drugs? 
+
+Anyways, is anyone in? I even heard VRTX recently announced a $500m buyback program_END_OF_POST_PYSTOCK_ What is your rule of thumb when to take profits? This is my weak spot. When something goes up hard, I can't make myself sell it and I sit on my ass until it flattens out. This week it happenend with NNDM- i gained over 100%+ and did not sell anything.
+
+I only buy stocks I believe in and plan to hold longterm but with runs like this it just doesn't seem right to do nothing._END_OF_POST_PYSTOCK_ Heliogen IPO, anyone know anything? I  looked into Heliogen a year ago and set a reminder to follow up on their IPO a year later. Today is that day. [https://heliogen.com/](https://heliogen.com/)  
+
+### "Today, industrial processes like those used to make cement, steel, and other materials are responsible for more than a fifth of all emissions. These materials are everywhere in our lives but we don’t have any proven breakthroughs that will give us affordable, zero-carbon versions of them. If we’re going to get to zero carbon emissions overall, we have a lot of inventing to do.
+
+### I’m pleased to have been an early backer of Bill Gross’s novel solar concentration technology. Its capacity to achieve the high temperatures required for these processes is a promising development in the quest to one day replace fossil fuel.  -Bill Gates "
+
+The article that first turned me on to this company
+
+[https://www.cnn.com/2019/11/19/business/heliogen-solar-energy-bill-gates/index.html](https://www.cnn.com/2019/11/19/business/heliogen-solar-energy-bill-gates/index.html)
+
+Any help is much appreciated!_END_OF_POST_PYSTOCK_ Looking for non-China Emerging Market stocks Looking for names of non-China Emerging Market stocks.  I will, of course, do my own DD.  Just need names to get started.  I generally and broadly define Emerging Market to mean non-US, non-Commonwealth (UK, Canada, Australia, etc.), non-Japan, and non-EU.  
+
+I already know of the following:
+
+* Mercado Libre (Argentina, but major ops in Brazil)
+
+* Sea Limited (Singapore)
+
+* Tata Motors (India)
+
+Any others?_END_OF_POST_PYSTOCK_ Is there such a thing as being over-diversified? Hey all, sorry for the dumb question but im wondering if i should consolidate some of my securities?
+
+Right now im invested in 15 different stocks in an individual brokerage account.
+
+I also have a 401k, Roth, as well as some other minor investment vehicles.
+
+For my individual account specifically, im wondering if i should be focusing on 5-10 different companies rather than 15? Or should i be diversifying even more?
+
+thanks in advance_END_OF_POST_PYSTOCK_ ARRY Tech is silently uptrending following its IPO Currently reaching 45.66 after hours. It has growing revenue and minimal competition (relatively speaking). With the growth in solar, many of their customers are commercial, which implies large contracts opposed to retail markets. They provide the motors to encourage tracking the sun at the most optimal angle to generate up to 25%ish extra power supposedly. 
+
+The good thing IMO is the lack of overt buzz about this stock (vs other meme stocks), and while meme stocks do have their moments, I think ARRY is a long-con winner._END_OF_POST_PYSTOCK_ Is HYLN really a buy? Personally, I don't think so. Definitely interesting concept, but a couple issues I see with hybrid powertrains on big rigs. Maintenance. I'd imagine hybrid trains would be a nightmare to fix and/or replace. In simple speak, i dont see companies wanting to pay for specialty mechanics and the like. Also, accomodating so many different trucks seems unlikely and ineffective. I could be comoletely wrong, but that's why I'm posting. A guy I know swears it's a buy, but I don't think so._END_OF_POST_PYSTOCK_ XLV HealthCare ETF This ETF is one of my favorite ETFs out there. I think whether there is a pandemic or not, there will always be high demand for healthcare.  Would it be crazy to allocate 50% of my investment into this ETF? I searched all the healthcare ETFs and this one stands out more than all the other ones._END_OF_POST_PYSTOCK_ Amazon stock? Thoughts Amazon stock thoughts ?
+Hey, I’m looking for input to see if anyone thinks that the Amazon stock is going to rise some next week , or if I should take a loss on what I already have. Let me know your thoughts , I just need it to go back over 3115 to not take a huge loss.
+
+Thank You to anyone who responds!
+It expires the 27th_END_OF_POST_PYSTOCK_ 'BYDDY vs BYDDF'. What's the difference? EV play Hi folks.  Trying to figure out difference between BYDDY and BYDDF. 
+Both tickers are for same company BYD,  a Chinese EV company, known for being invested in 
+by Warren Buffett. 
+
+Both are traded Over the Counter (OTC). 
+Current OTC Prices ,
+BYDDF $24.5
+BYDDY $ 47.5
+
+If you look into trading profiles,  they're are just replicas of each other with same trading volume,buy/sell signals etc.
+Lastly BYDDY is an ADR while BYDDF is H share, but who cares?
+
+WHAT IS THE DIFFERENCE?_END_OF_POST_PYSTOCK_ CZR MGM DKNG: Possible Corona Restrictions? How are these going to fair next week? They all finished red today, they did have a decent week overall though! I wonder what the possibility of a shutdown really is? I mean the first one was bad financially for a lot of people. Another lockdown or harsh restrictions would be catastrophic!! Wondering what’s going to happen with the gambling sector in the next two weeks or so.... in hindsight I should have sold my MGM when I was considering and went deeper into CRSR!_END_OF_POST_PYSTOCK_ Investing into CDPR Hi guys. I have to say that I'm a total newbie, never invested in anything before. 0 knowledge.
+
+I'm a gamer with some spare money, and I want to try to invest. Nothing serious, rather an experiment to have some fun. I have 3 questions.
+
+1. Is it possible to buy shares for exact amount of money? Let's say I want to invest exactly 10, 100 or 1000€. Is it possible?
+
+2. Is it good idea to invest into CDPR right now, before cyberpunk release 10 dec?
+
+3. Can I withdraw my money back whenever I want? Like a fast online transfer?
+
+As I said, investing is rather a fun game than serious thing for me, so I'm 100% okay if I lose some money, but would be nice not to.
+
+I don't know if it matters, but I'm from poland, not usa._END_OF_POST_PYSTOCK_ perspective on Upwork? do you think its mainly just the new "stock of the month" hype like NIO, or do you think there is actual value there? it seems logical that as the gig economy grows, sites like upwork are going to grow along with it. do you think its a buy at this price?_END_OF_POST_PYSTOCK_ ARK Invest's Financial Technology Analyst announces that he is leaving the firm ARK Invest has gained some serious traction in the past few months due to their innovative investing style and accessible ETF products. Today their primary FinTech analyst George Whiteridge announced on Twitter that he has decided to leave the firm. This announcement comes at an odd time when ARK is in the midst of a hostile takeover with Resolute Partners. Cathie Wood, CEO of ARK Invest, has clearly stated her disapproval for the takeover and there are currently speculations that she may leave if the takeover goes through.
+
+Curious to hear what your thoughts are on this? Will this impact ARK's performance and returns moving forward?_END_OF_POST_PYSTOCK_ VOO or SPY? New investor here. I already have some shares of SPY and after researching I am thinking of transferring to VOO. What do you invest in? I’m looking at ETFs for long term growth and trying to find some stocks for short term._END_OF_POST_PYSTOCK_ Yearly or monthly bonds fixed income Hi everyone. I just started using DEGIRO as I want to experience the world of trading as I find it interesting. Although I have a question for someone who uses this app or any app.
+
+ How and where would you find if the a bonds fixed income is given yearly / semi yearly or monthly?
+
+Second question, how would price change of that bond have an impact on the bond I own?
+
+I'm using DEGIRO and all I see is the percentage and cost and the maturity rate. I appreciate all help!
+
+P.S invested in TSLA for long term :)_END_OF_POST_PYSTOCK_ 1,500 shares of PLUG So my dad recently told me he got into PLUG at 5 dollars a few years ago and i was wondering what kind of advice you guys had on this stock. It was on my radar lately but I never really looked into the fundamentals because im more of a short term trader but I was wondering what you guys think of holding PLUG into the future. Thanks!_END_OF_POST_PYSTOCK_ When is Regeneron's EUA for its COVID treatment? Lilly and Regeneron both submitted their EUA within days of each other in early October and Lilly has already received it's EUA for their treatment. When is Regeneron expected to get their EUA? I can't find any info on timing after looking at other investing websites or the company website._END_OF_POST_PYSTOCK_

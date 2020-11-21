@@ -1,0 +1,255 @@
+ Is VOO too conservative for an 19 year old? I'm 19 and have $33,000 in VOO and another $6,000 in QQQ. Is the VOO too conservative? I plan on investing for 20+ years. What suggestions do you guys have to diversify for greater gains??
+
+I'm also investing about $1000 a month between the two. I'm trying to invest a little more in QQQ_END_OF_POST_PYSTOCK_ HPQ short analysis I purchased HPQ at $20.61 the other day, and yep, it's dropped a little since then. I'm new to investing, but my thought process feels logical, and I fully plan to put more into this stock, and here are my thoughts.
+
+I initially purchased positions because they are announcing their Q4 earnings on the 24th, and I believe they've done really well this last quarter with sales of laptops from everyone working from home, as well as prolonged lockdowns being announced and less opportunity to begin working in shared spaces. Those who didn't already have a work laptop, definitely do now. To me, HP screams student/business compared to Dell, and other competitors that give off more of a casual use appeal (like Chromebooks).
+
+After purchasing, I stumbled across news that HP is supplying Shutterfly with 60 new digital presses that will use HP Software. I believe more than ever that Shutterfly has seen a boost in revenue because people are holding onto any good memory they can have during this pandemic. You better believe people have opted to print pictures of family members and display them around the home if they don't already, because of limited to no contact. 
+
+Shutterfly also offers a photo album creation service that our family has personally used during Christmas two times now, with amazing results and memories that will last forever. The service is perfect during this pandemic.
+
+It seems to me the stock is undervalued, based on the last few years. It hasn't had a problem staying above $21 up until the pandemic. Even from the pandemic dropping HPQ to $13, the stock recovered quickly back up to $20 as of November. 
+
+That's all I got. Do your DD, I'm trying to do mine!_END_OF_POST_PYSTOCK_ Alternatives to MMs and HYSAs in a zero rate world? In addition to equity investments, I've built up a significant cash position in a money market account that, due to the FFR dropping to near 0 is now only yielding about 0.5% pa.  I intend to use this cash to eventually buy a house but given how expensive houses are in my area it may take a bit long to build that up.
+
+Given that I'm not even beating inflation at [1.2%](https://www.bls.gov/cpi/) I was thinking there may be higher yielding but still relatively safe and low-vol instruments out there to park cash for a while.  Examples:
+
+* TIPS ETFs like $SCHP (1.24% TTM yield, 0.05% ER) - matches inflation at least
+
+* Intermediate term Treasury ETFs for example $IEF - 1.2% TTM yield, 15 bps ER
+
+* Low beta, low vol, high yield equities - obviously the riskiest option in terms of price volatility.  Large caps like $COST, $BDX, and $VZ has betas between 0.5-0.6 and $VZ has a healthy yield of about 4% easily beating inflation.  
+
+Would love to hear everyone's thoughts.  Are there other options I haven't considered?_END_OF_POST_PYSTOCK_ My idea on why investment companies, buy and large, fail to beat the market It is no secret that, save for a few firms, investment companies fail to beat stock market index funds. While there are a lot of theories about why this is, this is mine:
+
+I believe that the main reason that investors don't beat the market is that popular analysis and investor sentiment regarding stock picking and investment strategy, while looking solid on the surface, is fatally flawed and leads to significant underperformance. Let me start with analysts.
+
+It is no secret that wall street analysts are heavily incentivized to follow the pack when it comes to stock recommendations. *When you're wrong and you're in a crowd, nothing happens, but when you're wrong and you stand alone, you lose your job*. Why bother voicing your opinion when it could cost you your career? Most companies on the market aren't worth investing in, yet stock market analysts are statistically more likely to give stocks a buy rating than a sell rating. This is because of the fee structure that many analyst-firms follow, with many companies pretty much paying analysts to give them a buy rating. Overall, analysts are focused on their reputation, if they rate a company as sell and they are wrong, not only will that company no longer give them their business, but their reputation is significantly damaged. To avoid this, they lie. This is bad on its own, but when combined with institutions who trust these ratings, it is a recipe for underperformance.
+
+Many institutions trust analysts' biased ratings. They buy when a buy rating is shown, and they sell when a sell rating is shown. On top of trusting foolish ratings, most funds are hyper-focused on the short-term movements of a stock. Why do they do this? Because if the fund doesn't show immediate returns, their investors flee to another fund that is. This ultra-focus on short-term price movements is damaging. As Ben Graham said, *"In the short-run, the market is a voting machine, but in the long run, it is a weighing machine"*. Short-term movements of a stock's price are random and impossible to consistently predict. They are white noise, a product of whatever captivates the mind of the market at any one point in time. Long-term stock performance, on the other hand, is directly connected to the intrinsic value of a company and, when using proper analysis, is much more predictable.
+
+Overall, it is in my opinion that the poorly incentivized analysts feed terrible ratings to the poorly run firms which in turn take these ratings at face value in their pursuit to try and make a quick buck in order to attract more investors to their fund and secure lucrative bonuses._END_OF_POST_PYSTOCK_ Johnson & Johnson (NYSE: JNJ) - An in-depth Stock Analysis # Introduction:
+
+Good morning everyone. It is apparent that JNJ is going to win the poll (on r/dividends), so here is the post as promised. The poll still has a little time, an analysis will be done for whichever stock is in 2nd place, and last place. Additionally I am considering grabbing one from the comments.
+
+Anyways, Since this is a more in-depth look at the stock we will be answering the same questions again.
+
+There will be a few questions we are looking to answer:
+
+1. Is there revenue growth?
+2. Is there earnings growth?
+3. Is the company really leveraged?
+4. Is there strong cash flow?
+
+Let's start by taking a look at the business model and moat.
+
+# JNJ - Johnson & Johnson:
+
+Johnson & Johnson is classified as a Dividend King, they have paid dividend continuously since 1963 and increased for 58 consecutive years.
+
+Johnson & Johnson is the world’s largest and most diverse healthcare company. Three divisions make up the firm:
+
+* pharmaceutical,
+* medical devices and diagnostics,
+* consumer good/discretionary
+
+The pharmaceutical and medical devices account for \~80% of sales and generates most of the cash flow. The drug division focuses on the following therapeutic areas:
+
+* immunology,
+* oncology,
+* neurology,
+* pulmonary,
+* cardiology,
+* metabolic diseases.
+
+The device segment focuses on surgery tools, orthopedics, vision care, and a few others. The last segment of consumer focuses on baby care, beauty, oral care, over-the-counter drugs, and women’s health.
+
+**Strengths:**
+
+>\-  Johnson & Johnson is one of the well known and trusted brands in the world. It it one of the most consistent earnings growers.  
+>  
+>\- Their 3 healthcare segments provide unequaled diversity of quality products for the healthcare industry.  
+>  
+>\- Developed nations have populations whose average age is increasing rapidly. Older people consume, on average, 7 times as much healthcare services and products as younger people. In addition, the growing global middle-class will be consuming an increasing amounts of healthcare. This will further increase their sales.  
+>  
+>\- The company is more resistant to competitors due to its established distribution network and sales.
+
+**Risks:**
+
+>\-  Litigation surrounding several J&J products have the potential to blemish the company’s reputation and cost billions of dollars. There is currently an ongoing talcum powder lawsuit.  
+>  
+>\- They are subject to more broad threats to the privatized healthcare industry, to include: increased regulation/scrutiny from consumers and government, plans for more government run healthcare, and increased risk of higher lawsuit costs. There are plenty of other threats to the healthcare industry as a whole, however JNJ is more resistant to the institution of gov't funded healthcare since they provide so many products. However there is always the threat of decreased profit margins as regulations call for price fixing.  
+>  
+>(NOTE: This is not an endorsement for or against either Government Funded/Privatized Healthcare, this is simply mentioning a potential risk to the company due to a changing environment, nothing more)
+
+# Financial History:
+
+One thing that is really nice about Johnson and Johnson is their company financial performance sheets give 10 years of history, most of the time companies will just do 3, or 5 years, so they are definitely not trying to hide anything, and as we will see below, they have no reason to.
+
+|Year|Revenue|EBITDA|Debt|Debt / Earning|
+|:-|:-|:-|:-|:-|
+|2011|$65,030|$19,389|$14,179|0.7|
+|2013|$71,312|$23,161|$15,123|0.7|
+|2015|$70,074|$22,116|$15,200|0.7|
+|2017|$76,450|$24,539|$32,183|1.3|
+|2019|$82,059|$28,079|$28,579|1.0|
+
+The revenue has increased an average of 3% average, the earnings has increased faster than the top line revenue at 4.7% average, and they are very under-leveraged when it comes to debt, especially compared to some recent companies we have seen (IBM, KO, PEP).
+
+|Year|Cash Flow from Operations|Capital Expenditures|FCF/E Ratio|
+|:-|:-|:-|:-|
+|2011|14,298|2,893|15,859|
+|2015|19,569|3,463|16,113|
+|2019|23,416|3,498|17,098|
+
+Increases straight across the board. CFO has increased 6% average, their CAPEX has increased by an average of 2%, but regardless their Free Cash Flow to Equity ratio is increasing despite them putting more money back into the company. They have been using some of their additional cash flow to pay down debt, the debt payment for 2019 was $2.82 Billion. Dividend Payments accounted for \~$10 Billion, and with some of the remaining the company bought back shares.
+
+So ...
+
+1. Is there revenue growth?  - Yes
+2. Is there earnings growth? - Yes
+3. Is the company really leveraged? - Very low debt
+4. Is there strong cash flow? - Yes
+
+# Some other numbers:
+
+NOTE: Current for November 2020 and very likely to change.
+
+|Current Annual Payout / Share|$4.04|
+|:-|:-|
+|Yield|2.76%|
+|10 Yr Div Growth Rate|6.9%|
+|3 Yr Div Growth Rate|6.0%|
+|1 Yr Div Growth Rate|5.9%|
+|Current EPS Payout Ratio|64.64%|
+
+From a dividend growth standpoint, this would potentially be a great portfolio inclusion. With many companies the 1/3 year dividend growth has been decreasing, JNJ has been maintaining and they have strong prospects of increasing the dividend growth rate again.
+
+Let's project what the Annual Dividend Payout could be using a 6% constant growth rate. (NOTE: Just an estimate, not a guarantee of what could happen)
+
+|Year|2021|2022|2023|2024|2025|
+|:-|:-|:-|:-|:-|:-|
+|Payout|$4.28|$4.53|$4.81|$5.10|$5.40|
+
+Delicious.
+
+# Final Thoughts:
+
+From a financial perspective, JNJ is incredibly healthy, they have increasing revenue, earnings, low-debt, and high cash flow. Additionally, they responsibly uses their cash flow to pay down debt, pay their shareholders, and buy back shares. Furthermore, the dividend history and growth is very consistent.
+
+There are definitely some risks to consider, the company does face lawsuits often enough and the details/payouts for those were not discussed here. Additionally the health care sector is more subject to a changing environment due to the expansion/introduction/rollback of regulations and expansion of public healthcare options. Take this into consideration.
+
+I hope everyone found this post interesting, please supplement this with your own research.
+
+As always, thanks for reading, and have a good day/night!
+
+EDIT: For those than cannot find the poll and are interested, [It can be found here.](https://www.reddit.com/r/dividends/comments/jxs9uy/which_of_the_following_would_you_like_to_see_a/?utm_source=share&utm_medium=web2x&context=3)_END_OF_POST_PYSTOCK_ American depositary receipt stocks and 10q/10k clarification? Hey redditors...can anyone explain how foreign companies listed in the US via an ADR report their earnings? I'm not sure if i've just completely missed the ball on this but i'm not connecting the dots.  For example:
+
+* JDCOM INC (JD) posted their Q3 2020 results here; [https://ir.jd.com/system/files-encrypted/nasdaq\_kms/assets/2020/11/16/5-53-49/JD.com%20Announces%202020%20Third%20Quarter%20Results.pdf](https://ir.jd.com/system/files-encrypted/nasdaq_kms/assets/2020/11/16/5-53-49/JD.com%20Announces%202020%20Third%20Quarter%20Results.pdf)
+
+but when I try to search for their corresponding 10Q on [SEC.gov](https://SEC.gov) ([https://www.sec.gov/edgar/search/](https://www.sec.gov/edgar/search/))  but I ca't find their most current 10Q..or any historical 10Q.
+
+&#x200B;
+
+**Question; Do ADRs publish their earning results via a 10q/10k or is another formed used? Is there a specific reason why the JDCOM INC 10Q is not posted to the sec?**
+
+&#x200B;
+
+Appreciate you all - thank you!_END_OF_POST_PYSTOCK_ Public Hedge Funds holding pre ipo startups Hi, will like to start a discussion around publicly traded funds that have exposure to private pre ipo startups. One that I know of is:
+
+Suro Capital ($SSSS) > This had a holding in PLTR pre ipo. Besides that, it has quite a few pre ipo companies like Nextdoor, Rover etc. IMO a good company to invest in.
+
+Will appreciate if you all can share any similar companies with pre ipo companies in their portfolio._END_OF_POST_PYSTOCK_ Is Vertex (VRTX) a buy? Hi guys!
+
+I have been following Vertex for some weeks now. I think it's a very strong company, with great balance sheet (no debt, lots of cash, earnings are rising) and a very big most since it has the monopoly of cystis fibrosis drugs. The market share of this disease is expanding a lot ([https://www.globenewswire.com/news-release/2020/09/17/2095231/0/en/Cystic-Fibrosis-Market-to-Expand-Profoundly-at-a-CAGR-of-24-4-and-Reach-USD-31-88-Billion-by-2027-Increasing-Awareness-regarding-CF-to-Lighten-Sales-Prospects-states-Fortune-Busine.html](https://www.globenewswire.com/news-release/2020/09/17/2095231/0/en/Cystic-Fibrosis-Market-to-Expand-Profoundly-at-a-CAGR-of-24-4-and-Reach-USD-31-88-Billion-by-2027-Increasing-Awareness-regarding-CF-to-Lighten-Sales-Prospects-states-Fortune-Busine.html)), with a CAGR of 24.4%
+
+Now, this is the thing: [https://www.hhs.gov/about/news/2020/11/20/fact-sheet-trump-administration-finalizes-proposal-to-lower-drug-costs.html](https://www.hhs.gov/about/news/2020/11/20/fact-sheet-trump-administration-finalizes-proposal-to-lower-drug-costs.html)
+
+I'd like to hear from you guys if this last news is bad news or we can just ignore it. How bad can Vertex be affected by lower price drugs?
+
+Anyways, is anyone in? I even heard VRTX recently announced a $500m buyback program_END_OF_POST_PYSTOCK_ XPEV and Chinese EV market thoughts? I’ve been doing research on the Chinese EV market and it seems that these companies are mostly rising due to hype kind of similar to the Cannabis market. Do y’all think there’s any validation behind this hype? and would it be best to trade short term or long term for these companies?_END_OF_POST_PYSTOCK_ Bought $UPWK in August, now it's my largest holding I rarely venture into the realm of buying individual companies, but I thought a bunch of shares of $UPWK when the price was hovering around $15.
+
+Right now, the price is $35.53. This easily put $UPWK as my largest holding, and it all happened quickly. 
+
+I don't see much conversation about the company on here, and much of the WFH hype is based around $FVRR. 
+
+$FVRR was around $20 a year ago and has since exploded. Anyone thinking $UPWK will do something similar? Upwork most definitely has the infrastructure to handle the shifting work styles._END_OF_POST_PYSTOCK_ Can Tesla Solar Roof hurt other utilities companies (NEE, DUK) Greetings....
+
+I am wondering if Tesla Solar Roof can become popular to the point it will hurt the revenue of companies like Nextera and Duke. If anyone things this has a high probability of happening, when do you think it would be time to jump out of this energy providers companies' boat?
+
+Thanks_END_OF_POST_PYSTOCK_ Bloomberg Alternatives for Commodity Data [BBG](https://www.bloomberg.com/professional/solution/bloomberg-oil-portal/) has oil tanker mapping, live inventory reads and so on. 
+
+Is there any other solution **below $300/mth** (like yCharts, ThomsonOne or similar) that would have key commodity fundamentals on-platform?
+
+Any help greatly appreciated._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Peter Lynch: Great investor's drug to treat Covid Good morning Reddit,
+
+markets are betting on the company that will market the first effective Covid vaccine.
+
+However, Peter Lynch once said "a great patients' drug is one that cures an affliction once and for all, but a great investor's drug is one that the patient has to keep buying". Therefore, I am wondering not which company market the Covid vaccine but which company is going to market a treatment to heal Covid without being a vaccine.
+
+Therefore, my question to you: what do you think about this? Have you heard of such company? Personally I never heard of such company but I believe many people would not take vaccine if such treatment is available.
+
+Have a great weekend._END_OF_POST_PYSTOCK_ Dropbox getting more popular. Opinions? What are your opinions In Dropbox? Since this summer I see more and more people on YouTube, Reddit and on other platforms that talk about Dropbox as If it is the next great tech darling. I like DBX and I think it will do well, but I doubt it will quadrouple in the next 5 years as some suggest.
+
+Also, what is odd is the fact that 1) the pandemic did not propell this stock and 2) even though all these social media gurus talk about it and pump it, the stock fell which I believe is just short term impacience from traders and hype.
+
+Here are my thoughts:
+
+Talking valuations is has a sub 20 forward PE and recently started getting profitable. The market cap is just around 8b. Share price 19$.
+
+Financials. It's short term assets cover is short and long term liabilities. No debt. And a future buyback program. Positive FCF.
+
+Product. I use dropbox at work and at home with my family and I really like the fact that it's UI is easy to understand and use, when comparing it to OneDrive and GoogleDrive. So, user growth+ a nice product which is expanding into smart workspace, not just cloud storage. Also, they bought hellosign, which could be second to DocuSign in the digital signature space. 
+
+When glancing who owns DBX shares, we can see really large funds like vanguard, black rock and the rennaisance group. Also insiders hold 30 percent of the company and they did not sell any shares recently. One co-founder is still actively with the company and is the CEO for 13 yrs. I love it when founders stay and fight for the company, it gives the company credibility.
+
+Possible tailwinds: included into NASDAQ 100 and S&P500. Smart workspace makes a big difference and people accelerate to it's products. Hellosign gets a DocuSign type valuation. A big fund actively promotes the company.
+
+The risks: google or microsoft focus more on smart workspace and kill dbx product by underpricing. Extending into smart workspace fails and it kills their financials.
+Pretty large shareholder dillution in the past. So that growth/dillution is not that great.
+CEO and co-founder leaves the company
+Meh expected revenue growth of 8.5% in the future.
+
+
+Based on the fcf to equity discounting that many people use for the company, and a discount ratio of 8%, a growth ratio of 2.2%(5yr us bond), the share price should be around 23$ now. Price target 2025 40$.
+
+
+*Full disclosure, I Have a long position in DBX
+** No intention of pumping and dumping, I just wanna see if I am misreading something and unnecessarily risking my capital._END_OF_POST_PYSTOCK_ Palantir Security Hi Everyone,
+
+Does anyone have a value or growth thesis on Palantir? I have been trying to do a bunch of research but the financials and public documents are limited. I was just wondering if anyone has some sort of thesis on the company? Karp and Thiel are brilliant, but crazy at the same time_END_OF_POST_PYSTOCK_ What are your free real-time stock chart apps/services? Hi everyone!
+
+I'm new to stock trading and was trying to find a free real-time stock chart apps/services/web platform. Basically, I want to monitor the companies on my watch list and add indicators on top of it.
+
+Ever since I started learning stock trading, I've been using thinkorswim application to monitor my watchlist and the indicators but this is just on a Paper Money account. I'm not sure if the data it on this account is reliable (I'm guessing it's not, since it looks like it's behind by a couple of days).
+
+I've been searching for other option and so far, what I've checked is tradingview . com but I'm not sure if I can rely on the data it gives me. I'm not also sure if there are sort of certification or whatever license to make sure that the data on the chart is legit and is real-time.
+
+Also, is it fine to rely on these free apps/services? Should I invest on subscribing instead? If I subscribe, what other stock charts can you recommend??
+
+I'm also wondering what /r can you recommend for stock trading specially for the likes of who are just starting and will have a lot of questions??  
+
+
+P.S. Apologies if this is not the best /r to ask this and also sorry if these are a noob questions. I was just in the middle of my research and then I thought maybe folks from here can help me.  Thank you in advance._END_OF_POST_PYSTOCK_ Does anyone know of any free and reliable sources of industry/sector CAGR (Compound Annual Growth Rate) numbers? I Invest in tech themed sector/industry ETF’s, and I like to use this indicator for trying to find the latest long term sector investments. Obviously it’s not totally accurate, but It seems like the best hope for this type of investing. I currently use market watch, but I am running out of free articles._END_OF_POST_PYSTOCK_ How do companies qualify/decide to get uplisted from OTC to a Nasdaq or NYSE? Do companies automatically get up-listed once meeting criteria? Is there an option to pick between Nasdaq/NYSE? Is there a progression of going OTC>Nasdaq>NYSE? I read Nasdaq is more growth oriented, is that true? Any idea how long the process is from application (if that's the right term to even use?) to getting on new exchange?
+
+&#x200B;
+
+I've been tracking PIOE and was wondering at what point the company would choose/qualify to up-list, if even possible. 
+
+&#x200B;
+
+Thanks!_END_OF_POST_PYSTOCK_

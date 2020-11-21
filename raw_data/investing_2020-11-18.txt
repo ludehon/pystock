@@ -1,74 +1,146 @@
- Trading is hard without some kind of mentor. I managed to successfully time the market and sold at the peak of a stock price. I knew it would go back down but thought I had to wait for the trade to settle before I could buy again. Lo and behold it spikes back up again and I'm suddenly left buying back in at a loss. Times like these make me wish I had someone I trust to show me the ropes instead of fumbling around all this blindly. 
+ Alternative Investment in Guns The United States is an aberration among wealthy countries for its permissive gun control regulations. US gun control is particularly unusual for allowing citizens to own military style semi-automatic rifles, also called "assault weapons." Democratic and some Republican politicians have been calling for new controls on assault weapons for at least the past five years in response to mass shooting events. For example, Joe Biden has promised to regulate assault weapons under the national firearms act, the same law that regulates machine guns. Up to this point, these gun control efforts have been consistently blocked by a Republican controlled senate, though based on historical precedent Republicans will not keep the senate forever. Democrats have controlled both houses of congress and the presidency in 8 of the last 25 Congressional sessions and it seems likely this will happen again sometime in the next 10 to 20 years. It is also possible that the republican attitude towards gun control will soften in the coming decade, which may have the same effect.  It seems likely that gun control policy in 2035 will be tighter than it is today.
 
-On the bright side, the lesson only cost me $300, so I'm not about to sell off a kidney over this._END_OF_POST_PYSTOCK_ Yahoo Finance Adjusted Close for Mutual Fund Hey Guys,
+The US uses an unusual legal definition of a firearm that allows speculators to make heavily leveraged bets about the legal future of assault weapons. Under American law, the only regulated part of a firearm is the "receiver," which is a small metal (or plastic) frame that holds in the other parts of the gun. This receiver is legally a gun, and buyers are required to pass a background check before completing their purchase. All other gun parts are completely unregulated, and online sellers can ship complete kits for assault weapons minus the receiver directly to buyers houses. For example, a buyer can purchase a stripped receiver for an AR-15 assault weapon in anticipation of regulatory change, and purchase a kit of remaining parts later if he ever wishes to assemble it into a complete weapon. Receivers cost between 2-5% the price of a complete AR15, which allows speculators to take a highly leveraged position on the future of assault weapon prices.
 
-I am new here and have a question concerning the adjusted close prices of yahoo finances. 
+In the section below, I go through five of the most likely legislative outcomes for assault weapons and give the expected returns to investing in AR-15 lowers. On the 10 - 20 year timeline, I suggest there is a large upside potential (500%+) with a comparably acceptable probability of losing your investment. If you don't want to read through my analysis, I have summarized my conclusions in the payoff matrix below:
 
-I am doing an analysis concerning Mutual Fund Performance.
+&#x200B;
 
-I know that I can calculate the NAV Returns with the close prices. Can I calculate the Total Returns of Mutual Funds if I use the Adjusted Close Prices?_END_OF_POST_PYSTOCK_ What are some good investing strategies? What if someone just started out investing in stocks and they don't have tens of thousands of dollars to invest in one stock?
+Outcome, Expected Return, Probability on 15 year Horizon
 
-I started investing in individual stocks 2 months ago. So far I have like $2k invested in 8 different stocks. I want to hold these stocks for the long term and i want to add even more shares of these stocks.
+No Change ,                                         , 0%  return,  Medium Probability
 
-What would be the best approach if lets say I buy 10 shares of a company (because that's all the money I have at the moment to invest) and the price goes up 10-20% before I have the money to buy more shares? Should DCA and increase my average for that stock or should i wait until the stock falls below my average (if it even ever does fall that much...)?
+NFA regulation but no ban               , 0%                         , Low Probability
 
-Example:
-I buy 1 share of Tesla at $400. I want to buy more but don't jave the money for it. Next month i can buy one more share but it went up 25% so now it's $500. What would be the best approach?
+Assault Weapons Ban                        , +>500%                , High Probability
 
-1. Buy and hope it goes up even more
-2. Buy on red days only
-3. Wait for a big dip and buy (maybe it wont, or maybe i wont have the money when it does)
+Assault Weapons Ban no Transfers , -100%                   , High Probability
 
-Thank you!_END_OF_POST_PYSTOCK_ Can anyone explain simply Interest Rates' impacts on Equities? "Stocks are expensive and especially vulnerable to higher inflation and/or interest rates." - Forbes  
-With Bloomberg saying, according to Citigroup that the USD may be down at least another 20% next  year, it is clear the impact that and inflation will have on US equities. However, I am unclear on the impact that interest rates have on equities. Right now we are in Monetary Policy 2, with zero interest rates. Soon we may be looking at negative interest rates. How does that play out for the equities market? Cheers_END_OF_POST_PYSTOCK_ Need someone to fact check me Hey everyone, just really need you to fact check me and help with gaps. 
+Mandatory Buyback                            , -50% to +25%     , Very Low Probability
 
-My background: USA, 31, making $92k pre-tax. Just paid off $50k in loans. 
+&#x200B;
 
-Currently: 
+Possible regulatory outcomes:
 
-Emergency fund: 15k with 5k saved for w9 taxes. 
+1. No change. The price of AR-15s and stripped lowers moves sideways and the investor makes a loss on shipping and transfer costs if they resell. This seems like the most likely outcome in the short run, but gets increasingly less likely as you look further into the future.
+2. Assault weapons are introduced into the national firearms act (NFA) and the ATF continues to issue tax stamps for both new and transferred weapons. This would require buyers to pay a $200 transfer tax and endure 3-12 month waiting period to purchase new or existing lowers. In theory this disincentive will reduce the quantity demanded and will cause prices to fall in the short run as the market is flooded by manufacturers who tooled up to supply a higher demand. Prices should return to normal in the long run as manufacturers retool to supply the new level of demand. The benefit of this outcome is that the investor gets to keep the guns for personal use without paying the $200/gun tax, but will make a loss on shipping and transfer costs if they resell. This seems like an improbable outcome. Legislators who want to see assault weapons banned would be unsatisfied with raising prices by $200, and anti-gun-control legislators would obviously oppose it.
+3. Existing assault weapons become transferable under the NFA but the ATF refuses to issue tax stamps for new guns.  No new assault weapons would be produced but existing guns would be transferable with a $200 tax stamp. This is essentially a reprisal of the 1994 assault weapons ban, and would place assault weapons in the same position as machine guns are today. The returns to holding machine guns over the past 50 years have been huge. The stripped lowers for semi-auto and full-auto AR15s are essentially identical,  but the semi-auto lowers sell for under $100 and transferable full-auto lowers sell for over $15000. However, the returns to holding a semi-auto lower after an assault weapons ban would be much smaller than the historical returns to holding a full auto-lower because the existing stock of semi-auto lowers is so much greater. Full auto lowers command such a high price today because there are fewer than 200,000 registered machine guns and millions of people who would like one. Its hard to say how many assault weapons there are in the US today because the number will depend on how legislators define an "assault weapon," but the number is probably north of 10 million ([https://www.thetrace.org/2018/09/how-many-assault-weapons-in-the-us/](https://www.thetrace.org/2018/09/how-many-assault-weapons-in-the-us/)). Not all of these guns would be registered with the NFA in the event of an assault weapons ban, but the final number would still be huge and so they would not command a price anywhere near an equivalent machine gun. That said, if prices for stripped lowers rose to just $600, as already happened in 2012, an investor could still earn a return of several hundred percent after transaction costs. This outcome seems very plausible, especially on the 10 to 20 year timeline.
+4. Existing assault weapons are grandfathered into the NFA but the ATF refuses to approve transfers. This would mean the investor gets to own a large number of guns that nobody else can have, but they also lose 100% of their investment because they cannot be sold. This outcome seems slightly less likely than outcome #3, but still very possible.
+5. Mandatory buyback. Gun owners are ordered to turn in their assault weapons for a nominal fee. This outcome may actually produce a slight profit depending on how the government compensates owners. Typical buyback prices are in $50-$100 range, which is vastly less than the price of a finished AR-15 but can be more than the price paid for a stripped lower. Lowers today sell for a little under $100, but last year they could be had as cheaply as $35. This outcome seems very unlikely because legislators considering a mandatory buyback would likely anticipate that a small but dangerous minority of gun owners would stage some sort of violent resistance.
 
-Roth IRA: 500/month, maxing out
+Edit: I really appreciate the feedback! Do be brutally honest if you think I'm wrong._END_OF_POST_PYSTOCK_ Looking for website with dividend and growth Hey guys, is there a formula or website that shows both gains of dividends and stock price
 
-Schwab S&P 500: 500/month for forever?
+For example if I compare a bank stock with a stable dividend growth rate with a strong stock that does not give dividends - where would I easily look for that by website to compare or calculate that? 
 
-Goals: Put away a chunk for a house in 1- 2 years (more for repairs that come up than a down payment since I could get the new home owner 3% help). 
+I’m looking for something that, over 5 years, takes into account the compounding power of the dividend too since comparing the bank stock against a non dividend stock isn’t fair without taking into account dividend
 
-Rent part of the house out for income. 
+Is there a platform that benchmarked the DOW?_END_OF_POST_PYSTOCK_ Someone fact check me with some real estate numbers. It's way better than I thought Ok so I used to think the great part about being a landlord is that you profit the difference between rent and mortgage. You rent it out for 1,500 and pay the bank 1,000 and you're making 500 a month.   
 
-Reduce my living costs by moving in with partner and/or live abroad cheaply while renting out that house. 
 
-I also have 11k in a 403b I need to roll over eventually. 
+But, aren't you not really losing the 1,000 at all? It's still a part of your net worth, it's just going from cash to equity in a home. So am I really profiting 1,500? My net worth would be going up 1,500 (I guess subtract payment that went to interest instead of principal) a month. Am I right or wrong here_END_OF_POST_PYSTOCK_ Nvidia reports Q3 beats with record Gaming, Data Center sales and upside forecast  
 
-Am I missing something?_END_OF_POST_PYSTOCK_ Several questions on Schwab, Simple IRA, and investing strategies Alright, so I have a Simple IRA through Schwab right now and have about 3k in it.
+* Nvidia's (NASDAQ:[NVDA](https://seekingalpha.com/symbol/NVDA?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link))  stock is up slightly AH after Q3 bats with record revenue of $4.73B  (+57% Y/Y), record Gaming revenue of $2.27B (+37%; consensus: $2.06B),  and record Data Center revenue of $1.90B (consensus: $1.8B), up 162%.
+* Professional Visualization sales were down 27% on the year but increased 16% on the quarter to $236M vs. the $215M estimate.
+* Automotive sales were down 23% Y/Y and up 13% Q/Q to $125M due to the broad auto recovery.
+* Gross margin improved from 64.1% to 65.5% on the year.
+* Operating expenses increased 6% Q/Q and 42% Y/Y to $1.1B, in-line with consensus estimates.
+* For  Q4, Nvidia forecasts revenue of $4.8B plus or minus 2%  (consensus: $4.43B), gross margin of 65.5% plus or minus 50 bps, and  operating expenses of $1.18B
 
--Is there a way to deposit money into my Simple IRA by myself or is it done purely through employer/paycheck contributions?
+[https://seekingalpha.com/news/3637720-nvidia-reports-q3-beats-record-gaming-data-center-sales-and-upside-forecast](https://seekingalpha.com/news/3637720-nvidia-reports-q3-beats-record-gaming-data-center-sales-and-upside-forecast)_END_OF_POST_PYSTOCK_ Options for All Cap exposure to Value Stocks Is there an ETF that tracks value stocks in all capitalizations? So far I have just found I can gain that exposure through the combination of IWD, IWS and IWN (Russell Large, Mid and Small Cap Value ETFs). Most others (like VOOV) just track the S&P 500 value stocks._END_OF_POST_PYSTOCK_ Calculating the price of a share after a rights issue [https://www.eurex.com/ex-en/rules-regs/corporate-actions/corporate-action-information/International-Consolidated-Airlines-Group-Rights-Issue-2227064#:\~:text=The%20company%20International%20Consolidated%20Airlines,EUR%200.92%20per%20new%20share](https://www.eurex.com/ex-en/rules-regs/corporate-actions/corporate-action-information/International-Consolidated-Airlines-Group-Rights-Issue-2227064#:~:text=The%20company%20International%20Consolidated%20Airlines,EUR%200.92%20per%20new%20share).
 
--Should I be doing my primary stock trading in the IRA or should I leave my mutual funds there? I'm using Daniel Solin's advice for mutual funds (spread through S&P Index fund, Small stock index fund, international equity index fund, and U.S. bond market index fund) and, based on the amount of time and effort I'd like to spend, I am pretty comfortable having the majority of my investments being in mutual funds.
+*"On October 2, 2020 the Group announced the successful conclusion of its capital increase. The capital increase resulted in the issue of 2,979,443,376 additional shares, bringing the total issued share capital to 4,971,476,010 ordinary shares of €0.10 each. Gross proceeds of the capital increase were €2,741 million."*
 
-That being said, I do like investing on the side and have been doing some crypto trading as well as a little bit of day trading.
+According to theTiKR they had almost exactly 2 billion shares prior to the dilution.  
+So an additional 3 billion shares.
 
-I'd like to consolidate everything as much as possible, so should I be using my crypto apps (cash app, ledger live, and binance) for crypto and Schwab for the rest? What is the best way to manage these?
+[https://tradingeconomics.com/iag:sm](https://tradingeconomics.com/iag:sm)
 
-Thanks!_END_OF_POST_PYSTOCK_ What are your “dark horse” investing picks? It seems like everyone and their mothers is investing in stuff like FAANG, S&P 500, VGT, etc. This is most what people tend to focus on when they talk about investing.
+But how would I calculate what the share price would be factoring in the dilution with a reference of January 15th as a date, where it traded at 7.88€, say if everything would return to normal and the pandemic blows over.
 
-I’m making this post to start a discussion about “unconventional” investments, and ask and see what dark horse picks some of you may be choosing to put money into. Im talking things like sectors that go against current trends, overlooked industries, untapped markets, or your point blank baseless predictions._END_OF_POST_PYSTOCK_ Can low-income landlords see my investments and savings? On disability and applying for low-income housing, have a few thousand in savings and a few thousand in the stock market. They go by income and say I need to report ALL income and assets including stocks, bonds, dividends, savings accounts. Do they have access to these accounts if I just don't report them? Will they find out,  do these landlords/management firms have access to see all my assets? If this isn't the right area to post in can I get a recommendation?_END_OF_POST_PYSTOCK_ Best tech mutual fund IYO? Like the title says, I’m also new to investing but my family says save for the future and invest for my retirement. I’ve been looking at a couple like FSPTX and PRGTX. I have some already invested in FBSOX but I’d like to invest some more. I have ~2400 to play with so what other suggestions do you guys have?_END_OF_POST_PYSTOCK_ Who to choose ? Need advice I want to open a Roth IRA in the future, I’ve been doing extensive research on many offers. So far I am down to four choices; M1, Fidelity, Charles Schwab, and TD Ameritrade. They all offer 0 annual fees and low minimums. But you guys are more experienced with the actual performance of these companies, so from this which should I choose to go with? Any advice would be greatly appreciated, thank you for your time._END_OF_POST_PYSTOCK_ Google will let users open bank accounts, pay friends and manage budgets through a new version of its app rolling out today [CNBC](https://www.cnbc.com/2020/11/18/google-moves-into-venmo-and-banking-turf-with-checking-account-app.html)
+The price wouldn't be 7.88€, so what would it be factoring in the dilution?_END_OF_POST_PYSTOCK_ How to calculate performance on investment with realized and unrealized P/L? I'm holding a position that I trimmed a few times, added it it a few times... and I'm wondering how should I calculate my overall performance on this stock. FYI. I use FIFO (sell my oldest shares first) So, here's an example:
+
+**1. Bought 50 shares @ $30 ($1500 total)**
+
+**2. Bought 50 shares @ $60 ($3000 total)**
+
+*At this point I'm holding 100 shares @ $45, so if Price=$54, I'm at 20% gain (54/45). Easy*
+
+**3. Then, I sold 25 shares @ $54**
+
+*At this point I trimmed my first lot, so I made 80% (54/30) or $600 profit. And I'm left with: 75 shares @ $50. Because my avg cost went up to $50, my "current return" is 8% (54/50)*
+
+**4. Price go up to $100/share.**
+
+&#x200B;
+
+My question is, how to properly calculate overall performance on this stock, after "**Step 3"** and "**Step 4"**?
+
+&#x200B;
+
+I don't know if I'm doing it correctly, but this is my way:
+
+When I sold 25 shares in **"Step 3"**, I essentially got $1350 (25\*54) out of cost=$750. So my performance at "Step 4" (Price @ $100/share) will be calculated like that:
+
+Realized gains: Cost=$750, Balance when sold=$1350 (Performance: 20%)
+
+Unrealized gains: Cost=$3750, Current Balance=$7500 (Performance: 100%)
+
+Total: Cost=$4500, Balance = $8850
+
+**Overall performance: 8850/4500-1 = 96.7%**
+
+&#x200B;
+
+Please let me know if this is how it should be calculated._END_OF_POST_PYSTOCK_ Using high-dividend stock to fuel growth stocks instead of DRIP Hi all,
+
+We’ve all heard it before -  dividend growth portfolios lag the low/no dividend stocks/ETF in the long term. 
+
+Not really looking to debate that. Let’s just assume/agree it’s true.
+
+Has anyone ever done a calculation though (or know where to begin) to see how that would change if we allocate a percentage of the portfolio to a stable, high dividend stock/ETF - that instead of DRIP-ing into itself disperses its dividend equally to the portfolio, still skewed heavy growth?
+
+Would that outpace a traditional growth portfolio or still lag it? 
+
+All calculations always seem to be done with DRIP in mind rather than dividend re allocation to all holdings.
+
+Thanks!_END_OF_POST_PYSTOCK_ Muddy Waters: Baidu's recent purchase Joyy is a FRAUD Baidu BIDU is doomed becos their recent acquisition Joyy YY is the new Nikola NKLA
+
+# MW is Short Joyy Inc. (YY US)
+
+While trawling the sewers of the world’s capital markets over the past 10 years, irony has never been in short supply. And yet, nothing could prepare us for the surreality of Baidu announcing its intention to buy YY Live from JOYY, which happened just as we were preparing to reveal that our year-longinvestigation shows YY Live is about 90% fraudulent.
+
+[https://www.muddywatersresearch.com/research/yy/1/](https://www.muddywatersresearch.com/research/yy/1/)
+
+# Video: The Exposing of JOYY Inc
+
+Carson Block, Founder of Muddy Waters Research, exposes JOYY as a fraud tech company. The Chinese live streaming service is guilty of bot forming, creating fake transactions, and having fake users.
+
+[https://www.zer0es.tv/big-announcements/the-exposing-of-joyy-inc/](https://www.zer0es.tv/big-announcements/the-exposing-of-joyy-inc/)_END_OF_POST_PYSTOCK_ Can anyone explain simply Interest Rates' impacts on Equities? "Stocks are expensive and especially vulnerable to higher inflation and/or interest rates." - Forbes  
+With Bloomberg saying, according to Citigroup that the USD may be down at least another 20% next  year, it is clear the impact that and inflation will have on US equities. However, I am unclear on the impact that interest rates have on equities. Right now we are in Monetary Policy 2, with zero interest rates. Soon we may be looking at negative interest rates. How does that play out for the equities market? Cheers_END_OF_POST_PYSTOCK_ What are your “dark horse” investing picks? It seems like everyone and their mothers is investing in stuff like FAANG, S&P 500, VGT, etc. This is most what people tend to focus on when they talk about investing.
+
+I’m making this post to start a discussion about “unconventional” investments, and ask and see what dark horse picks some of you may be choosing to put money into. Im talking things like sectors that go against current trends, overlooked industries, untapped markets, or your point blank baseless predictions._END_OF_POST_PYSTOCK_ Best tech mutual fund IYO? Like the title says, I’m also new to investing but my family says save for the future and invest for my retirement. I’ve been looking at a couple like FSPTX and PRGTX. I have some already invested in FBSOX but I’d like to invest some more. I have ~2400 to play with so what other suggestions do you guys have?_END_OF_POST_PYSTOCK_ Google will let users open bank accounts, pay friends and manage budgets through a new version of its app rolling out today [CNBC](https://www.cnbc.com/2020/11/18/google-moves-into-venmo-and-banking-turf-with-checking-account-app.html)
 
 Google will let users open a bank account through its Google Pay app, in a partnership with Citi and Stanford Federal Credit Union beginning next year.
 
 The tech giant is relaunching the payments app to allow people to pay friends, similar to PayPal’s popular Venmo and Square’s Cash App. 
    
-"It's going to have a broad appeal, but especially among the younger population, Gen Z, that are more tech-driven and mobile-focused," says Anand Selva, CEO of U.S. consumer banking at Citi._END_OF_POST_PYSTOCK_ Help me understand marijuana companies. I am of the group that marijuana will likely only become more and more accepted and legalized over time. Naturally I'd like to capitalize on this.  What I can't get my head around is the need for weed companies. If it's legalized in a state or county for that matter.  It's not an exceptionally hard thing to grow yourself.  Especially with the ease of being able to buy growing lights and whatnot at a hardware store or over the internet. So what's the "need" of a marijuana company if you can legally possess it and as a result grow your own?_END_OF_POST_PYSTOCK_ Nintendo Deep Dive [https://asymmetricskew.substack.com/p/nintendo-switching-the-business-model](https://asymmetricskew.substack.com/p/nintendo-switching-the-business-model)
+"It's going to have a broad appeal, but especially among the younger population, Gen Z, that are more tech-driven and mobile-focused," says Anand Selva, CEO of U.S. consumer banking at Citi._END_OF_POST_PYSTOCK_ Help me understand marijuana companies. I am of the group that marijuana will likely only become more and more accepted and legalized over time. Naturally I'd like to capitalize on this.  What I can't get my head around is the need for weed companies. If it's legalized in a state or county for that matter.  It's not an exceptionally hard thing to grow yourself.  Especially with the ease of being able to buy growing lights and whatnot at a hardware store or over the internet. So what's the "need" of a marijuana company if you can legally possess it and as a result grow your own?_END_OF_POST_PYSTOCK_ PLTR lock-up period is confusing Please help me make sense:
 
-As many of you know, Nintendo is a iconic company that has brought created numerous gaming classics such as Donkey Kong and Super Mario Bros. However the business model has historically been hindered by the subpar economics of hit driven console business. With the release of the Switch and Nintendo Accounts/Switch Online Membership, entry into theme parks and movies, I believe the company is pivoting towards a less volatile higher margin revenue stream. See the link for more details and would appreciate hearing people's thoughts on the company._END_OF_POST_PYSTOCK_ PLTR lock-up period is confusing Please help me make sense:
 Per S1A 9/29:
+
 https://www.sec.gov/Archives/edgar/data/1321655/000119312520250103/d904406ds1a.htm
+
 Offering: 257,135,415 Shares
+
 Our executive officers, directors, and record holders representing over 99% of our capital stock and securities convertible into or exchangeable for our capital stock are subject to market standoff or lock-up agreements with us under which they cannot sell, offer, contract to sell, pledge, grant any option to purchase, lend, or otherwise dispose of shares of our capital stock, or enter into any hedging or similar transaction or arrangement that is designed to or could reasonably be expected to lead to or result in a sale or disposition or transfer of any of the economic consequences of ownership of shares of our capital stock, until the start of the third trading day following the date of public disclosure of our financial results for the year ending December 31, 2020 (the “lock-up period”), except as described below and subject to certain other exceptions.
+
 Starting on the first day of trading, the restrictions contained in the lock-up agreements will no longer apply to (i) an aggregate of 383,609,647 shares of common stock, including shares issuable upon exercise of outstanding stock options, and (ii) an aggregate of 68,149,214 shares of common stock issuable upon vesting of restricted stock units. The remaining 1,863,150,291 shares, including shares issuable upon exercise of outstanding stock options, will be able to be sold after the lock-up period, subject to applicable securities laws and our insider trading policy. In addition, certain record holders subject to market standoff agreements with us have not signed the lock-up agreement and are therefore not permitted to sell any shares during the lock-up period. If such record holders sign the lock-up agreement, up to an additional 37,369,371 shares of common stock, including shares issuable upon exercise of outstanding stock options, would be able to be sold during the lock-up period. 89,007,617 shares held by our Founders and their affiliates will be permitted to be sold immediately under the Founders’ lock-up agreements and will be registered for resale pursuant to the registration statement..."
+
 Per FactSet: Identifier Description Shares PLTR-US Class A Common Stock 1,471,832,735 FDS19SUL Class B Common Stock 405,096,034 FDS19VQT Class F Common Stock 1,005,000
 Description Shares Basic Shares 1,877,933,769 Diluted Shares 552,922,763 In-the-Money Convertible Debt - In-the-Money Convertible Preferred - Stock Compensation 552,922,763 Stock Options and Warrants 370,569,807 2010 Equity Incentive Plan 362,938,081 Long Term Incentive Plan 7,631,726 Restricted Stock Units 178,770,282 2010 Equity Incentive Plan 178,685,408 2010 Equity Incentive Plan 84,874 Performance Shares 3,582,674 2010 Equity Incentive Plan - Growth Units 3,582,674 Fully Diluted Shares Outstanding 2,430,856,532
+
 Per https://techcrunch.com/2020/09/18/in-its-4th-revision-to-the-sec-palantir-tries-to-explain-what-the-hell-is-going-on/: “One part of that complication was its invention of a direct listing with a lockup. When a company directly lists on a stock exchange, recent tradition holds that insiders are not locked up, which means that they will be allowed to start buying and selling their shares as soon as the company hits the market. For reasons that are known only to Palantir, the company decided to mostly block employee trading, limiting the float that can be expected when it begins trading.”
+
 “Palantir will lock up about 80% of shares in the company, allowing about 380 million shares to trade on opening day. Eight million more shares will come on the market in November when certain restricted stock units vest for company employees, and other vested RSUs will also not be beholden to the lockup agreement as they come next year.”
 
 
@@ -80,11 +152,23 @@ Questions:
 ******
 2) I read "Our executive officers, directors, and record holders representing over 99% of our capital stock and securities convertible into or exchangeable for our capital stock are subject to market standoff or lock-up agreements with us" to mean current officers are subject to 80% lockup until 3rd trading date after Q4 results, around 2/17/2021. But based on Soros' statement and 13F, SCM sold 20%. Would 80% apply to former directors (his former employee?) or how else to make sense of this? 
 ******
-3) When would 68,149,214 become available to trade? 4) Given F-share ownership structure, Peter Thiel and Stephen Cohen (the software engineer, not the hedge fund manager) no doubt approved this lock-up period. It is not traditional 180 days, nor is it at all traditional in a direct listing. No doubt they would want to stabilize stock price with lock-up (no ECM support as with traditional IPO) but why time with Q4 earnings (realize answer is speculative)? 
+3) When would 68,149,214 become available to trade? 
+******
+4) ANSWERED Given F-share ownership structure, Peter Thiel and Stephen Cohen (the software engineer, not the hedge fund manager) no doubt approved this lock-up period. It is not traditional 180 days, nor is it at all traditional in a direct listing. No doubt they would want to stabilize stock price with lock-up (no ECM support as with traditional IPO) but why time with Q4 earnings (realize answer is speculative)? 
+
+Found this: https://www.sec.gov/smallbusiness/goingpublic/exchangeactreporting
+So basically all early employees and investors are record holders. Let's not waste too much effort on Soros then. Main questions: Where did 257,135,415 on page 1 of S1 come from? How many shares are likely to be sold after lockup?
+
 ******
 5) Why do FactSet and other sources list a float of 62%? Wouldn't it be less than 20% (B shares not traded until converted 1:1 and F shares never traded). 
 ******
-6) What are difference between shares subject to lockup and RSUs? 7 million in TechCrunch might refer to Long Term Incentive Plan 7,631,726 per FactSet. But wouldn't 2010 incentive shares be fully vested by now?
+6) 6) It gets even more confusing sadly....
+
+9/29 Press release which seems to contradict the last S1A from 9/21:
+https://investors.palantir.com/news-details/2020/Palantir-Announces-Additional-Update-Regarding-Outstanding-Shares-of-Common-Stock-and-Shares-Permitted-to-Be-Sold-Under-Lock-Up-Agreements/default.aspx
+As of September 28, 2020, there were an aggregate of 475.8 million shares of common stock that will be permitted to be sold starting on the first day of trading pursuant to Palantir’s market standoff or lock-up agreements. These 475.8 million shares consisted of (i) an aggregate of 407.7 million shares of common stock, including shares issuable upon exercise of outstanding stock options, and (ii) an aggregate of 68.1 million shares of common stock issuable upon vesting of restricted stock units in connection with the listing (“RSUs”). We estimate that, as of September 28, 2020, greater than 90% of the 475.8 million shares of common stock that are permitted to be sold under market standoff or lock-up restrictions consisted of outstanding shares of Class A common stock or shares of common stock underlying stock options or RSUs.
+
+So is it 380 or 475 and thing bothering me most--why does page 1 of S1A say 257?
 
 
 BIG PICTURE: On or around 2/17/21 (3 mons and 3 trading session after Q3 earnings release) what would be impact on stock? I can't imagine all insiders duping every share (although would seemingly retain control if choose to retain very few), but valuation was rumored around $50-60 Billion for past few years even before incredible run in tech. With stock now above 19 and EV ~35B, if valuation approaches what Thiel et al seeming hoped for in next three months would they be expected to flood the market with shares? Then again they approved lockup? I don't understand._END_OF_POST_PYSTOCK_ Investment History Asset Allocation Test Program Hi,
@@ -95,11 +179,7 @@ An example would be, I would like to take an all weather asset allocation strate
 
 Please Direct me to any app or program that might help.
 
-Thank you_END_OF_POST_PYSTOCK_ Covid during 2020 Managed to save 10k during the pandemic and have no clue on how to invest it. Currently have it sitting in a bank account while I educate myself on real estate, taxes and life. Built up a daily routine that clears my mind, body and soul. Any advice would be appreciated as I have a baby on the way. Hope everyone is well!_END_OF_POST_PYSTOCK_ Canadian ETF advice needed! Looking for a Canadian (growth oriented) ETF that I can dump a $1000 a month and forget about it. I have a position on XEI.TO but I don't particularly like it. I think there are better options out there. I'm 26. Give me your advice!
-
-Sorry, I need to copy paste the text so the bot doesn't auto-remove my post for being too short...
-
-Looking for a Canadian (growth oriented) ETF that I can dump a $1000 a month and forget about it. I have a position on XEI.TO but I don't particularly like it. I think there are better options out there. I'm 26. Give me your advice!_END_OF_POST_PYSTOCK_ Thoughts on NEE LEAPS? I bought 1/21/22 $50 call
+Thank you_END_OF_POST_PYSTOCK_ Covid during 2020 Managed to save 10k during the pandemic and have no clue on how to invest it. Currently have it sitting in a bank account while I educate myself on real estate, taxes and life. Built up a daily routine that clears my mind, body and soul. Any advice would be appreciated as I have a baby on the way. Hope everyone is well!_END_OF_POST_PYSTOCK_ Thoughts on NEE LEAPS? I bought 1/21/22 $50 call
 
 What are your opinions on renewable energy LEAPS?
 
@@ -125,7 +205,7 @@ On the medical supply front, **Mckesson (MCK)** is the designated distributor o
 
 For a detailed read, [see here](https://grufity.com/dashboards/1605598524932/Vaccine-Development-and-Logistics-Stocks)._END_OF_POST_PYSTOCK_ Has a good opportunity developed to buy Prosus NV? Prosus will release earnings in Nov 23 and it is expected to be good.
 
-Moreover, as we know, they own around 31% of Tencent and the price disparity between it’s owned Tencent stock and it’s own stock(which is itself just a part of Nespar).
+Moreover, as we know, they own around 31% of Tencent and the price disparity between it’s owned Tencent stock and it’s own stock(which is itself just a part of Nespar) is insane.
 
 We know that there's generally a holdings company discount, but the discount in Prosus and Nespar is insane and so management has decided to go for $5B buyback of it’s shares.
 

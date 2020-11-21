@@ -1,6 +1,7 @@
 import time
 import praw
 import json
+import sys
 import pandas as pd
 from words import wordFreq
 from datetime import datetime, timezone
@@ -69,8 +70,8 @@ if __name__ == "__main__":
     # mode 1 : scrap data from reddit and save it
     # mode 2 : display word occurence over time
     # mode 3 : scrap data from raw data
-    mode = 2
-    if mode == 1:
+    mode = sys.argv[1]
+    if mode == "date":
         dates = date_generator("10")
         dates = ["2020-11-15"]
         subs = ["stocks", "investing", "wallstreetbets"]
@@ -80,10 +81,10 @@ if __name__ == "__main__":
                 subs, 100, date
             )  # 1000 posts = 1 month back in time, 1000 max
             wf.saveToFile(date)
-    elif mode == 2:
+    elif mode == "vizu":
         wf = wordFreq()
-        toExclude = []
+        toExclude = ["tesla", "nio"]
         toLookAt = []
-        wf.displayTimeSerie(10, toExclude, toLookAt)
-    elif mode == 3:
-        save_wf_from_raw("2020-11-13", "2020-11-18")
+        wf.displayTimeSerie(15, toExclude, toLookAt)
+    elif mode == "raw":
+        save_wf_from_raw("2020-11-20", "2020-11-21")

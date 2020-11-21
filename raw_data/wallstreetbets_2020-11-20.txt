@@ -1,0 +1,1133 @@
+ Reminiscences of a Stock Operator: The Evolution of the Average WSB Autist **TLDR:** Alan Greenspan called this book "a font of investing wisdom" famous quotes such as "bulls and bears make money; pigs get slaughtered" originated from this book.
+
+This book is a true story of how one boy leveraged 100-to-1 and successfully became a millionaire many times over. He buys a yacht, takes lavish vacations, and eventually has enough money to influence market movements.
+
+*• 1890-1910: Livermore was able to make easy money by taking advantage of the bid–ask spread on inactive stocks with leverage of 100-to-1 at bucket shops.*
+
+This is where your average WSB autist starts. Robinhood is essentially the modern day “bucket shop” where people buy and sell stock based on tips they hear as well as crude technical analysis tools. Instead of 100-to-1 leverage, we use options.
+
+*• 1910-1920: Livermore was a stock trader on the New York Stock Exchange, where he went bust over and over again because he used too much leverage.*
+
+Even the great traders of our time lost it all more than once. The most useful lesson is to trim down your leverage and do not “revenge trade”. You need to stay in the right state of mind at all times. The moment you start thinking “I just lost a house payment” it is too late. The money in your account needs to feel like points in a game. It is much better to play the odds and lose on the right play than win money on pure luck.
+
+*• 1920s: Livermore engaged in market manipulation, charging fees of 25% of the market value of the manipulated stock.*
+
+This is where the big dogs are now. Read this section and learn how the market manipulation works. It was the same back then as it is today. Large players will test the market, find resistance, and manipulate the price to sell into retail strength. A lot of posts on this sub are part of pumping and dumping stocks. Remember that you are following the Big Dogs to tendies, and you need to get out before your favorite meme stock leaves you bag-holding.
+
+**Positions:** 100-to-1 leverage on GME._END_OF_POST_PYSTOCK_ When did you start getting this right? I’ve been trading since the end of September. Two months in, been up 3k, down 3k, etc. As soon as I feel I’m on the right path, I’ll fomo and lose days of gains in minutes. Although, I feel like my instincts and emotional controls are getting better, I’ve been close to cutting my loses while I’m ahead...
+
+So, give us aspiring autists some hope: How long did it take you tards to really settle in and find your groove?_END_OF_POST_PYSTOCK_ Will I be able to recover from this? Fool me once shame on you.. fool me twice... shame on me 💀 _END_OF_POST_PYSTOCK_ Should have read their last earnings report before placing this gay play. 💸💸💸 _END_OF_POST_PYSTOCK_ Autism recovery week 1: “A Retard Reborn” _END_OF_POST_PYSTOCK_ The Most Popular Tickers on Reddit for Today, 2020-11-20. #Trending Tickers
+
+Ticker|Mentions|Bulls|Neutral|Bears|Price|Change|P/E
+:--|:--|:--|:--|:--|:--|:--|:--
+SPY|635|20.40%|52.68%|26.92%|$357.78|0.42%|-
+PLTR|607|35.97%|57.83%|6.20%|$18.98|6.03%|-
+NIO|606|29.25%|61.79%|8.96%|$48.45|7.52%|-
+TSLA|500|33.19%|57.27%|9.54%|$499.27|2.6%|-
+BABA|332|42.41%|51.90%|5.70%|$259.89|1.59%|52.11
+SOLO|257|25.31%|67.76%|6.94%|$9.64|39.51%|-
+CRSR|157|29.37%|65.73%|4.90%|$37.90|8.01%|-
+AMD|151|32.58%|64.39%|3.03%|$85.54|3.63%|267.12
+CIIC|148|29.86%|65.28%|4.86%|$17.00|27.25%|-
+V|112|5.81%|94.19%|0.00%|$207.57|-0.13%|-
+GME|103|31.63%|63.27%|5.10%|$12.46|7.69%|-
+SBE|93|21.84%|74.71%|3.45%|$24.70|25.51%|-
+ZM|89|34.52%|55.95%|9.52%|$414.29|-0.18%|4070.98
+FUV|84|23.17%|71.95%|4.88%|$16.00|69.49%|-
+BA|81|28.38%|50.00%|21.62%|$205.67|1.17%|-
+
+
+#Trending Contracts
+
+Ticker|Strike|Type|Date|Mentions
+:--|:--|:--|:--|:--
+BABA|$300|CALL|12/18|5
+SPY|$360|CALL|11/27|2
+PLTR|$19|CALL|11/20|2
+CRSR|$40|CALL|11/20|2
+K|$12.5|CALL|3/21|2
+JETS|$19|PUT|12/18|2
+TSLA|$500|CALL|11/20|2
+SPY|$370|CALL|11/27|2
+PLTR|$20|CALL|11/20|2
+SQ|$210|CALL|3/19|2
+PLTR|$20|CALL|11/27|2
+TSLA|$600|CALL|12/24|2
+TSLA|$600|CALL|11/20|1
+TQQQ|$155|CALL|11/20|1
+SDC|$14|CALL|1/21|1
+TREE|$240|PUT|12/18|1
+NIO|$49|CALL|11/20|1
+TSLA|$600|CALL|12/18|1
+SPY|$395|CALL|11/27|1
+IVR|$7|CALL|6/18/21|1
+
+
+#Other Information
+
+Subreddits Searched: wallstreetbets, investing, stocks, stockmarket, options, robinhood
+
+Comments Searched: 30672
+
+Unique Tickers: 384
+
+Total Tickers: 9806
+
+Unique Contracts: 166
+
+Total Contracts: 181
+
+Time Period: 24h
+
+Financial data provided by [Vhinny](https://www.vhinny.com/).
+
+View daily trending tickers on r/RedditTickers._END_OF_POST_PYSTOCK_ Show of hands. How many of you other degenerates are stuck in a cycle of going up to your max account value and down about 20% then back up, back down, etc...weekly? I was killing it July-September and everything since has been up down, no higher, no lower. Is this happening to anyone else?_END_OF_POST_PYSTOCK_ Let’s make AMZN Split What can we do to make AMZN 10-1 split? It’s been 20 years._END_OF_POST_PYSTOCK_ Nano dimension (NNDM) is the next genius brands. Here is why A lot of Cathie Wood simps are investing their life savings into Nanodimesnion without doing any DD whatsoever. I've seen some clueless investors comparing NNDM to the next Tesla, NIO and even apple (WTF??). Even after they’ve had 7+ direct offerings this year valued over 200mil. They wont let it drop. The truth is that NNDM only has one shitty product for sale on the market and it is extremely niche. They have a market cap of 400mill and only had 400,000 in revenue this quarter (yes you read that correctly) putting its price to sales ratio at roughly 120+.  After earnings, which showed revenue dropped 80% year over year, the stock ran to new all time highs. Why? Because of Cathie Wood's simp army. Ride this bitch up to the top and buy puts after it’s lost the steam. Good luck autists and consider jumping on the short bus (NNDM)._END_OF_POST_PYSTOCK_ GMHI calls Buy them on monday opening... news just keeps comin and comin... and comin_END_OF_POST_PYSTOCK_ The Weekly S&P 500 Bubble Chart (+TSLA) _END_OF_POST_PYSTOCK_ Can't wait to try out this new way of losing money _END_OF_POST_PYSTOCK_ Sold all my positions except for ev spacs... Last time my nipples tingled like this I didn't sell and a massive dip slammed me._END_OF_POST_PYSTOCK_ Hello my fellow wsb sexy beasts, finally made some notable gains. I think the bull run is not over yet. wish me luck on my tendies. I bought before the big jump, when gmhi was still 10.15 . Ill finally get to eat some chicken tendies and buffalo sauce _END_OF_POST_PYSTOCK_ What the fuck is going on in Robinhood's login graphic? _END_OF_POST_PYSTOCK_ Trying to ride PYPL to Tendy town, help. So I am thinking of getting into a position for trendy tendie. I really need yall helping, I am thinking of going SQ shares or grab a PYPL $300 call for march 2021. I read somewhere that some man named stockdaddy0 Took it and he never misses.   
+I obviously did my own DD because well, everyone misses. PYPL looks like a win in comparison to SQ . I am strongly considering taking a $300 call on PYPL come monday for the march 2021 expiration. What do yall like more , PYPLl or SQ? what are your thoughts WSBER!, I kinda suck and am looking for guidance._END_OF_POST_PYSTOCK_ Andrew Left needs money to support his wife's boyfriend This fucking piece of shit keeps dipping his dick in our stocks after his wife's boyfriend finishes in her ass and wipes the shit stains on Andrew's face.
+
+Solo got fucked today. Not only did it have its motivation killed this week by a fake sell wall at $7 for two days but now Citron puts out this crap about a company which will be delivering vehicles very soon. Was up so hard today then boom the asshole crashed it like the retard that he is.
+
+Previous positions:
+
+1000 Shares Long @ $2.75
+
+10 $3 Call Nov 20 Expiration $.10 each, sold at $6.2
+
+10 $12.50 Call Nov 20 Expiration $.15 each, was up to about $2.00+ when Citron came coming. Sold at $.60
+
+New position:
+
+1000 Shares Long @ $11.50
+
+If you haven't bought into Solo yet, you have another shot before it shoots to $15-16 next week. Monday Pre-Market will net interesting results. I think Andrew is done guzzling Solo's cum._END_OF_POST_PYSTOCK_ Elon Musk tweeting about $XPEV, looks like he’s finally met his match competing in the ev world _END_OF_POST_PYSTOCK_ You Ain't Never Had a Friend Like Me _END_OF_POST_PYSTOCK_ Why doesn't robinhood let you sell spreads for more than the collateral? It's literally free money. Where is the risk?_END_OF_POST_PYSTOCK_ Stopped being a pussy _END_OF_POST_PYSTOCK_ CITRON/MUDDY short = BUY _END_OF_POST_PYSTOCK_ ALERT. ALERT. Roblox will be getting an IPO. THIS IS THE MOST IMPORTANT NEWS YOU WILL HEAR ALL DAY.
+IM GOING TO INVEST MY LIFE SAVINGS INTO ROBLOX.
+
+"Build anything, be anything." 
+     -JPow or some shit_END_OF_POST_PYSTOCK_ $PLTR YOLO Month 1 _END_OF_POST_PYSTOCK_ Let the SPYYYFALL  [Adele - Skyfall (Lyric Video) - YouTube](https://www.youtube.com/watch?v=DeumyOzKqgI)   
+
+
+Sold all except AMD at the top and went 100% short, cheers guys,  
+whoever lost a lot today may pm me and get 3 month nitro,  
+
+
+GL see you in a depression for stock bargains,  
+RobinG_END_OF_POST_PYSTOCK_ Excess Turkey With smaller get together for Thanksigiving this year nobody is going to buy the larger turkeys. There will be a large excess of larger turkeys. They will probably be used for some other turkey related commodity which will increase supply.
+
+I am just as retarded as the next guy here so even my random thoughts here are probably wrong but assuming this occurs how would one play turkey prices dropping from excess supply?_END_OF_POST_PYSTOCK_ Am I WSB correctly? _END_OF_POST_PYSTOCK_ I love the quality of q and a you can find here. _END_OF_POST_PYSTOCK_ Robinhood users can see the future! _END_OF_POST_PYSTOCK_ I’m a retard. _END_OF_POST_PYSTOCK_ Weekend Discussion Thread for the Weekend of November 20, 2020 Your weekend discussion thread. Please keep the shitposting to a maximum._END_OF_POST_PYSTOCK_ PLTR is extremely undervalued. 
+
+
+PLTR dropping down to prices not seen since yesterday, extremely undervalued and cheap right now, get in asap._END_OF_POST_PYSTOCK_ Pltr ready to have a large retrace Just 3 weeks ago all you naysayers that are on the gravy train said no way would pltr run. Now its up double and you're screaming its gonna keep going. I've seen this rodeo before. RKT anyone?
+
+Pltr ran too fast and reality will set in. Im guessing retraces to 13. Pltr stands for puts losers too retarded 
+
+Today was a clear indicator it ran outta steam. Should have cracked 20 but it failed. Not saying longer term it won't break 20 but in the next few months no way Jose._END_OF_POST_PYSTOCK_ EV FD Tendies _END_OF_POST_PYSTOCK_ The ONE time I short IWM. I guess small street is back to all time highs? Everyone is employed? Outlook is gleaming? Someone explain, I’m far to dumb. _END_OF_POST_PYSTOCK_ PLTR Why?
+Because it takes more than one astronaut to go to the moon!
+Climb aboard the rocket now and lets take off! 
+PLTR 20$c 12/18_END_OF_POST_PYSTOCK_ “First one is free” _END_OF_POST_PYSTOCK_ Exro technologies What the fuck is exro and why is it up 40 percent today? Also should I rob my grandmas retirement fund and sell her dentures on ebay to get into it?_END_OF_POST_PYSTOCK_ PLTR 9k in this yolo, ready to finally get my hair plugs from going bald from this week _END_OF_POST_PYSTOCK_ Goodwill tsx thoughts? I’ve combed through this companies financials over the past few weeks and seen nothing wrong with the company. I don’t get why it’s trading so cheap. Could anyone please explain the negatives in the chat.
+
+Error company name is goodfellow_END_OF_POST_PYSTOCK_ For everyone who bought at a high point today $pltr _END_OF_POST_PYSTOCK_ Corsair shares treating me right ❤️ _END_OF_POST_PYSTOCK_ Started with 4K today was a good week, does this mean I am gonna be banned from this forum? _END_OF_POST_PYSTOCK_ Which one of you sold this autist a 1,225% inflated call of Vale? I don’t even understand what happened here _END_OF_POST_PYSTOCK_ Good Faith Violation Hey, retard here,
+
+I don't know how investing works. I moved 1k from my checking to my investment account, bought 50 shares of BLNK, and now it's up 25%. When I try to sell it warns me that I may be creating a good faith violation.
+
+&#x200B;
+
+What do? Do I sell anyways?_END_OF_POST_PYSTOCK_ When will you nibbas learn? _END_OF_POST_PYSTOCK_ Bought FCEL Options an hour after Seeking Alpha ripped them apart, and then I sold em for monster gains. Shoulda bought more dammit _END_OF_POST_PYSTOCK_ Challenge for the bravest among you autists Here is a challenge:
+
+- Grab the number from here https://www.cboe.com/aboutcboe/new-strike-price-requests (1-877-THE-CBOE) and follow the instructions to request a new strike price
+- You'll be connected to a live operator. Only the bravest autists will be able to get to this stage
+- You must ask for a PLTR Jan 20 2023 strike 50
+- You must say "YOLO" after stating the above, in a clear and audible manner
+- You must mention at some point in the conversation that you trade using Robinhood, with the techniques that WallStreetBets taught you
+
+Good luck. First one to provide an audio recording of the phone call will get a $25 itunes gift card (or cash app if you prefer). For real though, I want that strike but too much of a pussy to put in the call myself.
+
+Update: [WE HAVE A WINNER](https://www.reddit.com/r/wallstreetbets/comments/jxwywj/challenge_for_the_bravest_among_you_autists/gczel1b/)_END_OF_POST_PYSTOCK_ Move for next week PLTR Ok so I lost $300 on a bad NIO call.. Iv Crush is real.
+
+Im setting my sites to next week. PLTR has been projected to grow despite George Soros condeming the company  
+They're working with the US army, and have been profitable this year.  
+
+
+19c PLTR 11/27
+
+Fair? What do you guys think?_END_OF_POST_PYSTOCK_ Saw a post about some gay ticker called MP. Fuck you and wish me luck. _END_OF_POST_PYSTOCK_ Market Stimulus talks!!!! _END_OF_POST_PYSTOCK_ Never shared this because every time I look at this chart it reminds me of the euphoria and pain. There were no withdrawals _END_OF_POST_PYSTOCK_ 1st year's free? Was up %700 in March until RH crashed. 2021 I'm goin leaps+theta gang. _END_OF_POST_PYSTOCK_ US Largest Rare Earth manufacturer just went public from a Chamath SPAC (FVAC U -> MP), and they have contracts with Tesla, Apple, US DoD, etc... Earnings released Monday. $MP _END_OF_POST_PYSTOCK_ Any call recommendations for the vaccine after Pfizer and Moderna? So I missed out on calls for Pfizer and Moderna. Looking for some green with the remaining vaccine opportunities. I am thinking Astrazenca (AZN)/Oxford and Johnson & Johnson (JNJ) are good contenders. What do you guys think?
+
+[Vaccine breakthrough puts Covid protection within reach](https://www.bloomberg.com/features/2020-coronavirus-drug-vaccine-status/)_END_OF_POST_PYSTOCK_ Lots of XPEV Put action today for next week, check the 43.5 Putter _END_OF_POST_PYSTOCK_ $BA Boeing will close below $200 I guarantee it, I watch this stock like an eagle.
+
+The big hands like to hold their puts at key price points - $200, $205, $195, etc.
+
+Therefore, on Fridays if you watch the price action we usually have large sell offs that results in the underlying’s closing right under those key strike prices. 
+
+Watch. Ban immediately if otherwise_END_OF_POST_PYSTOCK_ It's been a rough November... Remember folks, any time you see any TA or DD from me, ALWAYS inverse me!
+
+[https://imgur.com/a/68K8AGZ](https://imgur.com/a/68K8AGZ)
+
+The Oct. bump was just me moving money over from my TastyWorks account after being flagged for PDT like 3 times in 2 weeks.
+
+Edit for Positions:
+
+Mostly SPY, QQQ, AAPL, ROKU, BA, and DKNG_END_OF_POST_PYSTOCK_ So we all agree that PLTR just proved something today right? It bottomed. Period. This day was the PERFECT time for bears to cut their losses and get out. They used today’s opportunity to say “ooo eeesshh that looks sus, Im outskies!” and everyone else either a.) ignored the bears b.) bought the dip c.) too autistic to know the difference.
+
+Friday Nov 20/2020 mark it down tards: the day the company saw the worst its ever going to get. Buy while its on sale! This is the real black friday deal!_END_OF_POST_PYSTOCK_ ACB is climbing... tons of buyers just bought a flurry of options _END_OF_POST_PYSTOCK_ FCEL might have longer term legs I think people might be coming around to the different applications of fuel cell technology. It isn't as sexy or efficient as solar/wind/battery, however it does help with the environmentally unfriendly infrastructure that is already in place.
+
+
+Seems FuelCell has been working with Exxon for a year to reduce emissions while creating additional power. Grid power is not going to move over to alternative energy straight away
+
+
+[https://www.greencarcongress.com/2019/11/20191110-fcel.html](https://www.greencarcongress.com/2019/11/20191110-fcel.html)
+
+
+Cummins also held a symposium recently on a move over to alternatives to diesel engines. I don't believe there is a viable application of electric motors on massive ships at the moment. How are you going to charge the damn thing at sea. Have to believe this is linked to the recent run up in addition to the Biden election
+
+
+[https://www.cummins.com/news/2020/11/16/cummins-seizes-day-lead-hydrogen-technology](https://www.cummins.com/news/2020/11/16/cummins-seizes-day-lead-hydrogen-technology)
+
+Asia countries also seem to be going the FCVs route to complement EVs. FCEL is strategically aligning itself to those markets
+
+
+[https://www.reuters.com/article/us-autos-hydrogen-explainer/explainer-why-asias-biggest-economies-are-backing-hydrogen-fuel-cell-cars-idUKKBN1W936K](https://www.reuters.com/article/us-autos-hydrogen-explainer/explainer-why-asias-biggest-economies-are-backing-hydrogen-fuel-cell-cars-idUKKBN1W936K)
+
+
+I am hoping this can build a good base until continuing its run after the new year. This company has been around for ages, but there was never support for environmental friendly solutions as there is today. Look at the amount of ESG Mutual Funds and ETFs that have been launched in the past year.
+
+
+Shares and LEAPs_END_OF_POST_PYSTOCK_ $ R I O T Next Week $ R I O T Calls for next week. Do your self a favor and pick up a couple. This thing is going to 8$ whether you like it or not. I will lead you to tendie town!
+
+Calls
+
+200 11/27 $6.5
+
+112 1/21/22 $7_END_OF_POST_PYSTOCK_ WTRH Calls I am at work right now so I don't have time to write a DD but I'll write over the weekend. Look at the company and stock price. With the states going under lockdown, this stock is definitely going to cross 4$+ by December 2020. It's a food delivering company with around 10,000 employees.  
+
+
+TLDR : 5$C 12/18_END_OF_POST_PYSTOCK_ Am I doing it right? _END_OF_POST_PYSTOCK_ SPY Signal PUT and CALL 100% accurate _END_OF_POST_PYSTOCK_ BABA Class Action [https://ca.finance.yahoo.com/news/shareholder-alert-levi-korsinsky-llp-192700027.html](https://ca.finance.yahoo.com/news/shareholder-alert-levi-korsinsky-llp-192700027.html)
+
+TLDR; Neither did I
+
+Well.. Ant IPO was reasonably likely to be suspended because of lack of disclosure.. something.. and positive statements about operations amount to being materially misleading._END_OF_POST_PYSTOCK_ GME Technical Analysis &#x200B;
+
+https://preview.redd.it/n58s0dgk3g061.png?width=1444&format=png&auto=webp&s=a6ba1e33af2cae2eda64afeba5f2cbee0f502e13
+
+**My Technical analysis for GameStonk:**  
+
+
+As you can see in the chart above, this last week we have had 4 green dots. 4 is a lot of green dots for one week, therefore, stock go up. After stock go up 🌈🐻 are fuk, then stock go up more.  
+
+
+(At the risk of getting too technical, the converging Bollinger Bands should mean we have some more explosive movement in the near future)  
+
+
+**Positions:** GME, some calls, some shares._END_OF_POST_PYSTOCK_ Rumors say that Va-q-tech is the one, that is responsible for the cooling of the Biontech vaccine. In the news video below you can see at second 5 a container with the writing Va, which stands for Va-q-tech. _END_OF_POST_PYSTOCK_ PLTR more than just Government Contracts Just another PLTR post from a Palantir retard user. Palantir does more than Government contracts, which is all I hear about. In my part of the world, Palantir’s platform is also used by banks and insurance to analyse their data holdings for things like money laundering and other suspicious activity using basic machine learning. While their software is not user friendly like MS or Google’s, it does the job. And they are great in locking in customers to their platform to create a wall garden.
+
+1400 at 17.52 for tendie lunch money_END_OF_POST_PYSTOCK_ Tell Me Why I Shouldn't Buy Puts on ZM When this vaccine drops, the news alone is going to drop ZM which is already very overpriced. They're trading at levels of TESLA and their cap is a quarter of theirs.   
+
+
+I think it might be smart to play the vaccine news on ZM. Tell me what you guys think, I'm very tempted._END_OF_POST_PYSTOCK_ Am I doing it right? To the moon _END_OF_POST_PYSTOCK_ You autist retards need to buy the TSLA dip. (Broken record I know) Now is the time. It was over 500 today. It will be over 500 again next week. Buy the dip now and enjoy the ride Elon keeps providing. Also why wouldn’t you yolo? Don’t be a pussy and let’s all get these tendies!!
+
+Positions: literally any call, exp._END_OF_POST_PYSTOCK_ Wish has filed to go public. I think we can expect the IPO to arrive later than whatever they originally say. _END_OF_POST_PYSTOCK_ Webull is hot garbage I downloaded webull to trade options and it’s hot garbage. It’s actually an awful experience to trade options on. So my question is, can I delete my current Robinhood account that has a 90 day restriction on it and create a new account. Will my 90 day restriction be put on to this newly created account?_END_OF_POST_PYSTOCK_ I hope GameStop gets what's coming to them. GME is a pussy fucking stock. Gamestop is going to go under and I'm going to piss on thier grave._END_OF_POST_PYSTOCK_ These gonna print me some tendies?? PLTR 19C 11/27 BLNK 25C 12/18 _END_OF_POST_PYSTOCK_ Buy the PLTR dip Thank me later_END_OF_POST_PYSTOCK_ AZN Someone tell me why I shouldn’t dump my life savings into 57.5 1/15/21 calls for astrazeneca. A vaccine from them would be the most efficient and easily distributed vaccine and they plan to release final results before christmas_END_OF_POST_PYSTOCK_ 1 Month of BLNK Shares sold at $21 _END_OF_POST_PYSTOCK_ Advice Needed on WORK WORK 12/4 30c is up almost 200%. Stay or cash out?_END_OF_POST_PYSTOCK_ MM shilling on market watch theyre tryna take ur tsla _END_OF_POST_PYSTOCK_ Softbank is preparing for the worst case scenario At the New York Times' DealBook Online Summit (Nov 17-18 2020), Masayoshi Son (CEO of Softbank) said they are preparing for the worst case scenario despite of the incoming covid vaccine. The worst case scenario he laid out is that one major company can go down and create a domino effect in the market. It's unusual for Softbank to be bearish because they are known to buy billions of dollars of call options  in big techs, which drives up the prices significantly. He didn't disclose how Softbank arrived at that scenario.
+
+Does that mean Softbank will gradually wind down its positions in high-flying stocks and take up more defensive position? Maybe.
+
+[https://www.youtube.com/watch?v=KKBP4hrsTb0](https://www.youtube.com/watch?v=KKBP4hrsTb0)
+
+[https://www.cnbc.com/2020/11/17/softbank-ceo-masayoshi-son-preparing-for-worst-case-scenario.html](https://www.cnbc.com/2020/11/17/softbank-ceo-masayoshi-son-preparing-for-worst-case-scenario.html)_END_OF_POST_PYSTOCK_ $WDAY gaining volume great entry here Huge reversal play coming_END_OF_POST_PYSTOCK_ Tesla Model 3 crash sends scorching battery cells into a nearby house _END_OF_POST_PYSTOCK_ $AAL going down It just broke the support level at 12.55_END_OF_POST_PYSTOCK_ Covered call suggestions for 2020/11/20 _END_OF_POST_PYSTOCK_ Anybody else? Since 12:00 ET - ON OPTIONS DAY... ughhh _END_OF_POST_PYSTOCK_ FUV exploded this week I bought at $6.30 months ago now almost $18. I thought their cars looked like the stupidest thing ever but what I’ve noticed is anything that looks stupid af to me in the past went up up up lol_END_OF_POST_PYSTOCK_ Positions, opinions? (Also I’m back from a loss - FML) _END_OF_POST_PYSTOCK_ Yolo options even closer to expiry? Robinhood is 👑 _END_OF_POST_PYSTOCK_ Baba will not save me from betting against my own people :( _END_OF_POST_PYSTOCK_ Every newbie around here, push it to the limit! _END_OF_POST_PYSTOCK_ Is it too late to buy xpev?? Regret not buying last week but now I’m wondering if its too late???_END_OF_POST_PYSTOCK_ Is this the pullback in PLTR that everyone is looking for?? Just wondering_END_OF_POST_PYSTOCK_ Holds for the weekend Give me some tickers to look into for this weekend. Preferably stonks that are only going to go up lol
+
+Current holdings are NIO, AYRO and KNDI_END_OF_POST_PYSTOCK_ Roblox sells $1.2bn of virtual currency as it heads for IPO _END_OF_POST_PYSTOCK_ BABA will go 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Nothing can stop Jack Ma boiiiiiiii ( sold ) new target 280c 11/27 _END_OF_POST_PYSTOCK_ Jack Ma - Smartest Person on Earth _END_OF_POST_PYSTOCK_ Missed on TSLA and PLTR? CRSR new play in town!! Corsair Gaming baby! Where my Fellow PCMR AUTISTS AT! This thing been red hot since IPO and all I see ahead is ZOOM ZOOM!! Gaming industry is booming over the pandemic and E-Sports getting hotter every year! This company been around since 94 and actually makes good shit! Net Income growing like crazy! 2018-2019 38.82% This year gonna be WAYY STRONGERR!! LETSS GOOo!!!!!!!!!_END_OF_POST_PYSTOCK_ Did I miss something or was this bound to happen? _END_OF_POST_PYSTOCK_ Lets go to KNDI land! Kandi Technologies Announces Entry into Agreement for Registered Direct Placement of $100 Million of Common Stock and Warrants for $11.3 a share.. temporarily driving down the price. This shits not slowing down.
+
+Buy the dip or miss the gravy train you autistic fucks! Let's go!!
+
+KNDI 🚀🌙
+
+
+
+KNDI 03/19 16c_END_OF_POST_PYSTOCK_ GMHI Free Tendies. It’s one of the last few SPACs that haven’t mooned over the last month. 12/18 20c _END_OF_POST_PYSTOCK_ Is Johnson&Johnson the next company coming up with a vaccine soon? They are part of operation Warp Speed and started at the same time with Pfizer and Moderna. So if these two succeeded with the vaccine there’s no reason to believe JNJ will not.
+
+JNJ 150C 12/31/2020_END_OF_POST_PYSTOCK_ Hey, can one of you nerds do some of that nerd shit you do and break down AMH financials for us retards? I have had my eyes on them. Something in my gut has been telling me to ask someone smart to tell me what to do._END_OF_POST_PYSTOCK_ $WDAY 150% runner next week! Oversold_END_OF_POST_PYSTOCK_ GME - Warning to all Shorts and Gay Bears, you will not be warned again. &#x200B;
+
+https://preview.redd.it/oczlxxiqof061.png?width=300&format=png&auto=webp&s=3ba0cc6674947ba714db1cd62d539ac1b7823e23
+
+&#x200B;
+
+Time to get out. Cover your positions, sell your puts. GME is now showing a very positive uptrend after two weeks of consolidation. Broke 100 Bar resistance today.
+
+&#x200B;
+
+https://preview.redd.it/j84a2vr6pf061.png?width=1517&format=png&auto=webp&s=2e90871dfcf0a6b476a17a42f07c12810178588e
+
+Stop thinking they are going bankrupt anytime soon. Just paid $125M of Debt EARLY.
+
+Cohen, who owns almost 10%, just sent a letter to Management via the press calling them out for a dramatic transformation. The letter doesn't say it directly but is implied that if you don't do it I will force it to happen.
+
+Huge Short Interest - I am not calling out a Short Squeeze (although that would be epic). An good piece of news will be the match lighting the fuse.
+
+Fair Value of GME - $20-25/share. Buy shares and watch them double in the next 30 to 90 days. Buy calls on any dip. 
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/imzfsf5wof061.png?width=268&format=png&auto=webp&s=fc83bbc87b21ca2d21428662e60f2c1665bba0c0_END_OF_POST_PYSTOCK_ $BABA ALL IN YOLO Going all in to $BABA 275c 12/18
+I started with 10k got my account up to 20 then lost it all and now i’m left with 8k. Now it’s time to get my account back to 20 by going all in on baba calls
+Will update next post but i am sure it is going to printttttttttttt_END_OF_POST_PYSTOCK_ CRSR input I have 3 12/18 25C that are just exploding. Most profit I’ve made on any trade and don’t know why to do now!!! So I let it ride or are we approaching the top. Looking to see what the rest of you CRSR lovers are doing_END_OF_POST_PYSTOCK_ YOU CAN REST EASY - STOCKS GO UP &#x200B;
+
+[The only chart you need to see](https://preview.redd.it/r0nxkpr2nf061.png?width=1566&format=png&auto=webp&s=e012b3e7f207b5939e1d91fd77990c4fd5a1bad6)
+
+Writing a lot of nonsense like that guy from yesterday is really boring. Here's a chart of inverse P/Es minus interest rates that should tell you all you need to know: 
+
+1. Stocks are not that expensive. 
+2. Profits will get better when covid is over.
+3. SPY has a lot of room to run
+
+Any questions?_END_OF_POST_PYSTOCK_ this shit is simply too easy _END_OF_POST_PYSTOCK_ Some loss to gain _END_OF_POST_PYSTOCK_ Haters gonna hate. Started out with more options but now it’s mostly stocks. As you can see, the upward trend is more gradual now. _END_OF_POST_PYSTOCK_ The gods are good. _END_OF_POST_PYSTOCK_ Im not a millionaire yet, what am I doing wrong?? _END_OF_POST_PYSTOCK_ Inversing all DD on here from now on _END_OF_POST_PYSTOCK_ TSLA GAINS _END_OF_POST_PYSTOCK_ Thank you my fellow autists for the FUV gains _END_OF_POST_PYSTOCK_ Buying PLTR dip? Anyone buying the PLTR dip today or this a sell off we should be concerned about? Help me not have paper hands 
+
+PLTR $21cc 12/4
+
+Edit: thanks for the awards and fuck you._END_OF_POST_PYSTOCK_ Does i sell my 55 call of XPEV due to 12/18 today ?! ?_END_OF_POST_PYSTOCK_ TESLA dip? Is anyone buying? Thinking about buying a couple shares_END_OF_POST_PYSTOCK_ EV Tech Bubble Idk guys n tits... there are gonna be some losers but who... we all know tesla and asia are gonna stick around. I'm looking forward to finding out. There have to be winners in scooter, ebikes, ev motorcycling, small work vehicles (AYRO), luxury cars, humvees, hell if yall wana make a start up for electric shoes with wheels I'm in. But like the tech bubble of 1804 only the amazons and Microsofts will pull through_END_OF_POST_PYSTOCK_ Does this count as loss porn? The rise and fall of Tesla calls. _END_OF_POST_PYSTOCK_ TSLA Speculation Bad news on TSLA will come out over the next few weeks so index funds can buy up the stock in preparation for S&P 500 inclusion. Weak hands option traders will get rekt while diamond hands hodlers will get rich._END_OF_POST_PYSTOCK_ Turn a quarter into a dollar You fucks ask for free money well here you have it:
+
+$IPOC $15c 2/19/21 - 33 cents a pop rn it goes to $16 you 3x to $20 you 15x 
+
+Il prove my position if this gets 500 upvotes 
+(Over $1 million in $IPOC feb-may calls)_END_OF_POST_PYSTOCK_ Why NIO & FSR WHY Why do you torment me by shitting the bed when every EV apart from the 2 of you is mooning to Pluto...._END_OF_POST_PYSTOCK_ Selling dumb options to Gay Bears paid off. Best consistent strat atm. _END_OF_POST_PYSTOCK_ REPOST: I’d like to say a shout to WSB discord for getting me here! _END_OF_POST_PYSTOCK_ He found the next TSLA 5 days ago Here is the original post
+
+[https://www.reddit.com/r/wallstreetbets/comments/jubsmn/i\_believe\_i\_found\_the\_next\_tsla\_aes\_a\_battery/](https://www.reddit.com/r/wallstreetbets/comments/jubsmn/i_believe_i_found_the_next_tsla_aes_a_battery/)
+
+This guy bought some calls for this AES stock with almost zero liquidity. He then wrote a DD here 5 days ago. I have been tracking the call volume and the open interest for that stock for the last couple of days. Open interest increased significantly after his post but the stock price decreased which created a lot of greedy bag holder including himself. He bought 10 calls with strike price of $21 expiring today, at $0.35 cost basis, which are currently trading at $0.05 (expiring worthless). Another 13 calls expiring on Dec 18 at cost basis of $0.65 are now at $0.5 with barely any volume. On top of that he was encouraging people to buy $22 strike ones! The post even stickied and got award!
+
+TlDr: Most of the recent DDs in this sub are jokes, be careful out there._END_OF_POST_PYSTOCK_ Just wanted to update you fellow autists on how I'm doing. I started this account with one free GME at $4 in April and have been trading up since. I'm riding that APHA train for the rest of the year. My goal is to see how high I can get without putting any money in it. _END_OF_POST_PYSTOCK_ AYRO Just went yolo on ayro, does it have a leg to stand on or is just pure gamble ?_END_OF_POST_PYSTOCK_ calls on blnk Tap to see the meme - https://ifunny.co/fun/aK6MOTC98?s=u_END_OF_POST_PYSTOCK_ Do you guys like my drawing _END_OF_POST_PYSTOCK_ ~20k, 1 month, YOLO, diversification, EV, clickbait, at or 1 tick otm &#x200B;
+
+[let's see where this is in a month](https://preview.redd.it/4unzlc9ihf061.png?width=951&format=png&auto=webp&s=a6c6e2520c653280b4ad886f8f38a3d91b47a584)_END_OF_POST_PYSTOCK_ BABA going up?🚀🚀🚀 _END_OF_POST_PYSTOCK_ Am I winning yet? _END_OF_POST_PYSTOCK_ Paper hands gang 🤡 Previously had large losses I didn't cut and lost even more, got my stop loss trigger finger a bit too itchy. _END_OF_POST_PYSTOCK_ Well gentlemen, after stupid losses and mistakes for most of the year, I was able to turn my cardboard boat around from a total ~50% loss back to green. Can you spot where I finally decided to actually make money?? _END_OF_POST_PYSTOCK_ Chyna EV is not a fairytale For real out of hundreds of relatives and friends I have in China, I know zero person who is buying either Nio or xpev. They either buy Tesla or bmw, Mercedes and Audi. Nio is at a level people heard it might be good but no one really want to devote 50k$ into a Chinese made car. Got a friend recently shopping for used EV and he noticed a lot of ultra low mileage used ES8 in the lot, he ended up buying a model s in the end. Xiaopeng is one tier lower, their suv is garbage, P7 is decent.
+
+Disclaimer:OP is a low iq retard who lost couple grand shorting EVs from his motherland_END_OF_POST_PYSTOCK_ First time with options, he bought weeklies _END_OF_POST_PYSTOCK_ Made $50k on PTON in the last 2 days! This is going to keep popping with all the lockdowns going on _END_OF_POST_PYSTOCK_ If wsb is right, I'll be a millionaire in 2 months _END_OF_POST_PYSTOCK_ Selling CRSR puts- Huge downside protection Because of the high IV on CRSR, there is great premiums to be had if you play the theta game. For those with capital, selling 35.00P December expiration (cash secured) gives you 3.00 premium and gives you more than 10% downside protection.
+
+See positions:
+
+https://preview.redd.it/m7bucv75df061.jpg?width=1144&format=pjpg&auto=webp&s=0a8ed79f98fe0e120eb990ca07381b9dcaf4bdee_END_OF_POST_PYSTOCK_ Stonks this week _END_OF_POST_PYSTOCK_ Something up at the Treasury Dept? FNMA and FMCC running at high volume These the federal government sponsored mortgage entities. They have been in receivership for over a decade. Trump has been wanting to privatize for awhile._END_OF_POST_PYSTOCK_ For those wondering why GME is going up again. Obviously there are all the old reasons, transitioning to the modern world/digital, massive console sales, lifetime of customer revenue sharing with MSFT etc.
+
+&#x200B;
+
+As of this week, we have Cohen issuing veiled threats that he wants management to shift faster (good for shareholders) or "else."  He also said he wasn't interested in a single seat on a board with 10 members.  A tender offer or a push to become a majority shareholder is looking more and more likely.  The law firm he has on retainer specializes in these things: [https://www.kkwc.com/services/investor-activism/](https://www.kkwc.com/services/investor-activism/)
+
+Do not yolo everything into weeklies or you will likely get assblasted.  Expect a rocky ride on the way up
+
+&#x200B;
+
+Positions: 1500 shares, and 14 different date/strike combinations between january/april for a total of about 100 calls._END_OF_POST_PYSTOCK_ Thanks to SOLO I can now afford second-hand toilet paper for the upcoming quarantine this Winter _END_OF_POST_PYSTOCK_ Dunno about you, but I'm stacking my 2021 Puts on EV's. My Watchlist Notification alarm kept on ringing today;
+''****'' traded above high volume! ''
+
+Goes to look at said stock; if it has not doubled over the last week, the value has increased like 10% or 15%.
+
+All Electric Vehicles.
+
+Even hype stock I thought dead like GreenPower Motor Company has skyrocketed back into the game.
+
+
+Listen, I believe in EV's but I also believe in natural growth.
+
+JFL at all the retards who believe this is a sustainable trend, the moment one of those cracks down, the whole rest will crumble as well, since they`ve all gone mostly due to hype, not based on any kind performance value.
+
+I know most of you are in for the short term but ouch, is it gonna hurt when the EVs stock battery is going to burnout.
+
+
+NIO  40P  Winter 2021
+
+Wont list my other positions but I bet down on Li, XPEV, SOLO, GP and all the others mumbo jumbo you folks keep on hyping.
+
+EDIT:
+
+NIO 40P 
+
+LI 30P
+
+XPEV 30P
+
+SOLO 6P
+
+
+All in early Winter 2021_END_OF_POST_PYSTOCK_ Guess my zoom calls exploded _END_OF_POST_PYSTOCK_ You guys aren't autistic; you are fucking retarded. One of you idiots in one of the threads said that $DBX is better than $DOCU.
+
+I was like.. Are you fucking retarded?
+
+Then I remembered.. This IS WallStreetBets, after all.
+
+You fucking retards.
+
+https://preview.redd.it/2096kc5x6f061.png?width=893&format=png&auto=webp&s=824e539e4b3093d8af204406f0728cc018e5c9bc_END_OF_POST_PYSTOCK_ $100 —> $9000 Oct 29 - Nov 20 _END_OF_POST_PYSTOCK_ CHGG Winter Play Gentlemen- your next ticket to tendie town is under ticket CHGG.
+
+CHGG announced incredible Q3 numbers but lowered guidance going forward on the premise school shutdowns would not continue into Q4 and the covid vaccine would send students running back to the classroom. The stock fell from ~$87 to $66 and is now floating around 71.
+
+NY, CO, MN and many other states have school districts announcing school shutdowns for the winter/spring which will extend through Q4, something management may not have accounted for in their conservative guidance. In my uneducated opinion I don’t see the vaccine being mass distributed until late Q1 and the earliest but I don’t know shit about this.
+
+I’m not the biggest fan of the company but I do think short term tailwinds for the stock will drive the price back up to the 85-90 range.
+
+Positions:
+
+Bull spreads- 2x 70C/100C April 2021_END_OF_POST_PYSTOCK_ My positions for next week 🐂 _END_OF_POST_PYSTOCK_ Stanley Weiss is an idiot. Stupid analyst _END_OF_POST_PYSTOCK_ Meme stonks _END_OF_POST_PYSTOCK_ Here is my application Sir. Can I stay? _END_OF_POST_PYSTOCK_ Is something bad brewing in Congress? This is not a 🌈🐻 post, but rather a cautionary tale and reminder to secure those gains before they evaporate.  With COVID closures increasing throughout the country and increasing disagreements in the White House, things could get very messy going into the holiday season.  Thanksgiving is next week and the markets will be closed while many are stuffing their faces with turkey and spending their blood dollars on Black Friday.  People will undoubtedly  travel for this and visit stores, against health expert recommendations, to spend time with loved ones. 
+
+This will exacerbate the spread of covid and increase the rate of closures.  Congress and JPowell are divided on helping those affected by COVID and,  Mnuchin asked the central bank to return some $455 billion in unused funding for programs set to expire Dec. 31.  This is money to help people and businesses deal with financial difficulties and it is being cancelled.  
+
+I know what's going through your mind, how about Moderna and Pfizer emergency vaccine approval?  Well that could take up to a few months to happen, maybe by Spring.
+
+Again, tread lightly and good luck this holiday season.
+
+[https://www.cnn.com/2020/11/20/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2020/11/20/investing/premarket-stocks-trading/index.html)_END_OF_POST_PYSTOCK_ [NIO] Strong Earnings Confirm Nio Stock Is on Track to Hit $150 What do you guys think?
+
+&#x200B;
+
+[https://investorplace.com/2020/11/strong-earnings-confirm-nio-stock-is-on-track-to-hit-150/](https://investorplace.com/2020/11/strong-earnings-confirm-nio-stock-is-on-track-to-hit-150/)_END_OF_POST_PYSTOCK_ SLUTZ for UTZ Alright you degenerate gambling fools. Here is the pick of the week for me. 
+
+https://preview.redd.it/sqvv9p0gxe061.jpg?width=499&format=pjpg&auto=webp&s=9d9ff5d8e9e9129760aabeb22cd9f2a0a77a3715
+
+For those of you that have any class or style, then you probably eat UTZ products and you don't even know it. Here is a list of their brands. 
+
+https://preview.redd.it/otmgldhlxe061.jpg?width=890&format=pjpg&auto=webp&s=a9db05fb128c17d3c228aac89020fbe8b5bdb9c8
+
+https://preview.redd.it/0xkkql2kxe061.jpg?width=1245&format=pjpg&auto=webp&s=16f2934bd4c03262270cb4b3a45958d1041f7e11
+
+&#x200B;
+
+&#x200B;
+
+On top of all these brands, UTZ just made a tortilla acquisition that will contribute another \~200M in revenue and 50M in EBITDA. Once this deal closes, UTZ will be the third largest salty snack manufacturer in the U.S.A. With Campbells soup being #2 (I don't  even know what cambpells makes) and Frito-Lay being numero uno. The acquisition is a tortilla and tortilla chip manufacturer named "on the border."
+
+&#x200B;
+
+My personal favorite utz product: [https://www.amazon.com/Zapps-Orleans-Kettle-Style-Potato-Voodoo/dp/B01LY46L19](https://www.amazon.com/Zapps-Orleans-Kettle-Style-Potato-Voodoo/dp/B01LY46L19)
+
+&#x200B;
+
+https://preview.redd.it/lnpj7odixe061.jpg?width=1165&format=pjpg&auto=webp&s=e6805612e4273d56de2174a0d2e266da72f8d390
+
+&#x200B;
+
+As you can see, they have a huge amount of regional brands that are growing and have been growing for over 100 effing years. That is right, UTZ has been in business for 100 years and has grown every single year. Every single year?????  The salty snack category grows 3-4% YOY but UTZ has been growing  much quicker. In their most recent earnings report, UTZ grew 24% YOY.
+
+https://preview.redd.it/boe60dsmxe061.jpg?width=519&format=pjpg&auto=webp&s=ae2c322011b1e3b9b1827504653e951585af4f87
+
+&#x200B;
+
+https://preview.redd.it/irb6n9znxe061.jpg?width=541&format=pjpg&auto=webp&s=a3d92bc06fe008cdec45de079d9c93112d06d89c
+
+&#x200B;
+
+&#x200B;
+
+KEY TAKEAWAYS:
+
+* REVENUE INCREASES OF 24% YOY
+* GROSS MARGIN OF 34%+
+* ADJUSTED EBITDA GREW 40% YOY
+* UTZ PAYS A DIVIDEND OF .20 CENTS PER YEAR
+* UTZ MAKES HAWAIIAN BRANDED CHIPS - THESE THINGS ARE THE BOMB SHIT
+* UTZ MAKES CHEESE BALLS- GAY BEARS LOVE BALLS COVERED IN CHEESE
+* SNACK FOOD IS RECESSION PROOF
+* UTZ HAS GROWN FOR 100 YEARS
+* UTZ STILL HAS TONS OF RUNWAY FOR GROWTH
+   * WALMART ONLY REPRESENTS 150M OF THE 1B+ IN SALES
+   * UTZ COULD EASILY DOUBLE THIS
+* UTZ JUST ACQUIRED ON THE BORDER CHIPS WHICH WILL ADD 200M IN SALES AND 50MD EBITDA
+* RECENT PRICE TARGETS SHOW POTENTIAL OF 25%+ UPSIDE
+* This is an under followed company- it went public through a spac and is just getting wheels.
+   * There are outstanding warrants but they can be called shortly.
+* UTZ makes ZAPPS chips, these are also the bomb shit.
+
+UTZ is becoming a household product as it has been slowly entering more and more US homes. According to their most recent earnings, they increased sales to US homes by about 1.7M homes YOY.
+
+AS THEY EXPAND, THEIR PRESENCE AND ABILITY TO SCALE WILL IMPROVE.
+
+&#x200B;
+
+TL;DR- 
+
+sell puts -17.50P December expiration or 20.00P
+
+buy calls, 20.00c December expiration
+
+buy stock
+
+Buy warrants, but they can be called
+
+if you are on the fence, order a bag and then you'll know.
+
+Buy Chips, lots of them. UTZ UTZ UTZ UTZ UTZ UTZ UTZ UTZ UTZ UTZ UTZ UTZ_END_OF_POST_PYSTOCK_ Am I retarded? When ever I sell that shit goes up. So I’ll let you know what stock I sell next_END_OF_POST_PYSTOCK_ Great Canadian Gaming (GC:TO) buyout deal will collapse. Puts = Tendies Ok retards,
+
+I've been a lurker for a long time now but decided to pop that cherry for this post. 
+
+Apollo is buying Great Canadian Gaming (ticker GC on toronto stock exchange) for $39 per share. The stock went up to $39 on Nov 10 and they had their earnings call on Nov 11. **This is a dead deal. **
+
+On this earnings call, the major shareholders on the line rejected this and you can hear it all in this recording. You should listen to it for entertainment because it gets ugly. Skip to 29:00 min for when the shareholders speak up.
+https://gcgaming.com/wp-content/uploads/Audio-file-Great-Canadian-Gaming-Corporation-Third-Quarter-2020-Results-2.mp3
+
+**Summary of why the investors are against it:**
+
+ GC didn't run an auction process for this offer. This means that they did not go out to other parties to see if they could obtain a better offer. The CEO said they ran a process around 2 years ago but nothing recent.
+
+ Starting to see some light with casinos reopening and the vaccine news from the last few weeks. Selling now is practically selling at the bottom when things are just starting to turn around.
+
+ GC has been buying back shares over the last few years. Just a few months ago before covid hit, they were planning to buy back $500M of their shares at a value of 46 dollars which resulted in their share prices shooting up to 45 on February 10 - 11 when that news released. This means that the CEO does believe there is tremendous potential for this stock to grow in the future.
+
+
+**What we know**
+
+They will be having a shareholder vote for this deal on Dec 23. The two largest shareholders in the company have already announced that they will reject this deal if you just look at this article. https://ca.finance.yahoo.com/news/apollo-rebuffed-great-canadian-gaming-205759088.html
+
+They own 31.5% in total. This does not count all the other investors that spoke up during the earnings call who all voiced their opposition to this deal.
+
+Here is a video of an interview with another minority shareholder. Skip to 55 min to see him talk about what he has learned from other investors. Everyone he has talked to will reject this deal and he mentions that the combined ownership of these people is close to 50%. He also says that for the deal to go through there will need to be 65% of votes for it. From these numbers this is already a dead deal.
+https://www.youtube.com/watch?v=DdyEAe0rvn8&ab_channel=YetAnotherValueChannel
+
+I don't think I need to say much more to this as you guys should already know what to do at this point. Put options on great canadian gaming expiring Jan 2021. These are going for cheap but beware that it is quite illiquid. If this thing crashes back to the 20s when the deal gets rejected, we can all expect a huge payday.
+Do your own DD.
+
+TLDR; Buy GC puts expiring January 2021 because this deal will likely be rejected by the shareholders. My positions: GC 38p / 36p 1/15/2021
+
+Edit: Formatting, because jerking off to this deal while posting is hard_END_OF_POST_PYSTOCK_ So when is the profit taking gonna happen this afternoon so I can sell everything 10 minutes before? I guess the toilet paper is back off the shelves. I heard El Paso has begun storing bodies in refrigerated semi-trucks. 
+"Supply lines are getting longer and harder to maintain" - George Carlin_END_OF_POST_PYSTOCK_ Not bad for my first 11 days. Riding that PLTR train hard. _END_OF_POST_PYSTOCK_ SOLO is over $10, will AYRO hit $10 by eod? I CANT BELIEVE MY EYES! GO BAYBAY! 
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀_END_OF_POST_PYSTOCK_ Exro Coil Driver Ready for Electric Cars with Engineering Validation Hey retards. Listen up, Exro has just announced that they are ready to present their Coil driver: [https://finance.yahoo.com/news/exro-coil-driver-ready-electric-133000896.html](https://finance.yahoo.com/news/exro-coil-driver-ready-electric-133000896.html)
+
+Time to get in, Exro is gonna revolutionate electric batteries for automobiles.
+
+Lets go! To the moon! Already up **12% today.**_END_OF_POST_PYSTOCK_ Munchin spilled the beans? So when Munchin was on CNBC earlier today he said "we already have two approved vaccines with more to come". Does he know something? Probably.
+
+Positions: SPY 11/27 380c_END_OF_POST_PYSTOCK_ Red AAPL Sandwhich on PLTR bread _END_OF_POST_PYSTOCK_ Thoughts on Din - DineEquity Inc? Despite being directly effected by coronavirus and still currently being affected by the virus the equity still maintains over 40% gains in 3 years period. 
+
+I know it’s not the nio or Tesla of the world but I feel that’s impressive performance for a company in the restaurant industry._END_OF_POST_PYSTOCK_ Thoughts on BLNK calls? _END_OF_POST_PYSTOCK_ Short bus CNBC can’t understand the art of the YOLO _END_OF_POST_PYSTOCK_ GME 12/18 Calls Get your asses in on these 12/18 19C's. It's the only one still not inflated._END_OF_POST_PYSTOCK_ SUPER V _END_OF_POST_PYSTOCK_ TO THE MOON CRSR 12/18 40C CANT GO TITS UP TRUST _END_OF_POST_PYSTOCK_ Beyond pork china is BYND's first actual real market opportunity tldr; Nobody cares that you hate fake meat. This is an emerging market and entry into China is perfectly timed due to these economic, cultural, and health factors:
+
+BYND China DD:
+
+1. Pork shortage due to swine flu, prices already high, so BYND has entry.
+2. Extreme mistrust of food authenticity in China. Branded foods, medicines, etc. with clear origins are popular. BYND as first movers cements their brand.
+3. Health conscious foods (Traditional Chinese Medicine foods) and mock meat (via Buddhism) has a long history.
+4. BYND already tested in KFC/Starbucks across China.
+5. Shanghai, where the BYND pork has debuted, trend sets for China. Their factory is also in Shanghai with teams on the ground testing flavor profiling to match consumer preferences.
+6. Avg. Chinese person consumes 30kg of pork a year. A majority is consumed as ground pork in dumplings, mixed with noodles, Lion's Head Meatballs, etc. This is the offering BYND is entering with.
+
+Positions:
+
+* BYND 12/18/2021 160.00 C
+* BYND 02/19/2021 180.00 C_END_OF_POST_PYSTOCK_ BLNK: $20 in a blink of an eye Why didn’t you any of you tell me about BLNK when it was $7 last month?_END_OF_POST_PYSTOCK_ NKLA puts for December? The IPO lock-put ends in Dec 1st. Rumor has it that insiders will dump shares as they did exactly that in the past every time the insiders were allowed to sell. Only thing is GM is supposed to announce whether they are staying with NKLA or not conveniently on Dec 1 as well. That news alone can make people a lot of money or burn them. 
+
+I’m from r/investing, so usually I’m not a big options trader. Usually buy and hold kinda person. However, it seems that the NKLA situation can be very advantageous to make a quick profit. 
+
+Any thoughts?_END_OF_POST_PYSTOCK_ Xpev This mf bouta crash and burn, huge sell off incoming load up on some puts a couple weeks out and let the cookie crumble, normally bullish but i can be a 🌈 🐻 for right price_END_OF_POST_PYSTOCK_ For the bears: $TECS shares Listen up Homo sapiens, I might be totally wrong but i think we all know that this technology bubble is going to pop sometime in 2020-early 2021.  The SPY is more expensive than ever meaning TECS is cheaper than ever.  When this bubble pops and all these rona stocks start to crumble TECS is going to be worth at least 80$ a share.  As vaccine news comes out so will this stock, don’t get left behind_END_OF_POST_PYSTOCK_ Fubo is a monster 12/18c $25 go for it_END_OF_POST_PYSTOCK_ Update on AYRO _END_OF_POST_PYSTOCK_ Gaming+Gambling ===> FEAC is the SPAC for WSB FEAC is the SPAC that brought Skillz public 90 days ago
+
+If you aren't familiar, Skillz is a  platform that helps game developers monetize their games much faster and at greater scale than the usual models (advertising and in-game purchases) via the app store.   They do this by leveraging everyone's favorite activity -- GAMBLING!!
+
+They provide a platform for creating tournaments, head-to-head competitions and most importantly allowing for cash deposits and cash payouts to winners.  They have timers in games to keep them to 5 minutes or less and some other social hooks to drive the addiction factor.
+
+They call it "Casual eSports"
+
+There are the usual categories of head-to-head games you can find in the app store -- word games, puzzle, sports, card games, etc.  Except all can be played head-to-head and for real money.
+
+Today they claim to have:
+
+* Over 30M players
+* Over 20k developers creating games for their platform
+* Over $60M in Monthly payouts
+
+They just reported earnings this week with revenue up 92% year-over-year and they are just in the early stages of growth and platform exposure.
+
+Stock is at $13.50 a share and roughly a 1.3B market cap.
+
+The play here is Feb and May OTM calls. Or covered calls.
+
+I'm in for FEAC 2/19/20121 15C and FEAC 5/21/2020 15C and 17.5C
+
+The bet is that analyst coverage starts to increase as their market exposure grows and platform expands.  Retail investor interest will also increase when they change the ticker symbol to look more like the company name.
+
+It's a little early for these guys, but not a stretch to see this being a 3x-5x play by February.  Understood not the 10-banger in a week most people on this sub like, but worth a look.
+
+Enjoy!!_END_OF_POST_PYSTOCK_ $PLTR - price action working into a wedge - mucho tendies _END_OF_POST_PYSTOCK_ Beat the Dow to 30k. Am I going slow enough to sustain this? _END_OF_POST_PYSTOCK_ Thoughts on FUV? Their shit isn't as ugly as SOLO but ugly enough to still pop off right_END_OF_POST_PYSTOCK_ XPEV ROCKETING, TOLD YALL THIS WILL BE THE NEXT NIO (LOOK AT MY POST HISTORY) _END_OF_POST_PYSTOCK_ Emerson $EMR DD TL;DR: EMR 85c 1/15 (cause COVID vaccine).
+
+Here we go! 
+
+Emerson Energy. Your grandfather probably has this stock in a safe somewhere. This is the company that sold the first fucking electric fan in the 1800s. What are they doing now? Industrial temperature monitoring.
+
+Why is this a big deal? You know, COVID shit.  
+
+Little brains are investing in Pharma. Bigger brains are investing in HVAC…. But the real move is in temperature monitoring. COVID vaccines need to be kept cold. Damn cold. 
+
+Emerson makes products **and services** to monitor temperatures throughout the supply chain. This *had* been used mostly for food; if your Wendy's baconator popped over 43 freedom units in temp during transit (always fresh, never frozen), that's bad news. *Now*, there's a ton of monitoring potential in the new vaccines. 
+
+Trump says the military is going to distribute this. Will they? Who knows. But SOMEONE has got to move this shit around, and someone needs to know for sure that the vaccine hasn't gone hot while the driver was getting serviced by some lot-lizard at a Flying J. 
+
+Big potential here as they start moving this shit around. 
+
+So where else are their monitoring services popping up? Medical Labs, Hospitals, and Senior Centers.  Anything else they're doing? Yep; they're also manufacturing medical masks, gowns, and filters.  
+
+EMR stock is currently at $75. EMR 82.5c 12/18 is under a buck. Same for EMR 85c 1/15. 
+
+Add to this, EMR is just a solid company, too. They've beat EPS estimates in all of their recent earnings announcements. They've been around for over 100 years, and they don't really show signs of weakening. The stock still hasn't quite returned to its pre-COVID levels, so even if you don't believe they're about to moon, you could still expect a small gain as they return to where they were in January.  
+
+&#x200B;
+
+Position: EMR 85c 1/15_END_OF_POST_PYSTOCK_ TTNP TO THE MOON 🚀🚀🚀 YEAHHHHHHHH BABYYY
+
+FUCK TSLA, FUCK PLTR, FUCK ALL OF EM
+
+TTNP ALL THE WAY_END_OF_POST_PYSTOCK_ TSLA reliability https://preview.redd.it/g3rwpz14ne061.jpg?width=735&format=pjpg&auto=webp&s=09caf5b51cf168b8969137ea049ea17f4e157f27
+
+[https://www.consumerreports.org/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars/](https://www.consumerreports.org/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars/)
+
+Who cares about vehicle reliability when your companies stock is at all time highs and you have retarded WSB autistics betting it's going to go higher!
+
+On the plus side at least they aren't as bad as Lincoln!_END_OF_POST_PYSTOCK_ So who else is cashing out PLTR to hop onto the AYRO money rocket? 30 by xmas!_END_OF_POST_PYSTOCK_ Any other TTNP-ers? _END_OF_POST_PYSTOCK_ Thanks to everyone who suggested KNDI , AYRO & EOSE.. _END_OF_POST_PYSTOCK_ This is what retards like me buys(UK's favourite 100 stocks according to a retail broker) _END_OF_POST_PYSTOCK_ To all my AYRO bois who listened to my retarded ramblings - congrats, we are on the charts this morning. _END_OF_POST_PYSTOCK_ tA dOesNt wOrk hurr hurr _END_OF_POST_PYSTOCK_ Air BnB is going live next month. From some articles I have been reading, Air BnB (ABNB) is going to be a tradable option next month, I am just wondering if this is a long term option or a short term play?_END_OF_POST_PYSTOCK_ How is AYRO up above 8 Premarket? What happened overnight?!!!!! It may go to the moon on FOMO_END_OF_POST_PYSTOCK_ Explain Negative Chinese Interest Rates to a Retard Really don't understand why anyone would loan China money with the understanding that they will get even less money back. Are people really that nervous about American banks? There must be something I don't understand and I figured this place was a bastion of knowledge that can only help with this question_END_OF_POST_PYSTOCK_ and now my favorite color is blu Bellus health. They have a blockbuster drug that only one other company Merk who's drug hit phase 3. bellus's drug did not perform as well as they thought and are redoing phase 2 phase 2b.. The market took that as a drug failure from a biotech with that being their only drug in the pipeline it crashed over 80%.
+
+But that's not the case the drug performs better that merks drug (Works just as good with less side effects, also can be used to treat psoriasis and some other things.). The drug is in a better position now than when the stock was trading at it's high (That's over 400% increase). Looks like the correction may have already started.
+
+TLDR; Stock should be higher than it was when it was in phase 2. it's significantly lower do to market over reaction from a bad headline and confusing data. other perks they're cash rich and mainly owned by institutions.
+
+&#x200B;
+
+Edit I can't link seeking alpha articles but there are two main points that I agree with them heavily on.
+
+" We believe investors acted in accordance with the negative headline associated with the study results and NOT the underlying data/scientific rationale which is why we are so positive compared to the street."
+
+" But it turns out there was a surprisingly strong (and prespecified) signal within this 'failed' P2 trial – patients with more frequent cough at baseline had a clearer sign of benefit with ‘5937. "_END_OF_POST_PYSTOCK_ More SPACs - THCB and GMHI showing movement GMHI is a done deal bringing lidar company public, already partnered with Daimler for autonomous trucking and formal announce set for 12/1. Already +$300M raised.
+
+THCB is Microvast batteries. Vertically integrated, batteries used in Seoul Olympics and expected to get the jump on KCAC for solid state EV battery production by a couple years. Looking to raise $100M this year._END_OF_POST_PYSTOCK_ Nio “play” sometimes I wish I was a degenerate like you guys. Then I’d be sitting on a beach somewhere paying hookers to throw baloney at there asses _END_OF_POST_PYSTOCK_ TSLA $500 call expiring today How fucked am I_END_OF_POST_PYSTOCK_ Come join us at the DISCA-theque, idiots. Alright, I tried to get y'all in on it [2 weeks ago](https://www.reddit.com/r/wallstreetbets/comments/jr5ohd/if_you_liked_burry_on_gme_youre_gonna_love_him_on/) and I'm here to deliver gains unto you again. Since I posted last, DISCA is up \~20% and this shit is about to go to pre-COVID levels.   
+
+
+Discovery, Inc. now has a date of [December 2nd](http://ir.corporate.discovery.com/news-releases/news-release-details/discovery-inc-host-presentation-and-investor-briefing-discuss) for the announcement of their streaming service.   
+
+
+There's a [leak](https://thedesk.matthewkeys.net/2020/11/discovery-plus-new-streaming-service-ad-free-tier/) that shows some views of their streaming service with an anticipated price of $5 for ad-supported access and $8 for ad-free viewing of 7 of the best channels to watch when you're home sick or high.
+
+&#x200B;
+
+You've got 7 trading days to pile into this shit as hard as you can. 
+
+&#x200B;
+
+Position: December calls from $25-$30 and January calls up to $32.5._END_OF_POST_PYSTOCK_ Underdog Hero vs EV Shorts, "When the Fundamentals Change" Edition _END_OF_POST_PYSTOCK_ AYRO - :::: whistle ::: over here retards. New to the family. Looking forward to loosing money. Misery loves company, right? 
+
+Who’s in with me on AYRO? Thoughts. Opinions. Share DD._END_OF_POST_PYSTOCK_ My portofoliu 80% pltr 10% crsr 10% TLS
+
+
+Good enough?_END_OF_POST_PYSTOCK_ NIO 150?? _END_OF_POST_PYSTOCK_ SPX IS GOING UP Catch the bull run from vaccine news while you can_END_OF_POST_PYSTOCK_ Ayro So you invest millions into a company with 350k revenue and net income of -2.45 
+
+What do I miss? The train?_END_OF_POST_PYSTOCK_ How the fuck is ZOOM still alive with vaccines on the way? Fuck ZOOM, lost a fortune. 
+
+Every company in the world uses Microsoft 365, which is incorporating Teams more and more in their platform, for a lower fee compared to Zoom. 
+
+It was a nice Hype, but it's time to get back to fucking reality._END_OF_POST_PYSTOCK_ Hi guys I was just wondering if there are any brokerages that give you a cash card with your money on it? Like how some betting companies do? So your balance will be available immediately? _END_OF_POST_PYSTOCK_ This is Billy. Billy doesn't believe in DD, because his god Elon got his back &#x200B;
+
+https://preview.redd.it/ppusv2j08e061.png?width=546&format=png&auto=webp&s=fc768ada50cf236c899d8ebfefce61d8dc4ce6f9_END_OF_POST_PYSTOCK_ What bubble??? _END_OF_POST_PYSTOCK_ I have been yoloing with no DD I am up 5k cause I’ve been yoloing into PLTR, SOLO, CIIC. I’ve been doing literally 0 DD but it’s working. 
+
+WSB tards, what’s the next stock?_END_OF_POST_PYSTOCK_ Help: How to exercise a call on DEGIRO?  I have an expiring call on ING (EUR) on DEGIRO for **ING C5.00 20NOV20**
+
+How can I exercise this option? Nothing changed for me today on the platform. Anyone with any experience in this would be more than welcome to help me!_END_OF_POST_PYSTOCK_ Pltr still a good opportunity? Too late too get in on a 20$ call for 11/27? Opinions?_END_OF_POST_PYSTOCK_ AYRO PM 27% Ayro=aero
+Aero=🛫
+
+And a plane is basically a rocketship. And where do rocketships go???
+
+🌖🌗🌘🌑🌒🌓🌔
+🚀🚀🚀🚀🚀🚀🚀
+
+Ayro is the gift that keeps on giving
+
+[edit] this is my dd_END_OF_POST_PYSTOCK_ Fuck PLTR, FCEL to the moon!!! 🚀🚀 FCEL produces clean energy and stuff. They're like Plug Power. Also, they up almost 300% in 15 days. There's no losing with this one, its going to the moon (or at least $7.50)_END_OF_POST_PYSTOCK_ Has anyone else been watching VALE? I know VALE is considered a dead meme around here for its reputation of doing absolutely nothing, but I’ve had my eye on it for a while now. With EVs spiking these past few weeks and a transition to high-nickel composition batteries I see this stock finally getting the takeoff it deserves. This stock is up about 11% this week and the calls are soooo cheap. If Vale becomes a meme stock for EV you’ll be sorry you didn’t load up. The risk you take to the potential payoff is pathetic, if IV spikes in this stock this could be an easy 500% gain. But don’t listen to me I’m just another retard. 
+
+Position 200 12/4 15c_END_OF_POST_PYSTOCK_ What. _END_OF_POST_PYSTOCK_ Game consoles may haul in $45 billion this year, and big changes are coming TLDR:  Today, the way more than 700 million people play video games is on a dedicated console,  the console industry is[ on track to generate $45 billion in revenue this year](https://newzoo.com/insights/articles/newzoo-games-market-numbers-revenues-and-audience-2020-2023/), according to market research firm Newzoo. And the way companies in the sector make money has changed rapidly over the years.
+
+With new consoles from [Microsoft](https://www.cnbc.com/quotes/?symbol=MSFT) and [Sony](https://www.cnbc.com/quotes/?symbol=6758.T-JP) [on sale](https://www.cnbc.com/2020/11/15/microsoft-looks-beyond-the-console-wars-with-new-xbox.html), there’s a clear push from both companies deeper into software and subscriptions — similar to the way [Apple](https://www.cnbc.com/quotes/?symbol=AAPL) has placed a greater emphasis on services in recent years.
+
+&#x200B;
+
+[🚀🚀🚀](https://www.cnbc.com/2020/11/20/microsoft-sony-nintendo-how-video-game-console-industry-is-changing.html) <—forgot to add the source, I'm not that smart to write up such a post when I'm in GME and here's your rocket
+
+&#x200B;
+
+&#x200B;
+
+They’re hoping to capitalize on [rising demand for games](https://www.cnbc.com/2020/04/03/video-games-sales-soar-as-coronavirus-leaves-millions-trapped-at-home.html) as consumers around the world spend more time at home during the coronavirus pandemic. But a viral pandemic isn’t the only thing that’s changed the gaming industry recently.
+
+According to Daniel Ahmad, analyst at Niko Partners, consoles are now a much more profitable business for firms like Microsoft, Sony and [Nintendo](https://www.cnbc.com/quotes/?symbol=7974.T-JP) than they were a decade or two ago.
+
+“We’re now moving to a point where hardware is profitable, software has always been profitable and network services are playing a much larger role in keeping people within the console gaming ecosystems,” he told CNBC’s “[Beyond the Valley](https://www.cnbc.com/beyondthevalley/)” podcast.
+
+Digital distribution of games has allowed firms to rake in bigger profit margins than selling physical copies in stores, Ahmad said. Whereas publishers would traditionally make about $35 on a $60 game sold in-store, online downloads mean they can now make as much as $45 per game.
+
+Sony and Nintendo [have reported](https://www.cnbc.com/2020/08/06/nintendo-q1-earnings-profits-surge-428percent-animal-crossing-sales-double.html) much higher digital download numbers this year. That trend looks likely to continue, with both Microsoft and Sony selling digital-only versions of their new consoles at lower prices.
+
+## Ecosystem
+
+So-called gaming ecosystems are set to become even more important over the next few years. Microsoft, for example, is betting heavily on building out its player base across a range of different devices, including its Xbox consoles, Windows PCs and smartphones.
+
+The company [released its xCloud gaming service](https://www.cnbc.com/2020/09/15/microsoft-xcloud-release-for-android.html) commercially in September as part of its Xbox Game Pass subscription platform. Cloud gaming lets users play a game that’s streamed to their device from a company’s remote infrastructure. Such services are typically available through paid subscriptions, similar to [Netflix](https://www.cnbc.com/quotes/?symbol=NFLX) but for games rather than TV shows and movies.
+
+“We think of the console as something that is always going to be part of gaming, because what it does is it effectively gives someone the flagship experience,” Sarah Bond, Microsoft’s corporate vice president of gaming ecosystem, said in an interview for “Beyond the Valley.”
+
+“But the other thing we’ve seen — and there really has been a rise in this over the last 10 years — is people wanting to game across devices,” she added. “So the console plays that role as part of an ecosystem where people can actually game anywhere.”
+
+Japanese rival Sony, meanwhile, is pitching the PS5 as an all-in-one system that gives players access to its exclusive games as well as its PlayStation Plus and PlayStation Now subscriptions services, which offer online gaming, some free titles and cloud gaming.
+
+Analysts say the PS5′s predecessor, the PlayStation 4, largely beat Microsoft’s Xbox One console due to the number of exclusive games it sells. Sony’s in-house studios have produced several popular franchises, such as God of War and The Last of Us.
+
+**The ability for games to generate huge amounts of revenue over the long term is going to be really important to a lot of these platform owners.Daniel AhmadANALYST, NIKO PARTNERS**
+
+Nintendo similarly takes advantage of its vast catalog of intellectual property, with series like Animal Crossing and Super Mario selling [multi-million hits](https://www.cnbc.com/2020/06/02/nintendo-switch-animal-crossing-and-coronavirus-led-to-record-sales.html) on its Switch console.
+
+The company stands out as it’s less concerned with Microsoft and Sony’s next-gen console battle, choosing instead to ride a wave of continued demand for the Switch. However, it hasn’t missed out on the rush toward subscriptions and services, using its paid Nintendo Switch Online feature to drive additional sales from software.
+
+## Big Tech
+
+Now, other tech giants are stepping on gaming companies’ turf. [Google](https://www.cnbc.com/quotes/?symbol=GOOGL), [Amazon](https://www.cnbc.com/quotes/?symbol=AMZN) and [Facebook](https://www.cnbc.com/quotes/?symbol=FB) have all released their own cloud gaming services, looking to carve out a share of the $160 billion games market.
+
+Niko Partners’ Ahmad said there are two main strategies coming out of Big Tech: On the one hand, Google and Amazon are trying to compete with the likes of Steam and Epic Games as digital game distribution platforms themselves. On the other, Facebook is using game streaming as an advertising tool.
+
+“How that works is, you’re scrolling through your Facebook feed and you can instantly jump into and experience a game,” he said. “If you like that experience, you can click to play and play more on the device of your choice instantly. In consoles, you can do that through instant demos; download a game instantly without downloading it.”
+
+For now, cloud gaming is mainly seeing adoption among console gamers who want to continue playing the titles they enjoy on other devices, Ahmad said. It’s going to be an opportunity for tech companies of all stripes to take advantage of the growth in mobile gaming, which now accounts for almost half of the entire market, according to Newzoo.
+
+Microsoft, a company valued at $1.6 trillion, sees cloud gaming and subscriptions as a chance to drive more users toward its content. The company recently bought Bethesda Softworks, the video game publisher behind hit franchises like The Elder Scrolls and Fallout, for $7.5 billion.
+
+“Content is key to people driving our gaming subscription, and it’s something that people look for,” said Bond, who added that Bethesda’s content would help “accelerate” growth of its Game Pass subscription service.
+
+Ahmad thinks there could be more consolidation on the horizon: “The ability for games to generate huge amounts of revenue over the long term is going to be really important to a lot of these platform owners.”
+
+&#x200B;
+
+When I see consoles being mentioned, my autistic brain thinks of GME.
+
+Positions entered: GME 25, 30C Jan, Apr_END_OF_POST_PYSTOCK_ If you think you missed out on $PLTR, there is a new player in town IPO on 11/19. $TLS. 
+
+Cybersecurity firm, in business for over 5 years and 90% revenue from govt contracts. Get in there you retards and thank me later or not..._END_OF_POST_PYSTOCK_ Jump on this China EV like the rest of them Time to become a pro autist retard 
+
+The company qualify for Texas' offering of a $2,500 state tax rebate on purchases of renewable fuel\-powered automobiles.   
+
+&#x200B;
+
+https://preview.redd.it/tm8r1p3upd061.png?width=821&format=png&auto=webp&s=4ea6b979fb6b8b91c41ef20624e986b63b8d94b2_END_OF_POST_PYSTOCK_ COTY is it a pump and dump or real I did some very mild DD on $COTY got in at 4,6 shares because gay ass DEGIRO isn’t as cool as freedom RH. So far up little over 30%. I am thinking of keeping because of the ceo and their latest earnings and kkr and kardashians. What do you gamblers think? Also does anyone know how i can gamble RH type options from eu_END_OF_POST_PYSTOCK_ Covid vaccines are cool, really cool. Invest in temperature controlled logistics. "Cold storage and transport account for four-fifths of the total cost of vaccination programmes." https://amp.ft.com/content/0207755e-1bc8-4b46-bc25-1d89f4f9b6f5
+
+Moderna's vaccine needs to be below 20'C and Pfizer at -70C. Who will make the refrigerants for 500 billion doses?  -> Companies like Linde. 
+
+And who may transport these, Gist Limited, also owned by Linde.
+
+Even if this ends up not holding true, both stocks have a strong and stable growth record.
+
+Marking this as a shitpost because I'm in bed and too lazy to proof read._END_OF_POST_PYSTOCK_ Daily Discussion Thread for November 20, 2020 Your daily trading discussion thread. Please keep the shitposting to a minimum. 
+
+^Navigate ^WSB |^We ^recommend ^best ^daily ^DD
+:--|:--                                 
+**DD** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADD) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=week)
+**Discussion** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADiscussion) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=week)
+**YOLO** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AYOLO) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=week)
+**Gain** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AGain) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=week)
+**Loss** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ALoss) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=week)
+
+
+[Weekly Earnings Discussion Thread](https://www.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3A%22Earnings%20Thread%22)
+
+Read the [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide) and consider using [WSBVoteBot](https://www.reddit.com/r/wallstreetbets/wiki/votebot) to help us enforce them in [new submissions](https://www.reddit.com/r/wallstreetbets/new/) and keep WSB great._END_OF_POST_PYSTOCK_ Just got out of PLTR give me a stock I can yolo into today _END_OF_POST_PYSTOCK_ Haters wanna say I’m in a bubble _END_OF_POST_PYSTOCK_ China Brilliance auto filed Bankruptcy https://www.thestandard.com.hk/breaking-news/section/2/159313/Mainland-court-to-rule-on-Brilliance-Auto-bankruptcy
+
+China auto declared BK 2 hours ago.
+
+Debt’s over 110%, they have no way to pay back. 
+Vice President: It’s normal inside, there’s nothing to worry. 
+
+Brilliance is worth 37 Bils. 
+
+
+
+NIO 48p 11/27 🌈🌈🌈🌈🌈🐻🐻🐻🐻🐻_END_OF_POST_PYSTOCK_ Why GSK price is so under-estimated? We are into this vaccines league, several pharmaceutical and biotech companies are working hard to be the winner. 
+
+GlaxoSmithKline (GSK) looks like out of this league, but ACTUALLY **GSK owes hundreds of patents related to vaccines**. 
+
+Probably the winning vaccine will use one or more of this patents (owned by GSK).   
+
+
+My question is... Why GSK stocks price is so under-estimated?
+
+patents owned by GSK: [https://patents.justia.com/assignee/glaxosmithkline](https://patents.justia.com/assignee/glaxosmithkline)_END_OF_POST_PYSTOCK_ Is Airbnb a potential yolo? Autisty opinions are welcome._END_OF_POST_PYSTOCK_ EV stonks, what're you eyeing apart from tsla/nio? Been watching fuv, solo and ayro moon on my watchlist but I pussied out and didn't buy shit. Ayro still has some room to leap (150m mc) though. Anyone entering smaller EV's, or waiting for a pullback?_END_OF_POST_PYSTOCK_ ARK invest will probably invest in Arrival (CIIC) Listen up u retards,
+
+this stock aint no another SPAC
+
+This company have so much disruptive innovation that just screams Cathy all over the place
+
+You will be a fucking idiot not to buy it in today's dip_END_OF_POST_PYSTOCK_ $XPEV pre breakout stages, with more volume from the PR they had yesterday, this is looking like the next $NIO _END_OF_POST_PYSTOCK_ ARK Invest selling a lot recently, will the market tank ? I've been following ARK Invest trading moves and they did a major sell off yesterday. Are they  expecting the market to crash ? Is this a confirm of /stevenvanmetrewhatever theory?
+
+Latest three day trades:
+
+[https://ibb.co/0m2S4DR](https://ibb.co/0m2S4DR)
+
+[https://ibb.co/d4psjt3](https://ibb.co/d4psjt3)
+
+[https://ibb.co/VTsGJ9d](https://ibb.co/VTsGJ9d)_END_OF_POST_PYSTOCK_ Question about options trading Hi, I'm new here, but I already bought NIO at $50.
+
+Quick question about options trading. When I buy an option, which e.g. expires on Dec 1st 2020, am I only allowed to sell it on that date, and does it happen automatically? Could I sell it earlier?_END_OF_POST_PYSTOCK_ JMIA is hot garbage and you should short it immediately Listen up degenerates, there is a huge shorting opportunity forming and it's name is JMIA. For those of you who don't know, JMIA is the alleged 'Amazon of Africa' by people who know absolutely nothing about the difference between Amazon and JMIA and probably even less about Africa. The stock has seen just an absolutely stupid run up in the past month (\~60%) and is prone to extreme volatility anyway, leading me to believe JMIA will correct imminently if not in the next few months.
+
+To make this digestible for you morons, I'm going to break this into 3 parts: (1) why the African market is super challenging, (2) why the future is looking even grimmer, and (3) why the company is dog shit.
+
+**The** **African market**  
+So for those of you who have only a cursory grasp of a world existing outside the US, it may come as a shock to you that Africa is not in fact a country and it is not in fact one market. In reality, Africa is many countries - 54 to be exact (depending on who you ask). And apart from being 54 countries, Africa is also probably >10x as many 'markets'.
+
+Why you ask? Well, African countries happen to be some of the most culturally and linguistically diverse on the planet. In Nigeria alone (JMIA's biggest market), there are easily over 10 major languages, many of which are associated with different 'ethnic' groups in different regions of the country that, had they been left to their own nation state evolution instead of subject to colonially imposed border drawing, would have almost certainly been separate countries.
+
+In addition to being a highly fragmented market landscape, African countries boast some of the lowest literacy and numeracy rates in the world (google it yourself) and they are not improving very quickly. This makes it quite hard for a smartphone based app that depends on people reading and using the internet to actually grow their user base even if population is growing rapidly across Africa.
+
+Finally, the infrastructure is shit in 90% of JMIA's core markets. Some of the worst roads and logistics chains you can imagine are there, and the vast majority of countries in Africa don't even use physical addresses. You can imagine the long-term challenges that a delivery service might face in these circumstances.
+
+**The future**  
+Covid is not doing any favors to the economic climate across the continent either. Unlike the US and the EU, African countries rarely have the luxury of providing stimmy money and running the printer. Inflation and government debt are already extremely high in the majority of JMIA's core markets, so trying to stimulate economic demand is not in the cards.
+
+Furthermore, a huge chunk of these economies is dependent on demand from the US, China, the EU. If the demand dries up there, it just gets passed down the line a few months later.
+
+**The company is dog shit**  
+This is perhaps the most-compelling reason to short the stock: the company just isn't that good. Sure they're in a challenging market with a bleak future outlook, but they just aren't up to the challenge at hand (few are by the way).
+
+To illustrate this point, take a look at their recent developments and their numbers. For one, they have *exited 3 separate countries in the past year.* Exited. As in gave up, weren't up to the task, called it quits. You may look at that and say 'well that's a good sing; it just means they're concentrating on their more profitable markets'. To which I say, um no, it means they have shitty market intelligence and entering countries they know fucking nothing about and have to abandon ship.
+
+In terms of their numbers, they leave a ton to be desired to say the least. Much of their growth over the past few years has been squarely on the back of incentivizing the shit out of people using their platform and incurring large losses as a result. Late last year, they decided they would be doing less of that and as a result their numbers have shown it: Q3 numbers show both GMV and number of orders were down vs. 2019. And keep in mind, this was all during Covid when when most e-commerce platforms have been booming.
+
+**\*\*\*\*\*DISCLAIMER\*\*\*\*\***  
+This stock has seen a stupid amount of FOMO in the past few months and is prone to extremely irrational and baseless spikes. I can't discount the possibility of this going back up to IPO levels before people waking the fuck up. Be careful about the momentum, but recognize that like 90% of retail investors in JMIA have no idea what the fuck this company actually does and what the African market is like. It will fall once the momentum runs out.
+
+&#x200B;
+
+**TL;DR** JMIA's core markets are hugely challenging places to operate that will not be changing anytime soon and JMIA is a shit company that has missed the Covid tailwind. Its stock is hideously overvalued and it will go back under $15
+
+&#x200B;
+
+**TL;DR of TL;DR** 15p 1/15/21_END_OF_POST_PYSTOCK_ PLTR - long term play or hype train 2 zee moon?   
+
+'Allo mes amis 
+
+I threw some spare change at this company early on (euros of course, none of your colonial monopoly money) and got some reasonable growth already. 
+
+is this a long term play for you chaps or more of a speculation? One argument i hear is that there are other companies doing the same thing more profitably who can take market share from them.
+
+My take here is that pltr is becoming more entrenched in the security infrastructure and this will help them organically grow their business in this space so everyone in 5 eyes/nato etc is talking the same language (so to speak). I'm quite bullish here. let's also bear in mind that relationships will play a role here.
+
+Private sector-wise we've heard/read all the stuff about BP and the airline company saving loada millions in 5 minutes. There's more competition in this space all the way from free power BI for tiny companies to more powerful solutions from providers like salesforce (tableau), cognizant, splunk. I'm less bullish here but if the product is as good as they say then they should gain traction here over time. This last bit's super important. Any insight here would be great.
+
+In terms of business model you have sticky revenue and sticky clients who probably don't want to redo  their software every year. Probably a relatively long sales cycle and it's b2b not b2c - i'm curious to see the q4 results.
+
+Putting this altogether this seems like more of a slow burning value play than something that will spike short term. Anyone see this differently?_END_OF_POST_PYSTOCK_ QFIN tomorrow? Any thought where QFIN is heading tomorrow? Posted earnings AH just beat expectations by 39% and existing P/E is 5.66 (I think before earnings). Chinese e-finance company.
+
+Thoughts?_END_OF_POST_PYSTOCK_ TLS https://finance.yahoo.com/quote/tls/
+
+
+Go
+
+
+Your take on this?_END_OF_POST_PYSTOCK_ Why nio I mean I get it, tesla îs a pioneer, but why you have so much faith in NIO while not in the big names? Why NIO gets the big money and not Mustang Mach E for example  or BMW i3 or whatever is there._END_OF_POST_PYSTOCK_ Tested PLTR Gopher software on this sub to datamine... ... how many times "PLTR" has been typed. Results are in:
+
+PLTR has occurred 420,696,969 times_END_OF_POST_PYSTOCK_ When my Moderna puts nearly bankrupt me so I throw it all into calls last week _END_OF_POST_PYSTOCK_ Took a little profit yesterday but how are we feeling about NIO to 55$ today????????? 🚀🚀🚀🚀🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ Profita-bull Twin Has Spoken &#x200B;
+
+After careful analysis of the curvature of an average American bull, I have concluded that we have reach the apex of NIO's growth and that we are in for a downswing.
+
+DD Below
+
+https://preview.redd.it/bt6dtdb3lc061.jpg?width=1712&format=pjpg&auto=webp&s=1c384dfab393ebd47175fbfa429dc664d06d8dd6
+
+&#x200B;
+
+tldr: NIO Puts $42.00 NOV27_END_OF_POST_PYSTOCK_ Moderna or Pfizer? Who the fuck are you retards burning your money on? Personally in the vaccine game at the moment I feel as though it is blue corner vs red corner, seeing as how both have been having dick measuring contest against each other as of late. So my question is, is this a 2 horse race and who do I also burn my money on? Is there a underdog vaccine on it's way? I'm new to this sort of shit but I've read recently that Moderna is close to being approved by the FDA as their primary poison. 
+
+&#x200B;
+
+So,
+
+&#x200B;
+
+Who y'all motherfuckers buying?_END_OF_POST_PYSTOCK_ WSB Appreciation Post I just started investing this year and I'm so glad I found this page. This is hands down the best page on Reddit and it never fails to make my day! Everyone is a bunch of autistic savages that I come to love and I hope everyone makes shit tons of tendies! Except for 🌈🐻 y'all can go suck a dick.
+
+&#x200B;
+
+Edit: Here's my positions for those who asked.
+
+https://preview.redd.it/daiiofql6d061.jpg?width=1282&format=pjpg&auto=webp&s=cf4821e5e39b3eaa142c5132f04b7fae9b9c5d97_END_OF_POST_PYSTOCK_ OXY anyone? Why is OXY so low? I know all oil is down, but this is like 3x gains if it goes back to the prior price after the pandemic ends, which will happen and oil will recover. 
+
+Did this thing have any funny accounting business, splits etc?_END_OF_POST_PYSTOCK_ UNH a Buy UNH is the largest health insurance provider in the U.S., they operate in the following segments: UnitedHealthcare, OptumHealth, OptumInsight, and OptumRx.
+
+**Why is it a Buy?**
+
+* A Biden win means the Democrats will want to continue pushing the Affordable Care Act.  The Associated Press have announced today that Biden is leading by 12,284 in Georgia after a hand recount of votes. Georgia will certify the results tomorrow.
+* UNH recently had great quarter results despite higher costs due to COVID.
+* Positive news of a vaccine has boosted healthcare stocks overall and will continue to do so and drive down the costs UNH was experiencing due to COVID. 
+* In a rebounding economy UNH should begin increasing market share in Medicare Advantage at work.
+
+The recent dip in the stock price provides a good entry point and an official Biden win should help the stock continue on its growth trajectory._END_OF_POST_PYSTOCK_ When you sell to early. You guys should check the price on these contracts now _END_OF_POST_PYSTOCK_ WSB mod made it to Dr. Phil _END_OF_POST_PYSTOCK_ Time to buy BA calls, Boeing to the MOON _END_OF_POST_PYSTOCK_ Apple M1 chip long term prospects to growth FOR\* growth
+
+Don't think I've seen too many discussions on here about Apple's new M1 based Macs - maybe i missed them when the M1 was first released.
+
+&#x200B;
+
+Tech reviewers are unanimously orgasming and drooling over this new ARM based Apple-designed chip because it fucking destroys Intel/AMD chips in both performance, efficiency and cost.
+
+Seriously, as a life long PC Gamer + MacBook Pro user, the stats on these new chips are amazing and I'm genuinely concerned about Intel's future in the consumer segment. How will beefier desktop versions of these chips perform with superior cooling.
+
+&#x200B;
+
+The M1 chips are first generation, 'low-end' chipsets which are the first offerings from Apple. I think we will be blown away once again once they release their 'pro' chips for higher end machines (MBP high end, Mac Pro, iMac, etc).
+
+&#x200B;
+
+Could licensing this chip technology and design out to PC manufacturers in the future be a viable new vertical for Apple (would this make sense for them to do? It's a solid XX-XXX digit $Billion TAM) Most other PCs can't fully utilize ARM chips because Windows is a POS. Apple is in the unique position to control every aspect of product design so it make sense that they've been able to come out with a laptop generation which is the largest leap in price/performance in recent history.
+
+&#x200B;
+
+Just some anecdotal tweets I read
+
+https://preview.redd.it/56g6n19tzb061.png?width=602&format=png&auto=webp&s=1cf4e0f6d0e794ce9e1c800a31ad5987e87b1d26
+
+&#x200B;
+
+https://preview.redd.it/gvnhc9gv0c061.png?width=596&format=png&auto=webp&s=f7bd74f8ec1da9a72a0813c9ddcef121213ec67f
+
+&#x200B;
+
+https://preview.redd.it/ln7u0mpa1c061.png?width=619&format=png&auto=webp&s=465d7fa8926293c426ad533a00dce0a0caf21baa
+
+&#x200B;
+
+Seriously wtf, this chip out performs the top spec Intel chip from last year in REAL WORLD APPLICATIONS to an insane degree. When a sub $1400 M1 MacBook Air can run laps around a $6000 2019 16inch Intel MacBook Pro, you know Intel is truly fucked.
+
+Now in terms of $AAPL, obviously this hasn't affected the stock at all because Macs are now such a small % of their business. I think that the Mac/iPad segment is going to start to see growth once again when the true potential of the new chipset is realized and discovered by the market. Potentially they can start selling these chips to OEMs in a few years time?
+
+&#x200B;
+
+Also where are all the Windows peasants who spam comments about how Apple hardware is overpriced and doesn't perform as well as similarly priced Windows machines.
+
+&#x200B;
+
+Links:
+
+[https://www.theverge.com/2020/11/19/21574057/apple-m1-chips-laptop-performance-intel-qualcomm-competition](https://www.theverge.com/2020/11/19/21574057/apple-m1-chips-laptop-performance-intel-qualcomm-competition)
+
+[https://www.theverge.com/21570497/apple-macbook-pro-2020-m1-review](https://www.theverge.com/21570497/apple-macbook-pro-2020-m1-review)
+
+[https://www.anandtech.com/tag/apple-m1](https://www.anandtech.com/tag/apple-m1)
+
+[https://9to5mac.com/2020/11/11/macbook-air-with-m1-chip-beats-16-inch-macbook-pro-performance-in-benchmark-test/](https://9to5mac.com/2020/11/11/macbook-air-with-m1-chip-beats-16-inch-macbook-pro-performance-in-benchmark-test/)
+
+[https://twitter.com/twostraws/status/1328704598962565122](https://twitter.com/twostraws/status/1328704598962565122)
+
+&#x200B;
+
+Positions: long AF AAPL for life, INTEL AMD NVIDIA WATCHOUT_END_OF_POST_PYSTOCK_ At least we have this to look forward to... _END_OF_POST_PYSTOCK_ Are we all Mr. Burns investing in SPAC's and becoming homeless? _END_OF_POST_PYSTOCK_ Puts on all our livers. _END_OF_POST_PYSTOCK_ Sell amd buy palantir? Bought amd at 86 money just been sitting there for like 3 months. Feel like its gonna rise but not right now and not by much maybe like 10% or something is it worth taking the money out and yoloing on palantir?_END_OF_POST_PYSTOCK_ Is this the worst chart you’re ever seen? _END_OF_POST_PYSTOCK_ Palantir to the moon best DD _END_OF_POST_PYSTOCK_ Whens RBLX comin out Goin all in_END_OF_POST_PYSTOCK_ *REMINDER* DON'T FORGET ABOUT E-COMMERCE Just want to say to not forget about E-Commerce, you can shop around for some great premiums right now. $EBAY & $COTY are my inexpensive plays.
+
+$COTY bought Kim Kardashians beauty shit for a 20% stake and with the demand for celebrity owned shit, this company will have free advertisement aslong as they have Kardashians affiliated name promoting.  E-commerce should have a huge pump this upcoming month and I think we are being buried with meme stocks to not think of how big E-commerce is going to be. I believe Target just smashed records for their e-commerce.  
+
+Regarding $COTY, it seems that anything that family touches turns into gold, and I will continue to buy calls until they stop printing. Premiums are at a competitive price, don't see how $8.00 calls won't print for the month of December._END_OF_POST_PYSTOCK_ Who did it. Need an update on this yolo tm _END_OF_POST_PYSTOCK_ How to buy option strike not showing in the options chain? I know this is a stupid question but curios to know. how can I purchase option strike which is not showing in the options chain. For example, PLTR only have strike price till $35. Let’s say I want to buy $40 or $50 strike before anyone to stay a head of the game. Is it possible to purchase those strike price even though it doesn’t show in th option chain?_END_OF_POST_PYSTOCK_ Bullish or 🌈🐻, as long as Im green _END_OF_POST_PYSTOCK_ Electric Vehicle stocks are starting to give me Weed stocks vibe. We all know how that ended. Ok sure, the market convinced me that TSLA, NIO, XPENG is worth more than BMW, Audi, Mercedes, Volkswagen, Toyota, Honda, GM, Hyundai, Lamborghini, and everything else combined.
+
+But what sorcery is Arcimoto - FUV and  Electrameccanica - SOLO? FUV went up 69% today and their vehicle has 3 wheels and no doors!
+
+This gives me Aurora Cannabis vibes. ACB wanted to grow marijuana in Edmonton, Alberta. Who grows a tropical plant in Canada and expects to be profitable? The scam was running for a year or two, but we all know how that ended.
+
+What is going on with these napkin electric vehicle companies?_END_OF_POST_PYSTOCK_ It's not as much capital as you retards seem to have but a gain of 4,560% is fucking unreal for me. Real talk I get misty looking at it. This was buying 10 calls at $5 a pop (all I could afford) on a sleepy ugly EV last Thursday nobody was paying attention to cause nio had your attention. _END_OF_POST_PYSTOCK_ Gotta start ‘em young _END_OF_POST_PYSTOCK_ If TSLA hits 540 I'm taking all your mothers out to nice steak dinner and never calling them again. _END_OF_POST_PYSTOCK_ After the Release of Apple M1 Chips, I'd like to Remind Y'all the DD was Already Here _END_OF_POST_PYSTOCK_ SPY is going UP as heck because the FDA is going to approve PFE and MRNA vaccines After the FDA approves the vaccines,  we will be drip fed more good news.  Imagine all the articles showing the first set of front line workers being vaccinated.  People will forget all about how to value stocks proper and they will pump stocks into the clouds.  Dont forget theres nothing else to invest in right now with bonds returning nothing.
+
+Position: NCLH 25c Jan_END_OF_POST_PYSTOCK_ WSB weekly most mentioned stocks. Scraped comments and posts to see what is mentioned the most. _END_OF_POST_PYSTOCK_ Affirm To Go Publix! _END_OF_POST_PYSTOCK_ My one NIO call _END_OF_POST_PYSTOCK_ CRSR Bags _END_OF_POST_PYSTOCK_ Fuck you old man. We'll show you how it's done. _END_OF_POST_PYSTOCK_ I finally learn the ways of Tesla options and why ppl call Elon papa. Yolod 3500 on 12/4 500c for 7.30 and sold for 16k. Now re yoloing into 12/31 600c. Thanks papa Elon and WSB for telling me to buy and yolo on Tesla calls!! _END_OF_POST_PYSTOCK_ Nio day in 2 months with 2 new cars _END_OF_POST_PYSTOCK_ $XPEV news, new Sudan released + first ever EV company to use LIDAR technology. Making it the best self driving software in the world https://twitter.com/xpengmotors/status/1329617566529032193?s=21_END_OF_POST_PYSTOCK_ What a crazy 1st year trading options , thank you my fellow retards 😜 _END_OF_POST_PYSTOCK_ MASA is the biggest retard of us all - wish he could be invited to WSB! _END_OF_POST_PYSTOCK_ Buy AAPL Calls now _END_OF_POST_PYSTOCK_ How do I transfer funds _END_OF_POST_PYSTOCK_ $NIO Food for thought, bulls. The story isn't all rainbows and unicorns...  There are deep strategic risks in this name.
+
+[https://simplywall.st/stocks/us/automobiles/nyse-nio/nio/news/nio-motors-nyse-nio-has-chinese-government-support-but-do-th](https://simplywall.st/stocks/us/automobiles/nyse-nio/nio/news/nio-motors-nyse-nio-has-chinese-government-support-but-do-th)
+
+It looks like the Chinese govt might be taking a protectionist posture with regard to the EV market in China. I think strategically this makes sense. They have targets to hit per the Paris Agreement, and Transportation is part of that. Also, as we both know, China is thirsty for oil, and to the extent they can reduce demand for it within their transportation sector, the more liberty/freedom they might enjoy internationally. Viewed from this angle, the $1bn investment seems shrewd and opportunistic. It also looks protectionist.
+
+I am not bearish on NIO, but I don't think that most people investing in it fully understand the picture. Do your DD..._END_OF_POST_PYSTOCK_ Me being new to WSB. _END_OF_POST_PYSTOCK_ Who is your favorite analyst? _END_OF_POST_PYSTOCK_ Gilead 58.5p 11/20/20 _END_OF_POST_PYSTOCK_ 2x 12/18 500c overnight swing, sold here at 461. Should've held but fuck it. _END_OF_POST_PYSTOCK_ Time and day to buy weekly options Dear Bird Brains
+
+When do you retards make your weekly moves? Is Monday around noon best? That way I can avoid weekend decay and see what the market opens with? 
+
+Sincerely,
+
+Low cash in Michigan_END_OF_POST_PYSTOCK_ ❗️ ❗️ ❗️ NKLA ❗️❗️❗️ I’m thinking of YOLOing on NKLA. They’ve been on an uptrend for the past month. I may put like 100k into it. I think it’s about to pump and dump because I’ve seen so much hype around it recently. Guys what do you think. Idc what you think because I already did it. In my mind at least. I’m telling you I’m doing this tm. GET READY FOR GAIN PORN!!! NKLA to the MOON! 🚀 🌙
+
+
+Edit: this is a SHITPOST!!! The pump and dump already happened lol_END_OF_POST_PYSTOCK_ Losing money professionally like a true degenerate _END_OF_POST_PYSTOCK_ Me when I’m about to lose it all again. _END_OF_POST_PYSTOCK_ Califronia news is talking about hydrogen Saw fuel cell mentioned in the promo_END_OF_POST_PYSTOCK_ $GIK & $GIK+ new top idea Lightning EMotors in talks to go public via GigCapital3, Bloomberg reports Lightning EMotors, a company that focuses on fleet electrification and cutting out fuel consumption, is in advanced talks to go public through a merger with blank-check firm GigCapital3.
+
+Partnered with Amazon and Plug Power. This one should catch the eyes of many going forward. The definite agreement coming will make this the #1 SPAC of next week in my opinion. Watched CIIC take off on DA, same will happen here._END_OF_POST_PYSTOCK_ Here is some gains porn. S/o https://discord.gg/tSxWmEc for helping me not be an autist all the time _END_OF_POST_PYSTOCK_ The WSB way. _END_OF_POST_PYSTOCK_ All you guys are gonna turn to gay bears in the coming weeks USD is crumbling and nobody is noticing. SPY is up on the year yes, but anyone buying SPY outside the US is still negative on the year because of exchange rates. This trend will only continue, meaning less foreign investment money and US markets crumbling.
+
+I’m too bored to type out more, just know that I’m right and will be coming back in a month or two to laugh._END_OF_POST_PYSTOCK_ Thank you Tesla for $8880 profits in two days. _END_OF_POST_PYSTOCK_ SPCE is going parabolic very soon and this week is the best time to get in. SPCE has been consolidating for the past couple of weeks since the last time it went to the moon. It will do so again in the next week, if not the one after according to the charts and upcoming catalysts. Get in now if you don't want to miss out as I did last month! Some DD I've done on Virgin Galactic... Don't think it will go tits up.
+
+The company
+
+1. New Technologies and has successfully sent humans to space, twice. The second time 
+
+https://www.youtube.com/watch?v=kmPG0Hqhay8)
+
+The tech is working.
+
+2. Boeing will invest $20 million in Virgin galactic for hypersonic planes
+
+www.businessinsider.com/boeing-investing-20m-in-virgin-galactic-to-design-supersonic-vessel-2019-10)
+
+3. Many catalysts in the coming months. 
+
+Conference presentation at [Barclay industrial select conference]
+https://www.businesswire.com/news/home/20200121005626/en/) 
+
+by the CEO, the [last time he spoke
+https://www.businesswire.com/news/home/20200106006011/en/Virgin-Galactic-Announces-Participation-Bank-America-Merrill) 
+
+the stock rose 60% from Jan 9. ER a few days later on Feb 25. Richard Branson going on the flight himself. Risk of him dying is minimal because of point 1 above. Lastly, they are planning to send first customer to space later this summer in 2020.
+
+4. They just  opened registration]
+
+https://www.virgingalactic.com/join-us/) for commercial flights!  
+
+Technicals
+
+1. SPCE has been trading near the top of the last parabolic move since a couple of weeks ago. It pulled back a little and formed two new support levels. It has formed bullish patterns in multiple time frames - a bullish flag, ascending triangle, and a upward trend that hasn't been broken since the last parabolic move.
+
+2. This stock is strong as fuck, the recent economic turmoil hasn't affected it a bit, it is still following the trend line and continues to consolidate at the top while slowly creeping up along the upward trend line while consolidating.
+
+3. Last Friday it has just formed a higher low in the consolidation - a buy set up and it is safe to buy!
+
+4. 25% of the stock float is short.  When it breaks out of $20, they will get squeezed along with all the catalysts in the coming months.
+
+5. Morgon Stanley has a target price of 60.  They say hypersonic travel  will have an $800 billion dollar total addressable market by 2040. SPCE  is at the head of the pack in developing the technology to enable  hypersonic point to point travel, so they could very well be a  disruptive force in this future industry.
+
+Positions 04/16/2021 c $20_END_OF_POST_PYSTOCK_ Best risky plays for stock market game. So my school has a virtual stock market game on marketwatch that goes until January 8, 2021. I know that that's not enough time to guarantee any type of results so I basically wanna go all in on stocks that have decent potential to move a lot within that time. Unfortunately, I don't think there's options on marketwatch so rip. Currently I'm considering $NIO, $PLTR, $CRSR. I've recently put a little bit of money into these stocks in a personal brokerage account and I'm up around 20%. Does anyone have any other risky plays they can recommend for me? Thanks._END_OF_POST_PYSTOCK_ Trump (Through Mnuchin) Is Trying To Turn Off The Printers And CRash Stonks- Start Hedging Now! Here's the article:
+
+[https://thehill.com/policy/finance/526785-mnuchin-asks-fed-to-return-455-billion-in-unspent-covid-emergency-funds](https://thehill.com/policy/finance/526785-mnuchin-asks-fed-to-return-455-billion-in-unspent-covid-emergency-funds)
+
+&#x200B;
+
+Judging by the title itself it doesn't seem like a big deal, after all, its only $455bil but I'm gonna break it down for you people as to why you should start to SERIOUSLY consider buying UVXY calls or SPY puts (I know, super gay). 
+
+Since the start of the pandemic, one of the key programs set up by the FED is its key lending facilities. These facilities were set up to cover virtually ALL aspects of the credit markets from corporate debt to credit cards. Pretty much any debt that can be securitized, these facilities were set up so that the FED (through their SPVs) can purchase these CDOs or ETFs and provide liquidity to the credit markets and raise investor confidence. Now, the only way the FED can continue to purchase these debt assets is if the Treasury continues to support the FED by providing funds to cover any potential losses the facilities may incur ([https://www.pgpf.org/blog/2020/09/federal-reserve-lending-facilities-what-are-they-how-are-they-funded-and-how-will-they-support-the-economy-during-the-coronavirus](https://www.pgpf.org/blog/2020/09/federal-reserve-lending-facilities-what-are-they-how-are-they-funded-and-how-will-they-support-the-economy-during-the-coronavirus)). The amount of money the Treasury can provide is stated in the CARES act and is $455billion dollars, the same amount as stated in the title.
+
+Right now, Mnuchin is pulling that amount from the FED and is therefore refusing to extend the lending facilities past year end, which means the market now knows that the backstop they enjoyed from the FED since March is running out and the confidence they had that the FED will support virtually all corners of the credit market is now shattered. Even if Mnuchin only wants to pull the plug on 5 of the nine facilities, it wouldn't matter because investor confidence is now gone. 
+
+Expect yields in credit markets to rise and VIX to spike. We might even have a minor replay of March.
+
+&#x200B;
+
+TL;DR: Trump is stabbing us in the back by sending Mnuchin to kneecap the FED's ability to print. Start hedging your positions now!_END_OF_POST_PYSTOCK_ What do you think? _END_OF_POST_PYSTOCK_ Recovered from 75% loss. _END_OF_POST_PYSTOCK_ Let's say bad stuff about the Roblox IPO so that sentiment-analysis bots are bearish on it Roblox IPO gonna go tits up I'm buying puts. Something about bad profit margins and revenues declining and lukewarm growth prospects from a value perspective idk I'm not a fucking loser_END_OF_POST_PYSTOCK_ Are u degens even paying attention to EV SPACs? NIO is garbage. More risk more reward. WE CHASIN ELECTRIC YACHTS BABY _END_OF_POST_PYSTOCK_ Thoughts on RIDE? EV stock that's going bonkers. Lordstown Motors up like 45% in the last week.  Last two days it blew up.
+
+Is all this movement just short term hype? They don't actually start delivering their vehicles until fall of 2021, which makes me think they'll drop off a little before the end of the year. Where do y'all see the price going short/long term?
+
+I found out a little too late and ended up buying near the high. Should I just hold until Q4 next year?_END_OF_POST_PYSTOCK_ Its been a great 3 months _END_OF_POST_PYSTOCK_ Down 3k on 6 TSLA 12/4 $505 Calls, how fucked am I? Bought these at the top today cause I’m a retard._END_OF_POST_PYSTOCK_ Investment Strategy Generator _END_OF_POST_PYSTOCK_ 10 bagger in 2 weeks not bad positions include: PLTR FSR CRSR calls: Current position 60k in PLTR 30k in margin holding for at least 3 years wish me luck autists :) _END_OF_POST_PYSTOCK_ Chinese investment bank CICC raises NIO price target by 206% to $52 It's settled then, because Wall Street, Bank of America etc didn't convince you enough....
+
+I present you the following: 
+
+https://cntechpost.com/2020/11/19/cicc-raises-nio-price-target-by-206-to-52/amp/_END_OF_POST_PYSTOCK_ down 4300, one big once thought i could do it again _END_OF_POST_PYSTOCK_ Serious question... when do I sell? _END_OF_POST_PYSTOCK_ CIIC Warrants Curious as to why the warrants (CIICW) didnt correlate with share prices movement/gains on ordinary coommon shares of CIIC. 
+
+&#x200B;
+
+Im an autist, thanks in advance._END_OF_POST_PYSTOCK_ 🚀🚀🚀 _END_OF_POST_PYSTOCK_ Is it too late to buy CRSR shares willing to hold long term_END_OF_POST_PYSTOCK_ All you bears &#x200B;
+
+https://preview.redd.it/xl50kdf1ma061.jpg?width=688&format=pjpg&auto=webp&s=d4a18ee8e20e39a3a42fb723794ab6a3ea85d1ad_END_OF_POST_PYSTOCK_ THCB - SPAC in talks with EV battery maker It's got thc in the name and makes EV batteries... 
+
+&#x200B;
+
+What more do you want?
+
+&#x200B;
+
+This is a speculative position, have at her!_END_OF_POST_PYSTOCK_ CRSR tendies are delicious _END_OF_POST_PYSTOCK_ Made a full recovery _END_OF_POST_PYSTOCK_ $BYDDY BYD Co., Ltd. $F Ford Motor Co. $FSR Fisker, Inc. $GM General Motors Co. $LI Li Auto, Inc. $NIO NIO, Inc. (China) $NKLA Nikola Corp. $RIDE Lordstown Motors Corp. $TSLA Tesla, Inc. $XPEV XPeng, Inc. _END_OF_POST_PYSTOCK_ Banbet: GME Ban me if GME doesn’t touch $14 tomorrow. It broke out from the range it’s been in for 3 damn weeks and should touch $14 tomorrow at some point. Ban me if it doesn’t, please. I predict GME could hit $300-$400 after the squeeze is over, then a crash right after, like every short squeeze. 
+
+
+In Cohen we trust.
+
+Positions: Shares and 01/15/21 30c_END_OF_POST_PYSTOCK_ From -2500 to +500. Thank you to my fellow WSB retards. _END_OF_POST_PYSTOCK_ it ain’t much but it’s honest work _END_OF_POST_PYSTOCK_ WSB pumping GME bags to Chamath _END_OF_POST_PYSTOCK_ IDK, this seems kinda easy. over 2 months in 1 week? options are for nerds _END_OF_POST_PYSTOCK_ Thanks for PLTR boyz. _END_OF_POST_PYSTOCK_ To all the WSBers worried about fear, uncertainty, doubt. HOLD. -Portfolio pic on old phone. _END_OF_POST_PYSTOCK_ My 2 year relationship with NIO _END_OF_POST_PYSTOCK_ EEMMF, the next PLL 🚀🚀🚀 Tl;dr: lithium mining, tendi city🚀🚀🚀
+
+Heres some DD. 
+"(OTC: EEMMF) (the "Company" or "E3 Metals"), an emerging lithium developer and leading lithium extraction technology innovator, today announced that it has entered into an agreement with Canaccord Genuity Corp. to lead a brokered private placement of units of the Company (the "Units"), in syndicate with Mackie Research Capital Corp. ("MRCC"), of up to C$6.7M at a price of C$1.10 per Unit. 
+Canaccord Genuity Corp will act as lead manager and sole..."
+
+You read that right, theyre at 1.02$ a share and had a company agree to buy $6.7 million in shares at 1.10 a share.
+
+
+----------------------------------------------------------------------------------------------
+
+Some of you may remember my retarted ass, posting positivity about cbat this morning (up 22% at highs during the day, 17% at closing)
+
+Enough of you 🌈🐻 got my submission taken down because you were embarrassed at how many tendies you lost by not listening. 
+
+Well, i got another for you autists and retards, EEMMF. Stocks risen 500% in the last 2 months.
+
+See all those tesla's and nio's being driven around? They need batteries. And their batteries need lithium. Guess whos mining for it?
+
+Best part is?!? $1.02 a share. You wendys workers could grab a couple hundreds shares a pay check. Imagine that?
+
+Im returning the favor for all the tendies you all help me make_END_OF_POST_PYSTOCK_ 3.5k to 23.5k in 3 months. My strategy was buying OTM calls on companies that include the letter P, L, and T in their name. Thank you very much. _END_OF_POST_PYSTOCK_ I’m new here but check out this veteran. _END_OF_POST_PYSTOCK_ This isn't DD Soros sold PLTR because the software informed the US government that he was funding terrorism and a huge enemy to the US, it prioritized him to be droned._END_OF_POST_PYSTOCK_ WSBVoteBot Log for Nov 20 2020 Every time a new submission is posted to wallstreetbets /u/wsbvotebot posts a comment that allows you to click and vote to remove that submission. This is the log of volunteer moderators actions which you can vote to reverse. [Check the leaderboard](https://www.reddit.com/r/wallstreetbets/wiki/leaderboard) to see who is doing the most to keep /r/wallstreetbets great.
+
+User commentary as replies to the messages below are encouraged. Report bugs to /u/zjz._END_OF_POST_PYSTOCK_ GSX the biggest Chinese fraud in history gets its own video 😂 _END_OF_POST_PYSTOCK_ Explain to me like am a 5 year old autist, what the hell are you guys doing here. So I have been working in banking for a few years and I am studying for my mutual Funds license in Canada, I can understand some of the posts here, put please enlighten me on what is it that this sub represents other than high risk bets ? 
+
+Feel free to shit on me in your comments...thanks._END_OF_POST_PYSTOCK_ Nio is not the TSLA of China but the new AAPL of China Look at this video
+
+[https://www.youtube.com/watch?v=-2HfPT1U4gA](https://www.youtube.com/watch?v=-2HfPT1U4gA)
+
+the way they threat their customers to make them feel special, their luxury consumer products
+
+the same way than apple decade ago they chose to not make their own products.
+
+I view Nio as a potential Apple_END_OF_POST_PYSTOCK_ KCAC - QuantumScape KCAC which will turn into QuantumScape, the first solid state EV battery is going to the moon.  Catch it before it gets to $100+.
+
+How do I know? Because you mom’s boyfriend told me.  💪🏻🚀🇺🇸_END_OF_POST_PYSTOCK_ Told this homie to join WSB, he belongs here 100% _END_OF_POST_PYSTOCK_ YY is a completely fraudulent company! Chinese books are cooked and. Video proof that its biggest “producers” have a camera pointed at them while they do paperwork. Check out the vid @zer0estv on Twitter, great vid showing how their scam works. Long dated shorts should print for this!! _END_OF_POST_PYSTOCK_ Never doubt Papa Elon _END_OF_POST_PYSTOCK_ It ain’t much, but it’s honest work. _END_OF_POST_PYSTOCK_ Whats a good first stock to get into trading/investing? Hey i‘m new to investing and i want to take my first long term position(Just not daytrading,options etc since i defo lack knowledge to do that kinda stuff yet). I have some stuff in mind like travel stocks(Cruiselines etc) or like the basics (Apple,tesla,Microsoft) my knowledge really does not go further than that yet. What are some stocks you would suggest in which i could put in 10-30k in and let it run for a while?_END_OF_POST_PYSTOCK_ CIIG/arrival merger has Kia, UPS, and Hyundai wanting to invest some serious cash _END_OF_POST_PYSTOCK_ Fnma Pfds Huge gains today, but can’t seem to find any news why._END_OF_POST_PYSTOCK_ Hotels & Resorts stocks are overpriced as fuck and the market hasn't realized it yet - $MGM 58k YOLO In fact, most of the boomer stocks are overpriced right now due to the recent PFE and MRNA's vaccine news, but hotels & resorts stocks ($MGM, $MAR, $HLT) are the most inflated out of them all and will soon be given a reality check.
+
+This is just my speculation but I believe the public is overly optimistic about vaccines and how the subsequent distribution and logistics will pan out. I'll keep my DD short and sweet.
+
+# The Race between the 4 Biotechs:
+
+**Pfizer (PFE)**:
+
+* 95% efficacy
+* 2 dose
+* 50 mill doses to be produced by the end of 2020
+* Must be kept at -70 degrees Celsius (-94 degrees Fahrenheit)
+* Submitted to FDA for Emergency Use Approval (optimistic timeline for approval = end of 2020)
+* People with special licenses can administer the vaccine shots
+
+**Moderna (MRNA):**
+
+* 94% efficacy
+* 1 dose
+* 20 mill doses to be produced by the end of 2020
+* Must be kept at -20 degrees Celsius (-4 degrees Fahrenheit)
+* Hasn't been submitted to FDA for EUA yet, but getting documentation prepared
+* People with special licenses can administer the vaccine shots
+
+**AstraZenenca (AZN):**
+
+* Currently in Phase 3
+* Expected to release data by the end of 2020
+
+**Johnson&Johnson (JNJ):**
+
+* Currently in Phase 3
+* Expected to release data in February 2021
+
+# Relative Pricing and Comparison
+
+**MGM Resort International (MGM):**
+
+* \-14% pps of pre-covid levels
+* Occupancy rate 44%
+* Revenue: -68% vs last LYQ3
+* Negative EPS
+* 25% employees terminated
+
+**Other Industry Leading Boomer Stocks**
+
+* CCL (cruise) = -57% pps of pre-covid levels
+* AAL (airlines) = -54% pps of pre-covid levels
+* SPG (mall) = -42% pps of pre-covid levels
+* JWN (retail) = -48% pps of pre-covid levels
+* LVS (casino) = -18% pps of pre-covid levels
+
+**MGM is inflated compared to the other boomer stocks as it's very much near pre-covid levels.**
+
+# Macro factors
+
+A sub-premise of this post is that whatever brough MGM's stock price to what it is today was artificial and it isn't reflective of a healthy incline. The volume popped off per vaccine news, but now the volume has significantly dropped at the current levels. Buyer power is at its tipping point and a single bad news can easily trigger a large sell-off as the good news have now all been priced-in. But what will trigger the sell-off?
+
+# The Sell-off Triggers
+
+* **The relief bill's benefits is all set to end on Dec 31 (this includes** **government bailouts).** We were expected to make stimulus negotiations post-election, but both sides aren't looking to work with one another. Other analysts predict that productive negotiations will only resume once Biden is in office which is in January.
+* **Rising COVID cases.** US COVID cases hasn't yet peaked as we continue to set new hospitalization and case records every day.
+* **Thanksgiving is cancelled, but maybe even Christmas and New Years celebrations, too.** Hotels&Resorts are one of the greatest attractions during Christmas, but it seems like we're going to stay in lockdown.
+* **Vaccine Distribution&Logistics issue.** As mentioned, countries and states will continue to face big challenges in vaccine delivery. One logistic issue in the headlines can induce great amounts of fear triggering sell-offs.
+
+**Conclusion:** In the short to medium term, there are no news that awaits for hotel&resort stocks that points bullish. The buyer power has peaked and now, they are headed for a big correction.
+
+**Position: $MGM 26.5p 12/31**
+
+**Proof:**
+
+[$MGM 26.5p 12\/31](https://preview.redd.it/xgs0r6y57a061.png?width=1535&format=png&auto=webp&s=8fb68260641e1c756e3f1ba981e6cfa415b7381a)_END_OF_POST_PYSTOCK_ Get rid of lockdowns in 14 days here is how Lockdowns are based on positive test rate which if you know anything about the virus it is extremely infectious after 10pm and at restaurants unless you are eating inside a tent that is outside. 3% > is the metric they use which is super low and allows them to implement a lockdown. This virus isn’t going away if it’s as contagious as it’s made out to be which means infectious rate will always be around 3%. So how do you get rid of lockdowns and pump tf out of the market with great news.....STOP GETTING TESTED. Just like you can’t have an std if you don’t know about it, you can’t be positive if you don’t get tested.
+
+DEC 18th AAPL 122.50C
+DEC 31st AAPL 125C 
+
+JAN 21, 22 WFC 32.5C_END_OF_POST_PYSTOCK_ 46 grand bet on TSLA _END_OF_POST_PYSTOCK_ any bearish options? my luck is absolute shit so might as well buy some puts with that luck
+
+u guys have any good suggestions?_END_OF_POST_PYSTOCK_ Wendy’s > JPOW _END_OF_POST_PYSTOCK_ I found the real autist here. He play ONLY 1 weeks. YOLO on BABA 257.5 call. he asked me : Why Rb not let he sell ? He want to sell it after hours trading. This man is legend. He said “If I can’t sell, I will keep it until tomorrow “ fuk boi . . . Tomorrow is your exp day. Infinity IQ _END_OF_POST_PYSTOCK_ It took a while, but I’m back in green mode. Never give up retards _END_OF_POST_PYSTOCK_ Will this help me become a better retard? _END_OF_POST_PYSTOCK_ A console for all the autistic children of this Sub _END_OF_POST_PYSTOCK_ PIC stock Why is no one talking about this? Another EV SPAC at just 11.67. Seems like easy gainz to me, anyone in?_END_OF_POST_PYSTOCK_ Lucked out hard on my first options trade _END_OF_POST_PYSTOCK_ Left my job with £39k in a boring "lifestyle" pension. Transferred it to SIPP and invested it 3 months ago, now 15% up from buying and selling TSLA and RR. Can't do options as I'm in UK. Any advice? _END_OF_POST_PYSTOCK_ Fuck you Mnuchin for fucking with Our Heavenly Father Jerome Powell’s printer _END_OF_POST_PYSTOCK_ If GME pulls it off, this is the one _END_OF_POST_PYSTOCK_ Why is no one yoloing on FUV But why_END_OF_POST_PYSTOCK_
