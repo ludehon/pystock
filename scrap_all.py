@@ -25,6 +25,7 @@ def saveToFile(name, content):
     text_file.close()
 
 def scrapDate(sub, date):
+    print("scrapping date : " + str(date) + " in sub : " + sub)
     credentials = json.load(open("credentials.json"))
     reddit = praw.Reddit(
         client_id=credentials["client_id"],

@@ -1,0 +1,404 @@
+ How much would it cost to sell and buy back a stock? Not considering chance of the market going up and down what would be the cost of selling a stock on one broker and buying on another? I want to move some positions and they don't cooperate to transfer and I'm trying to calculate what it would cost me. Is 1% too much? I'm talking general liquid nyse and nasdaq stocks with a "normal spread".
+
+Taxes are not an issue, no cap gains tax for OP_END_OF_POST_PYSTOCK_ Do we know how well this subreddit has done over time? A lot of the "meme" stocks I have seen in the past two years or so have actually gone on to do very well. At least from what I can tell. Are there any posts from years ago that would show how well this subreddit has done over time? I wish I could search by date and whatnot._END_OF_POST_PYSTOCK_ Selling profit for tax purposes Some backstory—current I am -5k on the year. I know that you can only carry 3k of losses over per year, BUT one of the stocks that I am planning on holding long term is up 4K. If I sell it and rebuy it (so that i can still hold it for the long term)would it mean that I would only have to carry 1k is losses over to the next year?_END_OF_POST_PYSTOCK_ Why is nobody here talking about NCLH? If they don’t go bankrupt (which is highly unlikely), Norwegian Cruises will likely double or close to triple within 2 years. I bought in at $15 and am probably buying in again at $20 tomorrow. All they have to do is mandate that passengers be vaccinated and, barring any big vaccine problems, they’ll be back to business by Fall._END_OF_POST_PYSTOCK_ Stocks under 15B Market cap with high growth potential 22y/o looking to offload my 1 share of Amazon this coming week and put that capital towards larger growth potential plays as Amazon is already close to a 2 Trillion market cap. Would love to hear some suggestions and a small write up why you think the company has great growth potential in the next 5 years. Appreciate any input
+
+Edit: Already into: TDOC , PLTR , FSLY_END_OF_POST_PYSTOCK_ calculation of Enterprise Value (EV) Enterprise Value (EV) is calculated as follows : EV = MC + Total Debt - Cash
+
+>What Does Enterprise Value Tell You?
+>
+>Enterprise value (EV) could be thought of like the theoretical [takeover price](https://www.investopedia.com/terms/t/takeoverbid.asp) if a company were to be bought.
+
+(source Investopedia)
+
+Why would you add the total debt and subtract cash and not the other way round.
+
+Because if you were to buy the company would debt lower the real value and cash add to the value?
+
+Because you have to pay debt so you lose money and have cash to pay off your debt?
+
+so I would think it would have to be like this EV = MC - Total Debt + Cash
+
+I would really much appreciate it if someone could explain this to me
+
+Thank you_END_OF_POST_PYSTOCK_ Investment help I just started looking into investing before the election and made a small profit and quickly realized I'm way over my head. 
+
+I have \~60k in savings. 40K of which will be required for a house downpayment in April. I'm currently invested in DKNG, PLUG, SE, ENPH, and FSR with a total of \~6k invested. Through work, I have a 401k (Thrift Savings Plan) and a separate retirement plan from a previous job.
+
+I'm curious how I can best manage my portfolio before I put that 40k down into a house. As of now, I plan on just leaving the required downpayment in savings and investing some of that extra cash. Is this wise? Would it be better to invest heavier but in something low-yield and relatively safe? I feel like a four-month investment plan is not nearly enough time to have decent returns but stay safe, no?
+
+I work as a wildland firefighter so my paychecks are a lot smaller this time of year and I would like to supplement them. 
+
+Any advice is much appreciated._END_OF_POST_PYSTOCK_ Why is there no daily chat thread? I tried submitting a post and apparantly was too low effort and it said post in a daily chat thread yet there is none.
+
+Can we get one please?
+
+More words so post doesn't get pulled again. More words, more words._END_OF_POST_PYSTOCK_ Better ways to buy hot stocks in an overvalued market? I think most can agree that the best performing stocks YTD are also some of the most overvalued in history.  Given that the market has gone up in almost a straight line since 2009, and tech/cloud/EVs have gone up even faster since March, valuations on these industries are very stretched and the bears are starting to get louder and more insistent that a true 50%+ crash is coming.  
+
+I think we can also agree that, even if we are in a massive bubble, a bubble can grow beyond anyone's expectations, especially with zero rates.  So even if the bears are eventually right, trying to short stocks can ruin you before you're eventually proved right.
+
+So what's an investor to do if you want to make money, if you recognize that high growth stocks are overvalued and value stocks are unlikely to provide much return?
+
+IMO, making predictions about the short term future of stocks is a fool's errand.  Instead of making predictions, it's better to be a bull with a plan so you don't react emotionally when things go south.  With that in mind, here are some strategies I've been thinking are appropriate for this type of market:
+
+1)  **Simply B&H** - if it's a quality stock with great management, and a long runway for growth - just B&H and ride out the volatility.  Works for longer time periods, but you really need a 10+ year time period.
+
+2)  **Buy with insurance** - buy the stock, but reserve 1-2% of capital for insurance, either in the form of buying puts, or selling calls or both.  Even if the puts create a 1-2% pa drag on your returns by expiring worthless most of the time, a high growth stock has the potential to return far more than that.  And if the market does crash, the options will pay off asymmetrically.  Alternatively, you could buy VIX ETPs which also have a decaying baseline.  
+
+3) **Buy with insurance and trend following overlay** - academic studies have shown that momentum exists in multiple asset classes using lookback periods of 3-12 months which means that the best (worst) performing stocks continue to outperform (underperform) for some time going forward, usually 1-6 months.  Applying 3, 6, and 12 month momentum can help to get you out of stocks and into safety (cash or bonds) when the trend is negative, and back in when the trend is positive.  Note that this method doesn't get you out exactly at the top and back in exactly at the bottom.  Trend following always has a lag and will not help you much in sharp drops and reversals like we had in Feb-Mar this year.  But it will greatly reduce the drawdown in a grinding crash/revaluation like what we experienced in 2000 and 2008.  Also, using shorter lookbacks can help you respond faster, but may also generate more trading costs and taxes.  12 month momentum or a 10 month/200 day moving average are generally considered the best balance, with lots of out of sample confirmation.        
+
+There are also other hybrid options-based strategies I will write up in the future.  Would love to hear how people are investing and if there are other options I haven't considered!_END_OF_POST_PYSTOCK_ Which airline stocks are safe to invest in? I believe with the vaccine, by next Christmas air travel will be mostly back to normal.
+
+I'm looking to buy airline stocks for the  recovery. Which stocks are safest (not likely to fail/go down in debt), but also still down from pre covid highs.
+
+I've been looking at Boeing and Airbus so far - but both are plane manufacturing companies rather than airlines so I think they may take longer to recover. Also - I want to diversify; have about $40k in savings to invest._END_OF_POST_PYSTOCK_ Can someone ELI5 me on what the US Goverment did back in the Spring when buying Stocks? Hopefully this post doesn't get pulled up for Spam again, just trying to understand where the bailout money has been flowing too. 
+
+Back in the spring when the COVID situation was in its first stages of lockdown, I remember reading about the US goverment buying up stocks as part of the aid package. Can someone explain what exactly they did back then? What stocks were thay buying exactly?
+
+edit: due to fat fingers/small keyboard_END_OF_POST_PYSTOCK_ 19 Year old investing advice Hello, looking for advice on whether to invest more into risky growth hype stocks
+
+I'm 19 currently studying at University, my portfolio consits of some safeish stocks such as Apple (up 7%), Microsoft (up 1%), Amazon, Google and nVidia. I also have some growth stocks such as NIO (up 167%), NET (up 130%) and PLTR (up 46%). Im in about 60% safe 40% risk/growth stocks.
+
+My question is, as I'm young and dont have a massive amount invested (~£4k). Would it be a bad idea to sell my safe stocks and invest more aggressively into growth stocks, maybe expanding into more EVs such as Li and xpeng. I'm hoping for as much gain as possible in the next 4 years til I graduate to aid me in putting a deposit on a house. However I am nervous at the possibility of major pullbacks from these growth stocks. I am also concerned that APPL, MSFT and NVDA won't produce the return im looking for.
+
+On top of this im looking to invest around 1500 a year for the next 4 years.
+
+Any advice is appreciated, as you can tell, I'm new to this. Thanks._END_OF_POST_PYSTOCK_ 10 ways you can MAKE, SAVE and INVEST money ASAP **If you want to make money right now you should read this as I am going to share with you 10 of the best tips that can make you money starting right and be sure to read everything as I have a bonus tip**
+
+Hey everyone and Welcome, my name is Cristian and today I will share with you 10 of the best tips that can start making you money right now
+
+1. Start saving money and INVEST IT
+
+The most important thing is START SAVING MONEY RIGHT NOW AND INVEST IT, don’t spend it on useless things that don’t add value to you. Either knowledge value, net worth value or future prospect value. This is one of the things that I learned the hard way, as I was spending all my money and never saving and investing it, this has cost me a lot of real money and potential money as I have missed out on a lot of things so be sure and learn from other people’s mistakes
+
+2. Number two has a lot to do with number one TRACK YOUR SPENDING AND IMPROVE IT BY REDUCING EXPENSES
+
+You think you are doing everything you can to start saving money? Well you probably aren’t if you are looking at this post. Start tracking all of your expenses by using your credit or debit card for almost every purchase you do and at the end of every month take your time and look over your statements. Are you satisfied with what you see? Are all your expenses really worth it? Are they adding value for you or future value? Probably not… Are you enjoying 10$ coffees when you can make our own at home for 50 cents? Is that brand name clothing or perfume adding value to you? You can easily get really nice clothes and great smelling perfumes for a lot less when not buying brand names. Another good idea is not to do groceries while you are hungry as you are tempted to buy much more food that you don’t actually need and end up wasting it. Do you really need to pay 5$ to play candy crush? I don’t believe so, you can find tons of games for free but wait a minute, why play games when you should try and do something that adds value to your life? Are you buying lottery tickets? Stop that right now, take that money and invest it. This are just a few examples that can improve your spending habits. Take your time every month and track your expense, cut out the stuff you don’t need and you will start feeling a difference very soon.
+
+3. The number 3 tip is Don’t rush just HAVE PATIENCE. I know, you want Lamborghini money in a week with nothing to start from, Yeah, me too but that is not gonna happen. You must learn to have patience and grow your net worth steadily over time, don’t go on Wall street bets and trade options thinking you’ll get rich by next month, that is a recipe for disaster. You might get lucky 1 in 10 thousand times but there are far better ways of making money. So be patient and take your time.  [SCREENSHOT](https://ibb.co/Q6wyg5h)
+
+Moving up to number 4, INVEST IN STOCKS
+
+Here you can see that if you had invested 30 years ago in 1 share of the SP that money would be worth 10 times that amount right now and even adjusted for inflation you would still be up huge [30 years SP](https://ibb.co/47wkSQq). With the annualized Average Return of investment being more than 6% [AVG RETURNS](https://ibb.co/54NpNZQ). Here you can see that you should not try to time the market as it is really hard to predict what is the best time to buy, you should just get into the stock market, you shouldn’t probably dump all your money in one day. But you should be buying into the stock market every time you get paid would be a great thing to do. As being fully invested in the stock market in the past 30 years has return more than 7% annually, while missing just the 3 best days of the stock market every year could see you end up losing money.  [BEING FULLY INVESTED](https://ibb.co/Jnx6vsF)
+
+Don’t know how the stock market goes? No worries number 5 will help you. INVEST IN ETF’s. What are ETFs? ETFs are exchanged traded funds that you can buy just like stocks. They are very similar to index funds but have lower fees usually and you can find ETFs that track pretty much everything. What are Index funds? Index funds are mutual fonds that are managed by professional money managers and represent a theoretical segment of the stock market with the most important ones being the SP500 that tracks the 500 biggest companies listed on the US stock exchange, the Nasdaq Composite which includes almost all the companies that are listed on the Nasdaq stock market or the Nasdaq 100 which includes 100 of the largest non-financial companies in the [NASDAQ COMPOSITE](https://ibb.co/xhzzqSf) and the [DOW JONES INDUSTRIAL AVERAGE](https://ibb.co/T1jhmr9) that tracks the stock performance of the 30 larges companies listed in the United States. They all have ETFs that track them, [QQQ](https://ibb.co/JkWYL76) tracks the Nasdaq and also has a dividend yield of 0,56%, [SPY](https://ibb.co/T45kYff) tracks the SP500 and has a dividend yield of 1,6% while [DIA](https://ibb.co/Vwt1nGN) tracks the Dow Jones and has a dividend yield just over 2%. but you can also invest in ETFs that track sectors like [SMH](https://ibb.co/m5vZML4) which tracks the semiconductor sector and still has a dividend yield of more than 1% more than almost any bank is giving right now on savings account and also offer growth. Or if you like the airlines and think that they will return to the value they once have there is a ETF for that also under the ticker [JETS](https://ibb.co/bJYnSrL) or if you like banks [XLF](https://ibb.co/WK4BYb0) is a good ETF for those and you can also invest in real estate with tracking a real estate ETF, one for example is [XLRE](https://ibb.co/TWhbMdC) , there are many ETFs that you can choose from not only these one. And as long as you consistently invest money over time, it is almost guaranteed that your money will increase they’re value.
+
+Number 6. Don’t try and reinvent the wheel, it’s really hard to come up with something new in this era, you should just try and emulate and improve what you see other people are doing that make a lot of money. A great example is just creating YouTube videos, there are a lot of people making YouTube videos out there and earning money they couldn’t have imagined. Or you can simply learn great skills that have high paying jobs, like coding or if that is to hard you should try and run Facebook or Google ads for companies or people, start small, get your local business to hire you, a lot of small business don’t know how to get noticed on social media and may pay a lot of money to get more customers
+
+Let’s move to number 7 on the list guys and that is: Don’t buy new things. Guys I now we all want that brand new Lamborghini but let’s face is… THE WORST, ABSOLUTELTY THE WORST MONEY YOU CAN EVENER Spend is on a brand new car. The value of that drops like a rock the second you drive it off the dealers lot. You should only buy used cars, you can get a lot more value for your money with a car that is just a few years old and even might get lucky and don’t lose that much money if you buy curs that don’t depreciate that quickly. Other things you shouldn’t buy new that also demand a huge premium over they’re value is jewelry but be aware you should still get the things appraised by a certified expert before you spend money on jewelry to avoid getting scammed. You can usually find pretty good deals on luxury jewelry at reputable pawn shop or eBay items that offered guarantees. Also one last thing you should never buy are pets… This will do two great things, one you save a lot of money when adopting a pet and two you will do a great thing for a pet that is looking for a nice welcoming home.
+
+[CAR DEPRECIATION](https://ibb.co/6Fd1Mc0) /
+
+Number 8 on my first 10 tips on how you can make money right now is PAY OFF THAT HIGH INTEREST DEBT
+
+So, one thing that can start making you money right now is paying high interest debt, I know I told you earlier to invest your money into the stock market ASAP but guys… that interest rate is killing you believe me. You should try and pay off that debt as fast as you can especially the Credit Card DEBT. Try to never, but never have debt on your credit card, as they have the highest interest rates on any kind of loans with even [EXCELLENT CREDIT](https://ibb.co/Yc5H9Y5) the lowest annual percentage rate is still 15% while it does depend from bank to bank with the Discover credit card having the lowest interest and Capital One having the highest at over 25%. After you pay this debt you should then focus on personal loans which have the second highest interest rate at about 10% followed by student loans and auto loans. The one debt you shouldn’t necessarily try and pay of as fast as you can are long term fixed mortgages with interest rates being at all time low rates you should probably take advantage right now and refinance your old mortgage at a much lower APR. So my opinion is that if you have high interest rate loans like credit cards, and personal loans you should get rid of that ASAP I would pay off that debt with 80% of the money I can save every month and the rest of 20% I would invest in the stock market but in the case of lower interest rates you should take advantage by the leverage mortgages offer you and you should invest more in the stock market as the annual average return is much higher than your interest rate. [AVG LOAN RATES](https://ibb.co/TRZr5vm) / [CREDIT CARD RATES](https://ibb.co/3BCcvP3) / [LONG TERM LOANS RATES](https://ibb.co/Z8JsSdc)
+
+Number 9 on the list is TRY NEW THINGS, if you haven’t already found your niche, you should probably try as many new things as possible until you find the one that works for you. You should find that thing that you really enjoy and can also add a significant amount to your net worth, you shouldn’t waste your time with jobs or businesses that you don’t enjoy or don’t have the potential to add big to your net worth
+
+And finally number 10. Invest in real estate and rent out.
+
+You should go out and find good real estate deals, you should seek out houses that are undervalued in a nice neighbourhood. Don’t seek houses that require a lot of work to restore, because if you don’t know what you should really do you might end up overspending on the house. You should get leverage on the real estate with mortgage rates being so low right now. Also go out and find good renters as this will bring up a good steady cash flow as a passive income, this also gives you great tax advantages and is a hedge against inflation especially now with all this money being pumped in the world there is a risk of inflation in the future. There are a few cons for real estate investing the main one being that they require more work than just owning stocks but this is a great way to diversify your asset allocation. So, I believe that you should do both as your income allows you, you should try and buy more and more real estate and rent it out as this will make you control a lot of money with really small upfront costs but you should also keep investing in the stock market. You should try and find your own balance as this is highly depended from person to person [REAL ESTATE PRO/CONS](https://ibb.co/fxKjGNp) / [STOCKS vs REAL ESTATE](https://ibb.co/wQtCQZ4)
+
+Hey guys, thank you for sticking this far and as a reward for sticking this far here is a bonus tip for you
+
+As soon as you turn 18 you should try and get a credit card to build up your credit history. But be very careful don’t go and spend all the money on the credit card and don’t pay it off as this will negatively impact your history. You should try and own at least a couple of great credit cards that offer great benefits use them but as soon as you can pay that thing off every month so you can enjoy getting a great credit history that will help you later in life when you apply for bigger loans like mortgages.
+
+Thank you everyone for reading! Hope you enjoyed the contente!
+
+Be sure to leave a comment down below with your expectations on the stock market!
+
+Have a great day and see you next time!_END_OF_POST_PYSTOCK_ What is Bill Ackman buying with $PSTH? Alright so this is the largest of its kind in history and I’ve heard some rumors but I’m not sure. Anyone have some solid DD? Like what are the options right now and when is the deal going to be announced? Thanks!_END_OF_POST_PYSTOCK_ Buy more shares of the stocks I currently own or try to branch out more? hello all, the main reason i am posting this is because i dont know whether i should buy more shares of these companies or diversify more. i have a small portfolio of 2k. so far i am up 28%. 
+
+these are the stocks i have invested in: 
+
+ENPH (up 84%) 
+
+NET ( up 70%)
+
+ICLN ( up 33%) my biggest holding by far (gift from my dad)
+
+ARKF ( up 7%)
+
+IBDRY (up 7%)
+
+AMD ( up .40%)
+
+&#x200B;
+
+I bought alot most of these late august, and since then they have exploded. my question is, most of these stocks seem overvalued right, now, so would it make sense buying more shares at these heavily inflated prices or spend the cash I have on other companies?
+
+
+
+the reason i have not bought a vanguard index ETF is cause alot of them are quite expensive for the money i have on hand. 
+
+
+thoughts and advice?_END_OF_POST_PYSTOCK_ Need short advice for my situation 18/yo Thanks for your help, I just need a short affirmation.
+I want to invest to have more money in the future and I hear its best to start young. 
+So I currently have 30k in Savings from my parents but I don’t want to invest that because it is for my tuition (36k) I will get a job next year to make up the 6k
+But anyway I live with my parents and I dont have any expenses and I get 160€ a month
+I want to invest about 50-100€ per month in stocks Im thinking 70% in safe ETFs and 30% in single stocks who look promising idk like Amazon Apple etc
+How is that plan? Am I doing any mistakes? Any tips? Should I invest just 1000 now and not 50ish every month?
+
+Anyway sorry if it’s a little chaotic, english is not my first language, thanks so much for advise and help_END_OF_POST_PYSTOCK_ Tattooed Chef: Freezing Kerrisdale Capital’s Baseless Claims  
+
+* Kerrisdale Capital, hedge fund and short-seller came out on Thursday with a short report against Tattooed Chef (NASDAQ: $TTCF).
+* The report states baseless and unfounded claims against the plant-based company.
+* The hedge fund has an average return of -19.9% on their ratings, according to TipRanks.
+
+You can read the full article: [https://thekingtutinvesting.medium.com/tattooed-chef-freezing-kerrisdale-capitals-baseless-claims-ab4b9beddd93](https://thekingtutinvesting.medium.com/tattooed-chef-freezing-kerrisdale-capitals-baseless-claims-ab4b9beddd93)_END_OF_POST_PYSTOCK_ Some useful lecture Hey guys, 
+
+do you have some really useful books about stocks which are not focussing in getting wealthy over a span of 30 years?
+Because nearly every "must-read" that I found is either completely outdated, is talking 600 pages about investing in funds and nothing but funds and holding them for 200 years, or it is all about the author and his great, great way to the top.
+there needs to be some useful lecture...
+Don't get me wrong, I'm not about the "get rich overnight" thing, I just want something that's not paying off when I'm not even able to enjoy it, cuz I can't even walk properly anymore.
+
+I'm open for every recommendation, from trading psychology to analysis or other useful informations.
+
+
+Please pardon my English, lol_END_OF_POST_PYSTOCK_ Alibaba Investor Alert: Shareholder Lawsuit Filed "The Complaint alleges that Alibaba owns a 33% equity interest in Ant Small and Micro Financial Services Group Co., Ltd. ("Ant Group"), a financial technology company that announced it had begun the process of a concurrent IPO on the Shanghai and Hong Kong stock exchanges. The case alleges that Alibaba and its senior executives made misleading statements to investors and failed to disclose that: (1) Ant Group did not meet listing qualifications or disclosure requirements for certain material matters; (2) that certain impending changes in the Fintech regulatory environment would impact Ant Group's business; and (3) that, as a result of the foregoing, Ant Group's IPO was reasonably likely to be suspended. When the IPO was suspended on November 3, 2020 Alibaba's stock price fell 8%, allegedly harming investors."
+
+https://www.newsfilecorp.com/release/68641/Alibaba-Investor-Alert-Shareholder-Lawsuit-Filed_END_OF_POST_PYSTOCK_ New to The Game and Looking for Resources 23 and interested in creating passive income. I've always turned my nose up to captialistic gain, but see that if you can't beat 'em, join 'em. 
+
+Where would I go to learn more about the current market?
+
+What are the most efficent trading apps?
+
+I know you don't want to go balls-to-the-wall with all of your savings, especially with loan debt from school and cost of living expenses, but what percentage of your paycheck would you start to save?
+
+And most importantly, what differentiates a novice from an expereinced investor?_END_OF_POST_PYSTOCK_ Nuts and Bolts EV Stocks I'm looking to identify and discuss companies that aren't currently in the EV bubble, but that are positioning themselves to grow from the transition to EV's.
+
+This could be a legacy company that's investing in EV focused products, or a newer, smaller company. 
+
+This conversation doesn't include GM, Ford, Volkswagen, etc. I want to focus on the components.
+
+For example:
+
+- Dana is evolving into this space 
+- BorgWarner evolving 
+- Aptiv
+- Blackberry with their secure operating platform 
+- Nvidia is emerging as the standard for autonomous ready processing
+- Intel has some potential here with MobilEye
+- Magna with their EV platform and manufacturing partnerships
+- Vontier is a moving into EV charging
+- Autoliv
+- Modine
+- American Axle
+
+Ideally, I want to invest in a few companies that COULD make an announcement that would pull in some EV hype.
+
+Can anyone add to this list?_END_OF_POST_PYSTOCK_ ETF Portfolio Hey all,
+
+&#x200B;
+
+I am new to the markets and have read about the potential success in holding a portfolio of Index Funds/ETFs/Bonds. I am wondering from those who use this approach, what does your portfolio consist of? How does it compare to when you traded individual stocks?  
+
+
+All the best
+
+&#x200B;
+
+Gabriel :)_END_OF_POST_PYSTOCK_ Microsoft Adds New Free Features for Teams as It Battles Zoom https://www.thestreet.com/investing/microsoft-adds-new-free-features-for-teams-as-it-battles-zoom
+
+Microsoft  (MSFT) - Get Report continues adding new features to its Teams collaboration platform at a breakneck pace, as it tries to gain more ground against the likes of Zoom  (ZM) - Get Report and Slack  (WORK) - Get Report.
+
+On Friday, the software giant expanded support for personal (non-business) Teams accounts to its PC and web browser apps. And notably -- with the holiday season on the way -- Microsoft will now let personal account users host up to 24-hour video calls featuring up to 300 people.
+
+CEO Satya Nadella disclosed on Microsoft’s Oct. 27 earnings call that Teams’ daily active user (DAU) count has risen above 115 million. That’s up from 75 million as of late April and just 20 million as of Oct. 2019._END_OF_POST_PYSTOCK_ Exro Coil Driver Ready for Electric Cars with Engineering Validation  
+
+# Exro Technologies Inc. (EXROF)
+
+Other OTC - Other OTC Delayed Price. Currency in USD 
+
+ Breaking News  
+Exro Coil Driver Ready for Electric Cars with Engineering Validation  
+
+
+Engineering validation of the 100 Volt Coil Driver marks key milestone toward delivering electric car products with improved performance  
+Testing confirms operation of series to parallel algorithms driving dynamic switching under load  
+Delivering prototype to Potencia to demonstrate maximum performance in operating application  
+Calgary, Alberta (November 20, 2020) – Exro Technologies Inc. (TSXV: EXRO) (the “Company” or “Exro”), a leading clean technology company which has developed a new class of power electronics for electric motors and powertrains, is pleased to announce that it has completed the engineering validation on the 100 Volt Coil Driver for electric cars.  
+
+
+Validation of the 100V Coil Driver engineering technology is a key milestone for Exro to delivering commercial products in the rapidly growing electric car markets. The 100V Coil Driver will deliver next generation performance in power and efficiency to mobility applications with electric powertrains.  
+
+
+Testing has proven that the series to parallel algorithms driving the dynamic switching under load is operating as expected. Exro is on schedule to deliver a prototype to Potencia Industrial, S.A. DE C.V. (“Potencia”) and maximize performance in operating applications. Potencia is one of Mexico’s largest motor manufacturers with over fifty years of experience specializing in custom applications like the new Pronto Power electric powertrain. With over one million miles traveled, the Pronto Power is leading the transition of electric fleet vehicles in Latin America.  
+
+
+“I am extremely pleased with the speed-torque results from our bench tests”, said Eric Hustedt, Chief Engineer of Exro. “I have no concerns over the operations of the drive moving forward. The hardware is more than able to support the dynamic switching under loads, and demonstration of these algorithms in the drive is a major breakthrough.”  
+
+
+“We are excited about moving forward in delivering our technology into operating applications”, commented Sue Ozdemir, Chief Executive Officer of Exro. “This validation represents all the hard work our engineering team has put in to take our patented technology from simulations to dyno bay testing, taking us another step closer to positioning ourselves as technology leaders in the transition to electric vehicles.”_END_OF_POST_PYSTOCK_ So cyberpunk 2077 is coming... And i thought that seen the success of the witcher and the hype around cyberpunk that it might be a huge chance to invest a bit in the CD Projekt. Does anyone have any thought on this? Was anyone thinking the same?
+
+I was thinking about a short term investment, maybe a half a year as i think once the hype will go down the stocks might reach its peak too._END_OF_POST_PYSTOCK_ Investment Advisor / Money Managers Morning r/stocks!  
+
+
+Ive been dabbling in the stock market for the last few years, and although I have had some levels of success, I am more poised for tangible asset classes (REI) is a heavy portion of my portfolio for both long and short term investments.  I still have a day job as a an engineering manager, so a good deal of time go to REI and FTE. To get to the point, I intended to allow a friend of mine act as an 'investment advisor' as I understand that diversification is important.  
+
+The questions I have is what is the best way to protect both parties, I have a fairly long agreement written, and I intend to have a lawyer review but I just wanted to get some opinions from the masses. Do I need to form an LLC, S.Corp, how do I ensure that taxes are passed down to me? His fees are going to be paid quarterly, and after taxes (is this normal)?  I trust the individual, however, from a legal perspective can we arrange a contract that protects both parties (him getting his fees, and me knowing he cant run off with all the money, etc.). 
+
+Currently, we're aiming at an account that I am the owner of, and he is labeled as the account operator, however; he created this account so I feel like he has more control (TDAmeritrade) than just operations. 
+
+Im doing my research, but its an area I'm newer in so cause for pause.  Appreciate any insight, and if anyone could direct me to some concise documentation on the matter, Id gladly educate myself more._END_OF_POST_PYSTOCK_ FDA grants emergency approval of Trump cocktail. aka Regeneron. Have a day bulls. 🍻 
+
+https://www.dailymail.co.uk/news/article-8974295/amp/U-S-FDA-grants-emergency-use-authorization-Regeneron-COVID-19-antibody-given-Trump.html#click=https://t.co/ss1gdaqnVL
+
+“The FDA on Saturday issued emergency use authorization for Regeneron Pharmaceuticals Inc's COVID-19 antibody therapy, an experimental treatment given to President Donald Trump that he said helped cure him of the disease.
+
+The FDA said the monoclonal antibodies, casirivimab and imdevimab, should be administered together for the treatment of mild to moderate COVID-19 in adults and pediatric patients with positive results of direct SARS-CoV-2 viral testing and who are at high risk for progressing to severe COVID-19.
+
+This includes those who are 65 years of age or older or who have certain chronic medical conditions.
+
+The FDA on Saturday issued emergency use authorization for Regeneron Pharmaceuticals Inc's COVID-19 antibody therapy, an experimental treatment given to President Donald Trump that he said helped cure him of the disease
+The treatment is part of a class of drugs known as monoclonal antibodies, which are manufactured copies of antibodies created by the human body to fight infections.
+
+Regeneron's REGEN-COV2 'antibody cocktail' - containing an antibody made by the company and a second isolated from humans who recovered from COVID-19 - is designed so that the two antibodies seek out and bind to the coronavirus' spike protein to prevent it from entering healthy human cells.
+
+Regeneron said on Saturday the clinical evidence from outpatient trial suggests that monoclonal antibodies such as REGEN-COV2 have the greatest benefit when given early after diagnosis and in patients who have not yet mounted their own immune response or who have high viral load.
+
+WHAT IS REGENERON'S ANTIBODY COCKTAIL?
+
+Regeneron's drug 'cocktail,' REGN-COV2, contains an antibody made by the company from mice and another isolated from a recovered COVID-19 patient, each of which may help to neutralize coronavirus. 
+
+The firm's latest data from the ongoing trials, show the drug drove down the viral loads of patients who were not hospitalized and cut their recovery times by nearly half. 
+
+But it's very much an experimental treatment, and the data announced earlier this week are the first published from the trial. 
+
+Two patients treated with the antibody cocktail had 'adverse events' - undesirable side effects. One of those was a 'serious' adverse event, but Regeneron did not reveal details of what happened to the patient, who received a low dose of the drug. 
+
+REGN-COV2 is comprised of a duo of therapeutics in a class of drugs known as monoclonal antibodies (hence REGN-COV2's distinction as a 'polyclonal antibody'), which are clones of antibody that attacks a specific antigen.
+
+The company said it expects to have does of REGEN-COV2 treatment ready for about 80,000 patients by the end of this month, about 200,000 patients by the first week of January and approximately 300,000 patients in total by the end of January.
+
+The FDA said the antibodies are not authorized for patients who are hospitalized due to COVID-19 or require oxygen therapy due to COVID-19.
+
+Trump spent three days at Walter Reed after his infection in early October, where he received a variety of experimental treatments, including an antibody therapy from Regeneron.
+
+Monoclonal antibodies treatments are also being developed by Eli Lilly and other companies.
+
+The drugs mimic antibodies that the immune system naturally produces to fight off viruses and other pathogens.
+
+Trump later credited the experimental drug therapy with aiding his recovery.
+
+Trump returned to the White House on Monday October 5 after spending three days hospitalized at Walter Reed Military Medical Center in Maryland for coronavirus.
+
+The monoclonal antibody cocktail is considered experimental because clinical trials are ongoing and it hasn’t been approved for the market by the FDA.
+
+Trump was able to receive it through the FDA’s 'compassionate use' provision, where unapproved drugs are administered to seriously ill patients who have no other treatment options.
+
+While Regeneron has shared promising results of the treatment, which cut the viral load of COVID-19 patients who were not hospitalized, there is no evidence the drug cut the risk of death or 'cured' patients.
+
+There also is no way for the president or his doctors to know that the drug had any effect.
+
+Last month, Bill Gates said Trump was wrong to call monoclonal antibodies treatment a 'cure' for COVID-19, but says it’s the most promising therapeutic in research for now.
+
+'The word "cure" is inappropriate because it won't work for everyone. But of all the therapeutics, this is the most promising,' the Microsoft founder said on the October 11 broadcast of NBC’s Meet The Press.”_END_OF_POST_PYSTOCK_ Thoughts on SNAP? Thinking about moving big into SNAP - it might just have had a huge runup, but it's 70.8% YOY growth forecast combined with healthy financials might just make it a great investment. I don't personally use SNAP anymore, but it's still amazingly popular with the younger people. What do you think?_END_OF_POST_PYSTOCK_ Why sell when there’s stop limit With some stocks going crazy at the moment wondering people’s thoughts on stop limits. I have sold a few stocks when I made good % I was happy with and worried about stock valuations going a bit crazy. 
+
+This weekend I have changed my tactic and decided to add stop limits where I am happy to sell at for a couple of stocks. But going to adjust my stop limits if things carry on going up. That way I get the % I was always aiming for but also get some more of the upswing as I adjust this up to take additional profit. 
+
+Regard myself as still new to the game with only a couple of years dabbling in the market. Is this what you do with your stocks or am I missing something that still exposes me to greater risk._END_OF_POST_PYSTOCK_ Question about shares outstanding Hello there
+
+I'm  fairly new to stockies, so bare with my possibly stupid question but -  Is a company with more shares outstanding gonna be experiencing lesser  swings than a company with less shares outstanding?
+
+Background  to that question - As I've been comparing 2 companies, respectively  Xpev and NIO to me it was clearly visible that Xpev with 1/2 of Nio's  total shares outstanding experienced larger swings in price. E.G. when  Nio went up 10% Xpev went up 20%, when Nio was down 2% Xpev was down 5%  and so on. \*they are both Chinese EV companies so they pretty much share  the market
+
+Is such relativity possible or has just the data aligned in a weird way for those two?  
+thanks in advance!_END_OF_POST_PYSTOCK_ Which stock do you think will increase 100% in next 6 months? This year has been great for some stocks. As the title says what are your bets? 
+
+I personally think greatest odds are with the low market cap tech stocks. 
+
+Couple of my bets are on: 
+
+1. Cloudflare -NET - 20,5B market cap
+2. CrowdStrike - CRWD - 32B market cap
+3. Sprout Social - SPT - 2,5B market cap
+
+Note: I have positions on all 3 of the above. But would like to extend my portfolio to some other high potential stocks._END_OF_POST_PYSTOCK_ Hey all! I’m curious what you all think the top EV and EV related companies are and what the duds are? Thanks for all responses. I’m 44 about 3 months in with active trading. Just getting my feet wet and asking questions. I’m here to learn so please don’t roast me too hard. I’m very interested in anyone’s input. Thanks in advance._END_OF_POST_PYSTOCK_ Stocks/ what stocks you think will do good in the coming weeks of November As the title says already, what stocks do you think have potential with doing good this week/month? I personally think NIO, PLUG, and OTIS. I’m fairly new to stocks but I know mostly what I’m doing but any tips would be great!  Thanks guys in advanced!!!_END_OF_POST_PYSTOCK_ VA signs new contract with Palantir  $8.3M 6-mo Palantir Sole Source contract for VA  —per OEI “the PALANTIR Gotham data management & analytics platform is the \*\*only viable solution\*\* that would maintain the current operational capability, without a degradation in VHA COVID-19 decision-support” 
+
+ “[\#dataManagement](https://twitter.com/hashtag/dataManagement?src=hashtag_click) & [\#operationalDecisionSupport](https://twitter.com/hashtag/operationalDecisionSupport?src=hashtag_click) requirements were identified & developed over the past months of responding to the COVID-19 pandemic & were immediately generalized, enhanced & validated in partnership w/the VA Chief Data Officer, the Data Governance Council, & OIT” 
+
+ “the instantiation of an alternate solution would take several months following contract award during which time the   \*\*VA leadership would be without a decision-support platform and will be unable to use data and analytics to inform the response to COVID-19\*\* 
+
+Base and All Options Value (Total Contract Value): $8,296,957.44000000 PoP: 11/14/20 - 5/13/21 
+
+signed contracts
+
+[https://beta.sam.gov/api/prod/opps/v3/opportunities/resources/files/7259a7cf551c4628a23490dde1bf78e2/download?](https://beta.sam.gov/api/prod/opps/v3/opportunities/resources/files/7259a7cf551c4628a23490dde1bf78e2/download?api_key=null&token=)
+
+[api\_key=null&token=](https://beta.sam.gov/api/prod/opps/v3/opportunities/resources/files/7259a7cf551c4628a23490dde1bf78e2/download?api_key=null&token=)[https://beta.sam.gov/opp/b5a0f38066344938a52856bf533f3d76/view#award](https://beta.sam.gov/opp/b5a0f38066344938a52856bf533f3d76/view#award)_END_OF_POST_PYSTOCK_ Someone help convince me I made the right choice lol... $DAL $DAL is trading at about $37.13 its slipped a bit in the last day or two... but honestly I see potential here. I sunk a solid chunk of change into it, remembering how I gained 21% on my last run of good news about the vaccine. That day, she spiked, and I sold for a solid gain. Now, I’m trying to do that again. Pfizer officially filed for Emergency Use Authorization (EUA) as of Friday. Turn around time could be 2-3 weeks (but the holiday could affect that). Anyways, I’ve got a strong feeling that if they get the authorization, $DAL should hit at least $45+. My current average is $38.18/share, and if more money presents itself this week, I may try to get in more as she continues to decline before the news. If Pfizer loses (which I find unlikely, but it’s possible) she could slip a lot further... but if she wins, I feel like this is gonna shoot to the stars. Am I crazy hopeful? Or is there possible merit here?_END_OF_POST_PYSTOCK_ Need some useful info about Viomi Technology I decided to invest in Viomi Technology last week. I have limited informantion about this company like 5g, Iot, Xiaomi vs. 
+
+I usually follow stock news and comment on Yahoo and Finwiz but there are also few info and comment about Viomi Tech. 
+
+So I wonder if there anyone also interested in this company.
+
+Edit. I am also wonder if there are any other company small market cap and increasing profit._END_OF_POST_PYSTOCK_ Mexico approves landmark cannabis legalization bill in landslide vote that would create the world's largest legal marijuana market [https://www.dailymail.co.uk/news/article-8968569/Vote-Mexico-brings-worlds-largest-legal-weed-market-one-step-closer.html](https://www.dailymail.co.uk/news/article-8968569/Vote-Mexico-brings-worlds-largest-legal-weed-market-one-step-closer.html)
+
+&#x200B;
+
+This is BIG news for ACB who owns Farmacias Magistrales S.A., the only company in Mexico that is licensed to import cannabis with more than one percent THC. This could be step in turning around the company. TA shows that first wave has consolidated, I feel like this could pop and start the next the wave.
+
+&#x200B;
+
+What do you all think?_END_OF_POST_PYSTOCK_ Heading into 2021: Biggest players What stocks are you most excited about heading into 2021?
+
+For me, I feel like 5G is going to play an interesting role in stocks like QCOM. I’m also excited about growing e-commerce like JD, SE and ETSY. 
+
+There’s also EV stocks, which I’m still not sure about. There’s a lot of hype but I’m going to tread  cautiously._END_OF_POST_PYSTOCK_ Reocan I don't want to highlight my favourite stock when I'm hoping to buy more but why you guys think Riocan is down so much. Obviously revenue is down but they will be able to evict tenets soon and set new rents higher also the CEO said their collecting something like 94% of revenue. It also has a great dividend which they say is secure. [https://ca.finance.yahoo.com/quote/REI-UN.TO?p=REI-UN.TO](https://ca.finance.yahoo.com/quote/REI-UN.TO?p=REI-UN.TO)
+
+**0 CommentsShareEdit Post**_END_OF_POST_PYSTOCK_ Emergency fund? What is the general feelings towards emergency funds in this sub? Is having money in the bank collecting 0.00001% interest worth my time? Or should that money be at work in the market. Because after all if I have some sort of emergency I can always get my money back into my account in 3-5 days correct? Just wanted to know how y'all feel about then.
+
+Edit: If you're pro emergency fund, how much money do you guys think should be in it._END_OF_POST_PYSTOCK_ REGN just got their Covid drug approved by the FDA! Should I go for it? Disclosure... I’m a new trader. Regeneron looks like a great company. They exceeded  EPS predictions each quarter. No news on them for the last 2-3 weeks and now they announced an emergency FDA authorization. The high for this stock was around $640 and now it’s trading at $518. Thoughts?_END_OF_POST_PYSTOCK_ How I obtained free shares of UA, RIDE, IPOB, and PLTR Real trades letting me hold shares now at essentially no cost.
+
+UA; bought 70sh at $7 each; sold 35sh at $14;  still hold 35 shares
+
+RIDE; bought 40sh at $14 each; sold 20sh at $28; still hold 20 shares
+
+IPOB; bought 39sh at $12 each; sold 26sh at $24; still hold 13 shares
+
+PLTR; bought 50sh at $9 each; sold 25sh at $18; still hold 25 shares
+
+Seriously, I used to exit a position by selling all my shares and later would regret selling.  So, now I hold my shares until the price doubles and then sell half of my shares.  One exception was IPOB where I sold two-thirds of shares after a 50% price rise.......    essentially the average cost of my remaining shares are ZERO and I plan to never sell.  No more regrets._END_OF_POST_PYSTOCK_ Any thought on RKT. Analysts on Wall Street suggest a consensus price target of $24.96 with tremendous potential growth upside. Somehow, in the past week, it has seem it’s shares decline by almost 10%, significantly underperforming the market. Any thoughts? Any thought on RKT. Analysts on Wall Street suggest a consensus price target of $24.96 with tremendous potential  growth upside. Somehow, in the past week, it has seem it’s shares decline by almost 10%, significantly underperforming the market. Any thoughts?
+
+ Nov. 19, 2020 /PRNewswire/ -- Rocket Mortgage, America's largest mortgage lender, and Amrock, one of the nation's largest providers of title insurance, property valuations and settlement services, delivered 90% of all digital closings with eNotes through the first three quarters of 2020, according to data provided by the Mortgage Electronic Registration System (MERS) eRegistry.
+
+With news headline like the above why isn’t rocket rocketing off?_END_OF_POST_PYSTOCK_ I’m 16 years old and have some dumb questions So one thing that kind of confuses is whenever you sell a stock—is it just instantaneously bought or does it take a couple minutes, hours, etc. to actually sell to someone?
+
+Another thing—in this sub’s rules there’s something about day trading that says you can’t make more than 3 day trades in a 5 day span or you get penalized or something. Why is that?
+
+Now a little bit more directly related to actual stocks: Are there any vaccine stocks you expect to do well. For instance, I know Moderna is doing very well whereas Pfizer and Johnson&Johnson aren’t performing as strongly? Also, why do you think these companies are performing the way they are?
+
+Nio has been doing very well obviously but I don’t really get why, or what to expect—any thoughts?
+
+Are there any good, under the radar “stay at home” stocks that you are aware of?
+
+Thanks for answering these questions, I know a lot of them were framed as “what do you think” or “what do you expect” and I get that no one knows for sure what will happen. I just want to hear some other opinions. 
+
+Sorry if any of these questions were typical “teenager” questions or frequently asked. I’m new to the sub and if there’s a mega thread or something that this post belong to please let me know._END_OF_POST_PYSTOCK_ ARK ETFs Comparison With the recent takeover battle between cathie wood and resolute, isit a right time to get into any of the ARK ETFs? Or would you wait out?
+
+Between all the ARK ETFs, which would you choose and why do you guys think it will outperform the others? Open for discussion 😁_END_OF_POST_PYSTOCK_ Help? My mom and I were going through some of my dads things and found old stock certificates. I looked up the company (GST Telecommunications) and found that they were bought by Time Warner some time ago. 
+
+Do these have any value now or is that window gone?_END_OF_POST_PYSTOCK_ Questrade paper trading vs. live I am looking at advices regarding trading plateform.
+
+I am thinking of going from Disnat Direct (Canadian Plateform) to Questrade. I have open a demo account for paper trading to get use to the plateform. The thing is, the app keeps closing on my computer  and the "scanner" fonction is not working...Does any of you experience such things with a real account? I don't know if it means anything but I am using a Macbook Air...
+
+Stay green !_END_OF_POST_PYSTOCK_ Stock Growth I was thinking of buying some stocks and have been holding off from buying for the past few months. I was thinking of buying some Amazon shares and cruise line shares like Norwegian. But what are some growth stocks that I should also do some research into?_END_OF_POST_PYSTOCK_ Looking for best dividend stocks or ETF! I'm going to start by putting 25$ in this account each week on M1 Finance, i want it focused on getting dividends, this is not my only account and have others with other investments. But i want to start getting dividends and watch it grow over the years, I just want to set it and forget it, no work! Should i choose 5-15 individual "dividend" stocks or just dump it all in a Dividend focused ETF? Thoughts?_END_OF_POST_PYSTOCK_ Looking at my gains scared that I won’t get any more I am a new and young investor when I saw that my favorite peripheral company Corsair was going public Immediately knew that it was a solid shot, i’ve been trading it for a while and then I have currently more than tripled my account value with it, however I’m doing it in an extremely risky manner I’m going full in on ITM options and expiring in may.
+
+I made a 100% return the first time sold it bought in again and I’m currently sitting on another 78%
+
+I want to withdraw my gains to be able to diversify a little bit currently I only have $300 left over the rest all tied up in the options, but I’m afraid that I’m going to sell today and then watch as in the weeks ahead it climbs and climbs and climbs and I miss out on thousands of dollars of profit any advice?_END_OF_POST_PYSTOCK_ Disney Stock What do you guys think about Disney’s future? I am talking about in the post-covid world. Disney seems to have that “invisible moat” because they own the trademarks and licensed of Marvel,StarWars etc yet it still has some drawbacks for growth...these are my questions:
+
+1-Disney invested a lot in Marvel Star Wars etc...but with time, less people will go to cinemas and half of the cinema theaters might even be out of business in like 10 years—people watch stuff on netflix or disneyplus these days rather than paying that direct money disney would receive from ticket prices...how will this affect them?
+
+2- they have all these trademarks but they dont make video games from them(where the real money is...)—they let others do it and get a cut—which might be a good strategy but if the cinema sector crashes then dont they have to move on to gaming to compensate loss profits? Gaming is gonna be bigger than cinema soon anyways
+
+3-I think Marvel had an incredible run the last decade but let s face it, the next generations will find those movies over the top and pretentious,,already people started laughing at them and they are being stigmatized—how long can Marvel keep this popularity if this stigma goes bigger? Also they ruined Star Wars so that s another problem—
+
+What do you think is the *bullish vs bearish* scenario for Disney?_END_OF_POST_PYSTOCK_ Quick question regarding selling stocks If i I purchase (and hold without selling) a stock for in a taxable account for $10, and it increases to $11, am I taxed on that dollar profit? Or will I be taxed once I sell it 6 months or 20 years down the road? I know if you hold a stock for over a year and then sell the tax hit is less.
+
+Thank you so much in advance for taking the time to read, and answer. Cheers!_END_OF_POST_PYSTOCK_ Amazon Anyone else feel like Amazon is setting up nicely right now? Been trading sideways for a few months, down \~$400 from ATH, COVID cases ramping, Black Friday/Cyber Monday on the horizon, holidays after that... picked some up this week at $3,099 average. Think we see $3,500 before Christmas._END_OF_POST_PYSTOCK_ The year is 2025. Someone says “Damn, I should have invested in that years ago!” What stock do you think they’re talking about? Obviously nobody can see the future, but are there some stocks you strongly suspect will take off in the next few years? What stocks do you think are the next Tesla, and why do you think that?
+
+A friend of mine thinks that Square, Alibaba, and airlines are the best companies to invest in right now. Do you agree with her?
+
+Also, she thinks that tech companies are the worst to invest in right now. She thinks that they’re massively overvalued and will crash in the next year or two.
+
+Over the next five years, what companies do you think will be the best investment, and why do you think so?_END_OF_POST_PYSTOCK_

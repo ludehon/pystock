@@ -1,0 +1,888 @@
+ Where to view real time buy-sell orders to see when large blocks come through? Example: [https://charts.stocktwits.com/production/original\_259458208.PNG](https://charts.stocktwits.com/production/original_259458208.PNG)
+
+&#x200B;
+
+Is this just called level 2 analysis? If so, I've tried level2quotes.com ; however, it only shows like 10 orders at a time. Would like soemthing more comprehensive._END_OF_POST_PYSTOCK_ Tomorrow: “Why isn’t my trading platform working!I hate this app!!😅 Tomorrow is thanksgiving day my dear fellow investors/traders which means all US stocks will be closed for the day. Its going to be definitely a boring day seeing no activity in our trading platform but lets enjoy this Thursday!. Taking the day off and going for a walk certainly helps.
+
+Ps: The US stock market will close at 13:00 on Friday (18:00 GMT)._END_OF_POST_PYSTOCK_ Quick question regarding the currency increase/decrease of stocks So I have the case where I bought WORK last year at the IPO. 80x$40.29. (DeGiro in the Netherlands)  
+It was going up and down that day so I thought I sell at $44 again but the system had an error and I could not trade the stock that day anymore. Of course it went downhill from there.   
+So I thought I just sit it out because I was quite positive that it will go back up eventually.   
+A year later, and it is back up again. So I was checking my account and noticed that even though the current price is higher than my buying price ($40.29 to $40.70), I have a negative of around €125. 
+
+Screenshot:
+
+[https://ibb.co/yfchVdJ](https://ibb.co/yfchVdJ)
+
+  
+So I came to the conclusion that it is probably the exchange rate from $ to ‎€, but don't really grasp the concept of what happened.   
+Can somebody explain it for dummies?_END_OF_POST_PYSTOCK_ PLTR call help I brought PLTR for the first time today at 24...and I'm ready to give my option virginity to this stock. What is a relatively safe option call for PLTR for me to test the water? I am aware that it's still a gamble at the end of the day. Just want to see what recommendations there are from strangers on the internet._END_OF_POST_PYSTOCK_ When to sell UPS Stock? Now or Jan 2021? I'm currently unemployed due to a covid layoff and have decided to sell my shares of UPS stock. The problem is I do not know much about stocks and only accumulated this through work.
+
+What would you recommend for the highest payout? A former co-worker recommends to hold off until 2021. I do not want to get too greedy either because the money would help so may just do it now._END_OF_POST_PYSTOCK_ VIX Kept an eye on it this year and regret not Buying in when it was low and it popped twice afterward.  Third time I enter when it’s low and the bastard kept dipping.   I have shares of UVXY and willing to stay very patient.   Should I bail and follow the trend or dump position?
+Worried this bastard will go to 0 and reverse split._END_OF_POST_PYSTOCK_ Taxable net income of stock trading (Individual vs Net)? I'm a little confused about tax system in stock trading. Is it individually taxed, or net income based?
+
+ex) Let's say I have bought stocks A,B,C this year, and sold some of them.
+
+A: -$5000 (sold)
+
+B: +$5000 (sold)
+
+C: +$3000 (holding)
+
+And let's assume my tax bracket is about 30%.
+
+In this case, how much tax is generated from stock trading this year?_END_OF_POST_PYSTOCK_ If bears focus on fossil fuel companies - are they guaranteed a win? Disclaimer - I'm not a bear nor have ever shorted a stock but just curious about the concept. 
+
+As we know renewables are the future, fossil fuels are gonna be phased out. Would it be a guarantee win to short  companies with strong rev coming from oil?_END_OF_POST_PYSTOCK_ VYM - Vanguard High Dividend Yield ETF Looking for some thoughts on if now is a good time to buy (VYM) Vanguard High Dividend Yield ETF. Seems pretty well diversified (417 holdings). Trying to figure out if now is a good time to purchase! Any help is appreciated!_END_OF_POST_PYSTOCK_ I draw with crayons so you don't have to. Update: current 'unrealized' gain this week of $1,900 or 3% On Sunday I posted my [game plan for the week](https://www.reddit.com/r/stocks/comments/jz7n7u/i_draw_with_crayons_so_you_dont_have_to_last_week/) outlining some stocks that were on my watchlist in terms of technicals and entry-points. I updated my plays on Monday morning with my positions.
+
+Due to the short trading week I will be looking to HODL all these positions until next week and maybe close out Monday if we get another pop. I'll still be putting together my game-plan on Sunday for stocks to keep an eye on just incase I close some positions Friday or Monday and free up some capital.
+
+Keep in mind Monday after I entered these positions they all continued to dip. **I was down $600** by mid-day of the Monday trading day, but I wasn't even sweating. I have good entry points and am prepared to HODL shares as always. Yesterday and today was some nice price action for my account as yesterday I regained my losses from Monday and reclaimed the green side and today also gave me a nice jump. Up $1,200 just today on my positions.
+
+These are currently 'unrealized' gains because I haven't sold my positions yet and anything can happen.
+
+**New Position**
+
+**PTON:** Yesterday PTON dipped hardcore down 6%. It was too tempting to resist and sold a put to open when it was down 4%. It continued to dip some more, but I am ok with that. 
+
+I sold the December 11 2020 $101 strike put for $3.6 or $360 in premium. Break-even point is going to be if the stock dips below $97.40, which I dont think it will get that far. If it does I'm completely ok wheeling this stock. It's got strong fundamentals and also a nice IV to collect premium.
+
+**Current Positions**
+
+**PTON:** Mentioned above.
+
+**FB:** Had a nice gain here, will look to close out next week if it continues going up. My strike is pretty safe here and I don't think it will be getting contested.
+
+**KR:** Shares + covered calls. This thing barely moves, but I do expect a very slow grind up.
+
+**LULU:** Going to exit this position next week if I can squeeze out another 10% gain. It's December 18 expiration so it still has a long time to go just for that 30% gain.
+
+**MSFT:** Shares. Slow and steady grind hoping I can get closer to my price target of $220 where it will meet the armed guards of the resistance.
+
+**NVDA:** Shares. Had a good little pop today, I still think this can get up to $550 before I close out my shares and look for new opportunities.
+
+**SHOP:** Shares. SHOP had a great today. Started the week at the bottom of the trend/channel and is starting it's grind up to the upper side. Looking for $1,050 before I consider exiting my shares.
+
+[Positions Screenshot](https://imgur.com/a/4ZlNIfI)_END_OF_POST_PYSTOCK_ Simple question: is it possible to predict a stock split? Dear fellow investors,
+
+you can notice from the title of this post that I am not the most experienced investor yet. Therefore I have one simple question : are there any indicators, which could point toward an upcoming stock split? Or are stock splits something, which CEOs just decide to do from time to time?
+
+Why am I asking: TSLA. Their stock is slowly going in the direction of 1000$ per share (again). Last time Elon said he wants to split to stock, so it can become "cheaper" and therefore accessible to more investors.
+
+On the other hand: Amazon. Their 3000$ per share monster should be already split (based on the reasoning of Tesla), but it isn't yet. 
+
+What or who decides to split a stock?
+
+Thank you very much for your input._END_OF_POST_PYSTOCK_ Screening for stocks about to break out How do you guys feed your watchlist for tickers to keep an eye on?
+
+I have been using the 52 week high list on Thinkorswim and the volume screeners on barchart.com
+
+I’m looking to find more stocks that are breaking out or about to break out of a base, not only at a new high. Anyone know a way to find these ones?
+
+Also tried using IBD.  
+
+I’m wanting to set up buy stop orders in advance._END_OF_POST_PYSTOCK_ New energy stock I’ve been hearing a lot about this new stock OEG lately, It’s up 100% in like a week. Is now a good time to buy? Is anyone currently invested ? I have around 1000 I’m looking to invest in a high risk high growth stock so I was thinking about putting it into this one._END_OF_POST_PYSTOCK_ Is the other shoe going to drop? It seems like we're in the middle of an insane period of growth, but at the same time millions of people are out of work, their industries are going to disappear or take a huge hit, and it seems like come January millions may be evicted/foreclosed on.  At what point is the stock market going to more accurately reflect the economy?  I'm happy about the gains but is anyone else waiting with bated breath for the coming contraction?_END_OF_POST_PYSTOCK_ Dividend Capture Strategy This tutorial is the process that I go through using dividend stocks to find and evaluate my swing-trades every month. If you have any idea’s or questions about the strategy, please comment below. 
+
+Lets say that we have a stock XYZ that pays a dividend on a monthly basis. At certain points during the month we might not know when the next dividend payment will “officially” be paid out. Most monthly dividend stocks pay their dividend in a pattern each month like on the 2nd Friday of the month or the 10th trading day of the month, etc. The company usually doesn’t publish this information but if you inspect the historical data then you can see the trend or pattern that they use for their ex-dividend date and record-date. We might be able to estimate when the ex-dividend date and record-date will be but until the company officially announces these dates then it will only be an estimate. The day when the company actually announces these dates is referred to as the dividend declaration date.
+
+After the dividend declaration date occurs we have all the dates that we need for the swing-trade, namely: the ex-dividend date, dividend record-date, and the dividend payable date. If we are not able to estimate these dates before the dividend declaration date then it will not be possible for us to do the analysis needed to setup our dividend swing-trade or dividend reinvestment position. For this reason, I typically only enter positions when the ex-dividend date has been confirmed by the company. 
+
+Now that we have all the dates that we need we can start looking at what each one of these dates means.  If I want to collect the dividend on each share of XYZ that I purchase, then I must make sure that I buy XYZ shares before the ex-dividend date. If I buy a stock one business day before its record date, my trade will only settle the day after the record date. I would therefore not be a shareholder of record for receiving the dividend.
+
+So, in order to make sure that I qualify for the dividend I want to buy the stock at least two business days before the date of record, or one day before the ex-dividend date. 
+
+[Where to buy](https://imgur.com/a/ohm0AgT)
+
+Using the graphic above as an example I would need to buy the stock on Monday the 5th to be eligible to receive the dividend payment. Monday the 5th is two trading-days before the date of record and one trading-day before the ex-dividend date. Now it should become more obvious why I use one trading-day before the ex-dividend date as the sell date for my swing-trades. This is a major part of my strategy as I use the run up into the dividend ex-date to make swings.  
+
+The goal for my swing-trades is not to capture the dividend but rather sell my shares at a premium price to the buyers that are willing to pay a premium during the days leading up to the day before the ex-dividend date so that they will be on the record books and will therefore collect the dividend payment for the stock. You can receive gains many times the amount of the dividend by buying early and then selling the rights to these dividend shares 1 day before the ex-dividend date.
+
+People who are in search of high dividend yield using the dividend capture strategy are willing to pay a premium for their shares in the days just before the ex-dividend date because they don’t want to miss out on the dividend payment. The fear of missing out is a very motivating force in the minds of men and women alike and it can be seen in the data that I have collected over the last few years.  
+
+So just to recap the overall strategy is to find a dividend stock that typically has a run up into the ex-dividend date.  To do this I look at historical data 2-14 days prior to determine when the run up into earnings typically starts. 
+
+
+A couple of suggestions:
+1.)	Don’t swing trade stocks that are at or very close to their 52-week high 
+2.)	Look for stocks that have been in a down trend since their last ex-div date 
+
+Example: 
+
+To start I narrow my search to stocks that have an ex-date 2-3 weeks out.  This usually brings my window of stocks to research down to about 30-40 stocks.  For this example, I will be looking at stocks with a confirmed Ex-Date between 12/01/2020 and 12/10/2020 this narrows my window down to 18 tickers. 
+
+The stock Tegna (TGNA) looks to have a pretty good setup to me.  TGNA has a quarterly dividend.  At the moment it is about 20% off of its 52-week high..  For this example, I am going to look at the previous 24 dividend Time Periods to determine statistically when Is the best time to buy. 
+
+The below chart shows historically what day has been the best day to buy if I plan on selling the shares 1 day before the ex-dividend date. The chart shows from 2 days out all the way to 14 days out as I have found this Is the sweet spot for the run up into ex-dividend. 
+
+[Historical % returns by day](https://imgur.com/a/Ovuuyh9)
+
+It is clear that for TGNA buying 13 – 14 days out is the way to go (remember this is looking at the pasts 24 dividend periods or 6 years).  Though all of the days running up into ex-dividend are positive.  This is a great sign as history is on our side that this is a good stock to dividend swing trade with. Meaning that historically if I consistently bought all days 2 through 14, I would have been profitable.  To take it one step further I look at what would have happened if I bought 14 days out for each of the previous 24 dividend swing plays. 
+
+In the below chart you can see the exact percent gains for each of the last 24 dividend swing trades if I went with the 14 day out strategy.  When taking a closer look, we can see that there have been swings has high as +30% and as low as -10% which is huge.  I prefer to take a safer approach as I am really only going for a small 3-5% gain each month as I have found that works a lot better in the long run.  
+
+[14 Day Returns for each of the pervious 24 dividend periods](https://imgur.com/a/OhWXVxY)
+
+
+To go with a more conservative approach I look at the previous 24 dividend periods for 6 days out.  What I find is that only 2 / 24 previous swing trades on day 6 would have resulted in a loss and only one of those periods would have been significant.  This is more of my style and likely the play that I will go with. 
+
+[6 Day Returns for each of the pervious 24 dividend periods](https://imgur.com/a/zZG1zZh)
+
+Since the confirmed ex-date for TGNA is 12/10 I will be looking to buy on 12/2 and sell on 12/9.  For this specific example looking at the data I can see that days 2-14 have all be profitable I will likely buy in slowly over the entire period with the majority of shares bought on 12/6.  
+
+I have used this strategy for quite some time and have basically perfected it to the point where on average I am getting returns in the 2-5% region per month.  There are other ways to improve this strategy as well, but I wanted to see if people here were interested in this type of swing trade.   
+
+
+Important Terminology: 
+
+ Ex-dividend Date: Is the day in which the stock begins trading without the subsequent dividend value.  Investors who purchased the stock before the ex-dividend data are entitled to the next dividend payment while those who purchased the stock in the ex-dividend date, or after, are not. 
+confirmed ex-dividend date – This is the ex-dividend date that has been officially announced by the company on the dividend declaration date. 
+
+dividend capture strategy – A dividend capture strategy is a timing-oriented investment strategy revolving around the purchase and sale of dividend-paying stocks. Dividend capture is specifically the practice of buying a stock just prior to the ex-dividend date in order to capture the dividend, then selling it immediately after the dividend is paid. 
+
+
+dividend record-date – The record date, or date of record, is the cut-off date established by a company in order to determine which shareholders are eligible to receive a dividend or distribution._END_OF_POST_PYSTOCK_ Now or wait for a dip I want to invest a good amount I just liquified from my bank. So I'm not sure if its clever to wait for a dip or if the market will keep rising so hard. I know that the market is up because of the vaccines and the optimism coming up but on the other hand the covid cases are at an all time high._END_OF_POST_PYSTOCK_ Do you let extremely ITM options ride out? do u guys let ur options that are very itm ride out? im up 107% on my baba 260c Dec 31 and up 2% on my baba 277.5 Jan 15, is it better to cover my cost basis and sell the one thats really itm? or let it run because the greeks are better on it like what do you guys normally do? and are the greeks actually better because its more ITM for my 260c vs my 277.5c?_END_OF_POST_PYSTOCK_ Question on when to sell around winter holidays. I heard after winter holidays stocks tend to drop. Is this true? Right now im mostly concerned about black friday. If its true should I sell before, the day of, or a day after black friday? Sorry im a new trader who hasnt been trading a year yet. Any advice AT ALL for a newcomer is welcome!_END_OF_POST_PYSTOCK_ AstraZeneca bom profit Hi everyone
+
+I'm trying to get into the world of stocks and I have health background so decided this is the area where I should invest. 
+This pandemic opened the doors for a lot of pharmaceutical companies to profit and AstraZeneca os one of those. 
+Regarding a Covid19 vaccine and understanding the technology I think this is going to be the most elected vaccine in the world l. Although AstraZeneca os going to sell billions of doses they sent a press release stating they are not going to take profits from this and so the vaccine is going  to  be 3-5 dollars.
+
+How does this attitude towards profit play in the market? Is it going to soar long run or because they are not going to profit from this it is a red flag to not invest. 
+
+Appreciate any thoughts on this._END_OF_POST_PYSTOCK_ Parents won’t let me buy more stock I’m 17 and make minimum wage at a grocery store working 25 hours a week while in high school. I minimize expenses and don’t have a debit card. My parents think me trading stocks is the same as gambling. How can I convince them to let me invest more? I have 5.5k in savings and only 550 in my portfolio._END_OF_POST_PYSTOCK_ Buy ASANA ($ASAN) before the next earning call in 2 weeks. Why?
+
+1. Product? [https://asana.com/product](https://asana.com/product) superior product to their competition. I'd be very worried if I were Atlassian. 
+2. Customers? [https://asana.com/customers](https://asana.com/customers)  Literally, all the top companies have started using them.
+3. Leadership? [https://asana.com/leadership](https://asana.com/leadership) they have top leadership fully invested in the company long term.
+
+Next earning call? December the 9th.
+
+If you missed the PLTR train, you might not want to miss this too._END_OF_POST_PYSTOCK_ Corsair Gaming (CRSR) - time to sell? So I popped my investing cherry by buying into Corsair Gaming (CRSR) at about $25 recently. After some incredible daily growth all the way up to $51.26 in a short space of time, it has just dropped sharply to $42.66 in one day. These guys say Corsair is flashing sell signals: [https://www.investors.com/research/ibd-stock-of-the-day/corsair-stock-ipo-flashing-sell-signals/](https://www.investors.com/research/ibd-stock-of-the-day/corsair-stock-ipo-flashing-sell-signals/).   
+Who out there bought in too? What are you thinking?_END_OF_POST_PYSTOCK_ NAK IS DOWN Northern dynasty minerals (NAK) just dropped around 50% from .80 to .39. Sounds like a good time to buy before it goes back up to .80 
+
+It has been at .80 for over 2 weeks and it just dropped completely at 10:40 am today to .3911. It’s gonna go back up so if you want some quick money invest now before it goes back up.
+
+This is like investing in SNDL but with this, there is profit for sure!_END_OF_POST_PYSTOCK_ So happy I found this stock :TOUR (Tuniu) I bought some Monday at $2.22 then this morning at $4.16 . It fell to $3.43 so got few more stocks .
+
+Has anyone seen buses full of Chinese tourists ? They don't travel in couples or rarely as familes. 
+
+I've been to Bangkok and other parts of Asia and in hotel lobbies and tourist sites you have to deal with them! I hate it but in a growing economy more and more Chinese are traveling. 
+
+I couldn't find another stock related to travel .
+I've never been on a cruise so no idea if that is another way to benefit_END_OF_POST_PYSTOCK_ Will $PLTR dump or keep rallying after 30? I wanna know what you guys think about this. Would it be realistic to expect a dip and shoot back up, a sell off, or a nonstop rally to $500? 🚀 As of right now the sentiment seems pretty positive with the fact that canada bought an ass ton of shares and PLTR is the only thing that matters on all of the investing subs._END_OF_POST_PYSTOCK_ WidePoint Awarded the U.S. Department of Homeland Security Cellular Wireless Managed Services (CWMS) 2.0 Contract Contract Award Ceiling of $500 Million FAIRFAX, Va., Nov. 25, 2020 (GLOBE NEWSWIRE) -- WidePoint Corporation (NYSE American: WYY), the leading provider of Trusted Mobility Management (TM2) specializing in Telecommunications Lifecycle Management, Identity Management and Digital Billing & Analytics solutions, announced today that the U.S. Department of Homeland Security (DHS) has awarded the Cellular Wireless Managed Services (CWMS) 2.0 Contract to WidePoint. Valued at up to $500 million, this new Indefinite Delivery, Indefinite Quantity (IDIQ) contract, which was executed on November 25, 2020, has a one-year base period with four 12-month option periods extending through November 24, 2025.
+
+“WidePoint is honored to win the new DHS CWMS 2.0 contract and looks forward to continuing to deliver our comprehensive, commercial CWMS solution to DHS and its Components,” said Jin Kang, WidePoint’s chief executive officer. He continued, “The mobile landscape has evolved significantly since the first CWMS contract was awarded to WidePoint in 2013. The new DHS CWMS 2.0 contract continues DHS’s visionary leadership for maximizing mobile equipment and services and understanding the scope of services that will be required by DHS and its Components in the coming years.”
+
+Todd Dzyak, president of WidePoint Integrated Solutions Corp., and the executive leading the DHS CWMS program, stated, “WidePoint is excited to team with the wireless carriers and our other innovative strategic partners to ensure that the vital missions of DHS and its Components are supported. WidePoint looks forward to building on the foundation of our success to ensure that DHS is always able to access the best services for reducing costs, achieving operational efficiencies and enhancing security.”
+
+Kang added, “WidePoint thanks our team for their dedication and expertise. We also thank the DHS team members across all of the Components for their collaborative efforts and commitment to excellence. This program is a backbone of the mobile infrastructure essential for protecting our nation.”
+
+About WidePoint
+WidePoint Corporation (NYSE American: WYY) is a leading provider of trusted mobility management (TM2) solutions, including telecom management, mobile management, identity management, and digital billing and analytics. For more information, visit widepoint.com.
+
+Investor Relations:
+Gateway Investor Relations, Matt Glover or Charlie Schumacher 
+949-574-3860, WYY@gatewayir.com
+
+[WYY Contract](https://www.globenewswire.com/news-release/2020/11/25/2133948/0/en/WidePoint-Awarded-the-U-S-Department-of-Homeland-Security-Cellular-Wireless-Managed-Services-CWMS-2-0-Contract.html)_END_OF_POST_PYSTOCK_ PLTR PLTR is doin  amazing and with the amount of hype behind it, it’s gonna keep rising to $40. PLTR in itself is amazing company and now with army backing and ability to run distribution the vaccine network for USA it’s gonna go till at least $40. The ceo himself is very bright and his hairstyle is amazing. Attractive ceos outperform the ugly ones! Anyways back to following which large firms are jumping on board the PLTR stock, CPP just bought 230 million shares worth!_END_OF_POST_PYSTOCK_ Seems like CRSR was getting a pump and dump? Down around 18% today. Too much hype? People trying to make a quick buck? I have no position in it but it's been on my watch list since someone made a big post a few weeks ago about it.
+
+This a temporary drop you think, or is there more correction to be done?_END_OF_POST_PYSTOCK_ Rural Broadband Let me preface this by saying I’m new to investing. That said, let’s go with my first Stocks post!
+
+It seems like the new presidential administration is going to push for broadband for all. I am thinking about investing in a few telecom companies to try to reap the benefit of the multi billion dollar govt aid to make this happen. Any ideas or educated guesses on what telecom companies might get a boost over the next 1-4 years from this?_END_OF_POST_PYSTOCK_ Old stock certificates I guess I’m not allowed to post a photo here but I just came across an old relatives’ old stock certificates.  I guess I could just list them, but I’m really just wondering how I find out if these companies got bought out, if these certificates still hold value, etc:
+
+American home builders, inc in Beachwood Oh
+5 shares purchased in 1931
+
+General Necessities Corporation in Detroit MI
+125 shares purchased in 1926
+
+There’s also what I would guess is a bond; it’s for $1000 around 1930 for Denver & Rio Grande western Railroad.  This is really cool it has a bunch of $25 coupons attached to it.
+
+Any help or direction is much appreciated.  These are in perfect condition, if anything it’s just cool to look at._END_OF_POST_PYSTOCK_ QELL question QELL 
+
+Did an IPO couple months ago under QELLU
+
+Just three days ago opened QELL for buying 
+
+I understand QELLW = warrants 
+
+**But whats the difference between QELL v. QELLU?**
+
+
+I bought and own shares in QELL (not much but play money). Im wondering if I bought the wrong shares. I want to make sure I get into the entity that they help to go public._END_OF_POST_PYSTOCK_ Thoughts on Adobe (ADBE)? I was thinking of getting into this stock, but I'm just not sure yet. I like its base of creative professionals and I've already made an immensely profitable play on this (FVRR). What do you guys think?_END_OF_POST_PYSTOCK_ Why is PLTR jumping so much today? I can't find any catalyst for today's mega-move other than frenzied buying on a wave of euphoria & speculation. Some are saying that the stock was undervalued at issuance due to its non-traditional IPO. 
+
+What are your thoughts? Any idea why it's melting up?_END_OF_POST_PYSTOCK_ Do you know which are some of the highest graded gold deposits in world? It is Epithermal Gold deposits it is, reason being magmatic driven heat leads to hydrothermal convective systems and that too 5-10  km of earth's upper crust. One of the company named Ximen Mining Corp (XIM.V) holds a property there by the name Brett Gold Porject. They also owns 100% of it and were in the process of submitting application underground exploration at Brett. Go check it out_END_OF_POST_PYSTOCK_ Ultra-cold Freezers sees demand surge | Any "Ultra-cold Freezer" stocks out there? Since the vaccines need to be stored at really low temperatures and there is a demand for ultra-cold freezers and storage, any low key stocks out there that will see boosts due to this demand?
+
+&#x200B;
+
+[https://www.cnbc.com/2020/11/25/ultra-cold-freezer-maker-sees-surge-in-demand-to-store-covid-vaccines.html](https://www.cnbc.com/2020/11/25/ultra-cold-freezer-maker-sees-surge-in-demand-to-store-covid-vaccines.html)_END_OF_POST_PYSTOCK_ MGNI is GROWTH play Hey, this is easily a super growth stock. It's heavy into digital marketing (ads in connected tv such as hulu, peacock) that is in the future. Ads are one of the best businesses as we know, streaming services are the future (they are dominating now as well), and this company has huge potential. There CEO has a good reputation, and this stock has been gaining an upward trend (which is awesome as it puts its name into shareholders and potential shareholders). I bought into today. What your guy's thoughts on this? The stock is still undervalued, I see both Long term plays and short terms plays. Definitely a stock you want to research!_END_OF_POST_PYSTOCK_ Thank you redditvestors Just wanted to say thank you to the legends who recommended a few companies. I went from $500 to $6K, the most amount of money I've ever had in my entire 24 years of living, at once. Just in time for my baby boy's birth and my missus' birthday as well... 
+
+So from the bottom of this stranger's heart, thank you for being right. 
+
+Love,
+ 
+Hopeless online retard x
+
+EDIT: For those wondering the companies are PLTR, NIO, XPEV, DKNG (a couple of other outliers like airports.)
+
+EDIT 2: WOW. Thanks for the awards and the amazing discussions! I hope we all have good luck in the coming months!_END_OF_POST_PYSTOCK_ LGVW taking butterfly network public In the world of SPACs in 2020 this is one that I am excited about. Currently Longview is trading at around 17$ after a 70% run up the past few days. The market cap of Longview is around $900 million.
+
+Butterfly network currently offers ultrasound devices that can be connected and used through phones, which in developing economies such as India, will definitely see growth. They are selling their product for $3000 per unit and on their website they claim to have already sold 30,000 units to hospitals and other medical facilities. 
+
+The valuation that Longview is taking butterfly public at is $1.5b. I see Alot of room for growth after the deal is supposed to finalize in q1 2021. A mobile ultrasound device could be used in places like Africa, or as I said previously developing economies like India where they may lack certain technology in hospitals or smaller facilities. 
+
+Wondering if anybody else has been watching this, at a $900 million market cap, I can see a lot of growth once the ticker changes in a few months._END_OF_POST_PYSTOCK_ JMIA is the ideal FIRE stock This stock is bonkers to a whole ‘nother level. So meet African Shopify/Amazon 
+
+Jumia NYSE: JMIA 
+
+I provided a full description if you care to read but, here is the Reddit analysis you care for. Think of Africa for a second. It’s not a country fyi, it’s a whole continent of people. A country that is developing so rapidly right now due to the boom of technology at our fingers. A country that every single big tech is trying to get into. Google literally flies wifi on top of Africa to provide wifi to the poorest regions. The people in the richest regions are so rich that they travel the whole world like maniacs. Think of the movie black panther showing the potential in African society. That utopia society is happening now. Africa is growing. So invest in African e-commerce. Invest in a company that is so overlooked. It’s growing now and it won’t stop soon. This is gonna be a 2 year hold guaranteed for me. I’m not taking this out of my portfolio to even avg down. JMIA to the moon baby. 
+
+They got a market cap of 3 BILLION. This isn’t a small cap. 6 week rally of 400% so far and not slowing down. While everyone investing in China for EV, why aren’t you investing in the largest booming economy. Do you own DD and check out how much Africa is growing. Buy the rumour before it’s mainstream. E-commerce is the fastest growing economy and I know all of you already buy from Amazon Wayfair Etsy eBay shopify etc. I hope this brings some light to JMIA and if you aren’t investing atleast open up to African economy. No rocket emojis. 
+
+Read this if you want or scroll to the bottom: 
+
+Jumia Technologies AG operates an e-commerce platform in Africa. The company's platform consists of marketplace, which connects sellers with consumers; logistics service that enables the shipment and delivery of packages from sellers to consumers; and payment service, which facilitates transactions to participants active on the company's platform in selected markets. Its marketplace offers various products in a range of categories, including fashion and apparel, smartphones, home and living, consumer packaged goods, beauty and perfumes, and other electronics, as well as access to various services, such as restaurant food delivery, hotel and flight booking, classified advertising, airtime recharge, and instant delivery. The company was formerly known as Africa Internet Holding GmbH and changed its name to Jumia Technologies AG in January 2019. Jumia Technologies AG was founded in 2012 and is headquartered in Berlin, Germany. (Sourced from Yahoo Finance)_END_OF_POST_PYSTOCK_ Why Secretive Palantir Is Climbing Today - PLTR Stock "...It appears that PLTR stock bulls are actually *excited* that Biden won the presidential race. This gives Palantir the chance to break away from Trump and his controversial administration. Importantly, it also gives the company a chance to align itself with a more stable government.."
+
+[https://investorplace.com/2020/11/pltr-stock-why-secretive-palantir-is-climbing-today/](https://investorplace.com/2020/11/pltr-stock-why-secretive-palantir-is-climbing-today/)  
+
+
+You can read more on the article above, do you agree? Or is the hype and price justified elsewise?  
+
+
+*P.S. You guys can also join the Palantir related subreddit* /r/PalantirTech *for more discussions (There is a Discord server as well). If this is not allowed please remove it from my post.*_END_OF_POST_PYSTOCK_ i simply can not believe how much tesla goes up i'm just mad that i got out 7 percent ago when i thought it peaked. i was already up 20%. today it was 2% down premarket and came back up to +2 right now. this stock defies logic. diamond hands out the ass. nobody wants to profit take._END_OF_POST_PYSTOCK_ $NGA NGA is rumoured to be merging with lion electric , they look like a solid company that is growing fast. Anyone have any thoughts or dd on this? I’m not too knowledgeable about this kind of stuff. Upside looks good and small downside._END_OF_POST_PYSTOCK_ From the 30m perspective the price of ZKIN is in a descending triangle pattern and is most likely to retest weekly resistance level, which now acts as support located at $2 per share. I vanna share my ZKIN 30m analysis with you/
+
+On 30m time frame of ZKIN we can see that a descending triangle has formed which has bias to  break to the downside as the bullish momentum is decreasing.
+
+The formation has already managed to see a break to the downside, which dip was bought during the analysis, but it’s too early to call it bought dip because first of all the trend line resistance of this triangle have to broken in order to cancel this bearish formation.
+
+Break of $2.50 will deny the bearish outlook, while the break below $2.16 (recent low) would bring bearish momentum pushing the price further down to $2.
+
+MACD is performing a next buying wave test, a break of $2.50 can possible result in another buying wave on this time frame.
+
+RSI is in clear uptrend of higher lows.
+
+Price found support at 20 EMA on 15m time frame.
+
+Overall the look is more bearish then bullish and the retest of weekly resistance, which now acts as support located $2 per ZKIN share is expected. 
+
+We consider this move as a healthy correction from the 80% spike, the fact that the price is above $2 is very bullish in short term._END_OF_POST_PYSTOCK_ You should be careful about “Recovery Stocks” I see a lot of posts about investing in airlines, hotels, and all this stuff. It’s not a bad idea, to be clear. Obviously as the pandemic winds down people will resume old travel habits for the most part. But just because the industry will recover doesn’t mean the companies will. A lot of people seem to be taking that for granted.
+
+The US (and most of the world) entered the peak (not the beginning) of the financial crisis in September, 2008. By January, I’m sure plenty of people had the awesome idea to invest in some recovery picks. 5 months after that, in June 2009, GM filed for bankruptcy protection. That’s a 9 month lag time. The peak of the COVID outbreak was March and April, so a similar 9 month timeline runs through January. We aren’t there yet.
+
+Remember 9/11? That was in 2001. Everyone knew air travel would eventually recover. It wasn’t at all crazy to invest in recovery plays after a year or so. But not everyone recovered, as Delta Airlines filed for bankruptcy 4 years later, in September of 2005.
+
+“Are You Ready for the Technological Revolution?” is an omniscient article that was written in February of 2015. Tech had already taken off and the sectors dominance was inevitable. RadioShack (a tech specialty store) missed the memo, they filed for bankruptcy that exact same month. 
+
+The point of all this, **and the tl;dr**, is that it’s not as simple as recovery = profits. No matter how amazingly the travel industry rebounds in 2021, it’s a certainty that there will be casualties and money will be lost. Please, choose carefully. 
+
+Links:
+https://en.m.wikipedia.org/wiki/Global_financial_crisis_in_September_2008#Developing_global_financial_crisis
+
+https://en.m.wikipedia.org/wiki/General_Motors_Chapter_11_reorganization
+
+https://en.m.wikipedia.org/wiki/History_of_Delta_Air_Lines#Bankruptcy
+
+https://www.weforum.org/agenda/2015/02/are-you-ready-for-the-technological-revolution/
+
+https://www.investopedia.com/articles/investing/081315/5-reasons-why-radioshack-went-out-business.asp_END_OF_POST_PYSTOCK_ Guns & Weed Americans loaded up on guns in response to the pandemic. It doesn’t take a genius to predict a similar spike in response to papa Joe winning the election. The bulk of this sale spike may not have even materialized since many of the biggest gun buyers still expect Trumpy to stay in power, and also because discretionary spending has been impaired without a second round of stimulus and persistent unemployment. Another round of stimulus checks and a full concession by Trump will spur unprecedented gun sales. The market leaders, Smith & Wesson (SWBI) and Ruger (RGR), are my picks because reasons but it doesn’t really matter which gun stonk you stonk. 
+
+For the longer term, will Joe have the eggies or political ability, or time, to take on the gun industry? Probably not. He will piss people off whether he takes a strong stance on guns or not, but with Trumpy gearing up for a 2024 run, Joe has more to lose politically by pissing off gun loving conservatives than progressives who will vote for him in 2024 no matter what. 
+
+With cannabis, Joe has a political layup at his disposal. Expect further legalization of marijuana in the very near future. NIC Inc. (EGOV) is my personal favorite but like guns it’s an industry play so the others should also fare well. 
+
+I’m all in on EGOV & SWBI in the Roth_END_OF_POST_PYSTOCK_ A guy made a post on here a few weeks ago... have my children kind sir I don’t know who you are but you can be my dad. Basically this guy put out a post simply saying that NIO and Palantir will be huge and I was already invested in them but something about this GUY made me twice as convinced (he should become a salesman) so I then decided to hugely increase my positions in both and now palantir is on the craziest run ever. Ty whoever you are and comment if you see this_END_OF_POST_PYSTOCK_ DSGT a stock nobody knows about, yet.. Impirium Motors, DSGT's wholly-owned subsidiary; Sells and distributes Skywell and Jonway EV's. They just got there DMV license to sell In California and Mexico. They have a Full line up of Highspeed, Midspeed, and low speed vehicles. SUV's, Trucks, and Sedans. Not to mention golf carts, motors bikes and quads. This stock is JUST getting started._END_OF_POST_PYSTOCK_ Palantir...how? Okay totally understand a day of 20% gains, but honestly this is a little insane, what and when do we expect pull back? This is like 3 days of 20% gains..it doesn’t even make sense. I know I’m not providing much information, I’m kinda just wondering what people’s thoughts are. 3 days of 20% gains and no pull back is just, sounds too good to be true_END_OF_POST_PYSTOCK_ Upcoming Upside Potential: Whiting Petroleum (WLL) I haven’t seen anyone talking about this on here since their filing for bankruptcy earlier in the year. The filing was obviously related to COVID and with other stocks finding their footing again, WLL seems poised to jump for extremely hefty returns, unless someone sees an alternative angle to this which I do not. I’ll explain: 
+
+In January 2020, the stock sold around $500/share. 
+In 2018-2019, the stock sold around $1-2k per share. 
+
+
+Right now, it’s trading at $20/share. It’s only up $5 or so from it’s lowest point initiated by the bankruptcy. I don’t see legitimate reasons on why this isn’t going to skyrocket sometime soon. It’s risen ~50% this month alone while still trending at the named share price. I don’t see why in a few months to a year it won’t return to at least $250-400/share. I mean, pure speculation, but why wouldn’t it? Everyone looks for opportunities and no ones talking about this so figured I‘d share the buy opportunity.
+
+
+
+P.S. I reaped my first profits today! I’d like to thank the PLTR pushers for making me buy in. I’ve already gained 20% on my investments and I’ve only been at this since October. A lot better than sitting in a bank account 🙏🏼_END_OF_POST_PYSTOCK_ $AMPG - good price point to enter After long searching, I finally may have found a cheap penny stock that I could use for short sells. She’s had quite the movement in the last few days, but also I know better than to buy when it’s spiking. To anyone else working with this stock, what’s a good price point to enter. I set an alert for when it drops from 0.15 back down to 0.10 ... how does that sound? Does anyone else have insight for this stock?
+
+With a price point so low, any swing will have a huge effect. But that’s the point, right? If I get in at 0.10 and even sell at 0.13, that’s a 30% gain possibly quite quickly if I set an automatic sale._END_OF_POST_PYSTOCK_ GRWG (Grow Generation) We all continue to see constant post after post of EV stocks and PLTR. The same questions and the same answers.
+
+What I dont see is people talking about HYDROPONIC company GRWG which is supposed to become the Home Depot of Marijuana companies all over the US and maybe expand past those borders.
+
+Over the last three months alone the stock (Especially with the election of presidential nominee Joe Biden) has taken off by 126% 
+I bought in at around $19 and have continued to add ever since. 
+
+Stock currently sits at $33.49 as of writing this post and is projected to grow even more for the upcoming years.
+
+**NOTE** 
+This is NOT a Marijuana company. This is a Hydroponics and supply company that will SUPPLY marijuana companies that are going to be sprouting up throughout the nation as more and more states will inevitably legalize recreational or medicinal use of marijuana and GRWG aims to become the major supplier of all these companies for their tools and equipment to make their products.
+
+Just thought id share, hope you all do your research as Ive done and maybe you’ll see what I see for potential.
+
+If you have any disagreements or concerns about this company please comment and let us know so we may take those concerns into mind moving forward with our investments_END_OF_POST_PYSTOCK_ What do you do when your fully invested in the market? And you have no more cash to invest So with this bull market, I'm already 105% invested in the market. I don't have any more money to invest. What to do? Keep following the market? 
+
+Look for new stocks and Update your watch list, stop lost etc?
+
+I'm satisfied with my 14 stocks portfolio. So not sure what to do now. Just wait and see?_END_OF_POST_PYSTOCK_ Sell etfs to free up cash? I am in a slight hole. I don't have outside cash currently to add into my portfolio, but I want to get in on the recovery stocks like airlines. My only option is to sell some etf and reinvest that into stocks. My options are voo, ihf (healthcare etf) or sell a few Apple stocks. I have 2 voo, 2 ihf and 10 apple stocks. Which option would you suggest to free up cash? Or do you think I should keep those 3 and not mess with it? The other stocks I have are like a few Microsoft shares and stuff in clean energy like aces/icln, which I am not selling._END_OF_POST_PYSTOCK_ Some questions regarding investing in New Zealand stocks Hey guys, basically title. I think NZ is headed in the right direction in a lot of ways and I want to buy stock in maybe a NZ ETF or maybe some individual companies that are national leaders. What are some stocks to get me headed in the right direction? 
+
+I know some countries have significantly more complicated stock purchasing laws and regulations than NA... what are some things I should know? 
+
+Cheers!_END_OF_POST_PYSTOCK_ Long term investing.. Recently started investing about 8 months ago I have a total of $2,400 invested my plan was to hold the stocks for about 6-10 years because I really believe they will grow. Today I hit $1,000 profit was wondering if I should sell stocks and re invest the profit. Or just keep adding money to the stocks I already have. Most of profit coming from Tesla 👍🏻 thank you!_END_OF_POST_PYSTOCK_ Tesla's vehicle deliveries and recalls (DD) After reading the recent news about Tesla having to recall yet another batch of vehicles ([https://nypost.com/2020/11/25/tesla-recalling-more-than-9000-model-x-cars/](https://nypost.com/2020/11/25/tesla-recalling-more-than-9000-model-x-cars/)) after the roof issue earlier, as a savvy investor I decided to do some due diligence on its past record of deliveries and recalls:
+
+&#x200B;
+
+|Year|Model S + X deliveries|Model 3 + Y deliveries|
+|:-|:-|:-|
+|2019    |66,600|300,600|
+|2018|99,310|145,610|
+|2017|101,250||
+|2016|76,211||
+|2015|123,057||
+|2014|34,523||
+|2013|22,477||
+|Total deliveries|523,428|446,210|
+
+Source: Company disclosure
+
+&#x200B;
+
+|Year|\# of vehicle recalls (Model S/X)|Issue|
+|:-|:-|:-|
+|2020|30,000|Suspension issues|
+|2020|9,000|Roofs flying off|
+|2020|50,000|Front and rear suspensions|
+|2019|\-|Industry wide Takata airbag recall|
+|2018|123,000|Power steering fault|
+|2017|53,000|Parking brake 'lock up' issue|
+|2017|11,000|Second row seat malfunction|
+|2016|2,700|Seats collapse forward during crash|
+|2015|90,000|Faulty seatbelt|
+|Total recalls|368,700||
+|As a % of total deliveries|70%||
+
+&#x200B;
+
+In comparison, Ford recalled 1.3 mil vehicles from 2014 to 2018 while selling 32.2 mil vehicles in the same time period. Fiat Chrysler also recalled 5.3 mil vehicles made between 2014 and 2018 while logging vehicle sales quantity of more than 400 mil over that period of time. Recall numbers as taken from [https://autoversed.com/the-biggest-automotive-recalls-of-the-past-decade/](https://autoversed.com/the-biggest-automotive-recalls-of-the-past-decade/). This means an average of about 1-4% recall per new vehicle sale.
+
+&#x200B;
+
+To me Tesla's ones looks like an abnormally high recall rate. 
+
+&#x200B;
+
+What'd y'all think?_END_OF_POST_PYSTOCK_ Plastic surgery play with a breakout. Get in while it’s cheap! Plastic surgery insight on this product. Spoke to one of the reps down in SoFlo (one of the hottest areas for plastic surgery) These are best anatomical products in breast implants. They have worked out the kinks. Their business model looks great and they have got it figured out. Get in while the stock is low because these puppies compete with the biggest players in the game. They’re referred to as gummy bear breasts. Who doesn’t love that?! With Covid vaccines coming to market, the surgery game is making a huge comeback. 
+Load the boat and go tits down 🚀 🌝 
+SIEN Jan 15 2021 $7.5C 
+
+Gutm_source=google&utm_medium=sem&utm_campaign=knowopus&gclid=EAIaIQobChMI-OyrypOe7QIVBvHACh2QogmKEAAYASAAEgI4gvD_BwE_END_OF_POST_PYSTOCK_ Selling Tesla stocks for Palantir Hey, first time posting here. Just wanted some insight from you guys. Considering selling my 9 Tesla stocks and jumping into Palantir, since it's more likely to double faster than Tesla. I already bought 65 Palantir shares @19.99 thinking of throwing another $5k from Tesla. Interested to hear some opinions :)_END_OF_POST_PYSTOCK_ A publicly traded company offered to buy back their stocks I own. Why? Incoming pump? So I just got a letter from my broker saying that the company is willing to buy off my stocks I own from them? What does it mean? Why would they want them? Is it a hint towards an upcoming hype pump?
+I know that buybacks usually increase the share price, right?_END_OF_POST_PYSTOCK_ SLACK (WORK) being acquired by SALESforce I have a few shares of Slack at around 27.5. Should i sell today on the spike due the news of them being acquired,  or HOLD to realise more profits.. Does anyone have any experience of trends of  STOCKs of companies that got acquired?_END_OF_POST_PYSTOCK_ Good video classes that cover Options that are actually useful? I'm looking for an online course or youtube channel that actually spends more than 10 minutes explaining everything. 
+
+I understand the fundamental concept of puts, calls, and the greeks. And I even understand the dumbed down examples given to me in most articles. But when I actually look at buying contracts I feel like I don't know a damn thing. It's almost like I need a damn graded assignment with practice questions to double check my knowledge.
+
+Thanks for any help. And please don't blast me about avoiding options. I'm not a beginner investor, I have a solid longterm portfolio going with real savings. I'm allowed to blow some of money on gambling._END_OF_POST_PYSTOCK_ Invested everything i own into GAP Hey guys, just wanted you all to know that i invested my wifes college fund into GAP stocks. I really thought Kanye's partnership would turn it to the moon.
+
+Should i put the rest of my money into SPY calls or Tesla puts?
+
+This post was completely pointless, but maybe if other investing noobs read my shitpost and replace GAP with Pltr, they'll see how fucking annoying and pointless half of the posts on this sub are._END_OF_POST_PYSTOCK_ Pointers in getting out of Day Trading earning-pls Help! Pattern Day Trader. How to get out
+
+Hi, need some serious advice on my trade in aly. 
+
+Entered some trades within this week. Closed everything and happy about it.
+
+This morning I entered into 4 trades thinking holiday season is kicking in. All expire this Friday 
+
+-Closed PLTR
+But trying to close other trades in 
+TSLA -5 contracts 
+BABA-10
+HD-10 
+
+I received a warning for pattern day trading. 
+-did use margin to enter into these trades
+
+How do I get out of these? I found that these are listed as rules, however I entered these trades now with an impression that if account is above 25k it will let me trade without issue. 
+
+In my zeal I entered these trades but what are my options now? Will the brokerage be able to work with me and let me close all of them today or what possible options exist for me at this point in time?
+
+Thanks
+Fss_END_OF_POST_PYSTOCK_ Salesforce possibly acquiring Slack (long view on $CRM) [On CNBC](https://www.cnbc.com/2020/11/25/slack-shares-jump-following-report-of-possible-salesforce-acquisition.html)...
+
+I think this is a huge opportunity for Salesforce.
+
+CRM only represents 27% of their revenue. This is where they started, but today they actually make more money from their other lines of business -- services cloud (post-sales CRM), a cloud computing solution, and marketing + sales SaaS software. Those areas are also growing more quickly. (See [Section 2 in their latest 10Q](https://www.sec.gov/ix?doc=/Archives/edgar/data/1108524/000110852420000041/crm-20200731.htm).)
+
+I think this is where their true long-term potential comes in. Salesforce wants to run your *entire* business, from CRM to post-sales support... And now to ***internal communications***. Brilliant move._END_OF_POST_PYSTOCK_ TLS I’m wondering if it’s an ok time to get into TLS. It’s a newer company which is right in the middle byeeee it’s 52 week high/low. The company is exercising over-allotment and I’m wondering if that’ll drop the share price for some time. Let me know your thoughts, thanks._END_OF_POST_PYSTOCK_ Buy more palantir? Hello, I have 13 shares of palantir, and I am making decent profit, just want to know if I should just keep dumping money into it cos it is rising quite a lot, or keep it the same in case some losses do occur. 
+
+Basically is it worth it to buy more or not? Thanks. Also, I can’t think for myself so I would very much appreciate the advice._END_OF_POST_PYSTOCK_ Electric Vehicle stocks cool off as Chinese Government reviews eV business practices  
+
+* 11:27 AM ET 11/25/2020 Aparna Narayanan
+
+Electric-car stocks **BYD**, **Nio** , **Xpeng** and **L**\-**i Auto**sold off on news of a probe in China, while **N\_iko-la** failed to assuage investors on a proposed **General Motors** partnership. China's top economic planning body has [**launched a nationwide review of EV projects**](https://asia.nikkei.com/Spotlight/Electric-cars-in-China/Evergrande-unit-s-shares-hit-by-report-of-Beijing-EV-investigation). Specifically, the National Development and Reform Commission has asked local branches of Evergrande Auto to submit investment and production data for the past five years.
+
+Industry watchers took that as a signal that Beijing wants to rein in China's booming but problematic market as electric-car stocks proliferate rapidly. With help from government subsidies, municipalities rushed to promote EV projects, resulting in some questionable practices, Nikkei said. For example, some companies rely solely on subsidies or are able to buy land at low prices, it said.
+
+Evergrande alone has spent tens of billions of dollars in just the last two years, with the goal of becoming a powerhouse among China's electric-car stocks, Nikkei added._END_OF_POST_PYSTOCK_ Recovery Stocks, sell or keep? New investor here:
+
+I invested in a bunch of stocks with the hopes that they will recover over the course of 1-2 years back to the value they were at before COVID. (retail stores, bunch of real estate companies, etc.)
+
+When it gets back to that value (if it ever does), would it be better to sell right away at that value, or continue to keep it for longer? 
+
+I don't know if these companies will continue to grow after they get back to what they were pre-COVID, I was only looking for the possibility of them to get back to what they originally were..._END_OF_POST_PYSTOCK_ What happens if I sold a stock today, got the cash, and then buy a stock before it settles? Will that get my account suspended? I use a reputable bank's brokerage service to make the transactions and have always waited the few days before things settle. Wanted to make sure I won't get in trouble or have the account locked or something bizarre. Thank you for any help!_END_OF_POST_PYSTOCK_ Canada Pension Plan (CPP) buys 24 million shares of PLTR Copied from r/personalfinancecanada sorry don’t post much not sure how to tag OP.
+
+Canada Pension Plan (CPP) completes purchase of 24,156,607 shares of Palantir (PLTR)
+
+[**Screenshot #1**](https://imgur.com/a/9kyASGo)
+
+[**Screenshot #2**](https://imgur.com/a/thTrZBv)
+
+"*The Canada Pension Plan Investment Board now owns 24.16 million shares valued at $229.49 million.*"
+
+[**Source #1**](https://fintel.io/i/canada-pension-plan-investment-board)
+
+[**Source #2**](https://www.holdingschannel.com/all/stocks-held-by-canada-pension-plan-investment-board/)
+
+[**Source #3**](https://money.cnn.com/quote/shareholders/shareholders.html?symb=PLTR&amp;subView=institutional)
+
+[**Source #4**](https://pulse2.com/pltr-stock-price-increases-nyse-palantir-139-4-over-the-past-month-why-it-happened/)_END_OF_POST_PYSTOCK_ PYPL bagholders, I implore you to sell I know most of you got excited because of “war against cash” and venmo rang in your ears a couple years ago, which is an incredible disruptor in payments. I know all your middle-class white suburban folk were getting on the train and you being a savvy investor thought this was an opportunity. It’s not. 
+
+PYPL has dropped the ball in 2020. They have no clue how to brand their product which would be presumably pretty easily, but they’ve done it.
+
+SQ is king. I figured this out, funnily enough, when Dreezy released the song CashApp with Offset in Jan 2019. Dorsey managed to hit the jackpot when it came to the underbanking issue and the culture just took off after that.
+
+So don’t blame yourself that you didn’t see zoomer culture blindsiding you. You’re likely a millennial or god forbid a boomer. You shut your brain off to cultural shifts outside your white picket fence years ago.
+
+I’m here to implore you to sell. PYPL is a hard SELL._END_OF_POST_PYSTOCK_ QCOM? Hello everyone,
+Was curious on what are peoples opinions on this stock. It seems kinda of underrated atm and everyone I talk to loves the stock and says its great. QCOM smashed its earnings and the stock has been growing for quite awhile. Was curious on peoples thoughts on it and if you don’t like it than why don’t you like it. Thank you for your thoughts._END_OF_POST_PYSTOCK_ Video Games Forecast & ETFs Hello,
+
+The covid-19 did well for the video game industry. How do you see the next 5 years? is there still growth potential?
+
+In 1 hand, i see more and more interest in this industry, but in the other hand no big growth before the covid.
+
+And... which ETF is the best for video games?
+
+Cheers :)_END_OF_POST_PYSTOCK_ Is there too much greed in the market? The Fear & Greed Index has just reached 90. This is the highest level YTD, even back in August when the market topped it was around 88. There’s not a single person who hasn’t made money for the last few months, and there is a widespread sentiment that “all uncertainy is now gone”. Maybe it’s time to be less greedy and prepare for a potential downturn or correction. What do you guys think? Now, I’m not suggesting selling 100% and sit on cash, as that would be fucking dumb. But we can always prepare for the potential downturn, by increasing % allocation to cash, or maybe slowly realizing your gains..._END_OF_POST_PYSTOCK_ ISO Free News Website or App that can be Customized to show Real-Time News Articles and Data for Portfolio and Hot Stocks I am attempting to find a platform that can show me stock and ticker news related to my portfolio that shows up-to-date activities within the companies I am invested in, and possibly new, hot stocks that are legitimately reported on by credited sources. 
+
+Are there any of you that use a “stock news bar” type feed via sources like MarketWatch, Reuters, Bloomberg, and MarketBeat to keep you up to date on your stocks?  Currently, I am using Motley Fool (yeah yeah save your criticism) and basic E*TRADE news, but there is a lot of info on there that I don’t care about or is irrelevant to me, like, “is this the next hot stock?”, or, “should you buy in now?”... blah blah blah. 
+
+I want data, company news, and numbers. 
+I want to know when something internal happens with the company. 
+
+Big facts guy here. 
+
+Reddit has been very good to me, but I’ll get caught up in meme stocks and speculation by various sources and it just makes me overwhelmed and sometimes freak out, just to click and read on more “big-picture” type articles. 
+
+Any help is appreciated. I’ll be doing research on my own tomorrow, but more help the better!_END_OF_POST_PYSTOCK_ Shorting Stocks.... Is there a Financial/Market Need for people to have the ability to "short" stocks....to me this means placing a bet that a stock will go down. Was it always an option since the USA had a Stock Market and if not, when did it come into being? Thanx for you smarties!_END_OF_POST_PYSTOCK_ Why did I lose money? I am new to trading stocks and today I bought 11 shares of $BBI, 212 shares of $SNDL and 4 shares of $ACB. It all costed me a little over $101. After seeing more news on $ACB I decided to go ahead and sell it. I only lost a dollar from it. With the funds from the $ACB I bought 670 shares of $TNSP. My p/l for the day has so far been mostly green. Somehow my net liq is at $94.43 yet it was $101 this morning. How did I lose $7 when I only lost $1 from $ACB?_END_OF_POST_PYSTOCK_ Opinion about Motley Fool Stock Advisor I am looking for the opinion of current users of the Motley Fool Stock Advisor sercive.
+
+&#x200B;
+
+1. Do you see growth?
+2. How long have you been using the service?
+3. How many recommendations have you already invested in?_END_OF_POST_PYSTOCK_ Strategies to capitalize on an incoming bear market? # Any ideas for strategies to capitalize on an incoming bear market? SPY puts, inverse ETFs, shorting, anything else? I did buy some PUT for SPY at 310, 320, and 330 strikes for Feb, Mar, April of next year. Is there anything else any of you are doing? The current market level looks set to drop at some point in the next month or two..I did liquidate a lot of my stocks to sit on a good amount of cash. Thank you for any advise you guys can offer._END_OF_POST_PYSTOCK_ CopyTrading via eToro too good to be true? I have £25,000 which I have inherited and I’m looking to invest it. I’ve been researching the eToro copytrading platform and it almost seems too good to be true. Simply copying an experienced traders trades and making a very good return looks lovely but surely there’s some sort of catch? Would it be wise to initially use a demo account to start copytrading?_END_OF_POST_PYSTOCK_ Thoughts on PFE Any thoughts on Pfizer, not sure why it is going down even with vaccine news. On contrast Moderna( which has similar vaccine) is going up.
+ 
+Do you think I can buy PFE at this point or is there any weekends that i am missing?_END_OF_POST_PYSTOCK_ Stop Loss? Hello, im wondering if there is any page to tell how much people have a Stop Loss in a stock. 
+
+Example: 900 Stop Loss order @ $20; 800 Stop Loss order @ $19,99
+
+Would be super helpful to have as a strategy, thanks!_END_OF_POST_PYSTOCK_ TIME TO RUN? Okay I'm pretty new to investing but I know that, generally, I should run when people are greedy and hop in when people are fearful.
+
+[https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)
+
+This seems like it's saying people are VERY greedy today. I've packed up half of my stuffs to run early this morning. (Scored 90; Extreme Greed)
+
+Am I just panicking over nothing? How reliable is the fear&greed indicator for you more experienced investors?  
+
+
+Edit: fear&greed score added_END_OF_POST_PYSTOCK_ Selling tech companies First of all i'm now to investing ad to this for lets hope that I dont't break any rules. 
+
+I believe its time to sell tech stocks like AAPL or AMD, and invest in other companies that did well before codiv-19 and have a huge chance to pick up again. AAPL or AMD have been growing like crazy after covid-19 since everyone is investing in them but I believe they have not much reason to keep growing from now on since big investors will probably sell tech companies over time. please correct me if i'm wrong I want to know what you guys think and why._END_OF_POST_PYSTOCK_ Why is ASTRAZENECA dropping? Hello fellow investors,
+
+I have a quick question.
+
+What‘s the reason ASTRAZENEZA is dropping? Isn’t the stock supposed to explode as Biontech and Moderna did, after they announced effective vaccine results? Instead, AstraZeneca is dropping in the past 2-3 days.
+
+I can’t find any logical explanation about this. Can you help me here? What separates them from the other vaccine discoveries?
+
+My only assumption is Brexit, but can a shitty brexit influence the stock price so negatively even when the news are overwhelmingly positive?
+
+Thanks._END_OF_POST_PYSTOCK_ What are some good non-tech IPOs over the past two years? Without exaggerating I can't remember the last IPO I read about which wasn't a SaaS/FinTech/cloud company. I like investing in companies which haven't been public for long as there can be some good growth potential since the company's track record as a public company isn't very long. 
+
+What are some good non-tech companies which have gone public over the past few years? Thanks!_END_OF_POST_PYSTOCK_ My Investing Roadmap So you want to begin buying stocks?  I’m 33 years old, and begin investing during college (more than 10 years ago).  I’ve learned a ton, and built a substantial portfolio over the 13ish years since I began.  I’ve also done a lot of dumb stuff over the years, and learned a lot of expensive lessons. To me, this is the roadmap to begin investing.  
+
+
+
+***Step 1) Be sure you’re financially ready to begin investing.***
+In my view, building an investment portfolio is like framing a house.  This is an incredibly important step in your financial security, but needs to be done after you’ve laid the foundation.  I highly recommend Dave Ramsey’s baby steps (I consider my stock account baby step 4).  Read this and watch his youtube.  Bonus points if you can answer callers questions before Dave does on his radio show.  Another great resource is /r/financialindependence .  your stock portfolio should not be money you need in the next 5 years, preferably 20 years.  Put it in there, and don’t take it out.
+
+
+***Step 2) understand your goals the first year (Year 0-1)***
+In the first year of investing you have three main goals.
+
+ 
+•	**Don’t chicken out.**  Pulling the trigger is the hardest part.  You make your first buy then you open your account 30 times the same day to see how it’s performing.  You’re probably doing this not because you’re afraid of losing money, but you’re afraid of failure or looking stupid.  You might tell yourself, if I learn to do research I can increase my chances of being right. This is dumb.  The most important thing is to start the trip.  Think to yourself, if you need to travel across the country by road and your options are to take the minivan you have now, or wait 3 days until you can get a sports car. Which is a smarter move?  Get your ass in the minivan.
+
+•	**Don’t commit a financial blunder.**  For any of you who play any competitive video game with a ladder you know there is a commonality across all of them.  To climb out of the bottom 50% of any ladder, all you have to do is not commit blunders.  You don’t have to do anything fancy, you don’t have to be flashy, just don’t fuck up.  This is 100% true in the stock market as well.  This means you don’t have to do any financial analysis your first year.  Keep everything as simple as you can to start.  There is still plenty to learn from investing in an ETF the first year, and the third bullet will take enormous amounts of energy.
+
+•	**Learn to manage your emotions.**  The first year is an emotional whirlwind no matter how much you’re investing.  Your primary goal above everything else is to learn to act calmly.  If you check your account value every day, you’re training your brain to inject dopamine every time your account goes up.  This is really, really bad.  You’re going to have a bad day in the market, and your brain doesn’t get the dopamine hit that It’s used to. This leads to panic selling and grief.  If you learn this skill early, I’m 100% convinced your set for life.  The rest is easy.
+The other part of this bullet is Reddit is the Instagram of stock market gains.  People only post what they want you to see.  Only the best get upvoted.  This gives us a warped sense of reality, and what our expectations should be in investing.  Don’t get caught in the hype. Don’t YOLO.
+
+***Step 3) what do I do after that? (Year 2-5)***
+Holy shit, if you make it here, the fun begins. If you can master your emotions you can then begin to nurture this hobby.  Continue regular contributions to your account. Once it’s in the stock account, don’t think of it as spending money anymore, it’s now investment money.  Find elements of the stock market that interest you and learn more about it.  
+
+If I were to give one thing that you should begin learning now and have down cold it would be “What changes a stock’s price and how does that relate to the value of a company?”
+
+-understand what market capitalization is, an how it relates to a stock price.  What financial tricks can a company play, and how will that affect the stock price, but not the market cap? To me, this is critical to understand.
+
+-be able to know the rough market cap if any major public company you come in contact with on a regular basis. 
+
+-Time value of money.  You don’t need to know the math, just the concept.  How this relates to opportunity cost. 
+
+-understand how earnings and earnings calls actually affect stock price.  You don’t need to actually monitor these, but just understand how earnings and earnings expectations relate.
+
+Once you get that down you’ll find other areas of stocks/ finance that interest you. Do you like to do financial analysis? Learn that.  Do you like to think big picture? Invest your time there.
+
+***Become an investor, not a trader.  Investors are “good business collectors”.***
+
+As you contribute more money into your account, begin picking up individual companies.  Your contributions should be retentively small compared to your overall portfolio.  If it’s not, then contribute more to your ETF.  For the next 5 years, commit to having no more than ½ of your portfolio in individual companies.  This will mitigate risk, and allow you to learn about individual companies and how to look at them.  My suggested method for finding your first few individual companies are “What industries are coming in the 3-5 years, and what companies are the best positioned to be there”.  Only do that for industries you understand (unless you’re a doctor don’t mess with bio-tech).  Some of the meme stocks, are actually great for small individual stock pickups in this stage.  Don’t invest in penny stocks (or anything with a market cap under $2B) until you know what you’re doing.  I’ve lost way more money in shit like this than anything.  Also, don’t fall for value traps (moderate or shitty companies selling for a deep discount).  It might work every once in awhile, but that’s not our game.
+
+At the end of the day, keep this as simple as possible.  If something doesn't feel right, dont do it.  I hope this gives you the push you need to get started, and help someone out there._END_OF_POST_PYSTOCK_ Microsoft said to launch Xbox Series X game console in China next year after getting certified https://www.scmp.com/tech/gear/article/3111323/microsoft-said-launch-xbox-series-x-game-console-china-next-year-after
+
+Microsoft Corp’s next-generation Xbox Series X is expected to be released in China next year, according to analysts, after a recent decision by mainland regulators to grant the company a certification for an unnamed video game console.
+
+The US tech giant received a China Compulsory Certificate, also known as the 3C mark, from the Certification and Accreditation Administration of the People’s Republic of China. The 3C mark is the official safety authorisation for products imported, sold or used on the mainland. That followed a separate 3C mark granted to the company for an unnamed console in June this year.
+
+Analysts indicated that these certifications point to the imminent launch of the Xbox Series X, along with its lower-grade variant the Xbox Series S, in the world’s largest video games market. Sales of the two new game consoles started on November 10 in many markets around the world. The mainland was not among the launch countries._END_OF_POST_PYSTOCK_ Fisker -> EVs & flexible lease = automotive industry disruption! Drive a sustainable luxury car to either own, lease or rent. This is a great way to take advantage of the ride now pay later, take advantage of both low and high income as well as last mile disruption.
+
+The vehicle lineup that is coming up with the new ocean and emotion scream amazing as well as truly green!
+
+https://twitter.com/henrikfisker/status/1331372137743958017?s=20_END_OF_POST_PYSTOCK_ Nio Hey! I saw nio is dipping atm. Thought about going deep into it. I do belive in the company, just idk if the price is mostly hype or
+actual value atm. What are your honest opinions about nio and where do you see it in the future?_END_OF_POST_PYSTOCK_ My only issue with Palantir going forward(PLTR) &#x200B;
+
+I got in at 10 and 15. Way before the hype started and just after Cathie Wood. I really believe this is a great company with a solid product. However as a developer myself there is things I do see as a problem.
+
+Palantir is an analytic infrastructure to companies, they are invaluable to companies that hold a big amount of data but has no plan or way to actually structure that data. I believe once you start using Palantirs products it's very hard to quit. 
+
+&#x200B;
+
+**The product**
+
+In order for Palantir to sell their product they literally have to get their FDE ([https://www.palantir.com/careers/teams/forward-deployed-software-engineers](https://www.palantir.com/careers/teams/forward-deployed-software-engineers)) onsight. 
+
+A lot of people have no idea what the hell Palantir does. They don't have a massive database where you just can pick out data from and spy on people. What they do is extract the companies data from different sources, structured and unstructured. Clean it and run it through various ML models in order to make sense of it. What they are actually are doing is building these huge interconnected pipelines between all the datapoints, things that had no connection before suddenly do. This is MASSIVE for companies, they can ask the right questions now. The have the answers infront of them, they just have to ask for it.
+
+**The issue**
+
+My whole problem with Palantir is that they are heavily dependent on this process, they can't just sell a product and one the same day have it working. They actually have to process the data for a few weeks before they have a working product, this is basically consulting. It's not scalable, it's customizable. They need units on the ground all the time for new contracts. 
+
+&#x200B;
+
+Now from my understanding it's actually improving, they are quicker and quicker with integrating new customers but I just can't see how they will scale as fast as people think they will. I don't think they can grow at an amazing pace.
+
+&#x200B;
+
+**TL;DR** 
+
+Amazing analytics software that makes the companies see connections between data that not been possible before, however issues with how many new customers they actually can earn going forward._END_OF_POST_PYSTOCK_ Entertainment industry With the promising news of vaccines being readily available in the coming year, is not the time to buy more entertainment stocks (cruise, airline, casinos etc) or is it best to sit tight as the holidays are approaching and I fear another Corona spike that’ll probably scare the market?_END_OF_POST_PYSTOCK_ ARK NTDOY position ARKK NTDOY
+
+Whoever is following the daily transactions from ARK, will have seen that they are buying NTDOY almost daily, increasing their position. Of course Nintendo is a great company with a rich library of games / merch and huge success of the Switch. But doing some further DD on my own.. I couldn't find any reason that would warrant really increasing the position. Does anyone have an idea?_END_OF_POST_PYSTOCK_ Chinese EV stocks lower on government investigation into the sector Xpeng (NYSE:XPEV), Li Auto (NASDAQ:LI), Nio (NYSE:NIO) and Kandi Technolgies (NASDAQ:KNDI) are lower in early trading on news of a government investigation into the sector.
+
+The National Development and Reform Commission (NDRC) asked local officials to investigate construction and production details of projects related to Evergrande (OTCPK:EGRNF) New Energy Vehicle (NEV) and Shenzhen Baoneng that started from 2017, as per the document seen by Reuters._END_OF_POST_PYSTOCK_ AI stocks Artificial Intelligence, something that, with the help of things like quantum computers, will one day be able to have a billion thoughts per second. Calculating stuff in seconds that would have taken us years. Palantir uses this technology to prevent crime and thus it has been skyrocketing. I didn’t know there were stocks out there that use AI, but there is Facebook and Google, that use it for advertising, to recommend the ads that are most relevant to the user. IBM which has Watson, which answers questions. Tesla which has its self-driving cars. Apple has Siri. What other stocks aim to use AI to their advantage, preferably in a super profitable way. Like idk, using it as a CEO or something._END_OF_POST_PYSTOCK_ JCP Bankruptcy Forum For those invested a specific bankruptcy forum has been created for those who hold JCNPQ, Other commons, bonds, such as COTRP,, or others.
+
+[https://jcpholders.com/viewforum.php?f=2](https://jcpholders.com/viewforum.php?f=2)_END_OF_POST_PYSTOCK_ Looks like HIMX has been experiencing some activity recently In about the past 22 days, HIMX has moved up approximately 65%.  
+
+
+HIMX experienced a steep decline since November 27, 2017 (the high achieved that day was $13.95 USA per ADS), and has languished in the $2-$3 range for the past few years.  
+
+
+However, it appears to be poised for a rally based on multiple factors.  
+
+As always, one should do one's due diligence.    
+
+May all of your investment strategies be profitable.
+
+I am long HIMX._END_OF_POST_PYSTOCK_ r/Stocks Daily Discussion Wednesday - Nov 25, 2020 These daily discussions run from Monday to Friday including during our themed posts.
+
+Some helpful links:
+
+* [Finviz](https://finviz.com/quote.ashx?t=amd) for charts, fundamentals, and aggregated news on individual stocks
+* [Bloomberg market news](https://www.bloomberg.com/markets)
+* StreetInsider news:
+  * [Market Check](https://www.streetinsider.com/Market+Check) - Possibly why the market is doing what it's doing including sudden spikes/dips
+  * [Reuters aggregated](https://www.streetinsider.com/Reuters) - Global news
+
+If you have a basic question, for example "what is EPS," then google "investopedia EPS" and click the investopedia article on it; do this for everything until you have a more in depth question or just want to share what you learned.
+
+Please discuss your portfolios in the [Rate My Portfolio sticky.](https://www.reddit.com/r/stocks/search?sort=new&q=Rate+My+Portfolio+-+r%2FStocks+Quarterly+Thread&t=all&restrict_sr=on).
+
+See our past [daily discussions here.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+%22r%2Fstocks+daily+discussion%22&restrict_sr=on&sort=new&t=all)  Also links for:  [Technicals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Atechnicals&restrict_sr=on&include_over_18=on&sort=new&t=all) Tuesday, [Options Trading](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Aoptions&restrict_sr=on&include_over_18=on&sort=new&t=all) Thursday, and [Fundamentals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Afundamentals&restrict_sr=on&include_over_18=on&sort=new&t=all) Friday._END_OF_POST_PYSTOCK_ Market Theory/Economics: Increasing size of a market. I'm currently looking to invest in a certain growing industry, but I'm not sure how to best maximize my profit off of the industry should it explode. I wanted to ask about economics here.
+
+Let me present a scenario. Say Company A is a large corporation worth 100 billion dollars. It specializes in Real Estate. It is looking to get into a new industry in order to diversify its revenue streams. Let's say they want to get in the industry of selling Umbrella Hats. As of right now, the umbrella hat market is relatively small(about 6 Billion dollars in sales per year), but Company A believes that the Umbrella Hat market has the potential to expand exponentially, reaching 70 billion in sales in 10 years. Right now, Company B is a small company with a market cap of 20 million dollars. They made 7 million dollars in revenue last year and have successfully turned a profit. The market would be expanded by Company A, whose innovations in Umbrella Hat technology would cause a boom in demand and increase the public's knowledge of the product.
+
+&#x200B;
+
+I am a potential investor looking to enter into the field. Say I want the highest return on my investment possible. I fall somewhere between the spectrum of risk neutral to risk loving, with my stance being closer to risk loving. Assuming that Company A will end up producing a far superior product to Company B, would Company B's sales increase or decrease over the next 7 years? Which stock should I as a potential investor buy for the best return?_END_OF_POST_PYSTOCK_ What stocks were hyped on this sub that didn't pan out? Trying to educate myself. Inspired by the recent posts about following the hype. 
+
+I'm familiar with "buy the rumor, sell the news."  I'm less looking for advice and more for personal accounts of this sub and its picks that crashed._END_OF_POST_PYSTOCK_ SPCE is far more than Space Tourism, allow me to shed some light Hello, World!
+
+The moment is finally upon us for SPCE to start making serious moves and this is pre-revenue, pre-flight, and pre-publicity. So what is all the hype, why are people confident in its future, and why are they right? One this is for certain this is NOT, I repeat NOT, just a space tourism company.
+
+Let me first introduce you to the staff and some key players:
+
+Founder - Sir Richard Branson: Founder of the Virgin Group (Virgin Mobile, Virgin Atlantic, etc.)  
+CEO - Michael Colglazier: Former President and Managing Director of Disney Parks International  
+CTO (Chief Space Officer) - George Whitesides: Former Chief of Staff NASA  
+CFO - Jon Campagna: Former Corporate Controller of ICON Aircraft Inc.
+
+Noteworthy Investors:  
+Vanguard  
+Bank of America  
+Morgan Stanley  
+ARK  
+Boeing  
+Chamath Palihapitiya (Also a Virgin Galactic Chairman)  
+Cathie Wood (presumably through ARKK)
+
+Partners:  
+Boeing ( investor/hopes to be a part of the hypersonic point-to-point travel )  
+Rolls Royce ( designing and developing engine propulsion technology for high speed commercial aircraft as well as interior design )  
+NASA ( a plethora of tasks including transportation to the ISS, research, and hypersonic point-to-point travel )  
+Lockheed Martin ( developer of the Supersonic X-59 plane which will be used for testing hypersonic travel )  
+Under Armour (suits)
+
+Timeline of events:
+
+1. Q4 2020 - Q1 2021: A final round of test flights which were supposed to occur during the window of November 19-23. This was delayed due to the New Mexico lockdown. COVID depending this test flight could still possibly happen before the end of 2020, if not very early 2021. This test flight will mark FAA approval and will be carrying a revenue generating payload, being the first revenue to be generated by the company...well...ever.
+2. Q1 2021: Sir Richard Branson himself will take a flight up marking the start of commercial operations, the start of publicity and marketing, and the re-launch of ticket sales. So far roughly 600+ tickets have been sold and these will be the first clients to go up. Notable clients include: Leonardo DiCaprio, Tom Hanks, Brad Pitt, Angelina Jolie, Russell Brand, Lady Gaga, Katy Perry, Justin Bieber, and Ashton Kutcher. The interior of SpaceShipTwo has 16 cameras which will be engaged during the duration of the flight and will capture these stars, quite literally in the stars as they float around in microgravity for several minutes. This will be recorded and surely uploaded to their social media. I imagine some of these individuals like Justin Bieber, Katy Perry, and Lady Gaga will attempt to shoot a music video using this footage. Ticket sales will also resume again at this point.
+3. 2021: For the rest of 2021 Virgin Galactic will be sending clients to space all the while they will be pushing profits in R&D for future endeavors, such as the hypersonic point-to-point travel which will be discussed later. They will also be building out more Spaceports and ships in order to conduct more flights. According to the last investors meeting, each spaceport is predicted to generate $1B/year.
+4. Around 2025: The hypersonic point-to-point ship will be complete and ready for commercial operation. This will revolutionize human travel. To put it into perspective, the International Space Station circles the globe in 90 minutes, and when this plane is complete, so will we. Preliminary indicators suggest that a trip from NYC to Sydney, Australia would take roughly 30 minutes.
+5. The possibilities are as limited as space and I won't make your eyes bleed as we talk hypotheticals. I do however want to address highly likely revenue streams we could expect.
+
+Revenue Streams:
+
+1. Space Tourism
+2. Hypersonic point-to-point travel
+3. Space Force [https://spacenews.com/traditional-launch-services-may-not-suit-the-needs-of-the-future-space-force/](https://spacenews.com/traditional-launch-services-may-not-suit-the-needs-of-the-future-space-force/)
+4. NASA Contracts ( astronaut training, payloads, taxi services, etc)
+5. Booster Services 
+   1. Now, there is no news on this, but this is my prediction and what I would attempt to achieve. As hypersonic travel becomes the standard way for humans to traverse the globe there will need to be a way to make it possible and affordable for the general public. Virgin Galactic cannot achieve this on their own and current airlines (Delta, Southwest, etc.) cannot convert to Spaceship companies either. With Virgin Galactics unique approach and design, they could  become a booster service for airlines. Airlines will need to design a space plane that is capable of hypersonic travel and Virgin Galactic will use their mothership to carry these planes to sub-orbit.
+6. While Virgin Galactic is currently operating in the sub-orbital space, I am sure they will begin working on deeper space projects for asteroid mining, moon operations, etc.
+
+Common Objections and Rebuttals:
+
+1. Who would be able to afford this and even if they could, why would they?
+   1. There are around 42 million people in the world with a net worth of $5 million where $250k is extremely affordable. The price of the ticket is the same price of chartering a yacht for the weekend. Except instead of playing on a boat for two days, you go to space for a few minutes. Yes, the complete trip lasts around 90 minutes, but we are talking about going to Space. Virtually anyone would say that's something they long to do because that is human nature, if you look at people with high net worth they spend their money on much more ridiculous things. Not only is it human desire to want to go, it has the "Johnson's effect" as well. The Johnson's effect is an old sales analogy, where someone in your neighborhood would say "Oh did you see the Johnson's got a new Porsche?" Inclining you the observer who has the capital to feel the competitive nature and want to also have said clout. So yes, there is very much latent demand on this service. As explained earlier there are already 600+ pre-sold tickets including highly renown individuals and 900+ who have reserved a slot for a future ticket purchase. Note that these ticket sales only stopped because Virgin Galactic stopped them and will resume ticket sales Q1 2021. Virgin Galactic could currently handle 50 flights per year per plane and has recently finished their second plane, meaning they can handle 100 of the 1400 pre-purchased flights over 2021. So, even as Virgin Galactic scales, there is enough customers already to cover operating costs and the development of new planes for several years.
+2. Wow so you get to go to space for all of two minutes?
+   1. People who say this are people who can't afford it. That might sound harsh, but it is that simple. Very few humans would pass up on this opportunity for such a magical thing if they could actually afford it. 
+3. It's not really "space"
+   1. Who cares? You get to experience microgravity and float around. You get to see the curvature of the Earth. You get to officially be called an astronaut. The media will not be attempting to point out this very minute, arrogant point. Again, only people who can't afford it will be pointing it out purely out of jealously or disbelief in the Space Age that is upon us.
+4. People only invest in this because they can't invest in SpaceX.
+   1. Not true. First off, they are completely different markets. SpaceX is orbital, Virgin Galactic is sub-orbital. A SpaceX tour would take you into deeper space for around a week and costs somewhere around $52 million. Secondly, even if SpaceX is a direct competitor I hardly see how that's a bad thing. Competition drives commerce, and to have Elon Musk being your direct competitor, that would only bolster Virgin Galactic. Thirdly, there is potential for partnership between these two companies in the future. A collaboration of completely different and unique technologies to overcome the challenges of the Space Age. Finally, SpaceX news and Elon Musk hype will mean space news and space hype, also helping Virgin Galactic.
+
+What I imagine by 2035:
+
+Spaceports all across the globe, connected by the Virgin Hyperloop (for those who don't know it's another Virgin project that allows humans to travel faster than the speed of sound through tunnels). At this point, Virgin Galactic will already be partnered with other major airlines who have created space planes, very much reducing the cost and barrier to entry. Meaning any human who would have normally have flown "first-class" will now have the ability to end up anywhere on the planet in under an hour. Virgin Galactic will also partner with shipping companies and if you're impressed with 2 day delivery, how does 2-hour delivery sound? Packages moved via space plane, then into a hyper loop to your distribution center, and finally automatically driven to your home via autonomous AI. All the while Virgin Galactic is innovating new technologies for deeper space missions, working with the Space Force, and continuing space tourism.  
+
+
+This is not some flashy new technology, this is the revolution of human travel.  
+This is not sci-fi, it is simply sci.  
+The future truly is now and we all have an opportunity to be a part of it. Thanks for listening and big disclaimer, I clearly own SPCE shares, because at this point, it doesn't make sense not to._END_OF_POST_PYSTOCK_ Yahoo Finance Dumb question probably but I'm fairly new at this. How seriously do you take yahoo saying something is overvalued or undervalued. Is that just the P/B Ratio. Also what about performance outlook where it has short term, midterm and long term. Is that something to worry about or look at the underlying company?_END_OF_POST_PYSTOCK_ Black Rock Monopoly? I've read that Black Rock is increasingly being view as a monopoly. Essentially the argument is that with it's massive investments it has the power to control the market and corporate decisions unfairly. I read an article that even mentions vanguard and potentially being a monopoly. I know nothing may ever come of this but I do hold substantial amounts in index funds and I'm not quite sure what to make of this possible issue. IF the view that these large financial institutions, in particular Black Rock and Vanguard, gains traction what would be the likely outcome for investors in the funds they manage? Here is an older yet credible article about the issue: [https://www.gsb.stanford.edu/insights/biggest-antitrust-story-youve-never-heard](https://www.gsb.stanford.edu/insights/biggest-antitrust-story-youve-never-heard)_END_OF_POST_PYSTOCK_ PLTR CC ITM - What should I do? When PLTR was around $15, I sold a $22C for 12/18. I had no idea it would moon so fast and now it’s ITM, $23.82 at close today and up in AH. What should I do?
+
+If I buy to close now, I’d be out like $385. I suppose I could roll up and out, but I there’s no strike price within a decent time frame where I could break even. 
+
+Any advice?_END_OF_POST_PYSTOCK_ What's the current consensus on NKLA? Between it's shakey deal with GM & it's former CEO holding circa 47% of the companies shares I'm not sure whether i should double down on one of the only hydrogen/electric public transport companies or cash out on its 17% up tick today._END_OF_POST_PYSTOCK_ is Zilliqa worth buying ? opinions hey guys i’m taking a huge risk because i don’t know much about investing so i heard that Zilliqa will jump from 0.3 to 0.10 and i want to drop 1k. want advice, want to make fast money to invest long term, thanks_END_OF_POST_PYSTOCK_ Healthcare stocks/ETFs and the future under Biden I've got about 30% of my portfolio in FSPHX and I'm wondering what everyone is hearing or thinks on the future of healthcare stocks, ETFs, etc considering Biden looks to be expanding and continuing ACA.
+
+I'm considering liquidating my position and going more biotechnology and medical equipment route but want to hear others thoughts before doing anything._END_OF_POST_PYSTOCK_ Thoughts on Lemonade I've been hearing some people that I trust saying good things about Lemonade. In the US, 12 of the Fortune 100 companies are insurance companies, but none have more than 4% market share. The whole goal of the company is to disrupt the industry via technology, in many cases cutting out the human to human contact and getting payments to customers faster.
+
+With stocks like this, I like to log on to their website and test out the user interface. In doing so I realized that they are not even available yet in my area, which is a major city in the Southeast US. That has me thinking serious growth potential.
+
+Anyone done any DD on this? I'm still in the early stages but looks promising long term_END_OF_POST_PYSTOCK_ PLUG Partnership Plan for creating 5 Operational Hydrogen Plants by 2024 https://www.globenewswire.com/news-release/2020/11/24/2132816/0/en/Plug-Power-Raises-Approximately-1B-to-Accelerate-the-First-Nation-Wide-Green-Hydrogen-Network.html 
+
+This article is talking about PLUG and it’s new partnership plan to create 5 new Hydrogen Plants by 2024. What does this mean short term for the stock? It’s already been climbing up a lot this month, this sounds like amazing news, is it? Also, would 5 hydrogen plants be a huge thing in this situation or nothing really to scoff at?_END_OF_POST_PYSTOCK_ KNDI receives a buy rating at $55 price target Currently KNDI is sitting at around $14-$15. A $55 price target was recently set. Here is the link to the article: 
+
+https://www.benzinga.com/news/20/11/18511228/kandi-technologies-shares-up-16-hearing-transformity-research-newsletter-by-tobin-smith-set-buy-rati_END_OF_POST_PYSTOCK_ ALPP - Drones are the future Alpine 4 Technologies is expected to complete their merger with Impossible Aerospace on December 10th.
+
+(About Us from their website): "Impossible Aerospace builds high performance electric aircraft that save lives. Founded in 2016 by former Tesla engineer **Spencer Gore**, the company unveiled its US-1 aircraft in 2018, unique for its long endurance and US origin. The company is backed by Bessemer Venture Partners, Eclipse Venture, and Airbus Ventures."
+
+ Our Mission
+
+"We are committed to serving the needs of government agencies, first responders, private security providers, and those working to keep our critical infrastructure working at full potential.
+
+Our team consists of experts in aviation, engineering, advanced imaging and law enforcement and come from some of the most progressive companies in the US including SpaceX, Tesla, NASA, FLIR Systems and Icon Aircraft."
+
+&#x200B;
+
+CEO and Founder Spencer Gore has an impressive resume:
+
+* Forbes 30 Under 30 
+* Tesla Battery Designer
+* NASA Astrophysics Directorate
+* Space X Falcon 9
+
+He has also surrounded himself with a team of former Tesla, Space X, Boeing, FLIR employees to aid him in his expansion.
+
+[https://impossible.aero/about/](https://impossible.aero/about/)
+
+&#x200B;
+
+I've been reading up on comments from UAV pilots, drone racing officials, first responders etc. and it's apparent the primary issue with drones is the limited battery life.  Only having an average of 20-30 minute battery life eliminates a wide range of efficient uses for this new technology. IA (Impossible Aerospace) has a drone that can fly for 70-75 minutes...DOUBLE or TRIPLE what competitors can do.  Their drones also use FLIR thermal scanning which can be extremely beneficial for..
+
+* fire departments (28,000 in the US): think wildfire prevention as well as assessing buildings at different levels
+* police departments (18,000 in the US): assessing potentially dangerous situations before officers ever arrive.
+   * It's estimated that a mere 70 of these policing counties can afford to have a helicopter.  The use of drone and thermal imaging could replicate the benefits of a helicopter at a fraction of the price.
+* military: obvious applications
+
+They recently completed a $1.5 million dollar deal with the US Army as well.  The CEO of Alpine says he is very confident in this experiment of drone usage to procure future contracts.
+
+[https://stockdaymedia.com/alpine-4-technologies-ltd-alpp-and-impossible-aerospace-corporation-ia-announce-that-ia-has-completed-the-final-milestone-of-their-1-5-million-us-air-force-contract/](https://stockdaymedia.com/alpine-4-technologies-ltd-alpp-and-impossible-aerospace-corporation-ia-announce-that-ia-has-completed-the-final-milestone-of-their-1-5-million-us-air-force-contract/)
+
+There has also been a lot of talk about foreign made drone models/equipment being a threat to national security so a US made drone is of highest priority to the military.  If they see an effective use for these drones we could see them expanded across other branches and used more widely $$$$.
+
+&#x200B;
+
+Funding:
+
+They've secured funding from two notable names in my opinion.
+
+1. Bessemer Venture Partners (known for being early investors in LinkedIn, Pinterest, Shopify, Docusign, Skype etc.)
+2. Airbus Ventures (venture arm of Airbus)
+
+[https://www.cbinsights.com/company/impossible-aerospace-corp-funding](https://www.cbinsights.com/company/impossible-aerospace-corp-funding)
+
+&#x200B;
+
+Another interesting thing to look at on another tab at the link above...is the patents.  They have 2 patents pending which appear to really lock down the whole "build from the battery" concept that IA has developed.  If they're able to safeguard this technology it could be huge for future growth.
+
+MOVING FORWARD:
+
+The company is moving in the direction of commercial drone usage as well.  If they're able to retain their competitive edge on flight time and payload, they will be a clear cut choice for the likes of Amazon of other e-commerce platforms to deliver packages from warehouse to doorstep.
+
+I'm having trouble finding the link right now but I've read they recently gained approval to construct buildings and operate in 7 other US states.  I'm not entirely positive what this means but I'm sure the expansion is good.
+
+Eventually Spencer Gore aims to create passenger electric planes which I know is definitely far in the future...but I feel that if anyone can get it done, it's this team.
+
+&#x200B;
+
+Anyways, there's my first real DD post...don't tear me up too bad but let me know your thoughts/comments/concerns. Thanks!_END_OF_POST_PYSTOCK_ What happens when you place a bid at a blue far above several asks? Does it get filled at the lowest ask price or does it skip ahead of them? 
+I wonder about the case urgency and priority algorithms.
+
+A separate question, but what happens when when you play a bid over the weekend or after hours? If many other people place bids or asks, how are they “ordered” when the market opens? I wonder about fairness._END_OF_POST_PYSTOCK_ GME 🚀🚀🚀🤑 There is so much written on the topic, but GME is going to the moon. Strong revenue growth, star power ownership is getting involved, and 150% of shares are sold short. The short squeeze will make Tesla look tame!_END_OF_POST_PYSTOCK_ Does anyone have advice on when dafook to sell off? I'm happy that, at least for now, that my account is doing well. But I haven't sold off much. Does anyone have any type of exit strategy that been working for them? Do I just say +20% alright sell it or is there another things I should consider? 
+
+Basically I have more experience buying stocks but that's obviously just half of it, anyone with more experience pls let me know thx._END_OF_POST_PYSTOCK_ LEAPS calls Hey I have been in the market for a little over a year now and have been really looking into different types of options lately. I feel like I'd be the most comfortable with LEAPS because I have a long time to monitor the option without losing big in the short term because I don't fully understand the whole spectrum yet. I just wanted to know if you guys think LEAPS are safer for someone just starting out in options. Thanks for any advice._END_OF_POST_PYSTOCK_ ICLN vs CNRG for Clean Energy ETF? [Link to document issued by State Street](https://www.ssga.com/library-content/products/fund-docs/etfs/us/information-schedules/how-to-keep-it-clean-cnrg-vs-icln.pdf) (CNRG advisor). It seems to me that CNRG is clearly a better pick even though it is lesser known. The expense ratios are about the same (.45% CNRG vs. .46% ICLN). Is there any reason to go ICLN over CNRG?_END_OF_POST_PYSTOCK_ Palantir is going to soar much higher in the coming weeks!!! Operation Warp Speed is using a software platform named Tiberius, which was developed by Palantir, to help local health officials decide where to allocate vaccine doses. The software will help the federal government allocate the amount of vaccines each state will receive, and local officials will use Tiberius to “decide where every allocated dose will go — from local doctors’ offices to large medical centers,” according to a press release.
+
+
+https://www.cnbc.com/2020/11/24/us-to-test-run-covid-vaccine-distribution-networks-as-it-awaits-fda-clearance-in-just-a-few-weeks.html?__source=iosappshare%7Ccom.g_END_OF_POST_PYSTOCK_ What do you think about XPO Logistic? I'm a newbie here, thinking about purchasing the stock but kinda hesitated considering its recent growth. I take a look at their last 10-K, and it seems solid. They have positive earning although in a very capital-intensive industry and have an existing international footprint. Their cash flow looks good, and in a position to grow. 
+
+Would be nice to hear everyone's opinion. Thanks!_END_OF_POST_PYSTOCK_ Seeking Advice: Managing a WHEEL strategy Hi folks,
+
+I need a little clarity on managing my trades effectively.
+
+Here’s the situation:
+
+Purchased 100 each of NIO, XPEV, PLTR back in September for around 12.39, 20.00 and 9.52 with a fresh account and a youngling.
+
+While the idea was to hold them and add more I discovered wheel strategy as I progressed in my learning. 
+
+Come October I sold covered calls for NIO, XPEV and PLTR because there was not much movement. 
+
+NIO @25 11/20
+XPEV @ 26 11/20
+PLTR @ 12 11/20 
+
+Having read that most calls expire worthless and  exercise is not as common, you can imagine that these were pretty deep in the money by NOV 10
+
+I realized that I could buy them back towards the end and had an opportunity when XPEV option to buy back dropped to 6 per share. I guess I was greedy to wait. 
+
+Eventually I got assigned for all them and by the time I collected the amount, the thought of selling CSP  was not really viable. I took it as a lesson and cost of doing business in the market. 
+
+—-So I am in a similar position now. Sold a call for PLTR and got assigned for 16
+
+-happy with my decision there. 
+-sold a call for PLTR 26 11/27 @1.04
+-collected the premium thinking the move is not going to be as aggressive.
+-by afternoon it almost hit 25
+- I brought back the call @ 1.35
+
+So losing money is not the issue. It feels like I shouldn’t trade if I can’t manage this strategy with 1 piece of contract. 
+
+How do you guys manage it when your call starts getting in the money. I understand that it’s ok to allow it to happen and then you may get assigned and that’s part of the process. 
+
+1. Question is how do you catch the transaction back again once the price keeps moving up. 
+Eg. XPEV and NIO just kept going and I held puts in my hand. How long do you keep on? 
+
+2. You also need collateral to pledge if you go for puts going up on the share price. What should one keep in mind once the trade starts getting out of your hands?
+
+
+Appreciate all your feedback 
+Fss_END_OF_POST_PYSTOCK_ It seems beneficial for Biden and the Democrats to correct the markets. The markets correcting seem to be a topic many traders are afraid to discuss, but there are a couple major reasons why this can greatly benefit the Democratic party in the near future, and I believe everyone other than WSB should be understand how and why this can occur.
+
+&#x200B;
+
+* Biden can blame Trump, and never have to worry about  another huge correction during his presidency
+* Democrats blame Trump and then have the ability to implement radical progressive changes with little resistance from the now beaten down Republicans
+* A market correction will provide a perfect base for extraordinary growth during the Biden presidency, increasing his approval and odds of reelection with minimal intervention.
+
+&#x200B;
+
+When will this correction happen? No clue but I have a prediction... the market crash in Feb/March was easily predicted by COVID concerns, rising volatility during green days, and the quick ATH we achieved beforehand.
+
+We currently meet every single one of those criteria, plus with the thanksgiving COVID wave coming hot 2-3 weeks from now. The high odds that income and capital gains taxes will go up for 2021, I believe we might be seeing some dark red much much sooner than anyone expects._END_OF_POST_PYSTOCK_ New 52 week high for Tesla Tesla afterhours is currently at 562! Unbelievable! How high do we think it will go before its inclusion into the sp500 come December? Do stocks tend to go up or down after the date of inception? Does it plummet just like how most of these tech stocks perform post earnings reports?_END_OF_POST_PYSTOCK_ What are Good Wall Street/Finance documentaries that neither Demonize nor Romanticize and instead simply educate? YouTube and the popular streaming services are filled with documentaries where the filmmakers either demonize or romanticize Finance. "Evil Guys In Suits" or "Cocaine, Hookers and Party everywhere"
+
+&#x200B;
+
+I simply want to learn some facts_END_OF_POST_PYSTOCK_ Help me think of recovery stocks for 2021 So I’m starting to build my thesis and ideas to set positions for 2021. It’s looking like 2021 will be a recovery year and a step into normalcy. What are some stocks that are solid companies with upside to get to where they were pre March 2020? Here’s my list so far.
+
+LUV and SAVE - I think 2021 will be a recovery for travel but mostly domestic. Both of these companies have cash on hand and can operate closer to capacity with domestic. I like them to recover quicker than other airlines LUV still has about $19 upside to get back to pre covid levels and SAVE about $40ish
+
+BUD - I think clubs, events, parties will slowly step in the direction along with restaurants. People will consumer more alcohol This is still about $32 pre covid upside. 
+
+SIX - Theme parks opening up again. Sea World and Disney already kind of priced in, although I think Disney will continue to grow. Six Flags still have about $30 from pre covid level upside. 
+
+JWN - Although Nordstrom popped today, you still have $15 upside for a solid brand. 
+
+DDS - Same as Nordstrom. Dillards has a good following and $30 upside. I think Nordstrom has a better online presence though. 
+
+AMC - Risky play here as they don’t have a good balance sheet, but $3 and potentially more upside long term. 
+
+CNK - From my understanding, Cinemark has a better balance sheet than AMC and still has about $13 upside. I’m thinking of selling AMC and jumping in this. 
+
+Just about all Bank Stocks. All banks are still down good but. The ones I like the most are C, JPM, and BAP. 
+
+What are some I’m missing? Any ideas are greatly appreciated for me to research. Think entertainment, products, events, travel, consumables etc._END_OF_POST_PYSTOCK_ What’s going to happen tomorrow with SPCE? I think it will 100% either go up or down
+
+1. Relatively small dip as short interest continue taking profits hoping to buy back in again. Staying above 24.30
+
+2. It breaks resistance at 25.50 and runs up 6-8%
+
+Those are my two guesses, thoughts?_END_OF_POST_PYSTOCK_ Moderna-Sell or Hold I bought Moderna back in July at a terrible $87/share (dropped right after I bought). Should I get out and take the gain once it breaks $100/share again or hold out with a potential FDA approval coming up?_END_OF_POST_PYSTOCK_ How do you pick stocks? Hi all, I am new to actively investing in my own stock picks. I was wondering how you find smaller companies to be ahead of the market? I.E. all those who got on NIO first, etc. 
+
+Also do you guys do any valuation models like DCF or do you just speculate?
+
+All advice and tips is appreciated._END_OF_POST_PYSTOCK_ Thoughts on Macy's? I'm not sure if its going up but I believe it will because its e-commerce is going up and the Thanksgiving parade is going to help the company even if there's no physical crowd
+
+I'm just lost with this one.
+
+So, to Macy's or not to Macy's (Shakespeare reference)_END_OF_POST_PYSTOCK_ Who are your favorite investing/stock market Youtubers/Podcasts? Hey guys just getting into the stock market and investing and was trying to see if the community had any good youtube videos or podcasts I could listen or watch to help get more knowledgeable about everything. I can listen to stuff while at work all day so I am trying to spend that time learning about stocks. Thanks._END_OF_POST_PYSTOCK_ Is Airbnb a Hyped Stock? Probably not a solid long-term play but how do you feel about buying the Airbnb ipo day 1 and selling before the lockup period?
+
+I feel like it’s going to surge and gradually taper off in the coming months.
+
+Company isn’t going bankrupt any time soon, but I’m not waiting around to see. But I don’t plan to stay around long enough to see that.
+
+Figure i can buy back in after the lock up period at a lower share at a later time.
+
+Any reasons not to be bullish out the gate?_END_OF_POST_PYSTOCK_ Can one with F1 visa buy MLP stock? I am not a U.S. citizen and I have F1 visa. I bought MLP stock (EPD) this year and just notice the tax is different to general stocks. Will it cause any problem to my visa status? I read websites and some of them show it may be a self-employment income. F1 visa can not have any self-employment
+
+&#x200B;
+
+Thanks. Sorry for my poor English._END_OF_POST_PYSTOCK_ Why is the stock market at all time highs? We are in a major recession and deadly pandemic. A lot of people are out of work.  A lot of stores are going out of business permanently. Unemployment is massive.  Over a million people have died.
+
+Yet the stock market is at all time highs. Wtf_END_OF_POST_PYSTOCK_ HEAR is the next CRSR/LOGI Turtle Beach is a gaming peripherals company, which due to their current size, haven’t received as much fanfare/follow ups even though they’ve been killing it during Covid. 
+
+Now HEAR basically enjoys the same tailwind as CRSR/LOGI; think about sets purchased during covid, secular growth in gaming, NVDA releasing new graphics which trigger gamers to update their set ups, holiday season coming up. In fact, the sales growth last quarter was 140% while having very respectable 15% net income margins. 
+
+So what doesn’t it enjoy?
+
+Fair valuation like it peers. Now this is a company that has sales $112m last quarter (50% of Razer, 25% of CRSR, 10% of LOGI) however its valuation is 10% Razer, 7% CRSR and 2% LOGI. 
+
+What does it mean?
+
+HEAR should be valued at 3-5x current value if it just follows its peers, which provides incredibly thick margin of safety. 
+
+I believe holiday season will provide another trigger for the company to unlock its true value. 
+
+Even better, HEAR’s IV is still around 70% unlike other meme stocks at 100%++. 
+
+I’m in on 30c Apr’21, shares_END_OF_POST_PYSTOCK_

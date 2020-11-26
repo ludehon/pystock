@@ -1,6 +1,19 @@
- Is VOO too conservative for an 19 year old? I'm 19 and have $33,000 in VOO and another $6,000 in QQQ. Is the VOO too conservative? I plan on investing for 20+ years. What suggestions do you guys have to diversify for greater gains??
+ Long-term treasury bond yields and the Fed funds rate My forays with Morningstar into researching fixed income have ingrained into me that long-term bond funds have "high interest rate sensitivity". Thank you, Style Box.
 
-I'm also investing about $1000 a month between the two. I'm trying to invest a little more in QQQ_END_OF_POST_PYSTOCK_ HPQ short analysis I purchased HPQ at $20.61 the other day, and yep, it's dropped a little since then. I'm new to investing, but my thought process feels logical, and I fully plan to put more into this stock, and here are my thoughts.
+And yet. Fooling around with FRED today, it appears to me that the last time the U.S. Treasury 10 and 30 year constant maturity rates had a really prompt and marked upwards response to increases in the effective Fed funds rate was back in 1993-4. 
+Anyone care to pontificate on what is going on here?
+
+My guess: the Fed takes away the punch bowl and the bond market is already anticipating a recession if it's in the late cycle as opposed to the mid cycle._END_OF_POST_PYSTOCK_ Future of Health & Fitness We can agree that Peloton and all these fitness at home gadgets will be here to stay even after COVID and reshape fitness entirely. What I don’t understand are the patents. 
+
+Peloton and Soul Cycle make cardio machines, but what about weightlifting? I looked into this further and found several companies - Tonal, Mirror, and Forme Life. These products are all very similar and they all have patents, yet I don’t see any lawsuits yet. 
+
+For anyone who understands how patents will affect this industry: 
+
+1) How are these patent infringements defined?
+2) Why are these companies allowed to make similar products?
+3) If these patents can’t be enforced globally, what’s to stop me from making cheaper products in China and mass selling them there?
+
+Basically, I want to know what moat these companies have other than patents. Because other than that, what prevents Peloton from making these weight machines or these weight companies to make their own bicycles?_END_OF_POST_PYSTOCK_ HPQ short analysis I purchased HPQ at $20.61 the other day, and yep, it's dropped a little since then. I'm new to investing, but my thought process feels logical, and I fully plan to put more into this stock, and here are my thoughts.
 
 I initially purchased positions because they are announcing their Q4 earnings on the 24th, and I believe they've done really well this last quarter with sales of laptops from everyone working from home, as well as prolonged lockdowns being announced and less opportunity to begin working in shared spaces. Those who didn't already have a work laptop, definitely do now. To me, HP screams student/business compared to Dell, and other competitors that give off more of a casual use appeal (like Chromebooks).
 

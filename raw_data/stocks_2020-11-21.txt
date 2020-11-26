@@ -1,14 +1,139 @@
- Most promising stock of 2019/2020 IPO’s If you had to pick 1 stock to dca into over the next 5 years looking for maximum growth potential which would it be? $U has really captured my attention and I think that’s the one I would choose. Disclaimer, this is my first post._END_OF_POST_PYSTOCK_ What’s the big deal with earnings? I constantly see posts about upcoming earnings reports. Why would someone that isn’t already invested in a company care about there earnings? How do earning correlate to how the stock performs immediately afterward? What information are people looking to gain from an earnings report?_END_OF_POST_PYSTOCK_ How do you pick growth stocks? Hi everyone,
+ DD on UBER vs LYFT Thought on Uber vs Lyft, i want to hold Uber long term and i know they're definitely a great pick with their business model. After checking their stats and doing my own DD on Uber. I got side tracked looking at Ubers competitor Lyft. It seems Lyft has a lot better finances than Uber. Their P/S is lower, Debt is way lower and have a better EBITDA. Now looking at their earning too. Am i missing something about Lyft, Uber has Uber Eats and Uber seems to be more of a popular name. Lyft has a partnership with Grubhub.
 
-I'm a fairly new investor (\~early 20s), so far I've really bought into index funds and dividend stocks, but have been hearing that I need to look more and more into growth stocks. I'm interested in picking a few individual growth stocks. Beyond the obvious stable but growing tech picks like Microsoft, Apple, Google, etc. how do you identify growth? Is it a lot of betting on potential of a product/idea? A lot of the growth stocks that soar in value seem to not be showing positive earnings. I'm curious how to identify and get in on growth stocks, since it seems like its largely gambling to me._END_OF_POST_PYSTOCK_ Investors finally reward General Motors’ shift to EVs even as it cuts emerging mobility plans https://www.cnbc.com/2020/11/21/coronavirus-pandemic-and-evs-prove-gms-worth-to-investors.html
+They seem like a good pick but I'm definitely going to stick with Uber, Uber is still superior and i like Uber as a business. Just wanted to gather opinions on this._END_OF_POST_PYSTOCK_ Are stock brokers overrated? Hey all long time lurker first time posting. I see people talk about apps you can use to invest, but I’m very new to investing and would appreciate a more personal approach to buying stocks. I know because of the pandemic meeting a broker in person may not work out....is it still realistic to seek a stock broker? I have no experience buying stocks btw._END_OF_POST_PYSTOCK_ What are your genuine thoughts on day trading? A lot of people say most people will fail, but what about the risk management? I'm curious to know how many of you day trade, what your risk management looks like, and if you're profitable or not.
 
-As GM profitably navigates the coronavirus pandemic, Wall Street is paying more attention to its EV operations.
+Everyone I ask IRL about day trading always say it's a bad idea, but they're not traders. I'm wondering if this is just a common misconception among the average person and if day trading is actually profitable with those who take risk management into account._END_OF_POST_PYSTOCK_ are all my picks overvalued??? hello all, the main reason i am posting this is because i dont know whether i should buy more shares of these companies or diversify more. i have a small portfolio of 2k. so far i am up 28%. 
 
-GM has discontinued several “mobility” initiatives such as Maven and e-bikes to better concentrate on more profitable or lucrative operations.
+these are the stocks i have invested in: 
 
-Many of the initiatives were launched in an effort to spur GM’s lagging stock price and position it as a “mobility” company._END_OF_POST_PYSTOCK_ Not sure if it's been posted about but thoughts on SBE? As the coming partnership with ChargePoint is nearing, the stock has taken off in the last 5 days, going from 17$ all the way to its high at around 27$. 
+ENPH (up 84%) 
 
-I know the company is backed by some major companies, most importantly Tesla. These guys have the majority of the market when it comes to supplying charging stations around NA and EU. What do you guys think about the future of this company? To me, the future looks bright. Is it a good buying time?_END_OF_POST_PYSTOCK_ Should you sell off your profits to secure your wins Is this a method people do?
+NET ( up 70%)
+
+ICLN ( up 33%) my biggest holding by far (gift from my dad)
+
+ARKF ( up 7%)
+
+IBDRY (up 7%)
+
+AMD ( up .40%)
+
+&#x200B;
+
+I bought alot most of these late august, and since then they have exploded. my question is, most of these stocks seem overvalued right, now, so would it make sense buying more shares at these heavily inflated prices?
+
+&#x200B;
+
+the reason i have not bought a vanguard index ETF is cause alot of them are quite expensive for the money i have on hand. 
+
+&#x200B;
+
+thoughts and advice?_END_OF_POST_PYSTOCK_ Account transfer I'm looking to transfer my brokerage through ACAT system but I'm getting conflicting answers on how long it will take. Some say 3-6 business days and others say realistically 2-3 weeks. Also can I buy or sell during the transfer period? I'm in some risky investments so that could be an issue._END_OF_POST_PYSTOCK_ Technical thoughts about PLTR Hello guys, I've been wanting to expand about my thoughts on Palantir. I have been trying to contain my excitement for awhile because I honestly didn't want this company to become a meme or anything (I totally did not help with some of my posts about it) but I do want to share my understanding about the tech and this company. I'll try to refrain from posting any useless information that's just going to come off a pumping the stock from now on.
+
+**Let me just start this off by requesting that we leave out the ethical and morality discussions and focus on the technology. I do not know enough and thus do not deserve to have opinions regarding the philosophical aspects of the technology. The only thing I can say for certain is that for better or worse, this technology will change lives.**
+
+I'll begin with the basics, I'm going to try to simplify it as much as I can, but it does help if you have some general understanding about software and how a computer works....
+
+# Natural Language Processing
+
+Imagine that we have a big email data set, terabytes of emails collected. We want to find out whenever a person named John Doe, who lives in Iowa, was mentioned or involved in an email chain. We task a data analyst, engineer, or a developer to find all this data points.
+
+>No problem, I'll just write up some code that identifies the email by the sender and recipient with John Doe's email address.
+
+A naive approach. This approach would definitely find emails that involved John Doe but completely miss out any mentions of John Doe that did not have him involved the in the email chain, not to mention, you would need a list of all of John Doe's emails which may be information that is already hard to come by.
+
+>Ok, I can cover my bases by searching for the word John Doe in the subject and body email.
+
+Great, we pulled in more data that could be emails talking about John Doe. Then you realize the fact that people call him Johnny Boy, JD, Joe, Mr. Doe, Doe Man.
+
+>Well shit, how can I possibly cover every permutation of this person's name? Not to mention, there seems to be other John Doe that doesn't seem to be the same John Doe who lives in Iowa that we are looking for coming back in the results.
+
+Hopefully you can start to see the problem. It would be impossible for a programmer telling the machine what to look for to come up with every possible permutations and edge cases to find the information we are looking for. You think to yourself, we're going to have to hire thousands of people to read through terabytes of data to identify the emails we want. Then you start to think, how would a human actually identify John Doe from text and determine that THAT is the John Doe we are looking for? The answer is in the context of the email. If the person is talking about Johnny Boy's burger shack in Iowa, it's likely the John Doe we're looking for. But if the person is talking about Mr. Doe's investment firm in Panama, then that's probably another Mr. Doe (though a pretty shady one if you'd ask me).
+
+Now, how do we get a computer to understand a context of words, how can we transfer that skill to a computer program? We can use machine learning. Humans can identify examples of John Doe and teach the machine that this is what we are looking for, through a feed back loop we can continually improve the understanding of this "model" and teach the machine to identify the specific block of information we are looking for.
+
+Obviously this doesn't just work for names. You can be specific as you want and as general as you want. Say phone numbers, (111) 222-3333 can be written as 111-222-3333, 111.222.3333, 111 222 3333, 111 CAB-3333, and the list goes on.
+
+# Natural Language Understanding
+
+Ok, we now want to find out where he's been and what he has been up to. How we an engineer go about solving this problem? Again, there doesn't seem to be an easy way to accomplish this. We know how to identify entities, we can actually apply the same concepts we used to teach the machine how to identify John Doe.
+
+    He's booking a flight to Moscow for 01/02/2023
+
+We already know that "He's" is referring to John Doe. We know that "Moscow" is a location through Natural Language Processing and we know that "01/02/2023" is a date through named-entity recognition. We can teach the machine that this is an example of travel and label this whole sentence as a "movement". We hope that the machine can identify and trace is location just by all the cookie crumbs left behind. We can then build a map of all the places he's been to by tracing all the identified "movement" points, sort them by date grab the locations.
+
+# Why Palantir
+
+A lot of the criticisms have detailed how a lot of this technology is open sourced which is true. A lot of this tech are still popular academia research topics. This also means that there are progress being made to it every single day. However, the concepts and technology may be open sources but the features and methods you build around it determine the effectiveness of the product. There is a popular saying in academia that goes like this.
+
+>Garbage in, garbage out
+
+Using the same technique in training your models may yield results but doesn't technically mean they would yield great results. Generating a good model has a lot to do with how clean your data is, how well you tuned the learning process, how well your features and weights are built around the algorithm.
+
+When government/businesses consider using these products, they usually create a bake-off and analyze the performance and features included in each product. They use metrics like precision/recall that determines how many data points that the machine identified from the truth set and how many data points that the machine missed. These metrics are important to the clients for many reasons one of which is because it can potentially mean they miss or waste time on data points that lead them to nowhere and is particularly important for applications like defense. If the government picked Palantir, you can be confident that they are the top of their class.
+
+# Challenges
+
+A lot of posts have mentioned that Palantir sends consultants and is therefore a consulting company. Which I don't disagree that their "Forward Deployed Engineers" are technically consultants. However, these consultants DO serve a purpose. The concepts and applications here are still being discovered in the market today. I'd like to think of these consultants as technical sales consultants. Companies today don't necessarily understand the value of their data and what can be done with it. A lot of their data are just noise today. They store it and are unable to do anything with this. **It is necessary for someone with the skillset to come in and build the foundations required/clean up the data for companies to start leveraging it.** However once the value becomes visible, it seems to be a very sticky proposal and becomes evident that it is a leg up among their competitors. We don't currently have enough talent in the work force today that have the ability to come in and shift the data analysis landscape. It is also very expensive to do inhouse. Having Palantir come in with their consultants is really just these companies dipping their toe in to the ocean for the benefits that is to come.
+
+# Last thing
+
+Hopefully this gives you guys a bit more information about Palantir's tech and realize that you guys can see how a little bit of creativity in extracting information from data using the tools Palantir provides is game changing.
+
+I will leave you all this this xkcd comic that I found was very representative of the problem at hand. Sometimes, it can be difficult to explain the difference between the the easy and the virtually impossible.
+
+[https://xkcd.com/1425/](https://xkcd.com/1425/)_END_OF_POST_PYSTOCK_ $XPEV is playing out exactly like $NIO was pre breakout, opinions?  Been doing some DD on $XPEV also and they seem really solid. There self driving tech is arguably better then Tesla yet there cars are half the price.. also there already expanded in Europe (unlike any other chiniese ev compnay) and is being funded by the government. Anyone else long on this compnay? I’m thinking about throwing half my buying power into it, the more I read up on them the more I like_END_OF_POST_PYSTOCK_ If "Work From Home" Trend Accelerates and Stays, Causing Pop Shift From City to Suburbs, What Stocks Benefit Long Term? COVID has accelerated the already growing trend of various businesses letting certain segments of their workforce work from home. This is something I see staying in place and continuing to accelerate even when COVID is in the rear view mirror. What I also want to explore is in that scenario if we see a population shift of people moving over time from inner cities to more suburban areas, what stocks and/or sectors benefit in the long run (10-20ish years from now)?_END_OF_POST_PYSTOCK_ If my stocks are in Etrade, do I still need to update my contact info with each individual company to avoid forfeiture? I got a notice years ago that an investment I had was in danger of being forfeited, because the company couldn't contact me, because I hadn't given them my current contact info. I had no idea this was a thing and freaked out and quickly filed the paperwork to update it. But it made me mad. IMO I should be able to ignore a stock for 20 years if I want to and still own it. But no, I guess they need to be able to contact you *or they can literally just take your stock!*
+
+Thing is I own shares of like 30 different individual companies and just keep track of them in etrade. Do I have to go through all of them and contact each one? Or does having them in etrade take care of that as long as my info there is up to date, which it is. Thanks very much._END_OF_POST_PYSTOCK_ Why I'm bearish on V & MA, but still love FinTech * In FY 2019 before COVID-19:
+   * International Transaction revenue for V = 34.0% of Net Revenue
+   * Cross-border Volume revenue for MA = 33.2% of Net Revenue
+
+&#x200B;
+
+* The latest quarter y/y change for V's International Transaction revenue:
+   * \-38.3% revenue decrease
+   * Cross-border volume x Intra-Europe = -41%
+
+&#x200B;
+
+* The latest quarter y/y change for MA's Cross-Border revenue:
+   * \-47.9% revenue decrease
+   * Cross-border volume x Intra-Europe = -49%
+
+**My concerns about V and MA**: Both companies during their recent earnings call said personal travel should pick-up quickly once a vaccine is widely distributed, while business travel will take longer. **I agree**. They both mentioned that personal travel is "more substantial" than business travel. Neither company quantified how much of their International Transaction/Cross-border volume is in jeopardy because of the permanent impairment of business travel so that's a major red flag, especially when you consider how important that revenue category is to both companies' top-line and bottom-line since these transactions tend to be higher-yielding than domestic transactions. Without a clear answer, **there's a real risk that International Transaction revenue/Cross-border volume revenue and profit may disappoint after a vaccine is distributed because of business travel.** Both stocks have held up well despite underwhelming results for a FinTech during the pandemic, but investors may need to rerate shares if performance is consistent with my concerns.
+
+**Why I could be wrong**: V & MA may benefit from accelerated cash displacement and get volume from lower-yield transactions. But, it's not clear if it will be enough to offset the higher-yield international transactions. It certainly wasn't enough for either companies for the current quarter.
+
+**Why I still love FinTech**: Besides travel, a lot of wonderful secular trends are benefitting the industry and will only accelerate due to the COVID pandemic. There's a long run-way to expand the world's population to have access to financial services like banking, online shopping will keep growing where cash isn't an option, and continuous innovation will push people away from cash for face-to-face transactions._END_OF_POST_PYSTOCK_ Does anybody actually find level 2 data useful? I've tried using it in conjunction with my usual technical analysis, but it honestly doesn't seem to help me.
+
+I guess I should point out that I mostly swing trade, only holding most positions for a few days/a week at most.
+
+Is it something that proves useful to long term holder, rather than short term holders?
+
+If it is useful to ya, what do you look for on the depth charts (specific shapes, or gaps)?_END_OF_POST_PYSTOCK_ New shares in depot. But never bought Hello,
+Beware, I am a newbie in stocks and trading.
+I just invested into some stocks and playing around a little.
+Now i saw that in my depot I have some shares of Viatris Inc. But I never bought it.
+How is that possible?
+Does it have to do with, that I own some Pfizer shares?_END_OF_POST_PYSTOCK_ Tesla is on a hiring spree to try to reach 500,000 annual car deliveries, and is recruiting part-time staff because it doesn't have to buy them laptops, according to a report https://www.businessinsider.in/thelife/news/tesla-is-on-a-hiring-spree-to-try-to-reach-500000-annual-car-deliveries-and-is-recruiting-part-time-staff-because-it-doesnt-have-to-buy-them-laptops-according-to-a-report/articleshow/79310566.cms
+
+Tesla has hired about 1,000 sales and delivery staff across North America over the past two months, sources familiar with the matter told Electrek, as it works towards its 500,000 annual deliveries target.
+
+Tesla is also using a new recruitment strategy, the sources said, focusing on hiring part-time sales and delivery workers.
+
+This allows the company to save costs, the source added, because part-time employees have fewer benefits and Tesla doesn't have to supply them with laptops and cellphones._END_OF_POST_PYSTOCK_ What do you guys think about LULU? Girls absolutely love this brand for their leggings. I waited in a line around the block just to walk around in a lululemon store with my girlfriend. It seems like any time I see leggings now, especially on a more athletic person, they’re lululemon and people can’t get enough of showing off the brand. 
+
+What I’m wondering is is there room for growth in the stock price?
+
+I think the company is huge, their following insane and people have committed to them. They definitely hold a very solid hold on particular the women’s athletic clothing scene. But I’m wondering, how much can a 350$ stock price rise without more dramatic change in market?
+
+Lulu also has acquired MIRROR which I’ll be honest I haven’t seen the numbers on how well that’s doing, but I’ve seen the commercials and I know the product has grabbed my eye. 
+
+Is there more room to grow?_END_OF_POST_PYSTOCK_ I think I went a little overboard I put 50k of my own money and 50k margin into one stock buying shares and I'm pretty sure I'm just extremely lucky. I had a 10% gain and now that I have a moment of clarity over the weekend I feel like I should sell 100% of my margin since the stock I'm invested in is volatile. I don't know why I didn't sell when I was up on Friday because prior to that I was down by 20k prior to me being up. I hope I won't be too late when Monday rolls around. Or maybe I should just sell 100% of the stock and go back to index funds on Vanguard. I have never risked that amount of money in my life and I don't know why I did that. I would like to continue messing around with individual stocks, but it seems I have zero self-control and I was just wondering what tips you guys would have to offer to resist the urge to gamble? Or is it best for people like me to stick to investments that are categorically defined as safe?_END_OF_POST_PYSTOCK_ Can someone explain registered direct offerings in simple terms and what that means for buying and selling shares? Was doing some searching and found that Tantech (TANH) dropped massively after consistent growth due to a $10m registered direct offering. 
+After some research on them they sound like a company I want to invest in however I don't really know what this means as far as what to expect next. 
+Is it a good time to invest or could this mean more loss in the future?_END_OF_POST_PYSTOCK_ Most promising stock of 2019/2020 IPO’s If you had to pick 1 stock to dca into over the next 5 years looking for maximum growth potential which would it be? $U has really captured my attention and I think that’s the one I would choose. Disclaimer, this is my first post._END_OF_POST_PYSTOCK_ What’s the big deal with earnings? I constantly see posts about upcoming earnings reports. Why would someone that isn’t already invested in a company care about there earnings? How do earning correlate to how the stock performs immediately afterward? What information are people looking to gain from an earnings report?_END_OF_POST_PYSTOCK_ How do you pick growth stocks? Hi everyone,
+
+I'm a fairly new investor (\~early 20s), so far I've really bought into index funds and dividend stocks, but have been hearing that I need to look more and more into growth stocks. I'm interested in picking a few individual growth stocks. Beyond the obvious stable but growing tech picks like Microsoft, Apple, Google, etc. how do you identify growth? Is it a lot of betting on potential of a product/idea? A lot of the growth stocks that soar in value seem to not be showing positive earnings. I'm curious how to identify and get in on growth stocks, since it seems like its largely gambling to me._END_OF_POST_PYSTOCK_ Should you sell off your profits to secure your wins Is this a method people do?
 For example, if I have 10 stocks at $1 and it goes up to $1.10.
 Im now at $11 total and so I should sell off 1 share in order to secure my gain?
 
@@ -151,14 +276,7 @@ The FOMO is obvious, get your popcorn ready for some loss porn._END_OF_POST_PYST
 
 I thought of some things that I should consider when investing but whenever I try to look them up about a company I can’t find it. For example I would try to look at what kind of insurance policies a company has but I would get weird results from google. I want to build a profile on most of the things that can go wrong with a company and what they have going for them but its hard to do that with google. Also, the news only updates me on what is happening right now which doesn’t help. 
 
-TL:DR- how do I find out quality info on companies (like insurance policies, risks, Ceo’s history, possible things that can go wrong, advantages, ect.) Google and the news alone don’t seem like enough._END_OF_POST_PYSTOCK_ I’m just starting to learn about stocks for investment purposes, I have some questions I live in Iraq. So if I want to invest in Tesla for example, would I face any problems? Also, would it be ok to use foreign online brokers like TD ameritrade? 
-
-And if there are any recommendations for things I should learn about through searching/reading, please let me know. My current knowledge about stocks is pretty limited._END_OF_POST_PYSTOCK_ ETF investor wants to buy growth stock with market cap below 15B (that pays dividend). Hi, I'm looking for stocks to add to my portfolio that have a market cap below 15B (and pay a dividend).  
-The idea is to purchase stocks that may outperform QQQ and be target for a merger/acquisition.  
-  
-Only found TER (Teradyne) so far. 
-I can do without dividends too if the stock has great products like CRNC (Cerence).  
-Any suggestions?_END_OF_POST_PYSTOCK_ Wall Street Week Ahead for the trading week beginning November 23rd, 2020 Good Saturday morning to all of you here on r/stocks. I hope everyone on this sub made out pretty nicely in the market this past week, and is ready for the new trading week ahead.
+TL:DR- how do I find out quality info on companies (like insurance policies, risks, Ceo’s history, possible things that can go wrong, advantages, ect.) Google and the news alone don’t seem like enough._END_OF_POST_PYSTOCK_ Wall Street Week Ahead for the trading week beginning November 23rd, 2020 Good Saturday morning to all of you here on r/stocks. I hope everyone on this sub made out pretty nicely in the market this past week, and is ready for the new trading week ahead.
 
 Here is everything you need to know to get you ready for the trading week beginning November 23rd, 2020.
 

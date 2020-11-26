@@ -1,0 +1,134 @@
+ How many companies fail an EIA or next stage because of the public consultation?  
+
+I'm just wondering. I hear mainly the public consultation is often just a formality in mining applications. I'm not sure what counterparts in other businesses/etc are. Interested because I wonder if there's a form of arbitrage that can be applied to this, derisking, etc._END_OF_POST_PYSTOCK_ Using probability and Kelly Criterion for investment sizing I recently ran into the problem of deciding how to split money into different assets (more specifically stocks and bonds). The idea is that the investment size should be a function of the probabilities of receiving the cash flows, and the cash flows themselves. For a company this could be the future free cash flows, and for a bond it would be the future coupons.
+
+My first attempt was assuming one would either lose all their money, or make a specific profit. I tried multiplying each expected profit with the probability of me getting it (implying that the probability of total loss is 1 - P(profit)), and then doing the same for all other investment opportunities. Consequently, I added all the terms, and each term divided by the total would give me its share of the total portfolio. But there were several problems with this approach:
+
+1. It is too black and white. In reality there are multiple outcomes, not just profit and bankruptcy. If I have the probabilities of partial winnings and partial profits, I should be able to use this extra information for better approximations.
+
+2. It is illogical for special cases. If I have an investment opportunity with a winning probability of 100% and cash flows higher than other opportunities, then my calculation would not tell me to put 100% of my money into it, which is obviously irrational because of the high profit and zero risk.
+
+Later I stumbled upon the Kelly Criterion for bet sizing and tried applying it. Again, I faced the black and white problem, but then also the fact that I couldn't generalize it to more than one bet, because the Kelly Formula is meant for single bets. In the end I found some articles detailing solutions to my problems, but the math was way to complicated for me to comprehend.
+
+If someone has a way of dealing with asset allocation in this manner, as a function of cash flows and probabilities, please comment below. I've been torturing myself with this for some few hours now._END_OF_POST_PYSTOCK_ Are there any rules behind stock offerings? It seems like a company could really take advantage of public investors by constantly diluting their ownership A few companies I'm invested in (RDFN and NCLH) have recently done stock offerings and the share price understandably drops immediately after.  It means that if I used to own 100 shares out of 1 million for example, I now only own 100 shares out of 1.1 million.  In other words, my stake in the company has been reduced wtihout my approval.
+
+Lot's of other companies have been raising money through offerings lately.  TSLA, DKNG, AMC, CCL, PLUG, just to name a few.  
+
+So my question is are there any restrictions on how much and how often a company can do this?  Otherwise it seems like a company could really take advantage of the public by constantly diluting their ownership._END_OF_POST_PYSTOCK_ Index funds composed of subscription businesses? I'm briefly read about index funds that have exposure to subscription businesses, which generally aligns with my some of my core market beliefs.  I initially read about one in some form of article, but can't remember any more details. Does anyone have suggestions on funds, or who might offer them?
+
+&#x200B;
+
+Disclaimer:  I'm expanding my portfolio a little bit out from just core S&P 500 index funds. I understand this is riskier than S&P 500. I accept that expected ROI may be lower than parking in S&P funds._END_OF_POST_PYSTOCK_ How do developing countries manage to pay high interest rate on their foreign currency debt? Examples:
+
+On July 1, [Ukraine](https://tradingeconomics.com/ukraine/rating) (S&P/B/Stable, Fitch/B/Stable, Moody’s/B3/Stable) [was](https://pro.intellinews.com/ukraine-plans-12-year-dollar-eurobonds-buy-back-2021-2022-issues-186520/?source=ukraine) also in the market, looking to sell 12-year USD-denominated papers at 7.875%.
+
+[Earlier, in June](https://pro.intellinews.com/belarus-raises-1-25bn-from-new-eurobond-placement-185775/?source=belarus), [Belarus](https://tradingeconomics.com/belarus/rating) (Fitch/B/Stable,  S&P/B/Stable, Moody’s/B3/Stable) placed $1.25bn of US  dollar-denominated Eurobonds—a five-year tranche worth $500mn at 6.125%  and a 10-year tranche amounting to $750mn at 6.375%.
+
+[On June 11](https://pro.intellinews.com/croatia-s-latest-eurobond-heavily-oversubscribed-185235/?source=bne-credit), [Croatia](https://tradingeconomics.com/croatia/rating) (Fitch/BBB-/Stable,  Moody’s/Ba2/Positive, S&P/BBB-/Stable) issued an 11-year,  €2bn eurobond with a coupon of 1.5% and a yield of 1.643%.
+
+[On June 10](https://pro.intellinews.com/albania-issues-650mn-eurobond-with-3-65-coupon-185059/?source=albania), [Albania](https://tradingeconomics.com/albania/rating) (S&P/B+/Stable, Moody’s/B1/Stable) issued a seven-year eurobond worth €650mn, with a coupon rate of 3.65%.
+
+&#x200B;
+
+Yes, I get that people won't lend to "Albania" because there is risk of default associated with a random country like Ukraine or Belarus. But how do these countries manage to repay there debt at 8% interest rate? 
+
+Like what exactly are they doing with this money that can generate that much returns when developed world is near 0% or negative interest rates._END_OF_POST_PYSTOCK_ Thorough write up on the variables involved in Palantir's direct listing + lock up period, how they can affect the price. Reference: [Palantir's Lock-Up Period by John Rhodes (Seeking Alpha)](https://seekingalpha-com.cdn.ampproject.org/v/s/seekingalpha.com/amp/article/4390842-palantirs-lock-up-period?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16060669239697&csi=1&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4390842-palantirs-lock-up-period)
+
+There are a number of factors influencing the price of shares I was unaware of, especially the true meaning of a direct listing, differences between PLTR's direct listing and others, and the circumstances and options offered to employees (current and former) well in advance of the public sale of shares.
+
+For newer investors (of which I'm one), I found this very educational._END_OF_POST_PYSTOCK_ $UNP earnings report In the latest earnings report, Union Pacific showed lower yoy operating income and lower bulk freight and industrial freight revenues. Other than an improve on the operating ratio, i don’t see anything quite positive in this report. Still, the stock keep going up. I know it’s hard to say why $UNP is pumping on the short term, but am i missing something here? Couldn’t find any news justifying these drops in revenues._END_OF_POST_PYSTOCK_ What are the most adequate ratios to look out in private hospitals institutions? I have been screening public vs private hospital healthcare institutions in Europe and from my early assessment I think that there are clearly different ratios to be considered. 
+
+A simple analysis is that the Public sector is not affected as deeply as the private sector by the payments of the insurance companies. I think the most accurate ones are operating margin, cash flow operating coverage and debt to capitalization in the private. I don’t think that the same are applicable for the public sector. 
+
+Any suggestions/tips? 
+Side note: I’m quite aware of the concepts but this is one of my first exercises. Sorry for any major mistake._END_OF_POST_PYSTOCK_ Surging debt during the pandemic is creating dangers for investors and developed countries >The coronavirus crisis pushed global debt levels to a new high of over $272 trillion in the third quarter, according to the Institute for International Finance.
+>Sonja Gibbs, IIF's managing director of global policy initiatives, told CNBC on Friday that one of the big areas of concern is in developed markets, which are battling slow growth and rising debt at the same time.
+>Gibbs also flagged increasing dangers for investors who choose to invest in government bonds for the traditional stability. China sold its first government bond at negative rates.
+
+https://www.cnbc.com/2020/11/20/pandemic-fueled-debt-and-negative-yields-create-risks-for-investors.html_END_OF_POST_PYSTOCK_ Short, Long & Cash Positions - Smart Money Dear community,
+
+Curious if there is any data about the short, long and cash position of institutional investors. I am well awere of the SEC filings, but I am looking for an aggregate measure of the current market participation.
+
+ \- is smart money more short or long; and how is the current position relative to past positions?
+
+\- are institutional investors still largely in cash or are they already with leverage invested?
+
+&#x200B;
+
+Such data could be extremely helpful in anticipating market turns ...
+
+&#x200B;
+
+Any suggestions?
+
+&#x200B;
+
+Kind regards,_END_OF_POST_PYSTOCK_ When Robinhood users pile into a stock , the average daily return is 14%. But this is followed by a reversal of nearly 5% over the subsequent month  [https://www.bloomberg.com/news/articles/2020-11-13/herding-by-naive-robinhood-traders-may-be-good-signal-to-short?sref=xTkgnLSf](https://www.bloomberg.com/news/articles/2020-11-13/herding-by-naive-robinhood-traders-may-be-good-signal-to-short?sref=xTkgnLSf)
+
+&#x200B;
+
+from buying the dip to surfing the tech surge with options, an investor following the Robinhood crowd this year would have a lot to feel good about.
+
+Provided they didn’t follow too long, that is.
+
+Users of the millennial-friendly app -- the first to offer commission-free trading -- are more likely to chase popular stocks with extreme performance. The result is herding that ultimately becomes a drag on those companies’ returns, according to the latest [academic research ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715077)into retail investing.
+
+ When Robinhood users pile into a stock in large numbers, the average excess return on the day surges to 14%. But this is followed by a reversal of nearly 5% over the subsequent month, a new paper found. 
+
+ 
+
+The thinking is that in seeking to make investing easier, the platform’s slimmed-down interface could be resulting in concentrated trading in the most “attention grabbing” shares. That increases the chance of herding which can lead to big market reversals.
+
+“Robinhood users are more subject to attention biases,” wrote authors including behavioral finance pioneer Terrance Odean. “The combination of naïve investors and the simplification of information is associated with herding episodes.”
+
+Robinhood was at the center of Wall Street drama this year as the young fintech firm stirred up an investing [frenzy](https://www.bloomberg.com/news/features/2020-10-22/how-robinhood-s-addictive-app-made-trading-a-covid-pandemic-pastime) amplified by Covid-19 restrictions and stimulus cash.
+
+As retail volumes spiked, even professionals started tracking the activity of Robinhood’s 13 million users in a hunt for fresh trading signals. To do that they relied on data from Robintrack, a website that provided updates on retail stock demand, on which the academics also based their calculations.
+
+One idea from the academic world: A strategy of selling a security after a herding event and buying it five days later delivers a 3.5% return and nearly double that for more extreme scenarios.
+
+In fact, the researchers say there’s good reason to think hedge funds are doing some version of this, since they observed a spike in short interest among shares bought heavily by Robinhood traders.
+
+[Read more: Robinhood Users Weren’t as Reckless as Portrayed During Rally](https://www.bloomberg.com/news/articles/2020-09-29/robinhood-users-are-a-bit-less-nuts-than-you-were-led-to-believe)
+
+It’s familiar territory for two of the paper’s co-authors. Odean at the University of California, Berkeley, and Brad M. Barber at the University of California, Davis have previously [documented](https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/AllThatGlitters_RFS_2008.pdf) a tendency for individual investors to buy stock darlings.
+
+In the case of Robinhood, they argue it’s even more extreme, since many users are first-time investors on a platform that offers frictionless trading and only limited information. For instance, users buy equities on the app’s “Top Mover” list more aggressively than other individual investors, meaning they’re more likely to trade extreme losers as well as winners.
+
+“How information is displayed can both help and hurt investors,” wrote the team, which also included Xing Huang at Washington University in St. Louis and Chris Schwarz at the University of California, Irvine. “The simplified user interface influences investors decision.”_END_OF_POST_PYSTOCK_ Longview SPAC I’ve been interested in the Butterfly Ultrasound technology for a while (I’ve seen the product in a clinical setting and I like it).
+
+Longview SPAC is merging with Butterfly to take Butterfly public. If I’m understanding correctly - all I have to do is buy shares of Longview, and they will turn into Butterfly shares when the deal completes. Is this correct?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Stocks vs. Real Estate Hi. It seems the most important benefit of investing in private real estate is the potential to use **leverage** to boost both capital appreciation and yield. Provided there is enough net yield to cover interest and mortgage payments, eventually, as you start paying off the debt, you could achieve a pretty strong return. Assuming a 2% growth rate in the capital value, with a 20% deposit you are leveraging at 5X. If you were to maintain this LTV ratio of 80%, you'd basically be getting 10% IRR excluding interest expenses/yield. Of course, if the yield increases or you can produce a net yield after interest, you are getting some uplift there too. It wouldn't be inconceivable to manage 20% IRR.
+
+Stocks might net 5-7% per annum (without making any significant, optimistic assumptions). Using leverage with stocks is generally ill-advised as even 2X "LTV" could/would get you margin-called in a recessionary crash (e.g. Q1 2020).
+
+So, I'm thinking, what important elements am I missing here? Excluding the geographical risk of the property, which is no doubt important to consider. But with enough properties (long term) you could achieve some degree of diversification (albeit not to the extent afforded by stock index funds)._END_OF_POST_PYSTOCK_ How to structure a Step-down Kickout plan Before Covid, i remember seeing various kick out plans, they worked as follows:
+
+1) You invest your capital of say 100k. If at the end of year 1, the index is greater than 105% of the FTSE 100's start date level, the plan matures and you get your capital back plus 8% return.
+
+2) if the ftse is less than 105% a year later, it doesn't mature, and instead continues for another year. This time if the ftse is greater than 102.5% of its starting level, you get 116% return, otherwise it repeats for another year. Each year the reference level decreases, and you get an extra 8% on maturity. 
+
+3)this goes on eventually until the policy finally kicks out, or else you it reaches the end of say 10 years, in which case you lose some of your capital.
+
+From reading the brochures on them and Googling, i still can't decipher what sort of suite of investments and options would allow a provider to offer this type of structured product. It seems like you would want to be very unlucky for it to go the 10 years and not Kickout.
+What do they use to make these structured products? What makes them appealing to the company offering them?
+Thanks_END_OF_POST_PYSTOCK_ Will Afterpay, Klarna, Affirm become big enough to disrupt the credit card industry, payment processors, and card networks? I see these Buy Now Pay Later services absolutely everywhere now. Seems like it’s rarer to find an online store that doesn’t have one or more of these as a payment option. 
+
+I’m sure they represent just a small percentage of total ecommerce transactions still, but given their growth it seems completely possible that they grow to a point where they are taking real share away from traditional credit and debit card purchases (since using BNPL totally bypasses these traditional payment rails), which impacts credit card issuers like Chase and Amex and also the card networks like Visa and Mastercard. It also impacts traditional card payment processors like a Stripe or Adyen.
+
+Point is I’ve up until recently just assumed that payment processors and Visa and Mastercard were untouchable winners in the continued shift to e-commerce but these new services have come out of nowhere and seem to be catching on really fast to their detriment._END_OF_POST_PYSTOCK_ Net debt question Net debt calculation
+
+I have a simple question: why shouldn’t you consider as net debt the accounts payable? I’m not getting why, for example when a company tries to buy a target, you are basically buying also the payables of the company, as if when a company buys another one, in order to get the enterprise value of the company itself, you must recognize the value of the debt potentially to the bond holders. I’m not getting conceptually the difference between these two situations. Could you please provide an explanation for this? Thanks a lot_END_OF_POST_PYSTOCK_
