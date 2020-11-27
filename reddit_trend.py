@@ -83,7 +83,7 @@ if __name__ == "__main__":
             wf.saveToFile(date)
     elif mode == "vizu":
         wf = wordFreq()
-        toExclude = ["tesla", "nio"]
+        toExclude = []
         toLookAt = []
         wf.displayTimeSerie(15, toExclude, toLookAt)
     elif mode == "raw":

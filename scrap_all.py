@@ -7,7 +7,7 @@ import re
 import pandas as pd
 from os import listdir
 from words import wordFreq
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from reddit_trend import save_wf_from_raw
 
 import shared
@@ -107,8 +107,10 @@ def scrapMissing():
     dates = (d for d in dates if d is not None)
     last_date = max(dates)
     today = datetime.today()
-    dates = pd.date_range(start=last_date, end=today).tolist()
+    yesterday = today - timedelta(days=1)
+    dates = pd.date_range(start=last_date, end=yesterday).tolist()
     dates = dates[1:]  # unprocessed dates
+    print("processing dates : " + str(dates))
     if (len(dates) == 0):
         return
     start = dates[0]

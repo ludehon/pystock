@@ -1,25 +1,349 @@
- What % of your portfolio do you invest in single stocks? M(31) so after finally hitting a £100k milestone investing in mainly index funds I’ve decided to branch out and kind of take on a little bit more risk in hope for a little more reward by having a dabble with individual stocks. 
-So far I have about 5% of my total investments in individual stocks stocks that are up in the regions of 18-50% in the present moment. Which is much more than my index funds. 
+ List of Security Based Lending (SBL) Firms & Rates?  
 
-I’m just wondering how much you all put aside for individual stocks? And how much you would put into each individual stock? I understand everyone will have different opinions on this and I’m interested to hear! 
+Does anyone have a list?
 
-I kind of view these individual stocks as a gamble and am willing to accept the loss/gain. I am still continuing to add to my index positions for long term growth. 
-Thanks_END_OF_POST_PYSTOCK_ [stock market] I want to learn how to do it? So my friend came over after we haven’t talked in within a year and he shows of how much he’s made in the stock he has a place in Malibu making good money he’s had success in the stock market and I was afraid to ask I know it takes a good portion of money to invest but I’m willing to risk and learn for success do you guys know how to?_END_OF_POST_PYSTOCK_ Is SPX500 same as S&P500? I just opened account recently and I want to invest in S&P500 since it is the smart option I guess.  
+Ideally looking for a list of financial firms and their current security based lending rates and tiers. (Libor + spread or WSJ prime rate + spread)
 
+Ex.
 
-I am a 20 years old student and I can save 250$ per month for investing in the S&P500.  
-When I search for S&P500 I found out that I need to deposit 500$...  
-So I started searching for other things and found something call SPX500 and it had an American flag next to it, I tried to invest there and i found out that i can invest but with leverage
+**Firm |  Credit Line |  Rate**
 
-Here is an image of when I tried to invest in S&P500 Vanguard 
+TD Ameritrade  |   $150,000 - $249,999  |   30-Day LIBOR + 4.00%_END_OF_POST_PYSTOCK_ With Slack, Salesforce Would Put Heat on Microsoft Salesforce Inc.  has thrived for years as a niche business-software vendor with a chief executive,  Marc Benioff , who has positioned himself as a prominent voice in American business.
 
-[https://imgur.com/a/6bNvVOC](https://imgur.com/a/6bNvVOC)
+Now Mr. Benioff is taking steps that analysts say aim higher, intensifying the company's battle with the industry's biggest player:  Microsoft Corp. 
+
+Salesforce is in advanced talks to acquire  Slack Technologies Inc. ,  The Wall Street Journal  reported Wednesday, in what would be Mr. Benioff's biggest acquisition to date and the company's most direct attack on a market  Microsoft  has identified as critical to its growth.
+
+The deal, which could still fall through, would add fuel to Salesforce's ambition to become the go-to software platform for business customers to use for everything from data analysis to managing customer relationships to even daily communication.
+
+The pandemic has amplified Salesforce's efforts. When Covid-19 broke out, Mr. Benioff quickly launched [w](https://Work.com)ork.com -- a suite of applications companies could use for contract tracing, mental-health checks and shift scheduling.
+
+A deal for Slack could heat up the simmering rivalry between Salesforce and  Microsoft . About five years ago  Microsoft  was in talks to buy Salesforce, but the deal fell apart over price. Salesforce lost out to  Microsoft  in 2016 in bidding for  LinkedIn Corp. , the business-focused social-media network. The loss stung. Salesforce responded by urging regulators to examine  Microsoft's  proposed purchase on antitrust grounds; the deal passed regulatory scrutiny.
+
+Landing Slack, which  Microsoft  once tried to acquire, could amount to a bit of revenge for Mr. Benioff.
+
+Having failed to capture Slack,  Microsoft  launched its own workplace collaboration tool, called Teams, spurring a sometimes heated battle between the two companies.
+
+"They want to kill us," Slack CEO  Stewart Butterfield  told the Journal earlier this year. This summer, Slack filed a complaint with the  European Union  over alleged antitrust behavior by  Microsoft  in using its dominance to push Teams.
+
+Slack "extends the footprint of what Salesforce goes after," said Jefferies analyst  Brent Thill . "Not everyone uses a sales system, but everyone can use collaboration. The beauty of Slack and Teams is that it touches everything inside enterprises."
+
+Mr. Benioff has a history of deal making since he co-founded Salesforce 21 years ago and turned it into one of the most successful companies in the then still nascent market of providing software as a service. Salesforce completed its biggest-ever purchase last year, paying around  $15 billion  in stock for data-analytics platform  Tableau Software Inc. 
+
+A year earlier it splashed out more than  $5 billion  for cloud-application provider MuleSoft. Inc. This year Salesforce said it was buying cloud-software provider  Vlocity Inc. 
+
+Mr. Benioff has long been one of  Silicon Valley's  highest-profile and most outspoken executives, using venues like the  World Economic Forum  in  Davos, Switzerland , to champion causes. He set up Salesforce with a pledge of corporate giving and bought himself an even larger platform with his acquisition of  Time Magazine  two years ago.
+
+The  San Francisco -based company also has made a big push into the emerging field of artificial intelligence, developing tools to help customers make better use of their data. In 2016, it acquired PredictionIO, which makes software for building machine-learning apps. That followed the purchase of MinHash and Tempo AI, two further machine-learning companies. In 2014, it bought RelateIQ, which also specializes in the field.
+
+Breaking into the market of workplace collaboration has long been on Salesforce's agenda. In 2010, it launched Chatter, a private social network for companies to collaborate. And in 2016, it bought cloud-document collaboration app company  Quip Inc.  for more than  $500 million . Neither product attracted a wide following. Acquiring Slack, which Salesforce had previously explored buying, would immediately make the company a big player in the workplace- collaboration market. Slack has more than 130,000 paying customers.
+
+Salesforce, which declined to comment for this article, is pursuing Slack as competition in its core business of customer relationship management software is intensifying.  Adobe Inc.  this month said it would buy Workfront, a platform for marketers, for  $1.5 billion .  Microsoft  also has been pushing its rival product, called Dynamics. Salesforce still has the largest share with 20.1% of the world-wide market in 2019 compared with 2.6% for Microsoft Dynamics, according to research firm  Gartner Inc. 
+
+Even with Slack, Salesforce would be a comparatively small rival to  Microsoft . The  Redmond, Wash. , company had sales of  $143 billion  in its latest financial year, generated by business enterprise software, its cloud-computing infrastructure, and consumer-facing businesses, such as videogaming, which has exploded during the pandemic. Its sales are roughly nine times Salesforce's annual revenue.  Microsoft's  market valuation tops  $1.6 trillion , about six times that of Slack and Salesforce combined.
+
+Last year Salesforce said it was seeking to reach  $28 billion  in annual sales in the 2023 financial year. It had  $16 billion  in sales in its most recent financial year.
+
+"He really needs to keep growing," said  Mark Moerdler , senior research analyst at  Bernstein Research , of Mr. Benioff. "He needs another big acquisition. Slack gives him a big acquisition. It gives him revenue."
+
+Slack also has been looking to broaden its appeal. Companies have used Slack principally for intra-office communications. In June, the software provider introduced Slack Connect, which allows messages to be sent between different companies. Slack's Mr. Butterfield said the feature has driven a rise in paying customers and should fuel future growth.
+
+But big acquisition plans aren't without pitfalls. When Salesforce tried to buy social-media company  Twitter Inc.  in 2016, Mr. Benioff faced significant pushback from investors and he walked away from the deal. Although Slack is more in the mainstream of Salesforce's business than Twitter, it would still come at a hefty price given Slack's  $17 billion  market value before Wednesday's stock surge.
+
+"Investors don't want Salesforce to do a big deal," Mr. Thill of Jefferies said, adding they want the company to show it can generate growth from within._END_OF_POST_PYSTOCK_ How Three TikTok Stars Beat Back U.S. Plans to Ban the App In early September, a handful of TikTok stars, most of them in their early 20s, gathered on a Zoom call to tackle a weighty question: Should they take on the U.S. government?
+
+After more discussions,  Doug Marland , a 23-year-old comedian from  New Jersey , raised his hand to join a lawsuit objecting to the Trump administration's order to ban the app. Two others -- musician  Alec Chambers  and fashion designer Cosette Rinab -- also volunteered.
+
+The three have a combined 7.4 million followers on TikTok and make their livings off the app. The suit argued that a ban would mean losing their income and limiting their ability to express themselves.
+
+The lawsuit got little attention when it was filed in a  Pennsylvania  court. The TikTok stars ultimately prevailed -- and the case has become central in creating a path for the app to maintain its foothold in the U.S., where it is now used by almost one in three Americans.
+
+It looked like a grass-roots effort, but it was not. Behind the scenes, the legal action was orchestrated by TikTok and its Chinese parent company,  ByteDance Ltd. , according to people familiar with the matter. It lined up the influencers to be plaintiffs, connected them with a top First Amendment lawyer and helped create a legal strategy that was complementary to a separate lawsuit the company pursued under its own name, the people said.
+
+It was an unexpected twist in a geopolitical business saga that began this summer, and continues with a preliminary deal still under negotiation that involves  Oracle Corp.  and  Walmart Inc.  taking stakes in TikTok.
+
+ByteDance and its potential U.S. partners are optimistic about completing a deal in the coming weeks, according to people familiar with their discussions and internal thinking. On Wednesday, the Trump administration granted ByteDance a one-week extension to complete a deal, putting the new deadline at  Dec. 4 .
+
+In August, President Trump signed an order calling for TikTok to be shut down or, alternatively, sold to a U.S. company. The administration said it feared ByteDance could share information about U.S. users with the Chinese government, which the company said it would never do.
+
+The first ruling in TikTok's favor came with its own lawsuit, which argued that an initial  Commerce Department  ban on downloading or updating the app would harm the company's business. On  Sept. 27 , Judge  Carl Nichols  in the  U.S. District Court  in  Washington, D.C. , determined that the government likely overstepped its authority under national-security law. The government appealed the decision, and the case is still ongoing.
+
+On  Oct. 30 , Judge  Wendy Beetlestone , in federal court for the  Eastern District  of  Pennsylvania , ruled on the influencer lawsuit. She blocked  Commerce Department  restrictions that would have barred U.S. companies from listing TikTok in their app stores -- a move that would effectively make it inoperable in the U.S.
+
+"Without access to the TikTok app, Plaintiffs would lose access to all of these followers, as well as to the professional opportunities afforded by TikTok," Judge Beetlestone said in her decision.
+
+The U.S. government has appealed the ruling. The government called the plaintiffs' claims meritless and argued their request to block the ban would " necessarily infringe on the President's authority to block business-to-business economic transactions with a foreign entity in the midst of a declared national- security emergency."
+
+In a statement, TikTok's interim head,  Vanessa Pappas  said: "We stand behind our community as they share their voices, and we are committed to providing a home for them to do so."
+
+ One  of ByteDance's goals in recent months was to draw out the Trump administration's assault, the people said, betting that key officials would likely become increasingly distracted as the election approached.
+
+The TikTok review by the administration began with the U.S. Committee on Foreign Investment, which evaluates deals for national security risks. That committee has ordered ByteDance to divest its U.S. operations of TikTok, out of concern that user data could be shared with the Chinese government given regulations there that require companies to hand over huge swaths of information. ByteDance has said it would never share data with the Chinese government, though analysts and experts say companies generally have little choice but to comply if asked.
+
+ByteDance's legal efforts were designed to chip away at the more punitive efforts by the Trump administration, even while it pursued a deal that would satisfy the Cfius order, which also has bipartisan support in  Washington . Any deal will ultimately require signoff from the U.S. president.
+
+Although President-elect Biden has not made clear his position on TikTok, the committee's divestiture order would still likely stand under new administration.
+
+For now, an outright ban of TikTok appears off the table: On  Nov. 12 , the  Commerce Department  said it wouldn't enforce the order that would have effectively forced TikTok to shut down, citing the ruling in the stars' lawsuit, and the administration's legal options are dwindling.
+
+"It's a big muddle because of these lawsuits," said a senior administration official.
+
+Ms. Rinab, a 21-year-old senior at the  University of Southern California , said she started crying when she learned of the court victory. "I was so, so happy," she said.
+
+"This entire experience has been one I'll never forget," said Mr. Marland. "It taught me a lot about the country, the way laws work, and court procedures."
+
+While TikTok was aggressively pushing back on the proposed bans in the courts, it also pledged to work cooperatively with national-security regulators on the potential deal that would address the U.S. government's data-security concerns.
+
+In mid-September, the company announced it had chosen  Oracle  as its partner to secure its data in the U.S., with the software giant and  Walmart Inc.  taking ownership stakes in a new company that would run TikTok's U.S. operations.
+
+A key sticking point that still needs to be ironed out is the size of the ownership stakes for ByteDance and its new U.S. investors, according to people familiar with the discussions and internal thinking.
+
+The negotiations have already helped  Walmart  forge closer ties to TikTok, something that has motivated the retailer from the beginning, according to people familiar with the situation.  Walmart  is working toward partnering with TikTok on providing warehouse and shipment support for sales made through the app, and  Walmart  CEO  Doug McMillon  now has relationships with TikTok's executive leadership, some of the people said.
+
+Executives at  Oracle , who see TikTok as a major customer for its cloud business, expect the deal to be completed before the end of the year, a person close to the company said.
+
+ByteDance kept its lawsuits against the U.S. government active in part to ensure that the app didn't face a shutdown as the negotiations took place.
+
+Mr. Trump would still prefer to get rid of TikTok in the U.S. altogether, though his attention has shifted to other matters, the senior administration official said. The official said that even though Mr. Trump gave his preliminary approval to a deal, he has never been fully sold on the idea because he doesn't want a transaction that could be perceived as benefiting  China .
+
+Inside the Trump administration, Treasury Secretary  Steven Mnuchin , Attorney General  William Barr  and  White House  economic adviser  Larry Kudlow  have all said in meetings at times that they believe a deal could work, while  White House  adviser and  China  hawk  Peter Navarro  has advised Mr. Trump to avoid a deal, according to the senior administration official.
+
+TikTok believes it will still likely need to divest its American operations or face persistent questions about its handling of U.S. data, according to people familiar with the matter.
+
+A deal must ultimately get signoff from the U.S. Committee on Foreign Investment and Mr. Trump, as well as the Chinese government.
+
+The lawsuit was designed in part to put a human face on TikTok. Mr. Chambers, the musician, joined the app in late 2018, and a cover version of Halsey's "Without Me" recorded in the basement studio at his parents' house earned him thousands of early followers.
+
+Now more than two million users follow his videos, many of which feature his own original music or his covers of radio hits. The 25-year-old from  Connecticut  has earned endorsement deals to promote Extra gum and Cinnamon Toast Crunch cereal.
+
+"TikTok has allowed regular kids like me, who don't have access to a lot of money or connections to people who are high up in the industry, to make a stamp in the music business," he said. "I felt like I needed to fight" for TikTok.
+
+Mr. Marland, the comedian, said he likewise amassed enough TikTok followers to quit his job waiting tables and drop out of school. He now supports himself with sponsorships from brands including Snickers and Reebok, and boasts three million followers.
+
+As threats against the app grew through the summer, TikTok officials stayed in close touch with top performers on the app to reassure them that they had a plan to ensure survival and to dissuade them from switching to rival platforms, according to people familiar with the outreach. As part of those communications, the company stressed that the stars had rights of their own to defend, the people said.
+
+In September, TikTok brought the high performers together to talk on a Zoom call about the U.S. government threats and what might be done about them. They answered questions about how TikTok had affected their lives, according to a person who attended the call. Eventually Mr. Chambers, Mr. Marland and Ms. Rinab volunteered to be plaintiffs in the lawsuit._END_OF_POST_PYSTOCK_ Chargepoint (SBE) upcoming catalyst events -- buy now or wait? So I think there's two major events coming up that may affect SBE's pricing:
+
+* Completion of merger (end of Q4): I heard for most SPACs there's a big drop right after merger is complete as people take their profits. I don't think that will happen as much here, since Chargepoint actually has a good product that's already making money. But still, there's going to be a drop. How much do you think it will be? And is that the better time to get in instead of now?
+
+* Georgia Runoff election (Jan 5): If the Democrats don't win that Senate race, are we still as bullish about Chargepoint? How much of the stock price depends on the 500,000 new charging stations promised by Biden? Even if Democrats do win, the Democrat's margin in house and senate are so small that can Biden really pass anything ambitious?
+
+What do you think of SBE? Do you think that:
+
+* Current price is still great for a short-term play (buy, pump, and dump before merger).
+* Current price is still great for *long*-term investment. It's a good company and those catalyst events are not going to affect it one way or another.
+* Current price is too high for long term investment, but waiting for catalyst event to buy back in is good long term play._END_OF_POST_PYSTOCK_ How do you determine is a stock is past its hype Hi All,
+
+I am an absolute noob when it comes to stocks and numbers, but with the market just going up and up, it seems like anyone can make a buck nowadays.
+
+I noticed SBE and PLTR (for example) the past few days. SBE surging up from $11 to $34. How do you determine if a stock is past its hype? 
+
+Like how do I determine if SBE is still a good buy at $30, and if it might go to $50? or be a bust.
+
+Hope this makes sense!_END_OF_POST_PYSTOCK_ How do index futures affect the stock market? How do index futures like those on the S&P500 affect the stock market? I mean, if the S&P500 future is traded higher or lower, why should investors in the stock market follow those movements and how does that happen? I understand S&P500 futures follow the stock market (since it’s price is determined by the S&P500 index), but why should the stock market follow the S&P500 future so the other way around? Anybody can explain all that? Thanks._END_OF_POST_PYSTOCK_ Help understanding negative entries in "Portfolio Diversification" of bond funds I am seeing in some bond funds, statements to the effect that the funds are invested in options, to help cover losses in the event that interest rates rise. That seems reasonable to me.
+
+I am seeing things like the following, which is from the Fidelity Investment Grade Bond Fund (FBNDX) for today: [https://imgur.com/a/M0GHymM](https://imgur.com/a/M0GHymM)
+
+My question is about the negative entries, that I have circled in red. Why are options that the fund owns, considered negative? I realize that most likely they won't give any value, but shouldn't that just be seen as an expense, instead of a liability? And what would the "Net Other Assets" category be? 8% seems like a lot._END_OF_POST_PYSTOCK_ [Discussion] How Best to Invest in Crematoriums, Funeral Homes, Etc.? I promise, this is NOT a political question. Considering 'The Situation' , how should someone best profit off of death in the next 3 months?  What do we know, what do we all think, which mortality stocks have been most successful over the past nine months, etc?  Is this a thing to do day-trading on, or would it be good to just buy what we can and cash out in 3-5 months?
+
+For that matter, do we think this would be most profitable over the next 3 months, or the next 6/9/12?
+
+This is probably one of the most important financial questions of the quarter, but I haven't seen any discussion of it._END_OF_POST_PYSTOCK_ Wall Street Bets charity event Apologies to the mods if this technically breaks the rules, but seemed like a good cause worthy of a shoutout.
+
+2020 has been good to many of us who invest, but it hasn’t been good for many others. /r/theWallStreet is doing a charity fund raiser. Details can be found here: https://reddit.com/r/thewallstreet/comments/k17lh2/tws_gives_back_2020_feeding_america/
+
+Edit: fixed the post body to give credit to the right sub. Whoopsies. Can’t fix post title however._END_OF_POST_PYSTOCK_ Japanese central bank has 6% of Tokyo stock exchange's market cap. What will happen next? Japanese central bank is buying Japanese stocks to maintain the stock price. I think there is no such case in the world. In addition Japan Pension Service has many Japanese stocks. It's said that if they sell their stock the value of Japanese stock and yen will fall.
+
+Do you think the value of Japanese yen will slump? Recently I started to think I should have dollar assets to prepare for it because I have only Japanese yen._END_OF_POST_PYSTOCK_ How do I determine market cap of identified target company in SPAC? Hi,
+
+I’m interested in the Butterfly Network - Longview (LGVW) SPAC merger but I’d first like to understand how the market cap of LGVW translates to the market cap of Butterfly post merger. What should I look for in LGVW prospectus? I think I need to find what fraction of the LGVW shares will make up the total shares when the merger is complete. Is this right?
+
+Here is a link to the LGVW S-1.
+
+https://sec.report/Document/0001140361-20-010472/#nt10009002x3\_s1.htm
+
+Thanks_END_OF_POST_PYSTOCK_ Significance of PLTR public ownership % Hi does anyone know the significance of the metrics that show public ownership?  It seems that 60% is public ownership, 10% individual insiders and 16.7% institutions, VC/PE firms 6.4%, Public companies 6.2%.   Some pros that I see is less manipulation by large institutions,  however does that also mean fundamentals are so bad institutions don't want to invest?_END_OF_POST_PYSTOCK_ Questions about Interpretation of Key Ratios in Value Investing Recently, I have read a book related to value investment (Good Stocks Cheap). In the book, it is mentioned that some numbers are essential in determining the company's past performance and the current quality. However, I have found that some of the ratios are difficult, if not impossible to interpret due to the negative output.
 
 &#x200B;
 
-and here is the SPX500
+For example, in many start-ups the operating cash flow and free cashflow can be negative. In this way, how to interpret the following ratios?
 
-[https://imgur.com/a/uqrEsAY](https://imgur.com/a/uqrEsAY)_END_OF_POST_PYSTOCK_ How much of third wave is already priced in? These following events are very likely to cause high increase of Covid cases:
+&#x200B;
+
+* Growth in Operating Income per Fully Diluted Share
+
+&#x200B;
+
+§ ΔOI/FDS = 
+
+&#x200B;
+
+\[(operating income / fully diluted shares)second\_year
+
+\-(operating income / fully diluted shares)first\_year\] 
+
+&#x200B;
+
+/ (operating income / fully diluted shares)first\_year
+
+&#x200B;
+
+&#x200B;
+
+* Growth in Free Cash Flow per Fully Diluted Share
+
+&#x200B;
+
+§ ΔFCF/FDS =\[(levered free cash flow / fully diluted shares)second\_year
+
+\-(levered free cash flow / fully diluted shares)first\_year\]
+
+&#x200B;
+
+ / (levered free cash flow / fully diluted shares)first\_year
+
+&#x200B;
+
+&#x200B;
+
+This cases can be as follows:
+
+	1) The denominator is -ve, resulting in an -ve output
+
+	2) The numerator is -ve, resulting in an -ve output
+
+	3) Both the denominator and numerator are -ve, resulting in an +ve output
+
+&#x200B;
+
+How should we deal with these situations?
+
+&#x200B;
+
+Thank you very much._END_OF_POST_PYSTOCK_ STM??? If you have been interested in trying to invest in Starlink/SpaceX this may be an option. It has been leaked that SpaceX user terminals (phased array antenna) are utilizing STM guts. And supposedly they inked a deal to outsource user terminal build (1 million units) to STM for 2.5 billion. Analysts estimate worldwide at least 4-5 million units will be sold on the low-side.
+
+Anywho if you are interested in investing vicariously prior to Starlink IPO which could be several years away this may be an opportunity._END_OF_POST_PYSTOCK_ Hidden Gem: MP Materials (MP) MP Materials just gone public via SPAC with Fortress Value Acquisition Corp.   Let's just start with what REE is.   REE is rare earth elements,  I won't go into the details but basically think of permanent magnets.   They are used in  fighter jets,  MRI,  Cellphones etc.    Most importantly they are in EVs and wind turbines which is the hottest sectors right now other than weed.  
+
+I won't go into too much details because you but as of now the whole market is completely dominated by China and that's why Trump signed an executive order to bring REE supply chain back to domestic at all cost.   This will continue regardless of Biden or Trump because it is crucial for the development of the important industries as well as defense.  China has threatened to cut US off from these precious metals and has done so with Japan for disputes in 2010. 
+
+As of now everything, I mean 100%, is sent back to China and it is refined and turned into alloys and oxides then sent back.   If America want to make EV and turbines domestically the demand is huge.   This is a EV long term play so get in early. 
+
+
+Why MP?  There are so many REE companies out there? 
+
+- MONOPOLY domestic play. Actually have a functional mine from bankruptcy before.  Now it is under new management and is actually functional unlike other companies.   If you know anything about mining you would know to get a mine functional would take 5 to 10 years not even counting infrastructure.    The REE price is so low to compete we won't be seeing any real competition soon because it is not cost effective to develop a mine. Most REE companies are just a dream where they suddenly wake up and get grants from DOD and everything just magically happens into a 10 bagger overnight.  Only other real non Chinese competitor is Lynas but they are ally Aussie owned. 
+
+- MP is one of the world's biggest mine in the world
+
+- 1 of 3 companies to receive grants from Pentagon.  9. 6 million for seperation capabilities enhancement
+
+- Phase 2 of 170million to upgrade to produce oxides and magnets
+
+- Investors include Chamath, omega advisors & Slate path capital
+
+- Third quarter revenue grew 52%; net income yoy increased 4x to 14. 6 million ,  adjusted EBITDA grew 159% yoy to 11. 6 million
+
+- LOTS of factors such as EV, defense, China, and solar play all incorporated into one!!  Does it get batter than this? 
+
+[CNBC on MP](http://nbr.com/2019/10/18/battle-over-rare-earths/)
+
+[Reuters](https://in.reuters.com/article/us-mp-materials-results/u-s-rare-earths-miner-mp-materials-profit-surges-in-first-results-post-listing-idUKKBN2832X2)
+
+[Must read](https://m.benzinga.com/article/18453523?utm_referrer=https%3A%2F%2Fwww.google.com%2F&utm_source=https%3A%2F%2Fwww.google.com%2F)
+
+[China](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.cnbc.com/video/2020/11/18/mp-materials-ceo-on-chinas-challenge-to-rare-earth-industry-in-u-s.html&ved=2ahUKEwjIyrCkxJ_tAhVYGVkFHRXoB_UQwqsBMAB6BAgCEAM&usg=AOvVaw1fmwZYmIJSvD_nointwfHW)
+
+Genuinely want everyone here to get in as this is a potential 5 10 bagger.   It has hit ath almost every day since IPO.  Best of luck.  Will try to add more details as it comes in.
+
+Happy Thanksgiving_END_OF_POST_PYSTOCK_ PLTR jumps 12% even though US market's closed [PLTR stock data.](https://imgur.com/a/T5V7OEy)
+
+As the US market is on holiday, the rest of the world seems to be joining in the feeding frenzy of PLTR.
+
+Stocks jumped to $32.55.
+
+The stock has already more than tripled in price since its direct listing.
+
+Could this bull run continue in Friday? I don't know.
+
+But I continue to believe in the stock in the long term(next 5-10 years) due to its unique positioning in the market._END_OF_POST_PYSTOCK_ Digital Advertisement market to reach $626B by 2026 As the digital advertisement has become an indispensable tool for publishers, ad tech vendors and ad agencies, digital advertising continues to significantly grow Y/Y on an annual revenue basis, with total spending reaching ~$300B in 2020, as per UnivDatos analysis.
+
+By 2023, digital advertising is estimated to take about two-thirds of whole advertising spending.
+
+Global Digital Advertisement Market is expected to grow at a CAGR of 7.7% from 2021-2026 to reach $626B by 2026.
+
+Search Advertising dominated the ad format segment of the global digital advertisement market and will grow at 6.65% CAGR to reach $253B by the year 2026.
+
+Programmatic market accounted for the largest share and is expected to grow at 7.97% CAGR during 2021-2026.
+
+For FY2019, Mobile segment dominated the digital advertisement market with nearly 60% of the market share and it is anticipated by 2026 it will garner $391B of the market.
+
+Retail Industry led the global digital advertisement market with almost 22% of the market share in FY2019 and is expected to grow at a CAGR of 6.33% over the analyzed period.
+
+Geographically, digital advertisement market was dominated by North America with almost 42% of the market revenue in 2019. APAC region is expected to grow with a CAGR of 7.92%.
+
+The major players targeting the market includes: Apple (NASDAQ:AAPL), Alibaba (NYSE:BABA), Alphabet (NASDAQ:GOOG), Amazon (NASDAQ:AMZN), Nokia (NYSE:NOK), Sina (NASDAQ:SINA), Facebook (NASDAQ:FB), Twitter (NYSE:TWTR), Microsoft (NASDAQ:MSFT) and Tencent (OTCPK:TCEHY).
+
+This is from Seeking Alpha 
+I would add MGNI_END_OF_POST_PYSTOCK_ Wall Street Dealers in Hedging Frenzy Get Blamed for Volatility [The article I am talking of.](https://archive.is/Ywf6y) which is based on this [paper.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3725454)
+
+Their research suggests that the recent volatility in the market is being driven by a boom in derivatives market and market makers performing gamma hedging.
+
+The paper talks about the events that unfolded in September and in some other times.
+
+Goldman Sachs has already put out information regarding that trading volume of single stock options  exceeded that of regular shares.
+
+As a result, some are suggesting that the derivatives market is driving the underlying shares, not the other way around.
+
+This mean there is likely to be more flash crashes with larger magnitudes and elevated stock runups.
+
+The more mainstream members of the finance community are now playing catch-up.
+
+If this elevated levels of options activity continues, the fundamental characteristics of the market could remain this way._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ How does UK Tax on investments work ? Hi, 
+
+  
+I'm a PhD  student currently working in the UK (Scotland) and I was wondering how does tax work if you start making money using a platform like Trading212 ? Will it affect my stipend ? Will I need to register myself with the HMRC ? Does anyone have experience in this area ? Or a source to help me out.
+
+  
+Thank you !_END_OF_POST_PYSTOCK_ Unpopular opinion: EU's banning on investing in US ETFs is a great thing To hell with those braindead "passive investors" just mindlessly putting paychecks after paychecks into muuuuuhhhh safe and eternally rising indexes like SPY and QQQ, inflating the index bubble, disabling proper price discovery in the market.
+
+ETFs imo serve a purpose, but its been distorted by the snake oil sellers like portfolio managers for retail mom and pop investors as a "safe" instrument and result in partial market failure. 
+
+its sickening to see so many trading days on the US stock market where every stocks goes green, then on some days every stock goes red. a proper market should never be like this. stock picking should matter much more._END_OF_POST_PYSTOCK_ Liberty Tripadvisor Stock Hi everyone! I just started trying to invest, found a stock LTRPA that owns 23% of TRIP, which implies a market cap of $800m based on TRIP's $3.7bn market cap, but the market cap is $300m. What am I missing here???? Shouldn't LTRPA at least double?? Sorry for the naive question! Also, Tripadvisor's earnings are almost back to prepandemic levels due to cost cutting and new initiatives in markets like Dubai, so it should be way more leveraged to a reopen_END_OF_POST_PYSTOCK_ UK equivalent ETFS of the US (EQQQ vs QQQ, VUSA vs VOO etc.) Hi all, I was wondering if I should buy the UK equivalent of the ETF? This is because I use Trading212 and they don't allow the purchase of the US etfs. I did a bit of research and found the return on the UK etfs are slightly lower because of the exchange rate. If I am planning on holding it for long term, how much will the exchange rate affect me and is it better to hold my etfs in GBP or USD?_END_OF_POST_PYSTOCK_ Value in Tesco? For those of you looking at UK markets - I think good long term growth potential when Brexit teething problems and worst of covid out the way - what do you think of Tesco? 
+
+Obviously fared well during the pandemic like the rest of the sector, but still below pre-covid prices and, with turnaround complete, could really push on in the New Year.
+
+Relatively new to taking control of my own finances but seems to be decent value there in the long term._END_OF_POST_PYSTOCK_ Investing In Copper?  In the beginning stages of expanding my portfolio and researching Copper right now. It seems to be a good investment (right now I am looking at Southern Copper (SCCO). Have any of you had good returns in the long run from this or any Copper stock?  I have read that it (copper) is always in general demand and YoY it does hover on the upside of margins._END_OF_POST_PYSTOCK_ Question from a rookie, what do you guys think will happen to Tesla next month? I have around 7k USD in Tesla right now, which is basically all my savings, and as you all know it's been going up a lot since the announcement that they would be added to the S&P list.
+
+Yesterday I figured that this growth would probably continue for the rest of December, since they still need to actually be added to the list. So I thought it would be a good idea to open up a loan with my bank for about 3k and invest it into Tesla. Because you know, leverage!
+
+I believed this could play out in 2 ways.
+
+1. Either Tesla goes up a bunch in the next month and I can pay back my loan with basically 0% interest and let the rest of my profit sit in Tesla.
+2. Tesla doesn't go up immediately, or maybe even dip down a bit, and I just let my loan sit there. I have 18 months to pay it back and if I do that then it'll cost me 200 USD interest. But I feel relatively confident that in those 18 months I'll have made more than 200 USD from rising Tesla stock.
+
+But this morning when I woke up I thought, hmmm, what if the stock actually plummets when they get added to the S&P list, because maybe that's the exact moment that a lot of people will think it's the best time to sell their Tesla stock to make some money. I'm a bit scared of that scenario. Even though maybe I have nothing to be afraid of if I just let my money sit there for the full 18 months.
+
+I wonder what the experienced investors in this subreddit find the most likely scenario. Do you think it will keep going up when Tesla actually gets added to the S&P list? Or do you think it might plummet? Or just stay relatively stable?_END_OF_POST_PYSTOCK_ Which app do you guys recommend to people new to investing? Good morning from Spain. I recently got into investing small amounts of money 400-600€. I was using the trading platform trading212 but after a time, I feel like the platform has too many basic problems, loss of connection, bad page design etc.
+
+Which platform do you guys recommend?
+
+I’m not a total beginner the way, so please all advice you can offer is welcome. 
+
+Thank you all._END_OF_POST_PYSTOCK_ How much of third wave is already priced in? These following events are very likely to cause high increase of Covid cases:
 
 - Thanksgiving
 
@@ -47,9 +371,7 @@ Reminder: Gonna take a couple weeks before it moons (from merger agreement confi
 
 Since this is a SPAC, the price floor is $10.22 if the merger doesn’t go through. This means your downside is limited.
 
-I personally moved my entire account into 3050 shares at $10.60. Proof: https://ibb.co/5WH1yMk_END_OF_POST_PYSTOCK_ Hey guys Nice to meet you plebs. Just letting you know I’m up 500% on my PLTR calls and not selling anytime soon LOL. I blindly invested into Palantir, and I’m rich. I still don’t know what the fuck it even does, and I really don’t care to be honest. Thanks for coming to my Ted talk_END_OF_POST_PYSTOCK_ What is the difference between Palantir and Snow? Can someone explain like I'm 5 what Palantir does? What is their product and who is going to buy it in the future? Who is their biggest customer? I've looked at their website and I don't get it. What are they doing different?
-
-My financial advisor told me to buy this stock two weeks ago and I feel like I'm in on a get rich quick scheme. I wish I had bought more._END_OF_POST_PYSTOCK_ SQQQ? Can someone please explain what the SQQQ is? Someone told me that you can lose more than you invest with it because its a short is this true? I'm not looking to buy this stock I'm just trying to understand it. Why would someone buy it?  Thanks for the help._END_OF_POST_PYSTOCK_ Can this new battery tech propel GM to be an EV leader in the near future? Found this article on the web that was posted today (11/25) -- [https://spectrum.ieee.org/transportation/advanced-cars/gm-opens-up-a-new-front-in-its-battle-with-tesla-batteries](https://spectrum.ieee.org/transportation/advanced-cars/gm-opens-up-a-new-front-in-its-battle-with-tesla-batteries)  
+I personally moved my entire account into 3050 shares at $10.60. Proof: https://ibb.co/5WH1yMk_END_OF_POST_PYSTOCK_ SQQQ? Can someone please explain what the SQQQ is? Someone told me that you can lose more than you invest with it because its a short is this true? I'm not looking to buy this stock I'm just trying to understand it. Why would someone buy it?  Thanks for the help._END_OF_POST_PYSTOCK_ Can this new battery tech propel GM to be an EV leader in the near future? Found this article on the web that was posted today (11/25) -- [https://spectrum.ieee.org/transportation/advanced-cars/gm-opens-up-a-new-front-in-its-battle-with-tesla-batteries](https://spectrum.ieee.org/transportation/advanced-cars/gm-opens-up-a-new-front-in-its-battle-with-tesla-batteries)  
 
 
 I've been a proponent of GM vehicles since 2013. Really liking the path that GM is taking with their EV vehicles. Their new battery tech seems promising and their valuations are low compared to other pure EV makers. My concern is can GM catch up to Tesla in the EV market? I'm really hoping GM lays out some real cool new modern designs for their cars to cater to the younger market. Their current lineup looks so bland..._END_OF_POST_PYSTOCK_ WHY to exit a position vs. WHEN to exit a position. The question isn't \*when\* you should get out, its **why** you should get out.
@@ -91,6 +413,38 @@ Put another way, do you think you could generate 1 20% return each day for the n
 |200|50%|doable|
 |500|20%|Really, really doable|
 
+&#x200B;
+
+**EDIT: A note about compounding.** 
+
+If you consistently re-invested your gains, you'd only need 25 successful outcomes. This is doable, but it's incredibly risky as you're assuming (much like I did above) that every investment leads to a 20% gain. If you were to put all your eggs into one basket then this is what compounding *looks* like. 
+
+&#x200B;
+
+|Investment #|Starting Value|Gain|Ending Value|Notes|
+|:-|:-|:-|:-|:-|
+|1|$10,000|20%|$12,000||
+|2|$12,000|20%|||
+|3|$14,400|20%|||
+|4|$17,280|20%|||
+|5|$20,736|20%|||
+|6|$24,883|20%|||
+|...|...|...|....|moving to investment 10|
+|10|$51,598|20%|$61,917||
+|...|...|...|...|moving to investment 15|
+|15|$128,392|20%|$154,070||
+|...|...|...|...|moving to investment 20|
+|20|$319,480|20%|$383,376||
+|...|...|...|...|and to investment 25|
+|25|$794,968|20%|$953,962||
+|26|$953,962|20%|$1,144,755||
+
+&#x200B;
+
+**EDIT: A note about reality**
+
+You're not going to consistently make 20% gains each investment. Some will be -5%, -25%, - 100% and others will be 5%, 20%, 100%, 400%. There are entire books, companies, funds etc...dedicated to figuring out how / when / who to invest in. I'm not going there. My point is not what you should invest in, but a reality check that turning 10,000 into a million is absolutely doable. If you go in knowing what it takes to get there, then you'll know **why** you need to sell a position (hint: so you can go on an re-invest that sum into another investment that is undervalued and hasn't yet returned what it's capable of returning)
+
 &#x200B;_END_OF_POST_PYSTOCK_ What am I missing here with MET? Looking at Metlife, as of today it has an earnings per share of $6.12 and a price of $47.76, so a P/E of about 8.
 
 Compared to the maybe outdated Ben Graham rule of price/earnings over 15 being expensive, a P/E of 8 seems like a bargain, unless I'm missing something important about the company or global insurance markets. 
@@ -113,7 +467,7 @@ The amount of buying pressure and momentum in this stock is insane.
 
 Not to mention the unusual options activity that's going on right now. Though this is probably being fuelled mostly by retail investors._END_OF_POST_PYSTOCK_ Slack acquisition by Salesforce Slack acquisition prices will be decided before Dec 1st $CRM earnings. With $AMZN $SNOW & others using Slack for external communication & relying more on Slack connect over emails gives slack edge over teams. Moreover Ark invest/Cathie did not to sell a single stock from their 8th largest portfolio.
 
-IMO this is just the beginning & salesforce approached $WORK. Possible there can be more than one bidder: $ZM $APPN $GOOG $AMZN
+IMO this is just the beginning & salesforce approached $WORK. Possible there can be more than one bidder: $ZM $ORCL $GOOG $AMZN
 
 Anything less than $27 to 30B is not worth slacks time after pulling off slack Connect. When Microsoft think tank believes Teams is worth 49B, Slack's collaboration has bigger potential to $crm $appn $goog $amzn $zm
 
@@ -136,39 +490,7 @@ The first thing that comes to mind would be ARM-based servers. What are your tho
 
 Also, Treasury Secretary Steven Mnuchin has directed the central bank to return all collateral funding it received for multiple pandemic-era lending programs. They include corporate bond purchases, loans to state and municipal governments, and the Main Street Lending Program for small- and medium-sized businesses.  We will have to wait and see how this is going to affect the market going forward.
 
-I would be very cautious of making any investing in the market right now. A correction or cool off is very likely in the short term!_END_OF_POST_PYSTOCK_ S&P 500 index has more risk than ever thanks to TSLA inclusion I believe people need to rethink their "just buy the S&P and forget it" attitudes. With Teslas inclusion and enormous market cap, it now has a profound effect on the index. Tesla has surpassed Walmart and Berkshire in market cap. Think about that. A company that has to sell shares, borrow money, and requires credits to be profitable is now the 6th largest company in the S&P. Berkshire is buying shares, Tesla is selling them because they need money. Their market cap is $100 billion more than Walmart. Tesla had $24b in revenue all of last year. Walmart had $134b in revenue last *quarter* alone. Walmart owns $200b in real estate while Tesla cant even pay rent on time. Since that announcement the stock is up 35% and it hasn't even been added yet. More downside risk. I'm a fan of Tesla and I made a decent amount of money on their epic run but being the 6th largest company in the index opens up massive downside peril for passive funds. The entire EV market is in a state of euphoria and failure to meet unrealistic expectations will be met with dire ramifications for shareholders. Unfortunately that now includes holders of SPY and VOO._END_OF_POST_PYSTOCK_ Leverage (The Trend Is Your Friend) - Beat The Market The trend is your friend
-
-On any given day, the odds of the market going up or down are not 50/50. Additionally, stock returns do not follow a normal distribution, as is commonly assumed in many models. On any given day, the market has roughly a 53 percent chance of rising. The odds of the market rising over longer periods increases continually as the time period you're looking at increases. Daily market returns are also streaky. You are statistically more likely to have multi-day winning streaks during uptrends. This plays into our hands.
-
-A thing to remember - Total stock market returns are notoriously hard to forecast. *However, volatility is relatively easy to forecast.*
-
-A award-winning paper I found is called "[Leverage for the long run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741701)," and uses the 200-day moving average to forecast volatility.
-
-The 200-day moving average method works shockingly well. We already know that 3x leveraged ETFs tend to do even better than 3x the market in low volatility markets and worse in high volatility markets. The trick to pocketing the extra return is to isolate the periods when volatility is most likely to occur. 
-
-This is an amazing split. Volatility is almost twice as high when stocks are below their 200-day moving average than when they're above it.
-
-This indeed allows us to isolate the instances when we are most likely to experience significant market declines and the times when 3x leverage is most likely to underperform the index due to volatility drag.
-
-By doing this, you also are able to identify environments when market crashes are more likely to occur. As you can see, over two-thirds of the worst trading days for the market occur when the S&P 500 is trading below its 200-day moving average.
-
-The 200-day moving average isn't just something recently cooked up, either. The idea of only owning stocks above the 200-day moving average has been around for a long time. Nobel prize-winning professor Jeremy Siegel covered the strategy in his book *Stocks for the Long Run* but ultimately concluded that the strategy returned less than buy-and-hold, albeit with less risk.
-
-However, the increased effect of volatility drag on leveraged ETFs (and acceleration of returns in calm markets) flips the script on this assumption.
-
-**The "*****Leverage for the Long Run"*** **strategy**
-
-The moving average strategy proposed in the Pension Partners paper is pretty simple. As long as the S&P 500 is above its 200-day moving average, buy and hold UPRO. When the S&P 500 sinks below its 200-day moving average, rotate to cash.
-
-You'd have avoided almost the entirety of the bear markets in 2000-2002 and 2007-2009 while catching the upside with 3x leverage. Valuations and growth do matter for this strategy as we can explain roughly [20 percent of the variation in future stock returns by valuation alone](https://seekingalpha.com/article/3995018-nifty-fifty-market-barometer) (typically the r-squared, a statistical measure of how much of y you can explain by x, is around 0.20), so going forward the optimal index to apply leverage to may not be the same. However, the trend following system really does work. 
-
-Academic research shows that momentum strategies tend to outperform the market at large. Adding leveraged ETFs to the momentum factor is like pouring gasoline on the fire to returns of the 200-day moving average strategy. I feel that the simplest improvement to the trend following strategy is to use the Nasdaq rather than the S&P 500, as seen by the performance over time.
-
-[The Nasdaq has outperformed the S&P 500 in roughly 60 percent of quarters going back to 1986](https://www.reddit.com/r/stocks/comments/9b63hi/nasdaq_100_vs_sp500_which_one/) and has a stronger exposure to the momentum factor. You can see in the first graph above how much of a difference this has made.
-
-Additionally, instead of investing in cash instruments when the index is below the 200-day average, I'd think about rotating into long-term Treasury bonds ([TLT](https://seekingalpha.com/symbol/TLT)) to take advantage of periods of risk aversion. We know that markets tend to see most of their worst days when stocks are below their 200-day average, and also that Treasuries tend to catch a bid as investors flee risky assets in downturns. This strategy would have significantly helped your returns in 2008. 
-
-Additionally, I recommend a 1 percent band around the 200-day average to prevent being whipsawed as the market hovers near its 200-day average. Let it close 1 to 1.25 percent below before you sell and wait for it to go 1 percent above before you buy. Additionally, you may want to consider using the 150 or 175-day averages as they're less popular with traders. 200-day moving average traders are still smart money, but the fewer people you have selling when you want to sell and vice versa when you buy, the better. I'd use the moving average on the S&P even though we're trading the Nasdaq as it's a volatility forecaster, not a market timing model._END_OF_POST_PYSTOCK_ Why Square Stock Jumped 5% - Motley Fool Square has been a hot stock in recent months.  The 317x trailing earnings is a fair point.  Would love to hear opinions on why this guy is right and why he is wrong.  
+I would be very cautious of making any investing in the market right now. A correction or cool off is very likely in the short term!_END_OF_POST_PYSTOCK_ S&P 500 index has more risk than ever thanks to TSLA inclusion I believe people need to rethink their "just buy the S&P and forget it" attitudes. With Teslas inclusion and enormous market cap, it now has a profound effect on the index. Tesla has surpassed Walmart and Berkshire in market cap. Think about that. A company that has to sell shares, borrow money, and requires credits to be profitable is now the 6th largest company in the S&P. Berkshire is buying shares, Tesla is selling them because they need money. Their market cap is $100 billion more than Walmart. Tesla had $24b in revenue all of last year. Walmart had $134b in revenue last *quarter* alone. Walmart owns $200b in real estate while Tesla cant even pay rent on time. Since that announcement the stock is up 35% and it hasn't even been added yet. More downside risk. I'm a fan of Tesla and I made a decent amount of money on their epic run but being the 6th largest company in the index opens up massive downside peril for passive funds. The entire EV market is in a state of euphoria and failure to meet unrealistic expectations will be met with dire ramifications for shareholders. Unfortunately that now includes holders of SPY and VOO._END_OF_POST_PYSTOCK_ Why Square Stock Jumped 5% - Motley Fool Square has been a hot stock in recent months.  The 317x trailing earnings is a fair point.  Would love to hear opinions on why this guy is right and why he is wrong.  
 
 Rich Smith (TMFDitty)
 Nov 25, 2020 at 2:40PM
