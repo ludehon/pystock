@@ -88,3 +88,6 @@ if __name__ == "__main__":
         wf.displayTimeSerie(15, toExclude, toLookAt)
     elif mode == "raw":
         save_wf_from_raw("2020-11-20", "2020-11-21")
+    elif mode == "top":
+        wf = wordFreq()
+        wf.displayTopByDate(10)

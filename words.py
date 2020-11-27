@@ -183,3 +183,7 @@ class wordFreq:
 
     def loadFromFile(self, date):
         self.count = json.load(open(date + "_word_frequency.json"))
+
+    def displayTopByDate(self, size):
+        first, last = shared.getFirstAndLastDate(shared.RAW_FOLDER + "investing*.txt")
+        dates = pd.date_range(start=last_date, end=today).tolist()
