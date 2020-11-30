@@ -1,0 +1,432 @@
+ Impact of debt repurchase on leverage Hi folks, 
+The corporate bond market has seen a wave of refinancing whereby companies that issued debt  back in March 2020 at very high coupons are calling these issues and issuing new bonds at much lower rates. How does this affect the balance sheet and leverage ratios?
+
+It seems to me that if a company issued a $100 bond at par, we would see $100 in assets and 100 in liabilities. We would also see a 100 flow in the cash flow from financing.
+
+Let’s say that the company calls those bonds at $150 because rates and spreads are now very much lower. Let’s further say that they borrow this $150 from the bond market. In this case, we would now have 150 in assets, 150 in liabilities, and a net cash from financing flow of 150-100 = 50. There would be no expense on the income statement immediately, but going forward the interest expense would be lower as rates are now very much lower. This reduction in interest rates and interest expense is why a company would refinance in the first place, even though the balance sheet now looks more leveraged with 150 in debt.
+
+Is this accurate? Any thoughts_END_OF_POST_PYSTOCK_ One of my mates recently asked me: Who should I follow to learn how to invest in stocks? - I had no clue what to say... There's so many online courses, youtube gurus, wall street big shots and the list goes on... Combined with the fact that there are fundamentally different approaches to investing and to the general concept of market efficiency.. So how the heck is someone new really supposed to sift through all that different and often conflicting information? The research you need to do in order to find the best learning source is almost as comprehensive as the learning itself at this point..  
+
+
+Another question is: Does fundamental valid strategies and investment approaches erode (partly) over time due to market/society changes? Take Warren Buffet as an example, he is without a doubt one of the greatest investors to ever live, but is his approach to value investing partly outdated in 2020? I don't know, but one thing is for sure, the market and the companies are very different in 2020 than they were in the majority of "buffets time"  
+
+
+Anyway just some thoughts, would be interested to hear ppls opinions on this_END_OF_POST_PYSTOCK_ Which companies are going to provide us breathing helmets in a world with several ongoing pandemics? My hypothesis is that pandemics are getting more and more frequent in the near future due to the rapidly evolving crises conserning climate and nature.
+
+This will force humanity to find solutions to live simultaneously with deadly viruses. I think that one of these solutions will be a helmet or mask which isolates its carriers breathe 100% from her surroundings.
+
+Now to the investing part: let say that my hypothesis is accurate and all above will happen during this decade. Which companies would you invest in? I'm thinking about scuba equipment manufacturers like Johnson Outdoors, but I'm not sure if they have the capacity for this kind of disruption._END_OF_POST_PYSTOCK_ Finland’s Solidium quietly raising large stake in Nokia by $30M in past two months, now exceeding 5.2%. Solidium is more and more bullish on $NOK for unclear reasons. The latest update on November 25, 2020 shows Solidium holds 292M shares (5.2%) at an average of 3,42 euros for a total of 997M euros. It held 283M shares (5.01%) on September 3, 2020. Prior to that, it held only 3.7% in January 2020. 
+
+The story made multiple outlets when Solidium crossed the 5% threshold to 5.01% in September, sparking speculation of Finland trying to defend against US interest. At that time, Finland said they were done buying, “From a European perspective, it’s important that Europe has 5G technology. But Europe isn’t an entity who could buy shares,” Makinen said. “For the Finnish state, it boils down to this: it’s one of the most -- if not the most -- important company in Finland and keeping it Finnish has value to us.”
+
+Solidium won’t disclose plans of further purchases, and Makinen said the 5% it now has “feels like a suitable amount.”
+
+https://www.bloomberg.com/news/articles/2020-09-08/finland-is-building-its-nokia-stake-in-response-to-u-s-interest-ketqcpo7
+[Solidium holdings](https://www.solidium.fi/en/holdings/holdings/)_END_OF_POST_PYSTOCK_ Walmart (NYSE: WMT) - A stock quick review/guide - 2nd Place Winner in the Poll # Introduction:
+
+Good morning/evening everyone. The poll closed out (on r/dividends) with Walmart placing 2nd and Honeywell placing last, so these two will get stock reviews, starting today with Wal-Mart.
+
+# Walmart | Save Money - Live Better:
+
+Sector: Consumer Defensive
+
+Walmart is America’s largest retailer by sales, selling a variety of general merchandise and grocery items. It operates 11,300 stores in the US, which account for approx 76% of sales in fiscal 2019, with Mexico and Central America \~6%, the UK \~6%, and Canada \~4% beings  its largest external markets.
+
+The company operates several e-commerce properties apart from its site, including Flipkart, Jet.com, and shoes.com (it also owns a roughly 10% stake in Chinese online retailer JD.com). As of 2019, e-commerce accounted for only \~5% of fiscal 2019 sales. However the e-sales growth during the pandemic has greatly increased this.
+
+Walmart has been smart with its acquisitions and partnerships. Walmart has partnerships with Instacard, ThredUp, Shopify, and even Google. The Instacart partnership, together accounts for nearly half of all online grocery sales in 2020. The partnership with Thredup allows Walmart to sell cheaper clothes on its online marketplace, and Shopify allows 3rd party sellers to sell their goods on Walmart's marketplace as well. Lastly, the Google partnership provides customers voice-enabled grocery shopping and likely much more in the future. Walmart's partnerships and acquisitions are taken to further complete with and provide a market alternative to Amazon.
+
+**Strengths:**
+
+>\- Walmart is the largest retailer in the world providing it unequaled power to leverage their vendor's, suppliers, and manufacturers, keeping prices low with national and private brands.  
+>  
+>\- Walmart's cost advantage provides significant barrier to entry and is consistently used to disrupt their competitors.  
+>  
+>\- The company is aggressively investing in its e-commerce segment and focused on strategic acquisitions to complete with Amazon. (Mentioned in the last paragraph above)  
+>  
+>\-  The partnership with Google is has the potential to be particularly strong due to Walmart lacking strong tech exposure.  
+>  
+>\- Walmart PLUS memberships, 2 hour delivery, and expansion into drone delivery services.
+
+**Risks:**
+
+>\-  Walmart employs millions people and is facing intense pressure to raise wages. This will have an effect on their profit margins.  
+>  
+>\- Amazon. Amazon is much much more than just e-commerce.  
+>  
+>\- Walmart's profit margins aren't as wide as they could be due to keeping prices lower, this does bring them more sales revenue, but they have to be very wary of any competitors lowering their prices further to undermine Walmart's position and margins.
+
+Amazon's threat to many of the traditional brick and mortar industries cannot be understated. Amazon's model is nearly the example of a monopsony, the opposite of a monopoly. They aren't interested in dominating one sector, but ingraining themselves into literally everything. This is why Amazon's model is so disruptive.
+
+In addition to this, Amazon is often the company that raises the conversation of wage increases to undermine it's competitors. The wage increase to 15$ was much more than them "listening to their critics", it was a move to further pressure any of their competitors whose margins cannot effectively absorb this cost burden. This tactic, along with Walmarts cheap pricing tactics, is what allows Amazon to nab up companies very cheap. (See the whole diapers deal).
+
+# Financial History:
+
+For Walmart we will be looking at the 5 year financials rather than the 10 year due to their push more recently to get into the ecommerce markets.
+
+|Year|Revenue|EBITDA|Debt|Debt / Earning|
+|:-|:-|:-|:-|:-|
+|2016|$478,615|$33,559|$49,994|\~1.5|
+|2017|$481,371|$32,884|$45,930|\~1.4|
+|2018|$495,761|$30,966|$46,470|\~1.5|
+|2019|$514,405|$32,635|$58,033|\~1.8|
+|2020|$523,964|$31,555|$72,400|\~2.3|
+
+The revenue is honestly just insane and shows how large Walmart is, plus it is something like 80-90% of the US population lives within 15 miles of a Walmart or something? Anyways, $478 Billion to $523 Billion, about an average increase of 2.2% YoY. Not bad, they are continuing to grow, but just ahead of currently inflation rates. When we look at EBITDA though, their margins are shrinking/lumpy.  This, based on the company movement, and from what they say in their 10K, this decrease is largely attributed to them moving into e-commerce. These numbers may be significantly different next year since their ecommerce has been growing pretty significantly during the pandemic, they are estimated at 97% annual growth there. However note that ecommerce, despite this increase is still a very small piece of the company right now, it is going to take awhile for it to have a more significant impact, but the growth is absolutely there.
+
+The debt is increasing due to acquisitions as well as investment into the ecommerce segment as well. The 2.3x debt/earnings is a bit higher than their historic levels, but again, they are investing right now, and it is still lower than a 3x where it starts to be a bit more concerning.
+
+|Year|Cash Flow from Operations|Capital Expenditures|FCF/E Ratio|
+|:-|:-|:-|:-|
+|2018|$28,337|$10,051|$16,840|
+|2019|$27,753|$10,344|$29,444|
+|2020|$25,255|$10,705|$13,479|
+
+Cash flow from operations is definitely in line with the decreasing EBITDA so that makes sense. Their CAPEX been consistent the last few years, nothing to really note there since the e-market stuff has already been mentioned. Now for the Free Cash Flow, in 2019 there is a significant jump, this is because in 2019 they took on \~$12 Billion in debt load, this was added to the FCF/E for whatever reason, we can subtract it and say that is was more likely \~$15/16/17 Billion, which is in line with the decline. In 2018 and 2020 they were making debt payments, appears to be about 1.5 Billion for each of those years, hence the lower FCF/E there.
+
+Over the years, in addition to the dividend, they do appear to be using some of their capital to buy back shares, those have decreased from approx 3,200 - 2,850 outstanding over the last 5 years or so. Some would say this is the better way to give back to the shareholders rather than dividends, but others say that it is a way for companies to create synthetic earnings. Take what you will from that. Typically healthy (large) companies will do both dividends and share buybacks, so take what you will from that.
+
+# Let's Take a Look at the Dividend and Price/Value, and Growth:
+
+Walmart (WMT) is a Dividend Aristocrat that has paid and increased its dividend for 46 consecutive years.
+
+NOTE: Current for November 2020 and very likely to change.
+
+|Stock Price|$151.60|
+|:-|:-|
+|P/E Ratio|21.89|
+|Current Annual Payout / Share|$2.16|
+|Yield|1.42% (Based on  $151.60 Price Nov 2020)|
+|10 Yr Div Growth Rate|7.2%|
+|3 Yr Div Growth Rate|2%|
+|1 Yr Div Growth Rate|1.9%|
+|Current EPS Payout Ratio|34.45%|
+
+Strictly from a Dividend Growth perspective, the payout is a bit low and the dividend growth has sharply decreased as the company continues to focus on e-market expansion. In addition to this, the yield on cost is of lower value right now, had the stock been purchased earlier when it's price was closer to 100$, it would have been an excellent buy, at the current price and yield though, there are better prospects.
+
+From a value perspective... well Walmart over the years has traded closer to an 8x multiple, it is currently over 20x. Based on this alone it would be considered overvalued based on its financials, however one also needs to consider that higher multiples are typically paid for companies with stronger growth prospects...which leads us to growth.
+
+From a growth perspective, Walmart is a market titan, the growth will be gradual over longer periods of time, but there are many factors that need to be considered from this perspective (as well as the others):
+
+>\- Will their e-market investments pay off or will they lose market share due to more competitors in the business and pressure from Amazon?  
+>  
+>\- Will the decline of brick and mortar stores offset the earnings from the e-market?  
+>  
+>\- How much could they expand their margins by automating warehouses amoung other segments?  
+>  
+>\- Do their traditional brick and mortar stores provide Walmart a significant distribution advantage over Amazon? (80-90% of Americans within 15 miles of a Walmart mentioned above)  
+>  
+>\- How will Wamart continue to nurture their relationships with Google and Microsoft and will it continue to make smart and strategic acquisitions?  
+>  
+>\- How will future government policies and labor unions affect both Amazon and Walmart?
+
+There are so many different unknowns that need to be considered.
+
+# Closing Thoughts:
+
+Walmart is an absolute titan of a company that is transitioning to have a significant e-market presence. Compared to Amazon, Walmart is currently the underdog that still needs to be very cognizant of it's other competitors, like Target. However, their recent partnerships and acquisitions have enabled the company to expand significantly online during the pandemic, and unlike Amazon, they have a wider physicals presence, stores that can act as distribution centers amoung other things.
+
+Ultimately, Amazon is very likely to continue to dominate, however, Walmart does have the potential to start edging their way into the different market segments and start taking pieces of the pie for itself. Amazon is certainly aware of this, hence the reason it pushes timely wage-increases and other policies to undermine its competitors. Government policy is a significant factor to both due to their sheer size and presence.
+
+At the end of it all, you need to ask yourself, do you think Walmart can continue compete, and continue to work its current business model? Or perhaps you'd take more the side of why not both?
+
+I hope everyone found this post interesting, please supplement this with your own research. There are always more risks that need to be considered, read opposing views, read up on Target and Amazon. Don't just read whatever will validate a preformed opinion.
+
+As always, thanks for reading, and have a good day/night!_END_OF_POST_PYSTOCK_ APXT // AvePoint - Legit Analysis Read first, thank me later. **AvePoint, the Largest Microsoft 365 Data Management Solutions Provider, Announced a $2bn Merger in a definite business combination with Apex Technology Acquisition Corporation** (NASDAQ: APXT). The post-closing entity will be listed on NASDAQ under new ticker AVPT and maintain the AvePoint name. The transaction has been approved by the Board of Directors of Apex, as well as the Board of Directors of AvePoint and it is expected to finalise in Q1 2021
+
+**// About AvePoint**
+
+AvePoint is the largest data management solutions provider for the Microsoft cloud, with over 1,300 employees in 29 global offices. Key takeaway:
+
+* AvePoint was founded in 2001 as a company to help ease the complexity of SharePoint installations, which at the time were all on-premise. Today, it has adapted to the shift to the cloud as a SaaS tool and primarily acts as a policy layer enabling companies to make sure employees are using these tools in a compliant way
+* Huge diversified blue-chip client base, \~7 million members (as of Sep 30, 2020) with 16k accounts and 25% of Fortune 500 using the company’s services. 7M users represent 3% or 250M Microsoft 365 client base with an estimated addressable market of $33 billion by 2022 (according to IDC). The Company sells directly to large and mid-market enterprises, and its solutions are also available to managed services providers on more than 100 cloud marketplaces globally. Regarding Microsoft, the company “Bridges the Gap Between What Microsoft Cloud Offers and What the Enterprise Requires”
+* Compared to other recent SPAC deals and business combinations we just saw, AvePoint has indeed a great track record. Expected 2020 revenues @ USD 148M, a + 26% YoY increase (78% recurring revenues). There are 212 public software companies and AvePoint is one of 5 that is growing at a rate of more than 25% revenue while maintaining a 14% EBIT margin and 30% ARR growth. The company is projecting significant growth for the next two years with revenue estimates of $257 million and ARR of $220 million by the end of 2022
+* Great market trends. Explosive data growth, increasing data regulations, shifts to the cloud, hyper growth of Microsoft Teams were all trends that fuelled the growth prior to the pandemic. The impacts of COVID-19 have greatly accelerated these trends
+* The company raised $200 million in January this year led by Sixth Street Partners (formerly TPG Sixth Street Partners), with additional participation from prior investor Goldman Sachs. The company has raised a total of $294 million in capital before the reverse merger announcement
+
+**// About APXT**
+
+* Outstanding management: led by Oracle CFO Jeff Epstein (\*cough\* didn’t kill himself \*cough\*) and former Goldman Sachs Head of Technology Investment Banking Brad Koenig. Their combined experience includes more than 100 technology IPOs, Served on 20 boards and advisory boards and saw mergers involving companies such as Microsoft, Oracle, Ebay,, Dell, Yahoo! and Twilio
+* Apex’s balance of $352 million plus a $140 million additional private investment will be handed over to AvePoint. Once transaction fees and other considerations are paid for, AvePoint is expected to have $252 million on its balance sheet. Existing AvePoint shareholders will own approximately 72% of the combined entity, with the balance held by the Apex SPAC and the private investment owners. Implied enterprise value of 9.0x 2021E revenue with very attractive valuation multiples compared to peers
+
+**// Advisors**
+
+Evercore Group L.L.C., Citigroup Global Markets Inc., Goldman Sachs & Co. LLC, Evercore and Cowen In
+
+**// TL;DR - Bottom line**
+
+* AvePoint is a Market leading SaaS company, with powerful tailwinds for Microsoft Cloud, a high quality and diversified customer base and compelling historical & expected financial results, business model and valuation
+* APEX after hours trading on Wednesday 25/11 saw a +19.20%, while the trading day closed slightly positive with no significant spike. Business combination already approved means less risk on that side (if compared to Tuscan for instance) but very huge upside potential
+* Pre-market stands @ +10%. I would buy R1, forget about it all the way to 80% capital invested TP @ \~+30%. Look at the overall market conditions in Dec and TP the remaining funds @ +60% upside. But I’m less degenerate than you guys are
+
+*Disclaimer: all images should be credited to AvePoint or the above-mentioned sources. This does not constitute and has not to be intended as a financial advice or solicitation of any kind. I hold a long position in APXT (doubled the position @ 14)*_END_OF_POST_PYSTOCK_ // THCB & Microvast Inc - Legit Analysis The EV craze is seeing another ops, the reverse merger of Microvast. **On Nov 13 a letter of intent (LoI) has been signed related to a business combination with Microvast Inc.**, a market leading provider of next-generation **battery technologies for commercial and specialty use electric vehicles**
+
+This name already came up on WSB gents, so the below it’s more of an in-depth DD before the next bell. Good to credit other DD as well for a sort of empirical work in calling the Company’s Texas HQ (LoL)
+
+**// What the heck is Microvast?**
+
+Founded by Yang Wu in 2006, **Microvast is focused on driving mass adoption EVs** and its battery technology boasts best-in-class charging speed, battery life, energy density and safety performance. Key takeaway:
+
+* **In a nutshell**: headquartered in Houston (TX, USA), 6 locations worldwide and +2,500 employees. Over 700+ R&D staff (30+ PhDs, and 100+ master degree). Over 426 patents and patent applications which covers the whole Li-ion battery chain, including battery material (cathode, anode, separator, and electrolyte), cell, pack, BMS, powertrain, and related equipment
+* **10 mins, faster than you**: the Company has been an innovative industry leader for over a decade and has clear visibility to future growth from its existing pipeline across commercial markets including e- buses, vans, trucks, passenger vehicles, automated guided vehicles, forklifts and mining trucks. They have a battery system that enables 10 minute charging times with limited degradation based on lithium-titanate technology (game-changer, Toshiba apparently the only very-close competitor)
+* **Vertical Integration**: its strategy extends from core battery chemistry, including cathode and anode materials, electrolyte, and membrane separators, to application technologies including battery management systems (BMS) and other power electronics. Higher quality, lower costs as by integrating the process from raw material to system assembly, Microvast is able to provide customized solutions with reduced project development time and controllable cost
+* **Strategic growth**: as of October 2020, the Company had more than 40,000 electric vehicles powered by Microvast battery systems operating in 170+ cities within 19 countries, which have accumulated over 4 billion kilometers driving distance without any operation accidents caused by batteries. Plus, an impressive, growing list of global OEM customers, and a strategic partnership with Fiat Power Train Industrial. Bottom line is: real products with real-world adoptions (E-buses in China, London, Germany Singapore), and strong focus on R&D and diversification in terms of regional coverage which makes it less prone to regulatory risks or investigations (e.g. Chinese Probes). Notably, electric buses during the 2018 Olympic Games in South Korea featured Microvast batteries
+* **No real financial available** (🚩). Nonetheless, take or leave it, Mr Wu (founder and CEO) stated “Microvast expects to generate over $100 million of revenue this financial year. Our potential transition into a public company will help continue to fuel our design and development of market-leading ultra-fast charging, long-life battery power systems”
+* **Real production sites and product dev** (🟢): Microvast started its Li-ion battery production in Huzhou, China since 2009, automatic cell production line (Phase II) and automatic module production with semi-automatic pack production line (Phase II) in place. Phase I and II in operation since 2009, Phase III started its construction since Mar 2017
+* **Clean City Transit project with an ultra-fast charging network**: the CCT plan put forward by Microvast is based on fast charging, long life and safe battery technology, and aims to facilitate the electrification of urban transport systems by progressively introducing battery systems while minimizing disruption to urban infrastructure, first to city buses, then to taxis and finally to passenger cars
+
+**// Ok so what should I buy? THCB**
+
+* **THCB** is a blank-check company initially aiming to bring a cannabis company public. Then, they decided to switch to the EV space following the trends we all know. The Chairman and CEO stated “Microvast has a compelling financial profile, with significant historical revenues as well as projected growth and profitability”. Total valuation exceeds $2Bn
+* 75 institutional owners and shareholders that have filed 13D/G or 13F forms with the Securities Exchange Commission. These institutions hold a total of 39,345,200 shares. Largest shareholders include BlueCrest Capital Management Ltd, Mizuho Securities Usa Llc, Bank Of Montreal /can/, Hudson Bay Capital Management LP, K2 Principal Fund, L.p., Cnh Partners Llc, Polar Asset Management Partners Inc., Alberta Investment Management Corp, Sage Rock Capital Management LP, and Periscope Capital Inc
+* In March 2019, the Company consummated its IPO from which it derived gross proceeds of $276,000,000 (including $36,000,000 from the exercise of the underwriters’ over-allotment option). Like most blank check companies, the charter provides for the return of the IPO proceeds held in the trust account to the holders of public shares if there is no qualifying business combination(s) consummated on or before a certain date (in this case, December 7, 2020 or above, see below)
+* On December 3, **THCB** will vote a proposal to extend the date by which it has to consummate a business combination from December 7, 2020 to April 30, 2021
+* EarlyBirdCapital has been the sole book-running manager and underwriter. The previous merger consumed by EarlyBirdCapital are significant. The latest include TTCF (+59%), VLDR (+55%), BWMX (+204%), AVCT (-42%) and (-16%)
+
+**// Don't fuck with me, what are the risks?**
+
+The completion of the transaction is subject to, among other things, the execution of a **definitive agreement** (which has already taken place for //AvePoint instead, see my other post) approval by the two companies' boards, satisfaction of customary closing conditions and approval of the transaction by each company's shareholders. Accordingly, there can be no assurance that a definitive agreement will be entered into or that the proposed transaction will be consummated on the terms currently contemplated or at all. If a legally binding definitive agreement is entered into, a full description of the terms of the transaction will be provided in a registration statement and/or a proxy statement of SPAC to be filled with the SEC
+
+**// I don't want to read, bottom line? TL;DR**
+
+* **Microvast considers itself a leader in developing ultra-fast and long-lasting battery power systems for electric vehicles**, around since 2006. Unlike other companies involved in SPAC deals, **Microvast has developed an existing product** (electric buses during the 2018 Olympic Games in South Korea, Shanghai, London, Germany, China and Auckland)
+* After hours trading on Wednesday 25/11 saw a +12%, while the trading day closed slightly positive with no significant spike. **Business combination hasn’t been approved**, we have just an LoI, which amplifies the risk of a no deal as the two haven’t entered a definite agreement
+* \+7.40% on Friday 27/11, **still very manageable price**. I would buy at retracement S1 or R1 for the true autists, monitor the proxy statement vote on Dec 3, forget about it all the way until other rumors about the business combination. Looking at the EV space, after a news I would TP 60% capital invested TP @ +20%. Look at the overall market conditions in Dec/Jan (depending on the business combination) and TP the remaining @ +40% upside
+
+*Disclaimer: all images should be credited to Microvast Inc. or other sources. This does not constitute and has not to be intended as a financial advice or solicitation of any kind. I hold a long position in* **THCB.**_END_OF_POST_PYSTOCK_ Thoughts on VALE? I'm pretty new to investing and I only invest a small amount on cashapp. One of the companies I've I have invested in is Vale. They're up over 35% for the month. With the rise of electric vehicles they seem like a good buy to me considering they are the largest nickle producing company in the world. What are some of your thoughts on this company?_END_OF_POST_PYSTOCK_ Social Media Trends for Investing Hey guys!
+
+I'm wondering if there is some sort of service out there that aggregates all of the current "HOT" stocks that are trending on social media. For example what stocks are being talked about on TikTok, Youtube, Instagram, and other forums. How many times a day are they being mentioned and how large of an audience are they reaching? Does anyone know of any services currently like this?
+
+Thanks_END_OF_POST_PYSTOCK_ Thoughts on Stock Advisor vs Rule Breakers from Motley Fool? I’m thinking of subscribing to one or both and am interested in opinions. Thanks 
+
+***************************ignore*****************
+Thanks again to all the people that you know and you know how much I am thinking of of who I would like amzn was a great time for me and my family to have it and for me and my mom is to the day you get the time and you let me know if you’re coming over to pick me and I will pick it all over again and then I’ll pick it over here thanks for your time thanks again thanks so I love to see your text thanks for the text thanks again thanks so I love to see your email about your text_END_OF_POST_PYSTOCK_ "Value Investing" and "Chasing Value" as described in books like Security Analysis will get you nowhere: a cautionary tale. Guys, I started learning about investing in high school. As any precocious teenager, I decided to follow the example of investment heros Warren Buffet and Charlie Munger. I read Security Analysis by Graham and Dodd. I devoured any book that purported to explain Buffet's strategy. Any book that described fundamental analysis. I read Berkshire's Annual reports, etc. I bought in, hook, line, and sinker. I was a total value and moat nerd.
+
+Here's what an obsession over value investing did: when I had the opportunities to do so, I completely rejected investing in Amazon at $40/sh, Netflix $6/sh, Tesla $5/sh, Google $60/sh, and Apple $1.50/sh (all prices are post splits and prices listed were around the early 2000s). Instead I invested in companies in industries like insurance, banking, and transportation/logistics. Sure, I earned annual average return of 11%. But my opportunity costs have been astronomical. Thousands of percent of aggregate return on investment.
+
+The underlying principle of value investment isn't wrong. All successful investments are in essence value investments in the sense that value is a function of mispricing. However, how one determines whether a mispricing has occurred is what led to me missing enormous opportunities. I myopically focused on financials, i.e. net earnings and primarily free cash flow, rather than focusing on innovation.
+
+If there is a single lesson to learned from my experience is this: innovation > financials. In hindsight, all the models I created using DCF analysis turned out to be useless and a complete waste of time.
+
+I have since completely changed my strategies and I couldn't be happier with the results of my portfolio. Here's a piece of advice I learned from a professor whose main job was a wealth advisor and portfolio manager: If you are not earning 40% or more in annual returns from investing in stocks (including diversified options like ETFs and Index Funds) than your returns are not commensurate with the inherent risks of equity investing. You might as well not be invested in stocks at all. If you think 11% avg. annual returns is good enough, you are not accounting for risks and your actual risk-adjusted rate of return is negative.
+
+Anyways, good luck and learn from my mistakes young padwan.
+
+Edit: I just wanted to add one point. All those companies I missed out above were companies I'm not looking back at and wished I invested in (selection and hindsight biases). They were companies I literally wanted with all my heart to invest in at the time but refused to because of my adherence to value investing principles. I was and still am a complete futurist tech nerd. These were companies I followed closely at the time and whose products I understood very well._END_OF_POST_PYSTOCK_ Are there any good Alternative Real Estate ETFS? These differ from your typical REITs, in that their portfolio focuses on and specializes in Coworking spaces, raw land, mobile homes, etc.
+
+I am seeking these for a case study, and if they happen to be of interest, may eventually add them to my own portfolio. As of now, I am having difficulty in finding any, as search results tend to skew towards REITs. Thank you!_END_OF_POST_PYSTOCK_ With Tesla at >$500B and SpaceX last valued this summer at <$50B, do you think there will be 'slingshot' effect for SpaceX valuation based on funds that feel they missed the Elon train? I know they are different companies with vastly different business plans, but they are both inextricably linked with Musk.  Do you think we will see SpaceX shoot up to > $100B in next funding round based not on its merits exactly, but just based on 'comp' pricing of Tesla? 
+
+One hole in this argument is that Musk is also associated with other fringe companies like Neuralink and Boring Company, and I don't expect those valuations to be correlated with Tesla.
+
+I should say this is discussion is all just for the entertainment of watching the investment space since none of us can (easily) invest in SpaceX anyway._END_OF_POST_PYSTOCK_ Pass the Series 65 to be an Accredited Investor and Invest Pre-IPO https://www.sec.gov/rules/other/2020/33-10823.pdf
+
+With this updated rule change by the SEC, my question is simple: Does passing the Series 65 now qualify you as an accredited investor, or do you HAVE to also be a registered investment advisor representative? 
+
+I have a career and have no intention of becoming an IAR full time. I simply want to invest pre-IPO. If necessary, I can certainly create an LLC and register as an IA/IAR and just never take on any clients, but I’d rather not! 
+
+I have an extremely high risk tolerance and believe the SEC is functioning as a gatekeeper for lucrative investments under the guise of protecting investors._END_OF_POST_PYSTOCK_ Stock Advisors never seem to come to the same conclusion Have you ever noticed that? 
+
+After reading through dozens of lists recommending different stocks, made by some of the most recognisable names in the field, I've never seen two list the same stock. Which, I think, is strange isn't it? If those top advisors are going by the numbers, or assessing the future performance of different stocks properly, then shouldn't at least a few of those advisors come to a similar conclusion with their results?
+
+Shouldn't at least five advisors from, let's say, one hundred suggest RollsRoyce or Microsoft for a great growth stock (Examples of course).
+
+I was thinking about that because, hypothetically, if more than two Advisors recommended the same stock between the three of them, (taking into account each advisor might use separate means of reaching their answer) then shouldn't that be a bonafide investment strategy for anyone to follow? If three or five or ten "share market geniuses" come to the same answer, then surely that's the closest anyone's gonna get to guaranteed money?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Why don’t you follow r/WallStreetBets? People here should jump on those meme stocks. It’s been working for us. I’ve probably made triple the amount you have made the last 4-6 years just since March... I’m at 1600%. It won’t hurt you. And you don’t have to be in it for the long run. Just ride the wave 🌊._END_OF_POST_PYSTOCK_ Does Fidelity not pay out NTDOY Dividends? I noticed the other day that in Fidelity Brokerage's quotes, Nintendo's ADR stock NTDOY last paid a divided on 12/18/2018 but I know that Nintendo has been paying dividends since then according to Nintendo's website: https://www.nintendo.co.jp/ir/en/stock/dividend/index.html 
+
+Did something change and Fidelity no longer gives you the dividends on it? NTDOF doesn't have any dividends listed either._END_OF_POST_PYSTOCK_ Portfoilio tracker/manager website/app that accounts for inflation? Hi,
+
+Really as per subject: Can anyone recommend a good portfolio tracker/management website or app that can account for inflation - that is indicate "real" profits based on buy/sell dates? Will need to allow manual entry of funds not on many data feeds.
+
+Yahoo Finance doesn't seem to do this, unless I can't find the feature.
+
+I'm UK based, but as long as the system is reasonably location agnostic, it does not have to be a UK based system. I don't mind entering inflation data manually either.
+
+Don't mind if free or sensible fee.
+
+Priority is "overall profit/loss estimation", less bothered about deep research and data as I can go elsewhere for that.
+
+&#x200B;
+
+Thanks folks :)_END_OF_POST_PYSTOCK_ Difference between TQQQ and QQQ3 Hi everyone,
+
+I’ve been looking into leveraged ETFs on the Nasdaq and ran into the two above.
+
+
+Any idea why they have the same underlying (Nasdaq / QQQ) and targets (deliver x3 returns) but they nevertheless deliver different returns over time?
+
+
+Also, it appears that QQQ3 has a lower management fee of 0.75% vs 0.95% for TQQQ - are there any downsides with investing in QQQ3 as opposed to TQQQ?_END_OF_POST_PYSTOCK_ 🤔Is it better to exit trades at predetermined points or just keep rising stop loss until stopped out? Which method makes more sense?
+
+&#x200B;
+
+**1.** **You enter trade, set a stop loss and set an exit point.**
+
+&#x200B;
+
+**2. You enter trade, set a stop loss and don't set exit point, yet keep rising the stop loss as asset goes up.**
+
+&#x200B;
+
+Which do you think makes more sense?_END_OF_POST_PYSTOCK_ Is ING Bank Underpirced? ING (Groep N.V.) is now trading at 12.59 projected PE and did not show any negative quarter throughout COVID-crisis.
+
+&#x200B;
+
+Interest Rates are ultra-low in Europe due to Government ciris measures (QE in US is particular, which resonates in Europe). A bunch of people will be getting loans to invest in real estate (+ other stuff, especially during "Revenge speniding" expected after COVID).
+
+&#x200B;
+
+Am I missing something? Or is it a good buying opportunity now?_END_OF_POST_PYSTOCK_ Wash Sale Rule Triggered! Please help me understand If a wash sale rule triggered, will the date changes? Do I have to hold the for 30 or 60 more days to get out of this stupid rule? 
+
+I currently have HYLN warrants, and I want to sell at a loss so I can write off taxes, but I innocently triggered  wash sale rule twice (thought I was safe to sell). Wonder what steps can I do. 
+
+I think the best way is to hold these warrants? Though it would be annoying to convert them to shares, I would like to understand when can I sell for losses.
+
+Background:
+I purchased 300 warrants originally, then I sold some gains on SHLL shares to buy 100 more pre-converted HYLN (still SHLL)warrant around 10/1. Then I sold 18 days(ish) later to realize it would triggered a wash sale. That's fine. Then i impulsively purchased 50 more about less than 1 month later, then I just sold 50 warrants 25 days or so later which was 2 days or so ago (2nd triggered). 
+
+Thank you for reading!_END_OF_POST_PYSTOCK_ Sharing your favorite stock advisor service I'm just curious. Do folks here currently, share/would be interested in sharing, your paid subscriptions to your favorite stock picker or advisory services? 
+
+With services like AccessUrl, you could split or double the benefits of your currently paid subscription services with each other.
+
+Do you? Would you?_END_OF_POST_PYSTOCK_ Thoughts on marijuana companies? It’s been announced that the house will hold a vote this upcoming week and the federal decriminalization of marijuana, and am curious on everyone’s opinions on whether it would be a good or bad time to invest into these companies, I personally only see growth or staying even as a possible outcome for this event. 
+
+https://www.google.com/amp/s/www.ganjapreneur.com/u-s-house-schedules-cannabis-legalization-vote-for-next-week/amp/_END_OF_POST_PYSTOCK_ SPAC idea (microvast) THCB( MICROVAST EV/SPAC PLAY) WHY IM EXTREMELY BULLISH.
+
+Hi guys, I got a request on stocktwits i guess for people that didn't want to research this ticker, this is almost all the DD you can possibly find on THCB/MICROVAST .
+I DID THIS ALL ON WORDPAD SO IM GOING TO TRY TO UPLOAD THAT INSTEAD BUT GO AHEAD IF YOU WANT.
+ (THCB) TUSCAN HOLDINGS CORP BLANK
+The Special Purpose Acquisition Company (SPAC) will fund the merger by raising $200 million from new equity issues, Bloomberg’s sources suggested. Reportedly, the merger would create a new entity with a total valuation exceeding $2 billion.
+Green: Bullish+lets talk bout it
+ALL BOLD IS IMPORTANT BUT MOST OF IT IS NICE TO KNOW IF YOU WANT TO BE LONG
+
+They are in talks with MICROVAST which, a couple brokers even stated that it actually is a done deal, but things can be lost in translation,they will have to extend for a DA(Definitive Agreement) for the merger acquisition(DECEMBER 3rd DEADLINE). BECAUSE THEY ARE A SPAC THAT IS NEARING THEIR EXPIRATION FOR ACQUIRING A STOCK, 2 YEARS, WHEN THEY DO THE 90 DAY EXTENSION THAT MEANS THEY ARE TRUSTING IT TO HAPPEN OR ELSE WHY EXTEND. GET IT? IT IS A GIVEN 13$ STOCK THAT IS A HUGE BATTERY EV COMPANY, UNDERVALUED.
+
+ALL WE HAVE HEARD BETWEEN THESE TWO COMPANIES
+BY TUSCAN (THCB)
+"Microvast has a compelling financial profile, with significant historical revenues as well as projected growth and profitability(I can post that in end if i dont just ask but it is GOOD).  With its battery technology installed in over 28,000 vehicles worldwide, an impressive,  growing list of global OEM customers, and a strategic partnership with Fiat Power Train Industrial, Microvast is a proven technology leader driving the mass adoption of EVs.  We are excited to partner with Mr. Wu and his experienced team and believe the valuation negotiated provides long term intrinsic value to Tuscan shareholders.  We look forward to supporting Microvast in its next phase of growth as a public company," said Stephen Vogel, Chairman and CEO of Tuscan.
+BY MICROVAST CEO
+Yang Wu, Microvast's founder, Chairman and CEO added: "Our potential transition into a public company will help continue to fuel our design and development of market-leading ultra-fast charging, long-life battery power systems. Microvast expects to generate over $100 million of revenue this financial year. With the automotive technology experience and capital this transaction with Tuscan is intended to provide, we are confident we can build upon our established success and accelerate our growth in the electric vehicle battery industry."
+
+For now I will further explain what MICROVAST is
+
+MICROVAST has majority owned joint ventured companies( CHINA STATE GRID + Hengtong eBus Power Systems Co. Ltd. ) TWO SUCCESSFUL COMPANIES
+CEO= Wu Yang:Wu is a visionary leader and entrepreneur with over 20 years of experience in entrepreneurship and technology development
+Microvast, whose batteries powered the electric buses used in the 2018 Winter Olympic Games in Pyeongchang, South Korea, expects to generate more than $100 million in revenue this financial year, its founder Yang Wu said in a statement.
+Read below for Info about them and Microvast
+Founded in 2006 by Wu Yang, Microvast, Inc. is a completely vertically integrated advanced power and technology company. Microvast offers advanced power solutions for applications such as electric vehicles, grid scale energy storage, and industrial products.  Microvast advanced LpTO batteries operate with high charge and discharge rates making them ideal for route based electric vehicle and grid scale energy storage applications.
+Apr 30, 2012
+Microvast Opens World’s First Ultra-fast Charging Station
+Microvast is pleased to announce that the world’s first commercial, ultra fast charge, electric vehicle charging station began operations today.  The electric bus charging station was jointly developed by Microvast and the China State Grid and is operated in Chongqing, China, where traditional bus commuter traffic exceeds 4 million rides per day ( in 2012.... lol, much more now)
+Each charger fills the bus battery in 5 to 10 minutes, functioning like a conventional gas station as opposed to a typical “Park & Charge” charging station
+
+ 
+About  CHINA STATE GRID
+State Grid Corporation of China is the largest electric utility in the world. For distribution, it has subsidiaries in Northern, Northeastern, Eastern, Central, and Northwestern China. It was ranked seventh of the world’s largest companies by revenue in the 2011 Fortune Global 500 list.
+
+
+Current companys locations and progressions  2014-2021
+Microvast Locations
+USA,CHINA,GERMANY, UK
+In the early half of 2019, Microvast made new breakthroughs by entering Russia, South Korea, Kazakhstan, India, Thailand, New Zealand, Singapore, etc.
+It is revealed that its overseas revenue this year is expected to triple compared with that in 2018 thanks to its impressive expansion in Southeast Asian market.
+The battery maker completed building a production facility in Ludwigsfelde, Germany in July, Inas reported by Electrive. Operations in this facility are expected to commence in March 2021.
+Ludwigsfelde is close to Brandenburg — a state that is attracting electric carmakers and battery producers alike. Tesla Inc’s
+ is building a technologically advanced and high-volume production unit. Whereas, the German multinational company BASF SE 
+BASFY 
+ is also setting up a production site to make battery materials, as per Reuters.
+The International Airport Charging Station is the first of multiple planned (AND FINISHED BELOW)charging stations scheduled for Chongqing as part of the cities investment plan to develop an advanced electric public transport system with more than 1000 ultrafast charge EV buses.  “The Chongqing Fast Charge Technology is an important piece of Microvast’s innovative CCT (Clean City Transit) Solution.  Our technology, evaluated and demonstrated over the last year in six (6) prototype buses, is now ready for commercial operation in Chongqing.  The prototype buses have each driven more than 25,000 miles and we are confident in their continued performance.  By operating this new fast charge station, more and more people will take advantage of our green technology and move towards zero emissions,” said Wu Yang, President and CEO of Microvast, Inc.
+HT eBus Power Systems Co., Ltd. has delivered 125 buses so far this year, and will produce up to 1,000 BEV and PHEV buses for Chongqing, equipped with Microvast’s fast charging technology
+The ultrafast charge station is FINISHED AND located at the Chongqing International Airport New Development Zone and is utilized by a fleet of more than 30 full electric transit buses and additional plug-in hybrid electric buses.  The buses carry passengers from nearby high technology manufacturing areas to residential areas on 20 mile route and are powered by ultrafast charge Microvast LpTO batteries manufactured by Microvast Power Systems Co., Ltd., a Microvast subsidiary.
+
+
+Forward Looking PR : With Microvast’s ultrafast charging technology, each bus takes only a few minutes to completely charge after each route; charging for the buses takes place multiple times each day as the buses transport passengers.
+According to Lei Bingnan from Microvast, the company has already established cooperative ties with two major bus makers in India
+In the early half of this year, Microvast made new breakthroughs by entering Russia, South Korea, Kazakhstan, India, Thailand, New Zealand, Singapore, etc.
+Since its establishment, Microvast has been actively involved in the overseas expansion. In 2014, it officially entered London by securing an order for providing batteries to 1,000 units double-deckers. Later, it entered Germany, Belgium, Netherlands, etc.
+ 
+BULLISH PIC ^ ONE OF MANY JUST SCROLL DOWN AND SEE ALL THE NEWS OVER PAST YEARS
+http://m.chinabuses.org/index.php?q=microvast&m=wap&c=search&a=init&referer=&siteid=1&dosubmit= 
+THE Link ABOVE IS THE BEST ONE I HAVE FOUD ABOUT MICROVAST SO FAR.
+I WILL POST OTHERS BELOW VERY GOOD STUFF FOR MICROVAST I LIKE
+http://m.chinabuses.org/news/11852.html INDIA MICROVAST
+http://m.chinabuses.org/news/11675.html 300 DAYS OF SMOOTH OPERATION IS BULLISH ASF
+http://m.chinabuses.org/news/11603.html ALPHA NEWS
+http://m.chinabuses.org/news/11481.html bull news
+http://www.microvast.com/index.php/about MICROVAST BUT THEY DONT SEEM TO CARE ABOUT THEIR WEBSITE. 
+
+PICS ATTACHED BELOW FOR SOME DD AND INSIGHTFUL REDDIT COMMENTS 75% INSTITUTIONAL OWNERSHIP MEANS 75% OF THE VOTES WILL BE TUTES FOR MERGER/EXTENSION/ SO ITS A GIVEN THERE TOO_END_OF_POST_PYSTOCK_ ELY falls after hours I own a small position in ELY that I bought after last months dip following the news of the top golf acquisition. After hours today ELY dropped over 8%, and I can't figure out why. I searched the news for any articles or explanations but nothing. Was this a pump and dump run? Or something else. Anyone have a explanation for this? Thanks._END_OF_POST_PYSTOCK_ Investing in defense companies? Hi guys I am quite new to investing and don't have a lot of money to put into it(something like 3-4k),but wanted to get into it anyway and see what comes out. I did some research and I am generally interested in the defense industry so I decided to buy some stocks of companies in this sector. I  think it is an industry with a lot of potential given the fact that defense spending is at all time high since the collapse of the SSSR. My plan is to buy something and keep it long term. Any advise or recommendation is much appreciated._END_OF_POST_PYSTOCK_ Is the market in a bubble and, if so, what will pop it? Lots of analysts seem to believe we're in the midst of a stock market bubble, quite probably a very large one. I'm not sure how much to believe them but  it seems likely to me. Feels really weird that in this time when big segments of the economy are being hit really hard, the market is rising like mad.
+
+Are we in a major bubble? Why or why not?
+
+If we are, what event or kind of event do you expect will trigger the pop?_END_OF_POST_PYSTOCK_ Quantumscape Hello everyone, I’m new to investing, but have been doing loads of research the past couple of weeks. I know im interested in renewables, and have come across a company called quantumscape. They mainly are involved with solid state lithium ion batteries. Can anyone give me any advice on this one? Interested in it._END_OF_POST_PYSTOCK_ Chinese stocks a step closer to getting removed from US due to auditing rules **TLDR**  *Your favorite Chinese stocks will be fine. [Nio](https://ir.xiaopeng.com/investor-faqs/default.aspx), [Xpev](https://ir.xiaopeng.com/investor-faqs/default.aspx), and BABA are all audited independently by Pricewaterhousecoopers. Earlier this year BABA's CFO said they [anticipate no problem](https://archive.fo/jSJOi) with complying with US regulations.*
+
+
+* * *
+
+[WSJ reports](https://www.wsj.com/articles/house-to-vote-on-booting-chinese-stocks-from-u-s-over-audit-rules-11606518590?mod=searchresults_pos2&page=1) that next week the House will consider a measure that will force Chinese companies traded on American exchanges to follow American auditing rules -- or face getting delisted.
+
+This proposal has strong bipartisan support. The Senate version was passed unanimously. 
+
+Reasons why it might not pass:
+
+* Wall Street firms have made $1.4 billion in fees underwriting these banks.
+* [US pension funds](https://www.benzinga.com/trading-ideas/long-ideas/20/11/18377324/tesla-nio-nikola-zoom-stocks-the-largest-us-pension-fund-is-betting-on) own a lot of these Chinese stocks.
+* SEC general counsel Dan Goelzer thinks this is a way for US government to gain "a lever" in negotiations. Indicating that they are not expecting to go through with it, but rather to use it to get some reasonable accommodations from China.
+
+
+Good news:
+
+* If it passes it will give Chinese companies 3 years to comply. That's a long time for both countries to find some compromise.
+* The worst case scenario is that the Chinese companies will fold your shares into the Hong Kong Stock Exchange. So you can still trade if you're on a platform that works with the HKSE. So no one is going to lose their shares.
+* Rules like this may prevent future Luckin Coffee incidents. The increase in public trust in Chinese stocks might actually help their companies grow in the long run.
+
+The biggest companies hit will be the directly state-owned companies. They will probably never say yes to US auditing. You can find a list of China [state-owned companies here \(PDF\)](https://www.uscc.gov/sites/default/files/2020-10/Chinese_Companies_on_US_Stock_Exchanges_10-2020.pdf) -- they are the companies with asterixis next to their names. 
+
+Note the most popular Chinese stocks are not state-owned: BABA, JD, PDD, NTES, NIO, TME, YUMC, IQ, LI, XPEV, WB, DOYO, JKS, NIU, KNDI, and BYD.
+
+**Analysis**
+
+When this news hit the general public on Monday, you will see at 3-5% drop in some Chinese stocks. People are not going to read the entire article. They are just going to read the headline and start panicking. I think this represents a good opportunity to buy the dip on some of these companies, especially BABA -- which is criminally undervalued, and BYD -- the best EV play and Warren Buffett stock that no one is talking about.
+
+Our favorite meme stocks like NIO and XPEV are going to be fine. These companies are looking forward to penetrating the American market -- they are not going to jeopardize their relationship with America by refusing auditing rules._END_OF_POST_PYSTOCK_ Bond investing: The fallen angels strategy? Soon to acquire a lump sum that I can use to retire debt at 2.75% (a mortgage of course) or else invest it somewhere.  My time horizon is 5+ years so I can tolerate moderate-length drawdowns.  I'm contemplating a mix of $ANGL and $FALN with some ??? sprinkled-in.
+
+Curious to hear your opinions of fallen angels as a multi-year and possibly multi-decade investment strategy.
+
+Primer here (PDF): [https://content.ftserussell.com/sites/default/files/research/fallen-angels-in-the-credit-market.pdf?\_ga=2.188902690.860717559.1606523416-540375139.1606523416](https://content.ftserussell.com/sites/default/files/research/fallen-angels-in-the-credit-market.pdf?_ga=2.188902690.860717559.1606523416-540375139.1606523416)
+
+the summary:
+
+>A Fallen Angel (FA) is a corporate, or sovereign, bond downgraded from Investment Grade (IG) (minimum rating of BBB- with S&P, Moody’s or Fitch) to a High Yield credit rating (of BB+, or below with S&P, Moody’s or Fitch). Thus, the downgrade from Investment Grade (IG) to High Yield (HY) is far more significant than a downgrade for a bond staying within the same asset class. FAs tend to have higher credit-beta than other HY issues as a result. Given the distinct nature of the two asset classes, even the risk of an issue leaving the IG universe can cause advance selling of the bond, because an active IG portfolio manager wishes to avoid being caught with a sub-IG holding. An indexed IG fund has no choice but to sell the FA. These factors may be compounded by institutional investors over-reacting to the bad news of the downgrade.
+
+My shitty tl;dr: Fallen angels are formerly investment grade bonds that have slipped below BB- and thus become "junk" which entails a bunch of forced selling from every direction.  As a fallen angel they can be acquired well below par.  The majority of these regain their investment grade status which means they eventually get sold much closer to par.  It's a mechanical "buy low sell high" strategy that has worked remarkably well (edit:at least) since 2002.
+
+Thoughts on the risk-adjusted return of fallen angels?_END_OF_POST_PYSTOCK_ Wind Turbine Investment Hi all,
+
+I live in CO and am interested in exploring investing in a turbine. Does anyone have any information on a process to do so? Can I buy a turbine and put it on someone else property that is already established to handle turbines? Has anyone done this? Thank you!_END_OF_POST_PYSTOCK_ Road and rail: YRCW has surged over the past two week or so, from around 2-3 dollars to around 6 dollars I can't remember the exact numbers, so don't quote me, but it sits around six bucks and it was at around the 2-3 dollar mark when I was first looking at it. A metric I was looking at had them placed as one of the top road and rail companies and at the same time, a far cheaper buy than companies like Ryder, Universal, etc. On the one hand, their stock has fluctuated in the past, but they have a high growth ceiling to compare them to other companies in that market and have only grown since I've been watching them.
+
+Another trucking company I was interested in was Universal, based on some information from my time contracting GM, seems to have stagnated a bit. What I had noticed during my time as a contractor was that Universal had taken over almost all the truck routes for the GM factory I was at. Whereas when I first started working at the factory, there were several different trucking companies that delivered and picked up parts for GM, Universal ended up picking up perhaps a majority of jobs. Also, it was rumored that GM's dedicated load, Ryder, who did their local parts delivery and pickup, was slated to be replaced by Universal, who was supposedly going to have a factory built for them by GM or funded in part by GM. At this point, I'm not sure if it was just a rumor, as I came to realize rumors abound at GM. However, Universal's stock seems to be stagnating and actually, Ryder is climbing; they are up to 60 dollars a stock, from 52 a few weeks back.
+
+Anyway, anyone think YRCW or any other trucking companies are a good buy right now? One thing that gives me pause on YRCW is that, in spite of its climb, it isn't a new company and apparently its stock has risen and fallen over the years. But it at least seems like a solid short-term investment based on its growth._END_OF_POST_PYSTOCK_ I’m terrible at trading I have lost over $2,500 so far I’d like to say about 2400 were through options. Now I will say that I was at 2800 in losses but I have gradually made it back to 2500 I was down to 2350 then I just started fomoing again. I have studied technical analysis for about 2 months now I’m also aware of Fundamental of stocks I follow. I recently starting aggressively trading regularly instead of options and I’m doing much better but my emotions and patience get the best of me and I panic sell. 
+
+I’m relatively new to the market still but I can’t stop fomoing. I will say I have made decent price predictions and I’ve made profits. I was up with $180 this week then those gains just vanished. 
+
+I’ve made money but I can’t seem to stick to it. I won’t say trading isn’t for me because I’ve definitely made profits and made very good plays but for some reason I just can’t work my way up. What’s even crazier is that I have made like 90% of my mothers plays and she’s up and I’m not lol. 
+
+Do you think trading isn’t for me? What can I do to become a better trader?_END_OF_POST_PYSTOCK_ Why do we talk so much about “Robin hood Traders” Self managed discount brokers have been very hot recently pushed by young adults. Looks like if you are a young adult trading on the market, you fit the “Robin hood” category. A lot of analysts was explaining the big push of Tech stocks during the dip recovery due to this new generation of Robin hood trader. That is the explanation for Tesla and NIO having an “overvalued” price. 
+
+However, anyone who has financial knowledge knows that small retail investors do not have a significant influence on the market. Do you really think that the most broke generation, investing their 20k, can alone push the market so high? The big players are the pension funds, endowments funds, investment funds, hedge funds, corporations, all the boomers got a shitload of money. 
+
+So I don’t understand why I see sometimes financial guys on TV mentioning “Robin Hood Traders” when they are trying to explain a high valuation of a certain stock. I am sure it is a drop in the sea, it is not like Robin Hood traders were the FED being able to print money at an infinite rate to put in their beloved stocks._END_OF_POST_PYSTOCK_
