@@ -1,0 +1,739 @@
+ Airbnb (ABNB) IPO S1 Filing Summary Hopefully this quick summary video will be helpful for everyone.
+
+[https://youtu.be/k12eVfa6XOE](https://youtu.be/k12eVfa6XOE)
+
+Number of Class A shares offered: 50M  
+IPO price: $44 - $50/share  
+IPO date: around mid Dec 2020  
+Ticker symbol: ABNB
+
+Risk Factor:
+
+1. Never achieve profitability since inception.
+2. Net losses: $70M (2017), $16.9M (2018), $674.3M (2019), and $696.9M (Sep 2020)
+3. Revenue growth rate has slowed, and this trend may continue
+4. Outstanding debt of $1.9975B (Sep 30 2020)
+5. 63% (2019) and 53% (2020) of revenue was generated from listings outside of the US
+
+Up side:
+
+1. 4 million hosts in 220 countries and 100,000 cities
+2. Sep 30 2020: 5.6M active listing, 54M active bookers
+3. 2019: 69% of revenue was from repeat guests.
+4. Revenue is still growing.
+5. Active booking has bounced back since March 2020._END_OF_POST_PYSTOCK_ How do you accurately read the RSI for a stock when it changes based on the timeframe you select? For example, if I have a couple of RSI charts set for the 2-day, 5-day and 14-day intervals, but I change the range of the chart to look at say, 1D, 5D, 1M or 3M, how do I know which settings I should use?
+
+I'm currently using Webull but have looked at Etrade as well and I can't seem to get consistent results.  What's the most accurate way to use the RSI?_END_OF_POST_PYSTOCK_ I'm seeing a lot of SPAC when I do options screeners and the options for them are interestingly profitable. So, what? Why are there so many of them doing so well? Is it a bubble or is it a side effect of the bull market or what? These are supposed to be dangerous, so what gives?  
+  
+I don't get it. Should the current pricing of so many of these be cause for concern? I'm not interested in throwing money their way I was just curious. When I saw so many EV I could understand why but these things have been popping up recently and now there are so many I had to make a thread to ask about them._END_OF_POST_PYSTOCK_ F FORD stock is a lemon. Time to short it F Stock is Garbage with a failed model to look into the future of electrical cars.
+
+Ford's earnings per share look good overall compared to Toyota (NYSE:TM), Tata Motors (NYSE:TTM) but that’s just a minima positive to the stock. With possible further lockdowns in the USA and the failure of Ford to start looking into the future of becoming an electrical car manufacturer. This stock is a lemon and anyone buying instead of shorting this company, will put $ in my pocket. 
+
+Ford also said it will no longer create electrical heavy duty truck, instead, they’re focusing in electrical vans. This company is garbage compared to its competitors GME, TOYOTA, TSLA. This stock is soon to plummet. Get your money on shorting it._END_OF_POST_PYSTOCK_ Why do some companies make 2+ different stocks for the same company? I’m new to investing and I’ve noticed some companies have two stocks. For example Berkshire Hathaway has two tickers, BRK-A and BRK-B, and I was wondering why A costs over $300k a share B costs around $220 a share. I know Berkshire has a pretty obvious reason which is that most people dont have $300k laying around to invest but I was wondering about other companies too. Why do other companies make two separate stocks at different prices? Does it make a difference on returns/losses if you choose one over the other?_END_OF_POST_PYSTOCK_ Salesforce Signs Definitive Agreement to Acquire Slack > https://investor.salesforce.com/press-releases/press-release-details/2020/Salesforce-Signs-Definitive-Agreement-to-Acquire-Slack/default.aspx
+
+> Salesforce (NYSE: CRM), the global leader in CRM, and Slack Technologies, Inc. (NYSE: WORK), the most innovative enterprise communications platform, have entered into a definitive agreement under which Salesforce will acquire Slack. Under the terms of the agreement, Slack shareholders will receive $26.79 in cash and 0.0776 shares of Salesforce common stock for each Slack share, representing an enterprise value of approximately $27.7 billion based on the closing price of Salesforce’s common stock on November 30, 2020.
+
+> The board of directors of each of Salesforce and Slack have approved the transaction and the Slack board recommends that Slack stockholders approve the transaction and adopt the merger agreement. The transaction is anticipated to close in the second quarter of Salesforce’s fiscal year 2022, subject to approval by the Slack stockholders, the receipt of required regulatory approvals and other customary closing conditions._END_OF_POST_PYSTOCK_ Best way to coax basic investor information out of a dishonest startup CEO? I was interim CFO and common stockholder of a very promising startup slowly but surely inching toward profitability, and the startup had recently finished a capital raise from over 50 investors. One day, the founder (and CEO/Chairman) hired a new CEO to replace himself without talking to me.
+
+Right away, the new CEO lied to me about a number of finance-related things one would reasonably expect a CFO to know (Really? Still blows my mind.) and tried to pressure me into structuring his comp payments to evade payroll taxes. Not wanting to be associated with blatant dishonesty, I quit very quickly.
+
+Fast forward a year, and the CEO and his associates burned through all the cash and desperately entered a preferred stock investment from a venture fund with a large liquidation preference and control, resulting in massive dilution and decimation of the common shareholders' value.
+
+To date, the CEO has avoided any questions regarding basic financial information and the exact terms of the preferred stock deal and claimed (when I caught him off guard with a surprise call) that counsel advised him against disclosing anything beyond the vague information disclosed. The only information disclosed on a monthly basis is revenue (with subpar growth) and headcount.
+
+Having worked with many small companies and startups (and naively investing in small caps back in college) and mentally constructing a current picture from last year to now, it's quite clear that something is wrong, and that the new capital will be spent in no time. Why else would the CEO go almost silent and avoid questions, and why else would counsel advise management to "shut up" about simple investor requests?
+
+**TL;DR:** CEO of startup refuses to provide investors with basic financial information and key terms of a highly dilutive investment, and I'm afraid it will fail in no time. Startups fail all the time, but this one was unique among many I've worked with, so it's especially frustrating that something so promising would be destroyed by management.  As an investor, I'd love to find a way to rescue the company, my investment and 50+ other investors' investments, but concrete information is lacking:
+
+* How do I convince the CEO to disclose basic financial information and terms of the preferred stock to me and fellow investors? Perhaps putting them on the spot by BCC'ing the other investors would work?
+* There has been some talk of legal action to force at least a return of investment. Any success or failure stories with private startups?
+* Not sure exactly what rights the preferred stock class has, but the founders have had control through common stock for as long as I can remember. Has anyone successfully talked founders into firing and replacing management and the board after a VC investment?_END_OF_POST_PYSTOCK_ Argus Research boosts Moderna (MRNA) price target to $200 [https://www.marketbeat.com/stocks/NASDAQ/MRNA/price-target/](https://www.marketbeat.com/stocks/NASDAQ/MRNA/price-target/)
+
+&#x200B;
+
+Title. Probably based on news that Moderna is seeking emergency approval for the vaccine. I am long shares after the big drop today.
+
+&#x200B;
+
+[https://www.usnews.com/news/top-news/articles/2020-11-30/moderna-to-seek-us-eu-emergency-authorization-monday-after-covid-19-vaccine-941-effective](https://www.usnews.com/news/top-news/articles/2020-11-30/moderna-to-seek-us-eu-emergency-authorization-monday-after-covid-19-vaccine-941-effective)_END_OF_POST_PYSTOCK_ EARS - Auris Medical Holding Ltd - Thoughts? Some kind of breakthrough - Results suggest potential for AM-301 nasal spray to mitigate risk of Sars-CoV-2 infection.
+
+Source - [https://www.globenewswire.com/news-release/2020/12/01/2137530/0/en/Auris-Medical-Reports-Positive-In-vitro-Efficacy-Data-for-AM-301-in-Protecting-Against-Sars-CoV-2-Infection.html](https://www.globenewswire.com/news-release/2020/12/01/2137530/0/en/Auris-Medical-Reports-Positive-In-vitro-Efficacy-Data-for-AM-301-in-Protecting-Against-Sars-CoV-2-Infection.html)
+
+Went from 1.31$ to 5$ **🚀🚀**
+
+**Thoughts?**_END_OF_POST_PYSTOCK_ What's going on with Moderna? Things were looking very good the past week. This morning's opening rally was nuts, but I didn't foresee value plummeting to below yesterday's close, especially with so much positive news about the vaccine results and almost certain FDA emergency use authorization. Is this just people panicking about volatility and trying to extract what profit that can while they can, or is there some news I'm missing?_END_OF_POST_PYSTOCK_ Blackberry announces agreement with Amazon Been following BB for a while since they had some projects going with both Amazon and Microsoft.  The stock is having quite a big day so far, up 25% as of this moment.
+
+Today, they announced the following:
+
+>Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and BlackBerry Limited (NYSE: BB, TSX: BB), a worldwide leader in intelligent security software and services, announced a multi-year, global agreement to develop and market BlackBerry's Intelligent Vehicle Data Platform, IVY. BlackBerry IVY is a scalable, cloud-connected software platform that will allow automakers to provide a consistent and secure way to read vehicle sensor data, normalize it, and create actionable insights from that data both locally in the vehicle and in the cloud.  Automakers can use this information to create responsive in-vehicle services that enhance driver and passenger experiences.
+
+>BlackBerry IVY addresses a critical data access, collection, and management problem in the automotive industry.  Modern cars and trucks are built with thousands of parts from many different suppliers, with each vehicle model comprising a unique set of proprietary hardware and software components. These components, which include an increasing variety of vehicle sensors, produce data in unique and specialized formats. The highly specific skills required to interact with this data, as well as the challenges of accessing it from within contained vehicle subsystems, limit developers’ abilities to innovate quickly and bring new solutions to market. BlackBerry IVY will solve for these challenges by applying machine learning to that data to generate predictive insights and inferences, making it possible for automakers to offer in-vehicle experiences that are highly personalized and able to take action based on those insights.
+
+>BlackBerry IVY will support multiple vehicle operating systems and multi-cloud deployments in order to ensure compatibility across vehicle models and brands. It will build upon BlackBerry QNX’s capabilities for surfacing and normalizing data from automobiles and AWS’s broad portfolio of services, including capabilities for IoT and machine learning. BlackBerry IVY will run inside a vehicle’s embedded systems, but will be managed and configured remotely from the cloud. As a result, automakers will gain greater visibility into vehicle data, control over who can access it, and edge computing capabilities to optimize how quickly and efficiently the data is processed. With BlackBerry IVY’s integrated capabilities, automakers will be able to deliver new features, functionality, and performance to customers over the lifetime of their cloud-connected vehicles, as well as unlock new revenue streams and business models built on vehicle data.
+
+>For instance, BlackBerry IVY could leverage vehicle data to recognize driver behavior and hazardous conditions such as icy roads or heavy traffic and then recommend that a driver enable relevant vehicle safety features such as traction control, lane-keeping assist, or adaptive cruise control. IVY could then provide automakers with feedback on how and when those safety features are used, allowing them to make targeted investments to improve vehicle performance. Additionally, drivers of electric vehicles could choose to share their car’s battery information with third-party charging networks to proactively reserve a charging connector and tailor charging time according to the driver’s current location and travel plans. BlackBerry IVY could also provide insights to parents of teenage drivers who may choose to receive customized notifications based on insights from vehicle sensors when the number of passengers in the vehicle changes, when the driver appears to be texting, distracted, or not observing speed limits, or when the vehicle occupancy level rises above the parents’ desired safety threshold. Similarly, parents of infants could receive a reminder to engage the child safety lock when the vehicle detects a child in the rear seat.
+
+>BlackBerry IVY will enable automakers to compress the timeline to build, deploy, and monetize new in-vehicle applications and connected services across multiple vehicle brands and models. Instead of investing in one-off solutions that conform to the unique engineering of different vehicle models (as they do today), automakers using BlackBerry IVY will be able to leverage different types of data as common building blocks for new services that could work across a range of models. Automakers will be able to use the platform’s application programming interfaces (APIs) to share data and outputs with their software development teams, giving them the ability to innovate, while also protecting customer privacy and security by controlling whom can access vehicle and app data and at what level of detail.
+
+>In addition, BlackBerry IVY will make it easier for automakers to collaborate with a wider pool of developers to accelerate creation of new offerings that deliver improved vehicle performance, reduced costs for maintenance and repairs, and added convenience. For instance, by analyzing real-time performance data, automakers could recognize the first signs of potentially faulty parts, deploy code to identify affected vehicles, notify impacted drivers, and perform targeted recalls. Automakers will be able to remotely deploy and update the software from the platform’s Cloud Console (a web interface for managing BlackBerry IVY) to continuously improve the functionality of the system.   
+
+>“Data and connectivity are opening new avenues for innovation in the automotive industry, and BlackBerry and AWS share a common vision to provide automakers and developers with better insights so that they can deliver new services to consumers,” said John Chen, Executive Chairman and CEO, BlackBerry. “This software platform promises to bring an era of invention to the in-vehicle experience and help create new applications, services, and opportunities without compromising safety, security, or customer privacy.  We are pleased to expand our relationship with AWS to execute this vision and deliver BlackBerry IVY.”
+
+>“AWS and BlackBerry are making it possible for any automaker to continuously reinvent the customer experience and transform vehicles from fixed pieces of technology into systems that can grow and adapt with a user’s needs and preferences,” said Andy Jassy, CEO of Amazon Web Services, Inc. “Through this joint effort with BlackBerry, we will provide automakers with the insights, capabilities, agility, and speed they need to thrive in an increasingly connected world. As automakers seek to race ahead in their digital transformations, BlackBerry IVY empowers them to build their brands and set the standard for connected vehicle services across the automotive industry.”
+
+>To learn more about BlackBerry IVY and general availability, please visit [https://blackberry.qnx.com/en/aws](https://blackberry.qnx.com/en/aws).
+
+Source: [https://www.blackberry.com/us/en/company/newsroom/press-releases/2020/aws-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform](https://www.blackberry.com/us/en/company/newsroom/press-releases/2020/aws-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform)_END_OF_POST_PYSTOCK_ Jumia--future 100 dollar stock or a desert mirage? Jumia had a pretty meteoric rise, just about doubling its value in the past few weeks. Some people claim it will ultimately be a 100 dollar stock. At this point, its suffering pretty major losses. Is it going to rebound and get back on track, or was it more of a mirage all along?_END_OF_POST_PYSTOCK_ Telos Corporation (TLS) has now awakened since its stagnant IPO, up over 15%. TLS hasn't had much traction since it IPO'd 2 weeks ago, hovering around the $20 range. For a reason I haven't figured out yet, it's peaked nearly $25 today and holding steady at over $23. Are people finally catching onto this stock?
+
+TLS is a cyber, enterprise, and cloud security company that has both government and commercial contracts. I believe they are attempting to expand into the commercial field. Perhaps there's some good news forthcoming given the boom. I believe this is a strong stock to hold onto for the future given the increasing demand for the services TLS can provide. 
+
+Thoughts?
+
+Edit: Maybe the jump today was because of the recent AWS news? TLS and AWS have a partnership._END_OF_POST_PYSTOCK_ SBE to Chargepoint Acquisition So SBE will be converted to Chargepoint shares. I want to know how the logistics will work. Right now it shows that SBE is at a market cap of a little over 1B. So is that the evaluation for Chargepoint. If not then how will the shares be transferred. Will the only thing that will change be the name or will there be an increase in the number of shares, different market cap, share price, etc.
+
+All of this is very confusing to me. Thanks in advance._END_OF_POST_PYSTOCK_ Realistically what is ARKK 5-year and 10-year realistic return? The past 5 years ARKK has about a 400% return or averaged to about 80% per year. I realize that is in the bullest of bull runs in US History. I still think we are in the middle of a bull run and that COVID is just a minor speed bump. What is a realistic 5-year and 10-year projection on returns? I actually hold 3 of the 5 ARK Etfs but mostly in ARKK._END_OF_POST_PYSTOCK_ AWS launches EC2 Compute [https://www.cnbc.com/2020/12/01/aws-launches-ec2-computing-instances-running-apple-macos.html](https://www.cnbc.com/2020/12/01/aws-launches-ec2-computing-instances-running-apple-macos.html)
+
+Couldn't crosspost from r/tech unfortunately. thanks for user u/RitaAura
+
+I wonder whats the rational could be for buying MacOS compute Instances in the cloud instead of the hardware itself.
+
+Apple shines because of the perfect integration of HW&SW and also because it maintains value for longer time than other brands.
+
+Who would be the beneficiary in this scenario?_END_OF_POST_PYSTOCK_ EV stocks that have the most potential So following the news that Nikola got dropped by GM almost all the EV/alternative fuel stocks also took a hit and are continuing to do so today. Yet many of these same stocks have seen significant growth in the last few months alone.  What EV stocks seem promising to everybody? 
+
+Personally I don’t see as much of a future in hydrogen fuel cells vs EV’s and I think the companies making full size vehicles, (as opposed to mini golf cart looking things) will fare the best. As of right now I am holding ALOT of Tesla and a small amount of NIO
+Opinions?
+
+Snapshot of EV stocks
+
+https://m.imgur.com/rQDoyLA_END_OF_POST_PYSTOCK_ Robert Shiller explaining how currently high stock prices actually make sense. We often hear simplistic arguments citing "record high <price to earnings metric>" as their single definite proof that equities are overpriced.
+
+So here is an article from the guy who developed CAPE - among the P/E metrics most widely used in such arguments:
+
+https://www.marketwatch.com/story/sky-high-stock-prices-make-sense-robert-shiller-says-11606838599
+
+TL;DR: high P/E metrics don't automatically mean stocks are overpriced and you should sit in cash._END_OF_POST_PYSTOCK_ How some analysts are trying to screw you, a short analysis of J.P. Morgan's NKLA analyst So, the GM MoU with NKLA gets published yesterday and the stock tanks.
+This is the last coffin in the nail for NKLA, they are completely done for.
+
+Yet, we hear our lord and savior Paul Coster(J.P. Morgan analyst) say this,
+
+{On Wall Street, two analysts who cover Nikola disagreed on what the scaled-down GM agreement means. J.P. Morgan analyst Paul Coster maintains an overweight rating on the stock.
+
+"We think this is a positive outcome for Nikola over the medium to longer term, since the company can now focus on the core Class 8 truck initiative and avoid the distraction and [capital expenditures] associated with the Badger," Coster said in an investor note.}-[link.](https://pub.webull.com/us/news-html/3de4184e223f46448f8f09bdf66a2e4e.html?theme=2&_v=1&color=1&hl=en&sp=1&_v=1&theme=2&color=1&hl=en)
+
+In October he said this,
+{J.P. Morgan analyst Paul Coster calls it “a compelling strategy.”However, Coster also points out Nikola’s near-term success hinges on GM signing on the dotted line.“We think the GM partnership deal is the most important near-term catalyst,” Coster said. “Failure to consummate the GM deal would be a fatal blow for the Badger initiative, but a serious blow to the more important Truck initiative too, in our view. The fuel station partnership announcement is less important, in our view, though a potential validation of the company that could resonate with investors. Pending completion of the five Nikola Tre trucks could be a boost to credibility, obviously… For now, the GM partnership is a stress-test for the company.”Coster remains positive on Nikola and keeps an Overweight (i.e. Buy) rating along with a bullish $41 price target.}-[link.](http://www.shippipedia.com/nikola-stock-will-surge-70-from-current-levels-says-analyst/)
+Did you just read that? He has a price target of $41. 
+
+Again, what he said yesterday kinda completely contradicts with what he said in October.
+
+2 years ago he have had such a [low rating(screenshot of a screenshot)](https://imgur.com/a/kTSmcxW) that I find it surprising that he has almost come to [3 stars.](https://www.tipranks.com/analysts/paul-coster)
+
+Of course, he probably has inherent interest to see NKLA go above its current price. For this he doesn’t give a f**k if people buy into his arguments and jump on board on this stock.
+
+I guess he wants just a dead cat bounce so that he could save his ass and make sure that retail investors become the ultimate bagholders of this company.
+
+There are many other analysts like that in the Street and I don’t know how they remain in business for so long. But my main point is that be careful before you jump into a stock. 
+
+Some of you probably just see an average analyst price target, see a stock is undervalued or overvalued and jump to trade it. I mean according to analyst estimates NKLA would be a kind of a good deal in this overvalued market(see PLTR price targets, it’s hilarious). But we all know that this company's stock is ultimately going to $0(probably within next year).
+
+Disclaimer: I have NKLA Dec 11 $20 puts, long PLTR shares(so I have my bias too)._END_OF_POST_PYSTOCK_ Airbnb seeks valuation of up to $35 billion in its IPO Source : [https://www.cnbc.com/2020/12/01/airbnb-ipo-seeks-valuation-of-up-to-35-billion.html](https://www.cnbc.com/2020/12/01/airbnb-ipo-seeks-valuation-of-up-to-35-billion.html)
+
+&#x200B;
+
+KEY POINTS:
+
+* Airbnb filed an updated S-1 on Tuesday ahead of its expected IPO later this month.
+* The company said it expects to price between $44 and $50 per share.
+* That would give Airbnb a valuation of up to $35 billion, a rise from its peak private valuation of $31 billion.
+
+\_\_\_\_\_\_\_\_
+
+ 
+
+Airbnb plans to price at $44 to $50 per share in its IPO, giving it a valuation of up to $35 billion on a fully diluted basis, according to a new filing it submitted to the Securities and Exchange Commission on Tuesday. The company aims to raise about $2.5 billion in the initial public offering. Existing investors seek to sell $96 million worth of stock in the IPO.
+
+Airbnb’s last private valuation was $18 billion, [after it raised $2 billion in debt](https://www.cnbc.com/2020/04/14/airbnb-raises-another-1-billion-in-debt.html) earlier this year as the company struggled in the early months of the [coronavirus pandemic](https://www.cnbc.com/2020/12/01/coronavirus-live-updates.html). That was nearly half its peak private valuation ($31 billion) from 2017.
+
+The company will list on the Nasdaq under the ticker “ABNB.” It’s expected to hold its IPO later this month. Airbnb’s roadshow, where it makes its pitch to investors, will start Tuesday.
+
+Airbnb released its first S-1 last month, reporting net income of $219 million on $1.34 billion in revenue in the third quarter of this year, down about 19% from the year before. Like most travel companies, Airbnb has seen a drop in business due to the [Covid-19 pandemic](https://www.cnbc.com/coronavirus/).
+
+But after cutting about 25% of its staff, or about 1,900 employees, in May, Airbnb saw its business quickly bounce back later in the year. That was thanks to a surge in rentals in rural areas as people looked for safe escapes amid the pandemic. The company was originally expected to go public in the first half of the year, but the crisis upended those plans.
+
+But with markets ripping higher on positive vaccine news and President-elect Joe Biden’s election win last month, it’s a good environment for companies to go public now.
+
+In addition to Airbnb, DoorDash, the maker of the popular food delivery app, is also expected to hold an IPO this month. [DoorDash released its updated S-1 filing Monday](https://www.cnbc.com/2020/11/30/doordash-ipo-seeks-valuation-of-up-to-30-billion.html), and is seeking a valuation of up to $32 billion in its debut. That’s double DoorDash’s last private valuation of $16 billion in June._END_OF_POST_PYSTOCK_ Assuming I do my own DD on every stock pick, what paid stock-picking subscriptions are known to be good? I already do extensive research on my own, but obviously there are great companies not on my radar, so I think a paid subscription would be worth it, I’ve heard despite their slimy marketing, Motley Fools’ paid subscription has a lot of good reviews, any other subscriptions out there that are worth looking into?_END_OF_POST_PYSTOCK_ European Economic Sentiment Indicator  Does anyone know where I can get the unadjusted data for the ESI reports?
+
+I tried [http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do](http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do) but it doesn't seem to work.
+
+Any help or advice would be much appreciated._END_OF_POST_PYSTOCK_ Reason not to use fractional shares? My idea is to eventually run my own 'index'.  Simple example holding 25% allocation each towards MSFT, AAPL, GOOG, AMZN.
+
+With fractional shares I could rebalance weekly to hit the 25% each allocation goal.  This is just a simple example.
+
+&#x200B;
+
+Any reason to not utilize fractional share investing in this manner?  Thanks!_END_OF_POST_PYSTOCK_ Platinum as an investment  Everybody talks about gold, and of course crypto these days, but other investment metals also have some utility, especially the cheaper ones. Some points of the article are:
+
+\- Historically there is a premium for Platinum since it is a more rare metal
+
+\- It has real industrial usage, mainly in auto-cats in cars and trucks. But also has use in jewelry.
+
+\- Palladium was a cheaper replacement for platinum in cars but it is currently more than twice the price of platinum. Pall's only use is in auto-cats. Theoretically the trend should revert back to platinum.
+
+\- Hydrogen fuel cells use platinum. This is a concept being talked about as a progression of EV cars.
+
+Some negative points is that platinum jewelry isn't as popular anymore. Actually jewelry in general. It doesn't seem like a millennial thing to me.
+
+[The Case for Platinum as an Investment](https://wantfi.com/platinum-the-undervalued-real-asset.html)
+
+Anyone else's thoughts appreciated._END_OF_POST_PYSTOCK_ Question about investing in small-/mid- caps   Serious question from a relatively new investor – sorry if it is redundant.
+
+I am looking to start investing and I sense that ETFs are better suited for my anxious constitution. Reading online, I came to understand that ETFs that track the S&P 500 (eg. SPY or VOO) are regularly recommended to new investors. However, looking at the historical trend, I see that both IJR and IJK (Blackrock’s small and mid-cap ETF) have outperformed SPY. Hence, my question, why aren’t small and mid-cap index ETFs more popular?
+
+Many thanks!
+
+ https://gyazo.com/4c20cf90f81293a89caf1015b5d3fab1_END_OF_POST_PYSTOCK_ HCAC CNOO is just a bubble? Hey guys,
+Today HCAC IS dropping so badly. Do any of you know, why?
+This company looks so interesting, the founders and the team are very well-known in the automotive industry and as far as I search do not find the reason why investors sell their positions so badly. 
+The stock is already down by 7% at this time.
+I think this company has a lot of potential for car making industry, since they use their car as a modular system. Most of the parts are seperated (skateboard technique), steering by wire, etc.
+I do know that the final product is coming in 2022 but as far as I see their knowledge, idea, and business model is thoughtful and meaningful.
+Can somebody give a deep insight of what is happening right now because all the previous hype seems to be like a running game._END_OF_POST_PYSTOCK_ Better to sell Slack Stock Pre or Post Sale? Sales force is announcing an acquisition of Slack today after the markets closed. I bought a bunch of shares back in March for about $20/share. Currently trading around $44/share. Do company acquisitions typically increase the share price of the company that is being bought?
+
+Edit: thanks guys for the input. Sold close to the high for day. Looks like the after hours trading have caused it to dip below what I sold for. Made a profit of about 5k_END_OF_POST_PYSTOCK_ TSLA moving into SP500 - who's out? Is there any indication of which company will be bumped from the SP500 after TSLA gets added? Is there a process for deciding this, or is it up to the people running SP500?
+
+Looking at some recent movement with SP500, KSS HRB, and COTY were all removed from SP500 (added to SP mid cap index) on Sept 18. The SP will announce who gets dropped on Dec 11th, so trying to get an idea of who might be in line for a bad week._END_OF_POST_PYSTOCK_ GAO Report: Unemployment Statistics Have Been Inflated As part of a larger report on the federal government's response to the pandemic, the Government Accountability Office also noted chronic problems with unemployment reporting. They find the Labor Department's weekly numbers have been inflated and likely overstated the number of unique individuals making a claim.
+
+* Washington Post: [Unemployment statistics during the pandemic have been inflated by backlogs, according to GAO report](https://www.washingtonpost.com/business/2020/11/30/gao-unemployment-pua-backlogs/)
+* GAO Report: [COVID 19 - Urgent Actions Needed to Better Ensure an Effective Federal Response](https://www.gao.gov/reports/GAO-21-191/)
+
+This is interesting because every time these reports come out, reddit rushes to conspiracy monger about how the numbers are really much higher. Labor's response to the GAO noted - as they have in each report - that the pandemic presents serious problems to data collection that makes it hard to accurately measure weekly claims.  
+
+I was not shocked to see that this report came out yesterday and somehow it had not been posted. Somehow I think if the headline was the opposite, it would have been posted in an hour with 5k+ karma by now._END_OF_POST_PYSTOCK_ At what point does growth overtake value investing? Iv'e heard it a million times, "Historically value stocks have outperformed growth". However, with growth doing so well these past years, exactly at what point does this change? I have searched a bit but can't seem to really come across any answers. 
+
+I have no dog in this fight as I am essentially invested in total market funds, so this is more out of curiosity._END_OF_POST_PYSTOCK_ NIO delivery numbers  Looking only at delivery vehicles  
+
+May 3,436 (after the corona)
+
+June 3,740 (increase of about 9%) 
+
+July 3,533 (down 5.5%) 
+
+August 3,965 (up 12% from weak month) 
+
+September 4,708 (up 19%. Great!) 
+
+October 5,055 (7% increase) 
+
+November 5,291 (4.5% increase)
+
+ \* Approximate percentages  
+
+In order to grow sales as expected from the company (approximately 100% per year) more vehicles need to be delivered. 
+
+The rate of increase in deliverys currently does not keep pace with the previous rate 
+
+[https://ir.nio.com/news-events/news-releases/news-release-details/nio-inc-provides-november-2020-delivery-update](https://ir.nio.com/news-events/news-releases/news-release-details/nio-inc-provides-november-2020-delivery-update)_END_OF_POST_PYSTOCK_ AWS and Blackberry Join Forces To Accelerate Innovation With New Intelligent Vehicle Data Platform AWS and BlackBerry Join Forces to Accelerate Innovation with New Intelligent Vehicle Data Platform
+
+BlackBerry IVY will help automakers create personalized driver and passenger experiences and improve operations of cloud-connected vehicles with new BlackBerry QNX and AWS technology
+
+Today, Amazon Web Services, Inc. (AWS), an amazon .com, Inc. company (NASDAQ:AMZN), and BlackBerry Limited (NYSE:BB, TSX:BB), a worldwide leader in intelligent security software and services, announced a multi-year, global agreement to develop and market BlackBerry's Intelligent Vehicle Data Platform, IVY. BlackBerry IVY is a scalable, cloud-connected software platform that will allow automakers to provide a consistent and secure way to read vehicle sensor data, normalize it, and create actionable insights from that data both locally in the vehicle and in the cloud. Automakers can use this information to create responsive in-vehicle services that enhance driver and passenger experiences._END_OF_POST_PYSTOCK_ Short-term effects on S&P 500 ETFs from removal of company to add Tesla? https://www.cnbc.com/2020/11/30/tesla-to-be-addedto-the-sp-500-in-two-parts-to-account-for-its-size-an-unprecedented-move.html
+
+I have a significant amount of cash I was about to put into an S&P ETF, but then realized that the removal of one company and the addition of Tesla is likely going to create some volatility.
+
+Is there any understanding of what is likely to be seen in S&P ETFs this month? Is there a decent possibility of a non-negligible dip from the removal of a company?_END_OF_POST_PYSTOCK_ Pfizer and BioNTech to seek European commission conditional approval for Covid-19 vaccine [Seeking Alpha article](https://seekingalpha.com/news/3640228-pfizer-and-biontech-to-seek-european-commission-conditional-approval-for-covidminus-19)
+
+[MarketWatch article](https://www.marketwatch.com/story/pfizer-biontech-apply-for-cma-in-europe-for-covid-19-vaccine-candidate-2020-12-01)
+
+[Reuters via Yahoo Finance](https://finance.yahoo.com/news/pfizer-biontech-apply-eu-emergency-100941869.html)
+
+[Bloomberg via Yahoo Finance](https://finance.yahoo.com/news/pfizer-biontech-seek-clearance-sell-100000794.html)_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Canadian electric truck and bus manufacturer to "IPO" on NYSE via a merger with $NGA https://tcrn.ch/33yjZxh
+
+Canadian electric truck and bus manufacturer **The Lion Electric Company** said Monday it plans to become a publicly traded company via a merger with special purpose acquisition company Northern Genesis Acquisition Corp.
+
+The combined company, which will be listed on the New York Stock Exchange, will have a **valuation of $1.9 billion**. The companies raised $200 million in private investment in public equity, or PIPE, and hold about $320 million in cash proceeds.
+
+The deal is the latest example of an electric automaker opting to go public via a special purpose acquisition company merger in an aim to access the level of capital needed to become a high-volume vehicle manufacturer. Arrival, Canoo, Fisker, Lordstown Motors and Nikola Corp. have all announced special purpose acquisition company mergers in 2020.
+
+In Lion’s case, the combined net cash will be used to fund the company’s growth, notably the planned construction of a U.S.-based factory and to further develop its advanced battery systems. Lion is evaluating more than 10 potential brownfield plant sites in nine states, including California, Illinois, Indiana, Michigan, New York, Ohio, Oregon, Pennsylvania, Washington and Wisconsin. The company told TechCrunch it plans to pick a site and complete its industrialization plan by the end of the year. Production at this yet-to-be named factory is expected to start in the beginning of 2023.
+
+**Lion is already producing all-electric medium and heavy-duty urban trucks and buses at a 2,500-vehicle-per-year manufacturing facility. Some 300 vehicles are on the road today and the company has plans to deliver 650 trucks and buses in 2021. It even landed a contract with Amazon to supply the e-commerce giant with 10 electric trucks for its “middle mile” operations.**
+
+Completion of the proposed transaction is expected to occur in the first quarter of 2021. Lion is expected to be listed on the NYSE under the new ticker symbol “LEV.” Lion’s CEO and founder Marc Bedard will continue in his role. The combined company will have a board of directors consisting of nine directors, including Bedard, Pierre Larochelle from Power Sustainable as chairman, and five other existing Lion board members, as well as Ian Robertson and Chris Jarratt, who are co-founders of Algonquin Power & Utilities Corp._END_OF_POST_PYSTOCK_ Best trading platform/s in Europe? Lately I have been using Trading 212, which isn't bad at all, but in many stocks it doesn't let me buy shares, and I can't buy TSLA shares. I would like to ask here, if there's anyone from Europe who recommends me a reliable platform and brokers. I have searched a lot through internet but I can't seem to decide, since I can trust no more Google searches or YouTube videos, so that's why I am asking here._END_OF_POST_PYSTOCK_ $WORK Rumour has it that the news of $crm buying over $work will be announced on Tuesday after market.
+
+1) As of now, $crm price has been dropping and $work price increasing. What is the reason behind this?
+
+2) after the merger news is announced, what are the chances of $work price increasing further?_END_OF_POST_PYSTOCK_ What are some dominant safe companies with a lot of room to grow next 3 years? Let me define:
+
+* **Dominant**: Either on top, in a duopoly, or an extremely strong up-and-comer that is likely to take the crown.
+
+* **Safe**: The market is likely to be fairly stable without huge downsides.
+
+* **Room to grow**: Either in it's core market or it is entering into **growing** new markets where the company is likely to win.
+
+My favorite picks are:
+
+* Walmart: One of the strongest lower-end consumer goods retailer. Will do well in a recession. Room to grow from its online division. With good logistics could take some market share from Amazon.
+
+* Unity Software: Enjoys a duopoly in video game engines. Video and mobile games are a growing market that's not slowing down anytime soon. Adoption of 5G and VR gives Unity new markets for growth.
+
+* TSMC: Makes 50% of the world's chips. 5G, artificial intelligence, the Internet of Things, and cloud computing will only drive up demand.
+
+What are your picks? (household name picks are great too, but if you have some names that's not just the common FANNG+T that would be even better)_END_OF_POST_PYSTOCK_ DD The Run of $NRGU, $GUSH, $ERX [Leveraged Oil] 
+
+
+**Current Price | Resistance Price | Post Covid Price (1 Dec 2020)**
+
+**$NRGU = $53.45 | $678-402 | $942.96**
+
+^ Potential recovery percentage growth to $942: 1677%
+
+^ Peak 5 Year Price = $1142/Stock
+
+**$GUSH = $34 | $324-835 | $1462**
+
+^ Potential recovery percentage growth to ~$1462: 4200% (No, I’m not kidding) 
+
+^ Peak 5 Year Price = $26,220/Stock
+
+**$ERX = $13.56 | $73-131 | $179**
+
+^ Potential recovery percentage growth to $179: 1220%
+
+^ Peak 5 Year Price = $445/stock
+
+
+**Sample Growth Upon Recovery** 
+
+*Not peak price but 1 year highs*
+
+Assume $10,000 invested 
+
+NRGU = x16.77 (1677%) = $167,700
+
+GUSH = x42 (4200%) = $420,000
+
+ERX = x12.22 (1220%) = $122,200
+
+
+
+
+
+
+
+
+**Key Points:**
+
+* Price is dependent on $XOP and $XLE since they are tracked by these companies. I am focusing on the oil aspect (not raw crude prices) and supply chains. 
+
+* Mixture of Energy ETFs (leveraged). Energy does include oil, I am focusing on oil. 
+
+*  Highest yield growth in terms of recovery stocks/ETFs 
+
+* If you really think oil exploration is going to end during EV, you’re very wrong. Boomers are just waiting for a recovery and have doubled up on it. 
+
+* One of the underlying stocks is Chevron (NYSE: CVX) Chevron is engaged in every aspect of the oil, natural gas, including hydrocarbon exploration and production; refining, marketing and transport; chemicals manufacturing and sales; and power generation
+
+* This includes the aspect of Fractional Distillation which has reduced in demand than normal during covid due to exportation issues. 
+
+* To go deeper, fractional distillation is used for: Bitumen for roads and roofing. | Fuels for ships, factories and central heating. | Lubricating oils, waxes, and polishes. | Diesel fuels (many of the trains around the world still use this). | Jet fuel, paraffin for lighting and heating. (Airlines are starting to pick up in demand and many have started taking in bookings to prepare for flights &amp;gt; more consumption of jet fuels). | Petrol for vehicles (reduction in demand for this due to EVs and hybrids but this is the only aspect). | Chemicals. | Liquefied petroleum gas. 
+
+* Biden supports renewable energy, but he would make sure the old money gets their run, as old money still runs the economy. - Leading to recovery. 
+
+* Roads are still using to use refined crude oil despite the EV market. 
+
+* These companies within these EFTs have invested heavily into solar energy, supporting sustainability, and adapting to changing markets. Which Biden is known for. 
+
+* In terms of Leveraged EFT/Stocks = UCO (leveraged crude oil) used to be the reliable one but they changed their method to investment method because they couldn’t survive March 2020, so these are the best alternatives.  
+
+* All companies within the EFT are reducing greenhouse gas emissions 
+
+* It’s 3x leverage, what do you expect, high risk high reward. 
+
+* Recovery Stock
+
+
+**Risk:**
+
+* Leveraged Stocks and ETFs are high risk high reward plays but cannot liquidate such as a leveraged/options contracts
+
+* Gives common stock buyers and holders a high risk opportunity play. 
+
+* TQQQ recovered higher than it did recover and that’s leveraged Nasdaq, this is due to percentage growth
+
+* Leveraged Stocks and ETFs are high risk high reward plays this will include drawdowns. (Highly volatile). 
+
+* High overhead costs but this gets isn’t a issue due to high cash flow of these companies. 
+
+* If you buy leveraged contracts or options you’ll have deeper profits but hope you have enough collateral to survive the drawdowns. 
+
+* This is high risk and won’t give you overnight returns but will give a decent gain only IF it works out. 
+
+**Conflict of Interest, Current Holdings Values**
+
+- NRGU = 6k 
+
+- GUSH = 19k 
+
+- ERX = 13k
+
+- UCO = 22k 
+
+- TSLA = 113k 
+
+- AAL = 18k 
+
+- CCL = 18k
+
+- RDSB (Caltex) = 9k_END_OF_POST_PYSTOCK_ Your #1 Stock for the Next 5 Years I know.... another one of these, but with do many new  IPOs and new about existing awesome public companies, I think it is a worthy discussion.
+
+In the spirit of fun, if you had to pick 1, which one would it be?
+
+It is a very tough choice, but I would have to choose TDOC, cos the chronic condition side of their business (previously Livongo), is just so fast growing._END_OF_POST_PYSTOCK_ Tesla in NIO/LI out? What do you folks think about tesla getting approval to sell in China? I have a bunch of Chinese EV stocks (NIO, LI, etc) which all went down on the news, and I'm wondering if Tesla is going to dominate that space and suppress local EV companies (and stock growth). 
+I know that no one has a magic ball, just interested in opinions._END_OF_POST_PYSTOCK_ Famous Investors/High NW people who invest in LEAPS? The title is pretty self explanatory. Rolling LEAPS calls on growth companies you're bullish on seems like a go-to investing strategy for anyone who wants \\Delta>1 exposure to risk. However, I don't know of any famous investors promoting the strategy. Do you?_END_OF_POST_PYSTOCK_ Question on tax for stocks Hello! As the header states, I had a quick question about stocks. I know about long term vs. short term capital gain, but now I'm curious about what gets taxed. For example, lets say I bought 10 shares for $10 each ($100 spent). The share price for X company is increased to now $11 a share. If I were to sell all my share at $11, would I be taxed only the $10 I gained from my investment or would I be taxed the whole $110 from my $100 initial investment+$11 gain from the share going up?_END_OF_POST_PYSTOCK_ Why did Ark Invest sell Slack today? Ark Invest emails out its daily trades, and for 2020-11-30, there is an entry that is quite surprising to me:
+
+28 ARKW 11/30/2020 Sell WORK 83088V102 SLACK TECHNOLOGIES INC 1,424,300
+
+Now, [ARKW](https://ark-funds.com/arkw#holdings) has 2,575,137 shares of WORK remaining.
+
+However, according to 3 major media outlets -- Forbes, CNBC, and Business Insider -- today, Salesforce is expected to price Slack at a premium above its current market cap.
+
+(I would very much like to link the articles, but this subreddit bans Forbes and possibly CNBC for reasons that I do not understand. In any case, this is the same information that 3 major media outlet reported today. If you have a better source, please post it!)
+
+Why would ARKW sell 36% of its position in WORK a day before the acquisition announcement, when Salesforce is expected to pay more for the shares than the current market price?
+
+Does Ark Invest expect that the deal might not go through?
+
+&#x200B;
+
+Update:
+
+On 2020-12-01, the closing stock price is $43.84 for WORK, and the enterprise value is: $23.79B.
+
+Salesforce will pay $27.7B, which is equivalent to a 16.4% premium over the 2020-12-01 stock price,  or a 19.0% premium over the 2020-11-30 stock price...
+
+Ark sold more Slack shares today. It seems like Ark lost out on by easy gains?_END_OF_POST_PYSTOCK_ De facto dollar cost averaging; or, how to sweat the small stuff. I have heard a lot of debate over $-cost averaging (DCA) vs lump sum investing (LSI). There seems to be conflicting evidence about which is better for returns (I read on Reddit or bogleheads that LSI outperformed 68% of the time over some 10-yr windows, but I’m sure someone can dig up counter-evidence); & that DCA can be better from a psychological perspective b/c you’re buying dips etc. 
+
+I have always invested haphazardly into my personal after-tax (IRA, 529) accounts — i.e. when I felt we had enough $ built up, I would dump it in. Now that my wife & I are older, wiser, vastly wealthier (I.e. we can max our retirement accounts), & she of course is more beautiful, I decided to finally “grow up” & do disciplined DCA. 
+
+But as I was evenly dividing out the investment amounts on a weekly/biweekly/monthly basis & trying to figure out what interval is best, 2 thoughts hit me. These made me realize that DCA is, for most long-term investors, kind of a wash:
+
+1) Most / many salaried employees will end up DCAing by virtue of an organization-sponsored retirement account (e.g. 401k, 403b, HSA) — you set the contribution rate & there’s a regular paycheck deduction. I would imagine that for many, this is a major source of investing, & is at least some measure of DCA.
+
+2) DCA / LSI requires a timespan over which to compare. For most investors we’re talking about a few decades. That means that even if one were to dump in all available money once each year, you’d still be effectively DCAing year over year.
+
+My conclusion basically was: keep doing what we’re doing, just with more money. Am I off-base?_END_OF_POST_PYSTOCK_ 10 golden tips for investing newbies Reading through some of the posts I can see how a lot of newbies have FOMO (fear of missing out). Post after post of losers making huge returns. Everyone is getting rich but you. Boofuckinghoo. The smart investor realizes it’s all hype. Some of it works, most of it doesn’t. To be successful you need to be able to recognize the difference and to do that, you need time, knowledge, and practice.
+
+&#x200B;
+
+Here are ten tips that can help you along the way.
+
+&#x200B;
+
+Tip 1 - You don’t know shit
+
+&#x200B;
+
+You’re going to lose your money. Don’t get suckered by reading posts about guys who made 1000% return in 5 minutes. For every one guy that posts his massive gains, 100+ suckers have lost their money. The first lesson to realize is that it’s way easier to lose money in the market than to make money.
+
+&#x200B;
+
+Tip 2 - Understand how money flows in the market
+
+&#x200B;
+
+Money moves from the idiots to the knowledgable, from the impatient to the patient. Any dummy can make money short term. But to make money long-term and truly grow a portfolio, you have to be armed with knowledge and a shit ton of patience.
+
+&#x200B;
+
+Tip 3 - Play for the long term
+
+&#x200B;
+
+The most important rule you need to follow religiously is NEVER FUCKING LOSE MONEY. Print it big, tape it to your wall. Your top responsibility is protecting your capital. YOLO is a stupid play. 99% of you are going to bet at the wrong time with the wrong stock. Calm the fuck down and work on a long term strategy. You have decades dummy.
+
+&#x200B;
+
+Tip 4 - Time is on your side, but not much else
+
+&#x200B;
+
+The market never stops. The machine just churns and churns. Rich to poor, poor to rich, it just keeps on turning and turning. There are ALWAYS opportunities. Another IPO. Another MEME turd. FOMO is for fools. Miss a run? Big fucking deal. There’s another one around the corner. You have plenty of time to learn, test, and grow your capital.
+
+&#x200B;
+
+Tip 5 - Paper Trading
+
+&#x200B;
+
+Paper trading is a simulation. It behaves exactly like a real account with real active data but it’s all practice. No real money exchanges. It’s a great way to learn, to see how shitty you’re going to do without losing a penny. DO THIS FOR TWO YEARS. Take whatever capital you have right now and buy some long term ETFs or solid ass stocks with minimal risk. Keep adding to it EVERY paycheck. Build up some capital for when you’re ready to trade for real. Take two years to learn how to trade, watch your paper portfolio go to zero a couple dozen times, read and follow the news, WSB, Stocktwits, etc. Ask questions, test out your strategies. You’ll thank me two years from now.
+
+&#x200B;
+
+Tip 6 - Understand taxes
+
+&#x200B;
+
+Big difference between short term and long term capital gains. Uncle Sam loves you short-timers. Paying taxes is for suckers.
+
+&#x200B;
+
+Tip 7 - No one knows shit
+
+&#x200B;
+
+There is no crystal ball, no one has the “inside track”, and only believe 10% of what you read. Be very fucking skeptical. About everything. Social media, analysts, CEOs, news, all of it, be fucking skeptical. It’s all manipulation. Don’t even trust Buffett. You are the guardian of your capital. Everyone wants to take it away from you. Understand that and you won’t get suckered so easily.
+
+&#x200B;
+
+Tip 8 - Learn to read fundamentals and understand valuations
+
+&#x200B;
+
+As much as the market today feels like a casino, the underlying foundation of the market is investing, not gambling. With every stock, you buy you’re buying a piece of a business. Learn to read fundamentals. Do they make money? Are they growing? Do they have debt? How are their competitors valued? Do they make more money today than they did 5 years ago? How will they make more? How do they return capital to shareholders? And on and on and on. Learn motherfuckers. Earnings per share. P/E rations. Intrinsic value. Net income. Figure out formulas for valuing stocks. Is TSLA worth over 250x earnings? Is WFC undervalued at 13x earnings? Investing blindly because big\_dick\_loser said so in a post is beyond idiotic. Just burn your money, you’ll have more fun.
+
+&#x200B;
+
+Tip 9 - Get rich schemes are for suckers
+
+&#x200B;
+
+Remove the bookmark for Ferrari. You ain’t getting one anytime soon. Play fucking smart. Go long. Think in decades, not days. You’re not smart enough to day trade and beat the system. Not long-term anyways. Most of you won’t beat the market over 10 years. So be fucking smart. Paper trade until you can consistently prove gains month after month. When you’re ready to trade for real, dip in slowly. Fuck FOMO. Fuck YOLO. Remember, time is on your side. Compound that shit.
+
+&#x200B;
+
+Tip 10 - Discipline and dedication
+
+&#x200B;
+
+Like anything in life, to be successful you have to fucking work at it. Easy money never lasts. Dig in, learn, practice, rinse, and repeat. Be motivated to learn how to invest, take the time to study, read, test, and constantly improve. Be disciplined with your money. It’s fucking hard to make, easy to lose. Protect that shit.
+
+&#x200B;
+
+\--
+
+&#x200B;
+
+For those of you, this resonates with, you’ll be fine long term. Do the fucking work. For those of you who love chasing the fantasy, good luck, I mean it. It’s a tough fucking pill to swallow watching your account get dwindled down to zero. Nothing tastes worse than losing all your money.
+
+&#x200B;
+
+Peace._END_OF_POST_PYSTOCK_ Exxon cuts capex and will write off up to $20bn in assets https://reuters.com/article/exxon-mobil-outlook/update-3-exxon-tries-to-put-the-worst-behind-it-with-20-bln-writedown-idINL4N2IG4LY
+
+Exxon Mobil Corp on Monday said it would write down the value of natural gas properties by $17 billion to $20 billion, its biggest ever impairment, and slash project spending next year to its lowest level in 15 years.
+
+New cost cuts aim to protect a $15 billion a year shareholder payout that many analysts believe is unsustainable without higher prices.
+
+The writedown lays bare the size of the miscalculation that the company made in 2010 when it paid $30 billion for U.S. shale producer XTO Energy as natural gas prices went into a decade-long decline. The writedown also includes properties in Argentina and western Canada._END_OF_POST_PYSTOCK_ AbCellera's (ABCL) $200mn IPO: Everything You Need to Know about the Peter Thiel-backed, AI-powered, COVID-treatment approved, Biotech Company Hi all,
+
+We're excited about AbCellera's IPO and noticed nobody is really paying attention or interested. We've put together an analysis on their IPO below, with diagrams available at our seekingalpha blog post below. Appreciate any feedback and discussion!
+
+[https://www.bnnbloomberg.ca/covid-19-treatment-developer-abcellera-biologics-files-for-ipo-1.1525743](https://www.bnnbloomberg.ca/covid-19-treatment-developer-abcellera-biologics-files-for-ipo-1.1525743)
+
+**Summary**
+
+* AbCellera has filed its preliminary prospectus for its IPO; shares have yet to be priced but the company is looking to raise a proposed \~$200mn.
+* AbCellera is a Vancouver-based AI-powered drug discovery platform with backing from Peter Thiel, known for its leading platform and COVID-19 treatment in partnership with Eli Lilly.
+* Its most successful antibody (LY-Cov555)/bamlanivimab has recently been granted emergency approval by Health Canada and the FDA - expected to receive >$100mn in royalties.
+* Its unique, proprietary business model and experienced management & board positions AbCellera for long-term success.
+* We see AbCellera as a play on LY-Cov555 success and the near-term delivery of other antibody candidates, with the downside of potential headline risk.
+* The Vancouver-based AI drug discovery platform that has caught the eye of investors including Peter Thiel for its leading platform and the development of its COVID-19 treatment with Eli Lilly (NYSE: LLY), AbCellera Biologics Inc. (the “Company” or “AbCellera”) is set to IPO (NASDAQ: ABCL) with Credit Suisse as lead left underwriter ([prospectus](https://www.sec.gov/Archives/edgar/data/1703057/000119312520299507/d29983ds1.htm) filed November 20, 2020).
+
+**Here’s all you need to know about AbCellera and its proposed IPO.**
+
+As part of our multi-part series detailing all you need to know about AbCellera and its IPO, part I of our analysis will focus on providing an overview of AbCellera's business model, competitive landscape, key financial metrics, IPO details, and our investment thesis. These are summarized in the outline below. Part II will dive deeper into the valuation, existing contracts, pro-forma financials, capital structure, and go-forward expectations for the business.
+
+## Outline
+
+1. Business Model
+2. Recent Developments / Company Timeline
+3. Management Team & Board Overview
+4. Financial Analysis
+5. Competitive Landscape
+6. IPO Details
+7. The Bottom Line
+
+## AbCellera Business Model
+
+AbCellera provides drug developers with a platform to find antibody candidates for drug research. Its AI-powered full-stack platform searches and analyzes real-world immune system databases to find leads that are subsequently used for clinical R&D. Unlike its competitors, AbCellera operates along the entire value chain from sourcing to the delivery of antibody candidates; this solves the existing problem of either inadequate/outdated discovery approaches or using multiple fragmented solutions (costly and inefficient).
+
+AbCellera’s revenue is split into three streams - these streams include:
+
+1. Licensing / Research Fees (68% of revenue, 9 months ended September 30, 2020): payments for technology access and performing research
+2. Milestone Payments (32% of revenue): downstream payments for clinical/commercial milestones. Note: Only one program, LY-CoV555 with Eli Lilly, to date has resulted in milestone payments
+3. Royalties: royalties on net sales of any approved therapeutics. Note: As of September 30, 2020, AbCellera has yet to receive any royalties. Royalties generally will range from low-single digit for non-COVID targets to mid-teens to mid-twenties for COVID targets
+
+As of September 30, 2020, AbCellera had 94 discovery programs either completed, in-progress, or under contract, with a few public key partnerships below. Some of AbCellera’s recent, public partnerships are as follows:
+
+*Eli Lilly (NYSE: LLY)* \- On March 12, 2020, AbCellera and Lilly announced to co-develop antibody therapies for the treatment of COVID-19, the potential treatment LY-CoV555 accelerated due to Coronavirus Treatment Acceleration Program. As part of the agreement, AbCellera received an upfront payment of $25mn and is entitled to receive an aggregate of up to $29mn of milestone payments. As of September 30, 2020, AbCellera has received $8mn related to LY-CoV555 and is eligible to receive royalties on aggregate sales (including Lilly’s $375mn and $312.5mn contracts with the US government and US Army Contracting Command respectively).
+
+*Invetx* \- On February 23, 2020, AbCellera originally entered a multi-year, multi-target partnership agreement with Invetx. Based on the successful delivery of research programs under the original agreement, the scope of the collaboration has been expanded to include multiple new targets over several years on November 19, 2020.
+
+*Kodiak Sciences (NASDAQ: KOD) -* After a successful collaboration in 2016, AbCellera and Kodiak Sciences announced a new partnership on October 29. 2020 to generate therapeutic antibody candidates in ophthalmology.
+
+*IGM Biosciences (NASDAQ: IGMS) -* AbCellera and IGM Biosciences announced on September 24, 2020, that they have entered into a multi-year, multi-target strategic research collaboration and license agreement to facilitate the discovery and development of novel IgM antibodies.
+
+AbCellera’s business strategy (per prospectus) is focused on (i) using the drug discovery platform to unlock new opportunities for therapeutic antibody development; and (ii) partners access the platform to eliminate the extended delays and costs associated with setting up drug discovery capabilities.
+
+## Recent Developments / Company Timeline
+
+1. In March 2020, AbCellera entered into a discovery partnership with Eli Lilly and Company, to perform discovery research for a number of targets for Lilly that will result in antibodies for Lilly to develop and potentially commercialize.
+2. In April 2020, AbCellera entered into a multi-year agreement with the Canadian government’s Strategic Innovation Fund, and CAD $175.6mn ($125.6mn) was committed by the Government of Canada, of which >$110mn remains and is intended to be used to build a GMP facility.
+3. In June 2020, LY-Cov555 moved to first in-inhuman testing and progressed to Phase 3 clinical trials.
+4. In November 2020, LY-CoV555 was granted emergency-use authorization by the FDA and Health Canada. For the nine months ended September 30, 2020, AbCellera received an aggregate of $8.0mn upon the satisfaction of clinical milestones by Lilly.
+5. In November 2020, AbCellera acquired Trianni for $90.0mn. Trianni develops transgenic mice that provide a source of fully-human antibodies for therapeutic antibody candidates. Trianni mouse technology will allow AbCellera to generate more high-quality antibodies against difficult targets and improve the speed of the discovery programs. In addition to strategic value, Trianni also generates revenues through mouse sales, platform licensing fees and associated downstream milestone payments.
+
+📷
+
+*Company Timeline: AbCellera has demonstrated consistent growth and has generated positive operating cash flow cumulatively since its inception in 2012.*
+
+## Management Team & BOD Overview
+
+AbCellera’s management team is highly experienced with significant experience in related industries. AbCellera has also continued to bolster its board of directors with high-profile names including Peter Thiel (Palantir, Paypal, Facebook) and John Montalbano (CPPIB) ahead of its IPO.
+
+With its recent additions, we view AbCellera’s management team and board as a strength.
+
+📷
+
+Shareholders are detailed below:
+
+📷
+
+## Financial Analysis
+
+In Part II of this analysis, we will take a deeper dive into the valuation, pro forma financials, capital structure, and go-forward expectations for the business. The below provides a brief overview of the financials. We view the company to be financially healthy, given the low capitalization and limited contractual obligations, supported by continued licensing/research revenue and royalties from LY-CoV555 and other contracts.
+
+**Revenue** has grown at a 109% CAGR since 2014, primarily driven by increased research fees (driven by the number and quality of programs under contract) and milestone fees (AbCellera received its first milestone fee in 2020 from Lilly of $8mn). September 2020 YTD revenue was \~$25mn (\~$30mn pro forma for Trianni acquisition).
+
+**Key Revenue Drivers** in the near term will include milestone payments on existing contracts and royalty payments from Lilly for LY-CoV555. The company is eligible for royalties in low- to mid-teens for aggregate sales below $125mn and mid-teens to mid-twenties on aggregate sales above $125mn. Assuming a 20% royalty on existing US contracts (\~$690mn), this would drive an incremental $137mn of revenue (excluding an additional $21mn available through milestone payments).
+
+**Liquidity** will be bolstered by the equity raise, with the use of proceeds used to continue making investments in R&D, building its business development team and other general corporate purposes. AbCellera has more than $8mn of total future contractual obligations and commitments (as of September 30, 2020), which can be financed through cash on hand or other debt (AbCellera has demonstrated access to bank and private placement debt).
+
+**Capital Structure** will look significantly different post-IPO; pro forma for the conversion of \~$80mn of convertible preferred shares and $90mn of convertible notes, AbCellera will have limited leverage on the balance sheet.
+
+## Competitive Environment
+
+AbCellera’s current market position as a full-stack service provider provides meaningful barriers to entry, with its primary competitors providing services at some point along its value chain. The integrated nature of AbCellera’s services (provides integrated services from start to end), in addition to the nature of its AI-platform (interconnection and scale enable AI to continuously become more efficient) is a competitive advantage.
+
+That being said, the life sciences and biotech platform technology market is highly competitive; technical competitors at different stages of AbCellera’s platform in the following fields are detailed below:
+
+Single-cell screening: Berkeley Lights Inc. (NASDAQ: BLI), HiFiBio Inc., Ligand Pharmaceuticals Inc. (NASDAQ: LGND), and Sphere Fluidics Ltd.
+
+Antibody RepSeq: 10X Genomics Inc. (NASDAQ: TXG), Adaptive Biotechnologies Corp. (NASDAQ: ADPT), Atreca Inc (NASDAQ: BCEL). and Distributed Bio Inc.
+
+Bispecific antibody engineering: Abbvie Inc. (NYSE:[ABBV](https://seekingalpha.com/symbol/ABBV)), Genmab A/S, Merus N.V. and Zymeworks Inc. (NYSE:[ZYME](https://seekingalpha.com/symbol/ZYME))
+
+Discovery using genetically engineered rodents: Ablexis LLC, Crescendo Biologics Ltd., Harbour Antibodies BV, Kymab Ltd., Ligand Pharmaceuticals Inc (NASDAQ: LGND). and RenBio Inc.
+
+In addition, AbCellera competes with a variety of fee-for-service contract research organizations, in most cases using legacy technologies that would compete with one or more steps in AbCellera’s technology stack. Organizations may also elect to develop their workflows on legacy systems rather than rely on AbCellera’s platform.
+
+## IPO Details
+
+The IPO will be jointly underwritten by Credit Suisse (left lead), Stifel, Berenberg, SVB (healthcare specialist) and BMO Capital Markets. While the IPO has yet to be priced, we expect the IPO to price wide of the latest $12.46 funding round precedents, driven by continued positive news (FDA and Health Canada approval for Bamlanivimab, Trianni acquisition, new contracts, and more). We note the following pricing precedents:
+
+* March 2020: Series A2 preferred shares issued at $12.46/sh
+* April 2020: Existing shareholder purchased \~$600k of shares at $11.21/sh
+* June 2020: Existing shareholder purchased \~$3mn of shares at $11.21/sh
+* October 2020: Granted options to employees, consultants and directors to purchase \~3.6mn shares at a weighted average of $10.51
+
+Assuming a $25/share IPO price (refinements to valuation to come), we expect the fully-diluted share count to be \~39.8mn (\~15.4mn shares outstanding as of September 30 plus \~$8.0mn shares issued as part of IPO plus \~8.1mn of convertible preferreds plus \~4.2mn of convertible notes plus \~4.0mn of options in the money), putting the pro forma market capitalization at \~$1.0bn.
+
+## The Bottom Line
+
+Our Investment Thesis: we think that AbCellera is well-positioned to grow as a leader in an attractive, lucrative, and fragmented industry, supported by a strong management team and board. As the Company continues to find success, AbCellera will transition from its position today as a company heavily dependent on near-term binary outcomes (reliance on a few partnerships with milestone payments for revenue) to a more stable (royalty cash flows) company with significant upside for growth.
+
+**The Positives:**
+
+* World-class management & shareholder support
+   * *Experienced executive team with deep experience (STEMCELL, Precision NanoSystems)*
+   * *Strong and supportive long-term minority shareholders and experience board*
+* Leading industry platform with barriers to entry
+   * *Full-stack solution is a unique value proposition vs. its competitors.*
+   * *Data generated through discovery partnerships provide the basis for training AI modules that yield new insights into antibody responses; with each research program, the platform becomes more effective and efficient*
+   * *Benefits from natural antibody optimization vs “genetically made” antibodies from legacy systems*
+* Scalable business with a large addressable market
+   * *AI platform and partnership strategy enables organic growth with minimal funding requirements*
+   * *In 2019, antibody-based therapeutics accounted for over $140 billion in sales worldwide and represented five of the top 10 selling therapeutics.*
+* The business model enables diversified revenue long-term stream
+   * *Three pronged revenue stream: research, milestone payments, royalties.*
+   * *Revenue to stabilize as therapeutics are approved and come to market (e.g. LY-CoV555)*
+* COVID upside
+   * *Bamlanivimab (Eli Lilly collaboration, LY-CoV555) approved for treatment by Health Canada and the FDA*
+   * *Royalties and future milestone payments to drive near-term revenue growth*
+
+**The Risks:**
+
+* **Headline Risk:** milestone payments and earnings are dependent on unknown, binary outcomes (excluding royalties).
+   * Timing and quantum of LY-Cov555 royalties are unknown, delays or other negative developments would limit near-term upside
+   * Lack of transparency - disclosure of partnerships is at the mercy of AbCellera’s customers, with little to no control over public disclosure from partners.
+* **Customer Risk:** AbCellera’s revenue stream relies on its partnerships as if it cannot maintain and expand current partnerships or failure to address the needs of customers could impact the market acceptance of the platform.
+   * As of September 30, 2020, AbCellera had 94 discovery programs that were either completed, in progress or under contract, including 71 with the potential for milestone and royalty payments.
+
+**Disclosure:** I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours.
+
+I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it. I have no business relationship with any company whose stock is mentioned in this article.
+
+&#x200B;
+
+https://seeking alpha.com/instablog/52796529-breakwater-research/5525083-pre-ipo-everything-you-need-to-know-abcellera-part-i_END_OF_POST_PYSTOCK_ Should I invest in silver? What are your experiences with investing in silver? Hey guys, so I’m quite young but with the money I’ve saved which isn’t much I decided I want to invest it in some precious metal. At first I thought gold however the minimum amount to invest is quite large. I did follow the rates, the prices go up and down of course, another thing is that the price to sell your gold has been becoming much less than the buying price in the past few months, meaning that the gold rates would have to go really up to make any profit.
+
+Because of this I started looking at silver, since a maple leaf coin costs only like 23 euros. In the past year there was one occasion when the rates were very low (400 euros per kg), and in the past five years such a low has happened about 3 times. Right now the rates are 610 euros per kg and in recent years the rates have never been above 800 euros. I think the best choice is to wait for another low. Do you agree with this? Do you think the prices will lower soon? Have you invested in silver? Do you think it’s a good idea? Please share your experiences and predictions I’d love to hear them._END_OF_POST_PYSTOCK_ CC on GME? I have 200 shares of GME. I’m thinking of selling weekly covered calls on GME for the next few weeks as it isn’t expected to go up for a little while. Is this a smart move? Also, do my shares automatically get called away or only if the buyer exercises (I’m on questrade)? I don’t have to do anything extra to get rid of them right?_END_OF_POST_PYSTOCK_ Can someone explain Pfizer?! 
+Scenario 1
+
+Pfizer announces a 90% effective vaccine..a huge collective sigh of relief ensues and it jumped ~8% the day and then proceeds to go down to an even lower valuation over the subsequent days and more or less stayed there.
+
+I don't know how much biontech went up but it went high, crashed hard then started rising again.
+
+
+Scenario 2
+
+Pfizer applies for emergency FDA usage and stock jumps about 3% while biontech jumps like 9% (don't quote me) and only the latter keeps going up
+
+
+Take away: partner company goes wild but not pfizer??
+
+Scenario 3
+
+Moderna says it's 95% effective, stock explodes. Moderna applies for emergency usage...Another explosion. Now it has more than 100% since before before it's first anouncement...
+
+
+So question...why???!
+
+I know moderna vaccine doesn't require the ridiculously low temps pfizer one does but it doesn't account for that disparity_END_OF_POST_PYSTOCK_ How can a company(oil) keep losing year after year and still have a valuation of over 1b/pay dividends? Talking about kosmos energy. Have looked at it's income statemets and basically in the past 5 years(maybe longer) it has not produced any profits only consistent losses.
+
+Somehow they paid dividends in 2019/20 even though they lost money, how?
+
+You can argue if it would be a growth stock/tech stock but how come an oil company makes losses year after year and still has not a share price of 0
+
+&#x200B;
+
+Correction: Since inception they have had one year where they made profits, every other year are losses. That's 17 years. But even in the past their valuation was even higher at like 6/7b...
+
+Why and how?_END_OF_POST_PYSTOCK_ S&P TO ADD TESLA AT FULL FLOAT-ADJ MKT CAP WEIGHT - Stock Soaring Yet again this sub managed to project their incompetence when it comes to TSLA. 
+
+So on the front page right now is a post on selling TSLA. Reading most of the comments (not all) would give you the impression that a festival is around the corner. The festival of downfall of Tesla.
+
+God, people here are so emotional with this stock. 
+
+Let’s say it went to $700 later this month (as it might) then dropped 30%, guess where you’re still at? Nowhere close to “this is the biggest pump and dump in history”.
+
+People here need to open their eyes and accept the fact that they were wrong for ten years (indeed a hard thing, but redeeming thing to do). 
+
+Tesla is once in a lifetime opportunity. Those people who have come to conclusion that it’ll be ~2 trillion  by 2030 are not suckers (Ron Baron, Ark, etc.)
+
+Let go of your superiority complex. Let’s smile again!_END_OF_POST_PYSTOCK_

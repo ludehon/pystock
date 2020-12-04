@@ -1,0 +1,749 @@
+ How are bonds "safe"? So many people tell me that bonds are one of the safest investments. It's kind of funny cause any bond-centered ETF has definitely crashed from time to time. They sure don't seem safe. I might be a total idiot but whenever I look at bond ETFs they just look like a less profitable s&p 500._END_OF_POST_PYSTOCK_ The Paper Billionaire Argument [https://github.com/MKorostoff/1-pixel-wealth/blob/master/THE\_PAPER\_BILLIONAIRE.md](https://github.com/MKorostoff/1-pixel-wealth/blob/master/THE_PAPER_BILLIONAIRE.md)
+
+&#x200B;
+
+>The most common argument against closing the wealth gap is what I've  come to call "the paper billionaire" argument. The argument basically  goes "these people aren't really that wealthy, because there's  no way to liquidate this much wealth." It's an interesting and  provocative argument, worthy of serious discussion. But it is,  ultimately, incorrect.  
+>  
+>Essentially all of this wealth is [held in stocks, bonds, and other comparable forms of corporate equity](https://www.cnbc.com/2018/02/07/where-the-super-rich-keep-their-money.html).  The most common version of the paper billionaire argument I'm familiar  with is that, if all these rich people tried to sell all of this stock  at once, the market would be flooded and the price would drop  significantly. That statement might be technically true in absolute, but  that's not how you liquidate securities. You would liquidate over  several years in a [carefully managed liquidation plan](https://corpgov.law.harvard.edu/2016/03/24/a-guide-to-rule-10b5-1-plans/) that avoids flooding the market, not in a giant lump sum.
+
+Is it really true? How much of this article is accurate?_END_OF_POST_PYSTOCK_ Snowflake ($SNOW) FY21Q3 report - EPS misses by $0.64, beats on revenue https://www.cnbc.com/2020/12/02/snowflake-snow-earnings-q3-2021.html  
+
+> Here’s how Snowflake performed:
+> 
+>     Earnings: Loss of $1.01 per share.
+>     Revenue: $159.6 million.
+> 
+> Snowflake’s revenue grew 119% year over year in its fiscal third quarter, which ended on Oct. 31, according to a statement. In the previous quarter it delivered 121% growth. Losses narrowed from $1.92 per share in the year-ago quarter, while gross margin fell to 58.2% from 59.6%._END_OF_POST_PYSTOCK_ Why did Merk sell its Moderna shares? It was reported this morning that Merk sold its Moderna shares.  Merk said they make a lot of profit from holding the stock and decided to exit.  But Merk is not a hedge fund.  I think the only reason a big pharma like Merk would buy the stock of a startup pharma is the potential of joint-venture or even acquisition.  Moderna's COVID vaccine is almost ready to get approved by the US, EU, and the UK.  Why would Merk want to sell its shares?  Did the scientists at Merk find problems with Moderna's test data? I hope not, for the sake of people who need the vaccine.   Benzinga reported this AM that there was a big options contract to short Moderna at the strike price of $30.  The price of MRNA dropped from yesterday's peak at 178 to 143 at this writing.  What do you think is happening?_END_OF_POST_PYSTOCK_ $WTRH (WTRH) w/ $DASH (DASH) and $ABNB (ABNB) w/ ? As we approach the next hype IPOs, DoorDash and Airbnb, I'm thinking to preempt a $DASH sympathy play by getting long in Waiter Holdings.  I've been looking at Waiter Holdings for a few weeks, and I think the company is undervalued as is.   The company operates in 10 states,  It has an EV of approx. $320MM for a EV/FCF of about 7.  I believe a more sector appropriate ratio would be around 15, which would require the stock price to double.  Moreover, the company is currently profitable and seems to be designed for long term profitability.   Even more, as of late, there has been insider buying of shares, which I think is a bullish indicator.  (See here: [https://www.sec.gov/Archives/edgar/data/1050002/000120919120058888/xslF345X03/doc4.xml](https://www.sec.gov/Archives/edgar/data/1050002/000120919120058888/xslF345X03/doc4.xml) and here: [https://www.sec.gov/Archives/edgar/data/1653247/000120919120060895/xslF345X03/doc4.xml](https://www.sec.gov/Archives/edgar/data/1653247/000120919120060895/xslF345X03/doc4.xml))  I think $WTRH could rise of its own accord, but I am thinking that as momentum builds for the $DASH IPO, that wave might cause $WTRH to rise as well, perhaps even double or more if momentum traders take to the ticker.
+
+I'm thinking the same thing with the Airbnb IPO, but I'm not familiar with similar competitors that are also publicly traded in the U.S.  Thoughts?_END_OF_POST_PYSTOCK_ Seems likely that we are at the start of a longer bull run on Virgin Galactic SPCE https://www.entrepreneur.com/article/360809
+
+
+Seems likely that we are at the start of a longer bull run on this.
+
+Test flight will result in full FAA certification to fly passengers to space!
+
+Next they will do a rehearsal flight with crew members to make sure it’s all good.
+
+Then the will fly Richard Branson to space - which will be the event of the century!
+
+Following that they are flying all the reserved ticket holders - many of whom are Hollywood celebrities.  A lot of selfie Instagram photos will be uploaded
+
+Next, they will reveal their full plans for worldwide operations with multiple spaceports each generating 1 billion in revenue.  And ramping up production of their fleet of spaceships.
+
+Also they have signed agreements for NASA training and sending research payloads to space.
+
+All of this within 6 months.  Even on forward revenue snd a 15-30x PE this is easy a 50 billion market cap or $250 a share, but let’s be conservative and say $125 a share or $25 billion market cap.
+
+Assuming they can deliver with the next space test flight next week.  Always risks_END_OF_POST_PYSTOCK_ What's a Pink Sheet/OTC? BAESF is going for dirt right now, under $7 a share. BAESY is almost at $28. Both are apparently listed as Pink Sheet/OTC stocks. Britain just gave BAE a $2 billion munitions contract, so I was trying to buy in. Before I could, TD Ameritrade gave me a message saying they would charge a $6.95 commission fee for Pink Sheets/OTC, despite being "commission free." 
+
+ELI 5: What are Pink Sheet/OTC stocks? Why is BAE Systems in this category (iirc they're a huge company)? Why's there such a massive share price difference between BAESF and BAESY, cause aren't they the same company? 
+
+Perhaps most importantly, what broker/app can I use to trade Pink Sheets/OTC without paying a commission or fee? Would I even want to?_END_OF_POST_PYSTOCK_ Undervalued Companies Generator Howdy! I've been trading since March and investing for a few years, so up to you to completely ignore this post - also first time posting here I think.
+
+Anyways I've found some success finding undervalued companies by searching random companies onto Yahoo Finance and seeking the analyst ratings (Undervalued to Overvalued, with a % Estimate Return), and maybe this can help a few traders out by skipping on the FOMO stocks and looking for long term investments that have expected returns that can outperform the market.
+
+**The Game Plan to Start**
+
+So I firstly start off by going to [https://www.randomstock.net/](https://www.randomstock.net/) and looking for NASDAQ or NYSE stocks, and then I go to Yahoo Finance and enter the ticker and try and determine if the company is undervalued based off the analyst ratings and I also look at their EPS, PE, Dividend Yield. Then I look into the statistics of the company - Profitability (Profit margin + Operating Margin, also to determine growth after dividends). I also take a look at the financials, if they beat their earnings, annual and quarterly revenues/earnings, total revenue, gross profit and net expenses.
+
+**Additional Platforms for confirmation**
+
+After you look on Yahoo Finances, you should also then go onto other brokers and platforms to find other analyst ratings and results, I personally go to Webull for my Undervalued Watchlist. On Webull you can also take a look at the recommendation ratings, analyst target prices and then the support/resistance and overall trend for the company (as well as short, mid and long trends that are forming). You can also use Schwab and Morningstar to get additional ratings, you can use the ratings on Schwab as well as Schwab's grading, based on the companies Growth, Quality, Stability, Valuation as well as Sentiment.
+
+**Fundamentals after Technicals**
+
+After all of this and I see that the company can be sustainable, I then take a look at the brief and sector the company is in, I'd personally check out their website, what products they have, company origins, average volume, growth potential and how it would react to market reactions, this kind of indicates how it performs compared to competition. Macro news is essential for this type of investing, could either make or break the growth of the company - but as this is a much longer investment you can create very lose trailing stop losses, whatever your exit plan is.
+
+**Advantages of this 'strat'**
+
+Honestly I've found great success with this, it's a fast and efficient way of analyzing professional forecasts on the companies growth, and by using multiple platforms it helps as a confirmation that the company has room to grow. This is a pretty straight forward way of getting companies to watch on the side when you're bored, or to actually implement yourself.
+
+It's also great for traders not looking to get into FOMO stocks, it could potentially even land you a safer position in a future FOMO stock and get a great entry price.
+
+&#x200B;
+
+**Active Positions**
+
+I've been using this for a little over a few months (not as my main strategy, I'm more of a swing trader),
+
+$ECPG (+15.79%) 77% est. Return, 5.25 PE, 6.87 EPS
+
+$RTLR (+2.53%), 90% est. Return, 12.15 PE, 0.72 EPS, 9.73% Div
+
+$CPRI (+249.24%, entered during the crash, still has a little more growth on the table), -14% est. Return, -2.66 EPS
+
+$STNE (+191.72%, entered before an earnings and got lucky with a nice 24% gain and then held since because fundamentals look amazing), -1% est. Return, 376.09 PE, 0.19 EPS
+
+&#x200B;
+
+**Stocks I'm watching with this**
+
+$PAA - 55% est. Return, 7.68 PE, 4.88 EPS, 1.75% Div  Crude Oil Transportation and Preservation
+
+$AL - 81% est. Return, -3.37 EPS, 8.34% Div, Commercial + Private Aircraft Leasing
+
+$RTLR, 90% est. Return, 12.15 PE, 0.72 EPS, 9.73% Div
+
+**TL:DR -**
+
+Type random symbols into yahoo finance until you find a great deal :) Takes you like 5-10 minutes to find a nice one. Obviously not for experienced traders, but it's a nice boost to help new guys! Thanks for reading!_END_OF_POST_PYSTOCK_ DraftKings (NASDAQ: DKNG) - Deep Dive Research - Part 1   **TL:DR**
+
+* This is Part 1 of my two part deep dive on DraftKings   (Ticker: DKNG, I will refer to the company as “DK”)
+* This first part introduces you to (1) me, (2) the company, (3) my thesis on the company, and (4) digs into how they make      money.
+* The second part (to be released later this week) will go in depth to explore the question “Can we 10x from here?”
+* DK is an exciting, disruptive company working to change how we experience watching sports and make it better.
+* I am not a financial advisor and this is not investment advice. These are just my opinions to help facilitate learning and discussion.
+
+Hello, welcome to my first deep dive write up.
+
+My name’s Mark and I’m an accountant with a passion for investing. About two years ago, I used to work as an auditor at a public accounting firm and have been behind the scenes at many different publicly traded and privately held companies in the U.S. My goal is to bring my unique perspective from that past experience, my current experience working in a new role at a large corporation, and my understanding of accounting to help break down some of the most exciting growth stocks on the market today.
+
+I’m a long-term investor. I am focused on finding great companies and holding them for a long time. I’m willing to endure volatility, crazy price drops, and everything that comes with this approach as long as the facts that led me to originally invest and believe in that company have not changed. If you want to learn more about this approach. I recommend reading the book “100 Baggers” by Chris Mayer.
+
+**Introduction**
+
+I think it’s fitting that my first stock pick has to do with sports. Sports has been a part of my life since I could walk at the age of 2. First with baseball and soccer, and then later in my childhood with golf. I’ve always played American football and basketball for fun as well and have always been an avid fan of all the major sports in the US.
+
+I started playing fantasy sports (mostly just fantasy football) about 6 years ago and have always enjoyed it. Traditionally, with fantasy football you draft a team at the beginning of the year and those are your players for the rest of the season. If you have a bad draft, oh well. You can try to improve your team with trades and free agent additions but it is tough. Leagues usually consist of 10-14 teams (each managed by an individual) and there’s obviously only one winner at the end of the season (about 4 months after the draft). This can lead to the managers of the lower performing teams losing interest as the season wanes on. I believe DraftKings’ (DK) founders saw this issue and saw an opportunity. Enter, daily fantasy sports. Now, with the DK platform you can draft a new team every week. Or if you want, every day. This allows fans of fantasy sports to engage at whichever point of the season they want and at varying financial stakes.
+
+**The Thesis Statement**
+
+For every stock pick I make, I want to provide a quick thesis statement that can serve as a reminder for why I’m buying and holding that stock for the long term. I’ll always aim to make it just a few sentences long so it can easily be remembered and internalized. This helps during times when the price may sporadically drop and you need to remember why you’re holding this position.
+
+The thesis statement I have come up with for DK is as follows:
+
+*“DraftKings: The leader in allowing fans to engage financially with their favorite sports, teams, and players. Having money at stake makes the game a lot more interesting to watch. The era of daily fantasy sports games, online sports betting, and online betting (outside of sports), is just getting started and DK is as well positioned (or better positioned) than anyone to capitalize off of this trend.”*
+
+Notice how I said “allowing fans to engage financially” as the first sentence and not necessarily “allowing fans to gamble”. There’s a reason for that. According to US Federal Law, Daily Fantasy Sports (DFS) contests have specifically been exempted from the prohibitions of the Unlawful Internet Gambling Enforcement Act (UIGEA). DK has always been, and I believe will continue to be DFS contests 1st, sports betting 2nd, and other forms of gambling/entertainment 3rd.  It is noteworthy that states at an individual level can still deem DFS contests illegal if they so wish, but as of this writing (11/26/20), 43 of the 50 US States allow DFS contests and DK, accordingly, is offering DFS contests in all 43 of those US States.
+
+I’ll try to clarify the difference between DFS contests and sports betting real quick:
+
+**DFS Contest –** Pay a pre-set entry fee to enter a contest. All entry fees go towards “The Pot”. “Draft” 9 players to be on your “Team” for 1 week. Enter your “Roster” into a contest with other players (could range from 1 other person to 1,000s of people, the DK user can choose). Whichever “Roster” amasses the most points for that week out of all contestants wins. The winner will get the highest payout, and depending on the nature of the contest, other top finishers will receive smaller payouts as well.
+
+**Sports Gambling –** Team A is considered a 10 point favorite to defeat Team B. This means that Team A is expected, by the professional gambling line setters, to outscore Team B by 10 points. This is known as a point spread. You can bet on the underdog or the favorite. If you bet on the favorite, they have to win by more than 10 points for you to win the bet. If you bet on the underdog, you will win the bet as long as the underdog keeps the game within less than a 10 point defeat.
+
+These are just a couple simple examples to help you see the difference. Sports Gambling (the 2nd priority of DK) is a very lucrative market just as the DFS contests are. However, in the US, Federal Laws and regulations are a lot stricter on Sports Gambling than they are on DFS. As of this writing (11/27/20), 22 states (including the District of Columbia) out of 51 possible allow sports gambling.
+
+DK is still in the infancy stages of getting their sports gambling business going. In the 22 states where they could potentially operate, they currently have a sports gambling offering in 11 of those states. The sports gambling business model for DK can be broken into two main offerings – mobile sports betting, and retail sports betting. Mobile sports betting means you can place a sports bet online from the comfort of your own home, while retail sports betting means you must go to a casino and place a bet with the sportsbook in person. I personally believe mobile sports betting is the real potential cash cow for DK out of the two types of sports betting offerings due to the convenience and ease of access. DK is currently working on and encouraging customers to lobby their state lawmakers to legalize sports gambling in more states.
+
+**How DK makes money**
+
+At the very least, before you invest in a company, you better understand how they make money. In Chris Mayers’ excellent book, 100 Baggers, that I mentioned above, he continually references top line revenue growth as one of the main common indicators of a possible 100 Bagger. This isn’t to tell you that any stock I pick will be a 100 Bagger just because it has great top line revenue growth, but if I am looking at a growth stock to hold for the long term, revenue growth is one of the first things I look at.
+
+For DK, their means of making money is quite simple. I already went into detail above about DFS Contests and Sports Gambling. In DK’s latest 10-Q filing with the SEC (filed 11/13/20), revenue is broken out into two main streams: Online Gaming and Gaming Software.
+
+**Online Gaming (82% of Total Revenue for 9 months ended 9/30/20):**
+
+Online gaming is the true core business of DK and includes the aforementioned DFS Contests, Sports Gambling and additional gambling (non-sports) opportunities. DK refers to their additional gambling (non-sports) as “iGaming” or “online casino”.
+
+For the 9 months ended 9/30/20, Online Gaming revenue totaled $239M, up 30% YoY from $184M in the same prior year period. Keep in mind, that this is an increase that happened during a COVID-19 global pandemic that delayed and shortened many professional sports seasons.
+
+Online gaming revenue is earned in a few ways that are slightly different, but very similar overall.  In order to enter a DFS contest, a customer must pay an entry fee. DFS revenue is generated from these entry fees collected, net of prize payouts and customer incentives awarded to users. In order to place a sports bet (sports gambling), a customer places a wager with a DK Sportsbook. The DK Sportsbook sets odds for each wager that builds in a theoretical margin allowing DK to profit. Sports gambling revenue is generated from wagers collected from customers, net of payouts and incentives awarded to winning customers. The last form of online gaming revenue is earned in similar fashion to a land-based casino, offering online versions of casino games such as blackjack, roulette, and slot machines.
+
+**Gaming Software (18% of Total Revenue for 9 months ended 9/30/20):**
+
+While the Online Gaming revenue stream mentioned above is a Business to Consumer (B2C) model, the Gaming Software revenue stream is a Business to Business (B2B) model. The Gaming Software side of the business was born out of the acquisition of SBTech, a company from the Isle of Man (near the UK) founded in 2007 that has 12+ years of experience providing online sports betting platforms to clients all over the world. The acquisition occurred as part of the SPAC driven IPO in April of 2020 that combined “the old DK company” with SBTech so that they now are “the new DK company” listed as DKNG on the NASDAQ. SBTech is a far more important part of the story than just being 18% of today’s revenue. The reason for this is because DK will eventually (planned mid-late 2021) be migrating all of their DFS and gambling offerings onto SBTech’s online platforms. Currently, for DFS, DK uses their own proprietary platform but that will move to SBTech with the migration. Currently, for online gambling, DK uses Kambi, the same online gambling platform that services Penn Gaming (PENN), a DK rival. But that’s enough about the software migration for now, back to the Gaming Software revenue.
+
+The Gaming Software revenue stream for DK is essentially a continuation of SBTechs’ B2B business model. DK contracts with business customers to provide sports and casino betting software solutions. DK typically enters two different type of arrangements with B2B customers when selling the gaming software:
+
+&#x200B;
+
+1. **Direct Customer Contract Revenue:** In this type of transaction, the software is sold      directly to a business (casino for example) that wants to use the software      for their own gambling operations. This revenue is generally calculated as      a percentage of the wagering revenue generated by the business customer      using DK’s software and is recognized in the periods in which those      wagering and related activities conclude.
+2. **Reseller Arrangement Revenue:**  In this type of transaction, DK provides      distributors with the right to resell DK’s software-as-a-service offering      to their clients, using their own infrastructure. In reseller      arrangements, revenue is generally calculated via a fixed monthly fee and      an additional monthly fee which varies based on the number of gaming operators      to whom each reseller sub-licenses DK’s software.  
+
+As mentioned above, SBTech was an international company based in the Isle of Man before being acquired by DK. Thus, the majority of their business in their first 12 years of operating independently has always been international and outside of the United States. This has helped DK, which has historically been US focused, expand it’s international reach.
+
+A perfect example of expanding this international reach occurred recently during October (technically Q4) in which DK’s B2B technology (powered by SBTech) helped enable the launch of “PalaceBet”, a new mobile and online sportsbook offering from Peermont, a South Africa based resort and casino company. The deal was headed by DK’s new Chief International Officer, Shay Berka, who previously spent 10 years working for SBTech as CFO and General Manager. Mr. Berka took on the role of DK’s Chief International Officer upon the merger in April earlier this year. I think this deal shows that DK has integrated SBTech and it’s business very well into the larger business as a whole. They are not wasting any time using their newly acquired resources to expand their reach and bring in new sources of revenue.
+
+This is the end of my first article about DK. My goal is to drop Part 2 later this week. The focus of Part 2 will be an in depth answer of the question – “Can we 10x from here?”
+
+**Disclosure:** I am/we are long DKNG. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it. I have no business relationship with any company whose stock is mentioned in this article._END_OF_POST_PYSTOCK_ Elon Musk warns employees Tesla's stock could 'get crushed like a soufflé under a sledgehammer' >Tesla CEO Elon Musk is telling his employees they need to cut costs or they can kiss its lofty stock price goodbye.
+
+>Tesla (TSLA) shares have been among the best performers in 2020, rising nearly 600% through Tuesday trading, making it among the most valuable stocks in the country, worth more than any major automaker. After years of losses Tesla has now reported five straight quarters of positive net income.
+>But in an email to employees Musk acknowledged that Tesla's actual profit margin is fairly low, only about 1%, and that the stock price is due to investor expectations of future profits rather than recent results.
+>"If, at any point, they conclude that's not going to happen, our stock will immediately get crushed like a soufflé under a sledgehammer!" he wrote in the email, which was first reported by Electrek. Tesla did not respond to a request for comment about the email.
+
+https://www.cnn.com/2020/12/02/business/elon-musk-tesla-stock-price/index.html_END_OF_POST_PYSTOCK_ $MIK Michaels - A retailer turnaround unfolding Like Target, Walmart, many smaller retailers are undergoing a transformation.
+
+Michaels is one of them. Ashley Buchanan was the chief merchandising officer for Walmart’s U.S. e-commerce business. He joined from Walmart at stock surged 35% in Dec 2019 [https://www.cnbc.com/2019/12/27/michaels-names-walmart-executive-as-new-ceo-in-leadership-shuffle.html](https://www.cnbc.com/2019/12/27/michaels-names-walmart-executive-as-new-ceo-in-leadership-shuffle.html)
+
+Since then stock lost most gains but execution continued and CEO has implemented the changes promised. E-commerce sales were up 353.1% last quarter. Total sales were up 12% last quarter with many stores shut for part of the quarter. They will do even better this and next quarter. These retailers have enormous operating leverage due to their high fixed cost. Michaels reports earnings today will likely be a blowout._END_OF_POST_PYSTOCK_ Why hasn't Nikola stock dropped to the center of the earth? I'm new to investing.. been following the Nikola news and was expecting the plummet to keep dropping.  Does anyone have  any insight?  I feel like I'm missing something...
+
+They are up today, I was expecting then to keep dropping. 
+
+Current price: 18.38 USD +1.01 (5.81%) 
+
+Thanks!_END_OF_POST_PYSTOCK_ Alibaba $BABA delisting vote - Should I get out? There will be a vote in the house on potentially delisting Chinese companies from trading on US markets if they don't comply with US auditors. I'm long on BABA and from what I've read, I expect them to comply and there are to many US/Chinese interests tied into all this.
+
+Regardless, the vote on this bill passed unanimously in the senate, and will be voted on in the House today. I fully expect the bill to pass in the House which will then go to Donald Trump to be signed into law. 
+
+**Will there be a panic sell today? Are people really that irrational?**
+
+I'm planning to hold for long term but should I sell all my shares in anticipation of this dip and buy back later?_END_OF_POST_PYSTOCK_ Foreign stocks and DXY Hi all
+
+So the stock of a certain EV company (NIO) has seen stratospheric climb recently. Despite people dumping, it has seen a floor and continues to rise again. It is also very highly shorted stock. However as the stock has gone up, another index has hit the floor - DXY.
+
+Now as DXY falls, foreign stocks and equities are bound to become more expensive. Its justified that its easier for American companies to compete when the $ is weak as opposed to strong.
+
+On the same aspect, it is also true that stuff other/foreign companies make gets more expensive as the dollar falls and makes it more difficult for them to do business in USA.
+
+Now at the current situation, stocks like NIO, although they r traded on NYSE and in USD, how much are they affected by the DXY seeing the floor? Are the China stocks really doing well or is it a transient reflection of a weak DXY?
+
+What does the group think?_END_OF_POST_PYSTOCK_ Canadian Energy I tried posting this in r/wallstreetbets but I guess they’re just too stuck up with SPACs and I got banned lmao. However, hear me out, I think that Canadian energy stocks are ripe for appreciation  before March. Unlike a majority of US players who have exposure to shale, all the big Canadian names are mainly exposed to SAGD and open pit. And although they’ve been hit hard, recovery is going to be quicker than that of a lot of the shale players. With both Pfizer and Moderna vaccines being distributed starting next week, it’s only a matter of time before demand for oil picks up. I’m guessing that by March-April of 2021 we should be a at a good place and COVID may not be much of a concern. 
+
+Tickers: SU, CVE, ENB & CPG 
+I have exposure to all but the last_END_OF_POST_PYSTOCK_ Making opposite bets to "shift" capital gain to next year I've luckily made a nice chunk of gains recently via SPAC trades. The problem is that they are all short term capital gains and will be taxed heavily.
+
+Now, for some personal reasons, I expect a temporary drop of my ordinary income next year (not losing any income permanently. just a shift of timing for some financial event). Hence, it would substantially lower my tax rate if I can attribute this capital gain to next year.. but I already sold them. 
+
+I wonder if the following is possible?
+
+I buy a bunch of stock or ETF **for both directions**. Let's say UPRO (3x SP500 long) and SPXU (3x SP500 short) for the same amount. By the end of this year, there will be some price change. Then, I will sell the one that made a loss as of 12/28. It will offset my capital gain this year, and the opposite equity will convey the guaranteed gains to next year. Same scheme for individua stocks' call/put etc although for liquidity reason I'm not certain about individual stocks.
+
+Am I missing something?_END_OF_POST_PYSTOCK_ CAT, DE, TMO etc. Hello! I am trying to diversify my portfolio a bit, since I am mostly invested in tech, ads and genomics.
+I am interested in some industrials like CAT and DE as well as some healthcare.
+Are CAT, DE and TMO the best in their industry or do they have some worthy competition that I should pay attention to.
+Also i have heard of some issues with DE support and them shutting down the equipment if OEM parts are not used. Is that something worth concerning about?
+At the same time is electrification something to be worried about when it comes to CAT and DE?
+I am interested to hear what you have to say on these topics. Thanks!_END_OF_POST_PYSTOCK_ Emerging EV companies Vs Existing car companies? I have just been analysing EV support in the markets and had a thought:
+
+Why would EV companies (NIO, Tesla etc) have a stronger position in the market in the future over current road vehicle manufacturers (Daimler AG, BMW, Volkswagen)? 
+
+I understand the hype regarding EV stocks, however, I think the engineers at the current big players in vehicle manufacturing will have the ability to stay well ahead of any emerging competition in the future. 
+
+EV stocks could be in for a serious reality check.
+
+I would appreciate any discourse and discussion in support or to the contrary._END_OF_POST_PYSTOCK_ UK startup made an AI app that invests for you after you chat with it I usually pick the stocks I want to invest in myself but this company makes AI investing sound kinda compelling. When you download the app you can tell it about your financial situation and it takes everything into account and makes a financial plan for you for free. Thoughts?
+
+[https://youtu.be/TPN2i0tvSFc](https://youtu.be/TPN2i0tvSFc)_END_OF_POST_PYSTOCK_ Using brand value to analyze stocks (Stock Analysis: NTT)  
+
+Hi all,  
+I am a buy & keep investor for the most part.  
+I would like to explore using brand value data to aid my investment decisions.  
+I have chosen Kantar's Brand Z data, one of the 3 major brand value assessors in the world, to aid my decision.
+
+Recently, a particular stock caught my eye in Kantars 2021 top brands in Japan analysis, and I thought I'd try reddit to see if anybody has a more sophisticated analysis to offer.
+
+The stock is called NTT. A japanese telecom company.  
+It is widely considered well placed to launch a range of 5g offerings.
+
+In Kantars Brand Z recent analysis of top brands in Japan, NTT had the second largest brand value (intangible value) at 20.2billion, and net assets at 20.2 billion, and a p/e of 10.5. Furthermore, the company is perceived to be a leader in its sector (as per kantars report), and is currently consolidating its position by purchasing one of its competitors, in a move that is perceived to be monopolistic by its regional competition.
+
+Having lost 14% of its stock price since the pandemic, but having retained (even grown) its brand value, one may posit that post pandemic it will remain in a strong position in the consumer mind and retain its former price.
+
+On the downside, it has 3.77b worth of debt, and a competitor (AU) has grown in brand value by 7%.
+
+What do you guys think of this stock?  
+What do you guys think of using recent Brand Z data to make decisions in regards to stock purchases?
+
+Looking forward to your input.
+
+Best regards,  
+Sean
+
+PS: I am not a fiancial consultant or expert.  
+PS: Kantar Japan Brand Z report link: [BZJP-EN-DL2021.pdf (brandz.com)](https://www.brandz.com/admin/uploads/files/BZJP-EN-DL2021.pdf)_END_OF_POST_PYSTOCK_ What are this sub's thoughts on REITs? I see so many different opinions from different sources.  Some people swear by them for their 10% or greater returns.  Others swear them off for their taxable income.  Some people say buy into a pool like FundRise, others say to just buy individual REIT tickers like O and STOR.
+
+Do you guys invest in REITs?  If so, how?  Any experience with places like Fundrise and Yieldstreet?  Or if you go for the REIT funds, which ones do you guys stick to?  What should people look for?_END_OF_POST_PYSTOCK_ Renewable Energy? Hey guys, just wanted to get some opinions on investing in renewable energy in this day and age.
+I’m currently in PBW, a renewable energy ETF. Hoping for reinforcements in the sector from sleepy Biden, and his prospects on getting the Paris climate agreement back on track. 
+Recently it’s been down quite a bit, but the market as a whole isn’t doing great either, what do you guys reckon for the long run?_END_OF_POST_PYSTOCK_ Holding for the long term but... Hi,
+
+I bought xpeng and nio as they are backed by the Chinese government and also I saw the number of cars they are selling.
+
+So my strategy was for the long term (like Tesla), I was up 75% and 45% respectively but I didn’t sell as I said to myself these are stocks for the next 5 to 10 years as EV is the future.
+
+Now I’m negative on both.
+
+So my question is: 
+How do you know when to sell and when to hold?
+
+I wish I sold high and bought again low (but I’m an investor not a trader) 
+
+I also understand that kndl is down cuz the news but I don’t get why xpeng and nio are down that low.
+
+Pa: I’m a beginner investor.
+
+Thank you_END_OF_POST_PYSTOCK_ Highly Undervalued Value and Recent Growth Stock MGI Its a really complex investing environment presently.  On the one hand investors are hugely bullish in quickly growing tech stocks.  If they are growing in some way investors are bullish pushing them to huge valuations.
+
+Old school usually profitabe companies arent getting a lot of love.  Its clear that investors today dont care for profit that much.  They dont want safety.  
+
+So Ive been looking around for the best of both worlds.  So Ive found a small cap old school value company with a good brand that is worth 3x its market cap.  Its using blockchain and the crptocurrency xrp for a increasing number of its transactions.  It has a good app that it introduced 3 years ago that is growing 180 percent per year.  It recently became profitable again after restructuring its business and it did that even though many of its 280,000 physical locations have been hurt by the pandemic.  That is because its digital app is growingvsi quickly and its costs to move money are decreasing as its network is being used more.
+
+Its already worth 1.5 billion even though its market cap is just 1/3rd that.  When things are fully open again the valuation is going to be 6x their current market cap.
+
+The company is MoneyGram International or MGI._END_OF_POST_PYSTOCK_ So $CRM beats earning by 54% and then the stock price goes off a cliff? What is going on here... Chart: [https://www.tradingview.com/x/otZCdMBb/](https://www.tradingview.com/x/otZCdMBb/)  
+
+
+Yesterday on the Quarterly Earnings call $CRM announced they beat Earnings per share by 54%.  This news came along with the Slack Acquisition news and the news of the CFO retiring, but I was still expecting a strong bull run this morning.  
+
+
+Any ideas what is going on here?_END_OF_POST_PYSTOCK_ Newegg merger with LLIT Everyone seems to be sleeping on the upcoming Newegg offering. LLIT gets converted into Newegg at 1% total value, which sets this up to double between now and the final merge. Can't find talk about it anywhere. Newegg is a huge company (and has a loyal following in the tech sector) making it a great competitor to Best Buy but also a great cult/meme stock as well.
+
+Is it just because of how weird the merger is that theres been no movement since the original announcement? Or am I missing something big here?_END_OF_POST_PYSTOCK_ Are there any "safer" ways of doing options trading (calls?) I have a basic understanding of options trading (calls / puts). But was wondering if there was a way to perform call trades in as safe of a manner as possible? For example, TSLA calls. What would I have to look at / do? Wanted to post this here cause on WSB I'd just get laughed off the subreddit. Thanks._END_OF_POST_PYSTOCK_ Creating a list of the best hedge fund/holding/private equity stocks Since I am so average at managing my money I tought I could just make the world's best do it for me.
+
+That implies buying stocks of the funds of most succesful investors out there, of  successful holding companies, and of private equities. The advantages are obvious: they would manage money better than you and they would have access to investment opportunities, deals and securities that are off limits for amateurs like me.
+
+I tought of these, but I don't know many so help out if you want! I will add them to the list
+
+Also feel free to criticize this investment strategy
+
+
+....
+
+TYO: 9984
+
+BRK.B
+
+AMS: PSH
+
+BIT: EXO
+
+BX
+
+KKR 
+
+APO
+
+CNNE
+
+HLNE
+
+TCEHY_END_OF_POST_PYSTOCK_ Where is the best way to use margin money? I recently upgraded my cash account to a margin one. I would like to use the margin I have available but first I'm investigating very well where is the best place to use it or if it's better to not touch it. I've been thinking of ETFs like SPY, VTI or QQQ_END_OF_POST_PYSTOCK_ I found my portfolio with "insights" from 2007 (12/28/2007 to be exact) So I was going through my files and found this list of stocks and “predictions” that I was investing in back in 2007. I think i had planned to post it but never did. I am not sure what the 2 or 3 prices are but I am adding the current 2020 price at the end. This is all unedited other than the current price add. If I put N/A I can’t find current price and don’t really have time to research what happened to the company. If someone else wants to I will edit it later. I also didn’t factor in any splits, dividends or anything.
+
+
+
+“My 2007 portfolio (original Purchase price and market close as of 12/28/2007)
+
+
+
+The Blackstone Group L.P. -BX ..........22.40..........21.94..........20.27   (2020 $60.42)
+I don't normally buy recommendations I see in magazines. By that time the stock has normally reached its potential. I think that Blackstone may be a safe bet due to crashing of almost every major company. This selection was pretty much a dart thrown blindfolded.
+
+
+CombinatoRx, Inc. - CRXX ..........7.63..........4.41..........1.33  (2020 N/A)
+With America's obsessions with pills to cure everything and anything and our demand for better health coverage, I think medical stocks will see a rise this year.
+
+
+Starbucks Corporation - SBUX ..........20.21..........20.13..........59.39 (2020 $98.82)
+I actually build Starbucks retail centers for a living. I built a ton of them in Southern California during 2006-2007. When they stop building the stock will go up. Even with a crashing economy. Why? Because even though other shops may sell coffee for less or people may be out of money, the rich love Starbucks and those who will be hurt by the economy will need a cheap "pick-me-up". So instead of the $2000 plasma TV, they will buy the 4 dollar coffee. Of course, all of this rest on the hope that they will STOP building more. Because that is what is killing their profit margin.
+
+
+Ford Motor Company - F ..........6.72..........6.70..........13.36 (2020 $9.24)
+I like underdogs. I think Ford still has potential it just needs a kick in the head. I think they will shape up and realize that America no longer desires gas guzzling SUV. Or the "eco-friendly" hype will fade and people will start buying gas guzzlers again. Either way, Ford has been losing for a long time. They only have two choices now, go bankrupt or get their act together and excel.
+
+
+Flextronics International Ltd. - FLEX ..........11.04.........12.12..........6.82 (2020 $16.71)
+This one relates to magazines picks. Money magazine picked Pemco Aviation Group, Inc. - PAGI - as a winner back in early 2007. I took a look at the stock and saw that they were already running on high times. Did some research and found one of their competitors, FLEX, which hadn't had a winning stride in awhile. Pemco has since tanked. Flex has held it's ground and is slowly going up.
+
+Ferro Corporation - FOE ..........21.58.........21.17..........7.05 (2020 $14.56)
+Over a ten year period of past performance, I felt that now was the time for Ferro to regain its formal potential. It's a nice game of wait and see.
+
+
+General Electric Company - GE ..........35.80(37.21).........37.34..........21.50 (2020 $10.15)
+All you ever hear about these days is the success of GE. With our obsession with alternative energy and GE's willingness to explore, I can't see how they can lose.
+
+Insite Vision, Inc. - ISV ..........1.44........0.88..........0.32 (2020 N/A)
+This is my million dollar stock. I'm counting on it skyrocketing around 2009. That or bankrupting tomorrow.
+
+Sun Microsystems, Inc. - JAVA ..........6.28..........18.21  (2020 N/A)
+I will probably be selling Sun Micro very soon. It has done well for me. I need to research some more on it.
+
+Northgate Minerals Corporation - NXG ......... 3.08(3.23).........3.08..........3.49 (2020 N/A)
+All other companies in this sector seemed to be rising. Except Northgate. I don't really understand why, but I am hoping it gets with the program soon. I'd like to sell this one soon. I don't see much long term potential in it.
+
+Origin Agritech Ltd. - SEED ..........7.20..........7.17..........1.75 (2020 $9.55)
+I just found this stock recently and am hoping it may be a short affair that I can get out of on the top. According to research, it seems they like to pick up every other year. 2008 will be that year.
+
+
+T. Rowe Price Group, Inc. - TROW .......... 46.61.........60.18..........76.29 (2020 $145.50)
+We are all becoming more investment savvy. And with the destruction of social security we are seeing more people relying on their own means to retire. This is one of the trusted companies that doesn't seem to be engaged in any scandals nor mortage woes. But it is also at the peak. Gonna be time to get out soon.
+
+American Express Company - AXP ..........63.04.........50.84..........67.45 (2020 $119.93)
+American Express is one of those companies that doesn't rely so much on APR but more on annual charges. With all of the debt woes and defaults on credit cards and mortgages more people will flow to their cards. They also have  more financial savvy customers who can and will pay their bills on time.
+
+Boston Scientific Corp. - BSX ........... 16.15.........11.72..........7.35 (2020 $33.65)
+Pharma stocks will be king in 2008. And every four years this stock rises. 2008 is the fourth year.
+
+
+Citigroup Inc. - C ..........33.96 ............29.29..........46.46 (2020 $55.47)
+Don't buy them now. They have a LOOOOOOONG way to go to the bottom. But once they hit, I think this company has the greatest potential to get through the muck and mess to rise again. I'll be there waiting when the time comes. Late 2008/early 2009.
+
+DepoMed, Inc. - DEPO .......... 4.30 .......... 3.26..........5.45 (2020 N/A)
+Over a ten year period this stock has its perks and its lows. The perks have been low and the lows have been lowest. I am counting on the next 5 years to be extra perky and full of higher lows.
+
+
+Genentech, Inc. - DNA .......... 76.97 .......... 67.51..........??? (2020 $94.97)
+This one is a tough call. It's an expensive pharma stock that seems to be at its peak. But they seem to understand success and what makes it. Can they continue the success rate in 2008? I hope so.
+
+International Paper Company - IP ..........32.55..........32.55..........47.69 (2020 price $49.85)
+The past three years have been awful for International Paper. Good news for us is that this company is cheap to buy. And of ten years they actually do pretty good. Here's hoping.
+
+
+Pfizer Inc. - PFE ..........22.90 ..........22.90..........31.08 (2020 $39.47)
+Once again, the worst years have been the recent ones. Everything changes and the weak will rise again. This one will be a soon purcahse.
+
+
+Sprint Nextel Corp - S ..........13.16..........13.16..........7.10 (2020 N/A)
+No one likes Sprint/Nextel right now. They suck. They stink. But they want to be at top. They want it more than the others do. And I'm sure they will do whatever it takes to get to the top. It won't be soon, but eventually, they are gonna hit the top spot. And I'll be selling like hot cakes when they do.
+
+So that's my prediction for 2008. I would love any advice, news or comments you can send my way. Remember, the stockmarket is a gamble. I'm not always right. But I'm not always wrong either. You just got to do your research and hope for the best. It sure beats paying some other guy to do it for me.”
+
+
+
+Looking back at this, I sold everything in the housing market crash, not because of the crash but because I desperately needed the money as my business I had started went under and I was going to lose my house. I didn’t have a lot invested as I was still new to it at the time. I remember T Row I could barely afford.  
+
+I invested no where near $20,000 but I am curious about an accurate value of what a $1,000 in  each stock would now be worth. A quick spreadsheet not accounting for compound interest, dividends, or splits with $1,000 in each stock above I would currently be sitting on $25,990.
+
+I thought some people might find my naive speculation entertaining._END_OF_POST_PYSTOCK_ $TLS - Telos Corporation (my take) Telos Corporation, together with its subsidiaries, provides information technology (IT) solutions and services worldwide
+
+It provides Xacta, a premier solution for continuous assessment and authorization, which is used by the department of defense (DoD), intelligence communities, and civilian government, as well as by commercial businesses (Citigroup, Amazon, Salesforce); 
+
+Enterprise cloud services, including engineering, migration, security, and managed services; and Telos Ghost, a cybersecurity solution that gives organizations an anonymous way to do business, connect with global resources, and conduct research online for intelligence gathering, cyber threat protection, securing critical infrastructure, and protecting communications and applications. 
+
+Telos Automated Message Handling System, which protects and enhances the communications; real-time data collection on personnel movement and location information for operating forces, government civil servants, and government contractors; and nationwide identity verification, fingerprinting, and photo services. 
+
+The company is not yet profitable but continues to increase sales from year to year and seems to be on the right track to move to profitability in the future.
+
+Due to the fact that the company has contracts with the government, they are by nature long-term contracts (5-10 years) and there seems to be a recurring revenue of about 85% of the existing revenue.
+
+At $ 2.3B valuation, it seems to be significantly smaller than its competitors and if it proves itself it has room to grow but in the same breath I will note that it reflects a high sales multiplier. (Not like SNOW / PLTR but still)
+
+The cyber market is huge and the company is targeting itself with interesting solutions for a growing market of hundreds of billions of dollars
+
+more info from SEC filing
+
+[https://www.sec.gov/Archives/edgar/data/320121/000114036120025591/nt10015254x6\_s1a.htm](https://www.sec.gov/Archives/edgar/data/320121/000114036120025591/nt10015254x6_s1a.htm)_END_OF_POST_PYSTOCK_ Free Dividend Tracker Hi guys I’m just wondering is there any good dividend tracking website or apps that are free? I keep using ones that require a subscription after only inputting 3-5 stocks you have shares in. I’m sure this a regularly asked questions here but im a newbie. Thanks!_END_OF_POST_PYSTOCK_ day traders opening Investment funds? Hello,
+
+I see a lot of these day trading gurus  offering to invest your funds in the USA. I'm a finance student and not an attorney, but if these people haven't based any series 65 at minimum for a non-40acct fund.  And if they aren't a  registered investment advisors aren't they opening themselves up to be sued? How exactly is this legal or is it just all BS? Don't you also have to file the opening of your LLP with the SEC not to mention the hundreds of thousands you need to just be able to higher a good attorney to write up paper work, and the licenses needed to actually invest for people?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Signify is going to fire people... but couldn't find any external news Apparently yesterday Signify has published a video to their internal company's portal in which the CEO talks about "adapting Signify to the new economic situation". The CEO also admitted that they are already in contact with the local employees representatives.
+
+This smells like "firing employees", especially since the company already had money problem when Corona hit in March (and employees where asked to buy holidays, etc.).
+
+My question is: why isn't this news public?_END_OF_POST_PYSTOCK_ UK authorises Pfizer/BioNTech COVID-19 vaccine [UK authorises Pfizer/BioNTech COVID-19 vaccine](https://www.gov.uk/government/news/uk-authorises-pfizer-biontech-covid-19-vaccine)
+
+A Department of Health and Social Care spokesperson said:
+
+The government has today accepted the recommendation from the independent Medicines and Healthcare products Regulatory Agency (MHRA) to approve Pfizer/BioNTech’s COVID-19 vaccine for use. This follows months of rigorous clinical trials and a thorough analysis of the data by experts at the MHRA who have concluded that the vaccine has met its strict standards of safety, quality and effectiveness.
+
+The Joint Committee on Vaccinations and Immunisations (JCVI) will shortly publish its final advice for the priority groups to receive the vaccine, including care home residents, health and care staff, the elderly and the clinically extremely vulnerable.
+
+The vaccine will be made available across the UK from next week. The NHS has decades of experience in delivering large-scale vaccination programmes and will begin putting their extensive preparations into action to provide care and support to all those eligible for vaccination.
+
+To aid the success of the vaccination programme it is vital everyone continues to play their part and abide by the necessary restrictions in their area so we can further suppress the virus and allow the NHS to do its work without being overwhelmed.
+
+Further details will be set out shortly._END_OF_POST_PYSTOCK_ How is Airbnb going public for $25b considering...? ...it’s revenues are only ~$4b and its YoY revenue growth is basically 30% (not including 2020, which is worse)?
+
+Is this based purely on comps?
+
+What’s the usual valuation methodology? Is this what they mean by the tech bubble? These valuations make no sense. And what about the operating costs? How is this company still in the red when they barely even have any of the associated assets and operating costs commonly found in the hospitality industry? And the mountain of debt—what’s its origin?
+
+Especially considering the historically low interest rates and the frothy markets. There really is no place for interest rates to go, except for up. Seems reckless to consider this anything but a maximally inflated valuation. Some of the rational I keep reading about—“The CEO is so charismatic! Millennials like him!”—it seems a bit emotional. Not a bad thing when you’re sure of the Fed’s strategy going forward. But in the case, monetary policy might change very soon. I understand why they’d want to rush this IPO, considering the macro trends and associated potential for lower valuations, but this seems way too risky for retail investors to consider as anything but a financial prospect with sketchy fundamentals, especially with the lockdowns basically guaranteed through Q2 of 2021 and possibly even longer. If the real estate bubble pops, people won’t want to travel, and they won’t have homes to use for Airbnb, either._END_OF_POST_PYSTOCK_ Is there a service like etoro or shrimpy but for stocks? The basic premise is that you follow a trader and using api keys make identical trades. So you can find the top traders and follow their trades.
+
+Looking for something that supports tdameritrade.
+
+I interviewed for a company like this back in 2006 in Palo Alto but I think they eventually got acquired._END_OF_POST_PYSTOCK_ CEO of World’s Largest Asset Manager Says Bitcoin Can Possibly ‘Evolve’ Into Global Asset 
+
+According to a report by CNBC on Tuesday, CEO of BlackRock Larry Fink said bitcoin has “caught the attention” of many people and that the cryptocurrency market was still relatively small compared to others.
+
+Speaking to the former Bank of England Governor Mark Carney at the Council on Foreign Relations on Tuesday, Fink said the nascent cryptocurrency asset class can possibly “evolve” into a global market asset, CNBC said.
+
+According to the report, Fink also said having a digital currency has a real impact on the U.S. dollar, making it less relevant on a global scale for international holders of dollar-based assets. He also raised the question: “Does it change the need for the dollar as a reserve currency?”
+
+>https://www.coindesk.com/blackrock-ceo-bitcoin-global-asset_END_OF_POST_PYSTOCK_ This is why Slack is worth 28 billion This is what salesforce plans to do with Slack:
+
+all integrated into one
+
+1. CRM
+2. Marketing
+3. Project managing
+4. Knowledge base
+
+**All hooked into the shared protocol of email and polished with Slack chat functionality**
+
+So Salesforce next move is to potentially buy out one additional company for the email aspect to increasingly making it difficult for customers to leave, similar to what Microsoft does. The only reason Microsoft gave Teams out for free is because it wanted to crush Slack from competition.
+
+&#x200B;
+
+I believe they will have Slacks interface but with a Personal inbox, Teams inbox and then Apps all bundled into one. I'm assuming they will re-design Slack into threads, where users can tag in colleagues and start a mini-chat instance that runs parallel to the conversation in the email exchange. The  idea is to permit quick discussions of questions and clarifications to occur where they have the most context.
+
+&#x200B;
+
+This would almost be a war against Zendesk and Intercom, Microsoft and google._END_OF_POST_PYSTOCK_ PFE... WTF Bought shares right around the time they announced the “pre-order” of their vaccine candidate by the US Govt.  Expected a pop and trend upwards as news continues to be positive. Anyone have insights into why there’s been relatively little momentum in spite of a record setting Nov rally across the broader markets??_END_OF_POST_PYSTOCK_ December market meltdown? 
+Hello all,
+
+I want to highlight a few points that I have observed in the markets in the past couple of weeks.
+
+1) $908B stimulus bill
+
+2) Corporate spreads
+
+3) Market volatility in December
+
+I will try to keep it in broad terms and as always, please feel free to ask questions in the comments.
+
+1) Legislators proposed a bipartisan stimulus bill of roughly $908B. 
+
+At this point, it's not that surprising that the amount is lower than the initial ranges of $1.5tn - $3tn since there was a large divide in the Congress with regards to the size and allocation of capital.
+
+The news drove stock indices higher and also the Treasury yields higher, specifically 30-year treasury.
+
+  
+
+*Processing img 7p9v60zvmp261...*
+
+I think this is one of a series of fiscal spending that will be coming in the next year or two. 
+
+The 30-year yield has declined in recent weeks significantly. I have initiated a short position on 30-year futures this week. I think the upcoming vaccine news along with economic recovery in 2021 will serve as catalysts for a steady steepening in the yield curve.
+
+2) Corporate spreads show that we are in an abnormally tight market.
+
+If you remember from the latest Market Commentary on 11/23/2020 (link below), I mentioned that we are entering the solvency phase of the corona crisis.
+
+[https://www.reddit.com/r/Midasinvestors/comments/jzt338/market\_commentary\_treasury\_cuts\_fed\_funding\_tsla/](https://www.reddit.com/r/Midasinvestors/comments/jzt338/market_commentary_treasury_cuts_fed_funding_tsla/)
+
+I was worried that a slow economic recovery may push more companies to go bankrupt due to a protracted recovery. The reason was that if a restaurant had large amounts of interest payment coming due, it'll miss the payment and default. 
+
+However, the total number of bankruptcies and loan default rates have been relatively subdued due to programs like Paycheck Protection Program (PPP), lower borrowing rates, and favorable economic outlook.
+
+&#x200B;
+
+*Processing img ymulu82hip261...*
+
+I have seen more and more companies are now able to reorganize their balance sheets to extend maturities, increase leverage at lower rates compared to March highs, and reduce their debt service payments.
+
+A restaurant that was expected to miss its December 2020 interest payment would have already refinanced its existing debt, lowered the near-term interest payments and extended out the maturity. This is all possible due to the highly stabilized capital markets.
+
+&#x200B;
+
+*Processing img avaw2i9xnp261...*
+
+*Processing img ktmbvlwvnp261...*
+
+A below-investment-grade company can now refinance their debt at 430 bps (basis points) spread to Treasury compared to more than 10% we have seen back in March. 
+
+In effect, the pandemic wiped out those companies whose balance sheets were extremely-levered, but many companies got lifelines from the government and those who stayed alive were able to reorganize their balance sheets to be in a healthier position.
+
+Throw a vaccine on top of that and you will be out of the whole solvency crisis sooner than later.
+
+So far, it's all nice and rosy. But what's important to note is that this crisis is different than your usual ones.
+
+Normally, we would expect to see a deleveraging in a recession, companies reducing debt.
+
+This time, however, the total corporate debt outstanding has actually increased by wide margin. 
+
+&#x200B;
+
+*Processing img n73wgcwwpp261...*
+
+What I'm trying to get at is that we've got two key trends happening: rising corporate debt levels but tightening corporate spreads. Generally, you would expect those two to happen at a market top, so this crisis is different and we should keep that in mind as we piece together the whole picture (remember the Mosaic Theory, from this link [https://www.reddit.com/r/Midasinvestors/comments/ju7zbi/investing\_philosophy\_plz\_read\_this/](https://www.reddit.com/r/Midasinvestors/comments/ju7zbi/investing_philosophy_plz_read_this/) ).
+
+&#x200B;
+
+3) Market may be volatile in December due to a few reasons. 
+
+First, investors try to lower their tax returns for 2020 by selling their losing positions in December, which creates market volatility.
+
+But I wouldn't expect a market meltdown like the one we've seen in December 2018.
+
+&#x200B;
+
+*Processing img 89yvvhjxqp261...*
+
+That was primarily driven by Fed monetary tightening, reducing the balance sheet and raising interest rates. 
+
+&#x200B;
+
+*Processing img kvgod2d3rp261...*
+
+&#x200B;
+
+*Processing img imdq1g17rp261...*
+
+However, I am more worried now than I have been in recent weeks.
+
+Second, as I said before, we are priced for an optimal outcome: vaccine, fast economic recovery, fiscal stimulus, lack of trade-war, and so on. If you had to bet on the next market move, you would probably guess that a negative news headline will tank the market more than a positive news headline will shoot up the market. But again, I wouldn't expect to see a meltdown like the one in December 2018.
+
+Lastly,  I have noticed that the VIX index (volatility index) has moved in a positive correlation with the S&P 500. 
+
+&#x200B;
+
+*Processing img by9dun0zrp261...*
+
+We have seen this a couple of times back in February just before the March crisis and in August just before the September drop.
+
+While this is not a perfect indicator, it is one of the pieces of information that we have to make our decisions. So keep this in mind.
+
+&#x200B;
+
+The bottom line is that as we are entering the year-end, I would be more cautious than optimistic.
+
+For those bond investors especially, I would suggest to be more concerned about the markets right now. HY spread of 430 bps right now is not attractive at all and you are not being compensated for the credit risks.
+
+For stock investors, I would also suggest to be careful but do not panic when the market drops. A good idea is to implement hedging strategies in the short term by buying SPY puts.
+
+**Trading plan**
+
+1) Bullish on tech stocks.
+
+I'm still leaning bullish on broader digital consumer and enterprise spending. Favorite risk/reward plays at the moment are PDD, STNE, FVRR, FUTU, BABA, W, and SEDG.
+
+2) Bearish on long-end yield curve.
+
+I continue to think yield curve steepening will play out in the medium to long-term (6 months - 2 years). I have initiated a short position on 30-year Treasury futures (ZB).
+
+3) Bullish on gold.
+
+As dollar gets weaker, gold will likely gain a steam upwards and inflation gauges will not only put upward pressure on the 10-yr treasury yield but also on gold as well.
+
+I have initiated a call option on GLD. Given the recent drop in gold, I believe we are in a better risk/reward position to enter into the trade.
+
+For more market commentaries, please feel free to check out r/Midasinvestors. Thanks for reading!_END_OF_POST_PYSTOCK_ Yet another line of questions about leveraged ETFs (x-post r/FIRE r/personalfinance) Hello, I know people post frequently on reddit asking about leveraged ETFs. I have gone through and read through many of these posts, as well as other resources, and have a few remaining questions.
+
+&#x200B;
+
+A summary of what I've learned:
+
+\-leveraged ETFs attempt to create an index that tracks a given underlying index, multiplied by a given factor, over a given period of time (usually daily). they do not have perfect tracking, but it's generally pretty good
+
+\-volatility drag is amplified in these leveraged funds, and can cause them to go down significantly in value even when the underlying fund is standing still, or sometimes even going up
+
+\-when the underyling fund goes down, obviously the leveraged fund goes way down. for example, if the underlying fund for a 3X leveraged ETF were to go down 33% in one day (unprecented but not impossible), the leveraged ETF would go to 0
+
+\-so leveraged ETFs are generally a battle between magniyging the average positive gains of their underlying fund, vs extra fees and magnified volatility drag
+
+&#x200B;
+
+This was by far the most useful article I read about them: [http://ddnum.com/articles/leveragedETFs.php](http://ddnum.com/articles/leveragedETFs.php)
+
+&#x200B;
+
+Concerns/Questions:
+
+\-How do these funds work under the hood? I read an article on investopedia that says they use "derivatives, including index futures, equity swaps, and index options". I read about each of these in turn, but am still confused. It seems like they're borrowing the extra money to invest, but I don't get from whom, or how they pay it back.
+
+\-From the article I linked, it seems like leveraged funds do, on average, return higher than their underlying tracked indexes (even after increased expense ratios, which run about 1% for leveraged ETFs). A conclusion of the article was that the ideal leverage ratio varies with the fund and time period, but that 2X is a good ballpark for the sweet spot with the S&P 500 and similar funds over a wide range of historical data. What are we paying for this increased average return? Is it just massively increased risk? Or is there something else I'm missing?
+
+\-Although leveraged ETFs seem to outperform the underlying funds they track, they normally track only moderately volatile indices, to avoid excessive volatily drag. How do they compare to other unleveraged mutual funds and ETFs that are riskier and return higher than the S&P500, such as SWSSX (small cap index fund)?
+
+\-It seems like most leveraged funds do not include dividends. Does this negate the advantage that such funds possess?
+
+\-How do these funds compare to simply borrowing extra money to invest, either through a line of credit, or investing on margin? I looked into both of these options. I was dissuaded by the high rates and short terms for lines of credit. For investing on the margin, I was dissuaded by the danger of your margin lender calling your debt on a sigificant market downturn, forcing you to sell at the worst time. But again, maybe I'm missing something?
+
+&#x200B;
+
+Ideas/Other Questions
+
+\-the key with leveraged ETFs seems to be avoiding volatility in the underlying fund. Are there any leveraged ETFs that track a diversified portfolio of stocks and bonds together? My understanding is that these tend to be much less volatile, with still reasonable returns. If these don't exist, would it be possible to create one of these yourself by combining leveraged ETFs of stock and bond indexes, respectively, and frequently rebalancing? Would you be eaten up by capital gains with this method? (Admittedly, rebalancing this frequently would probably be a big pain in the butt either way)
+
+\-although most leveraged ETFs seek to multiply the daily returns of their underlying funds, it seems there are some that track longer time periods. For example, SPLX is a leveraged ETF with 2x the monthly returns of the S&P500. Unfortunately this fund is no longer available, but maybe there are similar ones out there? Would weekly, monthly, or even yearly reset leveraged ETFs be strictly better because of the lessening volatiliy of the undelying fund caused by averaging over longer periods of time?_END_OF_POST_PYSTOCK_ Please dissuade me from thinking LEAPS are a surefire money maker (I'm sorry, I know this isn't wsb but I want r/investing's opinion on it)
+
+I think airlines and cruise lines are going to come roaring back once the US gets back on its feet. I think there is a massive amount for the stocks to recover from the crash in March (I'm thinking specifically CCL, SAVE).
+
+I've read up on IV crush. I'm too familiar with theta decay. But I can buy CCL $40C expiry Jan 2022 for a 2.30 premium right now. If the underlying gets anywhere near $40 in the next year, that contract can be sold for a profit. IV is 75%. If IV drops to 20% will that mean the premium will drop to such a degree that the whole deal isn't worth it?
+
+It seems like it's just a matter of patience and you'll come out on top. I must be missing something here or other people would be more on board with this... Or are other people just plain too impatient?
+
+Thanks!_END_OF_POST_PYSTOCK_ Why not leveraged ETFs for long term? http://www.ddnum.com/articles/leveragedETFs.php
+
+This article makes a good case for2x leveraged ETFs. Also TQQQ (3x) and TECL  (3x) comfortably beat (their tracking) Nasdaq returns in last 5 years!
+
+https://etfdb.com/compare/highest-5-year-returns/
+
+Any thoughts or comments? How much % of portfolio in these and how long to hold?_END_OF_POST_PYSTOCK_ TSLA Stock and Inclusion Day I have heard that Tesla is expected to continue to rise up until the S&P 500 inclusion date (Dec. 21), when it is then expected to fall back. While I'm not entirely sure how accurate that statement is, I am confused on the timing. Is the stock expected to fall on the last trading day before inclusion day (Dec. 18, Friday), or is it expected to fall on Dec. 21, or is it simply expected to fall in the following week after inclusion?
+
+I'm currently invested in Tesla at a bit under $400 average per share and I am planning on collecting my gains at some point near inclusion date. My plan is to invest in Tesla shortly afterwards again, but not until it drops somewhere around 500-550, but hopefully at 400-450._END_OF_POST_PYSTOCK_ Why did you fire your investment advisor? (Or conversely, why did you keep yours?) I've talked to a few advisors recently. They charge anywhere from .5 to 2% of assets managed. Which doesn't seem too bad, actually, if they know what they're doing. Cathy Woods charge .75% to manage ARK, and her funds have suddenly done very well.
+
+How many of you still has an investment advisor who does the stock buying for you? What makes you trust them? What gives you the impression that they earn their percentage? 
+
+Conversely, if you fired your advisor to do it yourself, why lead you to the decision?_END_OF_POST_PYSTOCK_ Thoughts on GE? Hey Reddit! I’ve been investing for a little over a year now, and I feel like I’m getting the hang of it. 
+
+General Electric (NYSE:GE) has been on a tear recently. I bought shares at $9 in September 2019, and have been gradually decreasing my cost basis. However, I want to know if it’s a good buy as a “long” term (1y+) stock. 
+
+I really like it’s forward P/E of ~26, and I think it’s price/sales is among the lowest in the market. They’re trimming down their debt, and I think it could have a good 2021. However, it’s volatile, and there are a lot of uncertainties ahead. I just want someone to condense this all into one answer.
+
+NOTE: I’m willing to take a lot of risk, but as the biggest position in my relatively small portfolio, I just want to know if I’m buying into the right thing._END_OF_POST_PYSTOCK_ Current undervalued sectors? I started actively managing my Roth IRA last year. Invested heavily into Tech and small-cap growth stocks early in the year and those have done well. I want to start de-risking my portfolio into more undervalued sectors but I haven't really been following sectors trends throughout most year and I'm not sure what has been underperforming that may rebound in the future.
+
+Value stocks have underperformed growth over the past 10 years but I want greater exposure to value stocks as a way to limit risk. And since my 401K is invested into index funds that are mostly large-cap companies I prefer small-cap stocks in my Roth.
+
+So the ask is stocks that are:
+
+* Undervalued/underperforming sectors (service industry?)
+* Small-Cap
+* Value_END_OF_POST_PYSTOCK_ Bull/Bear financial picks? Been researching some potential additions to my core portfolio and having a hell of a time finding good financial stocks that look like solid long-term defensive plays but that also look undervalued enough to have some room to run in the short term.
+
+Any financial / financial-adjacent picks out there that you like for both short bear stability and long bull growth opportunities?
+
+Much appreciated._END_OF_POST_PYSTOCK_ Lululemon Analysis (NASDAQ: LULU) **Business Overview**
+
+Lululemon is a popular clothing brand that designs and distributes apparel. The company relies on suppliers and manufacturers to make their apparel. Lululemon also sells fitness-related accessories (headbands, yoga mats, etc). In the company’s 10-k, the word “sweat” is quoted, referencing the company’s goal to build a community of people through living the “sweatlife.”
+
+Historically, Lululemon’s typical customers are women or people with a connection to fitness. Fitness is often referred to in the company’s 10-k.
+
+Lululemon is extremely popular among women and there are companies trying to copy them. Lululemon references Nike, Under Armour, Adidas, Gap (Athleta), and Victoria Secret’s Sport Collection.
+
+Lululemon operates 491 stores in 17 countries. This is an increase of 128 stores since 2016. The company added 51 stores in 2019 through 2020 alone.
+
+Lululemon also recently acquired [Mirror](https://www.nytimes.com/2020/06/29/business/lululemon-buys-mirror.html), an at-home fitness startup. This is an interesting acquisition and it’ll be interesting to see how Mirror is implemented alongside Lululemon’s mission and what it means for the rest of the business.
+
+**Competitive Advantages**
+
+1. **Brand**  
+Lululemon has a strong brand among consumers. This competitive advantage could be thought of as similar to Nike’s competitive advantage of having one of the strongest brands in the world. Everyone in the world knows Nike. Most women know Lululemon and possibly more and more men will know Lululemon in the future. Brand can be a strong competitive advantage but can be difficult to pinpoint. Brands can have a strong impact on the competitive advantage of a business when other companies (Athleta) are trying to copy Lululemon but compete on price instead of brand or quality.
+2. **Economies of Scale**  
+Because Lululemon is a big business with relationships with suppliers and manufacturers across the world, the company can negotiate cost savings due to its scale. Lululemon can also employ operating leverage through all of its stores and through its direct to consumer revenue stream.
+3. **Ecosystem**  
+This idea is more out there and probably unrealistic, but Lululemon could have an opportunity to build a community of people obsessed with the brand and cultivate an ecosystem or community of people. The acquisition of Mirror shows that management might be trying to expand into other areas adjacent to their core area of fitness apparel. One quote in the 10-k is “We have a vision to be the experiential brand that ignites a community of people through sweat, grow, and connect, which we call "living the sweatlife." So if Lululemon continues to try and expand into other areas similar to fitness, this could be a glimpse into the future of what Lululemon will look like in 5 years.
+
+**Tailwinds**
+
+1. **Digital Fitness**  
+COVID-19 has accelerated at-home workout equipment (Peloton) and other startups. More consumers will purchase fitness apparel and could be brought into the Lululemon fan club and purchase a whole closet of leggings, jackets, headbands, or anything else. Digital fitness is a massive market and Lululemon could benefit greatly from this trend by selling more fitness apparel or selling more Mirror equipment.
+2. **Athleisure**  
+This is more of an obvious trend but worth pointing out. Supposedly, Lululemon makes some comfortable professional clothing. The athleisure trend could be shifting into offices in the future. The professional attire market is also big and even just taking a small slice of this market could be meaningful.
+3. **Direct to Consumer (DTC)**  
+One of the most attractive things about Lululemon is its shift to selling products online. This DTC strategy doesn’t rely on stores, has higher margins, and a high growth rate. Many apparel companies are benefitting from the DTC trend. This trend forces companies to rely more on Facebook and Google for advertising but companies can develop a brand image and can own the relationship with consumers from start to finish. For a picture of the DTC revenue line for Lululemon, check out the financial section below.
+
+**Financials**
+
+1. **Company-operated stores**  
+Grew revenue from $1.7bn in 2016 to $2.5bn in 2020. This is a respectable CAGR of 10.1%. This segment also has operating income margin of \~27% over the past two years. This segment has also had improving margins since 2018.
+2. **Direct to Consumer**  
+Grew revenue from \~$450 million in 2016 to $1.1bn in 2020, an impressive revenue CAGR of 25.0%. This is the most attractive revenue line in my opinion. This segment boasts operating margins of \~42% in 2020, an improvement from 38.8% in 2018. If this trend continues and Lululemon can benefit from operating leverage and pricing power, this revenue segment’s operating margin could continue to improve.
+3. **Other**  
+This line item is sales to outlets, temporary locations, wholesale accounts, and other sales funnels. Revenue grew from $186 million in 2016 to $340 million in 2020. This a CAGR of 15.6%. Still respectable but not meaningful for a Lululemon investment thesis. This segment has operating income of \~21%.
+
+Lululemon had total revenue of roughly $4bn with total operating income close to $900 million. Total revenue is growing \~21%.
+
+**Future Questions**
+
+If I were to invest in Lululemon, here are some questions I’d want to answer before investing my own capital.
+
+1. **Brand**  
+Lululemon may put off some people because the company isn’t accepting of all body styles or all groups of people. This could harm the potential customer base and could turn off many potential customers.
+2. **International Expansion**  
+Lululemon has done a good job expanding stores across Europe, China, and the rest of the Asia Pacific region. This could be a huge boost to their revenue and bottom line. From 2019 to 2020, Lululemon opened 51 stores across the world, with 19 coming from Canada and the United States and the remaining openings coming from the rest of the world.
+
+**Conclusion**
+
+Lululemon is an attractive company and is actually a 100-bagger since December 2008. Lululemon most likely won’t be a 100-bagger or even a 10-bagger since the company has a market cap of \~$48bn. I know many people (both men and women) who are big fans of Lululemon and oftentimes the best investments have the most dedicated and loyal consumers. Lululemon might fit this bill.
+
+If you want more updates visit [Weekly10K.substack.com](https://Weekly10K.substack.com). If you made it this far, I appreciate you!_END_OF_POST_PYSTOCK_ With the federal vote for marijuana, what’s the plan? I have been seeing people talk about their potential buy ins for several marijuana companies with the upcoming vote for the legalization.
+
+My question is.. should I buy in, hold, or sell. 
+
+I am on the newbie side of being into the stock market and just want some valuable advice(:
+
+thanks_END_OF_POST_PYSTOCK_ Do you think future vaccine approvals are priced into current stock prices? With all the hype of vaccines going into emergency approval within the next few weeks and a lot of talk on who will be taking the vaccines first... it seems as if they already know vaccines will be approved. Do you think current stock prices reflect an approved vaccine?_END_OF_POST_PYSTOCK_

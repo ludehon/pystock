@@ -1,0 +1,617 @@
+ Looking for a US based broker with access to Asian markets (Jasdaq, TSE, SGX, Catalist) other than IB. Hi.
+
+I'm looking to move clients portfolios from InteractiveBrokers to another broker, those portfolios are mostly comprised from asian stocks.
+
+I thought of Rakuten but I think that the broker must have to be US based for the Automated Customer Account Transfer Service (ACATS) in order to just move the portfolio without liquidating the account first.
+
+Thank you for your responses and recommendations._END_OF_POST_PYSTOCK_ I want to be wrong: The Golden Age of Investing seems to be over Disclaimer: I am a pessimist by nature.
+
+Hey.
+
+So I have a problem. I made easy gains on stocks this past year, without knowing how to pick stocks or do proper due diligence, without picking meme stocks.
+
+I basically threw darts at the S&P 500 board, after highlighting certain sectors I felt were going to bounce back. And I made what I perceive to be a shitload of money.
+
+My thinking is this: if the stock market is the only game left in town, I want to find other games. Because if people are thinking that this is the only game, the game is getting riskier and riskier (i.e. more expensive and more unlikely to produce future gains).
+
+In the past, investors had options for their money. They could invest in bonds that yielded relatively healthy, risk free returns. Real estate was much cheaper. Education (invest in yourself) was cheaper. 
+
+I believe the options enabled healthier valuations for each class of asset. Now... bonds seem expensive. Real estate seems expensive. Gold seems expensive. Bitcoin seems expensive. Education... really super fucking expensive. And stocks?
+
+Stocks look like they have priced in 10 years' worth of intrinsic economic growth.
+
+My question is this... what do we do to secure our futures? If previous generations had access to healthy markets with opportunities for growth, what does the current generation have? Where do we look? Foreign markets? 
+
+What are you guys doing, broadly, to invest in your futures? Are there any other investing 'games' we can play? Bonds, stocks, gold, real estate, formal education all seem to be overpriced. Should we use the easy money policies to start up our own businesses? What is the play here?_END_OF_POST_PYSTOCK_ $DMYD : Own the Big Data Provider that Powers DraftKings and Fanduel WSB Crosspost  
+
+[UK's Genius Sports bets on NY-listed SPAC to go public in $1.5 billion deal](https://uk.reuters.com/article/uk-genius-sports-group-m-a-dmy-technolog/uks-genius-sports-bets-on-ny-listed-spac-to-go-public-in-1-5-billion-deal-idUKKBN27C0TE)
+
+[https://www.geniussports.com/](https://www.geniussports.com/)
+
+[Investor Presentation](https://news.geniussports.com/wp-content/uploads/2020/10/GSG-Investor-Presentation.pdf)
+
+**TL;DR at bottom**
+
+We've seen a huge shift in momentum for SPACs lately with pretty much every SPAC from fraudulent to zero revenue mooning to a pretty high entry point. Do you know what genuine company has been under the radar and stayed relatively unknown? Genius Sports.
+
+Genius Sports (Ticker: DMYD) basically captures and provides sports stats, data and technology that powers sports betting platforms, such as DraftKings, Fanduel, etc. on behalf of professional leagues
+
+* Some things to note:  
+
+   * With the advent of in-sports real-time betting, the market is exploding at over **25%** annually
+   * More states are legalizing sports betting, serving as a major growth catalyst: Genius customers are seeing **2-3x revenue growth** in 2020
+   * Sports leagues are coming back in fully in 2021 with COVID vaccination just on the horizon
+   * This is a **duopoly market with high barriers of entry**, the other main rival being Sportsradar (remember the FEAC hype?)
+* Genius has a clear **economic moat** built around:  
+
+   * Proprietary technology to track and record in-game statistics on behalf of major sports leagues, in exchange for data rights
+   * **7,000+ statisticians and agents** on the ground, **managing 240K+ events per year**
+   * Highly customizable software that manages every aspect of a sportsbook’s data and trading offering, including advertising and streaming services
+   * Significant opportunity for inorganic growth via M&A
+   * Highly fragmented market for technology, content and media within sports ripe for consolidation to boost growth outside of plan
+
+Partnerships
+
+Their technology has proved to be incredibly well made with long term contracts with some big dogs you'll recognize:
+
+Basketball: NBA, NCAA, March Madness
+
+Soccer: FIFA, Premier League, Serie A, Bundesliga
+
+Golf: PGA, LPGA, European Tour
+
+Racing: NASCAR
+
+Online Sportsbooks: DraftKings & Fanduel
+
+Traditional Sportsbooks: MGM, Caesars, SkyBet, William Hill
+
+Financials
+
+* Already makes **$140M+** in revenue AND is **profitable**, with **$14M in 2020 EBITDA**
+* Growing at **30% CAGR**, with $230M revenue and $68M EBITDA by 2022
+* **$500M+** **EBITDA** **potential** in the horizon
+* Customer contracts have **guaranteed minimums** with upside on usage. The majority of 2020 revenue is **locked in** **for 3-4 years** on average
+* Only ever lost one customer in the past three years
+
+Trading dynamics
+
+* Deal was overlooked because it was announced just before the election (10/27/20), one of the worst trading weeks for the entire market
+* Reddit following has been limited and Stocktwits nonexistent
+* Average volume of 259.78K with a LOI signed.
+
+If Genius Sports were to trade at similar 2022E revenue multiple of 19x as Draftkings, it would imply a stock price of **$24-25**
+
+***TLDR: Long DMYD because it’s a huge sleeper pick. These guys run the sports betting industry behind the scenes & make a ton of money in a fast-growing market. Basically they’re the guys who sold shovels and jeans to the miners during the Gold Rush.***_END_OF_POST_PYSTOCK_ Invest in mutual fund BPTRX verse TSLA? [https://www.baronfunds.com/product-detail/baron-partners-fund-bptrx](https://www.baronfunds.com/product-detail/baron-partners-fund-bptrx)
+
+This mutual fund has almost 40% holding in TSLA. It also has a small holding in SpaceX. It also has a 2% expense ratio.  What does everyone think of this fund? Has it lost some of its appeal now that TSLA is joining the SNP500? 
+
+It is up over 100% YTD but I mean, TSLA is up over what 500%?
+
+Would have been better off just buying TSLA._END_OF_POST_PYSTOCK_ Will we see another 'European debt crisis'? Thanks to Covid, countries around the world is taking on more and more national debt and the debt to GBP ratios in most countries are going through the roof.
+
+Will we see another debt crisis like the 'European debt crisis' that we saw a few years after the 08-09 financial crisis?_END_OF_POST_PYSTOCK_ Question regarding CANSLIM - Market Direction The author states that he analyses volume price action of major indices such as NASDAQ Composite / S&P 500 to determine the market direction.
+
+My question is where do I even get volume data on those if indices aren't traded?
+
+Also, apart from NASDAQ Composite, I know that S&P 500 has an ETF that tracks it (i.e. SPY), my other question is:
+
+Is the volume price action for ETF such as SPY indicative of how S&P 500 would move? After all, it is just an ETF that tracks the S&P 500 index, wouldn't volume price action simply affect just the price of the ETF?_END_OF_POST_PYSTOCK_ A case for holding... The kids at r/wallstreetbets didn’t like this, so I’ll try here...
+
+Tl;dr: Invest a little in several promising stocks and sectors, and hold through the dips. 
+
+Just posting this since I can’t go back in time to tell myself, but maybe my experiences will help out some other noobs who only have time to trade as a side-hustle. I really have no idea of what I’m doing, so take this post with a grain of salt... However, if you see something wrong with my strategy, feel free to tear it apart! 
+
+I’ve traded off and on since May with okay results—40% gains overall. However, my account dipped below $25k this morning so I couldn’t sell my FOMO shares without being marked as a pattern day trader, so I’ve just been watching my account go down further and further...and then start to go back up... I was down about $1000 and as of now I’m back in the green +$400 or so... 
+
+A blessing in disguise? Maybe. Given that I couldn’t sell when I wanted to, I was forced to hold and I’m glad I did. This led me to evaluate some of the stocks I bought back in July that made a decent profit, dipped triggering me to panic sell after losing most of the gains, only to buy back in later at a higher price. Interestingly, if I would have held these stocks through the dips, my profits would have been well over the measly 40%—im talking 300% or more. 
+
+For example, if I would have held onto the 4 TSLA shares I bought for $995 (pre-split), I’d have 20 shares now worth about 4x what I paid. Similar story with PLUG, BLNK, LAC, APHA and FCEL. My initial investment of $25k*would be worth over $100k had I forgot I invested, and it would have saved countless hours of stress and anxiety. *note: it’s under $25k now because I’ve been using profits to remodel my house. 
+
+That said, I’m going to try this hold and see approach starting tomorrow. Tomorrow I’ll clear out my FOMO stocks and maintain a dozen or so promising positions that I believe are set to boom over the next year or so—primarily anything having to do with EV, renewable energy and marijuana. Limiting myself to just ~$2k initial investments in each stock should limit the risk (unless everything tanks long term, which I think is unlikely). I’ll then try to only check my account every two weeks. Not as sexy as day trading, but it might make sense for folks like me who work fulltime. 
+
+So far I’m thinking:
+[TSLA, duh]
+[LAC, up and coming lithium mine near Tesla’s NV battery factory]
+[PLUG, charging stations]
+[BLNK, charging stations]
+[FCEL, alternative energy]
+[HEXO, marijuana]
+[APHA, marijuana]
+[NOVA, solar]
+[RUN, solar]
+[And a variety of ARK_ ETFs. ]
+
+Any thoughts?? Am I missing anything? Any of these seem like a bad bet? 
+
+Wish me luck!_END_OF_POST_PYSTOCK_ I made a live Google Doc with 61 stocks connected to Electric Vehicles (EV makers, Battery makers, Charging networks, Mining companies, new SPACs). What am I missing? What stocks would you add that is connected to electric vehicles (and focus on EVs mainly, not traditional automakers that are now thinking of EVs).
+
+My goal is to have one spreadsheet to overview every stock connected to EVs in one place. 
+
+Here's the link:
+
+[https://docs.google.com/spreadsheets/d/1sKMfBZNkHdvaVKmweuv3sD--CzfvImALJxGj2Xj7Ozw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1sKMfBZNkHdvaVKmweuv3sD--CzfvImALJxGj2Xj7Ozw/edit?usp=sharing)
+
+&#x200B;
+
+Feedback is appreciated. Thanks!_END_OF_POST_PYSTOCK_ Poke holes in my theory....mREITs beats SP500 over the long run I am one of many who think large cap and equities in general wont have the run over the next 10 years that they did over the past 10 years. I have always been fond of mortgage REITs and would like another set of eyes on this process. **See picture link below.** 
+
+SPY as you know is the largest ETF that tracks the SP500. NLY is the largest mortgage REIT by market cap with the majority of their revenue coming from Fannie/Freddie backed loans. Here is the situation:
+
+In 1997, you invest $10k into SPY and $10k into NLY and reinvest the NLY dividends over 22 years, the ending value of **SPY is $46,823** and ending value in **NLY is $93,477** before any taxes. I used 11/25/2019 as the ending date to avoid data skew from the recent draw down of REITs.
+
+In terms of tax liability, you are obviously paying uncle sam on those quarterly dividends for NLY, but your ending capital gain is *much* smaller than what it is in SPY over your original basis due to the growth nature.
+
+Why am i wrong?
+
+[SPY vs NLY](https://imgur.com/3H6marz)_END_OF_POST_PYSTOCK_ Would VT Survive a Dollar Collapse? How would an ETF like VT, which consists of a large amount of international stocks, fair against a United States dollar collapse?
+
+Does purchasing international stocks protect against a United States Dollar Collapse?
+
+Is there anyway to protect against a currency crisis besides buying precious metals?
+
+I am trying to find something I could rely on in the event that the US economy would fail._END_OF_POST_PYSTOCK_ ARK fans, why will this time be different? I just got done reading Larry Swedro’s incredible shrinking alpha. His reasons for active funds not being able to beat index/passive investing made me super curious to know why ARK (ARKK, ARKW, etc.) fans feel that this one is special. 
+
+Even if the ARK folks are able to beat now, as the ETF grows, and they are forced to further diversify, won’t their ability to beat be diminished? And what’s to say we aren’t at that point yet?
+
+Just curious to know what people think, and if anyone who has or recently had an ARK* position has exited at these prices._END_OF_POST_PYSTOCK_ Looking into investing in some travel/vacation Mutual Funds? With the vaccine on it's way to the public, I think a lot of people will start travelling again. I am looking in some decent travel/vacation mutual funds to put my money in for long term (10 year minimum). But I've never invested outside the tech sector and looking for some suggestions/advice._END_OF_POST_PYSTOCK_ Best website for earnings history and estimates? Just wondering what websites are the best in terms or historical earnings estimates. 
+
+I believe Seeking Alpha and Zachs and [investing.com](https://investing.com) do consesus EPS whereas Marketbeat and Alpha Query sometimes do Gap eps. 
+
+So far I have been trading off of marketbeat earnings data. Should I switch over to seeking alpha or [investing.com](https://investing.com) because sometimes marketbeats earnings estimates are way off which messes with my trading strategy._END_OF_POST_PYSTOCK_ I made a DD on APXT at $10.75. My next big DD: GigCapital2 (GIX) So I did a big DD on APXT the day before it blew up and it was only trading at $10.75. It’s now at $15.82 with room to continue growing. That’s 47% in a week.
+
+My next play: GigCapital2 (GIX), which is merging with BOTH UpHealth and Cloudbreak Health. It will become UpHealth and trade under the ticker UPH. Currently only $10.30.
+
+UpHealth themselves say that this will create ‘the only integrated profitable global digital health company’.
+
+**What is UpHealth?**
+
+UpHealth is a group of MedTech companies, including Thrasys and MedQuest Pharmacy, and is one of the largest providers of digital health services in the world.
+
+‘With its combinations, UpHealth is positioned to reshape healthcare across the continuum of care by providing a single, integrated platform of best-in-class technologies and tech-enabled services essential to personalized, affordable, and effective care.’ - BusinessWire.
+
+UpHealth, after the merger, will have 4 main service lines:
+
+* Integrated care management - ‘population health solutions for patients with complex medical, behavioral health, and social needs’
+* Global telehealth - ‘digitally enabling the continuum of care with award-winning digital primary care and specialty consultations globally’
+* Digital pharmacy - ‘full service ePharmacy delivering compounded and manufactured medications’
+* Behavioural health - ‘tech-enabled services rapidly digitizing mental health and substance abuse’
+
+UpHealth is already generating $115 million revenue in 2020, with EBITDA of $13 million.
+
+In 2021, UpHealth is expected to generate over $190M in revenue and $24M in EBITDA; 69% of the 2021 incremental revenue growth is already contracted. This is 65% revenue growth and    85% EBITDA growth. They’re predicting 74% revenue CAGR from 2020 - 2022.
+
+UpHealth already has contracts with healthcare providers, insurers, and payers in all 50 states and also 9 other countries, with 1800+ US healthcare venues enlisted.
+
+The need for MedTech related services has really become apparent via Covid. The ability to have consultations and other related services without coming into direct contact is very desirable.
+
+**What is Cloudbreak?**
+
+BusinessWire: Cloudbreak Health revolutionized patient and provider communication with the introduction of video remote interpreting (VRI), establishing Cloudbreak as a pioneer in telehealth technology. Cloudbreak Health continues to innovate with Cloudbreak Telehealth Solutions, including telepsychiatry, telestroke, tele-quarantine, remote patient monitoring and other specialties. Committed to overcoming healthcare disparities and bringing language access to the point of care, Cloudbreak Health seamlessly integrates their language access solution, Martti, into a host of platforms, including Epic, Zoom, and Caregility. Performing more than 1.5 million minutes of telemedicine consultation each month on over 14,000 video endpoints at 1,800+ healthcare locations nationwide, Cloudbreak Telehealth simplifies how providers care for patients, putting a full care continuum at their fingertips 24/7.
+
+"Combining with UpHealth and its complementary suite of solutions will further our ability to power healthcare’s digital transformation and resolve disparities on a massive scale. We are proud to be part of this mission together." – Jamey Edwards – CEO & Co-Founder of Cloudbreak Health
+
+Basically, Cloudbreak will give UpHealth another string to its bow but UpHealth was already an enticing enough prospect.
+
+**UpHealth management team:**
+
+Dr. Chirinjeev Kathuria - Co-Chairman and Co-Founder. Has an MBA from Stanford, also MD from Brown. Previously co-founded NightHawk, which eventually went public.
+
+Al Gatmaitan - Co-CEO. Served as COO of IU Health, which is a top 25 health system.
+
+Martin Beck - CFO. Ex JP Morgan Healthcare Banker.
+
+**Other information:**
+
+Enterprise value of merged company: $1.35 billion. At this valuation UpHealth only has a 6.9x revenue multiple. Compare that to other MedTech companies such as GoodRx (20x), Teladoc (19.1x), or Hims (8.9x), UpHealth is looking relatively cheap.
+
+Expected closing date: 1st quarter 2021.
+
+Currently trading at: $10.30. Make sure you buy GIX not GIK!
+
+Only thing left to do is for the GIX stockholders to vote on the proposal (which will go through). That’s why it hasn’t popped yet. The time to jump in is now, before the vote.
+
+Next GigCapital2 shareholder meeting: 8th December. This is likely when the vote will be, and so is the catalyst for all future price movement. Get in before then.
+
+**Why I believe this is a good play:**
+
+* It’s targeting a rapidly growing industry which is boosted my megatrends like increasing elderly population
+* UpHealth is already profitable, making it less speculative than other SPAC plays.
+* High revenue visibility
+* Currently trading near NAV.
+* Vote upcoming = catalyst
+* It’s a merger of 3 companies, which is cool.
+
+Positions: Shares in GIX. I think this could hit $20 over the next month 🚀🚀This does not constitute financial advice.
+
+Sources:
+
+[https://uphealthinc.com/news-investors/](https://uphealthinc.com/news-investors/)
+
+[https://www.cloudbreak.us/solutions/](https://www.cloudbreak.us/solutions/)
+
+[https://www.businesswire.com/news/home/20201123005682/en/GigCapital2-Has-Entered-Into-Business-Combination-Agreements-With-UpHealth-and-Cloudbreak-to-Form-Combined-Company-to-List-on-the-NYSE-Creating-a-Unified-and-Profitable-Global-Digital-Health-Company](https://www.businesswire.com/news/home/20201123005682/en/GigCapital2-Has-Entered-Into-Business-Combination-Agreements-With-UpHealth-and-Cloudbreak-to-Form-Combined-Company-to-List-on-the-NYSE-Creating-a-Unified-and-Profitable-Global-Digital-Health-Company)
+
+[https://www.fiercehealthcare.com/tech/uphealth-cloudbreak-merge-blank-check-company-1-35b-deal](https://www.fiercehealthcare.com/tech/uphealth-cloudbreak-merge-blank-check-company-1-35b-deal)
+
+[https://finance.yahoo.com/news/gigcapital2-entered-business-combination-agreements-140000389.html](https://finance.yahoo.com/news/gigcapital2-entered-business-combination-agreements-140000389.html)_END_OF_POST_PYSTOCK_ Only one move for SPCE There is only one move you should be making...
+
+Adding more on dips like these.
+
+Don’t be stupid. Bulls run this stock now, we kicked out most bears with only 20% short interest remaining.
+
+This is literally bulls panic selling because their isn’t a test flight announcement yet.
+
+RELAXXXXXXX
+
+First of all, the NM lockdown doesn’t end until WEDNESDAY. That’s when tiered opening begins and that’s when we can start looking for updates. They can update us right now cause they don’t know what color their county will be on Wednesday.
+
+Even if the flight is pushed to January who literally gives a fuck? It’ll be up to 40-50 by February then boo hoo. 
+
+Stop crying and panic selling a long position based on short term news...
+
+I’ll be adding more so thanks for selling dummies_END_OF_POST_PYSTOCK_ Deep Dive #1 (Part 1 of 2) – DraftKings, bringing sports to life Hi everyone - 
+
+I have been very passionate about investing ever since I started late last year. I finally decided that it's time to share some of my research with the masses. Feel free to check out Part 1 of my research article about DraftKings (NASDAQ: DKNG) in the link below. I am a long term investor and I relentlessly research to find companies that I can buy with confidence and hold in my portfolio for a long time. (3 years, 5 years, 10 years, 20 years, etc.). I'm looking for companies that I believe have the potential to 10x within the next 5 to 10 years. I want to know so much about a company and have so much conviction on it that I feel comfortable holding it through big drops in the stock market and adding to my position during these times if I can. In this article I  give you a little introduction to (1) me, (2) the company, (3) my thesis on the company, and (4) digs into how they make money. 
+
+[https://onthemarkpicks.com/2020/11/30/deep-dive-1-part-1-of-2-draftkings-bringing-sports-to-life/](https://onthemarkpicks.com/2020/11/30/deep-dive-1-part-1-of-2-draftkings-bringing-sports-to-life/)
+
+I am not a financial advisor and this is not investment advice. These are just my opinions to help facilitate learning and discussion. 
+
+I am/we are long DKNG. I wrote this article myself, and it expresses my  own opinions. I am not receiving compensation for it. I have no business  relationship with any company whose stock is mentioned in this article._END_OF_POST_PYSTOCK_ Why does everyone buy options rather than shares? Is there some advantage? (Beginner) I’m sorry if this sounds dumb I’m just starting to get into investing in the markets. I see everyone on WSB constantly talking about options and haven’t seen many posts mentioning shares? I feel a lot comfortable with shares but is there a down side I’m not seeing? Thanks._END_OF_POST_PYSTOCK_ Tax of investments in various world SE in Austria ? So I live in Austria for a few years. I work and have some income and this year I started investing. First on Revolut, later on Degiro. Now I want to make the tax as low as possible, but have no idea what are the rules here, as I am not originally from Austria, but I am citizen of other EU country.  I want to have it clear until the end of the year, to have time to make necessary operations ... Thanks.
+
+&#x200B;
+
+If tis is not the correct subreddit, please point me to the correct one, thanks for patience._END_OF_POST_PYSTOCK_ How should youth be leveraged? In your early 20s you don't have much capital to utilize but rather an abundance of time. It seems there are only two ways to capitalize on this:
+
+&#x200B;
+
+1. **Play the long with ETF's:** allow your money to compound and reap the benefits far later in life.
+2. **Play highly risky options:** If you win you win big. If money is lost you have time to make it back and no family to worry about taking care of in the mean time.
+
+Are there any other ways to leverage your youth when investing? This is all I see so far as a beginner._END_OF_POST_PYSTOCK_ Salesforce Deal to Buy Slack Expected to Be Announced Tuesday After Market Close * Salesforce's deal to buy Slack is expected to be announced Tuesday after markets close, sources told CNBC's David Faber.
+
+* The deal is expected to be about half cash and half stock, the sources said, and will price Slack at a premium.
+
+* Salesforce is set to report quarterly earnings on Tuesday.
+
+
+
+https://www.nbcnewyork.com/news/business/money-report/salesforce-deal-to-buy-slack-expected-to-be-announced-tomorrow-after-market-close/2751515/_END_OF_POST_PYSTOCK_ Where do I get volumes of Major Indices like NASDAQ? Is this [https://research.investors.com/stock-charts/nasdaq-nasdaq-composite-0ndqc.htm?cht=null&type=daily](https://research.investors.com/stock-charts/nasdaq-nasdaq-composite-0ndqc.htm?cht=null&type=daily) showing an ETF tracking NASDAQ? Or is it the actual index?_END_OF_POST_PYSTOCK_ Two questions about Roth IRA I tried to find my answers by searching up some key terms, I couldn’t find what I was looking for. So sorry if this is a repeat
+
+My two questions are:
+
+Can I transfer specific holdings from my taxable (standard) account into my Roth IRA? 
+
+My second question is if you think BMY is a solid stock to build up on in my Roth IRA And leave it there forever (of course continue to build on it and have DRIP) 
+
+For context I haven’t opened my Roth IRA just yet due to some configurations with my current broker and transferring out of there 
+
+Thanks_END_OF_POST_PYSTOCK_ How do I avoid Good Faith Violations while day trading? “The sell order you are about to place includes shares that are not yet settled (paid for). Please be aware that if the funds used to purchase these shares are not settled, this sale may result in a Good Faith Violation. Read Avoiding Cash Account Trading Violations for further clarification.”
+
+I have a margin account._END_OF_POST_PYSTOCK_ What will happen to Slack shares? Hi all, I own 100 shares of Slack. I’m pretty disappointed in the news. I was extremely confident in the massive upside of this company. However, what’s done is done, and now it’s time to deal with reality. 
+
+I’m assuming my shares will convert to $CRM at the purchase price. But I wanted to be sure by surveying the crowd._END_OF_POST_PYSTOCK_ Bitcoin Jumps to Record High as Bulls Say This Time is Different * Largest cryptocurrency surpasses high set in December 2017
+* Digital asset was launched in October 2008 by unknown creator
+
+[https://www.bloomberg.com/news/articles/2020-11-30/bitcoin-jumps-to-record-as-advocates-say-this-time-is-different?srnd=cryptocurrencies](https://www.bloomberg.com/news/articles/2020-11-30/bitcoin-jumps-to-record-as-advocates-say-this-time-is-different?srnd=cryptocurrencies)_END_OF_POST_PYSTOCK_ Monthly most discussed topics on r/investing between Jan 2019 and Nov 2020 Hi, I believe that topics discussed on this sub reflect stock market at a give time. To that end I was curious to see what were the most popular topics (by comments count) month by month from before the March crash, during and after. Using API endpoints that I have available to me ([`https://api.pushshift.io/reddit/submission/search/?after=1604188800&before=1606780800&sort_type=num_comments&sort=desc&subreddit=investing`](https://api.pushshift.io/reddit/submission/search/?after=1604188800&before=1606780800&sort_type=num_comments&sort=desc&subreddit=investing)) I have scraped and aggregated the data into Excel sheet.
+
+&#x200B;
+
+This is not scientific research, this is not big data analysis, this is just very basic monthly sentiment snapshot. Just because I found it interesting. If anyone else if interested you cans see results here:
+
+&#x200B;
+
+[https://docs.google.com/spreadsheets/d/1Gf9WTBREhICS-dxJmSxnLJZDzT953DZk9hY2eow-72Y/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Gf9WTBREhICS-dxJmSxnLJZDzT953DZk9hY2eow-72Y/edit?usp=sharing)_END_OF_POST_PYSTOCK_ How to deal with unrealized gains? As a beneficiary of the TSLA meme stock via RobinHood trading ...
+
+How  does unsold stock "profit" factor into my income and tax returns? Can  it move me to a higher tax bracket? Do I owe taxes on these stocks if I  have not sold?
+
+What's the most financially responsible way to deal with taxes on this type of earning?_END_OF_POST_PYSTOCK_ Moderna vs Pfizer vaccine Any thoughts on why Moderna stock has sky rocketed since they announced their vaccine while Pfizer has stayed flat and even went down a bit. 
+
+Seems like Pfizer has a stronger portfolio, while Moderna just has this vaccine. 
+
+Moderna calls seem like a great hit right now while my Pfizer call of $39 set expire in March is just flat.
+
+From what you hear is that there will be more demand for the vaccine than can be distributed._END_OF_POST_PYSTOCK_ Palantir Adds $17 Billion in Value in Best Week Since Debut Palantir Technologies Inc. posted its best week since it went public in September, adding about $17 billion in market value as a broad rally in tech stocks helped fuel gains in the software maker.
+
+Its shares rose 52% since Monday and touched a fresh intraday record at $33.50. The stock lost some of the gains on Friday after Citron Research said in a tweet it was shorting the stock with a $20 target. The company ended the session at $27.66.
+
+Palantir representatives didn’t respond to a request for comment.
+
+“A lot of institutions have probably warmed up to the company and are viewing it as something to hold onto for the long term,” said Wayne Kaufman, chief market analyst at Phoenix Financial Services. “It’s a great software company, and it has a terrific business, a very sticky business, not just with governments but also enterprises.”
+
+Trading in Palantir options also surged this week with average daily volume of call contracts jumping about 250% in the first three days of the week when compared to the prior week. An analysis of open interest shows most of the contracts being opened and closed in the same day, indicating a heavy presence of day traders.
+
+After an initial lackluster performance following its direct-listing stock debut, gains for the Denver-based firm, which sells data-analysis tools, have accelerated after hedge funds, including Steve Cohen’s Point72 Asset Management, reported purchasing the company’s shares.
+
+“Big-data companies have become very important and historically have been excellent stocks. Also, Palantir is benefiting from the pandemic -- tracking cases and analyzing data is right in its wheelhouse,” Kaufman said.
+
+Since starting up in 2003, co-founder and chairman Peter Thiel has helped bankroll the business throughout its long period as a closely held business. Now, the stock has gained nearly 300% since its direct listing. It reported third-quarter losses in its first financial results since going public as compensation costs surged. It did, however, boost its revenue growth forecast for the year to 44%, exceeding the amount analysts expected on average.
+
+“I’d say the days of it trading below $20 are probably over,” Kaufman added.
+
+[https://www.bloomberg.com/news/articles/2020-11-27/palantir-posts-best-week-since-debut-adding-21-billion-in-value?utm\_source=url\_link](https://www.bloomberg.com/news/articles/2020-11-27/palantir-posts-best-week-since-debut-adding-21-billion-in-value?utm_source=url_link)_END_OF_POST_PYSTOCK_ Is anyone selling S&P 500 index funds to avoid being forced to buy TSLA at potential bubble prices? If so what indexes are you buying instead? I have owned TSLA stock since earlier this year and since I just hit 500% return, I cashed out because it feels very overvalued.  However, because I own S&P 500 index funds I am going to be forced to buy TSLA stock again in December at these bubble prices because it will now be part of the index.  I am thinking of selling my S&P 500 index funds for something else that won't be forced to make such a large purchase of TSLA this month.  Is anyone else doing this and if so what are you moving to?_END_OF_POST_PYSTOCK_ GM has dropped its plan to build the Nikola (NKLA) Badger electric/fuel cell pickup truck and take a stake in the company. https://electrek.co/2020/11/30/gm-cancels-deal-build-nikola-nkla-electric-hydrogen-pickup-truck-controversies/
+
+GM has dropped its plan to build the Nikola (NKLA) Badger electric/fuel cell pickup truck and take a stake in the controversial company.
+
+However, GM will still supply Nikola with fuel cell hydrogen technology for its semi trucks.
+
+As we have been reporting over the last few months, Nikola is currently in hot water after a report from Hindenburg Research made several allegations exposing deception by Nikola and its founder Trevor Milton, including several claims corroborated in previous reports._END_OF_POST_PYSTOCK_ GM, Nikola Agree to Scaled-Down Supply Agreement. Auto maker will no longer take equity stake in Nikola, as previously planned RIP to NKLA shareholders - the GM deal was its last grasp at relevancy IMO.
+ 
+* * *
+
+General Motors Co. GM -0.88% will supply fuel cells to Nikola Corp. NKLA -7.64% for commercial trucks but will no longer take an equity stake in the startup under a stripped-down agreement, Nikola said Monday.
+
+
+The electric-truck company also said it has scrapped plans to build a pickup truck named the Badger, which had been part of an earlier deal with GM outlined in September. That deal got delayed after a negative short seller’s report raised questions about the readiness of some aspects of Nikola’s business, allegations the company claimed were false and misleading.
+
+Nikola shares were down 3.4% in premarket trading Monday. GM shares were off about 0.8%.
+
+Under their original deal, GM was to take an 11% equity stake in the Phoenix-based startup in exchange for supplying engineering work and other services. GM also was to engineer and build an electric pickup truck for retail customers, the Badger, using the auto maker’s proprietary technology for battery-powered vehicles.
+
+https://www.wsj.com/articles/gm-nikola-agree-to-scaled-down-supply-agreement-11606742652?mod=hp_lead_pos3_END_OF_POST_PYSTOCK_ SNDL whoa Well, SNDL has a potential acquisition happening on Wednesday and pre-market is showing a strong confirmation that people believe this is what's going to happen.
+
+At the time of this writing SNDL is up 32% with a volume of around \~82 million pre-market.
+
+I'm in for 10K shares, who knows what will actually happen on Wednesday but it looks like a lot of us are in the pro column, here is what Sundial said:
+
+While Sundial remains focused on its core strategy, the Company continues to review potential strategic alternatives to ensure that all opportunities to maximize value are explored. There is no assurance that this review will result in a transaction of any kind, and the Company does not intend to provide any update or additional comment on these matters until the Board approves a specific action or otherwise concludes the review.
+
+Sundial will be participating in the 2020 Boston Cannabis Conference which will be virtual. The event starts today with Wednesday being the last day. On the last day Wednesday, Dec 2nd CEO of Sundial Zach George will be participating in a panel discussion at 10:10am EST.
+
+I personally think this is where we will get true insight regarding M&A potential._END_OF_POST_PYSTOCK_ Brace Yourself for a Sharp Rise in Inflation Brace Yourself for a Sharp Rise in Inflation  [" https://www.bloomberg.com/view/articles/2020-11-21/inflation-may-be-about-to-pick-up-sharply " ]
+
+A lot of manufacturing capacity has been lost. Domestically and internationally transportation is difficult and more expensive. A lot of companies have been put out of business. There has been severe losses to economies' supply potential. All of which means that the Path of least resistance when Demand Picks up is Higher Prices._END_OF_POST_PYSTOCK_ Multiple brokerages I currently hold my passive investments in Fidelity. I have been researching options trading and was wondering if it is smarter to keep all my investments in one brokerage or if it’s better to have my active investment separate from the passive ones? I was debating opening an account with TD Ameritrade or Etrade for options._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ TSLA: Get ready to cash out from the largest ongoing pump and dump in history Ok, so TSLA will be included in S&P 500 in Dec 21. Old news. Around $100B(almost 1/5th of its market cap) of TSLA would need to be purchased(some active funds may have already purchased) based on current stock price.
+
+The only reason I have been holding TSLA after it split is the whole S&P 500 inclusion thingy. After that, I don't know what will even move this stock. They freakin surpassed Berkshire and could surpass Facebook(for a short time)!!!
+
+Today they will announce whether to include TSLA in two sessions or in one session.
+
+[This is what happened when Yahoo was included(which is comparable to TSLA's inclusion as they have had relatively comparable size in comparison to S&P 500's size). Although I believe TSLA will rise again after some time, unlike Yahoo.](https://imgur.com/a/1qj22eR)
+
+After the trading sessions, expect a big dip. As a lot of speculators this year have bought into TSLA precisely to front-run the index investors.
+
+Also, the trade date Dec. 18, coincides with a once-quarterly event known as quadruple witching, the Friday near the end of each calendar quarter on which options and futures on both indexes and stocks expire simultaneously. Volume is usually heavy on those days and would help boost liquidity on the day of Tesla’s inclusion, investors said. (this paragraph copied straight from wsj)
+
+So, I guess don't be a fool(unless there are some tax implications, which I don't have); buy the rumour, sell the news. TSLA will completely tank after the inclusion.
+
+Also, remember NIO etc kind of benefit from the TSLA hype, so be very careful you all about them.
+
+I don't think if you don't have any immediate tax implications, there wouldn't be much value holding TSLA for the longer term as there are better long term plays. And when or if TSLA reaches $700 or higher(I know I am very bullish, but that's why I am still holding it) there would be almost no point in holding it any longer.
+
+Some special points to remember:
+
+* TSLA already jumped 40% after its inclusion news broke out and had been steadily climbing before it due to rumour that it will be included in the index and Softbank's trade earlier this year.
+* TSLA can issue more shares, especially in this valuation. I mean why wouldn't they, lol.
+
+I know posts that say anything negative about TSLA gets downvoted but be careful about your TSLA shares or options!
+
+Disclaimer: I am long TSLA shares and call options. I am also long PLTR(long leaps too) and some other meme stocks which I am not mentioning cause my post gets removed somehow and I am not sure why(so you know I don't give a damn about valuations, although I am kind of an early mover, so all of them are at a very profitable position)._END_OF_POST_PYSTOCK_ Passive vs active investing, 2 year experiment In December 2018 I sold a business for mid 7 figures. Being burnt out after 15 years I did not intend to jump straight back into industry so decided instead to test an active vs passive investing strategy for a few years.
+
+I was a die hard efficient market / boglehead, but always enjoyed the process of stock picking, and being a hubristic \*\*\*\* decided on 50% SPY and 50% for a stock picking retail account. My background is private equity and I am comfortable doing deep dive research, building DCF models etc etc.
+
+50% went into SPY on 2nd Dec 2018 at 263. I did nothing to this account since. Dividends were auto-reinvested. 
+
+In the active account, I built a portfolio of small and micro cap stocks focussing on sectors I know well. The portfolio held 14 stocks after 21 months. A few have been turned over since with new ones added but generally the approach has been to buy and hold good businesses. Dividends were auto-reinvested. I spent 15 hours a week on research and analysis, so about **1380 hours** since Dec 2018.
+
+Since 3rd December 2018:
+
+*SPY with dividends reinvested has returned 21.5% annualised.*
+
+*The active portfolio has returned 25% annualised (incidentally with a higher sharpe ratio / lower max drawdown.* It has delivered in raw terms an additional $90,000 over the passive fund. Divide by 1380 hours = $65/hr. Worth it? Sure. If you enjoy something, and can do it ad-hoc from your own home, being paid $65/hr is a pretty good result, especially as that figure will compound over time, assuming continued results. I can share the portfolio and results on request.
+
+Beating the market is quite addictive of course. A boglehead would say 2 years proves nothing with regards to luck vs skill and I would agree. But I am more skeptical than before this experiment that EMH holds true enough at the small cap end of the market to make stock picking a waste of time. I will report back next December._END_OF_POST_PYSTOCK_ S&P Global to buy IHS Markit in $44bn deal $SPGI $INFO  
+
+* S&P Global (NYSE:[SPGI](https://seekingalpha.com/symbol/SPGI?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link)) and IHS Markit (NYSE:[INFO](https://seekingalpha.com/symbol/INFO?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link)) have [entered](https://seekingalpha.com/pr/18102142-s-and-p-global-and-ihs-markit-to-merge-in-all-stock-transaction-valuing-ihs-markit-44-billion?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link) into a merger agreement to combine in an all-stock transaction which values IHS Markit at $44B, including $4.8B of net debt.
+* Under  the terms agreement, each common share of IHS Markit will be exchanged  for a fixed ratio of 0.2838 shares of S&P Global common stock.
+* Current  S&P Global shareholders will own \~67.75% of the combined company,  while IHS Markit shareholders will own \~32.25%, upon completion of the  transaction.
+* "This transaction is a win for both IHS Markit and  S&P Global as we leverage our respective strengths in information,  data science, research and benchmarks," said Lance Uggla, Chairman and  CEO of IHS Markit.
+* The merger is expected to close in H2 2021.
+* The companies will hold a joint conference call today at 8:15 a.m. EST/1:15 p.m. GMT to discuss the details of this transaction.
+* Previously: [S&P Global on verge of $44B deal for IHS Markit - WSJ](https://seekingalpha.com/news/3639810-s-and-p-global-on-verge-of-44b-deal-for-ihs-markit-wsj?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link) (Nov. 29)
+* INFO shares up 6% premarket._END_OF_POST_PYSTOCK_ Investing in EM ETFs (VWO vs IEMG), does South Korea play a role? I'm working on expanding my portfolio (just VT at the moment) to add small caps and EM to hopefully add some risk-compensated returns to it over the long-run (10% of the equity portion of the portfolio at the moment). I am looking at the EM options available, with the two big ones being VWO and IEMG. 
+
+1) VWO doesn't include South Korea, and IEMG does.
+
+2) IEMG has the higher MER (0.13 vs 0.10) and the better performance since inception (2.63% vs 2.53% CAGR) with near identical Sharpe/Sortino ratios and US Market correlation (per PV).
+
+3) VWO holds significantly more holdings, pretty much all tail-ends, including a lot of China Class A shares.
+
+4) There is only 74% overlap (by weight) between them (per etfrc), presumably due to the lack of South Korea and its absence being re-deployed differently.
+
+I've been reading about South Korea's demographic problems (admittedly China has its own demographic problems anticipated), and from a lay point of view they 'act' like a Developed economy, so I am not sure which direction to go in for a long hold. Presumably South Korea will eventually be removed from IEMG if it continues to develop.
+
+What is a good way of choosing between them based on their characteristics and the current situation?_END_OF_POST_PYSTOCK_ LGVW // Butterfly Network – Room for a Bullish Case Ok gents, little has been written about the LGVW-Butterfly deal. Between nurses/docs super excited about the product and the usual hype, I thought to **write a sound DD based on available facts** as I did for [Microvast](https://new.reddit.com/r/investing/comments/k2rs84/thcb_microvast_inc_legit_analysis/) and [AvePoint](https://new.reddit.com/r/wallstreetbets/comments/k1y84a/apxt_avepoint_tendies_coming_up/). You may be sick of hearing about SPACs in 2020, but do keep an open mind about em bc solid companies are entering the mkt as well. Let’s dive in
+
+**30 secs elevator pitch**: on November 19, 2020, Longview (LGVW) entered into a definitive business combination agreement with Butterfly Network (thereafter “The Company”), valuing the latter at an Enterprise Value of $1.5Bn, after a Letter of Intent signed in Oct20. The proposed business combination is expected to be completed in the first quarter of 2021, with the combined company’s Class A common stock trading on the NYSE under the ticker BFLY. The Company makes ultrasound proprietary technology more universally accessible and affordable and it’s backed by The Bill & Melinda Gates foundation
+
+**Investment Case Intro**: Butterfly attacks a large, $8 billion addressable market and expands it materially by meaningfully growing each of the following: points of care, geographic reach and use cases. Moreover, Butterfly has many attractive investment attributes: strong balance sheet and liquidity, low manufacturing costs, rapid growth, high recurring revenue, a discounted relative valuation and high-return reinvestment ops
+
+**// What is Butterfly Network and why should I care?**
+
+Butterfly Network is an innovative digital health company that is working to enable universal access to superior medical imaging. Key takeaway:
+
+* **In short**: founded by Dr. Jonathan Rothberg (winner of Presidential Medal of Tech & Innovation) in 2011 and led by CEO Laurent Faracci, Butterfly has created the world’s first handheld, single-probe whole-body ultrasound system, Butterfly iQ, to make ultrasound technology more universally accessible and affordable
+* **Addressing an unmet need**: Point of Care Ultrasound (POCUS) represents the biggest paradigm shift since x-ray. Historically, the global ultrasound market has been dominated by traditional cart-based devices that are accessible only to highly specialized technicians and are located predominantly in hospitals, imaging centres, and physicians’ offices. POCUS usage today has been constrained by high upfront system cost, limited access, and suboptimal convenience. Notably 2/3 of the world has no access to medical imaging and 2/3 of diagnostic dilemmas can be addressed through simple imaging. The addressable market is represented by $6Bn of equipment market and $2Bn of service market, with an addressable population of 40M+ Global Healthcare Practitioners. Ultrasound uses sound waves instead of radiation and it’s pushed by several macrotrends: (i) aging population, (ii) chronic disease proliferation, (iii) move from hospital to home settings and (iv) wellness monitoring
+* **What about R&D?** While smartphone-based ultrasound devices have existed for years, Butterfly is the first to completely re-engineer the technology behind acquiring images. The goal? Increase quality and efficiency while decreasing costs. To accomplish this, Butterfly engineers had to figure out how to replace the very core element of the ultrasound probe – the piezoelectric crystals. Using sophisticated physics and fancy math, these piezoelectric crystals are used to ‘transduce’ sound energy into electrical energy and vice versa. Butterfly’s new smartphone-based ultrasound device replaces expensive transducer crystals with computer chip technology, resulting in a device that costs less than $2,000, while currently emergency departments spend $25,000 to $250,000 to purchase and maintain sophisticated and cumbersome ‘portable’ ultrasound machines
+* **Relative analysis**: there are arguably three other major competitors to Butterfly iQ in the handheld ultrasound market: GE Vscan Extend, Philips Lumify, and the Clarius Wireless Scanner. Each of these devices are FDA approved for most of the major uses of POC (Point- of-Care) ultrasound. No other device on the market has a 3-in-1 transducer, which leads to doubling and tripling of cost for each additional probe. Additionally, only the Philips Lumify and Clarius are smartphone based. From a cost perspective, there is no comparison. Butterfly iQ drastically reduces the upfront cost, and there is no extra charge for their cloud computing and storage. Not to mention, the iQ is the only probe pushing the limits of AI and deep learning. In case you like CNBC, they listed Butterfly as one of the 50 [2020 disruptors companies](https://www.cnbc.com/2020/06/16/meet-the-2020-cnbc-disruptor-50-%20companies.html)
+
+*Comment of a Reseller, take it or leave it: “I literally sell ultrasound for living. Butterfly is going to have a subscription service and this is seriously in high demand. 25% of my leads are currently asking for this tech. My starting price of Phillips is between 4.5-5k, Chinese brands start at 2500”*
+
+* **Expected & Current Financials**: Butterfly has Substantial Growth Potential Across Multiple End-Markets with 65% revenue CAGR from 2019-2024E. Currently the company holds $500 million of cash to drive it through its investment phase and to expected positive cash flow. Significant discount to comparables, with 10.6x 2022E revenues with 70+% growth versus comparables at 13-20x+ 2022E revenues, with meaningfully slower growth. Total investment of over $400 million with first product introduced in 2018, 700+ patents and 2020E revenue of $44 million, projected to grow to $138 million in 2022E
+* **Who’s managing my money?** Founder Dr. Jonathan Rothberg to become Chairman of the combined company and will be Butterfly’s largest controlling shareholder. 100% of the equity of existing Butterfly Network investors, including Baillie Gifford, The Bill and Melinda Gates Foundation and Fosun Industrial Co., Limited, will convert into shares of the combined company. There will be no selling stockholders in the transaction
+
+**// Ok so what am I buying here? LGVW**
+
+* Longview Acquisition Corp. is a Special Purpose Acquisition Corporation brought public as an affiliate of Glenview Capital Management. Glenview was founded in 2000 by Larry Robbins and is currently in its 20th year of active public markets investing with a focus on the healthcare market. Initially capitalized with $414 million in cash in May 2020 trading under the ticker LGVW
+* The transaction is expected to deliver up to $589 million of gross proceeds, including up to $414 million of cash held in Longview’s trust account (assuming no redemptions are effected). The transaction is further supported by a $175 million PIPE at $10.00 per share, led by Eldridge, Fidelity Management & Research Company LLC, Glenview, Ridgeback, Tenet Healthcare Corporation, UPMC Enterprises, the innovation, commercialization and venture capital arm of leading Pittsburgh-based health system UPMC, and Wellington Management. The company is projected to have approximately $584 million in cash on the balance sheet after closing
+* The Ropes & Gray team that represented Longview Acquisition Corp. was led by mergers & acquisitions partner Carl Marcellino (New York), and included securities partners Paul Tropp and Rachel Phillips (both of New York), mergers & acquisitions partner Regina Sam Penti, employment, executive compensation & benefits partner Loretta Richard, tax partner Elaine Murphy (all of Boston), and life sciences, regulatory & compliance partner Kellie Combs (Washington D.C.)., and mergers & acquisitions associates Victoria McGuire (New York) and Lisa Folkerth (Boston)
+
+**// Advisors, let’s spit out the big names**
+
+J.P. Morgan Securities LLC acted as financial advisor to Butterfly Network. UBS Investment Bank acted as financial advisor to Longview as well as the exclusive placement agent for the PIPE
+
+**// Sources**
+
+* [SEC Filing 1](https://docoh.com/filing/1804176/0001104659-20-127636/LGVW-425), [SEC Filing 2](https://docoh.com/filing/1804176/0001104659-20-127636/LGVW-425/file/2), [SEC Filing 3](https://www.sec.gov/Archives/edgar/data/1804176/000110465920129873/tm2036017-1_s4seq1.htm) and [SEC Filing 4](https://www.sec.gov/Archives/edgar/data/1804176/000114036120010472/nt10009002x3_s1.htm)
+* [Butterfly superior Investors’ PPT](https://manual.butterflynetwork.com/Butterfly+Investor+Presentation.pdf)
+* [Ny Times Article](https://www.nytimes.com/2019/04/15/health/medical-scans-butterfly-iq.html)
+* [Butterfly Patents](https://sec.report/CIK/0001616683) and [FDA approvals](https://sec.report/CIK/0001616683)
+* [Deal News 1](https://www.marketwatch.com/story/medical-imaging-provider-butterfly-network-to-merge-with-spac-longview-in-15-billion-deal-2020-11-20) and [Deal News 2](https://www.globallegalchronicle.com/longview-acquisition-corp-s-1-5-billion-merger-with-butterfly-network/)
+* [Longview Team](https://www.longviewacquisition.com/team)
+
+**// I don’t’ know how to read all this, bottom line?**
+
+* Butterfly Network is an innovative digital health company addressing the $8bn Point of Care Ultrasound (POCUS), which represents the biggest paradigm shift since X-ray. Butterfly's early investors include Baillie Gifford, The Bill and Melinda Gates Foundation and Fosun Industrial Co., Limited. Butterfly's aim is to make superior medical imaging at more affordable prices, led by a robust team and characterized by strong financials (2020E revenue of $44 million, projected to grow to $138 million in 2022E)
+* On November 19, 2020, Longview (LGVW) entered into a definitive business combination agreement with Butterfly Network, valuing the latter at an Enterprise Value of $1.5Bn. The deal is expected to close in Q1 2021
+* LGVW closed @ $16.55 the most recent trading session. At the very opening of the session, the stock price was $17.59 and reached a high price of $17.60, with a 52W high of $17.98. Today’s level may be a renewed good entry point to position and hold all the way through further rumors and deal completition
+
+*Disclaimer: all images should be credited to Butterfly Network, LGVW or the above- mentioned sources. This does not constitute and has not to be intended as financial advice of any kind, always do your own research. I do not currently hold any long or short position in commons or warrants of LGVW (I will edit if that’s the case)*_END_OF_POST_PYSTOCK_ Need to feed live financial statement data to my spread sheet - who provides such service? Hi guys. I am looking for a solution that would feed financial statement data (quarterly balance sheet, income statement) into my Google Sheets or Excel file. In the same fashion as Google Finance feeds for stock prices. 
+
+Does anyone here know if such solutions/services exist in the market? I will be very grateful for any advice._END_OF_POST_PYSTOCK_ Would now be a good time to add a stop-loss/stop-limit order to my stocks? Since we're in an insane market rally right now, I was wondering if it would be a good time to add a stop-loss or stop-limit order to my stocks. After doing research on the benefits of stop-loss and stop-limit orders I've noticed that there are a lot of people for and against it. What are your opinions on adding stop-losses?
+
+Thank you_END_OF_POST_PYSTOCK_ How do you discover companies? Most of the companies I’ve invested In I’ve stumbled upon by chance but I was wondering if there’s a more efficient way to discover new companies to invest in that otherwise would’ve gone under the radar. I would use r/investing to do that but reading most of the posts they seem to be either overly negative or overly positive and few that lay out the good and bad in tandem. Any sights where it’s possible to discover the names of companies without being charged with a bias would be much appreciated:)_END_OF_POST_PYSTOCK_ Pass Perfect Series 65 Finals Hi all. 
+
+I am currently using Pass Perfect for my Series 65. I have taken 4 Finals scoring 79, 76, 77, and 75. I am going to take another 2-3 finals tomorrow (day before exam). 
+
+For people that have taken the 65 and used Pass Perfect, what were you scoring on the Finals and what did you score on the actual exam? I am told that Pass Perfect over prepares and the questions are much harder than the actual exam so I'm assuming that I should be fine considering the consistency in scores.
+
+Thanks in advance!_END_OF_POST_PYSTOCK_ Odeon Capital says retail REITs' rebound is 'just beginning' https://seekingalpha.com/news/3639722-odeon-capital-says-retail-reits-rebound-is-just-beginning
+
+> Climbing collection rates bode well for retail-focused REITs, as the owners of open-air shopping centers, enclosed malls, and other retail assets claw their way back from May's trough, writes Odeon Capital analyst Alex Arnold.
+
+> And investors have noticed. Retail REIT shares, on the whole, have outperformed the S&P 500 in the past month as seen in the gains made by the S&P Composite 1500 Retail REITs Index:
+
+> "While the reversion is just beginning, we'd expect surging infection rates in the coming months to drive increased group volatility and entry points along the way," Arnold said in a  note to clients.
+
+> "Q3 collections were not only up in aggregate but also across all shopping center types," he added. "October is looking even better."
+Arnold classifieds the retail REITs into three buckets: Net lease REITs, where tenants take care of their own properties; Community centers described as open-air and frequently grocery-anchored; and Enclosed mall players.
+During the pandemic, net lease players, though still down over the past year, fared the best, followed by community centers then enclosed mall REITs._END_OF_POST_PYSTOCK_ My elderly parents wants to put some of their savings into the stock market rather than just gaining interest in banks Hi guys,
+
+My dad wanted to put some money into the stock market and asked me if I can help them allocate some funds. They understand the risks as do I.
+
+They are not looking for short-term gains but am happy with leaving the money in there for 5 years or more. 
+
+I currently have some money in a few companies but not the funds/ETFs itself however I suggested to them that it's more safe to invest in funds across various industries as well as some more high risk funds such as alternative energy and health.
+
+Can someone please recommend some funds we should look at?
+
+I've suggested the following so far:
+
+* QQQ
+* VTI
+* VOO
+* EWT ([https://www.ishares.com/us/products/239686/ishares-msci-taiwan-etf](https://www.ishares.com/us/products/239686/ishares-msci-taiwan-etf))
+
+Thanks all_END_OF_POST_PYSTOCK_ Your opinion & expectation on luckin coffee? Since the financial scandal of Luckin Coffee, the business in China is still expanding with high sales volume. Both coffee and location have very good reviews among my friends in China. I believe the company will make HUGE profit soon. Do you guys think it’s possible to regain trust from US investor?
+
+Right now it’s listed as penny stocks. How hard it is to go back to Nasdaq. I personally bought 120 shares.
+
+[https://www.nasdaq.com/articles/surprise-luckin-coffee-stock-has-quietly-doubled-since-its-delisting-2020-07-09](https://www.nasdaq.com/articles/surprise-luckin-coffee-stock-has-quietly-doubled-since-its-delisting-2020-07-09)_END_OF_POST_PYSTOCK_ TSLA gets approval in China to sell Shanghai made Model Y TSLA gets approval in China to sell Shanghai made Model Y.  
+
+"Wedbush Securities analyst Daniel Ives said China could represent up to 40% of overall Tesla deliveries in 2022.
+
+The analyst predicts the company could double its sales in the country in the next few years"
+
+https://m.benzinga.com/article/18567506_END_OF_POST_PYSTOCK_ Ra Medical : cash, no debt, so cheap The biggest value play I’ve found:
+
+insiders have been loading. Both CEO, Pres. and board have added large swaths of shares. $34M cash, $19M market cap, no debt. Tiny float of 2.9M shares available. Trades at $7 Cash in hand value : $13.50 Book value : $28 2 approved medical devices 3 day conference this week. I have a position here._END_OF_POST_PYSTOCK_ Why not invest in a treasury fund (bond fund) instead of using a savings account? A good vanguard bond fund can give you 3% returns, much higher than a savings account. I'm not sure what I'm missing in thinking it is better to put money into a fund like this than leaving it in a savings account where it barely gains anything with interest rates below 1%._END_OF_POST_PYSTOCK_ ANT IPO Unlikely for 2021 [https://www.theedgemarkets.com/article/ant-said-face-slim-chance-getting-ipo-done-2021](https://www.theedgemarkets.com/article/ant-said-face-slim-chance-getting-ipo-done-2021)
+
+[https://www.bloomberg.com/news/videos/2020-11-30/ant-said-to-face-slim-chance-of-getting-ipo-done-in-2021-video](https://www.bloomberg.com/news/videos/2020-11-30/ant-said-to-face-slim-chance-of-getting-ipo-done-in-2021-video)
+
+BABA just keeps getting shit on. Still a long-term holder, but ouch._END_OF_POST_PYSTOCK_ Sharp (SHCAY) was announced that they would be manufacturing Nintendo Switches; good investing opportunity? The announcement that Nintendo would be switching the Switch’s manufacturers was made 5 days ago.  
+
+Since then the stock has only really gone up about 7%, with a current market cap of 7.3 Billion
+
+Nintendo has been struggling to keep up supply with the demand for Switch units.  Meaning that Nintendo’s 4 million units sold each quarter could still increase.
+
+I don’t know what the cut that Sharp would be receiving per unit would be, but would this be a good opportunity to buy some shares? Also would they go up significantly?_END_OF_POST_PYSTOCK_ $COTY pump or dump Im interested on your guys opinions on COTY with the holiday season coming up being that they are a 5B+ market cap company drawing large investments from big investors as of lately. important to note they did buy majority of kylie cosmetics which is known to sell extremely well around the holiday season._END_OF_POST_PYSTOCK_ (X) Risk Premium? But what are at Risk? In the hope to capture as much the risk premium out there (because I’m greedy), I, as a long-term index investor did a bit of research to gather information about these premiums and it left me confused in this specific aspect. 
+
+It is my understanding that:
+
+“The market is rewarding me, the investor, an (x) risk premium in term of higher long-term expected return because I took more risk”
+
+But if said index’s long term expected return are higher(example: VBR>SPY), then what risk are at stake for my part that I deserve the premium? As an example, I completely understand that TQQQ are providing me more “premium” in exchange for the “risk” that the entire TQQQ can go to zero and never recovers. That make sense. 
+
+However, I don’t see that my money are in a big chunk of risk to permanently lose value if I were to say take on the value premium or equity premium in a decent span of time of 20-30 years. So the “risk” everyone is referring to merely higher volatility? And that it would trailed the market for long periods of time. If it were the case then these are no risk at all since one could easily be negated by simply waiting for the premium to kick in, right?
+
+It seem to me that there are only benefit and zero risk long term to take on, ironically, more risk._END_OF_POST_PYSTOCK_ Funds and stocks: bifurcated automatic investment I invest heavily in index funds, but have a non-trivial percentage set aside for individual stocks as well.
+
+I know exactly what percentage of my portfolio should be allocated to each fund or individual stock. Ideally, every month when I get my paycheck, I would check the current allocations and invest where necessary to get things as close to their targets as possible.
+
+**Is there a way to automate this in one central tool?**
+
+Alternatively, **how can there not be?**
+
+This need seems so common that a solution must exist, but I haven't been able to find it. If I only cared about my Vanguard index funds, I could manage that easily enough through Vanguard with no fees. And for individual stocks, it seems like I could use Robinhood or M1, although Robinhood recurring investments seem to be based on fixed amounts instead of target percentages.
+
+Going with two different systems isn't terrible by any means, but it does mean that I will need to dedicate a fixed amount to each system every month. If my individual stocks underperform against the indices, they will remain underrepresented until I go in and fix things manually.
+
+*Not sure if this qualifies as advice. I'm not really looking for an opinion, more validation that there is not a single solution out there.*_END_OF_POST_PYSTOCK_ IAE: high yielding Asian ETF bought by Bill Gates. According to GuruFocus' Real-Time Picks, a Premium feature, the new holding was established on Nov. 10. Managers of the trust purchased 600,092 shares that traded at an average price of $8.12 on the day of the purchase.
+
+Top Holdings
+
+% of Total Investments as of October 31, 2020
+
+Alibaba Group Holding Ltd.    7.47
+
+Tencent Holdings Ltd.    6.80
+
+Taiwan Semiconductor Manufacturing Co., Ltd.    5.02
+
+Samsung Electronics Co., Ltd.    3.18
+
+iShares MSCI All Country Asia ex Japan Index Fund    1.94
+
+BHP Group Ltd.    1.61
+
+Ping An Insurance Group Co. of China Ltd. - H Shares    1.45
+
+Infosys Ltd.    1.37
+
+Meituan Class B    1.34
+
+CSL Ltd.    1.1
+
+&#x200B;
+
+&#x200B;
+
+Looks good. I'm buying. Also has a 10% yield. 
+
+[https://individuals.voya.com/product/closed-end-fund/profile/voya-asia-pacific-high-dividend-equity-income-fund#portfolio](https://individuals.voya.com/product/closed-end-fund/profile/voya-asia-pacific-high-dividend-equity-income-fund#portfolio)_END_OF_POST_PYSTOCK_ 11/30 Moves Pre-Market Folks, these are the moves I intend to make Monday morning
+
+GME 1300 shares  
+SRAC 10x 17.50C 1/15  
+VGAC 500 shares  
+PIC 50x 17.50C 12/18  
+SNDL 10,000 shares
+
+GME is for the purpose of riding the short squeeze, SRAC is for the potential Momentus merger however legal still has me concerned, VGAC is because I love Richard Branson and I hope this is the Hyperloop IPO but I can't seem to find evidence of that, PIC is for the X Fleet merger that already took place (a bit late to this one), SNDL is a bit risky because they have an announcement on 12/2 and hopefully that announcement is due to a merger or acquisition.
+
+Is there any reason I should avoid doing what I'm about to do at all costs? I feel confident in my picks however input is much welcomed._END_OF_POST_PYSTOCK_ Which traditional auto company will have the strongest EV position five years from now? Ford and VW seem like obvious choices in terms of companies that are positioning themselves now, though it remains to be seen how fully and rapidly they will be willing and able to commit. Anyone else positioned to pull ahead strongly in the coming years?_END_OF_POST_PYSTOCK_ Any other good Video game companies? Recently we've heard a lot about Roblox because of its IPO. I'm definitely interested in the video game industry and wondering if anybody has any other good companies to recommend? I'm thinking that TakeTwo might be a good buy because I expect them to announce the development of  GTA6 within the next 12-18 months (it's been 7 years already!) . Activision has a pe of 27 and looks like a solid buy with all the games they keep pumping out. Any thoughts?_END_OF_POST_PYSTOCK_ All in on ASML I am going all in on ASML. I am an engineer and the systems they are creating are crazy. Crazy amount of engineering knowledge in this big machines. ASML produces machines that ultimately create CPUs out of silicon. ASML has a market share of over 60%. Intel and TSMC and other foundaries are customers of ASML.
+
+I think they are a safe bet and just wanted to tell you guys. And yes I am obviously biased so take it with a grain of salt. 
+
+Here is a youtube video showing the machine if someone is interested https://youtu.be/f0gMdGrVteI_END_OF_POST_PYSTOCK_ Tesla's S&P inclusion might be done in TWO QUARTERS instead of December -- WSJ [Source: WSJ
+](https://archive.fo/Kow4n#selection-2415.0-2424.0)
+
+> Investors who had shared their opinion with S&P have offered another suggestion that appears to have **earned broad support**: breaking the trades up over two different quarters, according to people familiar with the discussions.
+
+>A longer break between the trades would help asset managers digest any sharp moves related to Covid-19 or other news the market doesn’t take well and help keep funds in line with benchmarks, investors said.
+
+Is this going to result in a slight price pull back in December and a volatile two quarters? If you are holding Tesla stock or options, how is this going to affect you? What is your strategy if this is the announced solution this Monday?_END_OF_POST_PYSTOCK_
