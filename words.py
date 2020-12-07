@@ -184,6 +184,21 @@ class wordFreq:
     def loadFromFile(self, date):
         self.count = json.load(open(date + "_word_frequency.json"))
 
+class TopViz:
+    def getTopDay(self, date, size):
+        subs = shared.subs
+        stats = json.load(open(DATA_FOLDER + str(date) + "_word_frequency.json"))
+        c = collections.Counter(stats)
+        return c.most_common(size)
+
     def displayTopByDate(self, size):
         first, last = shared.getFirstAndLastDate(shared.RAW_FOLDER + "investing*.txt")
-        dates = pd.date_range(start=last_date, end=today).tolist()
+        dates = pd.date_range(start=first, end=last).tolist()
+        tops = {}
+        for date in dates:
+            date = str(date).split(" ")[0]
+            topDay = self.getTopDay(date, size)
+            tops[date] = topDay
+        # print(tops)
+        df = pd.DataFrame.from_dict(tops)
+        print(df)

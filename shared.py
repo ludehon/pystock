@@ -7,6 +7,8 @@ RESSOURCES_FOLTER = "ressources/"
 RAW_FOLDER = "raw_data/"
 POST_SEPARATOR = "_END_OF_POST_PYSTOCK_"
 
+subs = ["stocks", "investing", "wallstreetbets"]
+
 # get date from fileName
 def get_date(filename):
     date_pattern = re.compile("g_(.+)\.")
