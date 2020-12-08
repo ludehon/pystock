@@ -1,0 +1,883 @@
+ The prophecy has been fulfilled! ZM $500 Call 12/18 _END_OF_POST_PYSTOCK_ 🌙 🚀🌙 PSTH and the Ever Present Difficulty in Finding the Signal Over the Noise 📈🔊- FINTECH Unicorn DD 2.0 🌙🚀🌙 **💣🌙 🚀 PSTH DD 2.0 - Revisited with New Interpretation 💣 🌙🚀**
+
+I have written a pinned DD previously on this topic here: [https://www.reddit.com/r/wallstreetbets/comments/k3bf1o/psth\_dd\_klarman\_buffet\_ackman\_the\_unicorn\_hunter/](https://www.reddit.com/r/wallstreetbets/comments/k3bf1o/psth_dd_klarman_buffet_ackman_the_unicorn_hunter/)
+
+Many, many of you have DM’d asking for updates and thoughts. Others have posted rebuttals to my original DD in the community. I thank each of you for your thoughtful analysis. I think we've sorted out a lot in the last week. A special thanks to YOLO, who, whether right or wrong, has provided a lot of context on twitter (@YoloCapitalMgmt).
+
+While I have remained somewhat quiet on many of the subsequent points of speculation, I wanted to say a few things before the week begins and provide an update.
+
+Along those lines, this is a response to all of you in the form of an updated DD. Given all that has happened since my OG DD 7 days ago, its warranted and I hope you chose to upvote on the merits of the post quality.
+
+There is a bit of a focus on the Klarman position in PSTH here for a few reasons: a) there has not been a lot reported on this and b) its incredibly interesting that one hedge fund manager makes such a large deposit in a competitor’s experimental vehicle. A second point of interest here is the role Jackie Reses is playing, one we may be significantly underestimating, despite YOLO's work.
+
+\--------------------
+
+Background
+
+In July of 2020, William “Bill” SPACMAN Ackman took the blank cheque company Pershing Square Tontine Holdings Ltd (PSTH) public. The fund raised a record-breaking $4B, becoming the biggest SPAC ever. Investors on the books include big fellas like Seth Klarman and the revered Baupost Group who have invested an astounding $400M position (their biggest to date). Other notables include Guggenheim with a half a billion investment, as well as the Ontario teacher’s union. There is an extremely large outstanding position as well that has yet to be disclosed.
+
+The stock opened at $20 (NAV). Over the course of the last few weeks it has risen steadily in value and now sits at around $26. Much of this rise, and the new 52 week high (>$27) happened early last week following a lot of online speculation over the weekend regarding Stripe, a private unicorn fintech company run by two Irish brothers, the Collisons.
+
+DD Updates
+
+1. New information has emerged related to Klarman views on Stripe and CB that hadn’t previously been reported by our community. In an investor letter he wrote: “"Crpto seem more like tulip bulbs for the digital age." With respect to Stripe, some have made mention of comments he’s made in the past in terms of being “bullish” on stripe.
+2. Again, with respect to the Klarman and the stripe position there are other important pieces of information to think about. Specifically, what Stripe has said about crpto in the past. Taken from the article above, Stripe wrote in a blog post: “"Transaction confirmation times have risen substantially; this, in turn, has led to an increase in the failure rate of transactions denominated in fiat currencies," Stripe said in a blog post. "Fees have risen a great deal. For a regular BitC transaction, a fee of tens of U.S. dollars is common, making BitC transactions about as expensive as bank wires." Some reasonable contemplation here would lead to some obvious conclusions about the likelihood (lack thereof) of a CB PSTH merger.
+
+\--------------------------------------------------------------------------------
+
+New Interpretations
+
+· Jackie Reses is someone we have underestimated. Those more knowledgeable have posted in the other PSTH threads explaining just how big of a player she is in fintech. Her joining PSTH board is gigantic and confirms that Ackman is targeting a fintech. The baseless rumors around food service industry do not \*square\* this circle. She is there for to attract a fintech unicorn and to help it grow. It is incredibly advantageous for Ackman as he will get her on the board, and he has someone he can trust in the Stripe boardroom without going all activist which is what they are worried about.
+
+· The more we read about Klarman, the more obvious it is that he is not jumping in on something that is uncertain. There are a few points to make here. In the past he has said the following. Secondly, we know when he got in which was at an avg price of around $22.40. He could have been in at $20. Why wasn’t he? Certainty is why. He bought in around Q3, after the AirBnB talks were confirmed to be dead. No one knows wtf is going on with AirBnB and that was likely why he may have been hesitant (or just not interested at all in it). In the subsequent weeks, Ackman and Stripe had preliminary talks, Ackman made some comments on Stripe not being ready, they made some comments on twitter and in the press and then they went on a hiring spree for public play. What happens just around that time? Klarman’s Baupost buys $400M stake putting 5% of their AUM into PSTH. Ackman is completely able to chat with his investors on how negotiations are going. Something happened in October that we are unaware of.
+
+· Stripe and PSTH do not stand to benefit from the hype online if they both know now that this deal is a at 0% of happening. The hype surrounding Stripe is what has led to the new PSTH highs. Literally that is all that’s happened recently that would lead to such dramatic changes in the stock price and after-hours volumes. Going forward, Stripe would benefit from squashing this deal super early in the press to soften that blow and get investors in a comfy spot again in terms of reasonable expectations. They have not done so. Ackman was on twitter this weekend and said nothing. He gave an interview last week talking about how bullish he is on FNMA but said nothing about Stripe when asked about the SPAC. Similarly, Stripe has not outright denied the deal happening. Why is this important? 1) they easily could have 2) their employees are following Ackman, and this would be a huge distraction to their workforce (incentive to crush the rumor). Ultimately, this may not be evidence that talks are ongoing, but it is suspicious. Additionally, they have been floating the valuation during interviews with the press. Just like Ackman saying they are not ready from a public managerial perspective, they could be simply negotiating here, upping the ask price for an in.
+
+· Finally, on the point about Stripe’s new valuation. Astute investors and researchers will have stumbled across this Bloomberg article. It clearly argues the risks that come with going this route re: funding. [https://www.bloomberg.com/opinion/articles/2020-11-25/a-100-billion-valuation-poses-risk-for-silicon-valley-fintech-star-stripe](https://www.bloomberg.com/opinion/articles/2020-11-25/a-100-billion-valuation-poses-risk-for-silicon-valley-fintech-star-stripe)
+
+A few very interesting points from the article that we should consider carefully:
+
+o Shares in Stripe's Dutch rival Adyen have more than doubled in value since the start of the year, outperforming Europe's benchmark index.
+
+o That has allowed Adyen to charge less than Stripe, since it’s more affordable to scale your services for large clients than for a panoply of smaller ones.
+
+o The new funding round might give the Collisons the choice of pushing any prospective initial public offering further down the line, but a punchy private valuation might also make such a delay necessary. If e-commerce growth slows once life returns to a semblance of normality, then justifying a $100 billion valuation to the public markets could be tougher.
+
+· This is relevant for a couple of reasons. It sheds light on the issues with such a huge jump in valuation now and the potential problems they may face in the future in justifying that valuation (even if a potential IPO is 2 years out for them, for example) when e-commerce boom from covid slows down a bit. That is not to say Stripe is a monster that will do well, but it is to say there’s something to be said for not putting the cart before the horse, or the unicorn in this case.
+
+\--------------------------------------------------------------
+
+Concluding Remarks
+
+In closing, PSTH offers Stripe a unique opportunity to evade a lot of this nonsense and collect public investors who will stick with them over the long term. The investment in a PSTH deal for 15% of the company will serve them well in the future as the company can grow on its own terms and focus on the product and not be distracted by the markets. It also lets them get in within 45 days of signing the LOI, while this boom is still happening.
+
+That’s all for now folks. I expect to see another massive gap up tomorrow in this stock. The trend started last week, and this play isn’t falling off anyone’s radar. Good luck. Its going to be a wild week.
+
+\--------------------------------------------------------------
+
+Positions
+
+4,000 commons at $23.80
+
+A few small June contracts and a very small Dec contract
+
+https://preview.redd.it/u356ag25en361.jpg?width=820&format=pjpg&auto=webp&s=21dbd5924854a9f7e422d46efdda11f0cc78ebe6_END_OF_POST_PYSTOCK_ What Are Your Moves Tomorrow, December 07, 2020 Your daily trading discussion thread. Please keep the shitposting to a minimum. 
+
+^Navigate ^WSB|^We ^recommend ^best ^daily ^DD
+:--|:--                                 
+**DD** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADD) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=week)
+**Discussion** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADiscussion) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=week)
+**YOLO** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AYOLO) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=week)
+**Gain** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AGain) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=week)
+**Loss** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ALoss) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=week)
+
+[Weekly Earnings Discussion Thread](https://www.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3A%22Earnings%20Thread%22)
+
+Read the [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide) and consider using [WSBVoteBot](https://www.reddit.com/r/wallstreetbets/wiki/votebot) to help us enforce them in [new submissions](https://www.reddit.com/r/wallstreetbets/new/) and keep WSB great._END_OF_POST_PYSTOCK_ Kate Bush PLTR DD _END_OF_POST_PYSTOCK_ Gold gang winnings. Rolled everything into 70 contracts of GDXJ $48C expiring this Friday. $2000 gold end of month imo _END_OF_POST_PYSTOCK_ Palantir bagholders be like... _END_OF_POST_PYSTOCK_ How fucked am I? On a scale of retard - autist _END_OF_POST_PYSTOCK_ Jews and Gingers - A Degenerate's guide to investing $3,000,000 in PSTH Conjecture! # The Synopsis - Nothing new, just wrapping it in a bow
+
+Alright Handi-Capables, buckle up - I am going to tell you about a little WSB speculation that may be either the biggest fraud of all time or the most epic DD ever to have occurred in WSB history. A lot of this information comes from a real dick head named breadfruit. This guy is a real piece of work, but I've come to have a real good working relationship with him as we've discussed theories behind Pershing Square as well as the most hyped target being discussed, STRIPE. This thread is really meant to just outline all the history, the theories, the risks and the potential moves that you can do to minimize risk. **I don't want this to turn into the great NRPLing of 2020, where PURPLE had the best quarter of all time but you Degenerates all sold off because they didn't announce an electric vehicle or an Ipad powered exercise bike. Warning to all: This is purely speculation, this SPAC is trading at 30% above NAV which is pretty damn unprecedented without any news. So be cautious as the downside might be 5-6 dollars per share should Bill announce a terrible DUD of a target. This post is not advice, really just general information that I am trying to present in an un-biased way. PSA: I am biased as hell though, hence my 3M investment, although I don't buy all the theories presented by some people on the forums. Also, there is a very good possibility that this SPAC doesn't acquire STRIPE.**
+
+First of all, for those of you not aware, PSTH is a SPAC led by Bill Ackman **(A very successful billionaire Jew, hence the title - Not an anti-Semitic post, genuinely aligns with the theory of an announcement soon)**. A SPAC is a special acquisition company that aspired to bring a company public through a reverse merger. The new entity receives a cash infusion and the SPAC holders shares become stock units in the company that trade on the open Market. SPACS are essentially just a giant cash reserve used to purchase a company. This particular SPAC IPO'd with Units being traded for 20.00 and 20.00 NAV in the trust. The units have since split into Warrants and Shares. As of last week, warrants were trading in the high single digits and shares were trading just below 26.00. Regardless of what the stock trades at, the NAV will remain fairly constant at 20.00 per share. For discussions sake, I am going to consider 20.00 as the theoretical floor as it would be very unusual for a Pre-Merger SPAC to drop drastically below NAV. Once a SPAC merges, the 20.00 floor is removed and market demand and market conditions determine the share price going forward. There have been many theoretical questions thrown around about how much this will jump on an announcement and the answer is **that no one knows until the terms of the deal are announced.**
+
+The SPAC Structure and Anchor Investors
+
+Now that we have this out of the way, let's talk about Bill Ackman's SPAC. This SPAC launched on July 22nd, 2020, the SPAC sold 200,000,000 units for a total trust size of 4 Billion USD. There were additional clauses in this filing that allow for even more units to be issued to increase the buying power of the SPAC to somewhere in the 7B range. The SPAC was subscribed by some very Reputable investors. Investors Included :
+
+[Large institutions](https://preview.redd.it/4hl94rpxhm361.png?width=1317&format=png&auto=webp&s=fb7bfe45088a3c7d2b1b35800cd519b86b31f879)
+
+# Largest Institutional Investors
+
+As you can see, you have some whale investors that include Wells Fargo, Baopost hedge fund, Soroban capital and Guggenheim. Well over 2B dollars is held by these 12 investors. According to the filing, institutions own about 65% of the public float. On Bill Ackmans last hedge fund call he indicated that because there was so much interest in this SPAC, he was able to hand pick his investors. Many of these investors are likely sovereign wealth funds or family offices that do not file and therefore we have no insight into whom they are, but Bill does.
+
+Each one of these investors owns common stock that was likely issued after the units split. For those of you that aren't aware, this SPAC has 3/9 of a common warrant per share. 1/9 was issued during the split from the units and the other 2/9 are issued to common share holders that hold through a merger. These warrants have a 23.00 strike price and they can be redeemed after the stock trades above 36.00 for a defined time period. If you don't know what a warrant is just ignore this paragraph.
+
+This SPAC was designed with very favorable terms that ensure the sponsor's goals align with the company goals and don't create a conflict of interest. Many Many Many Many SPACs have very favorable terms that leave the sponsor's rich and the investors holding bags.
+
+This is a very very good article that defines conflicts of interest within SPACS. PSTH has eliminated many of these issues and Bill Ackman's interest align with ours, in fact Bill can't make money until the investors reach a certain threshold of gains.
+
+[https://www.sewkis.com/publications/spacs-are-back-back-again-what-you-should-know/](https://www.sewkis.com/publications/spacs-are-back-back-again-what-you-should-know/)
+
+This SPAC hard garnered many anchor investors and its structure is very very favorable as compared to its peers. Bill is setting a new precedent in the SPAC world and it will be interesting to see if other sponsors do the same. This is a key differentiating factor as to why this SPAC is very premium.
+
+Targets and Timing
+
+When this SPAC first launched, Bill Ackman indicated that he would likely find a target within 6 months and merge shortly thereafter. Bill also indicated that he was looking for a minority interest in a unicorn that met certain criteria. Here is the criteria as pulled directly from Pershing Square's website. On the last Pershing earnings call, it was indicated that Bill so no reason that he wouldn't meet his original timeline of having a target announced by Q1 and a merger by Q2. January 22nd is the official 6 month milestone from when the SPAC first began trading. **EDIT: The theory is Bill will announce before Hanukah which starts on Dec 10th or 11th.**
+
+* **Simple, predictable, and free-cash-flow-generative.** We will generally seek companies with a proven track record of growth and free cash flow generation, and predictable future financial performance that we expect will generate strong, sustainable growth in cash flows over the long term—however, we are open to considering a company that may, at the time of the initial business combination, be cash-flow negative, if we believe that the business’s cash flow will become positive within a reasonable amount of time;
+* **Formidable barriers to entry.** We will seek companies that have long-term sustainable competitive advantages, significant barriers to entry, or “wide moats” around their business, and low risks of disruption due to competition, innovation or new entrants;
+* **Limited exposure to extrinsic factors that we cannot control**. We will seek companies that are not materially affected by macroeconomic factors, commodity prices, regulatory risks, interest rate volatility and/or cyclical risk;
+* **Strong balance sheet**. We will seek companies that are conservatively financed relative to their free-cash-flow generation, after taking into consideration the de-leveraging effects of the initial business combination;
+* **Minimal capital markets dependency**. We will seek companies that can benefit from being a public company with broader access to the capital markets and greater governance, but will prefer companies that are not highly reliant on the capital markets to operate and grow their businesses;
+* **Large capitalization**. We will seek companies with large enterprise values and significant long-term growth potential that will be likely candidates for inclusion in the S&P 500 index;
+* **Attractive valuation**. We will seek companies at an attractive valuation relative to their long-term intrinsic value; and
+* **Exceptional management and governance**. We will seek companies that have trustworthy, talented, experienced, and highly competent management teams. These companies may be led by entrepreneurs who are looking for a partner with our expertise to execute on the next stage of their growth. For target companies that require new management, we will leverage PSCM’s experience in identifying and recruiting new management.
+
+After providing this criteria, Bill indicated there were likely 150 companies that were considered mature unicorns and \~50 of them would meet all of Bill's criteria. Also, Bill indicated there may be other potential targets that are subsidiaries of other companies.
+
+According to the World Wide Web, here are the list of some potential unicorns.
+
+[https://www.cbinsights.com/research-unicorn-companies](https://www.cbinsights.com/research-unicorn-companies)
+
+Some of the most well known being:
+
+* SPACEX
+* COINBASE
+* BYTEDANCE
+* STRIPE
+* AIRBNB,
+* INSTACART
+* EPIC GAMES
+* Door Dash
+* DJI
+* SHEIN
+* CHIME
+* JUUL
+* ROBINHOOD
+* WISH
+* ARGO
+* TOKOPEDIA
+* SOFI
+
+# The Stripe Conjecture - Initialize Tin Foil Hats
+
+If you don't want to hear the theories, then stop reading now as this is just going to really summarize many interesting snippets of information that don't necessarily mean anything but are certainly interesting.
+
+* Jackie Reses Stepping down from Square and maintaining a board seat on PSTH
+   * Jackie was the head of capital for square
+   * Stripe just launched Capital
+   * Jackie is a baller and has more big Dick energy than any man, woman or child alive when it comes to finance.
+   * Jackie has liked several PSTH related tweets, but she has also like other tweets about other financial institutions. This might just be purely coincidence.
+   * Why would Jackie step down from Square but retain all her other board seats, including those on Chamanth's SPACS. Is there a conflict of interest?
+* Bill Ackman following Collison Brothers on Twitter, he doesn't even follow the CEO's of all his biggest investments.
+   * Bill only follows 182 people
+   * Bill Doesn't follow the CEO of Lowes
+   * Bill Doesn't follow the CEO of Chipotle, as far as I can tell - CEO's twitter appears to be private
+   * Bill Doesn't follow Hilton's account, CEO doesn't have twitter as far as I can tell
+   * Bill DOES follow Starbucks CEO
+   * Bill Doesn't follow Agilent CEO
+   * Bill Doesn't follow Howard Hughes companies or leadership as far as I can tell
+* John Collison Following Breadfruit on Twitter (Yolocapitalmgmt)
+   * This dude is a billionaire that is following a WSB degenerate posting conspiracy theories.
+
+https://preview.redd.it/spvepib4im361.png?width=670&format=png&auto=webp&s=767c5a23b4f64208d9c11d2d27f1e69f040ccf5f
+
+* This dude is one of the original Irish stripe employees.... he has since unfollowed but he was. His name is Brian Delahunty
+* Wells FARGO invested in a PRE LOI SPAC - What the hell?
+* This is the one that I can't figure out. Why in the hell would wells FARGO invest in a shell company if they didn't have any inclination as to the target. HAS THIS EVER HAPPENED BEFORE? We know that wells fargo and stripe do have a relationship
+* SETH KLARMAN INVESTED IN A PRE LOI SPAC
+   * This is another ODD one. This is basically Seth Klarman saying hey Bill, your Hedge fund can invest my 400 million better than me?????????????? These are two different hedge fund manager and one of them is investing in the other. This is absolutely weird.
+* The size of the SPAC limits targets: why so big Bill???????
+   * Why in the world would Bill limit his options to such a small amount of companies, companies that are typically already backed by big money...... This is another point I can't wrap my head around, why in the world would bill launch a SPAC of this size without having preliminary top level talks. The sheer size of the SPAC is telling, he knew he wanted a whale and if he didn't think he could get one he would've maybe gone with a 2B dollar SPAC with the option to increase to 4B, INSTEAD he went with a 4B SPAC with option to go all the way to 7B!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+* Why would the Collison brothers have talks at all with Bill if they didn't intend to go public? The brothers are some smart ass Ginger Snaps and they knew Bill had a giant ass blank check. Many people are saying the Collison brothers will IPO and they don't need Bill... Why waste your time meeting with Bill if SPACing wasn't a possibility and going public wasn't a near term event?
+* Why hasn't Bill or the Collison's denied it
+   * Bloomberg denied rumors within an hour
+   * Airbnb Denied rumors within days
+   * Not a single Denial statement from Collisons or Big Dick Bill.
+* So far only known talks have been between Bloomberg, Airbnb and Stripe. These are all tech plays so we can hopefully expect the final deal is a tech play.
+* Collison Brothers are going for funding at a much higher valuation
+   * Why would they be going for funding, they just got funding in April. Also, it's rumored that Stripe is potentially already profitable.
+* Bill Ackman indicated his biggest regret was missing the boat on Mastercard
+* Bill Ackman is taking a minority stake so the terms are more appealing to unicorns as they can maintain control, raise funding and have large anchor investors that aren't worried about short term gains.
+
+# The ANTITHESIS to the conjecture
+
+* John Collison is trolling - If there was a deal why would John troll.
+* The Collisons just indicated they were not preparing a flotation.
+
+https://preview.redd.it/4kxncd8him361.png?width=643&format=png&auto=webp&s=5c8a4b2a3124c3c781cb634a29bbcf7582275e66
+
+* The Collisons are a freaking darling that can raise private equity whenever they want, they really don't need Bill
+* Jackie Reses has trolled Breadfuit AKA Yolo on twitter
+* STRIPE doesn't need funding
+* Bill Ackman's historical investments are not fintech, why would he start
+* Big Unicorns don't want bill because he is an activist.
+
+# The Risk to Reward
+
+* You need to be aware that this is trading at a 30% premium to asset value. This means that for every share you buy at 26.00, there is only 20.00 of money in the trust being used to acquire the company. This means that we need to land a good company with good terms to justify the premium.
+* This SPAC is huge, it's not likely to quadruple like some of the other spacs.
+   * If a great deal is reached with a real hype company then we might see 35-40 pre merger and 40+ post merger. Otherwise, we will probably see 30-35, depending on the terms.
+* The SPAC has 2 years to make a deal and we are only \~5 months into this duration. Your money could sit idle for another 18 months.
+* Warrants expire worthless should a deal fail to materialize. This is why I am not specifically buying warrants, although I do expect a deal will materialize.
+
+# Why I invested
+
+* I like Bill Ackman, he gets it done, he is smart, pragmatic and he learns from his mistakes.
+* This is really an investment in Bill, similar to investing in TSLA, it's really an investment in leadership, not so much the product.
+* Bill does have a relationship with some big players and he will land a good deal no matter what. Even if this is not Stripe, I will likely hold everything long term.
+* Tontine structure is appealing and it rewards holders. Google Tontine if you don't know what it is.
+* If they do get Stripe, you are getting Young visionary leadership and frankly I think the Collison's are probably stand up guys. In the back of my mind, I believe that they might SPAC to give the average joe an opportunity to invest; they seem more motivated in building an empire of amazing financial infrastructure products than getting egregious valuations
+* If they Don't get Stripe you are still getting Bill Ackman and Jackie Reses hunting for a company - they are both legends.
+* Anchor investors presented above indicate they are bullish on Bill, not to mention they limit the available float and if it is a epic deal, anchor investors holding will help push price of stock upwards.
+
+# The Plays
+
+* I am only buying commons.
+* For those that want options, I wouldn't buy any options earlier than a march '21 expiration and a 20.00 strike.
+* If I were buying options I would buy June expiration 15.00 strikes.
+* My previous posts outline why I believe just buying common stock is the way to go. Ticker is PSTH.
+
+# MY POSITIONS
+
+&#x200B;
+
+[My Common Stock](https://preview.redd.it/7ywotz3kim361.png?width=1512&format=png&auto=webp&s=e66fa3bffd4b93319883bdd3196c7f954479237a)
+
+# TL:DR
+
+* Bill will probably buy Subway and we're all FK'd.
+* Don't buy because it might be stripe, buy because it's Bill and Jackie.
+* Don't buy lotto's as I don't believe this SPAC will react like others.
+* This isn't investing advice. This is my thought process spewed about on a forum.
+
+MODS- Not sure if this qualifies as DD or not, but if it doesn't PM me and I will change it to story time or shitpost._END_OF_POST_PYSTOCK_ Stock market news [12-06] | Jobless claims impact on the stock market | Stock market crash or growth in 2021? **The latest jobless numbers came in bad while the stock market keeps pushing forward, is a stock market crash coming soon? Let’s talk about this and the latest stock market news**
+
+Hey everyone! So let’s start with the recap off Friday as we saw the broad market [SP500](https://ibb.co/HD8WbDT) leading the way up 0,88%, with the [DOW Industrial](https://ibb.co/sCt0FJj) close behind up 0,83% and the [Nasdaq COMPOSITE](https://ibb.co/dDhWbBG) also gaining a decent amount, up 0,7% with all 3 big indexes closing at all-time highs.
+
+We saw more than ¾ of the [stocks](https://ibb.co/CB6cSMn) advancing despite below average volume as companies either small, mid or large cap value or growth [stocks](https://ibb.co/qCNqN5G) were gaining except large-cap growth.
+
+The best gaining [sectors](https://ibb.co/d6f58Mf) were Energy and Materials up over 2% while Utilities finished 1% down on Friday, as Utilities were the only sector to finish the week losing significant ground, with Consumer Discretionary also dropping just 0,12%. With the rest of the sectors in the green, Energy, Health Care, Technology and Communication being the biggest gainers finishing the week up over 2%.
+
+[Utilities](https://ibb.co/Bz8TnvP) have been hit hard in the last year as residential consumers and small businesses have been able to defer paying power bills, this will continue to hold down the sector for now with the debt still increasing.
+
+The VIX also dropped more than 2% on [Friday](https://ibb.co/18qjBx7) and finished the [week](https://ibb.co/7KyfPxQ) over 5% down as the [HEAT MAP](https://ibb.co/sKhhfx6) from Friday shows us that there were plenty of gains to be made especially in the Energy Sectors as well as Financials, with the big companies from the Tech and Communication sectors doing worse than the rest of the market.
+
+For the week though this [HEAT MAP](https://ibb.co/92hRtQL) shows that Apple was one of the biggest gainers alongside Semiconductors and Energy Names while Health Care companies like JNJ and Pfizer also did very good.
+
+The big indexes all finished higher for the [week](https://ibb.co/b3Gb4HN) with the SP500 up 1,7%, the Nasdaq Composite up 2,1% and the Dow up 1% with renewed hopes for a stimulus package being back on the table.
+
+Here are the most interesting economic [reports](https://ibb.co/j84CkLT) for next week, it will be a light week in terms of economic data but still, the market may be volatile and trends may change depending on some of the results.
+
+So, on Friday [November JOBS](https://ibb.co/r0JPtCs) came in much lower than anticipated, coming in at 245K vs de 610K in October and 469K estimated while the unemployment [rate](https://ibb.co/M9mNBMT) dropped to 6,7% a bit better than expected and down from 6,9% in the past month. Still there are over 10million people unemployed, this number more than doubling since the start on February. The [net addition](https://ibb.co/F54hcKb) of jobs in November was the [smallest](https://ibb.co/dWKmZWH) since May as government jobs were the [worst performing](https://ibb.co/F54hcKb) while transportation and warehousing jobs continue to increase, as big companies … aka Amazon has hired almost 3thousand people per day this year. But the bad news is that [long-term](https://ibb.co/HFZFhyC) unemployment is approaching the peaks from the Great Recession and that is not good news for the economy or the stock market as over 3,9 million people have been out of work for at least 6 months.
+
+So, this is pretty bad news as mortgages in [forbearance](https://ibb.co/NLcDmYP) just slightly declined this week, by just 39K with more and more plans planned to expire in December, over 1M more exactly, more than 40% of active cases.
+
+This may finally put some extra pressure on the Congress to agree to a relief package maybe even passing it alongside the government [funding bill](https://ibb.co/1qkTnsD) that is still debated and has over 300 issues that the parties don’t agree on.
+
+This is becoming more and more obvious as [cases](https://ibb.co/6y9FTjV) in the US continue to rise, coming in over 200k in the last 2 days and the economy will soon feel the pressure from this, I expect the next month or two of economic data to not be so good, this may be the time the market sees a 5-10% correction before moving on higher on more positive things like the availability of the vaccine, the passing of the torch In the Presidency and a possible relief package.
+
+Yes, this will continue to add to the [US DEBT](https://ibb.co/QjSPcdB), but even though I don’t have any partisan views, a good structured relief bill would do wonders for the economy as a bridge to when the vaccine will finally be widely available.
+
+Yes, I know that the global debt is set to reach $200 trillion but the DEBT-to-GDP [ratio](https://ibb.co/LhWkxKJ) is projected to slowly go back down in the next couple of years.
+
+Other numbers that came in on Friday were [Factory ORDERS](https://ibb.co/xm7JJ2Q) which came in better than expected at +1%. While a new Redfin report indicates an increase in [average home prices](https://ibb.co/pXYNGcz) year over year of 16% with the number of pending home [sales up](https://ibb.co/2nw00m3) almost 30% over last year while new listings of home sales is [up just 9%](https://ibb.co/v3nyLPZ) since 2019 and dropping rather fast in the last months with sales of homes going for all time-high [prices](https://ibb.co/gmvRPd7) at 99,5% of the asking price as the real estate market keeps booming along.
+
+The other number that came in on Friday and was not so good was the [trade deficit](https://ibb.co/42nsy2W), which widened even more in the last month by almost $2B.
+
+So next week is again pretty slow in [earnings reports](https://ibb.co/Xkr4f4P) with the most interesting ones on being Chewy, GameStop, Adobe, LuluLemon, Dave&Busters, Costco, Oracle and Broadcom.
+
+I own a small stake in all of them except Oracle and GameStop. I don’t see such a big growth opportunity with Oracle while GameStop I believe will struggle to turn around the business with very though e-commerce competition.
+
+We will also have a number of new [IPOs](https://ibb.co/0jQWwTf) this week from DoorDash, AirBNB, C3.ai, Hydrofarm and Pubmatic. The first 3 are more interesting for myself but I will only take a first look at AirBNB and at what price that stock goes public to maybe get some action, I think we will a much bigger price than the 44-50$ price range to begin with for public trading. I also expect the same thing to happen with DoorDash which has already raised the IPO [pricing](https://ibb.co/Y8VSCpV) to 90-95$ but I am not very interested to buy that stock, as this type of economy has hugely benefited them and it might see a decrease rather than an increase in the next couple of years.
+
+So, guys I still believe the stock market has upside in front of it, especially in the next 2 years, but you should tread careful for now, I think a possible correction might be just ahead before we move on higher, as you can see in this [CHART](https://ibb.co/9g0bJdj), a wedge formation is continuing to from with more and more tension, I believe there is about a 6,5% possible downside to the market at the moment before eventually getting back on track next year and going toward the 4000 level. And especially with the most recent jobless numbers in the US, I would try to diversify a little more especially with some EAST-ASIA exposure in countries like South Korea, Singapore and China also.
+
+Thank you everyone for reading! Hope you enjoyed the content! Be sure to leave a comment down below with your opinion on the stock market!
+
+Have a great day and see you next time!_END_OF_POST_PYSTOCK_ Index Fund People vs. Stock People Why is there one cohort of people who promote index investing and that you “can’t beat the market,” and another who promote picking stocks/timing the market and the belief that beating the market is possible?
+
+There are books written about both. Both sides are adamant they’re right.
+
+Are index fund people just failed/jaded stock people? Are stock people just ignorant and being sold a bill of goods to believe beating the market is possible? 
+
+Is this whole industry just one giant scheme?
+
+It’s curious. Any thoughts?_END_OF_POST_PYSTOCK_ Fearless _END_OF_POST_PYSTOCK_ All we want for Christmas is more Kohl. The bullish case for retail giant KSS My fellow mentally challenged brethren, it's time to lick our wounds from last week and ~~lose~~ make some more money.
+
+Hopefully a few of you read and benefited from my DD and predictions from my [SPG](https://www.reddit.com/r/wallstreetbets/comments/i9wlle/simon_property_group_spg_is_about_to_lift_off) post a couple months ago.     Lately, aside from getting my lunch and shirt stolen by PLTR I have been [playing options ](https://imgur.com/a/jzSJxrL)around the insane [Kohl's comeback](https://i.imgur.com/8tx1CBf.png) (and retail/REIT's in general tbf) that has seemingly gone completely unnoticed here.  Now, I do believe we are in for a week of market consolidation very soon all around but I have reason to believe Kohl’s might be trending towards pre-corona highs over the next 2 months and potentially all time highs over the next year.
+
+Hear me out autists, we should all want some Kohls in our stockings this Christmas.
+
+# KSS is not done climbing.
+
+First off, in case you missed it: **Kohl’s (KSS) is up +25% the PAST WEEK  and 92% over the PAST MONTH**. *What the fuck? -* is right my friend. - KSS currently trades at $40.90 after finishing an absolute burner of a week on the heels of [announcing their new combination store](https://www.barrons.com/articles/kohls-stock-sephora-coming-kohls-stores-51606836094) deal with Sephora makeup, you know that expensive lipstick your wife puts on to meet her boyfriend but wont touch for you? Ya them, they are coming to a Kohl’s stores near you next year and trust me when I say this: **The full scope of the increased customer exposure between Sephora and Kohl's Amazon Return program has not been fully realized by the market yet**,  they are still criminally undervalued by -25% from where they were before Coronavirus in spite of returning to profit in Q3.
+
+**Store retail is not dead you fucking idiot**
+
+Kohl’s is a fucking comeback champion.   If you think in-store retail is dead or on the verge of dying, then you actually need to get out of your basement at least once next weekend to see for yourself how alive and well it is. KSS has emerged several times in the past through various economic downturns- they were among the first retail giants to weather the 2009 recession and return to value- and if you have use of the brain behind that helmet you can see they are balls deep with a massive veiny erection as they do it once again.
+
+https://preview.redd.it/wor64z93am361.png?width=1901&format=png&auto=webp&s=3adb4eef81733fb0fa45e390238b826f904d73b7
+
+&#x200B;
+
+https://preview.redd.it/aqok2d7h8n361.png?width=1619&format=png&auto=webp&s=deb7fb9516c1f7ae1fee3fa5086714a1f2c2fc51
+
+&#x200B;
+
+**Post-Pandemic Retail Consolidation favors the big boys**
+
+They have already made and absorbed all the necessary changes and costs to maintain an open store in the face of the pandemic and somehow maintained a cash positive balance sheet on the year despite losing out on nearly a quarter of shopping days this calendar year.   Bullish AF\*
+
+KSS is not sitting still while others have already fallen or shuttered - they have been among the most proactive department stores in adapting to the shifting consumer habits in the retail sector and I wouldn’t be the least bit surprised to see KSS reach all time highs (70+) by Q3 2022 or even sooner.
+
+***Kohl's staying power has been solidified*** through this turmoil and the financial illiquidity of their competitors only presents less alternative consumer options. *(R.I.P JcPenney gang*)
+
+&#x200B;
+
+**MY TAKE**
+
+My erection peaked for them during the last earnings call when the CEO reinstated the annual dividend which gave us the first clear internal indicator that they believe the worst is behind them.
+
+>*Our third-quarter results exceeded our expectations with significant sequential sales and profitability improvement. We also further enhanced our financial position during the quarter, driven by solid operating cash flow.* ***We ended the quarter with more than $1.9 billion in cash and no amount outstanding on our revolver***\*. Based on the progress we are making and through disciplined capital management, we are pleased to share that we plan to reinstate a dividend during the first half of 2021\*. - Michelle Gass, CEO
+
+The Sephora deal is a game changer for them bringing in an entire industry of shoppers that has also largely remained an in person shopping experience.  When women shop for clothes and makeup they still prefer not to buy on Amazon due to fit, size, and color inconsistencies.
+
+**EARNINGS FOR NEXT QUARTER WILL EXCEED ANALYST EXPECTATIONS**
+
+[Earnings momentum](https://i.imgur.com/W3mlxOa.png) is a quirky nerd formula that measures the acceleration or deceleration over a trailing 12 month operating of earnings per share growth - the upward curvature of the plotted points indicates that while earnings declined, due to a fucking pandemic, the recent movement shows rapid acceleration in quarterly growth rate when adjusted for their earnings and market volatility.
+
+**TLDR**: An improvement in future earnings growth, and a faster than expected full recovery is highly likely given their current trajectory of revenue return.   The new Sephora deal bringing positive/encouraging news, just before an expected Christmas retail run.  Investor sentiment is going to remain high and Nat King Kohl is about to bring Christmas joy to all of us.
+
+&#x200B;
+
+**PREDICTION:**
+
+**KSS i**s about to flex towards pre-corona valuation levels in the next month of trading **(46.00+) (+15%)** and will continue on an upward climb to **55.00 (+40%) BY 12/2021**
+
+**POSITIONS:**
+
+**- 300 Shares @ 25.5**
+
+**Shares will likely return +14-18% over the next 60 day trading window.**
+
+[Options](https://i.imgur.com/wx2Mf5Y.png) **are extremely expensive right now due to the IV runup from last week, so look for a pullback or an overblown morning drop this week to enter anything before 1/8.**  Know that this play is safe so when the market starts tanking wait for your entry point
+
+&#x200B;
+
+**KSS 12/24 40c and 39c**
+
+**KSS 1/8 40c**
+
+**KSS 1/21/22  45c / 50c**
+
+Godspeed retards, happy trading.  I am not going to load this up with rockets and space emojis because we're not immature children.  So instead, I leave you with some chart analysis
+
+https://preview.redd.it/9iwufpcubm361.png?width=862&format=png&auto=webp&s=9604b5aa96298882276d9bdd322595e6d68a5bf0
+
+&#x200B;_END_OF_POST_PYSTOCK_ Good job Degens. Option call volume. _END_OF_POST_PYSTOCK_ It's not about tendies...it's about sending a message. Everything burns. _END_OF_POST_PYSTOCK_ $GME GameStop short interest vs. share price - a story of console cycles _END_OF_POST_PYSTOCK_ $GME Earnings 12/8/20 – Will Gamestops’s Shops Shock the Stock? > It’s 12/8/20 and you’re sitting at home in the middle of your 500 sqft apartment in the throes of the third wave of the COVID-flu Pandemic. Like tens of thousands of other former $DIS corporation cast members, you’ve been laid off for months and are bored out of your fucking mind. Who knows how you’ll pay for rent next week? Having stretched your $1,200 Trump bucks as far as possible, you’ve begun considering cashing in and seeing if there’s a market for Sheriff Woody on OnlyFans. You always knew it would come to this; you think to yourself as you gaze upon your old $DIS corporation costume. 
+> 
+> Fortunately, before you can hit submit on those naughty yet magical pics, an old buddy, Tom Nook, calls you up to drop a fat tip. That’s right, good old Tom got a job working for $GME Stop, and they’re hiring people just like you. After a quick 5 minute conversation, you’ve got yourself a new high paying retail job. Better yet, the company respects your rights, given by God, and doesn’t require you wear a mask or submit to humiliating “health and wellness” checks every morning like Biden supporters and the Fake News love to do.
+> 
+> Much like investors in $GME Stop’s stock, you’ve hit the jackpot. Everything’s going to be OK; the only Woody you’ll be sharing this Christmas is with your store manager in the stock room.
+
+The COVID-flu hit traditional brick and mortar retail stores like a songbird flying 28 mph into a lit window at night. While most retailers were grossly unprepared to handle the drop in sales and health risks associated with this event, $GME Stop had nothing to lose. In a world where swans are black and coronavirus is fake, $GME Stop ignored health and safety recommendations, securing their status as a coveted "essential" business, and putting shareholder value first while competitors were duped and distracted by fads like face masks and toilet paper. Furthermore, $GME Stop has been a bastion of hope for other brick and mortar retailers to aspire to during these unprecedented times - doing things like stocking more than one PS5 on Black Friday unlike Best Buy ($BBY) or Target ($TGT) who “discouraged” us from camping out in front of their stores and “requiring" face coverings on threat of expulsion.
+
+With new VR and 3D television technologies on the horizon, and with the rise of Mobile Gaming, financial institutions are sure to be clamoring for $GME Stop shares following earnings on Tuesday. It’s undeniable, millions of Americans are sitting at home, and the demand for adult entertainment has only continued to grow during these difficult times. From the hottest consoles to the sexiest Switch games, $GME Stop is well positioned to pleasure and delight customers across the globe for many years to come.
+
+**TLDR; $GME Stop may shock shorts and pop after inspiring investors to embrace their animal spirits following earnings on Tuesday.**_END_OF_POST_PYSTOCK_ Salesforce CEO Marc Benioff on Slack acquisition: Customers will 'truly be excited' _END_OF_POST_PYSTOCK_ Micron Technologies to the Moon So real old heads remember everyone's favorite meme stock from 2017. This bad boy was pulling in money left and right and was trading at a sexy P/E of under 14$. Micron Technologies was trading under 10 bucks before our man main entered the picture, Swag Master Sanjay Mehrotra in 2017 and ever since Micron Technologies has boomed to a beautiful 72$. So what is Micron technologies, and why is it going to make you rich:
+
+&#x200B;
+
+**What is Micron Technology?**
+
+They're a company that specializes in producing NAND flash Semiconductors. Think the type of semi conductors used in your USBs, memory cards, cell phones and other small devices that lack the sizes for larger forms of dedicated storage. 
+
+**What has been happening during the Rona**?:
+
+Micron crashed in February in anticipation of a decline of the global NAND market due to Corona's effects on the supply chain. However this disrupted China's ability to flood the market with semi-conductors and as a result allowed Micron to gobble up a huge amount of the market share. Another [WSBs DD post put it better than I could](https://www.reddit.com/r/wallstreetbets/comments/f7emhl/micron_technology_mu_dd/). Go read his post as well to get a better idea of what''s been happening over the last few months with Micron:
+
+&#x200B;
+
+>The memory trough has finally bottomed. Micron did not lose money. How do I know it has bottomed? Earnings from other tech companies. They have been investing in data centers because the new hot technology is AI. Artificial intelligence require massive CPU, memory, and storage. Magnetic disk is so 1980’s, it’s all about NAND today. Who makes the hottest NAND? Intel and Micron collaborated on 3D XPoint (think Intel Optane). It’s 1000x faster than NAND, last 1000X longer, and 10X as dense. It’s basically not volatile DRAM, something to power the AI revolution.  
+>  
+>  
+>  
+>Oh yeah, Micron just bought out Intel’s share of 3DXPoint for 1.5B. The only manufacturing for 3DXPoint is in… Utah. That’s right, not in China! So now I segue into the Mexican Beer virus. The majority of memory manufacturers are centered in the Wuhan area. The Wuhan area is basically shut down for the foreseeable future. Hmmm… which memory maker makes memory mostly outside China? If you said Micron, you win the prize. They have manufacturing locations in Idaho (you da hoe), Utah, Virginia, Malaysia, Singapore, Taiwan, and Xian China. They have only one location in China, and it’s not even in Wuhan.
+
+Not only did Micron use Corona as an opportunity to expand its market share, [but the dip in NAND memory demand was temporary and it returned to its upward trend](https://www.thestreet.com/investing/nand-flash-market-is-rebounding-faster-than-the-dram-market). Not only did demand increase; but the supply retracted as manufacturers in China and other Corona hit areas suspended operations as seen by this chart (you might have to click on it to see it closer)
+
+&#x200B;
+
+[Notice that oversupply is steadily declining](https://preview.redd.it/v8814125il361.png?width=328&format=png&auto=webp&s=820a650b6d82e238d8d9ffa53030961d59deeb68)
+
+**Diversification and Innovation**:
+
+[Here's an interview with the Swag Master himself:](https://www.youtube.com/watch?v=dLl3b7SMUBk) 
+
+They've been able to make big bucks diversifying into data centers which have boomed with work from home and they've been making money on the online schooling trend. The demand for enterprise PCs has gone up. More or less every product that Micron Technology sells has boomed as a result of corona virus and they were able to achieve an Earnings Per Share growth of +77.55% since last year. They also will likely be used for the AI for self-driving cars so that's going to be exciting. We might even see a huge boom from them in the mid term once they start making deals with large EV manufactures. 
+
+Not only have they seen growth in these new product lines but they've also come up with a new chip that should put them ahead of the competition for at [least a few years](https://www.fool.com/investing/2020/11/11/micron-technology-just-announced-an-important-tech/):
+
+>*176-layer NAND flash:*  
+>  
+>In the press release, Micron announced that it had begun volume shipments of the world's first 176-layer NAND flash chips. For those unfamiliar with NAND flash technology, it's becoming the nonvolatile storage medium of choice for many applications.  
+>  
+>  
+>  
+>Nonvolatile storage retains information even when power is turned off. Legacy hard disk technology still has a place in cheap bulk storage in cloud data centers. Yet cost reductions have made NAND closer to hard disk drives in terms of cost-per-bit, and with much better performance and resilience, less space, and better total cost of ownership in many cases. NAND flash is found in data center servers, smartphones, game consoles, and laptops these days.  
+>  
+>  
+>  
+>With the data revolution taking off, NAND flash demand is supposed to compound at a 30% annual growth rate. Yet many NAND manufacturers have had a hard time making profits in recent years despite that insatiable end demand. Companies have begun stacking NAND modules on top of each other in a 3D vertical structure, with each layer significantly boosting storage capacity. While demand for bits has gone up, the NAND flash producers have oversupplied the market, crashing NAND prices along with profits.  
+>  
+>  
+>  
+>However, Micron's innovation could give it a significant leg up on rivals next year.
+
+&#x200B;
+
+&#x200B;
+
+**Why Micron Technology will grow after Covid**:
+
+The big thing to realize is that Micron technologies has [some of the best chips in the market for handling the type of processing power that cell phones need](https://www.micron.com/insight/5g-ai-and-the-coming-mobile-revolution) for [5G and AI](https://www.micron.com/insight/5g-ai-and-the-coming-mobile-revolution). These guys are going to be miles ahead when 5G becomes the norm and the other companies will be trying to catch up for years. Don't take my word for it, trust everyone's favorite holocaust profiteers and Jeffery epstein's favorite bank, Deusche bank, who recently upgraded their outlook on them:
+
+> In a research report, Ho said that Micron is expected to be a solid recovery pick as the economy starts recovering from the global pandemic. Demand drivers such as data centers, 5G smartphones, and gaming will accelerate the growth of Micron. Ho also pointed out that Micron is well-positioned for CY21 (calendar year 2021).   
+>  
+>Micron Technology is known as being a leading supplier and manufacturer of memory and storage used in a wide range of electronic devices ranging from PCs to smartphones. And the company is currently number three in market share for memory/storage shipments after Samsung and SK Hynix. DRAM currently makes up about two-thirds of the company’s total revenue with NAND making up most of the rest of the revenue.  
+>  
+>DRAM is known for providing high-speed data storage and retrieval. And NAND flash products are electrically rewritable and nonvolatile memory that retains data when power is turned off. This makes NAND ideal for mass-storage uses — specifically for solid-state drives, which have started to displace traditional hard disk drives.  
+>  
+>DRAM and NAND are both promising for the future as SSDs are expected to be used in the majority of PCs and data centers as well as higher memory and storage content in smartphones. And AI and autonomous vehicles will also require substantial DRAM and NAND capacities.  
+>  
+>Deutsche Bank is not the only brokerage to increase its price target on Micron. Mizuho analyst Vijay Rakesh recently increased the price target from $56 to $70. And Morningstar equity analyst Abhinav Davuluri, CFA recently increased the target price to $50 per share from $48. And in an analyst rating consensus of Micron stock with 33 ratings, 76% say buy, 21% say hold, and 3% say sell.
+
+They aren't the only institution that's upgrading their outlook. It'd take too long to go over all of the upgrades so I'm just going to link them:
+
+[Goldman Sachs upgrades Micron Technologies](https://www.thestreet.com/streetlightning/stock-picks/mircon-computer-memory-dram-nand-technology-mu-semiconductor-goldman-sachs-buy)
+
+[Argus Research upgrades Micron Technologies](https://snapshot.fidelity.com/fidresearch/snapshot/landing.jhtml#/news?symbol=MU&pageno=&storyid=202012041056MIDNIGHTUSEQUITY_A2316094&provider=MIDNIGHT&product=USEQUITY&sb=1&sc=1&san=1)
+
+[Morgan Stanley upgrades Micron Technologies](https://thefly.com/landingPageNews.php?id=3205255&headline=MU-Micron-price-target-raised-to--from--at-Morgan-Stanley)
+
+[UBS Upgrades Micron Technologies](https://www.thestreet.com/investing/micron-shares-jump-after-ubs-boosts-rating-price-target)
+
+[Wells Fargo upgrades Micron Technologies](https://thefly.com/landingPageNews.php?id=3204494&headline=MU-Micron-price-target-raised-to--from--at-Wells-Fargo)
+
+Theres probably more that I'm missing but you dont need me to post every [wordpress.com](https://wordpress.com)/Seeking Alpha/Motley Small Bus Rider word vomit from 2 bit prop traders and amatuer hedge fund larpers to prove my point. This bad boi is going up bigly.
+
+**The most important bit: How to trade**:
+
+You guys can try making money with out of the money two week calls but I suspect that there are other ways to make money on this that might be more lucrative.
+
+First of all shares. Yes they are boring but keep in mind there's a really, really good chance that Micron gets the Vale treatment in the near future and spikes on rumors of being able to supply one of the big EVs with chips. I'm not going to tell you when this might happen because no one knows. But I feel it in my heart of hearts and half of the analysts upgrading it mention how Micron's new chip is going to have massive applications with self-driving automobile technology and if you watched some of the interviews with the Swag Master he always brings it up. Sure it might not be TSLA since they are in bed with TSM but keep in mind if they choose to keep that deal proprietary and TSM doesn't sell that chip to anyone else that means that basically there are no other chips for EV companies to choose from other than Micron.
+
+Second what I'd really recommend are Leaps. Buy yourself some 2022 out of the money calls and you will print money in due time. There are just so many upside potentials with Micron that if even one of them ends up working out then these leaps will print.
+
+TLDR: Buy the 85$ January 2022 MU calls. You'll thank me later._END_OF_POST_PYSTOCK_ My long term bet 💎🙌 _END_OF_POST_PYSTOCK_ Forrest Guh - A look back at a historic meme stock year at WSB _END_OF_POST_PYSTOCK_ I bought near the top because of the CEO’s hair, am I doing my DD correctly? _END_OF_POST_PYSTOCK_ Someone trains an AI on WSB posts and comments. It goes exactly as you would expect. _END_OF_POST_PYSTOCK_ CNTY Call potential Play? Up ~10% friday, hopefully to the moooooon this week🚀🚀 _END_OF_POST_PYSTOCK_ So i was looking through my trade history... I bought puts instead _END_OF_POST_PYSTOCK_ PLTR CALLS LOSSES MEME !!!! _END_OF_POST_PYSTOCK_ Free trading volatility resource, fantastic read. X-post from r/FatFIRE _END_OF_POST_PYSTOCK_ Most anticipated IPOs of December _END_OF_POST_PYSTOCK_ Airbnb IPO on Wednesday **Clown Market DD:** Buckle up buckaroos I'm gonna show you how to wine and dine on tendies at Wendys this very Wednesday. Neither Bull, nor Bear, I am full-on Clown and this is my native market. 
+
+Given the recent Clownish trends, which unequivocally guarantee future results (*cf.* "New Paradigm" inflection point of [Figure A](https://transportgeography.org/?page_id=9035)), the contents of Airbnb's S-1 disclosure statement (available [here](https://sec.report/Document/0001193125-20-306257/)) and other SEC filings (available [here](https://sec.report/CIK/0001559720)) are completely irrelevant, like seatbelts on a seadoo. 
+
+**TLDR;** Imagine an amount of money you are willing to lose and then double it. Buy ABNB at Fidelity on IPO day, shares on Wednesday afternoon, and calls the following week.
+
+Now before you parade down the street blasting your kazoo, let's go over WHY to buy. UBER IPO'd last year at $41. This was a typical case of insider investors realizing their shares of a shitty, unprofitable company were better off in the hands of retail mothershmuckers. UBER has become even less profitable in the interim, so naturally the stock price has risen to $54. Now some of you bigbrains might be furrowing your fiveheads--ABNB has a clear path to profitability and has indeed [turned a profit](https://www.cnet.com/news/airbnb-first-profit-home-rental-travel-startups/) on multiple occasions. My elf ears hear you ask:
+
+>"Under Clownmarket rules doesn't this mean ABNB will trade flat like a boomer bond?" 
+
+"Nein!" is my reply. Fear not, for ABNB posted a [$322m loss](https://www.vox.com/2020/2/12/21134477/airbnb-loss-profit-ipo-safety-tech-marketing) last year. Although it's not as sexy as [TSLA's $862m loss](https://www.statista.com/statistics/272130/net-loss-of-tesla/) in the same year, we can hope ABNB's costs of expanding into China will swell like an ass-eater's lymph nodes. The analysts certainly think so. Cordwell has a price target of [$75 a share](https://www.marketbeat.com/stocks/NASDAQ/ABNB/price-target/) following the likely $45-$50 IPO target.
+
+Although Airbnb is clearly just Uber for your mattress, some skeptics demand more metrics. Compare Booking.com (BKNG) which IPO'd at $483.99 in 1999 and dropped to $7.88 by 2001. Could this happen to ABNB? Absolutely not. Why? Because I got bedbugs once at a booking.com dive with fake pics, and I didn't even call their customer service to get my eleven dollars back. Contrast that with when I got kicked out of an Airbnb in Bali six years ago, I got on the phone with a **specialist** who **investigated** my **case** and gave me a bunch of store credit for shit I didn't even ask for. Add in the fact that BKNG now trades at $2125 a share and you've got yourself a real *fuck it why not* scenario. This shit is hot fire.
+
+And finally, *Google Trends* [shows "airbnb" is half as hype as "tesla"](https://trends.google.com/trends/explore?geo=US&q=airbnb,tesla) which logically puts ABNB at 50% of TSLA's $558b valuation, =$279b, which would put ABNB's share price at $465.
+
+Put the kazoos away boys, this 10-bagger calls for a fanfaronade of vuvuzelas!_END_OF_POST_PYSTOCK_ I wrote on FNMA earlier this week and think we are sitting on a powder keg until tomorrow afternoon. After that, buckle you seat belts, clowns 🤡💥 🚀 **Re: Federal National Mortgage Association (FNMA) 🤡💥 🚀**
+
+I wrote a DD on this super interesting play last week and it drew a bit of attention and some interesting dialogue. [https://new.reddit.com/r/wallstreetbets/comments/k67ae1/fnma\_huge\_buying\_opportunity\_with\_the\_federal/](https://new.reddit.com/r/wallstreetbets/comments/k67ae1/fnma_huge_buying_opportunity_with_the_federal/)
+
+**TLDR:** Buy FNMA at market open tmr. Secretary deal on Tuesday.
+
+Here I wanna talk about the ins and outs of the SCOTUS oral arguments coming up on Wednesday, the likelihood of the treasury secretary decapitating that process by announcing a deal to bring FNMA public on Tuesday and the chances we could be about to witness one of the biggest speculative plays of the year. A KODAK moment if you will.
+
+\-----------------------------------------------------------------
+
+**Some facts:**
+
+· Supreme Court is hearing oral arguments on Dec 9.
+
+· Treasury Secretary Mnuchin is listed as the government party on the suit
+
+· There’s no way he’s going to let the court release a verdict totally clowning he and trump admin
+
+· A new deal will be announced Monday or Tuesday
+
+· Much of the legwork for same has been done through other governmental agencies
+
+· That’s all to say that I am really feeling a jump to $3 or $4 tomorrow afternoon
+
+**\*\*\*This needs to be on your radar. Take a look as you haven't. I believe its either up 10-20% right away in the AM or you may have a chance you get in before the mid-day rush. The SCOTUS case will be all over the news this week. Fannie Mae and Freddie Mac are just ubiquitous names with a long history (started in the 1930's) and of course are notorious from the 2008-2010 financial crisis. The press is going to be all over it this week and hyping the oral arguments or any movement from the Treasury on settling out of court.\*\*\***
+
+\----------------------------------------------------------------
+
+**FNMA boasts higher revenues than each of these companies:**
+
+1. Bank of America
+2. Home Depot
+3. Wells Fargo
+4. Citigroup
+5. Target
+6. Johnson and Johnson
+7. Raytheon
+8. Boeing
+9. Phillips 66
+10. Comcast
+
+\-------------------------------------------------------------------------
+
+You can’t tell me this stock, if the gov/SCOTUS takes it out of conservatorship, is worth $2.5. This thing is going to $30. The numbers don’t lie. The government has been criminally bleeding it dry and using political fog and stigma from the 08’ financial crisis to justify this behavior.
+
+**Ackman is in at $2.20 and his old buddy Icahn is in at $4.**
+
+Trump admin and Mnuchin specifically (former Wall Street Exec) are gunna ram this through.
+
+I'm looking for counter arguments here other than ("they told us this in 2016"). Lots has changed since 16'. Where do people see this going in the next 6 months, with or without a Mnuchin deal on Tuesday?
+
+Is there anyone out there who really believes that this SCOTUS will rule against taking FNMA to the markets again?
+
+**This seems like such a lock that I am in need of some discussion here. What am I missing?**
+
+Is this thing brewing over the weekend and we see a 100% increase tomorrow? That's what I am thinking.
+
+**If a deal is struck early in the week, my god, my god...**
+
+Let's chat FNMA.
+
+\--------------------------------------------------------------------
+
+**Positions:** 8,000 commons at $2.51_END_OF_POST_PYSTOCK_ ACTUAL FOOTAGE OF WSB USERS DURING THE GREAT TSLA PUMP OF 2020 _END_OF_POST_PYSTOCK_ 50k profit off our overlord $INTC **crayons applied for the autist** _END_OF_POST_PYSTOCK_ Trillium $TRIL is undervalued. Just simply due to sciences. Positives: they have two drugs. Both drugs have a CD47 blocker and an antibodies region. Both show great results even in Phase 1 trials.
+
+Science in layman terms. CD47 tells the soldiers of the body to not destroy me I'm part of your crew. Tumors cells have these so do your own cells. But tumors cells have more. So the idea is to have an effect on the more. There is an assumption it doesn't bind to red blood cells CD47. If it doesn't then that's an extra postive.
+
+So CD47 is the signal. The clothes that cells wear to show which side they are on. Once that is blocked. You need some antibodies IgG or IgM or whatever to tell your soldiers to attack these motherfuckers. Trillium Therapeutics has that.
+
+Science works. Gilead bought FortySeven for $5 billion in March 2020. 47 also had a anti-CD47 drug. Trillium should be better than 47 in my opinion.
+
+It has money to go pretty far now.
+
+Negatives: they don't make any money like all biotechs, raised money through stock offerings like three times this year.
+
+Stock dropped to pennies in 2019 but management changed and they finally focused on their product which made the stock go I don't know how many times recently. 1000 times?
+
+It's at $17.05 right now market cap about 2 billion
+
+Target at least $5 billion upwards so my target is $50+ or even $100+
+
+Advice: buy stonks, buy calls and sell puts. Sell calls when it's flies.
+
+I'm not a financial advisor so don't listen to me. But you should totally listen to me. If you make money lick my balls. If you don't fuck me.
+
+I can't tattoo anything on my ass because it's a biotech but IMO the science is legit bitches. I'm out._END_OF_POST_PYSTOCK_ Altria $MO March Call $50 Long-time first-time. Altria is a value stock with big dividend and very profitable parent of Phillip Morris. Big investments in marijuana and Juul in recent years (the latter being a big write down). Diminishing cigarette sales have eroded the stock price since 2017. 
+
+Now, Biden administration removes Schedule 1 status on Marijuana in first 100 days and Altria pops to $60+...?_END_OF_POST_PYSTOCK_ Himax $HIMX is undervalued. Investor since 2011 Fabless company... No factories they are the middle men with patents that connect the producer and the customers. They have a factory now because of what they did on 3D sensing in 2018
+
+Positives: it's making money in many areas all at once again. 8K TVs, chips in phones and laptops. The normal shits. The growing areas are automotives and 3D sensing for autobots 
+decepticon type shit. Lmao. Security for homes, privacy protection and so forth.
+
+They make chips so no need to raise money through stock offerings. In the future they will reinstate their dividend per year.
+
+Negatives: Himax threw too much shit at 3D sensing for phones in 2017. Even threw $80 million+ to make a factory because everyone was unable to supply chips. It was in Apple iphoneX until Apple the gf left himax for some other dudes with bigger wangs.
+
+Himax was in Google glass 2013 until that failed to gain traction. Himax was in Microsoft Hololens until that failed to gain traction. All these gfs left for bigger and better wankers.
+
+Google has 6% of some stock in one of Himax subsidiaries from what seems like a century ago.
+
+Short story: Himax made tons of dumb bets but now they are working on areas like security, privacy and automation for vehicles and big ass HD TVs that will grow every year along with their core businesses.
+
+Analyst have it at $11 target. I would see $11 as cheap. Market cap of about $2 billion if it's at $11
+
+Current price $6.80 it doubled recently.... From $3.
+
+Advice: Buy stonks below $11, buy calls, sell puts. Sell calls when it flies. 2020 when everything seems to be overvalued. This is a nice gem to hold.
+
+Target above $21... Wake me up when it happens.
+
+I'm not a financial advisor so do not listen to me. But also you should fucking listen to me. If you make money like this post. If you lose money. Fuck me. I'll tattoo wallstreetbets on my ass if it doesn't get to $21 with the next decade._END_OF_POST_PYSTOCK_ Possible Short Squezze: VARTA Varta produces the batteries for Airpods and other wireless headphones (Samsung for example)
+They are heavily shorted, 6 Millions shares plus (35,35% of tradeable shares, as 58% of Varta is owned by the Swiss company Montana Tech)
+The whole premise of the short sellers is that asian competition will catch up and destroy Varta with cheaper prices, because some non Varta batteries where found in wireless headphones. They were used because Varta couldn't fulfill the demand (meanwhile production increased). This happened in January 2020, since then Varta crashed but already recovered to where it was at the start of the year. But as it seems no big competition entered the market, as forecasts where already raised 2 times this year and sales grew by 70% YoY. Next Years PE is expected to be 25. Short interest is above 40% so short sellers will be hesitant to add to their positions.
+
+With all those factors the price could explode, maybe when they report their next earnings in February and short sellers decide to exit. Christmas sales should boost their sales too._END_OF_POST_PYSTOCK_ PSTG With cloud stonks obviously mooning in a pandemic/post-pandemic world, PSTG is undervalued IMO. That and Cathie Woods (Bae) has been loading up on it. Over 3x it’s normal volume on Friday it’s soaring and only poised to go higher...feel like there’s tendies to be made here retards. 
+
+Positions - 1/15/21 $2/2.50 and 12/18 $22.50
+
+Edit: premiums are still pretty cheap so that’s why I like it as a value play but if it continues down this path it’ll be more than just value_END_OF_POST_PYSTOCK_ Tsla stocks calls/puts before and after sp500 incl I am thinking about this strategy:
+Buy monday around 60k worth stocks and sell them around 17/18 december for a little profit.
+Also buy some 31/12 700c calls and sell around the same date
+Buy some 500c puts on 31/12 also
+What do you think about this strategy ? That will require around 70k and should provide some decent profit_END_OF_POST_PYSTOCK_ PLTR is old news. The best stock to pick up is VERI better (Rockets Included 🚀🚀) Veritone recently sold underwritten shares. The stock is still climbing.
+
+PLTR has a market cap right now of about 48 Billion and declining. VERI is currently sitting at 700 million. VERI has recently signed deals with: The US government, ESPN, NVIDIA, etc. 
+
+VERI is in on technology for the podcast and audio market.
+
+VERI is currently working on advanced battery technology. 
+
+VERI and PLTR a lot of the same business BUT Veritone is branching out into many different areas of the market, and SUCCEEDING. 
+
+TL;DR: VERI is capturing the market where Palantir is already trading at a price and volume that reflect that company pretty well. 
+
+VERI $40 EOY 
+🚀 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+Positions:
+Long VERI 5000 Shares
+
+Highly recommend leaps if you want to be risky. This train isn’t over yet._END_OF_POST_PYSTOCK_ BABA Double bottom! BABA forming a double bottom.
+
+I don't need to explain the fundamentals of BABA. They haven't changed. The company is a rock and has recently been sold off due to:
+
+1. ANT IPO delay. BABA still hold 30% of ANT and they will go through the regulatory procedures to list again.
+2. Holding Foreign Companies Accountable Act. BABA isn't getting delisted. Lots of misinformed and fearful investors. This is the only real risk at the moment, and I wouldn't say its a large one. Returns far out weigh the risks.
+
+&#x200B;
+
+&#x200B;
+
+Double bottom forming on BABA. Over 20% sell off from ATH. Bounced off support of $258.
+
+Hit $280 and fell back to within a few percent of the $258 support.
+
+Downtrend has formed since ATH.
+
+If the downtrend gets broken and can close above the 20ma we could see a retest and break of 280 back to $300. Looking for a Gap up on Large volume and it'll move strongly from there.
+
+&#x200B;
+
+Also small wedge pattern developing from the recent Low could give further stimulus of a break.
+
+&#x200B;
+
+Get in before it's too late. Any ATM calls or Leaps will print for this.
+
+19/02 280c
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/6kt5mzy43k361.png?width=1736&format=png&auto=webp&s=20e7b9b5fa3bf3b77b9977c1d2090f43eaf81c54
+
+&#x200B;_END_OF_POST_PYSTOCK_ making them understand why PLTR is leaving this galaxy _END_OF_POST_PYSTOCK_ Buckle Up Fella's $ABNB PT $44.00 - 50.00 Let's Get Ready
+
+&#x200B;
+
+https://preview.redd.it/2zpvrth5kj361.png?width=1610&format=png&auto=webp&s=d9f75af219fc99b19c4e5f7682f9a51cd52798ff
+
+https://preview.redd.it/6m5pdas2kj361.png?width=1583&format=png&auto=webp&s=31457697c0e03c229b31b5fa40034093dff05a52_END_OF_POST_PYSTOCK_ SNOW short squeeze to 500 12/11? As of 12/04 over 36% of SNOW's float is shorted, up from mid 20s in the days leading up to earnings. Institutional investors can dump SNOW at a higher price before the anticipated lock up sell off in the week of 12/18, if they continue forcing short sellers to cover as we've seen after Wednesday earnings. The sudden increase in demand should have a greater impact due to SNOW's limited float.
+
+SNOW to the moon, then dump?
+
+Positions 12/11 500c_END_OF_POST_PYSTOCK_ CRISPR-Cas9 Gene Editing for Sickle Cell Disease and β-Thalassemia | NEJM _END_OF_POST_PYSTOCK_ Cvs tendies _END_OF_POST_PYSTOCK_ AAPL vs. the entire Australian stock exchange _END_OF_POST_PYSTOCK_ Y'all really taking over LinkedIn too lmao _END_OF_POST_PYSTOCK_ POUNDING THE TABLE (AND YOUR GF) WITH MY STEEL HARD DICK Positions: 32-35K (it keeps going up, I lost track)  X calls from JAN to APRIL.
+
+https://preview.redd.it/6hlmn8t9di361.png?width=657&format=png&auto=webp&s=6646211e3e9d403c77403faeaa71a7047e381ab3
+
+From [https://www.fastmarkets.com/article/3965556/hrc-prices-dashes-past-850-t-in-us-900-t-ahead](https://www.fastmarkets.com/article/3965556/hrc-prices-dashes-past-850-t-in-us-900-t-ahead)
+
+From people who breathe steel fumes for highs:
+
+"The result: Sources said it is probably only a matter of time before prices hit $45 per cwt, and several said $50 per cwt is a possibility within the next month.
+
+US HRC prices have not been at $50 per cwt since September 4, 2008, according to Fastmarkets’ records. That’s more than 12 years ago and shortly before the September 15, 2008, collapse of investment bank Lehman Brothers triggered a financial crisis.
+
+**Quote of the day**“It’s no longer trying to get an extra buck or two at a time. They are going to be asking for a heck of a lot of money,” one Gulf Coast steel consumer said. “When spot availability is this tight, the few pounds that they have to sell, they are going to get a really **beefy premium** for it.”
+
+Just in case you retards can't read this, I will translate: STEEL MOONS.
+
+The cherry on top is that bushelling prices are getting squeezed which benefits X. Bushelling is a scrap metal and the main ingredient for mini-mills to make steel; X's blast furnace shoots more coke and iron ores. If the competitors are setting prices, and their cost is increasing, X basically free-rides on the price increase while their cost structure is less impacted.
+
+If X runs into 2007-2008 valuation, by my crystal fucking ball, share price shoots to $60/share. If the steel prices suck some tits and calm down, we can get into 2018's levels, with >$30/share.Every week I pound the table (and your gf) to buy United States Steel (NYSE: X), and every week you fuckers just label this as a boomer stock and fuck yourself over on free gains. Don't you get it, the SQUEEZE IS ALREADY HAPPENING.
+
+Next week, when vaccine rolls out or stimulus bill is passed, X will continue its ascent to the stratosphere. Do you want to miss out on that rocket ship?
+
+options IV is just 70% vs GME's retarded 140%. Short interest is 20%.
+
+&#x200B;_END_OF_POST_PYSTOCK_ Damn _END_OF_POST_PYSTOCK_ A brief summary of covid and the stock market... _END_OF_POST_PYSTOCK_ I’m not a 🌈🐻. I’m just Autistic _END_OF_POST_PYSTOCK_ Y’all are fucking hilarious. Thank you for this _END_OF_POST_PYSTOCK_ Thanks for propping up the market during the pandemic bois! _END_OF_POST_PYSTOCK_ One person makes a 5000%+ return on r/wallstreetbets; Everyone else on WSB: _END_OF_POST_PYSTOCK_ CVS Diamond hands or Paper hands? _END_OF_POST_PYSTOCK_ $150,000 in PLTR 🚀 🚀 🚀 🚀 🚀 _END_OF_POST_PYSTOCK_ CRSP on the move I posted this in the weekend discussion, but I think it should go here and get buried under all the garbage. 
+
+CRSP has been on a roll the last few days. In the last 20 days they’ve gone from a low of $93.99 to closing Friday at $147.54 and getting an ATH earlier Friday of $151.11. I fucking love this company, I will hold my shares forever, I just wished there was more options volume.....
+
+WELL GUESS WHAT. CRSP just participated in an investor conference. Since they did that, the price has been climbing. I just saw an article for a medical journal - RELEASED TODAY! talking about the breakthrough they’ve had treating a patient with sickle cell disease and another who required regular blood transfusions. Both effectively cured. This news just came out to the public today. I checked the options and CRSP 1/15 $160 has the volume and OI (1584) needed for a play. Sizzle index (if you pay any attention to that) is 2.02 calls to 0.68 puts. I don’t ever remember seeing it that high before. Now that this news is out to the public, I predict the price will continue on its current trajectory.
+
+Something to check out that’s out of the ordinary: Friday at 12:33, look at the size of that volume. 
+
+Link to the post with medical journal: https://www.reddit.com/r/science/comments/k7g985/crisprcas9_gene_editing_successful_for_a_patient/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+TLDR: CRSP 1/15 $160c Monday morning._END_OF_POST_PYSTOCK_ Boomer WFC call gains. _END_OF_POST_PYSTOCK_ Gather around children for a bedtime story... _END_OF_POST_PYSTOCK_ This is Friday’s performance of the worst S&P500 performers for 2020. Who buys this shit? _END_OF_POST_PYSTOCK_ GME Elliott wave 3 Short Squeeze is coming!!! **GameStop Corp Has Changed Elliott Wave Count**
+
+11/27/2020
+
+Recognia has detected that GameStop Corp (GME on NYSE) has experienced a change in Elliott Wave count. GameStop Corp previously was showing a count of 3 but recent price action indicates that a new count of A is more likely. The new target price for GameStop Corp based on its new wave count is 21.00.
+
+A change in wave count is in itself neither bullish nor bearish. However, it indicates that recent price action now suggests that a better count exists based on the principles of Elliott Wave analysis. This event should be used as a cue to re-examine existing positions.
+
+&#x200B;
+
+https://preview.redd.it/sclrgfsabh361.png?width=456&format=png&auto=webp&s=5edde0a765763e07dc63e3181b37c28d36724fb3
+
+https://preview.redd.it/loz6hf5dbh361.jpg?width=1432&format=pjpg&auto=webp&s=e2771f486979efe6d4bcf16d4cf5955036eebc0b_END_OF_POST_PYSTOCK_ Short interest in SPCE Virgin Galactic. For those shorting this company why is that? https://www.marketbeat.com/stocks/NYSE/SPCE/short-interest/
+
+
+Virgin Galactic SPCE has a 89% short interest as percentage of the outstanding float.  For those who are shorting SPCE why is that? Why do you believe the company will not be successful?  
+
+Do you believe the test flight next week will not happen? Or be delayed or not successful ?
+
+Do you believe It’s over valued?
+
+Are you hedging your investment in Virgin Galactic?
+
+Don’t believe space tourism will catch on?
+
+
+Curious to get a friendly healthy discussion on this._END_OF_POST_PYSTOCK_ Little leaguer ready to yolo for retirement _END_OF_POST_PYSTOCK_ Hewlett-Packard Enterprises (HPE) announced its moving HQ from Silicon Valley, CA to Houston, TX HPE is also planning on reducing its footprint in California by consolidating all of its Bay Area sites to San Jose. The move is expected to save the company tens of millions of dollars. 
+
+CEO Antonio Neri also announced that sales had returned to "pre-COVID levels" signalling a strong financial outlook moving into 2021. Here are he company’s third quarter results:
+
+    Net Sales: $7.2 billion vs. $6.88 billion
+
+    Diluted EPS: 37 cents vs. $34 cents
+
+Neri struck a bullish tone of HPE’s top line momentum continuing into 2021. HPE Stock closed Friday at 12.34 (+6.29%).
+
+Time to strike? 
+
+
+https://finance.yahoo.com/news/hpe-ceo-sales-have-gone-back-to-pre-covid-19-pandemic-levels-191350426.html
+
+Texas Governor Abbott announcing HPE move to Houston: https://twitter.com/GregAbbott_TX/status/1333886895064027136_END_OF_POST_PYSTOCK_ No Ragrets _END_OF_POST_PYSTOCK_ GME 4Q Bottom Up E-Commerce & Financial Model So, about a month ago I made the observation that GME's U.S. website processes its order numbers in sequential order.
+
+Given that, I made this shitty model that uses the quarter-to-date e-commerce order data, credit card data scrapes from two separate vendors (& sticking my fucking finger in the air), as well as that bullshit finance stuff that nerds use to come up with a 4Q estimate since the sell-side analysts are such shit-head haters and probably work for Melvin Capital (fuck 'em).
+
+IDGAF if this is gibberish to you, but it tells me and the other autists that the analysts are fucking wrong and 4Q20 is going to crush Wall Street's estimates. Yes 4Q20, which comes in March, not 3Q20 which comes on Tuesday.
+
+Feedback appreciated.
+
+TL;DR: My estimate is $4.12, theirs averages $1.83. If mine is even remotely right we all get lots of tendies soon. DON'T BE A PAPER HANDED BITCH IF IT DROPS ON WEDNESDAY
+
+https://preview.redd.it/ivfnxkiutg361.png?width=2024&format=png&auto=webp&s=4a7954ab79a31b785cb48c6d7e0343d2a6a30b5e_END_OF_POST_PYSTOCK_ Citron and the Palantir Bulls _END_OF_POST_PYSTOCK_ NIO/BABA/PLTR leaps Alright need some summer 21 leap advise; PLTR, NIO or BABA? "delisting" news might keep driving the chinese stocks down which would be good for me but im also worried the market ^(might) correct like 10% and drag these down with it so maybe ill wait until Jan to buy these idk 
+
+NIO good deliveries number, NIO day in Jan
+
+BABA ant IPO is coming but who knows when IV has gone down a good amount of this 
+
+PLTR solid lmao_END_OF_POST_PYSTOCK_ BB (BlackBerry) is our next meme stock. It’s going to $30 by EoY, $50 by March. It has huge catalyst, partnership with Amazon. _END_OF_POST_PYSTOCK_ Karp just sold 1.2 million class A Palantir stock (about 17% of his holdings) for about $22 on 12/2/20. _END_OF_POST_PYSTOCK_ Federal employees - Just found out the government yolos your TSP accounts into government securities by default. Time to cash out and make your own yolo _END_OF_POST_PYSTOCK_ WSBVoteBot Log for Dec 06 2020 Every time a new submission is posted to wallstreetbets /u/wsbvotebot posts a comment that allows you to click and vote to remove that submission. This is the log of volunteer moderators actions which you can vote to reverse. [Check the leaderboard](https://www.reddit.com/r/wallstreetbets/wiki/leaderboard) to see who is doing the most to keep /r/wallstreetbets great.
+
+User commentary as replies to the messages below are encouraged. Report bugs to /u/zjz._END_OF_POST_PYSTOCK_ Who else here is planning on selling their Tesla shares on Friday the 18th before close, and then rebuying at a lower price when the stock tanks after the S&P inclusion? It can’t be just me.
+
+I’ve done every bit of research I can about what will happen in the coming weeks, and everything seems to point to the stock rising rapidly as the 18th approaches, and then falling back down again in the following weeks.
+
+With my 200 shares, good timing could probaby net me anywhere from $10 000 to $50 000 or even more, depending on how high the stock price climbs before the inclusion, and how low it falls afterwards.
+
+I feel like I would be an idiot not to try to take advantage of this. And yet, somehow it all feels too easy, like it’s too obvious, and too good to be true. What am I missing?_END_OF_POST_PYSTOCK_ Walgreens baby. Bought these 5 minutes before close on Friday; I will post a $40,000 profit on Monday at close. You guys are welcome. _END_OF_POST_PYSTOCK_ $TU 🚀 An opportunity to print free tendies Based on the title of this post, you must be asking to yourself that "What the hell is TU?" never heard about it.Oh boy, you're missing out on lovely tendies if you haven't heard about the **🚀 TU.**
+
+&#x200B;
+
+***Description***
+
+Telus Communications is a company that provides services such as internet access, voice, entertainment, healthcare, video etc. It's basically a huge ass Canadian company headquartered in Vancouver, British Columbia with a market cap of **25B$.**
+
+&#x200B;
+
+***Why is this a solid play?***
+
+The stock is currently trading at **$19.91** with low IV. The stock needs to go up by only **9 cents** in next 2 weeks for you to print tendies. **$20.00** Strike is going for only **0.18** cents each. If the stock goes to **20.3$** by December 18 then you print around **66%.** Not bad, huh? I have posted a chart from option profit calculator incase you wanna see how much tendies you'll print on the potential target price.
+
+The IV is also extremely low so the probability of you getting IV crushed are 0 to none as long as it keeps going up.
+
+&#x200B;
+
+[Source : OptionProfitCalculator](https://preview.redd.it/u43cie2cfg361.png?width=660&format=png&auto=webp&s=e59b74b65bd00407c6005c102e55054e8d69a216)
+
+&#x200B;
+
+&#x200B;
+
+***Recent Trend***
+
+TU has been growing slow and steadily for the past month and could potentially cross 20.2$ by EOW. It grew by around **2.7%** in the last month. Don't believe me? Look at the 1 month trend below.
+
+&#x200B;
+
+[Source : WeBull](https://preview.redd.it/7wyhqt7ffg361.png?width=882&format=png&auto=webp&s=39267b7702454afc01dcd6ba3e1e389ca081f5b7)
+
+&#x200B;
+
+&#x200B;
+
+***Financials***
+
+If you look at their income statement, they have a good revenue stream and were not much affected by Covid. Infact, they added more customers in quarter 3. Their numbers show that they're also financially healthy and have a good profitability margin. This isn't a company to go down overnight or a company that swings a lot.
+
+&#x200B;
+
+[Source : MorningStar](https://preview.redd.it/djruah9hfg361.png?width=1261&format=png&auto=webp&s=c46def6c7e5dd0a1953294ce54300443a4846e49)
+
+&#x200B;
+
+***Analyst comments***
+
+This is what equity analyst **"Matthew Dolgin, CFA"** of MorningStar says about the company :"Telus handily beat FactSet consensus revenue estimates while falling short on the profit lines in what was nonetheless an outstanding third quarter. Results exceeded our expectations throughout wireless and wireline as the firm once again led the industry across most key metrics. Despite the pandemic, customer additions equaled or exceeded last year’s third-quarter result in every category. Our long-term outlook and CAD 29 fair value estimate are unchanged, and we think this best-of-breed company is undervalued."Here's the link to the Equity Report if you wanna read the entire thing  - [MorningStar Link](https://www.morningstar.com/stocks/xnys/tu/analysis)
+
+&#x200B;
+
+***Now you must be thinking, oh he def trynna pump this shit. Why did stonk not go up if the Q3 earnings were good?***
+
+Well one of the reasons could be their **EBITDA. $TU's** ebitda was quite a lot down from the same period last year (Q3,2019) and it didn't improve from their previous quarterly results. On the other hand, their competitors had better adjusted **EBITDA** and had improved from previous quarters.
+
+&#x200B;
+
+\*\*\*Environmental, Social, and Corporate Governance (ESG)\*\*\*As you all know Canadians are known for their kindness and public likes this company for what they have done during pandemic. Telus contributed around $150 million for the covid relief and expanded their programs to help citizens. They also started two business units only focused towards the positive economic and social outcomes for the Canadians. Source - [Yahoo Finance](https://finance.yahoo.com/news/telus-helps-millions-canadians-during-140000984.html)
+
+&#x200B;
+
+***Institutional Buyers***
+
+Many institutional buyers have increased their holdings after Q3 in TU. There are around 497 institutional owners holding approx 58% of the shares of this company.
+
+&#x200B;
+
+[Source : https:\/\/fintel.io\/so\/us\/tu](https://preview.redd.it/az0dqqvmfg361.png?width=1009&format=png&auto=webp&s=3995ef2df2a6ebc8d4c219013b4516e0503e7e29)
+
+&#x200B;
+
+**Here's a list of some of the top institutional buyers.**
+
+&#x200B;
+
+[Source : https:\/\/fintel.io\/so\/us\/tu](https://preview.redd.it/jszrb86rfg361.png?width=1023&format=png&auto=webp&s=1023fe930d1f8a8d867e067013d36868f5da6995)
+
+&#x200B;
+
+**Here's a list of Top 10 Mutual Funds holding $TU**
+
+&#x200B;
+
+[Source : CNBC](https://preview.redd.it/91pae1atfg361.png?width=655&format=png&auto=webp&s=4af155bdd57c451a28a367cbc0b8b639b4df6d72)
+
+&#x200B;
+
+***Risks***
+
+TU uses Huawei equipments for their 3G and 4G networks and if the Canadian government considers to put a regulatory restriction and banning Huawei equipments then the stock price could plummet but there have been no recent news about it and its highly unexpected from Canadian government. With the Canadian wireless network being a lot less penetrated than United States & Europe, this stock is most likely to go up in the near future.
+
+&#x200B;
+
+***P.S - This is not a financial advice and I am not responsible for your trades. Do your own DD before investment. bla bla bla..***
+
+&#x200B;
+
+**EDIT 1 : Thanks to** u/tortoisepump **for pointing out the ex-dividend date which is 12/10. The stock might fall by 24 cents on 12/10 so this is a risky play. My plan is to sell my position before 12/10 and just play the next week runup. Don't open an insane position like 5K$ because the stock moves very slowly. I wouldn't recommend putting in more than 1K.**  
+**I pulled up historical data to see what happened on ex-dividend dates in 2020. The yellow line is the dividend declaration date. Here are the results :- https://imgur.com/niWHn89**
+
+&#x200B;
+
+***TLDR : 20$ Calls, 12/18 Expiry. Current stock price 19.91$, contract price 18$ per contract.***
+
+**My position : 40 contracts expiring 12/18, 20c's**_END_OF_POST_PYSTOCK_ PLTR TO THE MOON ANIME MEME 🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ CRSP is going to run hard Monday morning, their sickle cell trial was published today and the data is great [https://www.nejm.org/doi/full/10.1056/NEJMoa2031054?query=featured\_home](https://www.nejm.org/doi/full/10.1056/NEJMoa2031054?query=featured_home)
+
+At this point, the proof  of concept phase is over and people are starting to see dollar signs.  CRSP company has already ran from \~$80 to $148 in the last month, and it  will likely run pretty far on Monday. No telling how long they will  keep this valuation before people want to see products and profits, but  it should stay fairly high for some time. This is a huge leap forward in  medicine.
+
+That said, I also think  the additional validation this trial provides for CRISPR/cas9 genome  editing in humans will boost all related stocks, and at the very least  bias investors to have bullish outlooks for similar companies. This  means the market psychology is going to change such that investors will likely  be prone to pumping other genome editing companies on seemingly little  to no news.
+
+If you want to  research related companies in the field, look at EDIT, NTLA, VRTX, and  BEAM. I know nothing about these companies yet, other then they  specialize in genome editing. I'll be looking into them more this  weekend. Please feel free to post what you know below.
+
+&#x200B;
+
+The only position I have with respect to CRSP is regret over not having a position. Let the FOMO ensue._END_OF_POST_PYSTOCK_ Get in on BB (Big Bagger) before people wake up and start valuing it properly Okay, BB actually stands for BlackBerry. Now, if you're an unwoke retard, which you probably are, the first thing you think of is "They're still alive?" / "they still sell phones?" / "hurr durr what is this 2010?" Don't worry, you're not alone, as this assumption doesn't elude even the best boomer trader of them all, Jim Cramer, who just 2 days ago told people to "sell Blackberry and buy Apple" after the Amzon announcement (to be covered in a bit). Newsflash -- they don't even compete in the same market anymore, boomer!! They haven't been competing in the same market since 2013, as they quietly pivot from hardware to software. 
+
+In short, Blackberry is now a software company, who has a powerful operating system, QNX, which is used in Audi, BMW, Jaguar, Land Rover, and Toyota cars. BlackBerry just partnered with Amazon to develop BlackBerry IVY, which collects a multitude of vehicle data from all these manufacturers. Yes, it is true that Tesla has a HUGE advantage over any other single (keyword: single) automobile manufacturer when it comes to driving and road data, but what happens when you consolidate EVERYONE ELSE who is frothing to beat Tesla for vehicle and road data? BB's data (scaling with AWS) will absolutely catch up and crush TSLA's.
+
+Hold on it gets better. BB ALSO does cybersecurity with US FedRAMP certifications, which allows the US government to use their end to end solution for secure communications. They also own AtHoc, which has been crushing it for COVID crisis communications for universities, hospitals, and Fortune 500 companies, including a partnership with ServiceNow for incident management tracking, and in Microsoft Teams for enterprise communications. For a cybersecurity comparison, Crowdstrike (CRWD) trades at a price-to-sales ratio of roughly 40x, Palo Alto Networks at about \~8x. BB "only" make 800-1b annually and growing, (about what Palantir makes), and is **only** trading at 3.3x sales. If someone can give me DD on why CRWD will eat BB's lunch, I will eat my socks if BB doesn't eventually float up closer to these valuations.
+
+ If this company were rebranded RaspBerry and fresh IPOing today you bet your ass it would instantly be a 30 to 50bill market cap company. Factor in "car data", "government security contracts" hype add another 10billion. I almost don't want to post this DD as I'm not done accumulating shares yet, but will definitely be buying on any pullback. 
+
+&#x200B;
+
+TLDR: BlackBerry 1/15 9c, eyeing the 3/19 10c. AMD flashbacks to when they were only worth 4billion.  
+Lastly, SpaceX (Falcon) uses QNX OS. Where do these 🚀 go? SPACE. BB literally will blast off to outer space🚀🚀._END_OF_POST_PYSTOCK_

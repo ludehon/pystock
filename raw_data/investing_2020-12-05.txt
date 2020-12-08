@@ -1,0 +1,228 @@
+ This strategy seems to beat the market with little risk. Am I missing something? Assume the following:
+
+1) Bond yields are absurdly low right now. I wait before they get at least somewhat reasonable (3-4%).  
+2) I buy s&p 500 futures, such as the e-mini or micro e-mini. They offer large leverage, so I buy just enough to have the same exposure to the s&p 500 as if I had just put all money into SPY. That gives me 100% exposure to stocks and still leaves me with 80-90% of capital.  
+3) I put the remaining capital into treasury bonds.
+
+Under the unrealistic assumption that bond prices never move, this strategy has the same risk and volatility as a 100% SPY portfolio.   
+Not only would I get the interest from the extra bonds, but the bonds would also often lower the impact of a stock market crash, as they are usually negativelly correlated to the market. 
+
+Essentially, this is a 100/90 stock/bond portfolio, which uses cheap leverage through futures. The main issue with leveraged portfolios is that they always have the risk of margin call and getting wiped out. This can certainly theoretically happen with this portfolio too, but both stocks and bonds would have to massively crash at the same time. As far as I know, that has never happened. 
+
+If I am willing to accept the extremely unlikely scenario of both stocks and bonds hard crashing, would this strategy work? Or am I missing something?_END_OF_POST_PYSTOCK_ Shariah-compliant investing I haven’t read much on this sub regarding this topic. Ethical investing should be practiced among all investors. But of course we live in a greedy world where everyone wants the highest RoR on their money, which is understandable. To those who are long-term shariah-compliant investors, how do you find your investments and how do you set yourself up for financial success despite the limited amount of securities you have access to?_END_OF_POST_PYSTOCK_ Vanguard 100k I was looking through some of Vanguard's various funds and I came across one of their healthcare index mutual funds. The minimum investment amount is $100,000. Most of their funds are either 1000 or 3000 for the Admiral shares. Can anyone offer some insight on why Vanguard would have such a high initial investment? Do you think that these types of funds offer some significant advantage over the smaller buy in fund?_END_OF_POST_PYSTOCK_ What are your top undervalued stock picks right now for the future? I posted a similar post yesterday, but I wanted a more formal place to talk about other stocks (not only popular meme or reddit stocks). 
+
+So, what are your current picks for the future either for the end of 2021 or whatever your time frame is and why?
+
+It doesn’t have to be something that had a recent IPO or anything. I just want to get more discussion on stocks that aren’t always talked about on here or ones that will have even more growth than now.
+
+You can literally mention whatever ticker you want and why.
+
+Wish you the best of luck investing!_END_OF_POST_PYSTOCK_ M1 money supply increased 600 billion in november. 2.2 trillion since March. Thoughts? Saw this [Tweet](https://twitter.com/NorthmanTrader/status/1335277432669138944/photo/1) about M1 money supply.  600 billion candle in november.
+
+You can confirm on the [FRED](https://fred.stlouisfed.org/series/M1), but the monthly candles demonstrate it nicely.  
+
+Wanted to see discussion about this._END_OF_POST_PYSTOCK_ A discussion about “time in the market vs timing the market” We’ve all seen it parroted on every investing related thread in the history of Reddit- “time in the market beats timing the market”. But I feel like this phrase gets misused quite a lot, and I would like to take this boring workday of a Saturday to just show the power of what “time in the market” actually has. 
+
+1. What “time in the market” means and what it doesn’t mean 
+
+Time in the market means, basically, maintaining ownership of assets that either 1, typically appreciate in value over time (stocks, real estate, commodities, etc) or 2, that produce a steady, ideally increasing, stream of income (dividend paying stocks, a business, rental properties, debt, etc). By “time in the market” it means that ownership of these assets over long periods of time, as in years and decades, is the key to wealth accumulation. If you look at most wealthy person alive today and in history, they gained their wealth through assets. They accumulate assets and own them. 
+
+“Time in the market” does NOT mean buying clearly overvalued hype stocks because “I’m in for the long term”. I’m not gonna say any because I don’t want the comments to just be arguing about whether or not tesla is overvalued, but I hope you get the idea. However this doesn’t mean to just let your cash sit on the sidelines “waiting for a crash”. Typically there is no reason to have all your net worth tied up in cash, as it is the only asset class guaranteed to lose value over time. 
+
+Rather, you should be in the middle: continuing to own assets you already own and being on the lookout for more, fairly valued ones. I promise you that you can find value out there if you look for it. Even then you don’t necessarily always have to be buying. Sometimes doing nothing is the best choice. 
+
+2. You’re probably wasting your time (and money) 
+
+If you’re anticipating a crash, good luck. There have been 8 major crashes since the 1920’s: an average of one every 12 years. There have been flash crashes and small recession but these shouldn’t concern you at all. On the large scale, the market has trended up for most of its existence. What makes this time different, exactly? Bulls have a tendency to believe that this time is different, but bears can have the same mindset, especially  considering that the US has been in a bull market for most of its history. So what makes this time different? 
+
+Sure, we will enter a bear market eventually but the US market has never failed retest its highs. If you’re selling because you anticipate a “correction”, you’re just wasting your time and money. Corrections are a blip on the radar over time. They are normal, healthy and should be seen as a good thing, just the market breathing, per se; nobody actually thinks “stocks only go up and never go down”. 
+
+Once you gain real money, in the high six figures and up, taxes will really start to eat into you. Selling positions with the intent to buy back in after a correction is probably an unprofitable endeavor. Why pay a good chunk of your earnings in taxes just to buy back 10% cheaper, especially when the 10% drop may or may not happen when you expect it to? This ties in to the last paragraph of point one, sometimes it’s best to do nothing and just continue to hold, letting your money work for you. 
+
+3. Generational wealth
+
+This is my main point. The Rothschilds, for example, have been building an empire for almost 300 years. That is 300 years of compounding interest. One thing they have done is accumulate assets, not sell them. The wealthy families of the Netherlands have been passing down assets for almost 400 years. 
+
+Even on a less grandiose scale, just look to this subreddit. You’ll notice a lot of the users with higher portfolio balances probably received a nice inheritance somewhere along the way. This isn’t a bad thing and shouldn’t be shamed. After all, isn’t that everyone’s goal, to pass their wealth into their children? Unfortunately, with inheritances, a huge majority of inherited wealth is lost by the third generation. When the younger generation doesn’t know how to properly manage wealth, they end up wasting it all instead of further building it up. 
+
+4. Compound interest 
+
+Some call it the eighth wonder of the world, and rightfully so. There is no reason to interrupt compound interest unnecessarily. I would hope that most people here are investing with the goal of attaining compound interest, and selling your compounding assets is a solid way to halt it. 
+
+5. Dividends 
+
+Whether or not you chase dividends, I think we can all agree that we get some form of dividends or income from our investments. Dividends really show their power after several years of ownership. Buffett, for example, gets a 40% annual return from dividends on his initial Coca Cola investment. Fourty percent! And he doesn’t even DRIP them. Why on earth would people get rid of their assets that have potential to give those kind of returns after some years of ownership is beyond me. If you do a dividend return calculator going back multiple decades, you’ll find that most dividend paying securities will have similar returns once you have mature ownership of them. 
+
+6. On “timing the market”
+
+This is probably a controversial one but I definitely don’t believe in just buying whatever tickers you want because “time in the market beats timing the market”. Like I said above, time in > timing because of generational wealth, compound interest and ownership. It doesn’t mean buying the hottest Reddit ticker because you’re in for the long term. Taking well assessed risks with positive and realistic upside is ideal. 
+
+Spending time to make sure the investment you’re about to make is a good investment is smart. If spending a week or two assessing your decision is a way to “miss out on sick gains bro, it’ll go up another 50% before you buy”, it’s probably a FOMO stock and you shouldn’t be in in the first place. If patience is key, that means patience with buying is just as important as patience with holding. 
+
+At the end of the day I’m a believer in ownership. Looking through most of wealthy individuals of today and in history, they all had one thing in common: they maintained possession of assets. They don’t sell their portfolios because they’re scared of a crash, they don’t have their net worth in a savings account. They assume a little bit of managed risk and let their money work for them. 
+
+I made this post because I have to work on a Saturday and have nothing going on, I hope you at least enjoyed it or disagree with it so we can have some discussion going._END_OF_POST_PYSTOCK_ [D] Discussion: Possible delisting of Chinese companies from American SEs if they don't fulfil some requirements (NIO, Alibaba, ....) So, I came across this article: [https://www.investors.com/news/china-stocks-delisting-threat-grows-for-alibaba-nio-house-vote-kandi-fraud-allegations/](https://www.investors.com/news/china-stocks-delisting-threat-grows-for-alibaba-nio-house-vote-kandi-fraud-allegations/) . Now I have some money in some Chinese companies, so I would like to hear your opinion on this issue._END_OF_POST_PYSTOCK_ Hyliion Part 2 I got in SHLL at $20 and sold at around $50. It is now sitting at $18, so how did I have a gut feeling this was going to moon? I compared it to it's competitor, NKLA, that recently changed ticker and mooned to an extraordinary valuation for vaporware. Hyliion, on the other hand, had vehicles on the road and had a more realistic idea on how to transform the trucking industry. Well, Hyliion part 2 is happening right now, except it's just getting started.
+
+NGA is the new Hyliion, and CIIC is the new NKLA. CIIC, merging with Arrival, is an EV bus and delivery truck maker. While their vehicles look nice, they are nothing but vaporware right now and aren't expecting revenue until 2022, if all goes perfectly. Also, they are promising to build "Microfactories" that will be a self-proclaimed game changer to how commercial vehicles are made. Sounds pretty memeable and it is, which is why its currently valued at 16.6 billion. Buying now would be very high risk, low reward. However, it's lesser known counterpart NGA is decently low risk, high reward. NGA is valued right now at 2.43 bil. That's a massive difference. I'd argue that NGA is only valued this low because it's still very much unknown, just like Hyliion was at 13-14. While CIIC is mooning based on vaporware, let's discuss what NGA has that makes it an attractive investment:
+
+* [300 buses currently on the road that have driven a total of 6 million miles.](https://imgur.com/a/ImGqyg8)
+* Valued at (2.43 / 16.6) \* 100 = 14% of CIIC competitor
+* Canada-based with canadian government backing [https://www.trucknews.com/transportation/trudeau-visits-lion-electric-calls-electric-vehicles-economy-of-the-future/1003137089/](https://www.trucknews.com/transportation/trudeau-visits-lion-electric-calls-electric-vehicles-economy-of-the-future/1003137089/), of which Quebec has decided to ban the sale of gas powered vehicles by 2035 [https://www.reuters.com/article/us-autos-canada-emissions/quebec-to-ban-sale-of-new-gasoline-powered-cars-from-2035-idUSKBN27W289](https://www.reuters.com/article/us-autos-canada-emissions/quebec-to-ban-sale-of-new-gasoline-powered-cars-from-2035-idUSKBN27W289)
+* [Are planning to build their own batteries](https://imgur.com/a/vjQAmyZ), which will be possible from the trust, and [are currently building their own charging stations (SBE memes) with V2G technology](https://imgur.com/a/jBGYDZK)
+* [Currently building 7 different vehicle types with 8 more coming in the next 2 years.](https://imgur.com/a/N30i2zM)
+* [EBITDA positive next YEAR (WTFFFF). Take notes FSR, NKLA.](https://imgur.com/a/fOjon9F)
+* [Has an order from an unnamed company for 2500 trucks](https://imgur.com/a/ARLZl6t), and an [order for 10 trucks from AMAZON for a test run](https://imgur.com/a/sQztnez). If amazon likes their vehicles enough to buy more, this will moon.
+* [Developing a US manufacturing facility](https://imgur.com/a/617pLBs) and a battery R&D and production plant.
+* [12 years of experience designing, developing, and manufacturing electric vehicles.](https://imgur.com/a/9ZgSj05)
+* [Already has a manufacturing facility that can produce up to 2500 vehicles annually.](https://imgur.com/a/lS13wsB)
+* Class 8 vehicle has the ability for battery swapping. [https://electrek.co/2019/03/12/lion-electric-class-8-truck/](https://electrek.co/2019/03/12/lion-electric-class-8-truck/)
+
+This is one of the best EV opportunities yet based on current valuation and with everything that they are doing. This is many hot companies in one (RMG, SBE, CIIC, etc) come to mind, and you can see how well those stocks are doing recently. This one just announced a DA last week, so it's still very new. CIIC is going to NKLA levels of valuation for nothing but vaporware while a lesser known company with more realistic expectations and a better long term hold NGA is just getting started. The $25 PT I have for NGA would mean it is trading at a mere 2.65x 2023E revenue (CIIC is currently trading at 3.25x 2023E revenue, which I think their revenue projection is insane like FSR, but I digress). NGA has a much easier road of hitting their goals.
+
+Also, I'm not saying CIIC is another NKLA as in a fraudulent company. I just think they are overhyped at their current stage.
+
+Credit to u/[aLifel0ngLearner](https://www.reddit.com/user/aLifel0ngLearner/) \- Interview with the CEO of Lion Electric to get a general overview of the company. [Here](https://www.youtube.com/watch?v=IODRAlMJ3Oo&feature=youtu.be)
+
+**TLDR** \- Buy commons of NGA and watch it go to $25+. NGA is the new HYLN while CIIC is the new NKLA. If you compare NGA to CIIC you get $25+ PT.
+
+Disclaimer: All in 100% with 6130 commons at $13.90 avg.
+
+&#x200B;
+
+Edit 1: People are accusing me of pump and dumping this stock, which I understand how you can come to that conclusion, however, that was not my intention. I'm simply reacting to the current market conditions using the same logic I applied in my past successful trade. Here was a comment I posted to another user on this thread.
+
+The point was to showcase that these type of stocks, especially spacs, follow each other very well, moreso whenever they are in the same sector. Nikola went down a lot and so did Hyliion. I'm not pump and dumping anything. I'm simply stating the fact that since NGA closely resembles CIIC and the market is evaluating CIIC at an extreme valuation then it should be logically concluded that NGA is considered to be undervalued. The reason I brought up Hyliion is because the market valuated Nikola at a 16+ bil company at the time, and Hyliion, which was trading at a measly 2.7 bil valuation can be easily interpreted as undervalued which, I believe, is a big part of the reason why it went up to 50+ in the first place. Nikola went down a few notches (back down to 7.25 bil currently), which resulted in Hyliion doing the same, since Nikola was the reason Hyliion was valuated as much as it was. I'm simply reacting to the market and playing accordingly. If the market believes CIIC should be valued at 16+ bil, then NGA is undervalued. The same logic is applied._END_OF_POST_PYSTOCK_ momentum investing has anyone found any resources on why momentum investing works? winning stocks keep winning and losing stocks keep losing usually... but what’s the philosophy or game theory behind this phenomenon? has anyone found any studies done or anything? thanks in advance!_END_OF_POST_PYSTOCK_ Most Anticipated Earnings Releases for the week beginning December 7, 2020 This Link shows the Most Anticipated Earnings Releases for the week beginning December 7, 2020. This is a resource to use to plan any future investments. Please do all necessary due diligence!
+$COUP $SFIX $TOL $CHWY $GME $ADBE $COST and more!!!
+
+[Most Anticipated Earnings Releases for the week beginning December 7, 2020](https://imgur.com/gallery/14TgSj2)_END_OF_POST_PYSTOCK_ Doordash (DASH) IPO S1 Filing Summary Here is a [video summarizes Doordash IPO S1 Filing.](https://youtu.be/4WGu4UiaqO0)
+
+Hopefully it will be useful to everyone since Doordash IPO is next week.
+
+\#’s of class A shares offered: 33M  
+IPO price: $75-$85/share  
+IPO date: Dec 8 2020  
+Ticker symbol: DASH
+
+Risk Factor:
+
+1. Incurred net loss every year since inception
+2. Net losses: $667M (2019), $149M (Sep 30 2020)
+3. Expect cost to increase over time and loss will continue
+4. Competitors: Uber Eats, Grubhub
+5. Potential reclassification of Dashers as employees instead of independent contractors
+
+Upside:
+
+1. 18M consumers, 390k merchants, 1M Dashers
+2. Has the largest market share in the US (Sep 30 2020): Doordash: 50%, Uber Eats: 33%, Grubhub: 16%
+3. Huge market opportunity: US consumers on Doordash platform is less than 6% of total US population. Gross order value (GOV) of Doordash is less than 3% of off-premise spend at restaurants and other consumer foodservices in the US.
+4. Growing revenue: $885M (2019), $1.9B (Sep 30 2020).
+
+Lock-up Agreement: (discussed in the video)._END_OF_POST_PYSTOCK_ A Way to Combat Low Rates for the 60/40 Portfolio Treasury bonds have been a great diversifier to an equities portfolio for many decades. Treasury bonds have a modestly negative correlation to equities, have appreciated in value as interest rates have decreased and they pay coupons. In December 2020, however, the 10-year is below 1% and the United States is likely to try to avoid negative interest rates, effecting capping the ceiling on appreciation for Treasury bonds. Plus, a modest whiff of inflation and you’re going to be experiencing losses on Treasury bonds.
+
+I recognize a lot of investors do not like gold, but if you’re practical it can provide meaningful value to your portfolio. A lack of cash flows/income is a very fair criticism of gold but you can create good income with covered calls on gold. **Try a 60/35/5 (gold covered calls) portfolio**. It is simple:
+
+* 1 option contract = 100 shares
+* Buy 100 shares of GLD at $172.32/share for $17,320
+* Determine the price you’re comfortable selling GLD in January 2022. $200 would be a 16% appreciation
+* Write (Sell to Open) 1 call option expiring Jan 15, 2022 with a strike of $200 for $6.70
+* You collect $670 cash ($6.70 x 100 shares) for writing the option
+* $670 / $17,320 = 3.87%. This is your homemade dividend yield
+* You get this cash when you write the option, instead of waiting for coupons over the next year. Time value of money benefit.
+* Take this $670, or 3.87% yield, and invest it back into stocks or whatever else you want to do.
+* If GLD is above $200 in January 2022, the owner of the option you wrote benefits from the upside above $200 but you still would be up 16% plus the 3.87% option premium in this circumstance.
+* Covered calls are best for non-taxable accounts so it is most advisable to do this in an IRA. If this is in a taxable account, if the option is exercised it will create a capital gain tax event on your gain.
+* If $17k is too large of a position for you on gold, you can do this same strategy with IAU but the options are not as liquid as GLD.
+
+I understand the criticisms people have on gold, but this strategy can add value to a lot of the 60/40 portfolios out there considering (1) gold has roughly zero correlation with the S&P 500 over the long-term and (2) you can get a 3.87% yield on this strategy while still maintaining good upside potential. **Going from a 60/40 to a 60/35/5 portfolio to accommodate this can work for a lot of investors.**_END_OF_POST_PYSTOCK_ ASH Annual Meeting & Exposition: Clinical data for CRISPR Three reports from EDIT NTLA & BEAM:
+
+[https://www.reddit.com/r/EditasMedicine/comments/k7902w/editas\_medicine\_announces\_preclinical\_data\_and/](https://www.reddit.com/r/EditasMedicine/comments/k7902w/editas_medicine_announces_preclinical_data_and/) (Sickle Cell Disease And Beta-Thalassemia)
+
+[https://www.reddit.com/r/IntelliaTherapeutics/comments/k791cr/intellia\_therapeutics\_presents\_new\_preclinical/](https://www.reddit.com/r/IntelliaTherapeutics/comments/k791cr/intellia_therapeutics_presents_new_preclinical/) (Engineered TCR-T Cell Treatment for Acute Myeloid Leukemia)
+
+[https://www.reddit.com/r/BeamTherapeutics/comments/k76cw8/beam\_therapeutics\_presents\_updated\_data\_from/](https://www.reddit.com/r/BeamTherapeutics/comments/k76cw8/beam_therapeutics_presents_updated_data_from/) (Sickle Cell Disease)
+
+[https://www.reddit.com/r/CrisprTherapeutics/comments/k7bpmq/crispr\_therapeutics\_and\_vertex\_present\_new\_data/](https://www.reddit.com/r/CrisprTherapeutics/comments/k7bpmq/crispr_therapeutics_and_vertex_present_new_data/) (Sickle Cell Disease) 
+
+**What is CRISPR?**
+
+[**https://www.reddit.com/r/wallstreetbets/comments/gk6up7/crispr\_introduction\_ntla\_crsp\_edit\_beam/**](https://www.reddit.com/r/wallstreetbets/comments/gk6up7/crispr_introduction_ntla_crsp_edit_beam/)
+
+EDIT: Added CRSP info_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Your Personal Opinion on the Wave of Retail Traders Just curious on what everyone's opinions are on the new wave of retail traders (ie: Robinhood) that popped up during this pandemic. Did this pandemic create a "boom" in trading that will have a lasting affect on the market even after the pandemic is over, continuing to challenge the fundamentals before it? Or do you think it is a fad that will fade once people have more things to do outside of the house, go back to work, etc...
+
+Personally, I think this will last, but I am curious to see if enough will stick around to continue to rally the meme stocks, Tesla, new IPOs, etc... and maintain the volatility as a result of this influx of new traders and unique mindsets on trading_END_OF_POST_PYSTOCK_ Disney,Apple,Amazon and the NFL rights There has been this long debacle about which company would win these NFL broadcasting rights for 2 years. What are the key driving forces from stopping Apple+ TV or Disney since they have monday nights. Amazon also has Thursday night. Im pulling for Appls + TV_END_OF_POST_PYSTOCK_ Can anyone talk to me about the crazy LEAP activity going on in $LB? Okay so I posted this in r/options and didn't get much in the way of discussion so I'm doing it again here. The January 21, 2022 LEAPs at the $45 strike had incredibly high volume yesterday and high OI today. What is going on? Is the company buying back the contracts for their equity comp? Are hedge funds taking a position? Is there going to be an activist streak soon to try and split BBW and VS apart for a short term increase? I can see Icahn, Ackman, or even Elliott Capital doing it especially because $LB isn't going anywhere anytime soon. I have no idea how to understand anything like this because I usually don't deal with LEAPs but I have to learn how to do it somehow._END_OF_POST_PYSTOCK_ Realized P&L Historical data? I read the rules and I know this isn't a news article, but it should incite some responses related to investing. I've been learning and playing with small amounts of money for about 6 months now, so there is a ton to learn still. I'm curious if there is any information regarding historical data that shows a total sum of all realized p&l for firms and the general population each year. As in, is there a historical record of how much money is gained and lost in the market every year? I'm sure this information can be found for specific investment firms, or very easily with the right search, but I did a search and wasn't coming up with anything. Forgive me if this is an ignorant question. Thanks._END_OF_POST_PYSTOCK_ Shorts questions Hello all, I've been seeing a lot of posts about GME short situation and I can't understand a few things.
+1. How can there be more shares shorted than total outstanding shares?
+2. Did the shorts not see that the total number of shorted shares is entering a dangerous territory? Why would anyone continue shorting if there are already a ton of shares shorted?
+3. How can the shorts come out with a profit given the current situation? 
+
+Thank you._END_OF_POST_PYSTOCK_ IPO purchase platforms differences? Between the trading platforms that offer the ability to purchase shares in an IPO, are there pros/cons to that ability between platforms? (e.g. ability to purchase a greater amount, etc) TDA is quite restricted in that ability, so looking to use an additional platform for this purpose._END_OF_POST_PYSTOCK_ What are factors in deciding whether a company should be shorted or not? Shorting discussion Hey investors. I am not if this sub is short selling friendly, but I have a question about how one determines if a company needs to be shorted. Everyone I speak to will tell me that they have lost more in short than in long. I understand that over time, stocks are more likely to rise in price but I am curious to know how short sellers do it.
+
+There are obviously very successful short sellers, and I am having a hard time grasping what they do for due diligence in order to find fraud, pumped up numbers and determine bankruptancy before the majority does. 
+
+It's so hard to predict how a company will develop into.  So how does a short seller successfully determine which company to short?
+
+Man, I am reading how some were able to predict the downfall of several companies etc. It's just insane how they did that._END_OF_POST_PYSTOCK_ When do you know when to sell a stock you're up on? I know the adage let winners run... But how do you know when to sell a stock that you're up big on?
+
+For example, I got Boeing at 120, it's now at 240. I feel it has potential to get back to 350-400 when the pandemic finally ends but I don't want to see it round-trip lower.
+
+Do you scale out?_END_OF_POST_PYSTOCK_ Is AMZN the biggest player? I recently became very interested in outstanding shares and how the amount of shares can change for a stock over time. During the process, I charted AAPL, AMZN & MSFT for the last 15 years. I included share price, outstanding shares and assets into the charts (links below). 
+
+All three companies experience exponential growth in their stock price as expected. What I find interesting is that Microsoft's outstanding shares have decreased in a somewhat linear fashion by roughly 30%. For Apple, outstanding shares increased slowly till around the time Steve Jobs died (figures) and then proceeds to decrease linearly for a total reduction of about 30% as well. On the contrary, AMZN has increased shares by 20% over the same period of time!
+
+Now i'm curious what it all means?!
+
+It's worth noting that AMZN's assets are seeing (what seems to be) exponential growth whereas microsoft is linear and apple when from a linear growth to a slight decrease for the past few years.
+
+Is Besos creating that much more of a monster by creating shares consistently along the way so that the company has insane asset growth? 
+
+&#x200B;
+
+Let me know what you think... I just really wanted to start a discussion. I am sure this isn't news to everyone but it was to me and I want to know what others think!
+
+&#x200B;
+
+Here are links to the stock charts:
+
+[https://www.profitspi.com/stock/view.aspx?v=stock-chart&uv=223489](https://www.profitspi.com/stock/view.aspx?v=stock-chart&uv=223489)
+
+[https://www.profitspi.com/stock/view.aspx?v=stock-chart&uv=223490&p=MSFT#&&vs=637427250089499814](https://www.profitspi.com/stock/view.aspx?v=stock-chart&uv=223490&p=MSFT#&&vs=637427250089499814)
+
+[https://www.profitspi.com/stock/view.aspx?v=stock-chart&uv=223492&p=AMZN#&&vs=637427250301403091](https://www.profitspi.com/stock/view.aspx?v=stock-chart&uv=223492&p=AMZN#&&vs=637427250301403091)_END_OF_POST_PYSTOCK_ Experience a large unexpected drop in your mutual fund recently? Read this before making your own post please. A mutual fund is essentially just a basket of individual stocks/bonds/whatever. Within that basket the fund managers are constantly selling/buying and receiving dividends. The IRS has special rules for mutual funds which allow them to not pay taxes on the capital gains/dividends generated provided they pass through almost all of the proceeds from said activities to the shareholder within the calendar year. So dividends are often paid on some set schedule but capital gains are generally retained within the fund till the end of the year(because losses can reduce gains but can't be distributed to a shareholder). 
+
+So on to why your fund dropped: in mid December everyone starts distributing these gains and as we know when a fund makes a distribution its NAV drops by an equal amount. For example a fund that was trading at $10 and had It's value made up of $9 worth of stock and $1 worth of cash to be distributed now no longer has that $1. So it'll drop by 10% because of that fact. Don't worry, you didn't lose any money because the $1 was paid to you in cash(and in most cases reinvested in the form of buying more shares).
+
+There isn't any value created or lost in a distribution(except to taxes) it's just a necessary taxable transaction that must occur because of how mutual funds are structured. ETFs are technically subject to this as well but since most follow passive cap weighted strategies or use the creation/redemption to wash out appreciated shares so they don't usually have capital gains realized to distribute.
+
+Also please feel free to add whatever questions/comments you have to this sticky.
+
+Here's a quick way to see what capital gains estimates/distribution dates are for most funds:  
+https://mutualfundobserver.com/discuss/discussion/56970/2020-capital-gains-estimates   
+Ctrl + f your fund family. Chances are it's on one of these two pages. If not, google search "______ funds capital gains distributions 2020"
+
+Please note we'll probably be deleting any threads on the subject and pointing people here in order to keep the clutter down._END_OF_POST_PYSTOCK_ MLP trading tax question Does anyone know how the income allocation is determined? For example, if I own MLP units for just a couple of months and sold out before receiving any distribution, would this mean that I get allocated pro-rata 2 months out of 12 months of income?
+
+So I own units of an MLP now but just realized that they have taxable income in many states. can I sell out now and not have to worry about filing a bunch of state income tax forms since I haven't received any distributions yet?_END_OF_POST_PYSTOCK_ Aren't airline stocks bound to go up eventually? I'm looking at Air Canada and they're sitting at around $27, whereas before COVID they were approx $50. Isn't it a given that big airline companies will go back to their original values (or close to their original values) once COVID isn't a problem anymore.
+
+I'm new to investing but it seems like a safe bet in my opinion. Was looking for your guys' thoughts._END_OF_POST_PYSTOCK_ What are your stock picks for the end of 2020 onto 2021? What do you think will be the next TSLA, AMZN, PLTR? Just wanted to hear some newer stock picks or recommendations besides the typical reddit “meme” stocks.
+
+Do you have any undervalued or new stocks you’ve invested in or will invest in soon? Why do you think there’s major growth in that stock?
+
+It’s so interesting to see how impactful reddit is. Even though it’s not always correct, there are always many picks that become super popular and thus have huge growth.
+
+What do you think will be the next kind that you’re investing in soon for 2021 and the future?_END_OF_POST_PYSTOCK_ VTI shares trading way below value I have a lot of my money in VTI. When I logged into one of my brokerage accounts today it showed a 16 point drop/loss in VTI. I was confused because VTI (and everything else) was way up today. I then looked at the recent trades and saw 215 shares traded at $175 and not the $191 VTI is currently trading at. What causes this? I typically sell at market so I want to avoid ever selling shares this far below value. Here is a screenshot of what I'm talking about: [https://imgur.com/Ao9YQAh](https://imgur.com/Ao9YQAh)_END_OF_POST_PYSTOCK_ How America Invests 2020 Vanguard just published a very thorough [paper](https://personal.vanguard.com/pdf/how-america-invests-2020.pdf) on how US invests. 5 million retail investors' data were analyzed! It's a really interesting and insightful read so I figured some folks here would enjoy it. This may help you determine where you stand in the crowd.  e.g., Figure 7 (pg. 14) documents the median balance of the taxable and different retirement accounts. These numbers can either comfort you or motivate you.
+
+Edit: Thank you for the award!_END_OF_POST_PYSTOCK_
