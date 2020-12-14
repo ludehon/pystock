@@ -1,0 +1,262 @@
+ Vanguard Volatility Calculation Hi all,
+
+Hoping there are a few Vanguard investors who would be able to answer the following question. Vanguard’s Buying Power on a margin account, as far as I can tell, is (~50% of your holdings + cash on hand in your Money Market Fund) multiplied by 2. It stands to reason that if you had no holdings whatsoever and only cash in your MMF, your Buying Power would be double your cash position. If so, is that always the case?
+
+I’m familiar with Robinhood’s volatility feature that limits a full 2x buying power on positions that meet certain conditions, such as small price shares or a small market cap. Does Vanguard apply the same buying power ceiling, such that you need to put up *more* than 50% cash in certain circumstances?
+
+I use Vanguard for my Roth and some buy and hold positions in a margin account, so if Vanguard always allows 2x buying power on all positions (in cases where Robinhood might limit the amount I could invest), I would strongly consider shifting everything over to Vanguard instead of dividing my cash between the two.
+
+Thanks in advance!_END_OF_POST_PYSTOCK_ Is French Dividend Tax also for foreign shares on a French market? France residents pay a dividend tax of 30% when French shares pay dividend. 
+Some countries have agreements with the French government for a reduction in these tax tariffs (for non-French people investing in French shares). 
+
+I however don’t know if French tax of 30% is applicable for i.e. English shares on the Paris market for example. 
+Those English shares are deposited in France of course, but the domicile of the issuer is a different country.
+
+Can someone give me some clarification?_END_OF_POST_PYSTOCK_ OTC Penny Stock Trading Hey everyone.  On 12/3  I bought 100 shares of ELLXF  at $0.219 and 100 shares of KHRNF at $0.31.  Today the value of ELLXF says $21.90, like I haven't lost anything on it yet, but today's gain/loss says -$0.10 -0.45% and total gain/loss -$46.45 -67.96% ....... but the balance doesn't reflect those percentages.  I'm confused.  Cost basis $0.68/share or $68.35.  KHRNF shows a balance of $31.36 with today gain/loss of -2.27% and total gain/loss of -0.57%.....but again, the current value doesn't reflect the percentage decrease.... 
+
+I'm new to investing so please forgive me if I'm missing a basic idea here.  I've been thinking about this since I saw the activity.  The only things I can think of that would cause this are exchange rates and/or brokerage fees.  Both of these are international, Canada and Australia I believe.  I trade through Fidelity.  TIA_END_OF_POST_PYSTOCK_ FireEye, a Top Cybersecurity Firm, says it was hacked by a nation state. Article mentions it may be Russian backed. "It was a stunning theft, akin to bank robbers who, having cleaned out local vaults, then turned around and stole the F.B.I.’s investigative tools. In fact, FireEye said on Tuesday, moments after the stock market closed, that it had called in the F.B.I."
+
+
+https://www.nytimes.com/2020/12/08/technology/fireeye-hacked-russians.html_END_OF_POST_PYSTOCK_ The stages of index investing These stages are not my own. I just uncovered them however they described my experience to investing to a tee. So I thought I’d share. 
+
+
+https://www.fiphysician.com/the-education-of-an-index-investor-an-future-book-by-rick-ferri/
+
+1: Born in darkness; When I first started off I didn’t really know much. I invested heavily into MSFT and less so into JPM because well, I knew them. Ngl I got pretty good returns. Until bitcoin started to gain in popularity and I made a lot of money with that thankfully. However the more money I had I the more stressed I got, that’s when I learned about diversification and index funds. Which is a segue into...
+
+2: Finds Indexing enlightenment; After I learned about index funds, I invested heavily into them. They seemed so easy and great. 
+
+3: Over-complicates everything; I found these index funds so nifty that I probably had upwards of 20 different index funds at one point, I was after the perfect portfolio of perfectly weighted small cap value, REITs, mid caps, and you name it. It then began to be very difficult to track and rebalance my allocations. This lead to....
+
+4: Embraces simplicity; now I realize I was just shooting myself in the foot having so many indexes and ETFs. I’m slowly working on moving into just 7 funds (VOO, IJH, IJR, VNQ, VXUS, VNQI and AGG). I’m sure one day I’ll narrow it down even more, I’ll probably eliminate IJH and add it to VOO, or I’ll eliminate VNQI and add it to VXUS. 
+
+I’m not gonna lie, it’s been hard simplifying down. It’s stressful selling things I’ve become accustomed to having while also managing tax implications. 
+
+My opinion to everyone else who hasn’t hit stage 4 yet; good luck._END_OF_POST_PYSTOCK_ What are your key metrics when choosing an IPO to invest in? Hey all,
+
+Pretty much as the title says. With regular stocks, you can look at P/E ratio, there's plenty of technical charts etc, but a lot of this doesn't exist when a company is about to IPO.
+
+What sort of metrics are best to consider in this case? At the moment, I check the CEO (do they have a history of successful companies), what companies are they currently working in, how "future proof" is their business and model (quite a subjective one), but not many hard metrics.
+
+Does anyone have any thoughts?_END_OF_POST_PYSTOCK_ Looking for more insight on BYND Beyond Meat. Hey everyone, so i bought into beyond in march and closed my position sometime in june. I also rode up VERY Very good food company for a while from 1$ until closing this week. I'm clearly pretty bullish on plant based foods however I'm looking at Beyond again wondering if it's a good opportunity to buy as it seems to be beaten down a bit. My question is whats beyond meats moat like? Do they have/need anything beyond their branding? I'm trying to see where they go in 5-10 years past just having okay tasting mushy meat and fast food chain deals. Are they innovating in plant based meat? I assume they have won once their fake meat is 1 to 1 with real meat but is that even a likely goal. The reason I liked VERY was that they nailed the taste and texture but with regards to the product its basically just fancy good tasting meat alternatives. Does Beyond have an edge I'm missing or will the competition kill its current share price?_END_OF_POST_PYSTOCK_ Investing strategy that rotates between indexes and T bills given volatility? What do you think about rotating between T bills and index funds (S&P 500) based on crossing of a volatility threshold? (i.e. if VIX exists above 20, invest into bond, if below 20 invest into the index) as a strategy for market outperformance or hedge of drawdown risk?
+
+Has anyone tried this or can give stats on how such a stategy might play out?
+
+EDIT:
+
+u/cb_hanson_III and u/kiwimancy have provided excellent reads on the topic, [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2879234) and  [here.](https://www.dropbox.com/s/4y24nnab001bd0l/JF_PublishedVersion_Moreira_Muir_2017.pdf?dl=0)
+
+&#x200B;_END_OF_POST_PYSTOCK_ Motley Fool 5G Supercycle I just bought the list of 5G Next Gen Supercycle stocks and man is Motley Fool relentless in asking me to buy more.  This one was expensive enough.
+
+Couple questions
+1)  Did anyone buy that Money 2.0 they had today?
+2) Whats everyones opinion on Motley Fools lists?  They say that they beat the market everytime but im concerned about the time they get in versus when I would.
+
+If anyone would like to share or "talk" about their lists, I'd love to help where I can.  Shoot me a PM.
+
+Thanks!_END_OF_POST_PYSTOCK_ Berkshire is more than Buffett I swear to god if I read another article about Buffett buying Snowflake or another business that he obviously does not understand I am going to blow a gasket. There are at least 4 lieutenants that are buying positions other than Buffett and Charlie.
+
+People writing these articles are either too lazy to do enough research to realize that Warren Buffett is not the only person that allocates capital in Berkshire Hathaway or they are purposefully misinforming the readers of their articles to increase readership. Both of these in my opinion should disqualify them from trying to inform the masses about investing.
+
+The stake they bought in Snowflake was less than $1 billion. In relationship to the amount of cash on hand in berkshire that is the equivalent of the $50 bet you make on the Browns to go to the Super Bowl. It is a small drop in the bucket.
+
+TL;DR Saying Buffett is buying something is not the same thing as Berkshire Hathaway is buying something_END_OF_POST_PYSTOCK_ Investing in Fnatic - investment or scam? Hey guys! 
+
+I've been wanting to get into investing for a solid while now, and now I got presented to invest in one of my favorite esports teams, Fnatic. At first, I was very excited, when the opportunity launched, though... 
+
+ [Invest in FNATIC. Shape the future of esports performance.](https://invest.fnatic.com/) 
+
+I'm not very good at the business jargon yet, but if I read it right... It looks more like a kickstarter funding campaign than it does like actually buying a part of the company? 
+
+Can someone more experienced help me? 
+
+Would I actually be buying a piece of the company that will then grow in value over time and pay me dividends, or would I basically be donating money to the organization?_END_OF_POST_PYSTOCK_ What's with all this sudden financing? In over 25 public companies from GSX Techedu and Tesla to MicroStrategy, there is a sudden wave of companies raising capital through convertible bond structures and new stock issuance. Why now, why so many at once?
+
+Could this be a way of them raking in the last bit of juice from these euphoric capital markets before the sun sets? Absolute milking of capital markets, yet no value produced. Pretty soon a lot more of these tech companies will be using only their stock as collateral for loans, employee salary and whatnot. This is incredibly reminiscent of 1999-2000.
+
+"GSX Announces Private Placement Financing of US$ 870 Million"
+
+[https://finance.yahoo.com/news/gsx-announces-private-placement-financing-080000439.html](https://finance.yahoo.com/news/gsx-announces-private-placement-financing-080000439.html)
+
+"Tesla's $5B stock offering taps skyrocketing value"
+
+[https://finance.yahoo.com/news/teslas-5b-stock-offering-taps-130948237.html](https://finance.yahoo.com/news/teslas-5b-stock-offering-taps-130948237.html)
+
+"MicroStrategy to Raise $400 Million to Buy Even More Bitcoin"
+
+[https://finance.yahoo.com/news/microstrategy-raise-400-million-buy-220017861.html](https://finance.yahoo.com/news/microstrategy-raise-400-million-buy-220017861.html)_END_OF_POST_PYSTOCK_ Potential 5-10x SOLY (soliton) is poised for rapid growth and eventual buyout DD included **TLDR;** Buy SOLY (Soliton), stock will be a 5x in 2-years or less and 10x in 5-years or less. Technology/marketing/sales/etc… is being led by ABBV executives for eventual buyout and integration into their aesthetics business. New CEO is a Winklevoss 2.0 and the other brother is VP of marketing at AbbVie. Executives, management team, and medical advisory team all have strong ties to helping coolsculpting get bought out by Allergan for $2.48 billion.
+
+Ok, it’s time I shared an actually good pic for you nards to make some money. Disclaimer here, there are no options presently available for the stock and you may need to hold for at least a year. So… now that 90% of you degenerates are no longer reading here is the DD.
+
+Soliton is a company that develops, produces, markets, and sells a medical device that uses rapid acoustic pulse technology to provide minimally invasive (and non-invasive) treatment for several aesthetics treatments and enhancements. Pretty much they have invented a device that removes tattoos in 3 visits, reduces the appearance of cellulite, and can remove the appears of scars. Their business model is based on the “razor and blade” strategy where they sell the device then profit from each cartridge used in the treatments.
+
+1. Invented by Christopher Capelli, an MIT engineer and medical doctor, who led the office of technology-based ventures at the university of Texas before leaving to co-found Soliton.
+
+a. Significant because this man’s job was literally to review medical device technology. He must have seen hundreds or thousands of different devices in his time there and has seen which one’s workout and which don’t. Upon coming across this device (which maybe he made, maybe a student made, maybe it was a combination of both) he ups and quits his job because THIS IS IT! The one that will make him a billionaire
+
+2) The Science Advisory Board for Soliton has 9 people who are members of the Zeltiq/Coolsculpting/Abbvie Medical Advisory team. Ironically enough, this device directly compliments the CoolSculpting treatments and the aesthetics portfolio that Abbvie is building out.
+
+a. Significant because CoolSculpting has been growing and become more and more readily available and once Soliton’s RAP devices launches it will be directly integrated into each office.
+
+3) The Winklevoss twins 2.0 are Brent and Brad Hauser. They both attended Standford where they were track stars they eventually made their way into medical device industry. Following a similar path they were both involved at the executive level in Zeltiq (ie. Coolsculpting) before the buyout and then were executives for Allergan (Allergan bought Zeltiq, then allergan was bought by Abbvie) and eventually Abbvie. Although working in different capacities they were closely tied in working on the projects/business.
+
+a. Significant because what has happened is Abbvie seem to already be planting their people at Soliton to guide it in the right direction and ensure its success before they decide to add it to their portfolio. They told Brad, who was on the board of directors for Soliton while working at Abbvie, to take the CEO position so they have more control. Meanwhile ‘ol Brent is still at Abbvie, probably talking over thanksgiving dinner about all the money they will make when the buyout happens in a few years.
+
+4) FDA approval has already been granted for the purpose of removing tattoos. Tattoos can now be removed in 3 visits vs what would normally take 8-10 visits. Soliton has hired our marketing team and distribution partners for their launch in Q2 2021. FDA approval for purposes of cellulite treatment should take place in the next 1-3 months.
+
+a. Significant because they have a real product with real results that adds real value to the market and by this time next year they will be rolling in revenue. FDA approval for the device has already been granted so the approval for cellulite treatment is damn near guaranteed. Then… it is on to the FDA approval for keloid and hypertrophic scar reduction which is supposedly a bigger market than tattoo removal and cellulite reduction combined.
+
+5) Lack of options and small number of shares outstanding has caused institutions to overlook the company for now. This will probably change once volume picks up, revenues start showing next year, and cellulite FDA approval is finalized.
+
+Many of us gripe about someone posting DD *after* the stock had it big climb. I was going to wait to prove right, but I though this would be helpful for everyone to know of this lingering opportunity. I sincerely hope you make money. Once you start connecting the dots, you can see how this company is actually being groomed to be acquired by Abbvie and if they spend the same amount on SOLY as they did for Zeltiq (2.48 billion), you are looking at 13x return from today’s price.
+
+Why wouldn't Abbive just buy them now? Well, it’s a pain the a$$ do buy a company, especially one that hasn’t sold anything yet. I think they want to just leave the heavy lifting and regulatory crap to Soliton but once the FDA approvals go through, sales start happening, and they get concrete proof of the market potential, then they will step in. And with so many board members and executives with ties to Abbvie, who do you think will get the first opportunity?!
+
+Good luck to all
+
+&#x200B;
+
+Edit: Be careful with your buys. Because of the low volume, bigger purchases can cause it to jump up on you. You can want to enter slowly_END_OF_POST_PYSTOCK_ Palantir of Sports Betting: Genius Sports (DMYD) Positions: $146k in DMYD shares.
+
+Hello reddit, I’m the guy who brought you several other SPACs. Mods hate SPACs for some reason, but SPACs are back and we’re all here to make money.
+
+Here’s one that hasn’t pumped yet that stands to have 100% upside potential, max loss 10% from here, and option chains coming soon.
+
+DMYD is taking Genius Sports public.
+
+https://news.geniussports.com/wp-content/uploads/2020/10/GSG-Investor-Presentation.pdf
+
+So who is Genius Sports?
+
+Genius is one of two stats data providers for all major sportsbooks. (Other one being SportsRadar.) This is a two headed duopoly that feeds Draftkings, Fanduel, MGM, etc.
+
+Palantir is a longterm winner due to its ability to process data, thus making it a partner for governments and corporations alike. Sports teams and sports books treat Genius the same way. See below for some DD from the college sports world.
+
+I reached out to a friend who works in college sports, not a stock guy. His take: https://imgur.com/gallery/yfIs48H
+
+Genius is a machine in college and pro sports, already posting $100M+ revenue and positive EBITDA margins, and trading at a major discount to other sports betting companies. They have multiyear locked contracts with several sports leagues, and will continue growing quickly as betting legalizes nationally. 
+
+Don’t miss the next great sports gambling play. $11.50 now, $20+ soon._END_OF_POST_PYSTOCK_ Cathy Wood predicted Bitcoin, Tesla, Square, Invitae and now Crispr Basically her top 5 companies/assets that she was the most bullish on, has 10X'd or is in the process of 10Xing right now.
+
+In an older interview she talks about the research she did on Crispr. Actually going to one of their labs and seeing them completely cure a rat of cancer. And how mind blowing and revolutionary that this technology would be for healthcare. This interview was 2-3 years ago. Long before the general crowd on Reddit started posting about the company. If you had a concentrated portfolio just buying and holding her top 5 bull cases, you would've 10-20X'd your networth._END_OF_POST_PYSTOCK_ Stock bubble held by low interest rates? Hey guys, it is my first time posting here and I thought this could be interesting.
+
+As of right now, the stock exchange continues its bullish run, reaching a point where it could definitely be considered overvalued as a whole.
+
+According to Buffet's Indicator, which divides the total market cap by the total GDP, we find ourselves at a point where the stock market appears to be just as overvalued as it was during the 1999-2000 .com bubble.
+
+Certain stocks such as the EV industry related keep growing at an alarming rate, with Tesla reaching a P/E ratio of +1000.
+
+FED interest rates remain at an all time low after this COVID-19 crisis, keeping borrowing attractive, whereas in 1999, they had increased to over 5% before the bubble bursting.
+
+My question here is the following, is this temporary lowering of interest rates hiding the real state of the stock market?
+
+Will this bubble burst once borrowing is made less attractive to people/ institutions?
+
+Is this bubble being held by current low interest rates and increased short term spending?
+
+Let me know what you guys think about this._END_OF_POST_PYSTOCK_ AT&T has added 4 million HBO Max subscribers since Sept. 30, CEO John Stankey says >HBO Max now has 12.6 million activated users, up from 8.6 million on Sept. 30, Stankey said during UBS’s Global TMT conference. Stankey credited new original content, such as “The Undoing,” for the surge in subscribers.
+
+>Stankey and WarnerMedia CEO Jason Kilar are aggressively stocking HBO Max with new content in an effort to get to 50 million U.S. subscribers, the streaming service’s 2025 goal. By comparison, Disney+ in November blew past expectations for its first year with 73.7 million subscribers.
+
+>The company shocked Hollywood last week with its decision to release its entire 2021 slate of movies, 17 in all, on HBO Max the same day as their theatrical release. Stankey reiterated the decision was made with customers in mind but also said AT&T would “adjust and work the model differently” if people return to theaters in droves when the pandemic ends.
+
+https://www.cnbc.com/2020/12/08/att-has-added-4-million-hbo-max-subscribers-since-sept-30.html_END_OF_POST_PYSTOCK_ Has anyone checked JEF? ( not the one “My name is Jef”) So when i was going through ValueLine survey today in the morning, found that Jefferies ( investment banking firm) has been trading at Price to Book ratio of around 0.7. Did another quick half and hour research before market opened and it seems this JEF has been doing pretty well , they have earnings CAGR ar 16% for the past 2 decades, been paying dividends, found share buybacks. And i have heard the name only on Cnbc before when their analysts were giving price targets to companies. Anyways i bought a reasonable stake now it is time to investigate. ( as Soros says - buy first, investigate later) the reason writing this as i am going through their financial reports , anyone here has done some DD on this before, why is this boutique investment firm is trading at level next to energy stocks? Thanks. Will keep you updated whether i decided to exit or bought more. ( For moderators, please dont delete, i am not sure whether this is the place to post this thing)_END_OF_POST_PYSTOCK_ Ray Dalio is holding an AMA today from 3-4:30PM EST! "As many of you know, I've been studying the forces behind the rise and fall of great empires and their reserve currencies throughout history, with a focus on what that means for the US and China today. Many of the things now happening the world-like the creating a lot of debt and money, big wealth and political gaps, and the rise of new world power (China) challenging an existing one (the US) -haven't happened in our lifetimes but have happened many times in history for the same reasons they're happening today.
+
+Today, I'll be doing a Reddit AMA from 3-4:30PM EST, where I can discuss this with you and we can explore the patterns of history and the perspective they can give us on what is happening today."
+
+Source:https://www.linkedin.com/posts/raydalio_as-many-of-you-know-ive-been-studying-the-activity-6742102470564155392-MXXA_END_OF_POST_PYSTOCK_ Stocks After a COVID Pandemic World There is no doubt that after the initial downtrend in all stocks in March 2020 many technology related stocks prospered and surged past all time highs and are still there. With the rollout of vaccines soon and into 2021, the COVID threat could dwindle down significantly and things could begin returning to their pre-COVID "normal".
+
+That being said, what is your opinion on how our life will be changed? Will companies encourage more remote work? Will these technology giants continue to prosper further, stay the same, or return to "normal" prices?
+
+It is interesting to think about. I for one think once everything returns to "normal" we will see some of these prices fall back. However, in the coming months and years companies will begin to realize the benefits of remote work and as a whole the modern world will continue to be more technologically advanced and thus we will see tech stocks to continue to dominate, in short.
+
+What do you think?
+
+/edit
+
+Post has become more or a remote work argument, which is not the point of the post._END_OF_POST_PYSTOCK_ Question: Why would company A offer to buy company B with stock and put options of company A? Hi,
+
+An Israeli airline company, Israir, is up for sale.
+
+The owner of one of the petrol companies in Israel (TLV: DRAL) made an offer to buy it for 100M NIS in cash, 30M in his company's stock, and 18M in put options on his petrol company.
+
+What's the idea behind paying using put options on his own company? Is it to balance out the scenarios where his stock will rise (which will make the offer larger than intended) with the scenario where his stock drops, which would make the put options worth something?
+
+I don't get it._END_OF_POST_PYSTOCK_ Pfizer vaccine announces they won't have enough for America. Is this going to impact our investments? So it turns out that Donald Trump's administration declined to buy more than 500 million doses of the Pfizer vaccine.
+
+[https://www.cnbc.com/2020/12/08/covid-vaccine-us-declined-pfizer-offer-for-more-doses-says-scott-gottlieb-.html](https://www.cnbc.com/2020/12/08/covid-vaccine-us-declined-pfizer-offer-for-more-doses-says-scott-gottlieb-.html)
+
+We are only getting enough for 50 million Americans, about 1/6 of the population.
+
+Pfizer has obligations to ship their vaccines to other countries and America won't be getting more until June-September.
+
+[https://finance.yahoo.com/news/pfizer-tells-us-cant-substantial-050213822.html](https://finance.yahoo.com/news/pfizer-tells-us-cant-substantial-050213822.html)
+
+Other countries are getting it, but not the US.
+
+Does this change your investment outlook for 2021?
+
+It does change mine, it really destroys the optimism about getting back to normal._END_OF_POST_PYSTOCK_ Gold and silver prices after Covid vaccine rollout The price of gold and silver dropped back in March when the lock downs begun, which is the opposite of what I would have expected.
+
+How do you think the price of gold and silver will react to the roll out of the vaccine (as is soon to happen in the UK where I am) and the economy opening up again over the coming months?_END_OF_POST_PYSTOCK_ Companies Owned by a Majority Stakeholder I was doing some research into Magellan Aerospace ($MAL) and saw that when they almost went under during the 2008 crisis, the founder of the company managed to increase his ownership to 75%.
+
+This guy's a semi well-known Canadian businessman, co-owner of the Calgary Flames - so he's no scrub.
+
+But it had me questioning if this large ownership by a single person was a good or bad sign. What are the implications of this compared to a company with many large stakeholders?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ When is immediate or cancelled used as a buying/selling strategy? Why not just limit? 
+As the title says, I've been making market and limit orders and collecting $500 here and there.  Now that "I got the hang of it"  see the other buttons and knobs. I understand the definition they are giving me but when do you use non -market or limit trading shoes?   You can even push me off to a good resource if you have one. Thanks. I'm trying to find a little more info on the less used buying types and what motivates people to use those types._END_OF_POST_PYSTOCK_ Tesla is raising an additional $5 billion in equity capital https://www.sec.gov/Archives/edgar/data/1318605/000119312520312194/d60067d8k.htm
+
+>On December 8, 2020, Tesla, Inc. (“Tesla”) entered into an equity distribution agreement (the “Equity Distribution Agreement”) with Goldman Sachs & Co. LLC, Citigroup Global Markets Inc., Barclays Capital Inc., BNP Paribas Securities Corp., BofA Securities, Inc., Credit Suisse Securities (USA) LLC, Deutsche Bank Securities Inc., Morgan Stanley & Co. LLC, SG Americas Securities, LLC and Wells Fargo Securities, LLC, as sales agents (each, a “Sales Agent” and collectively, the “Sales Agents”), to sell shares of common stock, par value $0.001 per share, of Tesla (the “Common Stock”) having aggregate sales proceeds of up to $5.0 billion (the “Shares”), from time to time, through an “at-the-market” offering program (the “Offering”).
+
+>Upon delivery of a placement notice and subject to the terms and conditions of the Equity Distribution Agreement, the Sales Agents will use reasonable efforts consistent with their normal trading and sales practices, applicable state and federal laws, rules and regulations, and the rules of the Nasdaq Global Select Market to sell the Shares from time to time based upon Tesla’s instructions for the sales, including any price, time or size limits specified by Tesla. Under the Equity Distribution Agreement, the Sales Agents may sell the Shares by any method permitted by law, including in ordinary brokers’ transactions, in negotiated transactions, in block trades, and in transactions that are deemed to be an “at-the-market offering” as defined in Rule 415(a)(4) under the Securities Act of 1933, as amended (the “Securities Act”). The Sales Agents’ obligations to sell the Shares under the Equity Distribution Agreement are subject to satisfaction of certain conditions, including customary closing conditions._END_OF_POST_PYSTOCK_ 63$ long position on lemonade .should I take my profits ? Or wait for another load ... Right now it’s on 90s i bought it when it was 63 . It’s touched the 99.99 and then dip a bit ,but right now 90s/80s looking stable ...of course I can hope for additional load up but the question is “should I ? “ I mean right now pretty nice profit ,and believe it can up even more but  I’m not sure . Please if u think to hold/sell explain why ...no spam .._END_OF_POST_PYSTOCK_ The Next Tesla: Genetic Therapy Stocks Why am I relating genetic therapy stocks to an electric vehicle manufacturer? Tesla is not an ordinary stock, it’s price is based on our societies values (We WANT electric self driving cars). Stocks like CRSP, EDIT, NTLA, all develop genetic therapies to change our DNA. They have already done amazing work: curing genetic blindness, promising looking sick cell anemia cures. The USA director of national intelligence just rumored that China is testing genetic therapies to improve their soldiers, calling them “super soldiers.” Genetic therapy may disrupt an 800 billion dollar beauty industry and possibly become a front in a Cold War between USA and China. This is the future. Buy and do not sell is my advice. Do your own research too. There are other companies besides the 3 I mentioned here that could also do very well._END_OF_POST_PYSTOCK_ Is there a way for a minor to (legally) trade options? Hello, I'm a minor and I have gotten lucky enough to earn a significant amount of money for my age. I'm interested in trading options, though I cannot do so with my current custodial account on Fidelity. I understand the risk involved with trading options, I plan to just throw play money at it for now, no serious amounts. I am not asking for financial/life/spiritual/etc. advice either, I've already set aside money for taxes, maxed out my Roth IRA for this year, etc.
+
+&#x200B;
+
+Are there any brokers that allow custodial accounts that are able to trade options?_END_OF_POST_PYSTOCK_ Does anyone know the math behind how many shares of a specific stock symbol would be responsible to bring the stock value up or down 1%? I’m looking for a simple formula involving perhaps the market cap and the volume. However, I’m not sure how to go about it, or can even certify if my interpretation of volume and market cap are fully accurate. As an example, if this specific XYZ symbol is trading at $50 with an average volume of 47M and mkt cap of 205M. How much of the underlying would need to be sold for the stock to go down 1%?
+
+
+Ultimately, I’m curious in understanding how much option trading could be responsible for prices moving up or down. I’ve seen folks on Reddit trade option volumes that literally equate to 1 million shares of the underlying..._END_OF_POST_PYSTOCK_ Do you guys use puts to hedge your long positions? My portfolio is all ETFs (VOO, QQQ, and ARKK) and blue chip stocks (AMZN, AAPL, and GOOG). Based on the Shiller P/E ratio and the Buffett indicator the market is overvalued, and I think the inevitable crash will be within the next year, so I bought LEAP puts on the ETFs. I'm pretty new to investing though, so I wanted to see what others think about this strategy. Any feedback is appreciated._END_OF_POST_PYSTOCK_ Making gold more liquid; overcoming diseconomies of small scale As we all know, gold has had a wild ride this year and 2021 could scale new heights.
+
+It bothers me, though, that although I bought physical gold just before it soared in July 2020, this was compromised by the diseconomy of small scale (I could only afford to buy a very small quantity at the time) and seller's mark-ups (duh!) To break even or to make a minuscule profit would require the gold spot price to be at the sorts of heights we saw in August.
+
+What I am wondering is if there is any mileage in exchanging the physical gold for ETFs or for digital gold (if that's possible) to get better liquidity and exposure to spot price increases._END_OF_POST_PYSTOCK_ Why are indexed funds not performing the same as their index? Hey peeps,
+
+Im interested in purchasing a nasdaq indexed fund offered by CIBC. 
+
+The further far i go back in the fund's history, the more the average underperforms from the nasdaq index. 
+
+For example, in the past year the fund has had an average yearly return of 45%, same as the index. In the past 3 years, the fund's return is 23.9% while the index is 27.6%. Past 5 years, 21% for the fund and 30% for the index and since the inception of the fund (Oct 2002), it's up 14.4% annually while the index is up 40% annually. 
+
+Any ideas?_END_OF_POST_PYSTOCK_ Question about hedging my actively managed mid cap and up tech stock portfolio. My entry conditions 
+1. SP500 is over the 10 week sma 
+2. Stock has rate of change greater than 10.
+3. Stock has just closed over 20 week highs.
+
+Exit conditions
+Stock has dropped 40% from recent highs while sp500 is over 10 week sma.
+Or
+Stock has dropped 10% from recent highs while SP500 is under 10 week sma.
+
+My goal is to explore ways I might reduce my long exposure while not negating my strategies edge.
+
+Thank you in advance for helping an excited learner of the investment world._END_OF_POST_PYSTOCK_ Canada NDP Party calls for CPP to Dump Shares of Palantir Howdy yall. Found this article regarding Canada's NDP Party calling out the Canadian Pension Plan for supporting Palantir as the second largest institutional shareholder which you can find below. The party is apparently also pushing for "legislative changes to how the CPPIB looks at investing, calling for the board to further consider environmental, social and governance (ESG) factors." 
+
+If passed it would prevent organizations like the CPP from holding shares with companies that are considered to have unethical business practices or to have violated human rights. Voting on the bill won't take place until March however just wanted to share on here to see if anyone thinks this might have a negative impact on Palantir. The NDP only have 24 seats within Canada's House of Commons, behind the Liberal, Conservative, and Bloc Quebecois so I don't see them having a lot of sway within Canadian Parliament unless they are able to sway the other parties over to their side. Just wondering how you think this news might affect Palantir's share price as I was thinking of selling tomorrow morning after today's amazing run. 
+
+[https://www.thestar.com/politics/federal/2020/12/07/ndp-call-on-canada-pension-plan-to-dump-shares-of-controversial-surveillance-company-palantir.html](https://www.thestar.com/politics/federal/2020/12/07/ndp-call-on-canada-pension-plan-to-dump-shares-of-controversial-surveillance-company-palantir.html)_END_OF_POST_PYSTOCK_ Don't understand Bancel Stephane of Moderna SEC Form 4 sold shares 12/3 and 12/4 Can anyone explain why the number's don't work in column 5 of this Form 4 [http://archive.fast-edgar.com/20201207/AVZ2C62CSW22LZO222292ZZ2E55PC2283222/](http://archive.fast-edgar.com/20201207/AVZ2C62CSW22LZO222292ZZ2E55PC2283222/). 2nd line for example: He sold  500 shares from his previous balance of  7,644,880 shares and ends up with only 286,712 shares. WTF? Is this a math mistake? The other lines make sense. Yahoo Finance says he had 23,554,900 shares on Dec 1, 2020. I'm totally confused. Any help would be much appreciated. As a side note, Moderna has rapidly increasingly negative earnings, but the stock is soaring. Don't you just love capitalism? 🤣_END_OF_POST_PYSTOCK_ Best cruise line right now? I think we could expect a travel boom just in time for spring break/summer since people are already starting to get vaccinated and after a year stuck at home I feel like the demand for travel will be huge, I was thinking of investing in a cruise line given that their prices are still low and I think they will easily match their Pre covid prices soon.
+I'm planning to go long but which cruise line should I pick, Carnival, Royal Caribbean or Norwegian?
+My first thought was to go for carnival since they also own hotels and other travelling destinations.
+Let me know your thoughts_END_OF_POST_PYSTOCK_ Have any SPACs actually redeemed warrants for partial shares? I hold quantumscape warrants. They have a redemption feature that turns them into partial shares if quantumscape decides to exercise this right (cashless). There's speculation that, because they need the cash, they will instead go for the cash option and let warrant holders exercise the warrants normally with a strike of $11.50. I'm wondering if any older SPACs with the option to convert warrants to PARTIAL shares have actually forced warrant holders to take the partial shares. There's a huge amount of money at stake between the two different outcomes for my warrants. Thank you._END_OF_POST_PYSTOCK_
