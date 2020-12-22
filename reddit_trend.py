@@ -3,8 +3,10 @@ import praw
 import json
 import sys
 import pandas as pd
-from words import wordFreq
+from words import wordFreq, TopViz
 from datetime import datetime, timezone
+
+import shared
 
 def date_generator(month, year="2020"):
     li = []
@@ -53,7 +55,7 @@ def get_wf_from_sub(subs, limit, nowDate=None):
 # startDate, endDate : str (YYYY-MM-DD)
 def save_wf_from_raw(startDate, endDate):
     dates = pd.date_range(start=startDate, end=endDate).tolist()
-    subs = ["stocks", "investing", "wallstreetbets"]
+    subs = shared.subs
     for date in dates:
         date = str(date).split(" ")[0]
         wf = wordFreq()
@@ -74,7 +76,7 @@ if __name__ == "__main__":
     if mode == "date":
         dates = date_generator("10")
         dates = ["2020-11-15"]
-        subs = ["stocks", "investing", "wallstreetbets"]
+        subs = shared.subs
 
         for date in dates:
             wf = get_wf_from_sub(
@@ -88,3 +90,6 @@ if __name__ == "__main__":
         wf.displayTimeSerie(15, toExclude, toLookAt)
     elif mode == "raw":
         save_wf_from_raw("2020-11-20", "2020-11-21")
+    elif mode == "top":
+        top = TopViz()
+        top.displayTopByDate(3)

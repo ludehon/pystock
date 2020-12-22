@@ -16,7 +16,6 @@ RAW_FOLDER = shared.RAW_FOLDER
 POST_SEPARATOR = shared.POST_SEPARATOR
 
 subs = ["stocks", "investing", "wallstreetbets"]
-date_pattern = re.compile("g_(.+)\.")
 
 def saveToFile(name, content):
     print("saved")
@@ -91,19 +90,10 @@ def scrap(sub, date=None):
     else:
         scrappAll(sub)
 
-# get date from fileName
-def get_date(filename):
-    match = date_pattern.search(filename)
-    if not match:
-        return None
-    date = match.group(1)
-    date = datetime.strptime(date, '%Y-%m-%d')
-    return date
-
 # scrap data from unprocessed days in /raw, and save the stats into json in /wf
 def scrapMissing():
-    files = glob.glob("raw_data/investing*.txt")
-    dates = (get_date(file) for file in files)
+    files = glob.glob(RAW_FOLDER + "investing*.txt")
+    dates = (shared.get_date(file) for file in files)
     dates = (d for d in dates if d is not None)
     last_date = max(dates)
     today = datetime.today()
