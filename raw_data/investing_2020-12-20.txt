@@ -1,0 +1,480 @@
+ Good Stock Screener that includes ESG for long-term investing Hello,
+
+I am very new to investing but I have a scholarship that provides funds to invest as long as the companies meet a certain criteria. I really want to invest sustainably if possible though, but most of the screeners I have found online don't have ESG information. Does anyone know of one that includes ESG or have any advice for me?_END_OF_POST_PYSTOCK_ The Last 5 Years Have Been Great, But.... I've been doing my year-end financials and have been amazed at the results. I've saved a lot over the last five years, but it's the stock market rise that's more than doubled my net worth since January 1, 2016. During that time, the S&P 500 is up 92.9%, about 14% a year. We're living in amazing times, and this surely this can't continue, right?
+
+I was blown away when I read [this article](https://www.thebalance.com/rolling-index-returns-4061795). Not only is the last 5 years not the best S&P 500 performance, it's not even close. Between 1982 and 1987 the S&P 500 returned 30% annually, more than twice the current performance. Even more surprising? The best TEN year performance was 20% a year, occurring over the ten years ending in August 2000.
+
+Maybe we still have room to grow. I sure could use it as I have about 10-15 years before I plan to retire._END_OF_POST_PYSTOCK_ Good place to find Raw market data Does anyone have a good source for just more raw market data?  Looking to pull a report of all symbols for like the past three years and looking for open price, close price and after hours close each day.  Plenty of sites including my trading platform love to put stuff in charts but the raw data itself seems a bit harder to get to._END_OF_POST_PYSTOCK_ Deadweight in portfolio I got 3 accounts: regular, TFSA and RRSP - the type of account is mostly unimportant in this case except to name/track them.
+
+&#x200B;
+
+Both my regular and TFSA accounts are up 30-35% last 3 months, while my RRSP is up 17% for the same period. First 2 are focus 100% on commodities (namely Uranium, silver and lithium), while my RRSP is my long term hold with still 40% in commodities. I would be absolutely fine with this growth if it wasn't for few positions I'm unsure if its worth to maintain or not.
+
+&#x200B;
+
+**MS - Morgan Stanley**
+
+Was a part of my original plan to diversify into US financial services. I'm happy it rocked a 28% growth since I picked it up at close to COVID-low, and premarket is adding another 2$ a share for monday morning. I had recovery target of 55$ after getting in at 49$, hoping to get a steady growth over time. This isn't a case of dead weight, more a questioning of how much more growth can this position get before readjustment.
+
+&#x200B;
+
+**KR - Kroger Co.**
+
+This is the position that made me stop buying on headlines. Got in after news broke that Buffet/Berkshire was investing in for its Amazon/Walmart competing supply chain and distribution network to come. By the time my added liquidity came in, the position was at near-high at 36.60, and is now shloping back to 30$. Added bonus, exchange rate has gone down between CAD and USD, meaning I'd get even less for my position versus my initial capital. Again - this was in my long term bag as it yielded interesting dividends in a market that should "always" perform. People will always need food. I'm down 16% on this position. Would it be worth it to absorb the loss and reinvest in commodities - even if my original position have gone significantly up from my original purchase point?
+
+&#x200B;
+
+**PFE - Pfizer Inc.**
+
+Bought on a diversification whim, looking at their dividend history. Planned on holding on long term. Again - like MS, this isn't dead weight. More of a bubble-bursting situation. The position went almost 20% up after announce on the Vaccine, but that pump died of fairly rapidly and the position is back to pre-vaccine level. Kinda puzzled about this position.  While I have far less intention of divesting from this position than from KR, I'm still curious what's this sub's take on it.
+
+&#x200B;
+
+Position where I'd divest the capital to, if I choose to move:
+
+**DML - Denison Mines Corp**
+
+Up 38% over 1 year. The uranium market appears to be the next commodity boom. Multiple countries will need to renegotiate they supply chain. I'm not going to bore you with the details, bunch of other posts on this sub and r/CanadianInvestor recently covered the subject.  
+
+**LTHM - Livent Corp**
+
+I missed on TSLA at 300$ a pop 18 months ago, hate myself for it, and it's still too rich for my blood. But what does every electric vehicle need? A lithium battery. While this commodity's expected boom is not as short term as Uranium, as battery production rises to meet e-vehicle demand, it's a sure 2-5 year holding. Again - plenty of better post on here on the subject.
+
+**NXR.UN - Nexus REIT**
+
+Not a commodity. Part of my long term plan. During their last earning call, they announced that dividends were to be maintainted at $0,16 per share, annually. They also announced the position will graduate from TSX.V (Venture) to the *regular* TSX and will do a 4 to 1 unit consolidation. While its already beyond my original target of 1.80$ post-COVID and currently sitting just under 2$ which I think is a steal for an 8%+ dividend yield paid monthly. Added bonus, by moving from the TSX.V to TSX, the position will be exposed to institutional investors. Canadian retirement funds have a nag for REITs, so (wishfull thinking) it's just a question of time before this gets picked up.
+
+&#x200B;
+
+TLDR: Got some deadweight. should I dump, absorb the loss, and relocate the capital?_END_OF_POST_PYSTOCK_ Is Gilead going to merge with Roche? Or Pfizer maybe. Both would probably fit. Article: [It Looks Like Gilead is about to Merge with Roche — GripRoom](https://www.griproom.com/fun/it-looks-like-gilead-is-about-to-merge-with-roche) 
+
+Some excerpts:
+
+**Here are some facts.** 
+
+**1.** The current CEO of Gilead worked for 30+ years at Roche. \[[Source](https://www.roche.com/about/governance/ec_bod_former/daniel-oday.htm)\]
+
+**2.** The current Chief Medical Officer of Gilead worked for 8+ years at Genentech (a company bought by Roche.) \[[Source](https://www.bloomberg.com/profile/person/16949484)\]
+
+**3.** Gilead has been on a spree of acquisitions in the last few years. Mostly cancer companies.  \[[Source](https://en.wikipedia.org/wiki/Gilead_Sciences#Acquisition_history)\] (click “show”)
+
+**4.** Roche is the world’s leader in cancer treatments. \[[Source](http://www.pmlive.com/top_pharma_list/oncology_revenues)\]
+
+**5.** Roche did a hostile bid for Genentech in 2009 in order to reinforce its position in cancer. “You go deep rather than broad,” said Bill Burns, the then head of Roche’s pharmaceutical business. \[[Source](https://www.reuters.com/article/us-roche/roche-goes-hostile-cuts-genentech-bid-to-42-billion-idUSTRE50T1BL20090130?edition-redirect=ca)\]
+
+**6.** March 18, 2016: **Roche and Kite** form a partnership to test Roche's atezolizumab with Kite's KTE-C19 therapy.  \[[Source](https://www.fiercebiotech.com/r-d/roche-kite-pharma-sign-car-t-and-pd-l1-combo-deal)\]
+
+**7.** August 28, 2017: **Gilead buys out Kite.** [\[Source\]](https://www.gilead.com/news-and-press/press-room/press-releases/2017/8/gilead-sciences-to-acquire-kite-pharma-for-119-billion)
+
+**8.** January 11, 2018: Forty Seven announces partnership with Genentech (**owned by Roche**) CD47 antibody to be evaluated in combination with PD-L1 antibody with the aim of engaging both T-cell and macrophage components of the immune system against acute myeloid leukemia and bladder cancer. \[[Source](https://ir.fortyseveninc.com/news-releases/news-release-details/forty-seven-inc-collaborate-novel-immuno-oncology-combination)\]
+
+**9.** March 2, 2020: **Gilead buys out Forty Seven**. \[[Source](https://www.gilead.com/news-and-press/press-room/press-releases/2020/3/gilead-to-acquire-forty-seven-for-49-billion)\]
+
+**10.** December 19, 2019: **Arcus Biosciences and Genentech** partner on two clinical trials for colorectal and pancreatic cancer.  \[[Source](https://www.businesswire.com/news/home/20191218005727/en/Arcus-Biosciences-in-Collaboration-with-Genentech-Announces-Two-Randomized-Clinical-Studies-to-Advance-AB928-a-Dual-Adenosine-Receptor-Antagonist%C2%A0into-Novel-Combinations-for-Colorectal-and-Pancreatic-Cancers)\]
+
+**11.** May 27, 2020: **Gilead takes a large stake in Arcus**.  \[[Source](https://www.gilead.com/news-and-press/press-room/press-releases/2020/5/gilead-sciences-and-arcus-biosciences-establish-10-year-partnership-to-co-develop-and-co-commercialize-next-generation-cancer-immunotherapies)\]
+
+**12.** June 7, 2020: Gilead is approached by AstraZeneca about a potential merger. Share price of Gilead is around $76. Gilead says they’re not interested. It’s unknown what the AZN offer was.  \[[Source](https://www.bnnbloomberg.ca/astrazeneca-is-said-to-approach-gilead-about-potential-merger-1.1446886)\] 
+
+(Did Gilead turn down AstraZeneca because they were planning to merge with Roche?)
+
+**13.** Fall of 2019: **Immunomedics partners with Roche** to test out Trodelvy in combination with Roche’s drug Tecentriq. \[[Source](https://staging.immunomedics.com/immu_2019/our-company/news-and-events/immunomedics-reports-third-quarter-2019-results-and-provides-corporate-update/)\]
+
+**14.** July 13, 2020: Immunomedics and Roche collaboration is expanded. \[[Source](https://www.globenewswire.com/news-release/2020/07/13/2061470/0/en/Immunomedics-Expands-Collaboration-with-Roche-Evaluating-Trodelvy-sacituzumab-govitecan-hziy-in-Combination-with-Tecentriq-atezolizumab-into-Urothelial-and-Non-Small-Cell-Lung-Canc.html)\]
+
+**15.** August 6, 2020: Roche’s drug Tecentriq fails to show clinical benefit for preventing triple negative breast cancer. \[[Source](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/roche-s-tecentriq-combo-fails-to-ward-off-breast-cancer-progression-in-study-59806687)\]
+
+**16.** August 7, 2020: Gilead files for a mixed shelf offering. \[[Source](https://seekingalpha.com/news/3603018-gilead-sciences-files-for-mixed-shelf)\] (Perhaps part of the merger plan. Additional shares might be needed to allow buyer to take a larger stake. )
+
+**17.** September 13, 2020: **Gilead buys out Immunomedics** for an headline-grabbing 108% premium. \[[Source](https://www.cnbc.com/2020/09/13/gilead-to-buy-cancer-drugmaker-immunomedics-in-21-billion-deal.html)\]
+
+**18.** September 21, 2020: Immunomedics presents data at ESMO showing Trodelvy has the potential to become a blockbuster drug in not just TNBC, but also metastatic urothelial cancer. Data shows why Gilead paid such a huge premium. \[[Source](https://www.fiercepharma.com/marketing/esmo-new-trodelvy-breast-bladder-cancer-data-show-why-gilead-s-going-big-for-immunomedics)\]
+
+**19.** December 15, 2020: Gilead and Galapagos amend their partnership agreement, effectively abandoning the US market for Filgotinib, a rheumatoid arthritis drug. \[[Source](https://www.gilead.com/news-and-press/press-room/press-releases/2020/12/gilead-and-galapagos-announce-new-commercialization-and-development-agreement-for-jyseleca-filgotinib)\]
+
+**20.** Roche’s fifth most top-selling drug in 2019: Actemra, a treatment for rheumatoid arthritis.  \[[Source](https://www.statista.com/statistics/266529/pharmaceutical-company-roche-top-drugs-based-on-revenue/)\]_END_OF_POST_PYSTOCK_ Reit question, restaurants Closing We all know small restaurants are in a dire situation due to covid. Does anyone know of any REITs that are heavily exposed to in this sector and still trading at a huge discount?
+
+Looking to buy something with a lot of restaurant real estate exposure with bleak short term outlook and take the risk of holding a small position long term hoping for a recovery where i got in for cheap.
+
+Any suggestions/tickers greatly appreciated. 
+
+Also, do you think other commercial real estate ones more focused on physical office space are a better play?_END_OF_POST_PYSTOCK_ Why fraud is such a good business in the US Steal $864 Million. Fabricate $300 Million fraud. Settle with the SEC for $180 Million. Your Stock also rallies 30% in a day.
+
+Pretty good deal for being a criminal management team right?
+
+[https://www.sec.gov/news/press-release/2020-319](https://www.sec.gov/news/press-release/2020-319)_END_OF_POST_PYSTOCK_ How to play UKX in the upcoming weeks/months Several European nations stopped flights from the UK after discovering another strain of coronavirus. Too many sources to list on here, go ahead and google UK coronavirus news.
+
+What would be the best way to capitalize on this news? Just wait for UKX to hit March levels? Or is there a targeted approach (specific companies) that might crash and be worth picking up some positions in?_END_OF_POST_PYSTOCK_ How are we feeling about the metal markets? So my thinking is that gold, silver, nickel etc have had good years (think 30% gains), but have been struggling recently. Top cryptos have gained 200%+ and are seeing the most hype since the 2016 bubble. The way I see it, the fundamentals that have cause the crypto run up are bullish signs for traditional metals as well (inflation). So, if we see a short term correction (thinking 20% or maybe even bigger), traditional metals will go way higher cause the fed is still printing money regardless. Thoughts?_END_OF_POST_PYSTOCK_ A coming boom from Crowdfunding and SPACs? Something very exciting and special is happening in the world of capital fund raising for emerging market and startup companies. Recently, new SEC rules will allow “Crowdfunding” sites to increase the maximum amount of capital that can be raised by companies from the general public. 
+
+Crowdfunding is a confusing term for some. To be more precise, Crowdfunding would be more accurately referred to as “Crowd-Investing”. When speaking of “Crowdfunding”, some people mistake it for the activity of sites like GoFundMe or Kickstarter, and thus think it means donating money to a cause and perhaps for a token reward. In reality, Crowdfunding sites like Wefunder and StartEngine open the doors for regular folk to invest in the emerging market and startup community that used to be the exclusive domain of venture capital firms and institutional investors. 
+
+Thus John and Jane Q Public can login to one of the Crowdfunding sites, browse the companies opening their doors to investment, and invest $100, $1000, or more in a company that may be high risk, but also may be high reward. The world of reaping potential 10x, 100x, or more returns on investment is at everyone’s finger tips just as it has been for venture capitalists (VCs) with their million dollar plus investments. Only, in this case, at a level at which the individual investor feels comfortable. It’s an opportunity to “get in early” on a company that may track toward a massive acquisition or IPO. 
+
+There are two primary paths to Crowdfunding for companies. The first is leveraging “Regulation CF” which currently allows companies to raise up to $1.07M from the general public. Regulation CF funding has SEC filing requirements for companies via a “Form C”. However, the requirements are something most companies can easily fill out, have an independent CPA review financials, and maybe a lawyer help with risk disclosures, in 2 weeks to 2 months time. Crowdfunding portals make it even easier to file the Form C and tap into the crowd as well. The other path, is a “Regulation A” round which currently allows companies to raise up to $50M from the general public. However, the filing requirements are a little more involved. It may take 1 to 4 months to complete the work required to file for a Regulation A raise and most certainly requires help from lawyers. [Note that Regulation A is also sometimes referred to as Regulation A+]
+
+In the January to February 2021 timeframe, new SEC rules will take effect which up the limits that are allowed to be raised. With Regulation CF filings, companies will be able to raise up to $5M. And with Regulation A filings, companies will be able to raise up to $75M. This is a game changer because these limits become more in line with what many startup and hi tech companies seek to raise in more traditional venture capital rounds. Thus, with this route of funding, more companies will be able to raise the kind of capital they need to grow their company to the point of being fully self sustained by revenue and further growth. 
+
+The vast majority of venture capital is deployed to companies located within spitting distance of the major venture capital centers like Silicon Valley, New York, and Boston. Being from a Company located well outside of these zones (Charlottesville, Virginia), and having talked to hundreds of VCs, there is a common and natural hesitancy for VCs to want to invest outside of their region of operation. Jumping on a plane and traveling through airports hours on end once a month for board meetings is not always desirable. Furthermore, VCs also naturally understand best the environment in which they are located and affiliated. They understand and know the talent pool, other sources of capital in the area, and resources that exist in their region of operation best. When a Company in Charlottesville, Virginia or elsewhere in Anytown USA pops onto their RADAR, these questions swirl about and add further risk in their mind to the deal. 
+
+With Crowdfunding, by nature of its more distributed nature, more potential investors exist who have familiarity with a company’s region. Furthermore, many crowdfunding investors simply don’t care as much about location since they’re not going to have board seats at the company and be traveling on planes for meetings. Thus, with the increase in the limits of Crowdfunding investment to the tune of $5M and $75M for Regulation CF and Regulation A respectively, it feels like there is a movement afoot that will lead to a dramatic increase in the number of companies seeking investment via this route. 
+
+What’s more, there has been a recent uptick in hi tech companies going through the traditional IPO process by way of “SPACs”, or Special Purpose Acquisition Companies. These are shell corporations formed to be publicly traded that merge or acquire the company with the real meat on its bones offering some product or service of value. SPACs allow such meaty companies a faster path to going public. There’s an increasing spate of hi tech companies pursuing this route with the potential for huge returns on investment as a result.
+
+If you combine Crowdfunding with SPACs, it seems there is a real disruptive process in the air for capital fundraising taking place. Whereas many startup and hi tech companies traditionally need to be located in locations with a high cost of living just to raise capital and then undergo a lengthy process to going public, the increased limits for Regulation CF and Regulation A, combined with the rise in popularity of SPACs revolutionizes capital fundraising. 
+
+Capital fundraising becomes more democratized via Crowdfunding, lowers barriers, and increases the velocity of capital fundraising by companies no matter where they are located. Furthermore, the velocity for going public is also increased by SPACs. Crowdfunding alone seems likely to lead to a boom in innovation and hi tech company growth across the land. Crowdfunding plus SPACs seem destined to provide a powerful one two punch for companies looking to knock it out of the park and become a publicly traded company along side others on the major stock exchanges. 
+
+This isn’t a theoretical realization. Having raised capital thus far through traditional VC routes for a hi tech autonomous vehicle company located just outside Charlottesville, Virginia, far removed from Silicon Valley, I’ve experienced first hand the complications. It’s already difficult to raise venture capital. It’s even more difficult to build a company around autonomous vehicle technology vs say building a company around more commoditized infrastructure like Web site and mobile App platforms. Add to the mix doing this from outside of a region that’s one of the few VC hotbeds, and the pace of capital fundraising can come slowly. 
+
+The promise of increased pace of capital fundraising that Crowdfunding via Regulation CF and Regulation A offers combined with the promise of going public faster offered by SPAC formation is reducing the friction and removing barriers that have more recently been ahead of companies like ours. Beyond our previous and current traditional venture capital fundraising efforts, we’ve started down the concurrent path of raising more funds via Crowdfunding. In future articles, I will provide further details on this new era of capital fundraising based on industry developments and direct experience. In the meantime, keep an eye out for the broader industrial boom that seems to be on the horizon.
+
+Paul Perrone
+Founder/CEO - Perrone Robotics
+
+References:
+Crowdfunding: https://www.crowdfundinsider.com/2020/11/168682-the-sec-updates-reg-cf-reg-a-and-more-boosts-reg-cf-to-5-million-reg-a-increased-to-75-million/
+SPACs: https://www.nytimes.com/2020/12/19/business/dealbook/deals-mergers-acquisitions-2020.html
+Author Contact: https://www.perronerobotics.com_END_OF_POST_PYSTOCK_ How to transfer from world stock index to value stock index? If one holds world stock index (VT) and assumes that growth stocks are overpriced and in a bubble and wishes to transfer all funds to VALUE STOCKS only... what would be the strategy for this?  
+
+
+One idea is to buy Berkshire as that is holding company for value stocks, but what other options are there?_END_OF_POST_PYSTOCK_ My Watchlist For 12/21/2020 **$ADC**: Beautiful channel. It is a possible triangle as well. This is a very strong support area, if it does die, just buy in at trendline or next support for more profit. RSI and Stochastic oversold.   
+
+**$AMH**: Literal textbook ascending triangle. This is the same set up as $SMAR, $FEYE, and other major winners we have had. Great value, 200EMA support, Stochastic oversold with divergence? Love this play so much.  
+
+**$AMRX**: We literally just made 20% off of this. It has historically had  pullbacks on big moves up, and this is that I think. It is also right above BOTH the 50 and 200EMA at a support? So much convergence here. Stochastic oversold.  
+
+**$AOS**: What a great channel up, and at a strong support area as well! It technically has room to drop back to the 200EMA, but it has strength to keep running here.   
+
+**$ATO**: Long term triangle, which is great. Support area is very strong here as well. Consistence higher lows so it can't get much lower here hopefully. Also sowing Stochastic oversold divergence.  
+
+**$AUPH**: What a value here, how much lower can it get here?! Of course it CAN go lower, but then we just cut and buy in next support. Stoch, RSI over sold which is also great.  
+
+**$CNCE**: This channel was broken and now it is retesting it, so that is our play here. May possibly drop to the 50EMA which is also an easy play for us. Stoch shows volume is coming.  
+
+**$CRK**: Same play as $AUPH basically.  
+
+**$JILL**: Just made 18% off of it and now we trying it again. Channel gives us great results, and it is technically an ascending triangle here too. I think this has massive potential.  
+
+**$PCH**: Same play as $CNCE  
+
+**$TEVA**: Great ascending triangle that is now at a support which I love. 200EMA is also right here which is fantastic. RSI and Stochastic oversold, so I think it is really gearing up to push up farther. 
+
+**$TGT**: This one is not ready yet, let it drop a little more to the 200EMA / golden channel then go long; but I do not want you to miss this one.  
+
+**$TXN**: This bounces off the 50EMA line like clockwork, if it DOES break, you just buy at the 200EMA. Could not be any easier, the gold lines are just good indications for where they stay near.  
+
+**$UNVR**: Ascending triangle here, but it does have a history of failing and not breaking out. But when it does, it is going to go crazy. Also riding the 50EMA.  
+
+**$WMT**: Needs to hold the 200EMA here. If it does not, buy in at the bottom gold line. Stochastic and RSI say it does have more room to drop too. But it keeps going up, so even if you mess up your entry, you'll eventually be green. 
+
+&#x200B;
+
+**Photo Link**:  https://imgur.com/gallery/VllAK2f_END_OF_POST_PYSTOCK_ AKBA flight starts Monday. Parabolic potential. Hey guys AKBA is the jackpot stock right now. It’s near its bottom and it competitor FGEN after hours Friday plopped on its FDA approval due to bad data. 
+
+Some DD
+
+They’ve had 53 institutional investors invest since October. 
+
+A great deal of confidence by Vifor in Vadadustat. Vifor has exclusive U.S. license to sell Vadadustat to Fresenius  (38% of US market). AKBA pd $10 m to Vifor who pd $100 m for the Priority Review.  AKBA will receive most of the profits on sales to Fresenius. 
+
+FGEN CRL just narrowed the gap on 1st to market for a superior product (Vadadustat) with built in sales to Fresenius &  established nephrology sales force to sell Auryxia &  Vadadustat reducing sales expense per sale. 
+
+Existing $400 m Auryxia revenue, plenty of cash, NDA on PR and a mk cap near cash on hand. With 78% institutional owners how will 26 m sh shares get out. Shorting AKBA after Aug drop was a bad risk/reward gamble. 
+
+AKBA should be $6 on fundamentals and a short squeeze will likely push it higher. Is FGEN CRL a catalyst? NDA and quick review to at least $2b in annual revenue is months away for the big move. 
+
+https://www.fiercebiotech.com/biotech/vifor-buys-priority-review-voucher-for-undisclosed-filing
+
+AKBA primed to run due to FGEN FDA fail!
+
+FibroGen just missed the Mark. Primed to take flight Monday with FDA approval on its horizon. Tutes have been loading here. Way below its valuation. The next 100% runner is AKBA
+
+So to hit up some financials first. $AKBA has 1/2 billion in assets which exceeds their short term liabilities of $182.5M and exceeding their long term liabilities of $176.7m
+
+They have a debt of 76.338 m and Equity of 1/2 billion. ——Very healthy at a ratio of 24.1% 
+
+AKBA has enough cash run way to do them 1yr plus+++
+
+They could finish the year with around $330-350 mil in revenue. 
+
+Only 18.5% of the float is for public purchase. 
+
+Institutions own 75.5% of the total float. 
+
+News drop of NDA safety any day!!
+
+Super financially healthy company. 
+
+Catalysts are Vadadustat approval in the very near future.( billion dollar industry) There have been tons of insider buying, some as high as $14.00/share. They have a superior product to AstraZeneca and Fibrogen. This stock like all Bio stocks will run up until approval. It’s safe and will easily double from here. It also has one HUGE ass gap fill!! The next parabolic stock._END_OF_POST_PYSTOCK_ What are your rules for investing? As I get closer to retirement I've started reading more about investing so that I can do a better job of managing my investment account. As I read, I find authors who often have one or two 'golden rules' or 'general rules' related to how they invest. Not things like specific P/E ratio for an investment but more about how they conduct themselves and their trading.
+
+For example, right now I'm reading The New Trading for a Living by Alexander Elder. In it, he says one of his rules while he was day trading was he kept the news off - focused on the market and the tools that he had. Now, I'm not day trading but it made me thing about what my personal rules would be. That lead me to think about what other rules others have put in place that guide their investing life.
+
+So how about it - what rules do you abide by when 'investing'? (researching, trading, evaluating, etc)._END_OF_POST_PYSTOCK_ What should i do now? I think I've grabbed all the basic concepts and terminologies of the stock market to get started
+I can learn more things like technical analysis etc. But i want to get to the real stuff, Like at the end of day it's about making profit, picking up the right stocks. If I can't do that my knowledge is in vain. So I want to know what should i do now?_END_OF_POST_PYSTOCK_ Top Psychedelic Performers!! This sector is BOOMING, no shortage of investors looking to get in, many companies racing to the multi billion dollar mental health market. Many of these top performers could very well see 10-20x returns over the next couple years. Happy reading 😉 https://realmoney.thestreet.com/investing/stocks/psychedelic-industry-setting-up-for-an-even-bigger-2021-15517323_END_OF_POST_PYSTOCK_ Opendoor (OPEN) will be listed on NASDAQ tomorrow (12/21) The merger between Opendoor (OPEN) and “Social Capital Hedosophia Holdings Corp. II” (IPOB) has been approved on 12/17. So tomorrow 12/21, OPEN will be officially listed on NASDAQ. And soon, "IPOB" will be renamed to "OPEN" on NYSE.
+
+Here is a [video summarizing the S4 filing of Opendoor.](https://youtu.be/F75jJALMpu0) Hopefully, it will be useful to everyone.
+
+Opendoor upside:
+
+1. Operate in 21 US markets with plans for future expansion.
+2. Offer title insurance, escrow services, and financing services.
+3. US housing market is worth $1.6T annually with 5.3M homes sold each year.
+4. Online penetration is still low compared to retail and transportation
+5. Disruptive technology:
+6. Simplify selling/buying house process: closing in as little as 14 days vs 87 days in tradition sale.
+7. Reduce cost through centralization and automation.
+
+Opendoor risk factor:
+
+1. Incurred net loss every year since inception
+2. Net loss: $240M (2018), $339M (2019), $190M (Sep 2020)
+3. Sep 2020: 47% of revenue was generated from 4 markets: Phoenix, Dallas, Atlanta, and Raleigh.
+4. Well-known and well-established competitors: Zillow, Redfin, …
+
+(Detailed look into the balance sheet is in the video)._END_OF_POST_PYSTOCK_ The 2020 bear market was the shortest in modern history. This [article](https://www.chartr.co/2020/a-year-in-charts) (chart 13)  goes back through the last **10 bear markets,** defined as when the **S&P 500 Index falls more than 20%** from its previous high, to see how the 2020 bounce compared with history. It reveals two things about the 2020 bear market – that it was simultaneously the **sharpest decline** and the **sharpest bounce back** of any of the last 10 bear markets._END_OF_POST_PYSTOCK_ SolarWinds is going to crash further on Monday - 6th day in a row Even more bad news came in for SolarWinds over the weekend, and SolarWinds is going to crash again on Monday. It's the next FireEye, except the stock price is going downward.
+
+Recap of what happened previously:  
+\-SolarWinds stock crashed over the past 6 days non-stop.  
+\-SolarWinds software was used to attack 18,000 very, very big name customers (you've already read the news). More and more bad news is coming in, and 18,000 is only what has been found in the initial investigation.  
+\-Instead of doing something about the news, management may have traded on insider information and sold their stock. Oh, and their CEO "just happened to leave" too.  
+\-Lots of incompetence shown throughout. For example, using password of "solarwinds123" for their critical server.
+
+Every day some people thought it was the dip and they could buy it. Nope, it will crash again this Monday.
+
+Let's take a look at what's new over the weekend:  
+\-SolarWinds is freaking out every government agency in the world, including in the US.  
+\-SolarWinds is freaking out every financial institution because they got hacked too  
+\-SolarWinds is freaking out basically every large organization in the world  
+\-A large bulk of SolarWinds revenue comes from the US government. The US Cybersecurity and Infrastructure Security Agency (CISA) asked every government agency in the US to remove this bad SolarWinds software. This might become legally binding so that they can make a scapegoat out of SolarWinds.  
+\-The management has basically said nothing on this, even days after this was reported.  
+\-US politicians are calling the SolarWinds attack an act of war. If you want to know the last time this happened...well, never.  
+\-Nobody has a freaking clue of what's the extent of this as every day there are more and more findings every hour.  
+\-To let you understand the scale of this, every single cyber security organization is working on this because their customers got hacked. Every single government in the world is checking to see what secrets have been stolen. Every single news agency is rushing to report this, and likely already did. Every single large organization (you know someone) is working on checking this and figuring out how to remove SolarWinds software from their organization.  
+\-SolarWinds is going to get sued to the ground by their customers and partners, not only for this hack but for their non-response. Oh and their customers are going to say goodbye too.  
+\-Think some customers and partners will stick with SolarWinds? Maybe. But they can't, because Microsoft (which controls your computer) is forcing the removal of SolarWinds software regardless.
+
+\-How bad is the SolarWinds hack? It's been called the "Hack of The Decade". The bad news ain't going away after one week.
+
+You want to see how bad this is?
+
+\-Every government (and organization) is freaked out  
+\---US Government, [https://us-cert.cisa.gov/ncas/alerts/aa20-352a](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)  
+\---Canadian Government, [https://cyber.gc.ca/en/alerts/solarwinds-security-incident](https://cyber.gc.ca/en/alerts/solarwinds-security-incident)  
+\---UK and European Government, [https://www.bloomberg.com/news/articles/2020-12-14/u-k-government-nato-join-u-s-in-monitoring-risk-from-hack](https://www.bloomberg.com/news/articles/2020-12-14/u-k-government-nato-join-u-s-in-monitoring-risk-from-hack)  
+\---New Zealand Government, [https://www.cert.govt.nz/it-specialists/advisories/solarwinds-orion-vulnerability-being-actively-exploited/](https://www.cert.govt.nz/it-specialists/advisories/solarwinds-orion-vulnerability-being-actively-exploited/)  
+\---And more unreported and I didn't bother searching
+
+\-Every single cyber security organization is working on this, which means their customers or they are affected  
+\---FireEye [https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)  
+\---Microsoft [https://blogs.microsoft.com/on-the-issues/2020/12/17/cyberattacks-cybersecurity-solarwinds-fireeye/](https://blogs.microsoft.com/on-the-issues/2020/12/17/cyberattacks-cybersecurity-solarwinds-fireeye/)  
+\---Palo Alto Networks [https://www.paloaltonetworks.com/solarstorm-rapid-response](https://www.paloaltonetworks.com/solarstorm-rapid-response)  
+\---Cisco [https://blogs.cisco.com/security/talos/solarwinds-supplychain-coverage](https://blogs.cisco.com/security/talos/solarwinds-supplychain-coverage)  
+\---CrowdStrike [https://www.crowdstrike.com/blog/identity-security-lesson-from-recent-high-profile-breaches/](https://www.crowdstrike.com/blog/identity-security-lesson-from-recent-high-profile-breaches/)  
+\---Symantec [https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sunburst-supply-chain-attack-solarwinds](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sunburst-supply-chain-attack-solarwinds)  
+\---Carbon Black [https://community.carbonblack.com/t5/Knowledge-Base/All-Products-What-are-the-SolarWinds-Sunburst-Recommendations/ta-p/98423](https://community.carbonblack.com/t5/Knowledge-Base/All-Products-What-are-the-SolarWinds-Sunburst-Recommendations/ta-p/98423)  
+\---And more unreported and I didn't bother searching
+
+Oh, did I forget to mention there was literally double the trouble over the weekend? [https://www.reuters.com/article/usa-cyber-solarwinds/second-hacking-team-was-targeting-solarwinds-at-time-of-big-breach-idINKBN28T0SZ](https://www.reuters.com/article/usa-cyber-solarwinds/second-hacking-team-was-targeting-solarwinds-at-time-of-big-breach-idINKBN28T0SZ)
+
+What's the best way I can profit from this?_END_OF_POST_PYSTOCK_ CNN And Marketwatch Price Targets I am thinking of heavily investing in XPEV after looking at their price targets on both CNN and Marketwatch.  
+
+[https://money.cnn.com/quote/forecast/forecast.html?symb=xpev](https://money.cnn.com/quote/forecast/forecast.html?symb=xpev)
+
+[https://www.marketwatch.com/investing/stock/xpev/analystestimates?mod=mw\_quote\_tab](https://www.marketwatch.com/investing/stock/xpev/analystestimates?mod=mw_quote_tab)
+
+Some people are saying that the price targets are completely wrong because the conversion from the Chinese Yen to the U.S dollar is wrong.  But I find it hard to believe that two websites made such a mistake.  
+
+Would you say that the naysayers are correct?  If so, can someone please point me towards a website that has reputable price targets?
+
+Many thanks in advance_END_OF_POST_PYSTOCK_ How do we protect ourselves against the obvious bubble we’re in that will inevitably pop? My post yesterday, which challenged traditional investing strategies, gained a lot of traction. I read through most of the comments. Good insight from many. Thank you to those of you who had it in your heart to extend your kindness to your reddit comments and opted to share your opinions without being unnecessarily rude or sarcastic (I’m passionate about people not being assholes in person or on the internet, sue me). Seriously, there was some TOP-NOTCH insight in that thread. Thanks!
+
+
+
+Anyway, many thoughtful comments alluded to the “obvious bubble we’re in that’ll inevitably come crashing down and be a rude awakening for immature traders like OP.” 
+
+
+Fair enough. I’m listening. How does a “responsible” investor prepare for this? At the very least I want to educate myself on all angles. 
+
+
+Go mostly cash and wait for the crash? (What if the crash isn’t for 15 more years though). Stay the course and DCA the index each month, and when she crashes double down and buy more because the market ALWAYS goes up over time? (JL Collins preaches this). Do a hybrid of these? But a bunch of TSLA calls tomorrow to get rich before the crash can happen? /s  Something else?
+
+
+EDIT: My favorite comment, by /u/degeneratedisgust - *Market go down, buy more, market go up*
+
+
+I also like the comments about diversifying. My spin, since I have an appetite for risk, is to diversify, but to a lesser degree._END_OF_POST_PYSTOCK_ What is the story with SDIV and SRET? These two funds have eye-pppping dividend yields (11.05% and 14.83%, respectively) and are still far below their all-time highs. What's up with these? They seem ridiculously too good to be true for a dividend fund, which seem to mostly hit 4-6%. Are they in a shaky Exxon Mobil-type situation right now?_END_OF_POST_PYSTOCK_ The CANSLIM strategy. A load of crap? I've been shopping around for some stock trading books and recently bought "How to Make Money in Stocks" by William O'Neill. O'Neill created the popuar CANSLIM strategy for picking growth stocks.
+
+While waiting for it to be delivered I did some googling and found that there are two funds modeled on the strategy: CANGX and FFTY.
+
+Comparing the two funds to SPY, it looks like you would just be better off buying SPY instead of going through the headache of manual stock picking.
+
+CANGX has gone up 12% in the last 5 years.
+
+FFTY has gone up 103%
+
+SPY has gone up 92%
+
+Have I just wasted my money buying the book? One of the funds is complete trash, the other beat SPY by just 10%. 
+
+I already invest in funds - don't do any stock picking myself. Just wanted to play stock picking for fun with a small bit of cash on the side._END_OF_POST_PYSTOCK_ What's the difference between the Fed Raising Rates and Yields Rising? What effect do they have on one another? My understanding is that the Federal Reserve sets/heavily influences the interest rate offered by the on US government bonds by setting the 'Base Rate' or whatever.
+
+Yields, again as far as I understand, are dependant on the actual market 'resale' price of the bonds.
+
+My question is: if yields rise too high, is the central bank forced to follow it by setting rates high? I know that a lot of financial stress has been caused in the past when the Central Bank raised rates too quickly, but if yields spike ([as this Bloomberg Article predicts](https://www.bloomberg.com/news/articles/2020-12-16/treasuries-curve-reaches-steepest-since-2017-on-stimulus-talks)) then is the Fed forced to act?_END_OF_POST_PYSTOCK_ Shopify I have been doing research on good stocks to buy and SHOP keeps being highlighted as a great stock to buy.  However, I also see that it is ranked as overvalued and it is currently very expensive. To add on to that, I have been reading that there might be a dip in the market soon. 
+
+Do people think SHOP is a worthwhile buy now? Also, is anyone waiting for a potential dip before purchasing this stock?
+
+Thank you!_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Bonanza creek Does anyone know why bonanza creek stock is down 96%over 5 years. This is a huge percentage, but oddly enough I cant find anyrhing on it. It currently trades ar 20.64
+Bonanza creek is a company focused on the extraction of oil. 
+So if anyone knows please reply. Thanks!_END_OF_POST_PYSTOCK_ Black swans 2021 Suggestions? 
+
+I'm gonna throw out the new covid spreading in the UK. If any of these variants will become problematic in terms of vaccination, I think it can get ugly. 
+
+Guess any Biden stuff out of the normal will be interesting. 
+
+Tech market is obviously in bubble territory. Are there anything that can trigger a downturn here?_END_OF_POST_PYSTOCK_ How is JPM’s analyst on TSLA still employed? The analyst has had a SELL rating on TSLA forever and 10 days ago a PT of $90. TSLA made a stock split and got back up again to ~$700. Yes there is the debate about its classification, but that’s not the point. I also understand the idea of being short (like Chanos).
+
+I don’t understand how someone who has been massively wrong for such a long period of time still have a job??
+
+This is NOT a support piece on TSLA. I couldn’t care less, not even my sector coverage. But it is mind-boggling. Even Chanos reduced his position...so why is someone with much less credibility and return history in being a short-seller has continued to be so bearish for so long without having been fired for thus far being so wrong
+
+EDIT: I am an analyst a top hedge fund (AUM = Top 20 global). I know about the different forms of valuation and the whole process behind them so you don’t need to lecture me. That is NOT the point - the point is this analyst has continued to miss this mark (a huge one) so badly I’ve mentioned this to people (at JPM and others) and they’ve all unequivocally said “wonder how he hasn’t been fired yet”.
+
+EDIT 2: Yes I understand the marketing behind SS to BS. Yes I understand about valuations.
+
+The point is NOT about the PT, it is about that over the last 36 months, his 12 months forward analysis has deviated tremendously from actuality. So much so it cannot be generating much trust (even with the grain of salt existent to SS research) and driving BS to their trading desks
+
+EDIT 3: “You’re not an analyst at a BS” I am. I don’t have to prove it to you though. I just stated this as a reason as to why this question matters to me, because it affects my performance. 
+
+“You are being arrogant”. Forgive me, that wasn’t my intention lol. It’s just that the first comments try to explain how the markets work and they don’t answer the question so to prevent tons of similar comments I just stated I knew about the basic stuff they were addressing and why it matters to me.
+
+Fuck me lol, this is NOT A CASE. I DONT COVER TSLA. IT ISNT ABOUT TSLA. IT IS ABOUT THE LAST 12 MONTHS FORWARD ANALYSIS (base, bull, bear) BEING WAYYYYY OFF. HOW IS HE DRIVING BS INTO THEIR TRADING DESKS, HOW IS HE GENERATING VALUE TO TSLA TRADES FOR JPM?
+
+EDIT 4: The analyst (who covers auto industry) has, according to TipRanks, a 63% success rate (which is decent), but an average return of -4.7% per rating. His particular performance on TSLA is of 33% success rate (14/42 ratings were profitable) and an Average Profit on Stock of -104.1% (average return per rating). He has been SELL since Feb. 2015. He is ranked 6716 of 7170 analysts on TipRanks, 14125 out of 14971 total experts.
+
+I am sorry, he might be good, but unless he purposely wants to drive clients to sell or not buy TSLA so JPM can load up on it, he has been missing the mark consistently on the firm. Boo me all you want, this guy’s perception of the market on TSLA sucks_END_OF_POST_PYSTOCK_ Thoughts about Vanguard FTSE All-World UCITS ETF? (VWRL) Hey everybody!
+
+I have recently read the book "A random walk down Wall Street" in which the author suggests to diversify my portfolio in US, "international" (in US terms) and emerging markets.
+
+&#x200B;
+
+So I've found VWRL from Vanguard, where there's such diversification:
+
+* North America 58.9%   
+* Europe 17.2%   
+* Pacific 12.5%   
+* Emerging Markets 11.1%   
+* Other 0.2%   
+* Middle East 0.1%
+
+[https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing/price-performance](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing/price-performance)
+
+&#x200B;
+
+This way I need a single ETF instead of manually having to balance between two or three of them.
+
+ Thoughts?_END_OF_POST_PYSTOCK_ Why is Pfizer stock down? Hi guys,
+
+I'm kinda new to investing and was wondering why the Pfizer stock seems to be going down. It seems like a great buy, they made the COVID vaccine which is being used in Europe and has already (?) or will be approved by the FDA in the US, it bought other companies, it seems to have a lot of potential. But despite this, the stock is going down. Why? Is this a good long-term investment, maybe it will come back up?_END_OF_POST_PYSTOCK_ Trading US options in EU Hi!
+
+I'm looking for a broker to trade US options in EU. As far as I've seen I have three options. 
+
+1. IB
+2. Tradestation Global
+3. Saxo
+
+Looks like IB has a monthly fee of 10euro. Tradestation looks like the best alternative for me as I will use a small account (1-2k euro) and I don't really like the IB platform. Saxo looks expensive but heard that they have changed the fees recently. 
+
+I just wanna hear your opinion on this. Is it worth it to learn the IB platform for the lower fees with a small account? I'm not going to buy and hold. I will try to be more active on this smaller account and swing trade. Mostly US Stocks and options. Your experiences with these three brokers? Any other alternatives that I've missed? 
+
+Thanks!_END_OF_POST_PYSTOCK_ How can be "fair" stock market "game" if central bank change rules ? Good day.
+
+My question is simple: How can be "fair" stock market "game" if central bank change rules ?
+
+How can be fair if central bank referee start printing money and buying asset on it ?
+
+Isn't it a rules changes ? 
+
+Isn't it a "referee" rule break ? 
+
+Thanks_END_OF_POST_PYSTOCK_ Where can I buy Poor Charlie’s Almanack ? I’m living in Europe, and I’m searching a website on which I can buy Poor Charlie’s Almanack (third edition brand new)... I’ve seen reseller on Ebay and Amazon but the prices are crazy and nothing is official. Is it still possible to buy the book from the official reseller ? Thank you. Wishing you all great holidays._END_OF_POST_PYSTOCK_ What would have to happen for the market to stop growing? What could realistically happen that would stop the bull market for a longer time, let’s say 50 years. Apart from war. Something similar to Japan’s situation, a very long bear market. I understand that quantative easing is causing this bull run, but when it stops, what will happen? What will stop the music?_END_OF_POST_PYSTOCK_ Physical gold vs ETCs in a market downturn planning to allocate some of my stock investments into gold. however, a majority of this is under an ISA account for the UK which only enables me to hold stocks and funds. I've been looking online in regards to the drawbacks of ETCs and the general advice is to stay away if planning to use as a bunker in event of a market wide downturn. why is that? is it because of easy liquidity that people will draw from these funds sending the price downwards, as opposed to the normal idea that more people would want to seek refuge in gold during a downturn? why do these funds that are meant to mimic physical gold less safe than owning bullions/equivalent? and what would people do with their stock and share ISA accounts if markets were entering recession. utilities? thanks in advance._END_OF_POST_PYSTOCK_ Blacklisting of China's DJI in US threatens to scramble drone industry Who stands to gain? What are the trades?
+
+* "The US Department of Commerce has added dozens of Chinese companies to its "entity list" of companies that may not purchase technology from US companies without a license from the feds. The new list includes DJI, the world's largest drone manufacturer. "
+* " Still, the announcement will certainly make it difficult for DJI to maintain its dominance of the drone business outside of China. "
+
+[https://arstechnica.com/tech-policy/2020/12/us-government-bans-tech-exports-to-top-drone-maker-dji/](https://arstechnica.com/tech-policy/2020/12/us-government-bans-tech-exports-to-top-drone-maker-dji/)
+
+&#x200B;
+
+* " It’s hard to imagine a bigger action that would be more impactful to the benefit of American drone makers "
+* "It does not release its sales figures, but industry estimates calculate DJI makes somewhere between 70 per cent and 80 per cent of the world’s commercial drones, and over three-quarters of those sold in the US. "
+
+[https://www.ft.com/content/5a610e59-1e51-4bb2-9624-410cb8034011](https://www.ft.com/content/5a610e59-1e51-4bb2-9624-410cb8034011)_END_OF_POST_PYSTOCK_ "Invest at all time high" says JPMorgan in their new report According to this [report](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/top-market-takeaways-is-it-worth-considering-investing-at-all-time-highs) from JPMorgan, investors that invest at all time high beat investors who invest any other day. How is that possible? Is this purely because of momentum investing? Can someone with some maths/stat background shed some light?_END_OF_POST_PYSTOCK_ Stock Prices Open/Close per Day/Hour/Minute Hi guys - does anyone know of a place where I can download the prices for stocks so that I can model them in Excel? I know I can chart online using different tools (would love to get input on this too) but I’m wanting something I can run my own analysis on, like analyzing averages, deviations, etc.
+
+Thanks in advance for your help!_END_OF_POST_PYSTOCK_ J. PowellL is now less helpful than yesterday as Lawmakers reach compromise over GOP proposal to rein in Fed’s powers, clearing path for a stimulus package deal. "The compromise will sweep out the $429 billion in unspent CARES Act funding for the Federal Reserve’s credit lending facilities and repurpose it as an offset for a new $900 billion coronavirus relief bill, GOP sources said.
+
+The deal will close four Federal Reserve credit lending facilities created by the CARES Act and will prevent the Fed from standing up replica facilities in the future without congressional approval.
+
+Those four programs include the primary market corporate credit facility, the secondary market corporate credit facility, the Main Street lending program and the municipal credit facility.
+
+The Fed will retain more flexibility over restarting the Term Asset-Backed Securities Loan Facility."
+
+[Lawmakers reach compromise over GOP proposal to rein in Fed’s powers, clearing path for a stimulus package deal](https://www.washingtonpost.com/us-policy/2020/12/19/stimulus-talks-race-against-government-shutddown-deadline/)_END_OF_POST_PYSTOCK_ Noob question for noob investor So I’m way too old to just be getting into investing but I guess it’s better late then never. I currently buy stocks and have recently learned about call and put options which I understand the basic principle of. 
+I was hoping someone could explain tha screen to me. 
+Are the days when the contracts expire?
+Why are there several different prices available? 
+I need an ELI5 if someone would be so kind. Thank you in advance! 
+
+https://imgur.com/gallery/gu3QR6L_END_OF_POST_PYSTOCK_ Hoping if someone can confirm my understanding of options as i've typically avoided them. Buying calls = Liability is limited to the premium paid.
+Selling uncovered calls = Liability is unlimited
+Selling covered calls = No liability per se, however investment value could decrease if underlying asset goes down in value
+
+Buying puts = Liability is limited to the premium
+Selling uncovered puts = Liability is unlimited
+Selling covered puts = Same as selling covered calls except that this is a bearish position and not a bullish one.
+
+Traditionally a value investor, however have a specific macro view and looking to utilise options to capitlise (with no leverage), but not looking to assume unlimited liability. I have a generally bearish view so looking at the following:
+
+Buying calls on Gold and Bitcoin. Given the feds printer has been going wild i think inflation hedges are going to go up in value.
+Buying puts on the SPY and DAX. Belive the US market is way overvalued and that a no deal brexit will drive uncertainty in Germany
+Sell covered calls on bitcoin for a strike above that on my calls so i can utilise the premiums for bull positions on inflation hedge commodities.
+
+Thanks in advance._END_OF_POST_PYSTOCK_ Is index investing out of control? Let's look at Tesla for example. Its price went up by 50% in a single month since they announced that it would be included in the SP500. Is it really worth 50% more all of a sudden? Probably not. My guess is that there are many investors with their money invested in index ETF tracking the SP500, and all these ETFs were forced into buying Tesla stock regardless of its price.
+Given that there are many brokerage firms that allow investing without paying any fees, why not pick 50-70 diversified stocks yourself rather than investing in index ETFs?_END_OF_POST_PYSTOCK_ Hedge against falling dollar for big purchase? I will be making a large purchase (400k euros) around May 2021. I’m in the US and of course my investments are all in dollars now. I’ve been watching for a few months now as the dollar keeps falling against the euro and my buying power decreases. Any strategies for hedging against what I believe will be a continuing falling dollar?
+
+Maybe I can convert the dollars into euros and invest in an ETF now, then sell in May to fund the purchase?
+
+Appreciate all your thoughts._END_OF_POST_PYSTOCK_ Best new sources (paid and free) Edit Topic: Best News Sources (sorry for the typo, I'm not sure how to correct it)
+
+I'm happy to pay for quality, where can I find it? Are there free sources that have their finger on a pulse? I see good news posts on reddit but how did they get there, how were they found. Links to quality news sources would be awesome!
+
+I've tried Google News but either my settings are wrong somehow or its just not what I need. Even when set to "worldwide" the top post will be about the latest gunshot victim in Toronto._END_OF_POST_PYSTOCK_ Investing in SPACEX So someone pointed me to BPTRX for exposure to spacex. I also noticed that BFGFX has a similar exposure. I’m wondering if there are any others? The high Tesla allocation in both of these funds concerns me.
+
+For reference:
+BPTRX has 3.1% allocation, 43% TSLA allocation
+BFGFX has 2.6% allocation, 37% TSLA allocation
+
+I’m in it for the long haul, this is in an IRA account
+
+Edit found this thread from 6 months ago..
+https://amp.reddit.com/r/investing/comments/h9mbuq/is_this_how_you_can_invest_in_spacex/_END_OF_POST_PYSTOCK_ How come anytime I post anything about psychedelic stocks it gets downvoted here? I have high hopes for this sector but whenever I mention my holdings in NUMI, CYBN, or MMEDF I get downvoted. Subs like r/shroomstocks or r/mindmedinvestorclub are great but whenever I mention it here people hate on it.
+
+Psychs 100% relieved me of my depression and drug abuse problems and changed my entire outlook on life. I’m a much more positive and loving person today because of them. 5 years clean and living my best life and I owe that to these substances. 
+
+People who got in at >2$ for MindMed are seeing insane gains, I’m in it for the long run because I truly believe psychedelic medicine will shit all over big pharma. These are the future for treating mental disorders and addiction and people are just now starting to wake up. So what’s your argument against these companies? I’d really like to hear a different perspective instead of just getting downvoted and left hanging.
+
+Yes this is a very risky market, they’re very new companies and are volatile right now but I believe they’ll soar in the long run and if I fully believe in a company why should I feel bad about investing in them? I’m not putting in any money that I’m not willing to lose so I don’t see what the big deal is._END_OF_POST_PYSTOCK_

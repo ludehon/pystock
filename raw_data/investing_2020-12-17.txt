@@ -1,0 +1,364 @@
+ Is it possible that Tesla could achieve wild success as a company, its stock price still go down? Suppose we could look into a crystal ball 10 years in the future. We see electric cars humming down every road and byway. Solar panel shingles are on nearly every new home built. The world has been (re)electrified. And Tesla owns a majority of the market share.
+
+Is it possible that in such a world, Tesla’s stock price is below $650? 
+
+This is a serious question. Is it possible for a company to dominate, but it’s shareholders to lose?_END_OF_POST_PYSTOCK_ How can I lock in the price of a stock for a few months if I like the current price but don't want to sell for tax purposes? Say I have a security (stock) that is $100 per share. I want to sell at this price, but I want to do so in 6 months (regardless if the price moves to $10 or to $200). What would be the best way to do this?
+
+I believe one way to do this would be to set up a collar strategy with options. This makes sense, but (I believe) requires some capital. Is there a way to do so with little up-front capital?_END_OF_POST_PYSTOCK_ what do you think of PLTR - Palantir. It's a bubble or not?  Since the IPO of Palantir I have been following this company and I see several different opinions about it, saying that there is a bubble or it is like a "casino", others say that it is one of the best IPO's in history having highlighted the founder Peter Thiel who already got involved with Paypal and Facebook and for that I would like to know the opinion of each one of you._END_OF_POST_PYSTOCK_ Why is Tesla worth so much? / Confused european The car manufacturing industry is highly competitive and I don't see how Tesla can increase their revenue or even take 5% of the electric vehicle space.
+
+I'm trying to find reasons why the Tesla car manufacturer is worth more than Volkswagen for example. 
+
+To name a few. Polestar have a far better design in my opinion. Mercedes ECQ autonomous driving tech looks great so far. Volkswagen ID3 is selling more cars than Tesla in Europe. ID4 and ID5 is on the way. 
+
+And then we have companies and cars like KIA E-niro, Nissan Leaf, Toyota with their EVs, and the US biggest rival Chevrolet (GM). 
+
+Sure. Tesla was first and people thought they would be alone for a long time, and maybe that made everyone buy the Tesla share. But now, in reality, its only getting harder every day. 
+
+Tesla can not be valued 500B if they only take 5% of the EV space. This has to go down and people should realize sooner or later that there's no magic route to being a highly profitable car manufacturer. 
+
+And what I understad, the positive revenue is backed by the temporary environmental credits?
+
+It looks really dangerous to own Tesla due to the huge downside. (I have not touched the stock and I have also not bought any puts.)_END_OF_POST_PYSTOCK_ Greenshoe-option - over allotment - price stabilization I've read about price-stabilization, but I am a bit confused as to when this occurs in bought deals & IPOs? Take this instance for e.g.
+
+[https://seekingalpha.com/pr/18123596-mindmed-upsizes-previously-announced-bought-deal-public-offering](https://seekingalpha.com/pr/18123596-mindmed-upsizes-previously-announced-bought-deal-public-offering)
+
+*The Company has granted the Underwriters an option (the "Over-Allotment Option") to purchase up to an additional 2,730,000 Units at the Issue Price,* ***exercisable at any time,*** *for a period of 30 days after and including the Closing Date, which would result in additional proceeds of C$12,012,000.*
+
+Does this mean that they can only utilise and buy back the shares 30 days after the **pressrelease** or 30 days after the **5th of January** when the Closing date is?_END_OF_POST_PYSTOCK_ Crypto exchange Coinbase is officially going public Link: [https://decrypt.co/51846/crypto-exchange-coinbase-going-public-ipo](https://decrypt.co/51846/crypto-exchange-coinbase-going-public-ipo)  
+Tweet: [https://twitter.com/coinbase/status/1339644445457752064](https://twitter.com/coinbase/status/1339644445457752064)_END_OF_POST_PYSTOCK_ DraftKings (NASDAQ: DKNG) - Deep Dive Research Hi everyone! I am working non-stop provide the best research and analysis regarding DraftKings (NASDAQ: DKNG). I originally posted my overall investment thesis on the company a few weeks back and now I am breaking down and analyzing the latest news and developments regarding DKNG! And no, it is not the ticker symbol for Donkey Kong.
+
+DraftKings in my opinion, is the best pure play investment if you want some exposure to the sports betting, iGaming, and daily fantasy sports space. They're founder led (3 founders to be exact) and they're invested into the company themselves right alongside all of us shareholders or potential shareholders.
+
+Within the last week, there has been some exciting developments regarding DraftKings. I will share them below:
+
+**DK Gift Cards Are Live! You can buy a DK gift card as a stocking stuffer for Christmas if you want.**
+
+I’m really excited to hear this news. It’s only going to increase the  brand awareness of DK and that’s what we want. According to the press  release on DK’s investor relations website, they’ve partnered with  InComm Payments to facilitate the launching of the gift cards. InComm  payments is a global leading payments technology company that has a  network of retailers that DK will be able to leverage through this  partnership.  Convenience stores like 7-Eleven, Speedway and Dollar  General are just some of the many convenience stores in Incomm Payments’  network that DK will be able to leverage. For now, the gift cards will  be offered in $50 and $25 denominations.
+
+The great thing about this to me is that they’ve beat their  competitors to this. That shows managements initiative and ability to  get things done which I complimented when I first picked this company.  As of right now, you’re not going to be seeing any “FanDuel” (boo  FanDuel \*thumbs down emoji\*) gift cards in the stores. Tim Richardson,  the Senior Vice President at InComm Payments was quoted as saying  “DraftKings will benefit from having its brand present in tens of  thousands of Incomm Payments’ retail partner locations across the US”.  Overall, good news for DK.
+
+**New York State – Getting desperate? Do they need some online sports gambling revenue?**
+
+I want to make this clear before I write about this topic – sports  betting is already legal in New York state. The problem is, it’s only  legal in brick and mortar (retail) locations. Just under a dozen upstate  casinos can operate brick and mortar sports books at the moment. In  typical DK fashion, they’re already active in a casino in New York  State. DK offers in person brick and mortar sports betting through the  Del Lago Resort Casino in Waterloo, NY.  My news update I’m sharing is  that it appears New York state might be considering expanding to online  sports betting too due to a budget shortfall they’re experiencing (they  need more tax revenue).
+
+This news came out on Wednesday, 12/16/20 during the day time.  Governor Cuomo had a press conference during the day. The press  conference was primarily focused on giving an update on the COVID-19  pandemic in New York state. During the presser, the topic of New York  state’s budget shortfalls came up. As a possible financial solution,  Cuomo said “Are there other ways to get revenue? How about marijuana?  How about sports betting?” He’s referring to the possible tax revenue  that could be collected if sports betting offerings were expanded beyond  just the brick and mortar offerings. What if every New Yorker could  place a sports wager from the comfort of their own home on their cell  phone?
+
+The battle for legalizing online sports gambling in New York has been  going on for years. Governor Cuomo has always been opposed to it. One  of the reasons Gov. Cuomo has cited in the past is that he thinks a  constitutional amendment would need to be made to New York state law to  allow for mobile sports betting in the state. However, one state  representative from New York that has been pushing hard for online  sports gambling begs to differ. In response to Cuomo’s comments in the  presser earlier that day, State Senator Joseph Addabbo said that there  would be no constitutional problem with mobile sports betting because  the servers could be placed on site of grandfathered in physical  casinos. Addabo said that New York state’s need for revenue is “real and  immediate”
+
+This is a situation to keep a close eye on. The impacts of legalizing  mobile sports betting in NY would be substantial for DK as it would  open the population of 20 million people in NY state the opportunity to  place wagers on the DK Sportsbook app through the comfort of their home.  I imagine it wouldn’t be too difficult for DK to mobilize once they get  the green light for mobile betting as they already have the standing  relationship with Del Lago Resort Casino for in person betting.
+
+**The Michigan Gaming Control Board (MGCB) granted DK a  provisional license to conduct online gaming and sports betting in the  state of Michigan**
+
+For this update I also want to be clear – retail (brick and mortar)  and mobile sports betting are already legal in the state of Michigan.  It’s just that there’s a lot of yellow tape for Sportsbooks like DK to  navigate within a state even after sports betting has become legalized.  This provisional license provided by the MGCB was provided to DK and 14  other sportsbooks (including rival FanDuel) on Thursday, December 10th  last week.
+
+Now there are just a few more regulatory requirements that DK has to  meet in the state of Michigan before they can go live. According to [http://www.michigan.gov](http://www.michigan.gov/),  “Before launch happens, the platform providers must complete additional  regulatory requirements including independent testing of platforms and  games and MGCB approval of their internal controls, which ensure gaming  integrity. The firms also must secure occupational licenses for certain  employees.” You can read the full article on Michigan’s government  website [here](https://www.michigan.gov/mgcb/0,4620,7-351-79256_98027_97974-547154--,00.html).
+
+Knowing that DK has a knack for being quick to mobilize once they’re  given opportunities in respective states, I fully expect them to pass  these last few tests with flying colors. The DK Sportsbook app has  already been available in the state of Michigan for “free to enter”  games. Once they pass the last few requirements, actual wagers will be  allowed to be placed. And money will be allowed to be made!
+
+Another promising sign coming out of the state of Michigan, is that  on November 30th, 2020, DK became an official sports betting partner of  the Detroit Pistons, the NBA basketball team in Michigan. DK Chief  Business Officer, Ezra Kucharz, was on the record after the deal closed  saying “As our first professional team activation in the state of  Michigan, we are thrilled to join forces with the Detroit Pistons ahead  of our pending market introduction”. In my opinion, I anticipate we’ll  be seeing DK online sports betting in Michigan some time in early 2021.
+
+This concludes my update and analysis on DraftKings.
+
+**TL:DR**
+
+* Draftkings now offers gift cards and you can buy them in convenience stores (first sports betting company to do so)
+* DraftKings received a provisional license to conduct sports gambling in Michigan
+* Governor Cuomo of NY said he would consider legalizing "mobile sports betting" to raise additional tax revenue
+* If you would like to read my original deep dive and analysis on DKNG, you can check it out here:
+   * [DraftKings Deep Dive and Analysis - Investment Thesis](https://onthemarkpicks.com/2020/11/30/deep-dive-1-part-1-of-2-draftkings-bringing-sports-to-life/)_END_OF_POST_PYSTOCK_ putting $5k on STRA  One of the few stocks down since the pandemic from 160's to mid 90's. Company has no debt, great cost management, 500 mill in cash, and offers an alternative education plan that is much cheaper than traditional college. Plus all of their programs were either online to begin with or have converted to fully online. Inclusive Capital also just acquired a 5.7% stake in the company at an avg price around $114. Waiting for this thing to go at least $130 over next few months. What do you guys think?
+
+[https://www.cnbc.com/2020/12/11/jeff-ubben-bets-on-underperforming-for-profit-education-stock.html](https://www.cnbc.com/2020/12/11/jeff-ubben-bets-on-underperforming-for-profit-education-stock.html)_END_OF_POST_PYSTOCK_ Came across Jim Cramer's YT videos, "Mad Money", recently. Holy Crap! Young investors, hope you aren't drawing inspiration from his videos. Almost everything I have learned about investing in the stock market has been from reading books. Jim Cramer is the exact opposite of what every single author wants you to do --chase bull markets. To quote him, "There's always a bull market somewhere." That's probably true; however, if you start investing with this kind of attitude, you're bound to lose. In one of the videos, he was recommending Roku and Peleton. Peleton stock is trading at PE > 1000!!!!!. Good luck making "Mad Money" chasing these stocks. Outrageous. Oh, and, you just need to watch a few of his videos to realize he is recommending just about every stock out there. I guess there's always a bull market somewhere. SMH. Maybe there's an investing side of YouTube that I haven't seen yet, but this is so wrong.  I briefly read about him. He's made a lot of money as a hedge fund manager, but if you start buying a stock with PE > 1000, you won't make a dime in the long run. Young investors, please do not get any investment advice from him. It's just noise, and it's the first thing you should ignore if you truly want to invest --not gamble. Please just pick up a book from a credible author and learn. Some books for beginners are Simple Path to Wealth, Common Sense Investing, Invellitgenet Investor, and One Up on Wall Street. There are plenty of helpful books out there. Good Luck! 
+
+I watched a few of his videos and decided that was enough. Perhaps I was too quick to jump to conclusions about him. If I am wrong, enlighten me, please. I also would like to make "mad money" and pay off my student loans. Thanks!_END_OF_POST_PYSTOCK_ Motley fool BS So any subscribers of TMF Stock advisor here that are as pissed as I am that every new recommendation begins running up at 11:45. Somebody is getting in on these deals early and it’s become painfully obvious, I’ll be filing a complaint with the SEC today._END_OF_POST_PYSTOCK_ Noob question: why don’t investors seem to care about antitrust lawsuits? I would think that Google getting sued by 38 states would cause a big sell off for google stock, but it’s only down about .7%. Are antitrust lawsuits just a norm? Why do they barely affect share prices?
+
+I always see antitrust news about big tech giants, and it seems like the stock price barely moves. Don’t investors care about the fact that companies might have to divest in profitable business ventures?_END_OF_POST_PYSTOCK_ Is Bitcoin a tulip? For those who don’t know, tulips (yes the flower) were the original bubble. People bought tulips not because they wanted tulips, but because they wanted someone else to buy them for more. While this is sometimes true for stocks as well, stock prices reflect actions and performance of the company. A stock goes up when the value of the company goes up.
+
+Bitcoin is an asset, so it is in a similar category. 
+
+Whenever I ask why my friends have Bitcoin, they have it just to sell it for more to someone else, who is also probably buying it to sell for more to someone else.
+
+The underlying functions of btc see no change to reflect change in price, people just buy it because they want the next guy to pay more for it.
+
+It seems to be just like a tulip.
+
+Purpose of Bitcoin that I could find:
+
+———
+
+Drug money (unironically, it’s original use)
+
+Corrupt government store of wealth (if you live in China or countries with mass inflation)
+
+Tax fraud (this is why I feel it will likely get btc ban from being accepted at legal businesses, too much work for the IRS to protect against fraud)
+
+Hedge to inflation (as mentioned in the corrupt government situation but more details below)
+
+Edit: per u/Paladin65536 : transfer of wealth internationally (alternative to apps like transferwise). ofc many exchanges will still charge you fees to buy/sell btc to convert to cash + volatility of btc. (other international transfer apps also charge fees) However, may also be illegal based on country.
+
+———
+
+By design, btc has infinite deflation, more people exist each day, while btc is finite. As such it cannot become a currency. (Why spend it today when you could get significantly more with that same Bitcoin tomorrow?)
+
+In contrast to other investments, like stocks, with growth clearly reflecting events of the company, or real estate with clear income potential. Bitcoin is more like digital gold, which normally acts as a hedge to inflation, but bitcoins actual price is far from moving at the rate of inflation or other hedge assets.
+
+Also, please do confuse blockchain technology with Bitcoin. Blockchain can be useful, and something made with blockchain can be useless._END_OF_POST_PYSTOCK_ Need advice for a big move! I'm Canadian and I just turned 26, I live in Quebec and I just sold my house for a nice profit. I now have the opportunity to max out my TFSA. Since i was born in november '94, I can contribute 54 500$ (right?). I was thinking about dumping everything in a dividend focus ETF. Something like XEI.TO and setup a DRIP on it, then forget about it for a couple decades. I might split the portfolio with some growth ETF as well. Is there any better idea? I'm debating between this and going for growth stock. My individual stock are mostly in my RRSP though. I feel like going dividend/growth ETF is the safest way for a TFSA and the compounding will be very interesting since I can max it early on. Then one day, i'll be able to stop the DRIP and get the dividends tax free as an extra income. Then, later in life, withdraw capital gains tax free.
+
+What are y'all thinking about it?
+
+(Roughly TFSA=Roth IRA)_END_OF_POST_PYSTOCK_ Does anyone here use Public? Is it better than Robinhood? [https://celebritybusinessjournal.com/the-chainsmokers-and-tony-hawk-latest-celebrities-to-invest-in-social-investing-app-public-com/](https://celebritybusinessjournal.com/the-chainsmokers-and-tony-hawk-latest-celebrities-to-invest-in-social-investing-app-public-com/)_END_OF_POST_PYSTOCK_ Merrill Edge simple question I use Merrill Edge for trading.
+
+I buy stock A at price 10.
+
+I want to have a limit sell order to sell when the price is 11.
+
+I want to have a stop quote order to sell when the price goes down to 9.
+
+Is it possible to do this in ME? Will other platform allow me to do this?_END_OF_POST_PYSTOCK_ It's back in the news - Luckin to Pay $180 Million to End SEC Probe After Sales Fraud https://www.ctvnews.ca/business/china-s-luckin-coffee-to-pay-us-180-million-fine-in-fraud-case-1.5235066
+
+Luckin Coffee has agreed to pay a 180 million dollar fine after now famously fabricating more than $300 million in retail sales and having its stock collapse and be delisted after being found out. 
+
+The OTC stock is up nearly 40% today on the news, perhaps being taken as a sign of making amends and ending further action from the SEC at least. 
+
+There's still pending class actions, a revolving door of leadership, and an unsure business model, but I'm sure there's at least some people out there who also weren't motivated to sell 90% down and just left some shares alone that this is interesting to._END_OF_POST_PYSTOCK_ S&P 500 Snapshot vs. Adaptive Hey guys,
+
+Here's something that I've been wondering about:Say you invested a dollar at 1980 in the S&P 500 and continuously updated your portfolio with respect to index changes, then you would have had by now about 27.77 dollars.
+
+However, what would have happened were you to not update the initial portfolio at all, and just forget about the index after the initial investment?Obviously by now your portfolio would greatly differ from the actual index, I guess mostly because of all the new companies in the information technology sector etc., but is that actually such a bad thing? How many dollars would you wind up with?
+
+I tried answering that question myself but unfortunately couldn't get a hold of the relevant data.
+
+ What caused me to ask this question is a point brought up in a recent Ben Felix video: [Investing in Technological Revolutions](https://youtu.be/UZnVt_CvL3k?t=702). _END_OF_POST_PYSTOCK_ I don't want to ask the crypto subs because I wan unbiased answers. For those of you holding BTC and other cryptos as investments, what are you doing with them right now?? I'm so tempted to take out profits and throw that money into regular investment accounts.  But crypto was explicitly part of a portfolio that was meant to grow with the other investments.  But with it's rapid growth, I'm super heavy in it.  I keep seeing articles with price predictions going above $30k for BTC and $2000 for ETH, and I just get more confused.
+
+What are you investors doing with your crypto allocations?  Rebalancing and selling off?  Or just riding it out as far as it can go?_END_OF_POST_PYSTOCK_ Weekly unemployment claims increase for second straight week https://www.reuters.com/article/usa-economy/u-s-weekly-jobless-claims-increase-further-idUKKBN28R1Y8
+
+>	Initial claims for state unemployment benefits totaled a seasonally adjusted 885,000 for the week ended Dec. 12, compared to 862,000 in the prior week, the Labor Department said on Thursday. Economists polled by Reuters had forecast 800,000 applications in the latest week.
+
+>	Jobless claims are above their 665,000 peak during the 2007-09 Great Recession, though they have dropped from a record 6.867 million in March._END_OF_POST_PYSTOCK_ What is the theoretical upper limit for bitcoin? Where does the upper bound lie for bitcoin's worth (in terms of current US dollars)?
+
+If bitcoin became the defacto universal currency, it would stand to have the same value as today's current money supply. 
+
+The current amount of money in circulation in the world is $1.7 Trillion. Dividing by 21 million coins, you get about $80,000 per coin. 
+
+If we used the total amount of money, including what's sitting in savings accounts (which is about $30 trillion), bitcoin would be $1.4 million per coin. 
+
+If we used annual world GDP of $80 trillion, then it'd be $3.8 million per coin. 
+
+Using GDP doesn't seem right, but do the others look reasonable in the scenario that bitcoin takes over the world. 
+
+I know this is a moon-shot scenario, but was just curious if anyone's actually tried to come up with a way to actually value the currency._END_OF_POST_PYSTOCK_ How are people doing with SolarWind Corp post-hack? Stock has lost some significant value, I’m wondering if others have taken advantage of the situation?
+
+Other than those greedy investment bastards who dumped [~280 million](https://www.washingtonpost.com/technology/2020/12/15/solarwinds-russia-breach-stock-trades/) a few days before publicizing the hack, of course._END_OF_POST_PYSTOCK_ Impending bubble? Why not always set a stop loss at your buy in price? Edit: Personally, I'm not concerned at all about a tech bubble it was just a convenient example to catalyze discussion. 
+
+Things keep going up, but we hear news of a new tech bubble every day. Why shouldn't I set a stop loss on everything at my buy in price? (for the sake of keeping the example simple, assume every share of each company was bought at the same time) What is the incentive not to do this? Your capital gains will be $0, so no tax right?  You're now further ahead in time and know more (like that a bubble burst) than you did when you made your initial investment and so you might be able to make another better investment now.
+
+\- Sincerely, a noob who just started diving into stop loss orders with ABNB last week_END_OF_POST_PYSTOCK_ Azn-Astrazeneca , What do you think? I am from Brazil but most of my portfolio is in the USA and I would like to know the opinion of you who live day by day as is the situation in the Astrazeneca, because I realized that there are several competitors about the vaccination of Covid-19, as Pfizer and Biontech, among others_END_OF_POST_PYSTOCK_ Conflicted on Palantir. Anyone holding long term? I hit the jackpot with gbtc and cashed out original investment and this is what is left.....it covers both my bad bets.  But Im wondering, do I just sit on palantir or is there a formula for calculating what I am asking to help me decide.   Ignore CNTTQ. I smoke weed and want to own the company......slowly on my way.  More of a hobby investment. https://imgur.com/a/PeWp0ZU_END_OF_POST_PYSTOCK_ SEC charges Robinhood $65m Where do you think RH got $65m to settle with SEC? 
+
+[https://www.sec.gov/news/press-release/2020-321#:\~:text=Robinhood%20agreed%20to%20pay%20%2465%20million%20to%20settle%20the%20charges.&text=Despite%20this%2C%20according%20to%20the,beat%20that%20of%20its%20competitors](https://www.sec.gov/news/press-release/2020-321#:~:text=Robinhood%20agreed%20to%20pay%20%2465%20million%20to%20settle%20the%20charges.&text=Despite%20this%2C%20according%20to%20the,beat%20that%20of%20its%20competitors)._END_OF_POST_PYSTOCK_ List of SaaS Companies by use So I'm a big believer in the SaaS business module & currently trying to build a SaaS portfolio that should capture as much of the sector's TAM as possible. I'm trying to approach the problem by looking at the uses of those services which are critical to mid - large business which are the most likely to use SaaS. I've come up with the below list & would like to have your insights & more name suggestions. I'm targeting to hold from 5 & up to 10 of SaaS Companies to diversify. Currently waiting for a pullback in tech/NASDAQ stocks as these are due for a correction in light of vaccine related rotation.
+
+Sales/relationship managment:
+$CRM, $VEEV
+
+Procurement:
+$COUP
+
+ERP/Back-office:
+$NOW, $WDAY, $BILL
+
+Legal/Contracting:
+$DOCU
+
+E-commerce/Payment Gateways:
+$SHOP, $BIGC
+
+CDN/Edge Computing:
+$FSLY, $NET
+
+Cyber Security:
+$CRWD, $OKTA, $ZS
+
+Communications/Call Centers:
+$TWLO, $RNG_END_OF_POST_PYSTOCK_ Why do bond funds go down? My strategy is similar to what is advised in "how to stash that cash" with a little more risk/reward. 70% bonds or so, 30% stocks or so. 90% of my bond money is in traditional Vanguard bond funds.
+
+With the rest I am looking at bond funds that seek capital appreciation mixed with high income. Right now I am in PHK and HNDL. I have noticed that over the long run all these bond funds go down. Their NAVs go down as well. Let's look at a few:
+
+(MUTF:[USHYX](https://seekingalpha.com/symbol/USHYX))
+
+(MUTF:[PBHAX](https://seekingalpha.com/symbol/PBHAX))
+
+(MUTF:[FHAIX](https://seekingalpha.com/symbol/FHAIX))
+
+(MUTF:[MHHIX](https://seekingalpha.com/symbol/MHHIX))
+
+These are all high-yield, so you could take your winnings and put them some where else, but you would do well to put them somewhere else. In PHK, the dividends have dropped and the value has gone down. Now, I get that we are at a low-rate environment, and over the past 20 years rates have just kept getting lower - perhaps that is my answer - but as an investor I feel odd about a fund where my best strategy may be to sweep the money out and put it somewhere that will actually grow, verses the "capital appreciation" promised in all the prospectus's.
+
+Any ideas on what the Fed buying bonds will do to this? My guess is they are just buying t-bills to keep the rates low (to defeat natural supply/demand). This could create a flight to yields that will pump money to high-yield funds, that could benefit closed high-yield funds. OR ... I could be wrong. I've been wrong before.
+
+thanks!_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Child Care Investments Please note: The short answer may be this doesn't exist.
+
+-
+
+I am having a difficult time finding a company to invest in that operates child care centers. Obviously it would need to be a publicly traded company. 
+
+-
+
+It could be a REIT or something similar to OHI, but that focuses on child care.
+
+-
+
+Any ideas?_END_OF_POST_PYSTOCK_ iShares Core MSCI World ETF (IE00B4L5Y983) vs. Vanguard FTSE All-World ETF (IE00BK5BQT80) Long time lurker, my 1st post here, and I want to pick your brains a bit -:)
+
+I wanna put some money into index funds and just leave it there, ideally till I retire. I don't want too much work managing my portfolio. Well balanced passive index funds seem to be the go to for that, and I'm considering buying either the iShares Core MSCI World ETF (IE00B4L5Y983) or the Vanguard FTSE All-World ETF (IE00BK5BQT80).
+
+Both funds are accumulating and in USD, TER with 0.20 and 0.22 are nearly the same. The main difference as far as I can see is that the FTSE All-World Index contains emerging markets, the MSCI on does not. This poses two questions for me:
+
+a) The Vanguard fund is better balanced. That means less less work for me and is a good thing on the long run?
+
+b) Am I missing something important comparing these funds?_END_OF_POST_PYSTOCK_ Is it a good to talk to a VC/Angel who has already invested heavily on my competitor I am working on a stealth startup. The market is large (> $100B) and there are very few players who have the equivalent technology we have.
+
+I know a VC who invests a lot in tech. And has invested $5M in my competitor, say "A Inc". (there are very few at this time). A Inc. has the equivalent tech (R&D) but is extremely poor when it comes to targeting right markets. Looking at their products we can say they have minimal creativity (Just provide an API service with cost-based pricing). The founder has given some interviews in public but does not seem to have any real-life knowledge.
+
+Our situation: We have a product ready. With some good number of users using it. We have a well refined business strategy (Seemingly better than theirs) and have done reasonable market research (Lots of people willing to pay). To scale up we need fund. The VC mentioned above has funded a lot of companies in Tech. But there is also a possibility that they might use our data and the business strategy to help their initially funded startup.
+
+Can VCs be that hawkish? Please help me with your experiences, anecdotes, pros and cons in connecting with this VC.
+
+More details:
+
+1. The lead investor has 15+years experience in top tech companies (Google,NVIDIA and microsoft). Has deep connections with the companies' top executives. Would be extremely valuable for us if we can get selected.
+2. Startup A Inc has founders who has worked in Google DeepMind for few months.
+3. Our startup has an ex-googler as the tech-lead._END_OF_POST_PYSTOCK_ Industry Guides for Beginners Hello,
+
+I was looking for guides like Deutsche Bank's Oil & Gas for Beginners, Chemicals for Beginners, and Pharmaceuticals for Beginners. I understand there are industry updates to these also pulished subsequently. Could somebody let me know if there are more similar guides I can access?_END_OF_POST_PYSTOCK_ Place to park cash December 2020 With high yields savings accounts yielding only 0.6% now and USD dropping like a brick, what is a good place to park USD cash? I am not totally comfortable going all in into the market with current valuations although I am bullish long term. At the same time I shed a tear every time I have peek at DXY and realize my USD cash is losing value everyday (thank you Powell!).
+
+I have done some DD on this on Reddit and otherwise and here are some options I found that look attractive relatively but looking to hear opinions:
+
+* MO (High drawdown and black swan risk but great div yield)
+* PFE (Slightly inflated valuation given the hype rn)
+* PFF (High drawdown risk)
+* VAIPX
+* VICSX
+* VCADX
+* VWSTX
+* VWITX
+* TIPS
+* IBonds
+* Tiered CDs
+* Armenian/Georgian banks (High counter party risk but great yields)
+
+The last few options have low drawdown risk but also lower yields. Ideally, of course I am trying to maximize yield / drawdown risk.
+
+Looking forward to hearing opinions! :)_END_OF_POST_PYSTOCK_ Altman-Z score Currently I am researching a couple of financial companies for an investment. I make sure to check multiple factors before I buy a conpany. Now I see that a lot of banks and insurance companies have low altman- Z scores (which could indicate bankruptcy in the ongoing 24 months). 
+This is peobably not entirely correct because it would be unlikely that most corporate banks are going bankrupt (wells Fargo, BAC). So I think the altman-Z score does not apply to Banks and insurance's. Can someone tell me why.
+
+Tl;DR: Why doesn't the altman-Z score work on banks and insurance companies._END_OF_POST_PYSTOCK_ Best investment return from each decade 80’s to present I’ve been around 4 decades now, and have seen some life changing returns from investments that didn’t necessarily cost much to begin with. Not for me personally but oh well that’s life. The highlights....
+
+80’s - basketball cards
+90’s - domains
+00’s - tech stocks
+10’s - bitcoin 
+
+What’s it gonna be for the 20’s? Also feel free to disagree with any of my picks._END_OF_POST_PYSTOCK_ Algo Generation Or Trading Automation Software I am a new Day Trader pondering automation of my strategy. Looking for a tool that allows me to develop and test Algos without coding. For obvious reasons I'd like to run it on my own server, not in a host platform or cloud. Wondering if anybody is using such a tool and can share their experience. But if you are fond of a hosted solution that might do the trick feel free to comment. 
+
+Having read about older tools such as Trade Station and NeuroShell Trader I'd love to hear about your experience with those or similar tools that you may recommend._END_OF_POST_PYSTOCK_ Can someone explains what will happen to my APHA shares? Hello,
+
+I own a several hundred shares in APHA, and according to various articles I will be receiving .83 shares of TLRY per share of APHA, so doesnt that mean I kind of get stiffed on some of my money invested?
+
+Having trouble wrapping my head around this one. Thanks!_END_OF_POST_PYSTOCK_ Is it illegal if I start buying and selling stocks with the wrong legal name on my Robinhood account? I mistakenly put the wrong legal name for my Robinhood account. I tried emailing them about the problem but I heard they have bad customer service and I’ve been waiting for 2 days and still no response.
+
+Can I start using their services now or should I wait till they respond and change my name? This really sucks because I’ve been waiting forever to set up an account and now I probably have to go through a likely lengthy process in order to get it fixed._END_OF_POST_PYSTOCK_ Hedging the USD The USD has been on a consistent downtrend against major currencies for most of the year and it seems that the downward spiral will continue for a while. Being an investor outside of the US (specifically Singapore), I have probably lost about 15-20% of my gains to the depreciating dollar. 
+
+Given that I am an equity investor, I am not interested in speculating on the USD and would really like to hedge my USD exposure. 
+
+Does anyone know of any way or any brokers that offer some kind of hedge against the USD? It seems that FX options are mainly traded OTC, so they are not accessible to most retail investors. 
+
+Does it make sense to just short the USD on margin?_END_OF_POST_PYSTOCK_ Pharma longholds - bear case for Merck? Been looking into MRK pretty hard and i’m not seeing the counterargument to being well- and heavily-positioned in them by mid-Q1. Great financials, great pipeline, solid mgmt, and heavily undervalued by seemingly temporary issues shared by all non-vaccine pharma right now. 
+
+Seems to good to be true though, anyone have a counterargument against Merck? What am i missing? Not a pump post, a genuine worry that I have a blind spot in my analysis._END_OF_POST_PYSTOCK_ Crackle Barrel Like most stocks, Covid hit Crackle Barrel hard. With the Pfizer vaccine beginning to get distributed in the US, older folks will begin to go out more. I have never been to a Crackle Barrel that’s medium age wasn’t 60 years old. With them adding beer to the menu I can see the company recovering very well post shutdown. Thoughts?_END_OF_POST_PYSTOCK_ Why does Warren continue to hold so much Apple? I own some apple but have been struggling with the 2T$ value. I’ve been watching the old Berkshire Hathaway annual meetings and it’s made me wonder “why does Warren continue hold so much Apple even though it’s the highest valued company in the world?”  I get that it’s a great brand with a wide moat and they have the new chip, but I believe it’s trade at double the price above revenue it was even just a couple years ago
+
+Edit: Changed to 2 Trillion thank you ;)_END_OF_POST_PYSTOCK_ Potential 1031 exchange dissolution and REITs Help me out here. R/investing can be pretty knowledgeable about more exotic topics and I've been burning for an answer as to what would happen to listed equity REITs if the Biden administration/Congress were to eliminate the 1031 exchange designation.
+
+Thoughts from more seasoned investors are appreciated._END_OF_POST_PYSTOCK_ Can someone tell me the definition of Unamortized Expenditure I’ve looked into it and looking at the root words it would seem to me that Unamortized would mean the opposite of intangible meaning tangible assets, wouldn’t that basically be depreciation and if so why word it this way and why does it show up on the asset category of the balance sheet_END_OF_POST_PYSTOCK_ My Watchlist For 12/17/2020 # My Plays For 12/17/2020: 
+
+^(I use the RSI, Stochastic, MACD, and 10-50-200EMA Lines.)  
+
+&#x200B;
+
+**$AOS:** Such a fantastic up trending channel, with such high success. It is sitting at the POC channel as well - which is a support. Stoch is low, and RSI is almost under 40. Beautiful setup.
+
+**$BLL:** A snack of a channel partnered with the 200EMA support? Yes Sir! It is right above support; RSI & Stochastic are oversold, and MACD is super low.
+
+**$CARR:** Just took off of 200EMA and channel, and now holding above previous resistance? Gorgeous, look to buy in on the pull back!
+
+**$CGEN:** In my area of value, 4/4 so far om 10% 3 day swings in this price range. IT reverses at 40RSI, Stoch is low, showing bullish divergence, and this support area again, is very strong.
+
+**$EDU:** Another delicious channel up, that bounced off the 200EMA. Look to buy in off of the 50EMA bounce as it has a small pullback. Such a great setup.
+
+**$GFF:** Much more calm uptrend, and it is right above the channel again. POC is acting as support, and this is about to be another great value. IT just needs to break the 200EMA to be fantastic.
+
+**$LNT:** Another great channel, retesting the downtrend it just broke. RSI and Stoch indicate a small pullback more, but this is a great value at a channel / support combo.
+
+**$ROK:** I have no idea; which trend line it wants to respect, but they are close. Simple triangle play that may drop to the 200EMA, but it has massive breakout potential. 
+
+**$RRC:** Another uptrend that is now becoming a triangle play as well, but at triangle support. A breakout either way is destined to happen, and it will be strong.
+
+**$T:** A little harsh of a slope up, but a uptrend none-the-less. Bouncing off the 50EMA, but may come down to the channel. Super easy read here if it lives off the 50EMA.
+
+**$TWNK:** This also is bouncing off the 50EMA, which is partnered with a support. Good chance of living here, but if not buy in at the golden channel line, Stoch can't get much lower.
+
+**$VMC:** Such a beautiful ascending play into a triangle, RSI was oversold, and now pulling back which is great for a buy in here. What a beautiful chart._END_OF_POST_PYSTOCK_ A way to get exposure to the cryptocurrency market without actually buying crypto directly - invest in the exchanges. I think many people here would like to be more involved in the cryptocurrency space, but don't like the idea of speculating on random shitcoins that could lose 80% of their value in a week. In my opinion the smart thing would be to try to invest in exchanges.
+
+We have all heard the saying about selling shovels in a gold rush. In the cryptocurrency rush, exchanges are the shovel sellers and the one's profiting in the end.
+
+Coinbase will have an IPO at some point, so that is one option, although it will probably be overvalued.
+
+What I personally have done, is I invested in a new, fully regulated, innovative and rapidly growing exchange called Coinmetro. They currently have a two year convertible bond offering with variable 8-12% interest rate. If the bond is held until maturity, it can be converted into an equity-like growth token (giving you equity rights like dividend distribution, revenue sharing, and a piece of the profits should the company be sold). I have followed Coinmetro closely this year and seen them manage to grow trading volumes 40X and revenue 10X YTD.
+
+What do you think is the smarter play here - cryptocurrencies directly or trying to buy into the exchanges?_END_OF_POST_PYSTOCK_ What will happen to SPXL as TSLA gets added to the S&P 500? Hello, I'm a relative novice at investing. Still, I've made a decent return in the past year and a half with a lot of that coming from SPY. Recently I sold my SPY positions and bought SPXL (a 3x leveraged fund benchmarked to the S&P 500). I'm aware of [some of the risks associated with a leveraged fund](https://www.investopedia.com/articles/investing/121515/why-3x-etfs-are-riskier-you-think.asp) compared to one like SPY, but given the bull market I haven't had to worry much about them. I don't know exactly what it will look like over the volatility from Tesla being added to the S&P 500.
+
+One of my specific questions is that I know that volatility over a period of days can negatively impact the fund but I am less certain of what would happen during intra-day volatility. If there are large swings throughout the day but the S&P closes at the exact same price it opened with, would SPXL do the same?
+
+Obviously I have some risk tolerance for holding SPXL in the first place, but in your opinions is the uncertainty of the next few days enough for you to recommend a more conservative approach like switching back to SPY?_END_OF_POST_PYSTOCK_ What caused stock prices to rise in february 2020 right before the crash in march? I was wondering if someone could explain to me why stock prices went up in february right before the big crash in march this year?
+
+Federal funds rate was around 1.5% until beginning of march..
+
+Has the crash been antecipated or maybe even provoked by some very wealthy people so they could sell their shares with a high price and rebuy them right after when they crashed?
+
+Are we experiencing the same thing right now, just over an extended period of time? What do you think the timeframe could be? Are there any similarities between this micro event in february-march to what is happening right now?
+
+edit:grammar_END_OF_POST_PYSTOCK_ Cinemark is extremely undervalued Cinemark has 826M cash, expects 100M of further tax refunds with NOL from additional filings. Cash runway into Q4'21, which extends into 2022 with incremental tax refunds from now and next year. Their first debt maturity is Dec 2022.
+
+Disney has committed to show their blockbuster hits on theaters. WARNERMEDIA is being pressured by Christopher Nolan to renege on their 1y hybrid streaming commitment. 
+
+Vaccine here. People ready to leave their 300sq ft studios and be entertained. Cinemark has 100% upside from 15/share. 
+
+Expected Revenues-
+
+12/20-85M
+
+3/21-230M
+
+6/21-450M
+
+9/21-600M
+
+12/21-650M
+
+3/22-650M
+
+6/22-840M
+
+**Buy DA DIP**
+(and go watch Wonder Woman in theaters Dec 25th)_END_OF_POST_PYSTOCK_

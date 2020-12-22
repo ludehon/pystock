@@ -1,0 +1,478 @@
+ IBM has announced that recently appointed CEO Arvind Krishna has been elected as chairman of the company’s board. Ginni Rometty’s retirement confirmed tho Big Blue’s keeping her on as a part-time $20k/day consultant
+
+[IBM CEO Arvind Krishna needs new business cards already after appointment as board chair](https://www.theregister.com/2020/12/17/ibm_ceo_arvind_krishna_appointed_chairman/)_END_OF_POST_PYSTOCK_ How to value a company with negative earnings I am wanting to calculate a target price for a company that I think will have a decrease in earnings. They already have have decreased earnings recently. I am wanting to know how best to value this company. It’s hard to break past the barrier of everything getting valued with a predicted increase in profitability.
+
+For a short position, would a DCF be a viable option? Any advice on how to account for this decrease in earnings as to not go overboard in variables/multipliers?
+
+I will also use a combination of relative valuation methods but I take them with a grain of salt. 
+
+Thanks_END_OF_POST_PYSTOCK_ Help -- Does The Series 65 Exam automatically make you an accredited investor? Hey Everyone,
+
+Just had a super quick question -- I'd like to get access to a number of alternate investments and you need to be accredited. I know the SEC just updated guidelines -- just wanted to ask some people more knowledgeable than me, does this mean with this exam: [https://www.finra.org/registration-exams-ce/qualification-exams/series65](https://www.finra.org/registration-exams-ce/qualification-exams/series65) I can automatically be an accredited investor?
+
+Edit: Adding SEC link, hope i'm reading this correctly! [https://www.sec.gov/news/press-release/2020-191](https://www.sec.gov/news/press-release/2020-191)
+
+Any help is appreciated!
+
+Thank you!_END_OF_POST_PYSTOCK_ Fed allows banks to resume share buybacks > The Fed announced on Friday that it will allow the nation’s largest banks to resume share buybacks in the first quarter of 2021 subject to certain rules.
+>     
+> The partial relaxation of its buyback ban came after the Fed’s second round of stress tests in 2020.
+>     
+> JPMorgan Chase announced in the minutes after the Fed’s test results that its board had approved a new share repurchase program of $30 billion.
+
+[CNBC](https://www.cnbc.com/2020/12/18/fed-to-allow-big-banks-to-resume-share-buybacks-with-limitations.html)
+
+> *JPMORGAN TO BUY BACK $30B SHARES; TO MAINTAIN DIVIDEND
+
+
+https://twitter.com/Investingcom/status/1340060702678106112
+
+
+This honestly seems kinda ridiculous that they would allow banks to resume buybacks considering the shape of the economy right now._END_OF_POST_PYSTOCK_ Cathie Wood sees control fight ENDING, lifting cloud over Ark [Bloomberg](https://www.bloomberg.com/news/articles/2020-12-18/cathie-wood-sees-control-fight-ending-lifting-cloud-over-ark). ([Archive link](https://archive.fo/sELHo)). ([Video interview](https://www.youtube.com/watch?v=kfhgbZBWgBE)). The video covers a lot more than the article so I highly recommend watching that.
+
+> “That has quieted down and we are in negotiations,” she said. “We wanted to be fair and square with our partner, and I think things will work out.”
+
+She's expecting strong return on her funds:
+
+>Wood said she’s confident her investments will return **at least 20% annually**, more than **doubling** over the next five years. As one of the few female CEOs in finance, Wood prizes her performance. She also points to it as advice for other women in her field.
+
+Her biggest bet in the future is probably going to be in genomics (ARKG):
+
+>Tesla’s still in the running, but I would have to say the biggest upside surprises are going to come from the genomic space
+
+>The next FANNGs are going to be from genomics (from the video)
+
+I know Resolute is painted as the bad guys here, but according to this article, they were the first big backers to invest in Ark, to give Cathie a chance:
+
+>“We were quite the loss-making company, and I felt it acutely since I funded most of it for the first three years,” Wood said. “We built it. They did not come.” With no background in ETFs and only $40 million of assets after 2 1/2 years, Wood needed a partner to distribute Ark’s products. That’s how Resolute entered the picture. In 2016, it acquired a minority stake, including an option to buy control.
+
+
+Ark is much bigger and more profitable than it appears.
+
+>“We’re up to $50 billion,” Wood, Ark’s chief executive officer, said in a Bloomberg “Front Row” interview. “Our business is very profitable.” In addition to the $30.5 billion of assets in its seven ETFs, Ark **manages accounts for retail and institutional clients** as well as funds in non-U.S. markets. Its ETF revenue alone adds up to at least $225 million a year.
+
+I didn't know Ark handles accounts for institutional clients. Does that represent any conflicts of interest (I assume not this is probably very common right?)
+
+Just wanted to share the news since I know many here were worried about this._END_OF_POST_PYSTOCK_ David Lee On Investing has done a pretty good video series on Lemonade and whether or not it's a 10x investment. Basically David Lee is a YouTuber that focuses on investing. Sometimes he'll do a DD video on a company, and he was able to catch companies like Peleton, and Square before the pandemic. He was a super early investor of Tesla and he's also done videos on Stripe, Roblox, OpenDoor, and Unity. Often times he'll provide unique insights on these companies that aren't exactly obvious to everyone. 
+
+Anyways he has done a video series on Lemonade which culminated with an interview with the CEO. He did all this before Motley Fool posted their DD on the company. Here's a quick summary of all the points I noticed, mostly from the CEO interview:
+
+&#x200B;
+
+1. The less the customer has to interact with a company's customer service, the higher the customer satisfaction. Lemonade has managed to completely automate buying and making insurance claims. JD recently ranked them #1 for customer satisfaction in home renter's insurance.  
+
+2. It's not impossible for Incumbent insurance companies to copy Lemonade. But it's not exactly easy either. The incumbents are not lean companies. Many of them are stuck with legacy systems such as relying on brokers, and off the shelf software that still runs on COBOL. Many shareholders still expect their 2-5% dividends and don't want drastic change. It's the classic innovator's delemma. People were bearish on Amazon in the 90s. And said Walmart and any other large retailers can just replicate their website, but it took Walmart 20+ years to finally launch Walmart+, and it’s still not the same quality as Amazon.com.  
+ 
+3. Their very fast growth rate is likely to continue. even after customer acquisition slows down. They've specifically targeted their marketing to first time insurance purchasers and millennials. As they go through predictable life cycle events, they will naturally graduate to home insurance, which increases the revenue generated by that customer by 6X without any additional cost to the company.   
+ 
+4. They can expand to new geographic regions without having a physical presence there. And their software allows them to launch new products at minimum cost.   
+ 
+5. They plan on releasing a new insurance product every 6-8 months. They launched pet insurance 4 months ago, and are currently in the process of launching life insurance. With car insurance being the next strong candidate, after seeing how their expansion into France, and how life Insurance plays out.  
+ 
+6. Their business model of donating excess profits to charity actual serves a pretty interesting purpose. They want customer satisfaction to be their #1 priority and this business model helps to strengthen that relationship. It discourages Lemonade from denying claims. They get no additional profits from doing so. And it discourages customers from making fraudulent claims. They’re taking away money from the charities they’ve picked rather than an insurance company.  
+
+7. Their app takes 1/10 the time to offer and complete claims when compared to their competition (Geico, Allstate, Progressive etc...).  
+ 
+8. The total addressable market of insurance is 4 trillion and will continue to grow in the next decade. Lemonade's market cap is at 6 billion, with many larger insurance companies being anywhere from 30-60 billion in market cap with no company taking up more than 4% of the market. Lemonade doesn't need to "destroy" their competition. Just continue to offer and improve their already great customer experience, increase their public mindshare and continue to build their brand.  
+
+
+Anyways this is what I've gathered so far from the video series. You can check it out yourself if you're interested. I can't post it here otherwise my post will get auto deleted. 
+
+  
+Disclaimer: My total cost basis for lemonade is $60. It now makes up 25% of my portfolio (15k). I plan on holding for the next 5-10 years._END_OF_POST_PYSTOCK_ 5 IPOs to watch for in 2021 2020 was a bumper year for tech IPOs. Companies like Snowflake, Airbnb, Doordash and Palantir\* have been standout IPOs this year. Snowflake’s IPO was the biggest US software IPO in history while Palantir’s stock price has more than doubled since going public in September.
+
+It looks like this IPO trend could continue well into 2021 with some of the biggest names in tech expected to go public. Here are 5 of the most anticipated IPOs for 2021.
+
+***\*Note:*** *Palantir went public via a direct listing, not an IPO.*
+
+### 1. Robinhood
+
+The stock-trading platform looks set to go public in 2021.
+
+2020 has been a massive year for Robinhood. In Q2 of 2020, they made revenue of $180 million. Up from $91 million in Q1 of this year. Revenue growth of 100% in a single quarter is incredibly impressive.
+
+Robinhood hasn’t been without controversy this year. Many people cite the app’s popularity as a big contributing factor into the high market volatility we’ve seen.
+
+Robinhood’s growth plans seem to be centered around providing more financial products to its US customers, as opposed to expanding into international markets. It launched Robinhood Crypto in 2018 and a 1.8% interest rate savings account in 2019. This was around the same time that plans to launch in the UK and Australia were postponed. It will be interesting to see how this growth strategy plays out and if international expansion gets a renewed focus in the future.
+
+All of the signs seem to be pointing to an IPO in the first half of 2021. A Reuters report states that Robinhood have partnered with Goldman Sachs to begin IPO preparations at an expected valuation of over $20 billion.
+
+### 2. Gitlab
+
+While not a household name, Gitlab is an impressive company that looks set to go public in 2021. Gitlab is a SaaS company that markets a DevOps platform which allows their customers to build software more efficiently.
+
+Gitlab is an interesting company to say the least. All of its employees are fully remote. Meaning that Gitlab doesn’t have a corporate office and employees can work from anywhere in the world. Gitlab is a proponent of the “open-source” software model and sells its software under an “open-core” business model. This is where the core functionality is released under an open-source (MIT) license while the additional functionality is under a proprietary license.
+
+Gitlab’s business has been performing very well. When it last raised money in September 2019, it announced that its revenue growth rate was 140% year over year. In January of 2020, Gitlab hit an annual revenue run rate of $120 million.
+
+Gitlab had originally planned on going public in November of this year. But in May, they decided to hold off on these plans due to the uncertain economic outlook at the time. However with the recent performance of tech IPO’s, you can expect that they will be going public sooner rather than later.
+
+Gitlab is currently valued at over $6 billion, after shares were sold in the secondary market in September of this year. That’s more than double its valuation when it raised money in September 2019.
+
+### 3. Stripe
+
+Stripe is a SaaS company that provides payment processing services and other financial products to businesses of all sizes.
+
+Stripe is one of the most valuable startups in the world. Its most recent round of funding valued the company at $36 billion.
+
+Revenue numbers are hard to come by for Stripe, but a recent interview with co-founder John Collison shows the scale of the business:
+
+>*Mr Collison said that 200,000 new businesses have signed up with Stripe since March. “Those businesses, since March, have already processed more than $20 billion in revenue,” he said.*
+
+Stripe typically charges 2.9% per transaction. So a back-of-the-envelope calculation shows that Stripe earned almost $600 million since March **ONLY** from companies that have signed up to Stripe since March. Their actual revenue numbers are obviously much higher.
+
+There is no hard evidence that Stripe will go public in 2021. In fact, in the same interview, Mr.Collison stated that “We have no plans to IPO”. However, a recent major partnership with Salesforce and the hiring of a high-profile CFO from General Motors seems to signal that an IPO might not be too far off.
+
+### 4. Bumble
+
+Bumble is a dating app with a twist - on Bumble, only women can make the first move when a man and a women ‘match’.
+
+Match Group (owners of Tinder) are the major player in the online dating space. But Bumble seems to be catching up. Bumble posted revenue of $240 million in 2019 and has 100 million users as of 2020.
+
+Bumble’s growth strategy seems similar to that of Tinder in that it offers premium features such as “Bumble Boost”. But a key part of their growth strategy also seems to be to move outside of just dating. They recently launched two major products; BFF helps you to meet new friends while BIZZ helps you to network more effectively.
+
+According to a Bloomberg report, Bumble just recently confidentially filed for an IPO in February 2021. The expected valuation range is $6-8 billion.
+
+### 5. Instacart
+
+2020 has been a massive year for the grocery-delivery company, Instacart.
+
+Similar to other delivery companies like Doordash, the pandemic brought on a massive spike in demand for Instacart. In March, order volume on the platform jumped by over 500%.
+
+Instacart’s valuation has grown in line with its order volume this year. It grew from $7.9 billion at the beginning of 2020 to more than $17 billion by October.
+
+Instacart looks set to be planning an IPO for 2021. A recent Financial Times report stated that the company is consulting with banks ahead of a potential IPO in early 2021.
+
+&#x200B;
+
+What IPOs are you most excited for in 2021?_END_OF_POST_PYSTOCK_ Understanding Options Pricing Based on Strike Price Could someone explain to me how the bidders/sellers for options determine the price based on strike?
+
+For instance, let's analyze the put price of a particular stock for say Jan 15 with current stock price of $101
+
+strike price 100: average bid \~$8 
+
+strike price 95: average bid \~$5.5
+
+&#x200B;
+
+So the price difference is approximately $2.5, why would the difference only be that little? Wouldn't the strike price of $100 contract be worth even more if the stock were to fall below $95? Let's say the stock falls to $90 by expiration date,
+
+Person who bought 100 strike contract: $10 (difference) \* 100 (number of stocks per contract) - $8 (contract price) = $992
+
+Person who bought 95 strike contract: $5 (difference) \* 100 (number of stocks per contract) - $5.5 (contract price) = $494.5
+
+The 100 strike contract earns so much more.
+
+What's more, what if the stock price ends up at $97 or something by expiration date. The 95 strike contract would be worthless, while the 100 strike is still worth money.
+
+So my question is shouldn't the price discrepancy be so much higher? Why would someone consider buying the 95 strike price contract instead of the 100 strike price contract?_END_OF_POST_PYSTOCK_ Vanguard Roth Contribution+conversion Everything I read is clear that the "backdoor roth" is a conversion, and accordingly, not subject to the same limits as a contribution would be.  Theoretically, through the backdoor it is possible that you could deposit >$6,000 into a Roth by both converting and contributing.
+
+I backdoored $6k into my roth already this year. Now that I know I will be just under the income limit for 2020, I tried to contribute directly but Vanguard will not allow this and says I've reached my contribution max? Anyone know a way around this?? Should I just open a different roth with fidelity and use that?_END_OF_POST_PYSTOCK_ Can somebody explain NET INFLOW? Today the net inflow of the NASDAQ reached $10.33 Billion so far. I’ve never seen it higher than 3-4 in a day in the last few weeks or months. Googling it just reads the obvious, that it’s creating demand for security’s, bonds and stocks. But we’re near flat and slightly negative today with the highest inflow I’ve seen. 
+
+How does this correlate to price action? Or does it at all? 
+
+I’m not seeing the relation between the two._END_OF_POST_PYSTOCK_ Want to park your money for the weekend? KMPH had a PDFUA date March 2nd. The company has already had a late cycle meeting dismissed as unnecessary with the FDA and told that there are no existing issues to stop it from getting approval on March 2nd. This was followed by a marketing meeting with a proven team who already took a similar drug to market (vyvance) turning it into a billion dollar blockbuster. 
+
+This new drug KP415 is new entry into the attention deficit hyperactivity disorder (ADHD) That fills need previous medicine couldn’t. The company itself also is able to take drugs with existing patents and change them on a molecular level to create a new medicine that is easier to get approved by the FDA allowing it to go to market quicker and cheaper.
+
+I started buying heavy into this when I was $.19 a share now it’s at $1.19 and we aren’t even near March yet. Vyvance was bought prior to getting approval and there’s a lot of discussion that a buyout is looming any time so nobody wants to sell I miss out on positive news during the weekend. So almost every Friday there is a nice little spike allowing you to time a nice entry point if you’re interested. Don’t take my word for it, feel free to deep dive and I can try to answer any questions I may have personally. But this is been a pretty exciting stock and I don’t usually play with penny stocks._END_OF_POST_PYSTOCK_ Niche industry screening Hey, 
+
+How would you set up a screening of industries? One popular pre-interview sample project that I’ve seen recently is to find niche industry subcategories. How would you go about this process without access to firm software or a Bloomberg terminal?  Are there resources on Google that allows you to screen for industry categories?_END_OF_POST_PYSTOCK_ How does compound interest work in relation to stock prices? I know the basic concept of compound interest, but when I think about how stock gains is simply a function of stock prices being higher than the price at which you bought it, where is the compounding happening?
+
+For example, I bought one share of a stock at $40. A year later, it's worth $44, a 10% gain. But it's still one single share of stock, and sure, assuming 10% gain every year, it's clear theres' compounding at work. But do companies actually grow in value exponentially? 
+
+On the other hand, I understand the concept of reinvesting dividends and see how that is clearly compound interest. But how exactly does it apply a stock price going up and down in the absence of dividends?_END_OF_POST_PYSTOCK_ When do you take profits vs. waiting for long term capital gains rates? Hello,  
+
+
+I’ve been investing for less than 12 months now. I started off investing six figures and up 85% YTD.  My long term (LT) capital gains rate is 15% vs. 24% short term (ST) capital gains rate.  
+
+
+What is the tipping point for taking the 24% ST capital gains rate hit vs. waiting until LT capital gains comes into effect (and possibly reducing my 85% profit)? Is there a method I can use, or does anyone have guidance, to help me make this decision?  
+
+
+I don’t want to be taxed extra, but I also don’t want to lose profits and the possibility of trading other stocks that have yet to break out by waiting until 12 months rolls around.
+
+Thanks!_END_OF_POST_PYSTOCK_ Investing in momentum based funds Does anyone have data or specifics on how momentum based funds perform during a downturn? 
+
+There are many interesting momentum based funds that seem like a better alternative to investing directly in the underlying stocks. With 2021 looking as uncertain as 2020 I would like to know if these funds tend to get crushed during overall market downturns?
+
+PTF is my current favorite fund, but I have yet to pull the trigger on it or any others._END_OF_POST_PYSTOCK_ FAATMAN is collectively up $3.1 trillion in market cap. this year. **Facebook**, **Alphabet** (Google), **Amazon**, **Tesla**, **Microsoft**, **Apple** & **Netflix** collectively gained more than **$3 trillion dollars** in market capitalisation in 2020.
+
+That is a lot of new paper millionaires in a year when US unemployment has broken records. 
+
+From chart 17 in  [2020: A Year In Charts](https://www.chartr.co/2020/a-year-in-charts)._END_OF_POST_PYSTOCK_ What sort of sectors are on your radar for the coming decade? I'm ready to go long but like most investors, there's some trepidation around how hot the markets are and whether or not a correction is inbound. Regardless, I'm curious to see which sectors you guys are keeping an eye on as we match toward 2030. I'm long on consumer discretionary (because people will always want retail therapy) and green-ish tech (e.g. metals recycling companies like American Battery Metals Corp). I'm still skeptical about crypto though it seems to be doing well, even piquing the interest of big players like Fidelity._END_OF_POST_PYSTOCK_ Apple in mid-2023 Interesting article from Asymco on Apple's roadmap going into 2023. 
+
+**Apple in mid-2023**  
+[http://www.asymco.com/2020/12/17/apple-in-mid-2023/](http://www.asymco.com/2020/12/17/apple-in-mid-2023/)
+
+Some broad notes: Apple's sheer size gives it's internal R&D, manufacturing process, and the integrated nature of it's software, hardware and services macroeconomic scale effects that analyst wonks can go deep on. 
+
+***This nugget in particular I thought would be of interest to shareholders and dividend investors:*** 
+
+>Next, capital returns. The company \[Apple\] is returning almost all the cash it generates and is reducing its cash balance. It has returned about half a trillion dollars to date. Dividends paid has reached $100 billion and share buybacks about $400 billion. This is the largest capital return in US history.  
+>  
+>The company has declared its intention to reduce net cash to zero. This means it will still have substantial cash due to loans in the form of bonds but no “excess” cash will be held by the company. This is in contrast to the strategy under Steve Jobs where he sought to keep as much cash on hand as possible due to the need to weather potential storms, Tim Cook’s Apple is being very “casual” about cash._END_OF_POST_PYSTOCK_ Portfolio Allocation I have been reading "The Intelligent Investor" by Graham which seems to be one of the must read books on investing. Graham's take on portfolio allocation is to have a large proportion of bonds in order to hedge on deflation as well as market volatility. I understand that right now the interest rate is very low which favours continued performance of the stock market and bond performance that likely will not beat inflation. I have done a deep dive search of history  and the general consensus in this group is if one has the stomach for volatility, and a large run off to retirement (still probably about 30 years away for me and 25 for my partner), that a high proportion of equities is preferred.
+
+My financial advisor who currently is managing most of my money has me in 50% equities, 50% bonds. Some of the corporate bonds funds he has have actually performed remakably well in the bull market (better than S and P and TSX in the same time frame). I am wondering specifically why people advocate for much higher allocation to equities. If someone looks at the performance of the stock market over the last 100 years isn't it erroneous to predict what will happen in the next 30-50? Surely, we can all agree that the equity market is a bubble that is bound to pop eventually. Whether specific stocks or broad market ETFs, we know a huge proportion of the market is overvalued. We also can't predict what will happen in the future in terms of interest rates and bond performance.  
+
+I have two questions:  
+1. Is there a good reason to have 50% fixed income allocation if I am younger and have 30 years to retirement?  
+1. Why do people advocate for 100% equities in this crazy overpriced market? 
+
+TL;DR: Very credible investing book from 70s says to hold large proportion fixed income, why do people advocate equities in today's current market conditions?_END_OF_POST_PYSTOCK_ $TSLA - Who is buying Tesla at these prices ? Robinhood's entire AUM is $20 billion according to Google. It is likely quite a bit more now. However it is tiny compared to something like Schwab with 5T. 
+
+So this got me wondering who is buying Tesla shares. There is no way Robinhooders have enough money to move the market so much. If you go to [https://whalewisdom.com/stock/tsla](https://whalewisdom.com/stock/tsla) and sort by shares held. The only person in the entire first page buying Tesla is [SUSQUEHANNA SECURITIES, LLC](https://whalewisdom.com/filer/susquehanna-securities).
+
+Susquehanna is the TSLA option maker. They are market neutral and likely bought shares to hedge for the explosion in Tesla option trading. My guess of what is happening is that, when someone buys Tesla options - say 750 strike for $1000 - they have notional exposure to 75000 for 1000 - 75x leverage !  So it's the options buying that are moving the TSLA stock.
+
+There is this old video of Charlie Munger on dangers of options trading [https://www.youtube.com/watch?v=KaGa\_HaP3gA](https://www.youtube.com/watch?v=KaGa_HaP3gA). Options volume was never this large, for example Google's total option market volume is 1/5th of Tesla, even though its a 2x bigger firm. This reminds me of the oil bust in mid march where you had financial speculators who had no interested in taking delivery, same I think happens in Tesla where people just get options with no intention of taking delivery.
+
+Will be very interesting to see how much longer this elevated options trading continues as when the music stops, that 36billion+ of stock that Susquehanna holds will hit the market._END_OF_POST_PYSTOCK_ Citadel Trading Chief Says Tesla Is Risk to Other S&P 500 Stocks https://www.bloomberg.com/news/articles/2020-12-18/citadel-trading-chief-says-tesla-is-risk-to-other-s-p-500-stocks?srnd=premium
+
+>Funds that mimic the benchmark are set to buy more than $70 billion of the carmaker’s shares and dump an equal amount of stock in existing members, producing intense selling pressure that could lead to dislocations, warned Greg Sutton, head of portfolio trading at Citadel Securities, one of the most active traders of U.S. stocks.
+
+>The potential funding stress is one factor that had prompted the index’s overseers to consider implementing the addition in two tranches. After consulting with the financial community, S&P Dow Jones Indices decided that Tesla will join the traditional way: in one shot, before markets open on Monday. The danger is that trading in many stocks may not be active enough to absorb the sudden deluge of supply.
+
+>“Adding it all at once creates more stock that needs to be sold for the funding trade, which potentially creates more impact -- especially in less-liquid components of the S&P 500,” Sutton said by phone. “The market can digest it, but there is the potential for liquidity impact.”
+
+>While S&P 500 members get shuffled frequently, Tesla’s enormous size adds an unusual layer of uncertainty this time. Boasting a market capitalization of more than $600 billion, Elon Musk’s company is joining as the sixth-largest company in the index. Since the stock it’s replacing -- Apartment Investment and Management Co. -- is only a tiny fraction of Tesla’s size, all other constituents are at risk of feeling the pinch.
+
+/
+
+>To be sure, mammoth additions like this have happened before. Tesla is the biggest entrant by market value in history. However, when measured as a percentage of the S&P 500, its weighting is similar to Berkshire Hathaway’s in 2010, when Warren Buffett’s firm was picked to join, data compiled by Sanford C. Bernstein showed. Yet with passive investing now accounting for roughly half of equity funds, up from 30% a decade ago, the funding requirement this time will be much higher, warned analysts including Toni Sacconaghi and Ann Larson.
+
+>Since S&P Dow Jones announced the news of Tesla’s addition on Nov. 16, the stock has rallied more than 60%. Over the stretch, about 52 million shares changed hands each day on average, 77% more than the previous month. During the past decade, the 10 biggest new entrants climbed an average 10% from the announcement until the actual inclusion, Bernstein’s analysis showed.
+
+>Money managers may have already started adjusting portfolios in anticipation of the changes, with Tesla’s share offering earlier this month providing an opportunity to build positions. Some may opt to carry out part of the trade in the days leading up to the event, leaving some residual amount to work out around Friday’s close. To minimize tracking errors, or deviation from the benchmark, some may choose to use market-on-close orders or turn to options to help performance.
+
+/_END_OF_POST_PYSTOCK_ The Not So Definitive list of Pros/Cons for Individual Stocks & Bonds vs ETFs  Every few days I keep coming across threads discussing whether or not it is better to invest in individual stocks and bonds vs ETFs.  I see a ton of misinformation/incomplete information.  I figured I would list out a list of some of the benefits to holding individual stocks.  This pertains to US investors since a portion of the pros/cons have to do with tax laws.  I will keep this as brief as possible to hit the big points, feel free to add on.
+
+Pros: 
+
+* The ability to tax loss harvest more effectively.
+* The ability to manage tax lots more effectively to defer capital gain-->selling high cost basis shares first, donating low cost basis shares etc.
+* The ability to more reduce taxes more effectively due to asset location-->you can invest tax inefficient stocks/bonds that generate a lot of income in a retirement account and invest your long-term growth stocks in a taxable account.  You can do this with ETFs, but it is way harder to separate them.
+* The ability to potentially reduce sequencing risk when drawing down savings--> if you have a broad basket of 30+ stocks in a market correction, you likely will have some stocks that are minimally impacted and can sell those.  If you have a total market ETF, you can only sell the market and can’t pick your spots. For bonds if you have a total bond ETF, you would be better served by selling your long-dated treasuries during market selloffs, but you can’t separate them when you need them the most in an ETF.
+* Less 3rd party risk-->when you own an ETF, you don’t hold your stocks.  They are generally lent out to hedge funds in a process called securities lending to generate income for the fund company (how did you think they made money on a 3 basis point fund?).
+* More control of realizing capital gains due to fund closures-->funds close all of the time, even at respectable firms.  How would you feel if an ETF that you have a large capital gain in closed and forced you to pay large capital gains at an inopportune time?
+* No unwanted capital gains distributions(ETFs still can distribute gains, it is rare though).
+* Moral/ESG considerations-->you can invest in companies you morally support, it is much more difficult with ETFs.
+* More rewarding.
+* The ability to out-perform the market.
+* Better options trading volume on most stocks as compared to most ETFs.
+* Your stocks/bonds will never trade at a discount/premium to NAV.
+
+Neutral:
+
+* Less expensive to hold individual securities for SOME asset classes than even index funds.
+
+Cons:
+
+* The ability to underperform the market.
+* Significantly more work.
+* Significantly more room for error.
+* Generally, less diversified.
+* Nearly impossible to automate.
+* Some parts of the market are inaccessible or very difficult to access outside of ETFs/mutual funds(leveraged loans, securitized products etc).
+* Harder to keep emotions in check._END_OF_POST_PYSTOCK_ What ETFs aren’t overvalued right now? It seems like most ETFs are overvalued right now in this market. Anything I look at is at all time highs and has gone up crazy amounts the past few months. How do you guys rationalize buying at these levels? I like QQQ, CIBR, ARKK, to name a few but I can’t even justify spending these prices for tech or any “hot” sector. Are you guys just holding off for a little until there’s a correction or focusing in on ETFs with better value?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Investing in companies after accounting fraud: is it ever a good idea? A few months ago I was just starting out with trying trading and I had a trade in Luckin Coffee go wrong. So I decided to just hold the bag and now I have a $25 yolo investment in Luckin. Yesterday, the stock shot up about 90% because they paid the SEC $180M to settle accounting fraud charges.
+
+Is it smart to invest in companies that get beaten down because of accounting scandals? I feel like the numbers getting botched doesn’t mean the company just vanishes. The company is still there, but they just have a shady past. Is it likely that Luckin Coffee will go back to its pre-fraud stock price? Or will it just die off and be worth nothing? What happens to other fraud companies?_END_OF_POST_PYSTOCK_ What are some good names in cyber security? It feels like cyber security is the next frontier of warfare and countries are less and less likely to engage in armed conflicts. So defense and military spending could be shifted towards more cyber security solutions. Any US based companies that are particularly in a good position to take advantage of this potential shift?_END_OF_POST_PYSTOCK_ Reliable sources Can anyone share some good reliable sources of information. Are there news websites or blog sites that you read that you use to decide what to invest in. I know it probably sounds stupid but I've only just realised how important it actually is to understand what's going on in the world and how it will impact the stock market. I've only started this month and have around 11% returns but with peanuts. I want to maybe put more in the next pay day but I want to be able to educate my self so I'm less likely to screw up._END_OF_POST_PYSTOCK_ Stock Pitch: Service Corporation International (SCI) Leading provider of deathcare services, funerals, cremations, etc.
+
+They sell pre-need funerals (work life insurance for the business) and at need funerals.
+
+They consolidated many funeral homes and now have about 20% market share with the next largest player at 5%. The secret sauce is they are able to leverage back office costs across many funeral homes to improve profitability and have more stable financials from the law of large numbers.
+
+I can’t imagine Amazon or Tesla replacing their business. Additionally America is likely to get older over time meaning the demographics are moving in their favor. Additionally I imagine getting permits for competing funeral homes would be challenging when the local market is saturated.
+
+They are not tied to the economy, consistently have an ROE of 25-26% and are selling below their historical multiples.
+
+Thoughts? 💭_END_OF_POST_PYSTOCK_ War time investments Because of what is going on with the cyber attacks on the US, I wondered what were the best investments during war time?  Stocks?  Bonds?  Individual companies?
+
+I discovered this article about the book, Wealth, War & Wisdom.  I guess, just based on the article as I haven't read the book, that equities win... if there can be a real winner in war.  Specifically, index funds are noted, but that's more of a long-term market strategy overall.  Having "mad money" in the form of gold and money on-hand is advised, which is a smart move for anyone.  You never know what might happen, banks close, assets seized, etc.
+
+ [INVESTMENTS DURING WARTIME | Wealth Management](https://www.wealthmanagement.com/archive/investments-during-wartime)_END_OF_POST_PYSTOCK_ What is the ratio on a option call ? So I am on DEGIRO broker, and the only call I can get are with ratio of 0.1 or sometimes 0.05. I al confused because in my knowledge call, are essentially a buy option at the certain price. Here however, it says that It's the stock price of the share, less the trigger price of the call. All of that is then multiplied by the ratio. So I will receive this amount in cash then? I have no buy option?_END_OF_POST_PYSTOCK_ Is it possible to participate in IPOs of US companies without having $500k+ assets? If yes, which brokerage firms are recommended? There seems to be a lot of opportunity in IPOs. However, I find it very hard to participate. I don't have a lot of assets (<$50K). Is it possible to participate in good IPOs like Doordash, etc.? Which brokerage firms have the most relaxed criterion for participation but do get access to such IPOs.   
+I recently opened an account with Webull, which shows me all the IPOs but doesn't even allow to order. I saw Fidelity needs $100k or $500k+. Schwab doesn't participate at all due to some lawsuit. Merrill Edge and Chase also said they don't allow IPOs with their brokerage accounts.  
+
+
+Would highly appreciate your help!_END_OF_POST_PYSTOCK_ Insurance investment portfolio It looks like not all insurance companies have an investment portfolio that is visible to the public. How does this work? For instance look at Allianz, from what I researched, I couldn't find an investment portfolio with specific stocks (or bonds). If we look at (Warren Buffet's) Berkshire Hathaway we can see all their investments._END_OF_POST_PYSTOCK_ Which stock are you now stuck with hoping for a recover? Mine is ABNB... I kinda got to excited i guess..but i am now gonna hold it long term. Was my plan anyway, but i did not buy at the best price maybe. But Airbnb is a big brand and i hope they will grow long term.. Do you have any stocks your waiting for to recover?_END_OF_POST_PYSTOCK_ How to play TSLA today So Tesla is joining s&p 500. I have 20 shares of tsla at 574, and there's already a sell-off in AH. Tesla is for sure one of the best long term stocks, but right now I'm just looking at the short term. Looking back in the past, people usually buy up stocks in anticipation and sell on the inclusion date, so they don't rise on actual inclusion.
+
+Given the range of increased volatility between now and EOY(S&P Inclusion, stimulus announcement, general year-end stuff, etc), I wanted to see what everyone is thinking as far as TSLA’s peak the next few days/weeks...
+
+Should I sell at market open, right before close, somewhere in between, or perhaps next week?
+
+I bought the rumor, now I just need to know when to sell the news.
+
+Edit: When this post has zero upvotes, but the exact same question you posted on r/stocks has 22 upvotes: [https://www.reddit.com/r/stocks/comments/kfhhq2/how\_to\_play\_tsla\_today/](https://www.reddit.com/r/stocks/comments/kfhhq2/how_to_play_tsla_today/)_END_OF_POST_PYSTOCK_ Programs used on the fixed income trading floor I am curious what the big name solutions providers are in this industry. Look at this video ([https://www.youtube.com/watch?v=5V74yAGS8\_0](https://www.youtube.com/watch?v=5V74yAGS8_0)) at around 0:22- these types of programs are often seen in documentaries but they scarcely or rarely name the companies that provide them.
+
+Does anyone know the name of the providers, or better yet the specific programs and their functions?_END_OF_POST_PYSTOCK_ Difference between volume and open interest? I am trying to understand the difference between volume and open interest. Here is my simple example, can any of you tell me if this is correct?
+
+"Let's say A sells an option to B, who a few hours later decides to close their position by selling the same option on to C. The volume of trade for this option would be 2 (two exchanges have taken place) but the OI would be one (only one contract is open)."
+
+Apologies if this is a stupid or obvious question!_END_OF_POST_PYSTOCK_ Having easy access to a family members investing account I have a family member (older than 18) who is wanting to put some money in an investing account and start investing. They also want to grant me access to the account so that I can help them and potentially make a few trades, based off of what I am currently investing in. I was wondering if there was any broker out there that allows you to not only see your account but another person's account, if given access, without having to keep signing in and out between the two accounts.
+
+The reason I want to do this is because I'd like to be able to monitor everything easily using a broker that I also use. Currently I use fidelity for my roth IRA, but was not able to find any information rather than being granted different types of authority on another persons account. I also tried to look this up and couldn't find anything useful._END_OF_POST_PYSTOCK_ CD Projekt S.A. (OTGLY) Is anyone else considering buying a stake in OTGLY? They're having huge issues with their latest release (Cyberpunk 2077). Just today, it's being removed from the PS store.
+
+I've looked for their financials and it seems the P/E for the last fiscal year was 177. Is that correct? If so, do you think they're worth a punt at this discount? Or, would you stay away? I'm wondering if they're in any imminent danger of going under?_END_OF_POST_PYSTOCK_ Beware: Motley Fool Stock Advisor seems to be a pump scheme Motley Fool Stock Advisor gives pre-pumped stock alerts. First buy alert I received on Dec 3. The email came at 1:45pm EST, and when I went to check the chart, that stock had been pumping since 1pm which is 45 min before the buy signal.
+
+Today's pick which is the second pick of the month, also came at 1:45pm, and looking at the chart, it had been pumping since 12:40pm 
+
+This service looks very much like a pump scheme where the subscribers are the fool buying high. I will be cancelling at the end of my trial, and I just wanted to share my experience.
+
+Edit: apparently, someone else caught them by hand as well: https://investorplace.com/2020/12/lmnd-stock-why-lemonade-shares-are-soaring-20-today/_END_OF_POST_PYSTOCK_ Invest in (undervalued) Citibank despite poor personal experience with the bank? Banks appears to be trading at a discount, and Citibank is trading an even lower price relative to book value. One may argue that retail banks may recover when the economic situation improves and interest rates rise. Currently, loan losses are a significant risk factor for banks.
+
+Looking at the [results of the Federal Reserve's stress test](https://www.federalreserve.gov/publications/files/2020-dfast-results-20200625.pdf) (an updated one will be released tomorrow), a number of banks appear to be a good position to endure economic downturns relatively unscathed:
+
+BK, NTRS, PNC, USB, UBS, TD bank, and C
+
+BK is a custodian bank that has severely limited earnings in a low interest rate environment.
+
+NTRS appears to be trading close to fair value.
+
+PNC also appears to be trading close to fair value.
+
+UBS also appears to be trading close to fair value.
+
+UBS looks interesting, though it is a Switzerland bank with operations in the U.S., but I have no idea how well it is doing in Switzerland.
+
+TD bank does not trade in the U.S.
+
+Citibank (C) has a diversified global operations, and it still appears to be undervalued (in terms of discounted cash flow and book value), but maybe there are strong reasons for this?
+
+**Symptoms**
+
+* Citibank accidentally wired $900 million to creditors of Revlon, and it got fined by the Federal Reserve for this. (I bought C when this news came out and sold about month ago, because it had been rising steeply with no news.)
+* [J.D. Power Customer Satisfaction survey 2020](https://www.jdpower.com/business/press-releases/2020-us-retail-banking-satisfaction-study) ranks Citibank retail dead last in California, and near the bottom in the Mid-Atlantic region. Citibank derives 28% of its revenue from U.S. retail. Would Citibank also have poor customer service in the rest of the world?
+* I opened a checking account with Citibank (U.S.) recently, and my personal experience has been just abysmal. I have dealings with 9 banks and 3 brokers, and Citibank offers the worst customer experience by far.
+   * My sign up bonus was never applied to my account after I called to inquiry about it after 3 months. I found many online posts describing similar experiences.
+   * Every time I need to do anything with my online account, I need to go through an onerous and very silly verification process unlike any other bank that I deal with: I need to call a Citibank number; the agent asks me many questions and sends me a text that I read back; the agent then connects me to a bot that reads me a verification code that I answer on the website. Sometimes, the agent has trouble sending me a text, which led to an impasse where the agent refused to do anything. Indeed, this is just a user experience disaster.
+   * The website randomly logged me out every 1-2 minutes even when I am actively using the website. I have not experienced this with any other bank to the same extent.
+   * Except for the new customers, calls from existing customers appear to be routed to an off-shore call center (you can guess where this is). The agents often have trouble understanding you. Some should not even work in customer service.
+   * Citibank managed to sent me checks that were missing a digit in the account number.
+   * Last time I logged in, I saw a message to the effect of: "Due to recent security concerns, next day transfers will be limited to $50."
+
+Does anyone else have a different take on Citibank in terms of customer experience and/or its financial outlook?_END_OF_POST_PYSTOCK_ Cyber security companies will benefit from Biden presidency With everything happening at solarwind and the attacks on US agencies including nuclear weapons, Biden has said that cyber security will be a top priority across all areas of US government. 
+
+What companies do you expect to benefit from this and where are you investing with expectations of growth due to Biden’s policies?
+
+[one article discussing his positions ](https://www.google.com/amp/s/www.govtech.com/security/How-Biden-Could-Change-the-Conversation-on-Cybersecurity.html%3fAMP)
+
+[DHS pick is a cyber security expert](https://www.google.com/amp/s/www.washingtonpost.com/politics/2020/11/24/cybersecurity-202-bidens-dhs-pick-adds-cybersecurity-chops-incoming-administration/%3foutputType=amp)
+
+[Biden tough on cyber attacks](https://www.google.com/amp/s/www.cnbc.com/amp/2020/12/17/biden-hints-at-a-tougher-stance-against-state-sponsors-of-cyberattacks.html)_END_OF_POST_PYSTOCK_ Assuming 2021 will be a very bullish year, what is a very aggressive way to play it (without spending >5 hours weekly)? Assume that you believe 2021 is going to be super bullish--like almost once-in-a lifetime opportunity that you don't want to miss. How would you build a portfolio that will maximize your profits without having to spend more than 5 hours a week on maintenance? 
+
+For example, you might suggest investing in:
+
+* Small or mid cap index funds.
+* Index funds tracking high growth industries like semiconductors, ecommerce, cloud, AI, IPOs, or green tech.
+* FANNG.
+* Famous ARKK funds or other competing actively managed funds.
+* 3x leveraged indexed funds. (I know the last one sounds crazy, but a popular Youtube personality (Stock Moe who is an ex financial advisor), is going to try this in one of his public funds.)
+
+I love to hear everyone's thoughts!_END_OF_POST_PYSTOCK_ Anybody looking at Campbell Soup right now ($CPB)? WSJ did an article today on food stocks being overlooked by value investors and it got me curious about the company. A cursory look on QuickFS shows them at 14.1x EV/EBIT with 10 year averages for ROIC at 14.4% and ROE at 50.3%.
+
+&#x200B;
+
+I'm not familiar with their financial statements so I'm not going long or short them. Anybody here looking at food companies?_END_OF_POST_PYSTOCK_ Short municipal bonds with crypto derivatives? Shouldn't there be a way to short municipal bonds with a cryptocurrency derivative? Shorting munis is notoriously impractical using traditional methods, but there are crypto-derivatives exchanges right? And there could be a product designed around it. Is this a thing?_END_OF_POST_PYSTOCK_ Transfer shares from EquatePlus HI, being a beginner, i need an advice or suggestion on how can i transfer (not sell) from EquatePlus to a private brokerage firm in India here. Any idea, anything like a lead or more of how is it even possible? The issue is that after leaving my previous employer, EquatePlus has mandated sale or transfer of my holdings in the account within 90 days of leaving. Its already 35 days now._END_OF_POST_PYSTOCK_ Big oil and clean energy We have discussed this several times since October when big oil was at its lowest levels since March. In fact, it was close to March lows.
+
+Some of us got into RDS and BP at that time. Those of us who did, have done relatively well. 
+
+Some of us, simultaneously, also got into some clean etfs like ICLN. That too has done well. 
+
+Essentially, all energy has done well since then.
+
+The question becomes, do we continue to remain in both or should we transition one into the other? Big oil into clean etf or remain in both?
+
+Any suggestions or thoughts?_END_OF_POST_PYSTOCK_ Industry-wise and Sector-wise Performance Hi,
+
+I was trying to see which industries and sectors have gained and lost the past couple of years. I came across a good one ([Stock Market & Sector Performance - Barchart.com](https://www.barchart.com/stocks/market-performance))  Does anyone know of other sites with good visual like this? Trying to see how the different sectors/ industries move and when.
+
+Thanks in advance. Sorry for any repost._END_OF_POST_PYSTOCK_ My Watchlist For 12/18/2020 I use the 180D/4H Chart, and the RSI, Stochastic, and MACD Indicators, with 10-50-200EMA
+
+**$AGRO**: Channel broke higher so now it is re-testing a support and new channel support. Has some room to drop but also may take off here. It is also right above the 50EMA which is acting as a support at the moment. RSI is fair and so is Stochastic, so not good or bad. 
+
+**$AMGN**: Easy trendline up that is now in a triangle. It is right below the 200EMA, so if it doesn't show life tomorrow wait for Monday. RSI and Stoch also indicate it can come down some, but when it hits that beautiful trend line, it will make a big move after.
+
+**$CANF**: This area ia s big area of support; and right below is the channel of success. This thing has big spikes UP, so we are trying to get in early for one. RSI and Stoch are low and ready for a big move.
+
+**$CAT**: Simple 50EMA ride play which is such a beautiful channel! IF it dies here, even better - just buy into the 200EMA line and make even more money. Stoch says reversal soon, but RSI says overbought, so let's see!
+
+**$CDAY**: Beautiful channel up, and also riding the 50EMA perfectly. Not onl ythat it is showing a bullish divergence and Stochastic is super low, so I think it has a great chance to keep rolling here.
+
+**$HTHT**: Really great channel up as well, with perfect peak to peak action - showing it is a strong trend. This is also an area of support, so I think it has some really good room to run.
+
+**$O**: Channel, that lines up with the POC, which is also inline with a support, and both EMA lines? Oh boy oh boy! It also is low on the Stochastic, this thing can make some big moves.  
+
+**$QTT**: How much lower can it go? Not much! Small trend line and support area, has easily 10% to roll up. Stoch and RSI are low, this could be a real big mover!
+
+**$RAPT**: This trendline up has been so consistent. It is now going to coil between the 50 and 200EMA lines. Near a support too, but indicators otherwise are not for or against it yet.
+
+**$UMPQ**: Super strong channel up which won't last forever, but does have a history of these types of moves. 50EMA is also acting as a support up. Support also close by, but Stoch and RSI are just saying a fair price.
+
+**$UNFI**: We had a great value; and now it had its first pull back, which sadly is right below the 50EMA. It has to break this to show real strength, and Stoch is too high honestly. But Price Action wise; it is a beautiful set up._END_OF_POST_PYSTOCK_ This stock market is getting frothy, Never apologize for taking profits As we await confirmation of the stimulus bill, it's hard to imagine how much room the market has to run without some kind of correction. It's days like today where we continue to see the stimulus bill get steadily price in and once the gavel hits in Washington I suspect much of it will already be reflected in the market. Now the one thing that could bolster this rally forward is additional positive vaccine news, whether that be improved distribution or another candidate coming forward with an additional vaccine. My top 5 holdings are Shopify, Salesforce, Pinterest, Apple, and Nvidia so I am not feeling guilty shaving profits off the top, albeit gently. I continue to remain a very longer term investor and am always hesitate to sell but raising 5-10% cash is what's called risk management, the market doesn't always go up. I'm always risk on but you'll never make money if you don't take profits and have cash on hand waiting for that market correction. I never claim or try to time market moves but we should all live by the philosophy of buy low and sell high, and right now we are high.
+
+&#x200B;
+
+Seacow_END_OF_POST_PYSTOCK_ Thoughts on Galaxy Bitcoin Fund vs. DIY crypto investing? I currently have a relatively small amount of investment in crypto, which I want to increase to 2-3% of my total portfolio. The small amount of crypto I currently have is in a hardware wallet. I saw the Galaxy Bitcoin Fund, and thought that might be an easier route to hold crypto without the hassle of securing a hardware wallet, and other issues associated with DIY crypto investing like taxes. 
+
+The galaxy management fee is 1.25% for balances <100K and 1.00% for >100K. No performance fee. I do qualify under their investor guidelines. 
+
+Besides the moderate fee structure, would this be a better route to hold 2-3% of my net-worth vs. a DIY hardware wallet, managing taxes on your own, etc.? The rest of my investment portfolio is super low cost ETFs, mutual funds, and a small percentage of individual stocks. So I'm not opposed to a fee on just my crypto holdings._END_OF_POST_PYSTOCK_ Anyone here investing in Yangon Stock Exchange ? Hello.
+
+I am a local investor in Myanmar and would like to know anyone here has heard or invested in YSX since it has allowed foreign investors to buy stocks on YSX. 
+
+If there is any, i would like to know your take on our YSX. 
+
+Thank you very much. 
+
+Gary Zhuge Lian_END_OF_POST_PYSTOCK_ ATM Shelf/Secondary Mechanics and Dilution I’m trying to understand how this works. 
+
+Suppose a company files an S-3 with the SEC stating that underwriter will raise $500M at the market and assuming $25 a share price, up to 20M new shares will be added to existing 40M shares for as many as 60 million shares total outstanding after the offering. 
+
+Assume I’m lucky enough (I’m not) to own 2M shares of the company. Previously I would have owned 2/40=5% of the company but now I’m diluted down to 2/60=3.3% of the company. My initial thought is this is “bad—“ existing shareholders own less. But assuming the company just hoarded the cash I would now also own 3.3% of the $500M raised (ignoring 3% underwriter fees) as well so then essentially I would own a smaller piece of a larger pie and the secondary offering would not have much effect on me? And if in all likelihood the company used the $500M to shore up its B/S or invest in a growing business then the shelf could actually be a “good” thing? Am I thinking about this correctly?
+
+The issuer incrementally sells shares of the stock directly into the market at prevailing market price. From a more short-term market mechanics/ECM perspective, is there any way to know how many of the new shares have been issued by the underwriter (FactSet shows old numbers)? The exchange wouldn’t have the information on current shares outstanding available? 
+
+Are shares issued on any given day included in daily volume (I initially assumed not unless they’re flipped the same day but then on further thought they would be if sold directly into the market?)?
+
+Also nothing prevents investors from purchasing the stock before or after the offering also at market—why would buy during the offering period knowing increased supply of shares might temporarily depress the price? Is there any way to know when it is complete? Would an investor even know if they purchased new shares from the issuer or bought mine?
+
+Sorry for so many questions and thank you very much for any insight!_END_OF_POST_PYSTOCK_ What happens to TSX shares in this very specific situation? I'm not sure if this is the proper subreddit for this question but any help is appreciated. I have seen many conflicting statements on how this will go on several forums but nothing concrete.
+
+I own shares on the TSX/TSE (Toronto stock exchange) of Aphria (its trades on both TSX and NASDAQ). 
+
+As I'm sure many of know they are merging with another company called Tilray (Which only trades on the NASDAQ)
+
+Page 4 of The link states the terms of this agreement.
+https://aphriainc.com/wp-content/uploads/2020/12/Aphria-and-Tilray-Investor-Presentation-December-2020-.pdf
+
+As far as I can tell nowhere in it do they mention what happens to people with TSX shares. Am I wrong to think that is kind of messed up?
+
+Will my shares be converted to NASDAQ shares at the same conversion rate as everyone else but with the added complication of exchange rates?
+
+Will the new company that is technically majority Aphria (but changing their name to Tilray) continue to just trade on the TSX but under the new name?
+
+Is it actually clear what's happening in the document but I am just too stupid to understand?
+
+Please help... Thanks!_END_OF_POST_PYSTOCK_ Opinions on $WISH ? They are a legit shopping company, and are based in China. They sell directly to the buyer from the factory. Last years revenue was 1.9 billion, and they just recently debuted with their IPO. Right now their mkt cap is 15 billion, and I am wondering whether I should invest in them or not. Do you guys have have strong opinions on WISH?_END_OF_POST_PYSTOCK_ ELI5: When a stock joins the s&p 500 why isn't it a sure thing that it'll go up? Title says it all.
+
+With the outsized role ETF index funds play isn't it inevitable that a stock joining the s&p 500 would go up as those funds have to add shares to their fund?
+
+Feels too simple so there must be a counterargument...
+
+&#x200B;
+
+(and yes, I'm asking this because of Tesla....)_END_OF_POST_PYSTOCK_ Markets ignoring cyber attack Microsoft now part of the breach. The markets are ignoring all of this and its still not known what all was hacked. This is exactly what markets did with virus. Ignored it until rug pull. Microsoft is only down .45% after hours. I’m sure the rigged market will buy it up to make sure it doesn’t crater but this is worth keeping an eye on._END_OF_POST_PYSTOCK_ What happens to my $APHA calls? I’ve had a APHA $7.5 1/2023 for about a month or so now made decent returns for my small investing foray and am wondering if I can hold my long calls or if I should just take what I can get because I can’t find any info on what happens to my calls online._END_OF_POST_PYSTOCK_
