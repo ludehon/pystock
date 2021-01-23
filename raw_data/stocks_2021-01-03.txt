@@ -1,0 +1,576 @@
+ What are the percentage numbers under the category column in Yahoo! finance stock performance? I am baffled by those percentage numbers under the Category column in [Yahoo! Finance's stock performance page](https://i.imgur.com/BQDstaZ.png). What do they mean with regard to trailing returns? How can we use such numbers in evaluating a stock's performance? 
+
+I googled "yahoo finance stock performance category column", but none of the search results is relevant._END_OF_POST_PYSTOCK_ Upper price limit Degiro (selling a stock) Hey everyone, technical question, I bought a penny stock some time ago and wanted to make a sell order with a certain upper price trigger, but my broker (Degiro) wouldn‘t let me because the maximum price I can insert is around 1$/share over the current stock price.
+Is there something I am missing or is this normal? I use sell limit order._END_OF_POST_PYSTOCK_ With love from uncle sam I got the 600 from our "lovely" gov today. Rather than spend it on useless stuff, what are some recommended stocks to place it into? I'm in PENN, CVNA, ICLN, PLTR, NKLA, TSLA, CRNVL, AMA, and a few small etfs for reference_END_OF_POST_PYSTOCK_ Invest in IAG ? I’m only 17 but I’m looking to put a little bit of money into stocks. It’s not much about £300 which equates to roughly 2 British airway stocks. I’ve been told that now is a good time to invest because they are very low at the moment and it makes sense that they would see an increase after this virus. However wanted to get some other peoples opinions because it will be my first investment. I’m looking at at least a 2year investment if not more_END_OF_POST_PYSTOCK_ Lessons from 2020: 828% return  
+
+Hi All,
+
+I debated if I should make this post but I thought it might help one or two new kids who are new to investing. If you think it's useless down vote it and I will delete it.
+
+At the beginning of 2020 I was just like most of you was not a member of WSBs and invested on my own accord. All that changed in February. I opened an active trading account for fun. I joined reddit and figured I should get involved with the community so that we make money together. Here are the lessons that I think would help some of newer guys than me. Also here is my performance in my speculative account which was opened in March 2020: \[Apparently I can't post screen shot here. I've the screenshot posted on my profile\] 
+
+**Lesson 1: Consistency Matters**
+
+My goal with this speculative account was to try different strategies but get consistent returns nonetheless. I aimed to not have any down months. This helps alleviate the mental anguish caused by roller-coaster-type portfolios. As my mama told me 5 years ago, you are playing with hard-earned-money. This is why I stayed away from YOLOing the whole account on few select plays. I aimed to have many different bets going on at the same time.
+
+**Lesson 2: Helping others is harder than earning money.**
+
+My dad opened a speculation account at the same in March. I decided that I would help him have a similar performance as mine. I kept on feeding him info about my trades. What did he do? Most of the times he thought I was retarded and called the local hospital for me. When Boeing dropped to $93, I was on the phone telling him this is free money. I told him to by $30k but he just bought $10k. I was buying American Airlines on the same day. This story repeated many times over the last 9 month. I think at the end he managed to scratch of \~250%. Now I have him on a conservative buy and hold strategy since he is not cut out to actively trade. And by actively I mean 4 trades a week for him.
+
+**Lesson 3: Having a good broker is important**
+
+If you haven't deleted R0binh00d and gotten your self a proper broker after you hearing or experiencing bugs, crashes, service outages, your data being sold, .... then I don't know if I can convince you. Other brokers will give you access to ADRs and allow you invest in some bigger European companies that are trading OTC here.
+
+**Lesson 4: Don't argue with people; instead discuss ideas.**
+
+If you notice someone is arguing instead of discussing ideas with you then just ignore them. For every seller of a stock there is a buyer. There is no point in personally attacking people. If you believe strongly that they are wrong, then just inverse their trade. Respect and thank them for sharing their trades with you, even if you disagree with them.
+
+**Lesson 5: Media is a hype machine**
+
+CNBC, Bloomberg, ... are all in the business of creating excitement and increasing their viewership. They are not there to enhance your returns. What gets people's attention is usually not a good investment.
+
+**Lesson 6: Reddit slaps you harder than a twisted tea**
+
+I used to share ALL my DDs here. Sharing is caring, right? apparently not. There was no shortage of personal attacks, being banned, DDs being deleted, ... My Karma even dropped to -1k in March. I am permanently banned from r/ investing, economics, .... I got temporary banned here, and two other investing subs. So I post less DDs now, and don't try to stop people from jumping from rooftops.
+
+**Lesson 7: Most popular posts/users should not be blindly mimicked**
+
+Most people including me already know this, but I keep seeing it here. I figured I should mention it since I have your attention. When you see a trade that is getting a lot of attention ask yourself: does this fit my strategy? If not then don't do it. What is strategy you ask? oh boy
+
+**Lesson 8: Don't let survivor bias fool you**
+
+Everyday people on WSB are throwing millions of dollars on thousands of small bets. The odds are some of them are gonna pay of. So when you see some guy posting Gain-porn of 1k turning to 100k overnight. Remember that over night thousands of other people with similar bets lost it all. So don't just follow people blindly. Some of the most respected guys here are essentially doing the same thing by YOLOing all their money on one bet that unfolds over several month. These guys last longer but essentially are playing few bets game. When you roll the dice 5 times the odds of you getting 5 in a row is a lot. There is a reason we don't hear from YungBillionaire anymore. Please don't Yolo your whole account on GME, Palantir, and such.
+
+**Lesson 9: Reddit is skews the information you see**
+
+Not all the best ideas are popular and not all the popular ideas are good. lol
+
+**Lesson 10: When the tide goes out you realize who was swimming naked.**
+
+Popularized by WB, he wasn't the one who came up with it. When a correction happens, and I guarantee you there will be a correction, then you realize who was blindly chasing alpha without any risk management. The correction may not come for a few years but there always is a correction, pullback for some random reason. So **manage your risk.** Guh
+
+**Lesson 11: unless you have insider info do not buy weekly or even monthly options.**
+
+LEAPs are risky as well but can be managed. Most people here should not take the weekly or monthly option risk. You need years of experience before doing so.
+
+**Lesson 12: Paper accounts don't count.**
+
+You need real money to be at risk so that you care and go through the emotions. I never had a paper account and if you are using one, in my opinion you are wasting your time.
+
+**Lesson 13: No one has a magic sauce.**
+
+Those who pretend to do are delusional. There is no such thing as "always do this and you will win". Market changes and strategies that work now will not work in 2 month. If a guru says buy x, y and z and you will make money, that's total BS.
+
+**Lesson 14: If you get money help yourself and your family**
+
+You have the option Yoloing your money on weeklys, buy coke, or elevating your life. Money truly brings happiness. Only people who don't have it think that it does not; and site a bs study. Use your money to help your family at key points in their lives. Help with their Mortgage down payment, buy a car for the ones who really need them,... Use your money to work less and work out more. Yolo in real life, not on options.
+
+**Lesson 15: If you don't invest with conviction, you won't get the results that matter**
+
+You have to know why you are buying some stock and why you would sell it. A lot of winning trades will go against you before they go green. To hold those positions when deep in the red, you gotta have conviction in your thesis.
+
+I am not going to edit this post because it will mess up it's format. I am going to put a comment below with updates/corrections. Also do NOT message me personally. I don't have a magic sauce._END_OF_POST_PYSTOCK_ Good stock for under $100? What is a good stock to invest in that’s under $100, and could be good in the future? Currently a bit new to this but I really want to look for some pretty good ones to start off, I heard of ones such as 3D printing and lithium as well, but I’m curious what you guys think, thank you so much!!!!_END_OF_POST_PYSTOCK_ Graphene stocks Recently heard about a material called graphene that caught my interest. Has anyone found any companies publicly traded involved with graphene production that they’d recommend? I did some of my own searching but it seemed like most of them were outside of the US.
+
+Thanks in advance_END_OF_POST_PYSTOCK_ What are the cons of short selling? I have very little experience with the stock market (or finance in general) so sorry if any of this sounds stupid.  If I am correct, short selling works by earning profit based off of how much a stock loses in value.  It seems to me that it’s much easier to predict if a stock is going to drop then if a stock will rise.  Is there some sort of catch that I’m missing here?_END_OF_POST_PYSTOCK_ New at investing - any advice would be appreciated re portfolio Started investing in stocks November 2020 and would greatly appreciate any input on my current portfolio:
+
+BFT 15%
+
+PLTR 10% 
+
+GNOG 10%
+
+SBE 10%
+
+NET 10%
+
+TTCF 10%
+
+DKNG 10%
+
+NIO 10%
+
+CRSP 5%
+
+AQMS 5%
+
+TLS 5%
+
+Intend to hold mid to long term, based in the UK and was interested in ARK etfs but unfortunately not available on the freetrade app. Any critique would be very helpful as new to this. 
+
+Thanks_END_OF_POST_PYSTOCK_ What are your plays in lithium? I’m curious to hear what positions y’all have in lithium. I’m thinking that now would be a good time to invest in companies that actually produce lithium since the demand for that is going to increase as the demand for electric vehicles and solar energy increase as well. 
+
+I personally see that as a safer bet than investing directly into EV and solar companies that are more dependent on innovative tech. 
+
+What do y’all think?_END_OF_POST_PYSTOCK_ RLH (Red Lion Hotels Corp.) to be acquired and taken private, but is also now being investigated Red Lion Hotels Corporation (RLH) jumped almost 30% on Thursday 12/31 on takeover news, but is now also going to be investigated by two law firms to see whether the acquisition agreement was fair and really in the best interest of the shareholders.
+
+Thoughts on this? Could this be really bad for the stock (i.e. could it drop to levels below the pre-acquisition announcement) if the investigations uncover something?
+
+Personally, I think the acquisition price of $3.50/share is too low when compared to where RLH has been in non-recession times.  Historically (over 23 years), RLH has generally traded above $5 a share, except in the 2008 recession, and this COVID-19 recession. Granted, there had been financial turmoil within RLH in the few of months leading up to the pandemic (which resulted in the ouster of its CEO), but it seems like the board is just throwing in the towel at this point and not patient enough to see its turnaround strategy be implemented and in action post-pandemic.
+
+* Acquisition announcement: [https://ir.redlion.com/news-releases/news-release-details/rlh-corporation-announces-agreement-be-acquired-sonesta](https://ir.redlion.com/news-releases/news-release-details/rlh-corporation-announces-agreement-be-acquired-sonesta)
+* Halper Sadeh LLP investigation: [https://www.businesswire.com/news/home/20201231005161/en/RLH-Merger-Investigation-Halper-Sadeh-LLP-Announces-Investigation-Into-Whether-the-Sale-of-Red-Lion-Hotels-Corporation-Is-Fair-to-Shareholders-Investors-Are-Encouraged-to-Contact-the-Firm-%E2%80%93-RLH](https://www.businesswire.com/news/home/20201231005161/en/RLH-Merger-Investigation-Halper-Sadeh-LLP-Announces-Investigation-Into-Whether-the-Sale-of-Red-Lion-Hotels-Corporation-Is-Fair-to-Shareholders-Investors-Are-Encouraged-to-Contact-the-Firm-%E2%80%93-RLH)
+* Weiss Law LLP investigation: [https://www.prnewswire.com/news-releases/shareholder-alert-weisslaw-llp-investigates-red-lion-hotels-corporation-301199805.html](https://www.prnewswire.com/news-releases/shareholder-alert-weisslaw-llp-investigates-red-lion-hotels-corporation-301199805.html)_END_OF_POST_PYSTOCK_ Question about dividends I’m new to investing and have seen that for many companies, the dividend yield varies. Since many people buy a stock due to the fact that they’ll receive dividends, what rules are there, if any, that prevent a yield going from 8% down to 2%. Thanks_END_OF_POST_PYSTOCK_ Can I as a sub trade invest in a publicly shared owner that I do work for? I'm in the piling and foundation business (construction). The company I work for does a lot of work for large oil and gas companies. Could my company, XYZ Foundations, purchase shares of ABC Energy? Would there be a conflict of interest, and maybe get negative attention from the SEC?
+
+Sorry if this is a stupid question, but I had to ask it before I made a (potentially) stupid action._END_OF_POST_PYSTOCK_ QCLN vs ICLN I’m curious if someone can help me better understand the difference/ pros and cons on QCLN vs ICLN? They seem to have fairly similar returns and I believe I had read the main difference was QCLN being global so I’m assuming ICLN is only U.S. companies? Am I right in this and also what would be advantages if one over the other?
+
+Thanks in advance, and happy new year_END_OF_POST_PYSTOCK_ Fastener industry Does anyone here work/have done research for the fastener industry. I would like to buy LISI. A( french) company which is kind of a turnaround story because itd going downhill for 2 years know. But analyst expect to make a turnaround. It has a aerospace( fasteners for airplanes), automotive and medical part. Thought someone might know more aboit this? 
+
+NOTE: LISI is the 4th biggest company in fasteners, so its not a small fish in this industry._END_OF_POST_PYSTOCK_ Sector ETFs for 2021 Was wondering are sector ETFs like arkw , wcld , xntk or igv still a buy in early 2021, given the potential for a sector rotation out of much of the holdings in these ETFs as the economy opens up when more people are vaccinated? Have the holdings in these ETFs (cloud , software , fintech , e-commerce) had their run with the pandemic ? Do you see a better buying oppurtunity with a pending decline in 2021._END_OF_POST_PYSTOCK_ Lock up period expiration How do I find out when lock up periods expire? Do all IPOs have them? Is there any easy way to see how much they can affect the stock price?
+
+Do lock up periods apply the same to ADR shares? Would they affect them the same?
+
+When do they expire for XPEV, LI, and PLTR?_END_OF_POST_PYSTOCK_ Whats everyones opinion on Velocys (VLS)? They've just come out of the Post IPO dip and well positioned for when the airline industry is fully functional after corona. They are working on sustainable fuels for planes and they have other projects too_END_OF_POST_PYSTOCK_ Chamath VS Cathie Wood. Who would you trust with your money? Chamath VS Cathie Wood. Who do you trust more with your money?
+
+Both Chamath Palihapitiya of Social Capital, and Cathie Wood of Ark invest are innovation investors that have been gaining in fame lately. They have very different strategies though, where Cathie Wood is more of a traditional fund manager and Chamath is largely driving his public market exposure by IPOing companies via his $IPO SPACs.  
+
+So I wanted to do an exercise to see who this sub is more a fan of, and which method seems more appealing to you. 
+
+If you had $100,000 to invest how would you distribute it between:
+
+$ARKK
+$ARKG
+$ARKF
+$ARKW
+$ARKQ
+
+$IPOD
+$IPOE
+$IPOF_END_OF_POST_PYSTOCK_ Is this a good starting point? I did my diligences and will buy arond 6600€ in stock.
+
+Untill now I just kept at the bank and kept adding each month since I started working at 20yo but now the money is devaluing sitting there, as they only offer like 0.01% , I am 32yo.
+
+I kept in mind the advices given here in a previous post.
+
+&#x200B;
+
+SHARE - NUMBER OF SHARES - TOTAL
+
+NIO - 14  -  682.36  USD
+
+Paypal - 4 -  936.8 USD
+
+Medical Properties Trust - 50 -  1089.5 USD
+
+JP Morgan Chase - 9 -  1143.63  USD
+
+Microsoft - 6 -  1334.52 USD
+
+Walt Disney - 7  -   1268.26 USD
+
+Amazon  - 0.5  -  1628.46 USD
+
+Total: 8,083.53 USD
+
+&#x200B;
+
+I wanna know your opinions about this, keeping in mind I plan to keep them at least one year, possibly a lot more.
+
+&#x200B;
+
+Also advices are welcome!_END_OF_POST_PYSTOCK_ Nio Launches used car service Finally, NIO has stepped into long-awaited booming areas: 
+
+>Nio officially launched on Sunday a pre-owned service called Nio Certified for buyers of used Nio cars. The company plans an investment of 3 billion yuan ($459.21 million) into this service over five years.  
+>  
+>  
+>  
+>Source: [https://m.benzinga.com/article/18991409](https://m.benzinga.com/article/18991409)_END_OF_POST_PYSTOCK_ Questions about Options I am a high schooler and I have been doing my research about options. I understand majority of the big picture stuff. However, on the simulator I use to invest (Investopedia) I don't understand the purchase break down. Like where the premium is and what does bid/ask/last/Vol/Open Interest means. I looked on the internet and I could not find a solid explanation.
+
+&#x200B;
+
+This is what my options menu looks like:
+
+&#x200B;
+
+(I understand this section)                Expiration Date: January 8th, 2021  Strike: Near the Money
+
+Stike      Contract Name                                            Last      Bid    Ask              Vol                 Open Int
+
+\----------------------------------------------------------------------------------------------------------------------------------------
+
+1,220.00    TSLA2108A1220                                        0.03   0.02    0.03            414.00               449.00
+
+\----------------------------------------------------------------------------------------------------------------------------------------_END_OF_POST_PYSTOCK_ Why project trends on peaks and and troughs and not the average with some measure of variation? In science there are many ways of summarizing a curve, but I’ve never seen trend lines used to project a range based on local peaks and troughs. In finance, stocks specifically, I see a lot of this but never a mean and standard deviation, for example. Why?_END_OF_POST_PYSTOCK_ What do I need to learn to be an effective investor? I am new to investing and I want to know what I should be learning to be an effective investor. What statistics and information about a stock should I be paying attention to? Are there any strategies I should know about? If anyone has any sites or other resources that would be very appreciated as well!_END_OF_POST_PYSTOCK_ Tesla, PLTR, or Draftkings Hello friends. Was wondering if you all could share some advice on which of these 3 stocks to put 20k in and not touch for 10 years. Any and all opinions are welcome. Totally open to other stocks as well._END_OF_POST_PYSTOCK_ My Watchlist 1/4/2020 **\*\*I trade off of the 180D/4H chart. I use the RSI, Stochastic, Vortex, and 10-50-200 EMA Lines as well\*\***
+
+&#x200B;
+
+**$ACCD** \- Resistance becoming a support possibly, and it is obviously up trending. RSI is oversold for at 30, Stoch is low, and Vortex is low. Looks ready for a reversal.
+
+&#x200B;
+
+**$AOS** \- Obvious ascending channel, possible wedge. At support and channel; support, and 200EMA. RSI and Stoch is low, and Vortex is okay. But a great setup.
+
+&#x200B;
+
+**$AQB** \- We caught the move up, and now it is making an ascending triangle. At 50EMA, and old support. RSI is fair, Stoch is low, and Vortex is fair. Good setup.
+
+&#x200B;
+
+**$CTSO** \- Beautiful channel here, higher lows as well. Obvious to anyone. Stoch is bad, RSI recently oversold and Vortex low though, ready for a reversal.
+
+&#x200B;
+
+**$DIN** \- Beautiful channel up here. Support lines up as well which is great. RSI is oversold, Stoch low, and Vortex low. Great setup.
+
+&#x200B;
+
+**$FUV** \- Obvious ascension here, after the big move. At support as well, right above the 200EMA. All indicators show it is ready to reverse.
+
+&#x200B;
+
+**$GNK** \- May not be ready, but this is a beautiful triangle. If it dips to the support trend channel, you buy instantly; but it is in the middle so let's wait.
+
+&#x200B;
+
+**$HTHT** \- Channel up, and at value. It did break, but it has before and came right back. Indicators a little iffy so I would wait on this as well.
+
+&#x200B;
+
+**$ITB** \- Beautiful triangle forming. At 200EMA line as well, RSI fair, Stoch low, and Vortex low; reversal coming.
+
+&#x200B;
+
+**$LL** \- Channel up again, looking real nice. At support as well. RSI fair, Stoch and Vortex very low, reversal may be pending.
+
+&#x200B;
+
+**$OKTA** \- Channel up once again, right at support as well. Gorgeous. All indicators majorly oversold, this is great.
+
+&#x200B;
+
+**$SWN** \- Another beautiful channel up. At volume support and channel, All indicators are low -- great setup.
+
+&#x200B;
+
+**$VMW** \- Horizontal channel, beautiful area of value. All indicators are fair so it may go either way, if you hate risk I would wait._END_OF_POST_PYSTOCK_ Breakup With Apple & Sony? Started my investment journey 4 years ago & kept buying Sony and Apple in my Roth. Obviously, these moves have been kind to me, but now that I have a few years experience under my belt, I've come to realize I should probably take some money off the table and invest in VT.
+
+Anyone else have trouble selling off great stocks in the name of rebalancing?_END_OF_POST_PYSTOCK_ Strategies for investing either than DCA Hey I’ve built a pretty solid portfolio so far that’s mostly based off DCA nasdaq and Canadian index’s. Where I also picked companies I liked and also hold their individual stock. 
+
+I’m looking for some other strategies that worked for you. Not interested in stock tickers but strategies so pls don’t comment random stocks._END_OF_POST_PYSTOCK_ How much capital do you need to retire? I'm in my mid 40s, growing up a million bucks meant you made it. Now they say 4 million is the new 1 million, and I can't argue with that, a million doesn't get you very far anymore, unless you're old enough to collect social security and get on Medicare, then it's pretty good. But I want to retire before that, which means paying for my own medical and maybe a small mortgage. I believe there's no greater wealth machine than the stock market for an unambitious nobody like me, and I think I could make enough income per year with 2 mil capital, but not 100% sure. What amount do you think you'd need to retire?_END_OF_POST_PYSTOCK_ Green energy and the GA run off Even if the Democrats lose both run off seats in GA, the green energy push by the fed isn't over, right? 
+
+Biden can still sign executive orders that are favorable for the industry. The Senate is still going to be "close" and they should be able to pass some bills in favor of green energy. The green new deal won't happen, but I also never thought it was going to even if the Dems won control of the Senate and the House. 
+
+So am I wrong in thinking that the renewable energy push in the US is all going to happen, regardless of what happens in GA?_END_OF_POST_PYSTOCK_ Future of the investment 2020 was an incredible year for the economy due to the pandemic, it looks like stocks are continuing to grow more and more and with this new year, they will probably continue their post-pandemic reconstruction; this led to many opportunities for the middle class and everyone want to invest.
+
+So, after all, which, in your opinion (in 2021), will be the most profitable stocks to own, and which would you choose instead for a long-term investment (like 2-5 years and more)._END_OF_POST_PYSTOCK_ XPeng or NIO? Currently in NIO, in anticipation for NIO day.
+
+I only have one spot left in my portfolio for a chinese EV play.
+
+Im thinking after NIO day, I might sell out of NIO for XPeng.
+
+It has half the market cap, which leads me to believe its got a lot higher growth potential.
+
+Anyones thoughts?
+
+Curious to hear why you guys chose one over the other!_END_OF_POST_PYSTOCK_ QS Looks like Quantumscape (QS) has solved batteries.  Quick to charge, lots of capacity, big deals signed.  Should be world changing technology.  But have I already missed out?  $85 seems high.  Your thoughts?_END_OF_POST_PYSTOCK_ $60k to invest for this year and withdraw at the beginning of next year. I am planning to invest $60k and want to withdraw at the beginning of next year. What are some growth stocks that I can put my money in. My thoughts were ICLN, NIO, PSTH and ARKG (equally distribute across the 4). Any others that I should be looking at? Thanks!_END_OF_POST_PYSTOCK_ Friendly Warning Any speculative bubble (i.e. no value created) is money redistribution from those who buy late to those who bought early and sell around the peak. If you're hearing about it in the news, we're near the peak, and your gain expectation is negative...
+
+Invest safe_END_OF_POST_PYSTOCK_ Tesla’s Shanghai-made Model Y gets rousing reception as Chinese buyers rush to place orders for competitively priced SUV https://www.scmp.com/business/companies/article/3116253/teslas-shanghai-made-model-y-gets-rousing-reception-chinese
+
+Tesla has slashed prices of its made-in-China Model Y cars to woo drivers in the world’s largest electric vehicle market, ratcheting up pressure on its global and Chinese rivals that focus on the premium segment.
+
+The Long Range version of Model Y starts from 339,000 yuan (US$52,074), excluding a government subsidy, 30 per cent cheaper than the price quoted six months ago when presale orders could first be placed.
+
+Local media reported that some drivers who previously ordered cars by Tesla challengers – NIO, Xpeng and Li Auto – have reneged on their contracts and were looking to buy Model Y._END_OF_POST_PYSTOCK_ Reddit user winners of 2020 As we move into 2021, I have looked back to predictions made on 1/03/2020.  Some were dead wrong, others hit a home run. Curious as a new subscriber, which thread was the biggest winner predicting 2020 despite COVID_END_OF_POST_PYSTOCK_ Top picks for renewable energy Hi. I´ve been sneaking around here for a few months and I see a lot of people talking about renewable energy in 2021 and I would like to invest some but I´m not too educated on that area. Can people recommend your top 3 picks for renewable energy please? Thanks_END_OF_POST_PYSTOCK_ I sold NIO when they were 1.78$ and missed out on their meteoric rise I'm killing myself over this. I learned about NIO over two years ago when they were featured on 60 Minutes and was one of the first active users on r/Nio. Back then, the stock was 10$, and I bought 500 shares. But after their IPO, they had a rough year with declining sales. Despite that, I kept buying in to eventually accumulate 3,200 shares at an average price of 3.12$.
+
+But then came more bad news and worse sales. People were talking about the company running out of cash and the stock going to 0$, and they did eventually hit 1.00$. I sold at 1.78$ before that happened and took my 57% loss.
+
+I've only been investing for two years, but it's my biggest regret so far. I should have never listened to some asshole at Bloomberg getting paid to write negative articles and trusted my gut. NIO is a solid company and is going to be one the leaders in the Chinese and global EV market. They completely restructured after those losses (Nio Places vs. Nio Houses, fired staff, etc.), and those 3,200 shares are worth over 150,000$ today. They'll be worth even more in the future.
+
+All I can do now is take this as a learning experience, but I feel like I'll never find another stock like it. Sigh ...
+
+Edit: Someone here contacted the Reddit Care Team. Thank you for the laugh ..._END_OF_POST_PYSTOCK_ TLSS drop Hi, I was wondering, can anybody explain to me what caused Transportation and Logistics Systems Inc. to drop from around 6,000 usd to 0.029 usd? This crash is just so immense that there’s bound to be a great reason as to why it occured, right?_END_OF_POST_PYSTOCK_ Graphs similar to P/E Shiller for ESG market? Do any of you know any graphs that show the current valuation of the ESG/sustainable market such as the Shiller P/E for overall market evaluation?
+
+Would be interesting to look at the spike compared to for example the dot com bubble. Even though it seems like everyone know it is a bubble.
+
+Also, other graphs showing the overall/tech/ESG market are appreciated_END_OF_POST_PYSTOCK_ NIO Inc. Provides December, Fourth Quarter and Full Year 2020 Delivery Update  
+
+* ***NIO delivered 7,007 vehicles in December 2020, increasing by 121.0% year-over-year***
+* ***NIO delivered 17,353 vehicles in the three months ended December 2020, increasing by 111.0% year-over-year***
+* ***NIO delivered 43,728 vehicles in 2020 in total, increasing by 112.6% year-over-year***
+
+NIO delivered 7,007 vehicles in December 2020, setting a new monthly record representing a strong 121.0% year-over-year growth. The deliveries consisted of 2,009 ES8s, the Company’s 6-seater and 7-seater flagship premium smart electric SUV, 2,493 ES6s, the Company’s 5-seater high-performance premium smart electric SUV, and 2,505 EC6s, the Company’s 5-seater premium electric coupe SUV. 
+
+NIO delivered 17,353 vehicles in the fourth quarter of 2020, representing an increase of 111.0% year-over-year and exceeding the higher end of the Company’s quarterly guidance. As of December 31, 2020, cumulative deliveries of the ES8, ES6 and EC6 reached 75,641 vehicles, of which 43,728 were delivered in 2020._END_OF_POST_PYSTOCK_ Trump's order and delisted stocks My CHL stock will be delisted by the NYSE due to Trump's executive order.  How will I get the dividend if I continue to hold it, even past November 2021?  Also, how will long term LEAPS options be handled then?  Appreciate knowledgeable response._END_OF_POST_PYSTOCK_ I just started getting into stocks and trading I would just like to know, when you guys started out in this. What was the first amount you put into a stock? I am getting into it and doing research but never sure of myself when or how much to actually put in. 
+
+I would just like some insight._END_OF_POST_PYSTOCK_ Need help understanding pharmaceutical companies and patents please! $CRBP Hi all,
+
+I’m looking into Corbus Pharmaceuticals ($CRBP) after seeing how it plunged from $9 to about $1.25 after the two phase III clinical tests they did failed to show any positive results. 
+
+Doing a bit more research, I saw that they recently filed for a patent on 12/31 for “Treatment with ajulemic acid that results in a dose-dependent decrease in the occurrence of acute pulmonary exacerbations requiring treatment with intravenous antibiotics when compared to placebo. A 75% reduction was observed in the 48 week rate of acute pulmonary exacerbations in subjects treated with ajulemic acid at 20mg BID”
+
+My question: How often do pharmaceutical companies file patents like this and is this something that’s worth having high hopes for? I’m assuming this happens all the time in the industry and I know it’s just them filing an application (rather than getting it approved) but I was curious to hear any other investors’ opinions on how much weight they put into news like this and what other aspects on pharma related companies they look for? I usually just invest in the MJ sector and am pretty new to this sector. I think it’s worth noting that this company is studying cannabinoids and is the reason I came across it as well lol. Also, their pipeline of new drugs is pretty small right now which I know is not good/ideal but figured I’d take a look and see what y’all thought!
+
+Thank you all in advance and all opinions are welcome! Would love to start an informed dialogue here._END_OF_POST_PYSTOCK_ Auto allocation Is there a way to track a group of stock and adjust allocations $ values? So something which M1Finance does with pies but if I wanted to replicate this in Fidelity.. Was looking to a spreadsheet to do it manually but came up empty. 
+
+For example, I start with 50k in 10 stocks but each stock is assigned a different percentage as part of the total portfolio now I want to contribute 2k a month, need something to tell me where to allocate the 2k based on a percentage of the overall portfolio._END_OF_POST_PYSTOCK_ TFSA question :) Recently got into investing (19) 
+I did my fair share of Yolo and fomo , thinking about slowing it down.
+Im currently maxing out my TFSA account and its buying some shitty mutual funds from my bank branch.
+Once I ask them to transfer it into a direct investing account ill have full authority about what im buying/selling.
+My question is with a tfsa should one invest in singular stocks etc and make risky plays with huge upside or invest in etfs , strong strong companies etc
+
+Im thinking about this is mostly money i wont touch for at least the next 5-10 years 
+
+Thanks in advance!_END_OF_POST_PYSTOCK_ $50K in SQ, TWLO, FLNT, MGNI, NET? I’ve got about $50k in stock from my current employer vesting this month. I want to sell and diversify. This will be my first stock purchase. I’ve done some research. I’m comfortable with some risk and the trade off I want is the potential for significant gains over the next year. 
+
+I’m thinking about buying in to Square, Twilio, Fluent, Magnite, and Cloudflare. 
+
+Amy thoughts or recommendations on this portfolio?  All have seen significantly recent gains but I think they have more upside availability.
+
+Edit- I had considered CRM, ADBE, and SHOP but decided they have less upside over the next year and am not buying. Do you think that’s a dumb move?_END_OF_POST_PYSTOCK_ Set it and forget it - ETF portfolio I am in my mid 30s and I am saving for retirement. I want to put my money in 2 or 3 well diversified ETFs, add to it every month, and not think about it for the next 30 years. 
+ 
+Which 2 or 3 funds would you recommend?_END_OF_POST_PYSTOCK_ Where can I invest in stocks?! I’m new to investing and trading and I have a good idea on how to invest and trade but I don’t know where to go to invest. Is there a good website or maybe a good app for your phone? I live in Ireland so that should help with recommendations. Thank you!_END_OF_POST_PYSTOCK_ BIP vs BIPC - Confused investor here Hi, . I am planning on investing in Brookfield Renewable & Brookfield Infrastructure stocks for the long term. 
+
+However, the recent share splits made me confused. 
+See, BIPC is outperforming BIP, and BEPC is outperforming BEP. 
+
+Meanwhile, the dividend yield is higher for the partnerships than the C-corps.
+
+I'm confused as to which stock to buy. 
+Aren't the two stocks supposed to be equivalent? Why do they have such different performance?
+ I don't want to buy the C-corp and have a risk of valuation (since it is more overvalued than the partnership)
+I also don't want to buy the partnership and miss out on future gains, since the C-corp seems to be more popular..
+
+Could someone clarify for me as to which stock should I buy?
+Because quite honestly, I'm thinking about avoiding all of Brookfield's stocks because of all the confusion.
+
+Thanks in advance_END_OF_POST_PYSTOCK_ Trim my portfolio? Started investing recently and believe I may be over diversified. Bullish on these tickers but given the number of positions in the portfolio I only have a cursory understanding of those businesses so I'm trying to trim the number of stocks I own - going for quality over quantity. This portfolio beats the SP when I backtested my purchases using SP instead of these tickers but maybe I can do better if I get rid of the gain diluting stocks? Are these too speculative given I don't have ETFs? Looking for suggestions on what should go and feel free to suggest other positions not on this list that may be better than some of the positions I already have for long term growth. Looking for more genomics exposure as well (maybe ARGK but not a fan of higher expense ratios). Plan is to buy and hold over the next few years. Thanks!
+
+Updated list from 43 to 26 but still believe I have too many:
+
+FB 12.01%
+
+AMZN 10.06%
+
+SQ 5.5%
+
+SE 5.4%
+
+FVRR 4.93%
+
+TSLA 4.62%
+
+SBE 3.07%
+
+AAPL 2.98%
+
+SEDG 2.69%
+
+NET 1.99%
+
+CRWD 1.98%
+
+ZM 1.89%
+
+NVDA 1.47%
+
+U 1.44%
+
+LMND 1.38%
+
+CRSP 1.29%
+
+PINS 1.29%
+
+NIO 1.14%
+
+PLTR 1.06%
+
+SHOP 1.06%
+
+MSFT 1.04%
+
+DIS 1.02%
+
+AMD 0.86%
+
+FUBO 0.52%
+
+PLUG 0.48%
+
+ABNB 0.41%
+
+Other (selling and distributing to above or putting in ETF): 16.68%_END_OF_POST_PYSTOCK_ What’s your guys preferred way to stay informed on important market information? Was wondering what you guys do to stay informed? Google alerts? And if so what kind of alerts? Or if you research earnings reports how do you do that or what websites help you the most? I’m trying to find a reliable way I suppose._END_OF_POST_PYSTOCK_ Airlines? How come there is no talk about buying into airlines or cruise lines right now? Obviously they have tanked hard but it seems like a perfect opportunity to buy in? We are in teens-twenties with highs of eighties or more in past year. People are going to start traveling again once they feel safe with vaccines, no?_END_OF_POST_PYSTOCK_ Synthetic blood companies Anyone know if there is any companies publicly traded that work in development of synthetic blood? I see some that are trades on the OTC market.
+
+There always seems to be a demand for blood and with less and less individuals willing to donate, the need for blood will always be there. Plus, blood is essentially the one thing in the world we can’t live without. I realize this is gambling on a bio-tech stock, but a little gambling is fun, right?_END_OF_POST_PYSTOCK_ 2020 Stocks in Motion in 60 Seconds Cool data visualization of the 2020 market movements. 
+
+[2020 Stocks in Motion in 60 Seconds. ](https://www.reddit.com/r/dataisbeautiful/comments/kowsl1/oc_stocks_in_motion_2020_in_60_seconds/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)_END_OF_POST_PYSTOCK_ Q4 Earnings? Hey guys 😁
+Noob question here! 
+I was wondering when the The fourth quarter earnings of companies would be released since it’s over now? 
+Does it depend on the company or is it a date where they have to release it by! 
+
+Thank you_END_OF_POST_PYSTOCK_ How to account for buyout scenario when buying LEAPs? Hypothetically, say that you buy call options with a strike price of $100 expiring in 2023.
+
+In 2021, the company gets bought out at a price of $80 per share, do your calls become worthless since the shares won't ever hit $100 in this scenario? and what happens to the contract itself and its time value?_END_OF_POST_PYSTOCK_ Everlasting Portfolio- is it worth it? Is anyone here subscribed to the Motley Fool Everlasting Portfolio? It basically gives you Tom Gardner’s portfolio so you can copy it and make the same trades that he does. It costs $1600. 
+
+Does anyone here use it? Is it worth the cost?_END_OF_POST_PYSTOCK_ What constitutes a good trading strategy (APPT)? I'm in the process of backtesting a new price action breakout strategy, but I'm not sure how to accurately measure its success. I've managed to collect over 8 months of minute data for the S&P100 to test against and was originally averaging the profit percent of each ticket. This was a horrible way to measure it and lead to all kinds of errors. 
+
+From there I learned about APPT (average profitability per trade). I averaged the wins, losses, and profits from all the tickers before calculating it, but even then I'm not sure what a successful value should be (other than +good, -bad). 
+
+Using a $100k initial investment I was able to make 70k trades with an APPT of $25. The W/L ratio was 3:1. 
+
+I was also able to tweak my strategy to make 30k trades at $20 APPT and the same initial investment and W/L of 3:1. 
+
+Is the second strategy better because even though it has a lower APPT but the number of trades is cut in half? This could mean more simultaneously trades assuming the right conditions are met?
+
+What is consider a good APPT value and what other success measurements do you all use?
+
+Note: My 70k and 30k trades are assuming I could make every possible trade across all 143 tickers. I would at best only be able to combine a hand full at a time (averaging ~500 trades per ticker)._END_OF_POST_PYSTOCK_ Roth IRA contributions Hey!
+
+I recently opened a Roth IRA and wanted to clarify about the maximum contribution. For me, I would be in the 6,000$ max, but is it true that if you only make say, $3,000 in job income then you cannot contribute an additional $3,000 from savings? Thanks!_END_OF_POST_PYSTOCK_ How is the opening price of NASDAQ pre-market determined Hey guys,
+
+i was wondering how the opening price of NASDAQs pre-market, or maybe any pre-market, is determined,
+
+I would guess that all orders filed before pre-market open are summed up and put into effect at once, the resulting share price will be the pre-market open price.
+
+For example 10k shares are bought and 5k are sold resulting in a increased share price at open.
+
+&#x200B;
+
+The other option i could imagine is that all orders will be processed  consecutively in order of the filing date and time.
+
+This would imply, that a stop loss order could trigger even though the opening price will be above the set limit of the stop loss.
+
+&#x200B;
+
+How is it determined?
+
+&#x200B;
+
+Background of my question: I want to know wether my stop loss can trigger somehow with an opening price above my limit._END_OF_POST_PYSTOCK_ VOO to QQQ tax question Probably a dumb question but just need some help.  I started investing a few years ago with the bulk of my money in VOO.  Now that I’ve gotten a bit more comfortable I want to move to a slightly riskier fund for more growth.  I am choosing QQQ or QQQM.  My question is, is this a dumb idea because I have to pay all the taxes now on my gains from VOO (that I was planning to hold very long term)?  Would it be better to just let it sit and start a new position in QQQ?  I currently hold about 22 positions in total between stocks and etfs.
+
+Taxes would be a mix of short and long term because I frequently DCA._END_OF_POST_PYSTOCK_ Novice Investing Strategy from Jan 2020. Moving on to year 2   
+
+**"Okay, but where do I start?"**
+
+*I was asking myself this same question only 10 months ago. So, do not automatically assume that you are laps behind. For the past ten years, I focused on just allocating a portion of each paycheck towards my retirement account. I focused on keeping it simple and stuck to low-cost index funds. Mostly, because I am unable to invest in individual stocks in my government retirement account. With that said, low-cost index funds are the most assured way to secure a nice retirement. The only thing you need is a few decades of continued contributions and growth. I found myself wanting something else though. I did not want to wait to retire in my sixties.*
+
+*This is where I shifted my goals a bit. I wanted to focus on building up an investment portfolio, which I could access at any time. I opened a brokerage account so I could eventually live off it, much like my 401K, but could start relying on 20 years earlier. I still contribute to my 401k, but the goal is to not need it.*
+
+**Road Map:** 
+
+*You must be ready to change your beliefs. There are endless of ways to invest and many of those ways can be the right way.* 
+
+**How I currently see my investment road map is this:**
+
+*Next 12 years invest in companies that:*
+
+&#x200B;
+
+* *Small to medium market cap*
+* *Very high growth*
+* *Software as a Service modeled company*
+
+*From years 12-15 transition in companies that:*
+
+&#x200B;
+
+* *Medium to large market cap*
+* *Dividend companies or,*
+* *High growth*
+
+This map could easily change, based on too many factors to count. Instead of the next 12 years, I could keep my approach now well into the future. I could end up being burned by one too many companies and grow to be more conservative. You just must be willing to adapt.
+
+***Philosophy:***
+
+**How many companies?**
+
+*There is no golden rule I follow when it comes to the number of companies, I hold at one point in time. I try to stick somewhere between 15-25, because it is easier for me to really keep up with these companies from top to bottom at this amount.*
+
+**Ideal market cap?**
+
+*Less than 25 Billion is where I would like to be for each holding. Typically, I focus on companies in the single-digit billions, but if a company continues to grow at a high rate, I stay in my position until the revenue growth declines by a reasonable amount.*
+
+**What type of companies?**
+
+C*loud based subscription modeled companies. This means that the company is usually a SaaS one. Software as a Service (SaaS). They offer small, medium, large, and enterprise customers certain services on a subscription model. The stickier the service the better. If the type of service is one that becomes hard to live without, the company can sell additional add-ons and improvements to the company. The subscriptions are usually done annual, so it is easy to see revenue floor of the companies. So, the growth would be accelerated by the additional new customers that are brought in.*
+
+*I also do not mind e-commerce companies (Shopify, Etsy, Pinterest, etc.) and sometimes a bio tech company here and there.*
+
+How long do I hold a company?
+
+*It is quite flexible, but If I see two consecutive quarters of growth declined earnings… I put my money to work in a better vehicle.*
+
+**Building the portfolio:** 
+
+*I originally started with 10 companies and made them all 10% each of my portfolio. I felt that it was straight forward and that the cream would rise to the top and make up a larger percentage of my holdings. My beginning balance was no great amount, either.*   
+ *The companies were:*
+
+1. The Trade Desk
+
+2. Etsy
+
+3. Datadog
+
+4. Fastly
+
+5. Alteryx
+
+6. Crowdstrike
+
+7. Roku
+
+8. Appian
+
+9. Elastic
+
+10. Zoom
+
+*I still own all of these companies, aside from Alteryx. I put very little more into any of these companies. I want to make the company do the hard work. I want their performance to grow my account… not more of my own money. I only add more money to accounts when I see a large collapse of share price for no fault of the company (Covid).*
+
+**New companies?**
+
+*For new companies, I limit the size of the position to 1-3% of my portfolio’s current size. Overtime they will grow and be worth more than that percentage of my portfolio and if not, the risk was minimized, and I move on. I do not focus on share price because these are typically small cap companies with large runways and just because something is 900 dollars a share, does not mean it cannot hit 3000 dollars a share.*
+
+**How year 1 ended?** 
+
+[https://imgur.com/gallery/KVNCZZV](https://imgur.com/gallery/KVNCZZV)
+
+Above is my portfolio from my first year with this strategy. 
+
+I am currently holding **17** companies with just have added MGNI on the 31st of December. 
+
+I will probably add 3 more companies and sit at 20 for this year. 
+
+A few companies I am looking at?  FUBOtv Teledoc Lemonade Angi Homeservices and Nautilus_END_OF_POST_PYSTOCK_ What is the riskiest stock in your 2021 portfolio? Most people are entering 2021 with a huge sense of optimism following the release of several vaccines, as well as the new Democratic President.
+
+However, for investors, there are still a lot of risks left up in the air from 2020. Valuations continue to be sky high without any meaningful pullback, which was a large concern even in 2019. Sectors such as Clean Energy have seen huge run ups in anticipation of a friendlier government, but it remains to be seen how easy it will be for those companies to deliver those expectations. Genomics has seen a recent surge in popularity, however the timeframe for widespread adoption is still way off into the future. This is to name but a few things to be wary of at this time.
+
+So with an exciting new year for investing just beginning, /r/stocks, which stock do you consider to be your most high risk / high reward play going into 2021 and why?_END_OF_POST_PYSTOCK_ Aventures in Investing: In and out of $BYND and realizing the dangers of YouTube hype Finance blog adventures in investing: So I had gotten all hyped related to Financial Education Jeremy’s 10x video on Beyond Meat, $BYND. I thought Beyond was an exciting company, and an interesting stock, and I had just seen the stock price drop after they reported Q3 earnings. But I hadn’t decided to buy the stock, and it looked like FEJ had and he got in at about the bottom after earnings. “He’s a genius!” I thought… So I liked his bull thesis, I added it to my watchlist, and I watched and watched and watched… and finally on a day it pulled back like 5% I got in! I was going to start building my position. And then it kept dropping. And on another day it finally got back to the price that FEJ had gotten it, so I doubled down! But then I started getting nervous. Why had they missed earnings? What reasons did they give? FEJ didn’t even talk about it in his video. Well I checked out their last conference call, every publicly traded company gives out a summary of their finances every quarter and holds a question and answer session on a call. 
+
+And then I found out. They missed huge. And the reasons they gave… because of “freezer stuffing” (I’m paraphrasing), during the grocery panic in Q2 related to Covid… customers didn’t buy as much in Q3, because they had already bought so much and they were storing it. Okay… Oh, and the reason that they didn’t “participate” in takeout was because restaurants had slimmed down their menus and didn’t include their products. Okay… Oh and they declined to issue guidance for Q4. So on the call you’ll see every time an analyst asks if they see their situation improving they would just reply “we are not issuing guidance at this time.” 
+
+And then finally, there is this whole thing going on w/ McDonald’s, where they’re debuting the “McPlant.” Which was maybe a collaboration with Beyond, but they’re not publicly saying it… and Beyond wants their brand represented on the menu but McDonalds won’t even confirm that they are partnering with them, only that they had helped them test products at some point blah blah blah. 
+
+So after learning all of this I thought it was pretty disingenuous of FEJ to not disclose these details in his video. To me it means that uncertainty and risk in Beyond stock is HIGH AF rn. Fortune favors the brave, so if you’re entering here and they turn things around, I think you could build a kick-ass position. But you need a reason to be faithful. Why do you think they’re going to turn it around in the near term? Because if they miss again, that stock price is going to fall again hard. Not to mention, you look at their financials and they are not currently profitable, and the stock is already being given a generous price multiple, etc. 
+
+And finally, I was low on cash. And $BYND looks thirsty. IMO if you’re going to enter a risky stock, you gotta be ready to average down. You gotta have water. If you got no water then what you really want in the stock market is a cactus 🌵. So I’m out of $BYND stock for now. I also go out of $ABNB for similar reasons on the same day. Both interesting stocks and interesting companies and I hope to get back in at a later date. 
+
+Happy new year!!! 
+
+https://www.fool.com/earnings/call-transcripts/2020/11/10/beyond-meat-inc-bynd-q3-2020-earnings-call-transcr/_END_OF_POST_PYSTOCK_ Helpppp I’m trying to download sp500 stock returns. Hi, so I have a bet with a friend, but in order to be right, I have to download sp500 daily stock returns WITH ticker symbols. So their daily stock returns, but for each listed company in the sp500. I tried the WRDS Wharton thing but no luck. 
+
+Can anyone help guide me to download this?_END_OF_POST_PYSTOCK_ What explains the dip in October 2020? I’m just getting into stocks, spending a lot of time studying what I want before throwing money at it. One thing I noticed is a lot of stocks had a dip in October. Nothing like the March dip, but significant enough. Was it due to the US election or something else?_END_OF_POST_PYSTOCK_ Need advice on rebalancing my portfolio Going into 2021, I was thinking of rebalancing my portfolio:
+
+Thoughts on how it looks:
+
+VTI 25% 
+
+ARKW 7.5% 
+
+QQQJ 7.5% 9 (doesn't overlap ARKW)
+
+ARKQ 5% 
+
+ARKG 5% 
+
+ICLN 10%
+
+
+Apple, Microsoft - 20%
+
+
+Cloudflare, Corsair & Some High Risk Plays - 20%
+
+
+As for my risk tolerance, I'm 26 and I'll be fine even if I lose all the money I've invested right now (around 10k) but obviously I don't want to. 
+
+My time-horizon is 5-10 years._END_OF_POST_PYSTOCK_ ARKK and ARKG for Roth IRA Trying to see any downside of dedicating part of my Roth to ARKK and ARKG. It seems to me like they are pretty future-proof and any short term volatility will be dwarfed by long-term capital gains. The funds invest in innovation, and the world will inevitably innovate over the next several decades. Thoughts?_END_OF_POST_PYSTOCK_ Convince me not to buy PLTR Besides it having a high valuation, what other reasons would you give for not buying PLTR? They have contracts with government agencies already and have plenty of room for growth by tapping into their addressable market. The company is founded by proven winners. Look at PayPal and Facebook. That’s who’s behind this company. Who would their main competition be? Is there any reason they might not become profitable in the future?_END_OF_POST_PYSTOCK_ Scan for historical data I want to use thinkorswims thinkback to continually work on my trading and perfect my strategy. What I want to do is go through the same scan process as I would for live trading to find stocks that I may enter a trade into. However I can't seem to find a scan that shows historical data, say for example from 2 weeks ago. Does anyone know if there is a scan you can use that allows you to look in a time frame?_END_OF_POST_PYSTOCK_

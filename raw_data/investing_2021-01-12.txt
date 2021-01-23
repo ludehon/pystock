@@ -1,0 +1,588 @@
+ How to value companies Hi so I have been investing for a while I was wondering how do you guys value a company 
+
+Like how would you value a growth stock
+
+How would you value a value stock
+
+I have tried lots of different methods then Ben Graham method is a good one but that's only for value stocks it would not work on growth stock like your Amazon's Facebooks and so on.... 
+
+
+
+Valuations have been gone up so it's good to know how you would value a company
+
+Do you guys have some sort of graphs or a calculator or what most people have is a spread sheet I have seen lots of YouTubers with their own methods
+
+Iam mostly looking for a way to value growth stocks does anyone have a Google sheets you could show me_END_OF_POST_PYSTOCK_ Why diversify more than the S&P500? Does a retirement portfolio need even more global exposure than the S&P500 provides? I read that in 2018, 42% of the revenues from companies in the S&P500 came from foreign countries. It seems that these US companies have a fair amount of global exposure already. What are your thoughts?
+
+Edit: Thank you to all those who responded! This was thought provoking and I appreciate all of your perspectives!_END_OF_POST_PYSTOCK_ BCLI - cut my losses? I bought BCLI at around $10 prior to a drug announcement for their ALS treatment study results.  I found out about the stock from a post on here.  The treatment was not statistically better than placebo and the stock dropped to $5 and has stayed there.  I am thinking if I should hold or sell and put the money somewhere else.  Anyone else holding this?_END_OF_POST_PYSTOCK_ Lemonade Insurance: A Full Blown Bubble? Let me start by saying that I believe in / understand thematic investing... I work in Venture Capital and am doing well at it.
+
+Lemonade caught my attention because I summarized the S1 in details at IPO, for my personal learning. The S1 specifically states that because of reinsurance - gross margin for the business is stuck closely around 20% (reinsurance basically provides a floor but also caps potential profit if loss ratios come down).
+
+Now - take a quick look at Bloomberg consensus. The company trades at 53x EV / 2022E Consensus Revenue as of tonight (yes, 53x FORWARD revenue)
+
+If we put a 20% gross margin on this revenue (because of reinsurance there is virtually no chance the company significantly exceeds that!) the company basically trades at 250x EV / 2022 Gross Profit.
+
+TWO HUNDRED AND FIFTY TIMES 2022E (normalised) GROSS PROFIT.
+
+I am speechless that the Motley Fool can recommend such a stock to its customers. This is beyond a bubble, in my view of course - but no one will change my mind here. My personal opinion is that this is bound to end badly in the next 2y (bar acquisition scenario, but I don’t see who would fork out 100x 2020 revenue for that business). Can anyone give me a valid reason not to go short, beyond the market’s current state?_END_OF_POST_PYSTOCK_ Investing in privately held stocks? Hi Guys - I'm 45 and divorced.  My income is more constrained these days due to the fact that I have kids.  So, I'm looking for ways to maximize the amount of return I'm getting for the amount of risk I'm taking.  
+
+When do you guys think its okay to start investing in privately held stocks?_END_OF_POST_PYSTOCK_ Whole life insurance vs bonds/treasuries Some background first: I [mid-30s] already max out my various retirement accounts, so the rest of my money goes into taxable accounts. I have a whole life insurance policy that my parents started for me decades ago. I'm debating between having NYL buy up the policy from my current provider, since they can give me a *much* better policy with an explicit end date on premiums and decent cash value growth, versus putting those premiums towards my portfolio (90-10 stock-bond).
+
+Now, let's ignore the stock portion of my portfolio (which I know will likely have better long term returns), and compare it to the bond portion instead, since the (lower) yields and risk profiles are similar (correct me if I'm wrong there). We get the following when compared to other low risk vehicles:
+
+Fund | 20 Year Annualized Return | 30 Year Annualized RoR | Guaranteed
+---|---|----|----
+BND | 4.55% | 5.65% | no, historical
+NYL (Cash Value) | 1.68% (3.25%) | 2.17% (5.84%) | yes (non-guaranteed historical in parentheses)
+NYL (Death Benefit) | 6.93% (8.47%) | 4.57% (6.23%) | yes (non-guaranteed historical)
+Series I Bond | 5.6% | ?? | no, but ~2% inflation guaranteed
+Series EE Bond | 3.53% (3.82%) | 4.86% | 2x guaranteed at 20 years (non-guaranteed historical)
+Treasuries | 1.46% | 1.66% | no (?)
+
+The guaranteed cash value is based on the reserves that NYL supposedly keeps to pay out policies in case of total bankruptcy, while the non-guaranteed rates are based on their historical dividend payout rates going back to the mid (early?) 1900s.
+
+Going by these returns, allocating a portion of bond portfolio towards whole life doesn't actually seem like that bad an idea, does it? Guaranteed rates are better than current treasuries yields, and the non-guaranteed is comparable to the non-guaranteed returns of BND, but admittedly, not as good as the guaranteed return of the series EE bond (if we're just talking cash value)_END_OF_POST_PYSTOCK_ Realized Losses I own 60 shares of Company Z with long term unrealized capital loss of $15,000. I recently bought and sold 200 shares of Company Z for a short term gain of $1200. I don't want to take the loss this year and was wondering how the accounting would work or whether I have any options. I still own the original shares. This all took place in the same account._END_OF_POST_PYSTOCK_ Holding a leap vs rolling spreads Would someone who is good at math enlighten me as to which would generate more profit between holding a leap vs rolling spreads 12 times, With a stock like ICLN moves slowly buying monthly spreads would make you good returns while negating theta. Basically wondering if rolling spreads monthly would generate more profit than just holding a leap._END_OF_POST_PYSTOCK_ Why aren't commodities surging? I'll be brief, but I see commodities as a very undervalued asset class for a few reasons...
+
+&#x200B;
+
+It seems like President-elect Biden has no plans on slowing spending once he takes office. Additional stimulus, student debt relief, combined with continued spending by the FED is leading me to think that inflation rates are going to skyrocket. We've seen bitcoin surge, and even Treasury Bond yields are beginning to rise. The FED has said they're going to keep rock bottom rates for the foreseeable future, but I sense that is going to change given the economy's ability to rebound so quickly.
+
+&#x200B;
+
+I understand that stocks seem to be the only play right now given all other routes don't provide enough return to even warrant the thought of looking elsewhere, but am I wrong to assume that inflation is going to catch up, and catch up hard causing commodity price increases...
+
+&#x200B;
+
+Please share all thoughts, thank you!_END_OF_POST_PYSTOCK_ What's the situation like for those that invested in SIGL in the last few days? I only do very basic investing, and of larger companies, so I'm not at all familiar with the difficulties or opportunities related to investing in a smaller company like that.
+
+Did people actually make money by buying in early?
+
+Were they able to sell in the $20-$40 range (now $10-$20)?
+
+Why is the current price still so high?
+
+What effect, if any, might this be having on the company?_END_OF_POST_PYSTOCK_ Attitude towards BABA compared to NIO I have been noticing a strange attitude while reading comments on BABA that China is bad, everything will be nationalized, its not really BABA you are owning etc (I would say about half of the comments) compared to NIO, that it is god, must buy, keep forever, have my babies etc. 
+
+My question: isnt NIO in the same boat as BABA, what is the difference there, could China just nationalize NIO as easily? Or am i missing something._END_OF_POST_PYSTOCK_ Any place I could get all the data on the history of Ark Invests holdings? This may not be the right place to ask this question, so please refer me if it isn't and I'll delete this. I'm looking to get the entire history of the Ark ETFs holdings and how they've changed in their positions each day since inception. I want to map out their positions, how they've changed, which positions they've increased/decreased over the years, etc. This is just a little personal project of mine to start working with large data sets, but I can't seem to find the entire data, just the end of the day PDFs they post. If anyone could let me know if this data is even out there and any other information that'd be much appreciated!_END_OF_POST_PYSTOCK_ Which commodity sector/ company would you use for inflation hedging  Given the rampant QE seen around the world and the stagnant production figures, I'm expecting inflation to increase dramatically over the next few years. I've been thinking about hedging it via small positions in commodities/ commodity producing companies. Currently I have several positions in MLP companies (ENB,PAGP,PBA) since I expect that price of oil would increase given the recovery and the inflation mentioned earlier .What would be your go to sector/company for such a strategy?_END_OF_POST_PYSTOCK_ BEAM Therapeutics and why you should care about Base Editing **Today David R. Liu inventor and founder of BEAM posted the following on Twitter:**
+
+*Durable one-time base editing in primates to inactivate PCKs9 without double-strand DNA breaks (DSBs) lowers LDL cholesterol and has become Verve Therapeutics’ lead program, a partnership with BeamTX.*
+
+[https://www.reddit.com/r/BeamTherapeutics/comments/kvvzi8/interesting/](https://www.reddit.com/r/BeamTherapeutics/comments/kvvzi8/interesting/)
+
+&#x200B;
+
+**First what's HDL:**
+
+[*LDL cholesterol*](https://www.webmd.com/heart-disease/ldl-cholesterol-the-bad-cholesterol) *is often called the “bad” cholesterol because it collects in the walls of your blood vessels, raising your chances of health problems like a* [*heart attack*](https://www.webmd.com/heart-disease/guide/heart-disease-heart-attacks) *or* [*stroke*](https://www.webmd.com/stroke/default.htm)*.*
+
+*But* [*cholesterol*](https://www.webmd.com/cholesterol-management/default.htm) *isn't all dangerous. Your body needs it to protect its nerves and make healthy cells and hormones.*
+
+*Some cholesterol comes from the food you eat, and your* [*liver*](https://www.webmd.com/digestive-disorders/picture-of-the-liver) *makes more. It won’t dissolve in* [*blood*](https://www.webmd.com/heart/anatomy-picture-of-blood)*, so proteins carry it where it needs to go. These carriers are called lipoproteins.*
+
+*LDL is a tiny blob made up of an outer rim of lipoprotein with a cholesterol center. Its full name is "low-density lipoprotein."*
+
+[https://www.webmd.com/heart-disease/ldl-cholesterol-the-bad-cholesterol#1](https://www.webmd.com/heart-disease/ldl-cholesterol-the-bad-cholesterol#1)
+
+So you might have guessed this is a pretty big deal, finding a cure or treatment for something that so many people of the developed world suffer from is '**interesting'**.
+
+&#x200B;
+
+**How did they do it?**
+
+They use something that is called Base Editing which is a newer genome **editing** approach that uses components from CRISPR systems together with other enzymes to directly install point mutations into cellular DNA or RNA without making double-stranded DNA breaks (DSBs).
+
+**Read:** [https://www.vervetx.com/approach/](https://www.vervetx.com/approach/)
+
+**Video:** [https://www.youtube.com/watch?v=gmjYdSuTSAE&ab\_channel=CRISPykReme](https://www.youtube.com/watch?v=gmjYdSuTSAE&ab_channel=CRISPykReme)
+
+Now Verve Therapeutics is a PRIVATE company, however BEAM is not:
+
+*Base editing, which Verve has exclusively licensed from Beam Therapeutics for certain cardiovascular targets, is a gene editing technology developed to enable precise and permanent rewriting of a single DNA letter in the genome.*
+
+[https://www.vervetx.com/press-releases/verve-therapeutics-announces-data-demonstrating-durable-ldl-cholesterol-lowering-after-a-one-time-gene-editing-treatment-in-non-human-primates/](https://www.vervetx.com/press-releases/verve-therapeutics-announces-data-demonstrating-durable-ldl-cholesterol-lowering-after-a-one-time-gene-editing-treatment-in-non-human-primates/)
+
+&#x200B;
+
+**More Base Editing news this week:**
+
+In Vivo Base Editing **Corrects Rare Retinal Disease and Restores Sight** in Animal Model:
+
+[https://crisprmedicinenews.com/news/in-vivo-base-editing-corrects-rare-retinal-disease-and-restores-sight-in-animal-model/](https://crisprmedicinenews.com/news/in-vivo-base-editing-corrects-rare-retinal-disease-and-restores-sight-in-animal-model/)
+
+In VIVO base editing rescues **Hutchinson-Gilford progreria syndrom** in mice
+
+[https://www.nature.com/articles/s41586-020-03086-7](https://www.nature.com/articles/s41586-020-03086-7)
+
+&#x200B;
+
+So in 7 days we had news about possible cures (all animal models) for diseases that until now were in the '*incurable*' spectrum. From Progreria, child blindness LCA10 to reduced risk for heart failure. I hope people wake up to the fact that this technology (CRISPR) is a **platform** with which we can tackle diseases on a scale never imagined before and what the implications of this are._END_OF_POST_PYSTOCK_ Holding 60% VGIT, 20% VGSH, 20% VTI. Can I replace any of these to achieve greater overall returns without increasing my maximum drawdown of 1.91%? [Here's a link to the Portfolio Visualizer.](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=3&absoluteDeviation=5.0&relativeDeviation=25.0&showYield=true&reinvestDividends=true&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=VGIT&allocation1_1=60&symbol2=VGSH&allocation2_1=20&symbol3=VTI&allocation3_1=20)
+
+I've been messing with and modifying this like crazy, mainly swapping VTI with other stuff like VIG, DGRO, etc. but I just can't find any combination that outdoes this one. Increasing CAGR without increasing max drawdown- across at least the same time period. Possible?_END_OF_POST_PYSTOCK_ Need some guidance on Lease forecasting in a 3 Statement Model I am assembling a 3 Statement model for MGM Resorts, however I’m having a tough moment while dealing with Leases. 10K provided me some useful information such as Lease Maturities, Discount Rates for Operating and Finance Assets/Liabilities and the corresponding Lease term for both types.
+
+I know currently that under FASB Topic 842 a company is required to report in their BS a ROU Assets and a Lease Liability with the same value.
+
+Therefore, I need some guidance on how can I manipulate the quantities in order to get an accurate forecast
+
+Thanks in advance!_END_OF_POST_PYSTOCK_ Airlines are an interesting covid recovery play Airlines, as we know, was one of the most affected sectors from Covid. But hey at least we have a vaccine available right? 
+
+Well it'll take a while for most of us to receive one, probably looking at March for most vulnerable to be in the process of getting one. Well that's actually okay for this play.
+
+What other big event is going to happen this year apart from getting a vaccine? A pretty free summer for people to jet off to destinations they have always wanted to go to but never thought about it. Being under lockdown has meant a lot of people have been dreaming about going somewhere they've always wanted (personally it's Egypt) and they will make sure they book a holiday as soon as they know they're getting a vaccine right? 
+
+Will money matter? Well not really since this will be many people's big holiday and they will want to splash the cash. Would you care if an airline ticket was an extra $100 dollars if it meant you could go and enjoy the beach somewhere instead of being cooped up in your home?
+
+I'm not going to bore you with masses of ratios because you know airlines are mostly way off their 52 week highs and therefore have a lot of potential to make up.
+
+Yes I know they won't be recovering to pre pandemic levels but they will have such a strong recovery once the green light has been given. 
+
+Definitely a long term play, at least 6 months maybe longer, but can be a really good way to reap those untapped covid recovery returns.
+
+TLDR: people wanting holidays after covid will make airlines soar_END_OF_POST_PYSTOCK_ Intelligent Investor Question - Please Explain Assume that Investor A buys some open-end shares at 109% of asset value, and Investor B buys closed-end shares at 85% thereof, plus 1 1⁄2% commission. Both sets of shares earn and pay 30% of this asset value in, say, four years, and end up with the same value as at the beginning. Investor A redeems his shares at 100% of value, losing the 9% premium he paid. His overall return for the period is 30% less 9%, or 21% on asset value. This, in turn, is 19% on his investment. How much must Investor B realize on his closed-end shares to obtain the same return on his investment as Investor A? The answer is 73%, or a discount of 27% from asset value. In other words, the closed-end man could suffer a widening of 12 points in the market discount (about double) before his return would get down to that of the open-end investor.
+
+
+How is the answer 73%. Thank you_END_OF_POST_PYSTOCK_ Anyone else seen these kinds of AI/Bot-driven website reports on stocks/companies of interest? [MicroVision, Inc. (MVIS) investors to reap big returns again](https://marketingsentinel.com/2021/01/11/microvision-inc-mvis-investors-to-reap-big-returns-again/)
+
+[MicroVision Inc. (MVIS): Skating on Thin Ice? We Know the Answer](https://newsheater.com/2021/01/microvision-inc-mvis-skating-on-thin-ice-we-know-the-answer/)
+
+I'm curious if anyone else has run across these sites (or sites like them/affiliated with them). These were picked up on a google alert for Microvision ($MVIS) but I'm certain if you plug in any ticker symbol into a google alert you'll find similar results.  Both articles were published on the same day. I went back and looked through past alerts and found an alarming amount of similar, near-duplicate results, all written in a very similar format  appearing on pseudo-professional investor newsletter sites. 
+
+Keep in mind, there's nothing in the articles that's inaccurate. Quite the opposite actually. everything in the article is 100% factual.  It's the way the information is presented the same exact way every single time. It doesn't take a wizard to see that they're either using a template or some other means of pulling in current and recent historical data that's then extrapolated to formulate one of a hand-full of conclusions about said company. 
+
+While I won't completely discount the recommendations the "writers" are making, I'm simply putting this out there for those who may have not been exposed to these before and mistakenly rely too heavily on the voracity of the information and recommendations they receive.  If i had to guess, it seems like whomever is publishing these is pushing out two versions - one more positive and the other more negative, hoping to capitalize on readers' confirmation bias and be viewed as a credible source. Alternatively, if these are written by actual people, then I have some serious concerns about their ability to communicate and provide strong analysis.  
+
+Whatever the case, it feel skeevy._END_OF_POST_PYSTOCK_ Anyone read Peter Lynch's "One Up on Wall Street"? How did you go about applying his principles and ideas? I just finished reading *One Up on Wall Street* by Peter Lynch, and was wondering how people may have gone about applying the ideas and principles he suggests. 
+
+For example, he mentions certain things to look for in a balance sheet. I've never read a balance sheet before, and I'm not sure how to find those on a balance sheet; all the different sites seem to have different variables named different things that aren't quite what he mentions._END_OF_POST_PYSTOCK_ Site to measure an equity's risk (Alpha, beta, sharp ratio, etc) vs different indexes Hello,
+
+I often use [Morningstar.com](https://Morningstar.com) to research different equities and even bond etfs/funds.  When I do so, they have 3-yr, 5yr- and 10yr data that gives me the assets alpha, beta, r2, and sharp ratio against what ever index the asset generally is supposed to be comparable to.
+
+For instance, for SPY the calculation benchmark they use to calculate the A, B, r2, and sharp ratio is the S&P 500.  And it's r2 is 100% which makes sense. 
+
+But does anyone know of a website or tool I can use to compare SPY against something like the Russell 2000 index or something else?  
+
+Is there a way to look at something like the Vanguard Intermediate Bond etf (BIV) against the S&P 500?  
+
+I'm looking for an easy website or something like that. 
+
+Thanks ahead of time everyone!_END_OF_POST_PYSTOCK_ When to sell MRNA? Hi folks!
+
+I bought MRNA @ 22 back in March. I've increased my position quite a bit and I'd like to get your opinion on:
+
+\- What are the next milestones for the company in terms of the COVID Vaccine?
+
+\- What would be a somewhat ideal point to close position and maximize these up and coming opportunities?
+
+\- Would you personally sell, buy or hold for now? Most analysis I read mention you should be buying/holding shares for now.
+
+I know there is no right/wrong answer for this one, but would just like to see what you folks are thinking._END_OF_POST_PYSTOCK_ Place to discuss speculations Hello there,
+I have a few speculative risky trading ideas which I would like to discuss seriously. Sadly r/wallstreetbets does not really seem to be the right place to ask, but neither does r/investing.
+
+Is there some subreddit or forum online to  discuss such ideas?
+
+Greets!_END_OF_POST_PYSTOCK_ Crypto stability As far as crypto goes it is highly volatile. Are there any etf’s or companies invested heavily in crypto that are worth a look or a buy? I’m looking for something more stable than just the standard way of buying a currency. 
+
+I found this(https://grayscale.co/bitcoin-trust/) one but the swings are so dramatic that it doesn’t make sense stability wise._END_OF_POST_PYSTOCK_ Scam bitcoin mining stock BTBT set to implode $BTBTSAN FRANCISCO, Jan. 11, 2021 /PRNewswire/ -- Hagens Berman notifies investors in Bit Digital, Inc. (NASDAQ:BTBT) of the firm's investigation into possible securities law violations. Certain investors with losses may have valuable claims and are encouraged to submit their losses now. The firm also encourages persons who may be able to assist the investigation to contact the firm. hbsslaw.com/practices/inves......
+
+and the report is here
+
+https://www.jcapitalresearch.com/uploads/2/0/0/3/20032477/2021_01_11_btbt.pdf
+
+Originally found here: https://old.reddit.com/r/wallstreetbets/comments/kvqdkg/if_anyone_fancies_a_decent_short_btbt/
+
+Disclosure: I am shorting the shit out of this thing._END_OF_POST_PYSTOCK_ PTON value is out of control With sky high valuations the norm across many tech stocks right now, the one I see as the most ready to pop is PTON.
+
+ \- Expensive products targeted at a niche market
+
+ \- Single exercise products NEVER maintain long term growth. Extremely cyclical fads
+
+ \- The exercise bike itself is not that innovative even considering the tech upgrades of this model
+
+ \- There are already a ton of knock offs including some that are compatible with the PTON app
+
+ \- Already huge logistics problems and growing customer service complaints
+
+ \- They are valued at an astonishing $45b currently when many people thought their IPO valuation of around $8b was already too high
+
+ Agree or disagree? To me this stock is Fitbit and GoPro rolled into one. Count me OUT._END_OF_POST_PYSTOCK_ Ways to play India's upcoming housing market boom? Saw this excerpt in today's Economic Times which made me think of how to play the India housing theme. INDF and INDA are two ETFs with mortgage company HDFC. Any other ways to invest for investors outside India?
+
+&#x200B;
+
+The chief anchor of demand in India incrementally is housing. Given the higher level of affordability, very low levels of real interest rates and interest rates, access to mortgage loans and subsidised loans for affordable housing, it is very attractive for people to go and buy houses. Every time you buy a house, there are a million things you do; you buy your curtains and furniture and 20 other things.
+
+Our real estate prices have actually gone nowhere and the income levels have risen. So the affordability is very, very high. It is not just in charts but in reality if you go and buy a house today, it is very high especially in the tier II, tier III towns._END_OF_POST_PYSTOCK_ Should I buy a stock that has a high borrow rate? I’m wondering if there is a principal to buy or not to buy a stock that has a 15% borrow rate. Some background, I’m pretty new to investing and I was doing a lot of DD on TRXC last week and I think that it’s going to be a good long term hold. Recently they got a LOT of traction and increased 50%. Now it shows that they have a 13% borrow rate I’m wondering if I should wait until the shorters leave or just get in now. 
+
+I honestly don’t know if I’m making sense or not lol, any help is appreciated._END_OF_POST_PYSTOCK_ I got my start on Upwork, but I've made more buying their actual stock (UPWK) than I have on the platform I'd like your thoughts on Upwork's (UPWK) long-term potential. 
+
+I started my freelance career on Upwork because a family member suggested it. I found a few of my biggest clients on the site. I think Upwork has the potential to kill it in the WFH sector in the coming years, simply because they have been so focused on making a platform for large companies to come and find work. I bought the company stock earlier in 2020 (well, I bought at the IPO, sold, and bought again).
+
+The stock has killed it since then, and I've made more on the investment than I have on the platform (still a top-rated freelancer even though I barely use it).
+
+HOWEVER, I think Upwork's fatal flaw is their inability to keep people from moving off-platform for payments. There is absolutely no way for the company to know if a client or the freelancer move off-site after an initial contract is completed. From what I understand, all communication needs to stay on-site until a contract is started now. Okay, but then you can move off-platform for communication. Then there's the inevitable discussion of "Hey, do you have PayPal?" or "Let's move you onto our company bill-pay system." All that has to be done is end the contract as a successful completion on Upwork and they're now separated and working off-site.
+
+This happens ALL the time, and I can see why. Even PayPal fees are less than UW's percentage, even if it moves into the 10% and 5% range.
+
+Of course, there are the lowest bidders driving down everyone's rates on the site. There are also scammers. I found someone on there using my entire profile bio, word-for-word (reported it, taken down).
+
+Even with their flaws, Upwork stock is surging and has been upgraded by most analysts. Imagine how awesome they'd be if they fixed the issues._END_OF_POST_PYSTOCK_ Fake meat, veganism ETFs? Have only looked into VEGN whose top 5 holdings are: 
+
+
+Apple Inc.	AAPL	5.31%
+
+Facebook Inc. Cl A	FB	4.43%
+
+NVIDIA Corp.	NVDA	4.09%
+
+Microsoft Corp.	MSFT	4.07%
+
+https://www.marketwatch.com/investing/fund/vegn/holdings?mod=mw_quote_tab
+
+**Are there any that cover the ones actually leading the movement?**
+
+Beyond Meat (NASDAQ:BYND)
+
+Tyson Foods (NYSE:TSN)
+
+Kellogg (NYSE:K)
+
+Forum Mergr II (NASDAQ:FMCI)
+
+ConAgra Brands (NYSE:CAG)
+
+Maple Leaf Foods (OTCMKTS:MLFNF)
+
+Impossible Foods
+
+https://investorplace.com/2020/07/7-stocks-to-buy-to-ride-the-vegan-wave/_END_OF_POST_PYSTOCK_ Are there any AI Stocks or ETFs that you could recommend to a beginner? I want to start investing and believe that it would be smart to invest some of my money into AI. I am from Europe so maybe I will have some problems investing into the US market. It would be great if you knew some stocks or ETFs I could easily invest from my current location (Germany). Thanks_END_OF_POST_PYSTOCK_ Question: If the dollar falls due to inflation, would American depositary receipts (ADR's) of a foreign country who would stand to gain a stronger currency be a good choice to invest in? - what could be the risks about this?  As the titel suggest I am curious to find out what would happen to ADR's listed on an American exchange if the dollar value decreases? specifically ADR's from a country that wouldn't get hurt much from a dollar value decrease and possibly even become a stronger currency in counterpart to a decreasing dollar value. (let's say NIO or TEVA for example)  
+Would there be any risks as to hold such ADR's on an American stock exchange if, let's say a hyperinflation took place in America?_END_OF_POST_PYSTOCK_ Facebook is a major buy!!! Facebook is not having any luck  the stock price tanked in 2018 and now it's tanking now personally I still think it's a great buy it's a cash cow and is now going in to e-commerce slowly eswell tbh there is no social media that is as good as all the Facebook family apps if you guys know any apps that are as good as the design wise and functional with no glitches just comment them down below 
+
+The closest ones to Facebook imo is Reddit or Snapchat I can't think of any better
+
+With the messaging apps WhatsApp and messenger are still strong even with the increase popularity of telegram and signal
+
+Increase competition is also a good thing for Facebook as they will help with anti trust cases and will make Facebook to compete harder
+
+Their balance sheet is strong eswell 
+
+Iam going to add to Facebook there is no point of timing the bottom just buy slowly like how I will be doing_END_OF_POST_PYSTOCK_ Canadian looking for help setting up ETF portfolio Hey everyone,
+
+as the title suggests, yes - I am new to investing. I have, nevertheless, been reading a lot in the past month, familiarizing myself with the jargon. 
+
+I know my investment objectives and know of some long-term growth ETFs to invest in, but I'm running into a bit of confusing when it comes to equity allocation.
+
+Can someone help me out to get me started? I would greatly appreciate it!_END_OF_POST_PYSTOCK_ How should investors that pick individual stocks compare returns? In terms of investment philosophy, consider myself a value investor and disciple of Ben Graham. Over the past few years, I have beaten the S&P 500 returns on a yearly basis, with my CAGR being 24.64% compared to SPY's 15.06% for the period I have been an investor. In some years, however, comparing when I made stock purchases to the index at the time I have underperformed. For example, in 2020, I "beat the market" because I made large purchases in March and April when the market was low due to covid, but the stocks I purchased gained \~50% from the time of purchase, lagging the S&P's \~70% rebound. 
+
+Do you believe it is more prudent to compare returns at the time of purchase rather than on an annualized basis, and do you believe comparing at time of purchase helps in accounting for luck when it comes to indexing vs buying individual shares?
+
+The reason I ask these questions is that I would have better returns by buying an index in some of those years where I made purchases because I saw value. Even though I waited until I saw value in certain companies and not in the overall index, the market believed there was more value in the companies I did not pick as the market returned more from that point on._END_OF_POST_PYSTOCK_ is investing in IPOs always a losing prospect? With a large of amount of tech IPOs over the last few months and with the Coinbase IPO coming up (I'm personally interested in it, same with the robinhood IPO). I have been looking for research on IPO theory and any academically supported trading strategies when I came across this article:
+
+"There always seems to be a relatively steady stream of IPOs ripe for investors to be taking advantage of possibly huge gains – or huge losses. IPOs are sometimes seen as attractive to investors because they can get in on nearly the ground floor of when a firm open’s its doors to the broader market. But the question is if this is generally a good thing for investors to do, invest in IPOs or don’t invest.
+
+What is an IPO?
+
+First, we should answer what an IPO stands for – it stands for initial public offering. An Initial Public Offering (IPO) refers to the process of offering shares of a private corporation to the public with a new stock issuing. Initial Public Offerings let firms raise capital from public investors. Generally, the change from private company into a public company lets private investors reap gains from their investment, these often include shares and option contracts for private investors. While, public investors get to purchase a small piece of the company.
+
+What’s the benefit of investing early?
+
+Well, the benefit of investing in an IPO for a successful company is big gains – for example if you had invested in $5,000 into Microsoft (MSFT) when it went public, you’d be looking at millions of dollars’ worth of gains – around 10.4 million. While obviously these massive gains are attractive for long term investors, the reality reflects a type of bias called survivorship bias. In fact, there’s a large body of research looking at IPOs and how profitable they are for investors. They attempt to answer just how profitable are such trades.
+
+Research paper one – Does it pay to invest in IPOs?
+
+Paper one is entitled “ Does it pay to invest in IPOs? Evidence from the Warsaw Stock Exchange ” which looks at IPOs on the Polish market between 2003 and 2011. They attempt to calculate IPO performance while taking into account transaction costs, alternative costs, and taxes. They analyzed this period because it was generally a bullish time period with one notable sharp correction in equities during 2007 and another short correction in 2011. At the height of the market in 2007 and 2011, there were more than 13.5 and 6.3 times the number of IPOs compared to 2003, respectively (The data from warsaw hints to another conclusion from other papers, that IPOs tend to happen near  market highs ). The total data set collected was 314 companies which conducted an IPO from 2003 – 2011.
+
+The statistics section of the paper analyzes the returns of the stock and looks at abnormal returns within said time period. On average anything with an average return of above zero means that the IPO outperformed the market for said time period. Generally, the evidence suggests that the best strategy is to buy the stock and then sell on the same day for the best returns. The longer one holds onto an IPO the worse the returns are. The remaining graphs generally support this finding as there are positively skewed with a positive kurtosis meaning most of the returns fall closer to the mean and are generally positive for the initial day return.  
+
+Research paper two – The persistence of IPO Mispricing
+
+Another paper that looks at IPOs and initial returns paired with long run performance is a paper called “The Persistence of IPO Mispricing and the Predictive Power of Flipping.” The paper looks at “hot” IPO markets and attempts to determine if underwriters have difficulty in valuing companies. The main results are, yes, underwriters do have difficulty valuing and often under value companies – primarily those IPOs which are harder to value due to high levels of uncertainty like in tech fields. This paper was of interest because they classified “Hot” IPOs as high variability and high returns and they also test a trading strategy for use with IPO stocks.
+
+The paper looked at IPOs between 1988 and 1995. The dataset consisted of around 1,232 initial public offerings. A fairly sizable sample size during one a very studied time period – the time leading up to the internet bubble. In the paper, the authors breakdown the sample size into four distinct groups in order to test the strategy “Cold” IPOs which are defined with a first day opening of zero or negative returns (around 26% of IPOs). While, the remaining ones are classified as “Cool”, “hot” and “Extra-hot”. “Cool” which accounts for 35% of the data has returns of zero to less than 10% on the first day of IPO. While “hot” are returns of 10% or greater but less than 60% returns and account for 36% of the sample. And finally, “Extra-Hot” are returns above 60%.
+
+The first notable finding here is that extra hot IPOs perform less well than cool and hot IPOs. They found that ‘cold’ IPOs fell on average 1.4% in the month following offering. Further, they found that the mean and median of one-month excess returns for cold and extra hot IPOs are negative. However, the return is positive for ‘cool’ and ‘hot’ IPOs and continues into the six month and one-year time frame – and these results were significant.
+
+"We find that the mean and median one-month excess return for cold and extra-hot IPOs is negative while the same return is positive for cool, and hot categories. The relationship of cold and extra-hot to cool and hot IPOs continues at the six-month and one-year time frames as well. In parametric as well as non parametric statistical tests,the differences between the four groups are significant at conventional levels"
+
+Another notable finding from this paper is the result that institutions often under price IPOs in order to profit for themselves by selling shares onto the market on the first day or over the course of the first few months:
+
+“That  is, ‘flippers’ quickly sell issues which perform worst in the future (often with the benefit of underwriter price support which minimizes their exposure to losses), and they curtail flipping activity in the best performing issues.    The evidence suggests either (1) that institutional investors have superior information relative to the underwriter in the market for IPOs (since they collectively appear to know and execute a profitable trading strategy on the first day), or (2)  that  underwriters  intentionally and  strategically  under-  and  over-price IPO ‘merchandise’ without immediate measurable penalties.”
+
+Summary:
+
+Both papers suggest something interesting, that trading IPOs can be a sound strategy if one gets lucky enough with them. However, one looked at buying into IPOs on the first day and holding them for various periods of time and found that, on average IPOs lost during the course of the next year. However, the paper on IPO mispricing found that if investors wait a day and classify the IPO into categories that first day returns can help predict future returns. Perhaps a sound strategy is to buy into them on the first day and then watch the returns, if they are a “cold” or “extra hot” IPO, you sell out of them the following trading day. But if they are not within those return ranges, investors hold onto them."
+
+https://www.informedfinancials.com/2021/01/10/initial-public-offerings-and-profitability-for-investors/
+
+TLDR:basically the strategy is to buy in on the first day and then depending upon how the first day results go, you either continue to hold it, or you sell out of it for a profit. I haven't traded IPOs before and was wondering if this is a good strategy for if they should be avoided entirely? I've also heard IPOs as "It's probably overpriced." I suppose it also depends on the financials of the company too._END_OF_POST_PYSTOCK_ YLCO to become RNRG, Renewable Energy Producers ETF Found this in the latest supplement to the prospectus. https://www.globalxetfs.com/prospectus-regulatory/?id=40
+
+Old methodology for comparison - https://www.globalxetfs.com/content/files/YLCO-IM.pdf
+
+YLCO is currently Global X YieldCo & Renewable Energy Income ETF. Its index methodology requires at least 2% dividend yield, relaxing this if necessary to reach 30 constituents.
+
+It will change to ticker RNRG, Global X Renewable Energy Producers ETF.
+
+"These changes will take effect on or about February 1, 2021".
+
+In the new index, the key requirement is:
+
+>the company generates at least 50% of its revenues from renewable energy production
+
+The old index appears to be rather wider: its areas included not just energy production but all of the following:
+
+>i.    YieldCos
+>
+>ii.   Renewable energy utilities
+>
+>iii.  Producers of renewable energy components
+>
+>iv.  Producers of biofuels
+>
+>v.   Smart grid companies facilitating renewable energy use
+>
+>vi.  Companies that install/operate/finance renewable energy systems
+>
+>• Only companies that derive greater than 50% of their revenues from the above business activities, or that generate greater than 50% of their energy production from renewable energy sources, are eligible for inclusion
+
+
+I hold YLCO and this seems like potentially a big shift. I couldn't find any list of constituents of the new index yet.
+
+YieldCos themselves seem to have mostly gone the way of the dodo bird, and the dividend requirement was maybe a temporary transition to what the ETF is becoming now.
+
+Thoughts/discussion?_END_OF_POST_PYSTOCK_ Difference between institutional and investor funds Hey guys,
+
+Bit of a noob UK investor so I hope you guys can help. I bought into the same index fund, however by mistake I bought into the institutional fund rather than the investor fund. Does anyone know the difference between these two? I can’t find any resources about the differences. 
+
+I hope someone can help!_END_OF_POST_PYSTOCK_ Silver, way more than just a precious metal and an incredible investment opportunity Something different as opposed to my usual uranium post, but in my opinion the opportunity that is presented in silver is worthy of a post on its own and as I mentioned before in my broad commodities post, it is my second favorite investment asset in the current market.
+
+So what makes silver so compelling, even after it already ran up a lot between the March lows  of roughly 12 dollars per ounce and the subsequent rise to above 28 dollars a few months later. Since that moment, silver corrected and has been trading mostly sideways, looking to be building a base for the next leg up. Today it is trading at around half what it was at the previous peak of 50 dollars and I believe we will reach that all time high again, or at the very least get close to it, perhaps even as soon as the end of Q2 2021. Having said that, I will not rule out a final dip before this run commences (more on that later) and this should in my opinion be viewed as an opportunity for those wanting to invest into the silver market.
+
+So why would silver run up more than it already has? Because of two reasons. The first reason has to do with the fact that silver is looked upon as a precious metal, a monetary metal even, that people purchase as a hedge against inflation. In that regard, it serves the same goal as purchasing gold would. With a Biden presidency now on the horizon, it has been clear that their immediate objective is to provide new stimulus. Joe Biden has publicly stated that he thinks 600 dollars per person is not nearly enough and that is should be upped to around 2000 dollars. The massive amount of stimulus will help fuel the next run in commodities and the general stock market, but especially gold and silver, because it devalues the dollar even further (which has been on a downward trajectory).
+
+Now, given what was stated above, why don’t I just buy gold instead? Isn’t it the better monetary metal and an ever better hedge against inflation? Some might argue that it is, but the hedge part is only part of the reason I have added silver miners to my portfolio. The other reason has to do with the two things everyone on this sub loves so much: Electrical vehicles and renewable energy. The thing these two investment assets have in common, is that they require silver and a decent amount of it as well. Unlike gold, 60% of all silver demand comes from industrial usage. The amount of silver used by the auto industry alone will reach an around 70 million ounces by 2030, up from 45 million ounces back in 2017. Silver is very important for the renewed focus on electric vehicles, as is further elaborated upon in [this document](http://www.lbma.org.uk/assets/Alchemist/Alchemist_90/Alch90OConnell.pdf) .
+
+Now, as for renewable energy and specifically solar, [this article](https://towardsdatascience.com/why-green-silver-just-might-be-the-new-black-gold-1694ac5562bf) put it best. We need silver for renewable energy and for solar energy it can be reduced should it get too expensive, but definitely not fully replaced because of its unique properties. We will need *a lot* of silver for things like the green new deal and the focus it puts on solar power generation and reliance on batteries.
+
+There are also other drivers, like the fact most pieces of the technology which have become integral to the way we go about living our lives also hold silver in various amounts. As you can see, silver is a very important metal. Not just as a hedge against inflation, but mainly as an industrial metal. Demand is increasing, but supply can’t be scaled up as easily as most might think. The reason for this, is that there are actually relatively few pure silver mines as opposed to copper or gold mines. Silver is often a byproduct produced from other mines. This makes it a lot harder to scale up the silver supply to meet the demand side. What also doesn’t help is that silver, like any commodity, has been through a cyclical downturn that ended around 2017 and has been slowly building momentum since. Before that however, there has been severe underinvestment into the sector, which translates into heavily reduced exploration and development of silver projects. Sure, now that silver prices are higher, they are starting this process again, but this takes time. Only a handful of projects ever properly make it into production and this can take several years, meaning that the cyclical downturn between 2011 and 2017 still weighs heavily on the sector today. This bull market still has plenty of legs and I believe it could run with the broad commodities bull market for several more years.
+
+Lastly, for those who value technical analysis as well, silver just bounced off of the 200 day moving average and has backtested the previous resistance level from the recent highs. If this support holds, it confirms that the lows are in and that the next leg up can begin. There is however a chance that there is one final plunge before that leg commences. In that timeframe the dollar could have a small bounce, coinciding with the drop in silver, but will continue its downtrend quickly after that. Both from a technical as well as a fundamental standpoint, silver looks to be much higher by the time Q3 of this year rolls around.
+
+TLDR: In summary silver is both a hedge against the devaluation of the dollar and a play on increased industrial demand due to prevailing macro trends around the world in the form of electric vehicles, renewable energy and other technology (phones, computers, batteries etc.). With increasing demand and a supply side which can’t be scaled up easily, price of silver looks set to go much higher from this point onwards. For every dollar that is added to the silver price, silver companies will move significantly more than that as their margins and free cash flow increases. I predict 40-50 dollar silver by the time we go into Q3 2021 and a significant increase in the share price of the underlying equities, with the disclaimer that in the very near term (this month) it could take one final plunge downwards before moving up like it did between March and August of last year.
+
+Disclaimer: I hold shares in PAAS and AG. For new investors that want exposure to this market, but don’t want the risk of owning an individual company, I would advise to look at the ETF SILJ, which holds silver juniors and looks to be the best positioned ETF to take advantage of this bull market. Make sure to always do your own research, I am merely here to present an investment case for a metal I believe to be undervalued relative to where it can go in the near future. Good luck to everyone and have a good day people!_END_OF_POST_PYSTOCK_ interesting candlestick pattern this morning... Today I was reading about candlestick patterns and comparing what I was reading to a few stocks online. I noticed that PLTR and PLUG both have (what I think are) very aggressive tails last night. From what I just read, this might indicate a larger upswing in these stocks today. I'm just learning about this. Does anyone have any opinion/idea about this interpretation? I tried to take a screenshot and upload, but no photos allowed here._END_OF_POST_PYSTOCK_ Why is ROKU suddenly so popular?? Roku was a big thing 5-8 years ago to bring Netflix to your TV. Now there are tons of competitors but not only that. Smart tvs are pretty norm and easy to use that don't require any secondary devices to stream.  Anyone with a laptop can just access any streaming site from their browser. Why is this suddenly such a big stock to get into? I'm actually finding myself avoiding certain funds heavy in Roku since it seems outdated. Thoughts?_END_OF_POST_PYSTOCK_ TD Ameritrade PDT How quickly will TD Ameritrade lock my account after being flagged as a pattern day trader? I’ve got 25,000 to move over on Friday but I’m looking to make a few plays today. So for example, could I make a bunch of day trades today, and my account restrictions start tomorrow, or will I be locked out immediately after my fourth trade? Either way the restrictions should be lifted come next Monday when my account balance starts above 25k._END_OF_POST_PYSTOCK_ Investing in US Index Funds (S&P500), ETFs, and stocks from Belgium I read some posts about this on Reddit. They suggest that the taxes issue with the US is a pain to get through. 
+
+Has anyone heard of UCITS? From how much I understand, they replicate the US stock market but you technically invest locally. So you don't  get into the issue of taxes.
+
+Do you guys have any suggestions? Open to them. Thank you so much :)_END_OF_POST_PYSTOCK_ How can I invest in Advance Publications? I want to invest in Reddit and Conde Nast who are both owned by Advance Publications.
+
+However they do not trade on Trading212 - therefore what is the CHEAPEST and EASIEST way to invest in Advance Publications?
+
+Is there a way to do this by myself and not go through a broker etc?
+
+Thanks._END_OF_POST_PYSTOCK_ Next big thing Wonder if anyone has any thought on what service / commodity the pandemic will popularise next. Tesla, Netflix, Bitcoin, a stash of toilet paper rolls? Ideas on who the next winning underdog will be in 2021 i.e. new Zoom. Are there any overlooked/undervalued opportunities that will rebound after the pandemic, such as airlines, AIRBnB?_END_OF_POST_PYSTOCK_ Why NIO and not other Chinese EV stocks? NIO stock seems to be surging since a lot of people believe it could become the next Chinese or Asian Tesla. Looking at the statistics however, ([https://cleantechnica.com/2020/06/19/tesla-model-3-undisputed-leader-in-china-ev-sales-report/](https://cleantechnica.com/2020/06/19/tesla-model-3-undisputed-leader-in-china-ev-sales-report/)) I do not really see any competitive advantage of NIO relative to other Chinese EV companies. Why are people so crazy about NIO?_END_OF_POST_PYSTOCK_ Apple 2021 Annual Meeting Vote Looking for advice on how to vote, for anyone who got the email as well. Kinda funny that Al Gore is up for board election. Not sure how you determine if a board director is good or not. More curious about the other votes as well.
+
+* Ratification of the appointment of Ernst & Young LLP as Apple's independent registered public accounting firm for fiscal 2021
+
+Do we care about this? Just vote "FOR"?
+
+* Advisory vote to approve executive compensation
+
+No executives deserve bonus', they're rich enough... lol
+
+* A shareholder proposal entitled "Shareholder Proxy Access Amendments"
+BOARD RECOMMENDATION: AGAINST
+
+[This](https://www.corpgov.net/2019/02/support-apple-proposal-4-shareholder-proxy-access-amendments/) is what I found when I searched it. My feeling is that if Apple is "AGAINST" it, then we should be "FOR" it. Sounds like it gives more of a voice to us proxy votes.
+
+* A shareholder proposal entitled "Shareholder Proposal to Improve Executive Compensation Program" BOARD RECOMMENDATION: AGAINST
+
+[Again, this](https://www.reuters.com/article/us-apple-compensation/apple-will-modify-executive-bonuses-based-on-environmental-values-in-2021-idUSKBN29A2MK) is what I found from just a week ago. My thought, again, is that if the recommendation is "AGAINST" then I'm "FOR" it.  Sounds like something their bonus' should definitely be tied to.
+> Apple Inc said in its annual proxy filing on Tuesday that it will modify executive cash bonuses based on whether the executives act within the company’s social and environmental values. But the iPhone maker did not specify how it would evaluate progress toward the company’s publicly stated targets such as removing carbon from its supply chain. Apple lists six values that include environmental practices such as using recycled materials in products, diversity and inclusion among its workforce and the privacy and security of its devices.
+
+So what do you all think?_END_OF_POST_PYSTOCK_ What's happen if stock merger ? ( IPOE )  
+
+I know that SoFi will ipo via SPAC. It's look like Clover Health before.
+
+So what happen if I buy IPOE now ? It will give me sofi share or what ?
+
+I can see that IPOC, which's delisted ( merger Clover Health ). IPOC holder will get Clover health share ?????
+
+If I buy IPOE now, let's say 1000 shares. They will give me back 1000 shares SoFi later ? then delist or what  ??_END_OF_POST_PYSTOCK_ Is there a tangible risk of armed conflict in the US? Mods : I'm trying to make this more a point about the risk to investments, rarther than a political thing, but please remove if not allowed. 
+
+
+I don't mean to be a sensationalist, but the situation in the US seems very tense, and it sounds like there are alot of armed and trained militias in the US with significant funding and organisation. 
+
+
+How likely does it seem that this will happen? I suppose markets are only likely to grow by a few points over the next couple of weeks, but if armed conflict kicks off, then they could drop >20 points over night. Is it worth pulling out of positions and holding cash / bonds / gold for a couple of weeks, and waiting till Biden is comfortably established in office, or am I over reacting. 
+
+
+I suppose that if you could have foreseen covid becoming a pandemic (which many could) then you would have sold your positions in early March and made a significant profit buying the dip. Is this the same?_END_OF_POST_PYSTOCK_ AZN (Astrazeneca) - AstraZeneca Applies for European Clearance of Covid-19 Vaccine So with the low price (2€ per dose compared to 12-14€ from Pfizer / Biontech) and easier storage /handling i think this could become the next big thing.
+
+News: [https://www.wsj.com/articles/astrazeneca-applies-for-european-clearance-of-covid-19-vaccine-11610450454](https://www.wsj.com/articles/astrazeneca-applies-for-european-clearance-of-covid-19-vaccine-11610450454)
+
+Twitter: [https://twitter.com/vonderleyen/status/1348909469200244736](https://twitter.com/vonderleyen/status/1348909469200244736)_END_OF_POST_PYSTOCK_ Trading in Robinhood -living in India- Tax Question hi All, i have query I am hoping some one can guide me on. I am in Indian who was living in US for about 3 years till July 2018. Post that i moved to India. In US I used Robinhood and continued performing trades (no day trading) in India in 2019. I had capital gains in my Robinhood account for year 2019. I didn't file the return earlier and I am filing now. So I cannot use any software for filling. I am nonresident so standard deduction isn't usable for me. My question is that what tax % is applicable  for me. The capital gains are around $3800 and consist of both short and long term gains. Normally it would be the 10% slab however given I am non resident is the slab different for me?_END_OF_POST_PYSTOCK_ Alibaba and Tencent - What happens to the stock if companies are nationalized? [https://www.ibtimes.sg/china-ccp-nationalize-jack-mas-alibaba-ant-group-54444?fbclid=IwAR2NW1szNsp8VjT9BZ8I5UhVml0hiZd3ViH--Ibmrxy-PooA0OgrNcnrxD4](https://www.ibtimes.sg/china-ccp-nationalize-jack-mas-alibaba-ant-group-54444?fbclid=IwAR2NW1szNsp8VjT9BZ8I5UhVml0hiZd3ViH--Ibmrxy-PooA0OgrNcnrxD4)  
+
+
+Rumors are that the CCP is trying to nationalize Alibaba, and potentially Tencent after the recent mono  
+
+
+I am not making a judgment either way if this is the case. I can honestly say that I do not know if the nationalization will happen, or how in case that it did.  
+
+
+But what would happen to the share price if it did? Would it completely be taken 'private' for the government and thus unable to invest any more publicly? What would happen to the privately held shares of the company? would the VIE structure come into play here?_END_OF_POST_PYSTOCK_ Does anyone know how to trade in Istanbul Exchange Stocks from Germany ? Is there any broker I need an Online Broker for the Stock Market in Turkey, Istanbul, but I couldn’t find any.
+Is there any I could use from Germany or not ?
+And why is it that almost or basically (maybe) no Online Broker has Turkey’s stock market ? 
+Would be good to know.
+Thanks for responses._END_OF_POST_PYSTOCK_ ETF filter with multiple stocks Is there any way to find an ETF by multiple stock holdings? I know there are tools for finding ETF's that are holding a stock but I want to find ETF's that are holding DIS and AAPL for example. If not, are there any ETF API to develop this kind of filter._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Anyone have a YOY growth list? Anybody have a link to where I could find a list of stocks including their YOY growth data? I know i can find this by searching each individual ticket but I’m looking for a list or chart I can sort to find 1, 2, 5, 10+ year data on percentage growth.
+
+I’ve searched google but just get crappy motleyfool results for best growth stocks of 2021, etc lol_END_OF_POST_PYSTOCK_ Dad wants a portfolio, need some of your best suggestions. Hey there, so basically the title says it all. I've been trading for more or less a year with some pretty solid returns. 
+Now my dad got wind of the "easy money" I made and wants me to manage his small portfolio. He's got a little capital and wants "great returns with as little risk as possible". (who does not want that?!, but hey who to blame?) 
+So I thought, 40% tech stocks/disruptive innovation stocks, maybe NIO, SQ, AMD, NVDIA, SNAP(Goldman Sachs raised their price target to 70$..?) ROKU(?), LMND(?), maybeee TSLA (even thou everything the technical analysis shows is that it is currently overvalued). 
+Then maybe 30% more risk averse stocks, some boomer stock like AMZN or MT or some E-commerce like ETSY. Maybe some ETF, like the ARK ETF?
+The last 30% for more high risk stocks, maybe some Cannabis-Stock? Cannabis ETF? Tilray? Aurora? Maybe some cryptos? 
+
+He gives me a year to proove that it is possible to make mad gainz in the stock market and wants to take my mom on a vacation like they've never been before.
+
+What do you think of this constellation? What would you change/do better than me? Is it "too late" for any of these stocks? If anybody got good advice, let me know! 
+
+I really don't want to loose all his money, mine I don't care. 
+Thanks in advance, love the community and good luck to all of you!_END_OF_POST_PYSTOCK_ Full agenda of Goldman Sachs 2021 Virtual Tech & Internet Conference Hi,
+
+this is long shot, but trying my luck.
+
+For previous few years, I was able to get the full conference agenda by modifying the link a bit, for eg, in 2019 conference, the link was "cc dot talkpoint dot com/gold006/021219a\_as/"  
+here, the format is conference date in mmddyy to create the url.
+
+This year, this method is not working, I am struggling to get the full agenda/calendar_END_OF_POST_PYSTOCK_ Ally Invest Advanced Orders I used Ally Invest for a few years and recall that there was an option in the stock trading order menu to make it an advanced order with One Cancels Other or One Triggers Other. I can't seem to see this function anymore. 
+
+Can anyone that uses Ally Invest know if I'm going crazy or if they removed this?
+
+Thanks._END_OF_POST_PYSTOCK_ what is your top 5 potential 50x coin if alt coin bull run starts? 
+As bitcoin touched All time high of 40K and money starting to pour into high cap coins and mid cap coins. Anytime money can flow into low cap coins for fully blown altcoins bull run. Below are the list of top 5 potential 50x in alt coin bull and reasons why chose them.
+
+1) Fusion - It has great tech likes Time lock, quantum swap, DCRM. Working product like Anyswap and new "be your own bank" app called chainge is under development. Compared with DOT, NEO, ATOM fusion is highly under valued. MC less than 12m and circulating supply of 66m and Max supply of 81M fusion is already 50X behind NEO, ATOM and DOT. No doubt it can pump up so easily. There is speculation of Binance listing soon.
+
+2) Aergo - Aergo has a great tech with proven 13K TPS. They have solid parnership with samsung and korean government. Apart from that they have parnerships with PWC, Hyundai etc. Their main product Aergo Hub beta gonna be launched soon and mainnet of aergo by end Q1. It will explode like theta anytime
+
+3) ANY - Anyswap is a by product of fusion and competitor to ethereums uniswap. Anyswap is cheap and tokens are listed after due diligence and community voting so no scam coins will be listed here easily. They have more interoperability and bridged many other chains. DCRM usage in anyswap makes it more secured compared to ethereums. Their Native token ANY and its MC is so undervalued their tech and when compared to UNIswaps UNI. Easy 50X token as total supply is any is only 100m and circulating supply is less than 13m.
+
+4) Navcoin - Navcoin MC is less than 11m and they launched privacy protocol on January. It will be implemented on March first week. Compared to Verge, XMR, ZEN, PIVX, FIRO the current market cap of navcoin is so much under valued as supply of navcoin is just 70m with small inflation.
+
+5) Credits - Only 220m supply, 1m TPS which team is trying to prove in mainnet. The price has gone much so down but once they prove their TPS it can do easy 50X. But it's highly speculative.
+
+All the tokens which I picked up or less than 12m MC. There are few other good ones like QUANT, TRAC but they already seen some good runs so I have excluded it here.
+
+What's your thought on my pickings and what will be your picks?_END_OF_POST_PYSTOCK_ What alternative investments trade on stock exchanges? I'm aware of REITs, BDCs and MLPs as being alternatives that you can hold in a brokerage account and I know there are ETFs that hold call options. Are there others out there that you can hold in a brokerage account? Just wanting to educate myself more on alternative assets, particularly ones that are tradable. Thanks!_END_OF_POST_PYSTOCK_ Suggestions for best dividend stocks? Hi y’all, it’s that guy that screamed GME since before he created this account. I’m starting to look into steady dividend stocks for a base because I’m not staying in GME long and I don’t want to yolo all my gains. 
+
+Any suggestions for high yield dividend stocks, with very low risk. Think booomer stock. REIT, Index’s whatever you got. Growth isn’t something I’m concerned about either._END_OF_POST_PYSTOCK_ How does double tracker etf DSOC work ? I started managing one of my accounts that was previously managed by a firm. I inherited a large position in DSOC. I am trying to understand the instrument before I trade out of it. https://www.innovatoretfs.com/etf/default.aspx?ticker=dsoc. I am trying to understand what happens when defined period ends. Do I get money in my account ? Does it re baseline NAV ? 
+
+I am also noticing that it’s thinly traded. So if do decide to move on, how do I determine fair price ?_END_OF_POST_PYSTOCK_ Pacific Biosciences (PACB) I really feel like the biotech sector will boom over these next years fueled by human genome sequencing. What this data can do for healthcare and medicine in the future is truly outstanding. 
+
+I keep seeing a couple of players pop up, but Pacific Biosciences has caught my eye but still uncertain. Wondering what everyone’s take on this is, or any other suggestions in this same area._END_OF_POST_PYSTOCK_ In this environment, should you just buy in to an IPO if you have the opportunity? I'm likely to have access to Driven Brands (DRVN), Petco (WOOF), Playtika (PLTK) and Affirm (AFRM) through my brokerage.  I'm tempted to just request an allocation from all of them and see what happens.
+
+In the short term, I don't see any big risk of a substantial price decline, and obviously there could be a huge short-term upside.  Long-term, of course, anything could happen._END_OF_POST_PYSTOCK_ Twitter loses $5 billion in market value after Trump is permanently barred from the platform Twitter shares fell as much as nearly 10% early Monday before paring some losses and trading down 6% by midday.
+
+https://amp.cnn.com/cnn/2021/01/11/tech/twitter-stock-trump-account-suspended/index.html
+
+Looking at the stock prior to any of the recent events, it hasn’t really shown excessive growth since it’s IPO. Interested to see if this is a good buying opportunity or this stock is stagnant and has a low chance of competing with the rest of big social media companies?_END_OF_POST_PYSTOCK_ My Watchlist For 1/12/2021 - ThinkOrSwim Import Links Included :) \*\*I use the 180D/4H chart exclusively to start with these. Then I use the RSI, Stoch, Vortex, and 10-50-200 EMAs\*\*
+
+&#x200B;
+
+$AMZN - Absolute beauty of a triangle. A break put either way will be happening, and I hope up. RSI is oversold, Stoch low, and Vortex consolidating. It is at support, this could be massive. [https://tos.mx/Fw7zISZ](https://tos.mx/Fw7zISZ)
+
+&#x200B;
+
+$BTG - Great value here, possible low of $5.00. Channel play possibly developing. All indicators are super low, this could be a big move.  [https://tos.mx/ioc27XB](https://tos.mx/ioc27XB)
+
+&#x200B;
+
+$CDXC - Great area of value at support here. Good channel play, may drop to $4.50, which would be ideal. All indicators are fair but Stoch is low which is also good. [https://tos.mx/ImIIzfx](https://tos.mx/ImIIzfx)
+
+&#x200B;
+
+$CERN - 50EMA bounce play possibility. Support area as well. May dip to channel of value as well. Indicators are fair at best as it is stull up trending. [https://tos.mx/Fdo163P](https://tos.mx/Fdo163P)
+
+&#x200B;
+
+$EMP - Area of value channel right here, possible support. It did break so we shall see. Indicators are low, so a reversal is upcoming. [https://tos.mx/uWkyUlr](https://tos.mx/uWkyUlr)
+
+&#x200B;
+
+$ERIC - Gorgeous channel up here, at value and above 200EMA. Support area, double bottom, great setup. Vortex and Stoch super low which is great. [https://tos.mx/3skGxaf](https://tos.mx/3skGxaf)
+
+&#x200B;
+
+$GRBK - Volume resistance acting as a support, channel up, and support -- above the 200EMA line. Stoch low, but other 2 are fair at best. [https://tos.mx/D0wshbf](https://tos.mx/D0wshbf)
+
+&#x200B;
+
+$GRPN - Old resistance as a support now, and old pattern resistance as support too? Stoch low, Vortex Low, RSI fair. [https://tos.mx/Ihx4LSa](https://tos.mx/Ihx4LSa)
+
+&#x200B;
+
+$KPTI - Possibly 200EMA bounce but I will be greedy and hope for $15. But this is a support area it could be huge. Stoch and Vortex low, could be some really big move here. [https://tos.mx/89dN9iW](https://tos.mx/89dN9iW)
+
+&#x200B;
+
+$LAMR - Channel up, right now at support and 50EMA. If it lives here it could be a great play. Stoch low but other 2 consolidating. [https://tos.mx/BrSqT1I](https://tos.mx/BrSqT1I)
+
+&#x200B;
+
+$MLCO - 200EMA and support working together right now. Stoch and Vortex low which is good, this could be another easy 5% move. [https://tos.mx/LP80skG](https://tos.mx/LP80skG)
+
+&#x200B;
+
+$MORF - Uptrend, 200EMA line and support as well which is awesome. Indicators are all low so that also great. Real nice calm setup. [https://tos.mx/atnxwZe](https://tos.mx/atnxwZe)
+
+&#x200B;
+
+$MTOR - Up trending channel that is bouncing off the 50EMA lines.  [https://tos.mx/i5eOK8h](https://tos.mx/i5eOK8h)
+
+&#x200B;
+
+$PEAK - Uptrend / triangle forming here which is gonna be awesome. Support under it as well, so it can make some easy money. Vortex is very low. [https://tos.mx/qHrfa5k](https://tos.mx/qHrfa5k)
+
+&#x200B;
+
+$PGEN - Uptrend channel also at support, if it lives here we will be in a great position. All indicators are low and curling up. [https://tos.mx/LQWdfQE](https://tos.mx/LQWdfQE)
+
+ 
+
+$PNW - Double bottom at support, and looking to reverse. All indicators are low so we should see a reversal soon. [https://tos.mx/BJFAC9h](https://tos.mx/BJFAC9h)
+
+&#x200B;
+
+$RVP - Simple up trending channel. Bouncing off the 200EMA, and near support. Indicators all fair at best but it is looking good. [https://tos.mx/cwTlliC](https://tos.mx/cwTlliC)
+
+&#x200B;
+
+$SUI - Ascending Triangle looking tasty here. Vortex low, Stoch fair, and RSI fair, but that makes sense. If it goes the full move here it will be a big breakout. [https://tos.mx/mBjgA3m](https://tos.mx/mBjgA3m)_END_OF_POST_PYSTOCK_ ETF strategy I'm planning on buying the following ETF'es:
+
+ **iShares Core S&P 500 UCITS ETF USD (Acc)** EUR - 60%
+
+ **iShares Core MSCI EM IMI UCITS ETF USD (Acc)** EUR - 10%
+
+ **iShares Core MSCI World UCITS ETF** EUR - 20%
+
+What do you guys think of that plan. I plan on buying them every 5 months because I'm taking use of a platform that buys them every 5 month for at specific amount I have choosen it to be.
+
+I know that I'm highly exposed USA. But then again, I can see that American stocks normaly give the most return over time because the American market is the biggest.
+
+This is for long-term investment. Minimum 10 years into the future._END_OF_POST_PYSTOCK_ Emerging Technology/Advanced Tech Investment Groups - Community Venture Capitalists Hey guys, new account, not new to reddit but I am looking for any information on groups or communities focused on tech startups/advanced technology to invest money and educational efforts in to be able to capitalize on early investments.
+
+I have been very big in the blockchain space among many other investments along the way but I'd be interested in other communities that help build knowledge on future hyped technologies. 
+
+Basically take the Gartner Hype Cycle and have a community dedicated to researching what seems to be the standout companies or ideas.
+
+If anyone knows of anything, please feel free to plug in the comments!_END_OF_POST_PYSTOCK_

@@ -1,0 +1,435 @@
+ What kind of bond etf yield should I aim for in my situation? First off, I'm a bit new to investing. I have 80,000 euros that I'll likely need in the next 3 years or so because I'll have a low income for a while. (I'm starting a busisness).
+
+I want to safely invest this money. What I know about bonds is that there's a duration until the bond issuer pays back the principal investment. And I know that when interest rates go up, bond prices fall. So the higher this duration, the more risk I run that interest rates go down further (then they already are) and then I would lose money.
+
+But I don't understand the exact risk. 
+
+So what's a yield I should aim for in my situation? 
+
+I have 3 etfs here that I like.
+
+A corporate bond etf:
+https://www.morningstar.co.uk/uk/etf/snapshot/snapshot.aspx?id=0P0000M65V&tab=1&InvestmentType=FE
+
+A government bond etf with 1-3 year durations:
+https://www.morningstar.co.uk/uk/etf/snapshot/snapshot.aspx?id=0P0000HYCO&tab=1&InvestmentType=FE
+
+A government bond etf with 3-5 year durations:
+https://www.morningstar.co.uk/uk/etf/snapshot/snapshot.aspx?id=0P00008HJ3&tab=1&InvestmentType=FE
+
+The corporate bond etf has the largest yield. Then the 3-5 one and then the 1-3 one. How much riskier are the corporate bonds? What's the chance that I'll lose money in the next 3 years with those? 
+
+Alternatively I can get a 0.15% yield on a high interest savings account. Would that be better? Are bonds even worth it with the economy the way it is now?_END_OF_POST_PYSTOCK_ What are your current undervalued stock picks? What are your stock picks for 2021? Just interested to hear the responses and the reasoning for the stock pick. I’ll be looking over this post at the end of next year and throughout the year to kind of see how Reddit does.
+
+Do you have any stocks that you think will have potential massive growth in 2021 or beyond? Why?
+
+Hope all is well, and best of luck investing in 2021!_END_OF_POST_PYSTOCK_ Your portfolio returns in 2020 Would you mind sharing what have been your portfolio returns in 2020?
+It has been an interesting year so I am curious about your experience.
+
+I have started investing recently and would like to adjust my expectations. I have averaged approximately 6% purely with stocks._END_OF_POST_PYSTOCK_ Dorel industries! Privatization deal will get voted down because subpad offer! This stock will skyrocket after because the only thing weighing it done is this deal! Dorel Industries Will Be Among The First To Benefit From Continued Growth Of Cycling Market
+
+Dec. 23, 2020 12:12 PMDorel Industries Inc. (DIIBF)
+
+Summary
+
+The popularity of cycling is going nowhere, partly due to increase in social incentives.
+
+The company has a strong enough balance sheet position to outpace competitors.
+
+Earnings estimates suggest that the company is trading at a fair value.
+
+Dorel Industries, Inc. (OTC:OTCPK:DIIBF) is a relatively unknown Canadian company that produces an interesting mix of products including home furniture, bicycles, and baby products such as strollers, car seats, and swings. The company is well-diversified as each category of products is separated into many different brands. For example, Dorel's sports division owns brands such as Cannondale and GT. The company sells its products to basically every region in the world, including Latin America and Asia.
+The company's stock has increased 1000% since the March crash despite not having paid a dividend since late 2019, and this uptick was mainly fueled by the company's success in the sports category. We hold a bullish view of the company; we believe that Dorel's position in the bicycle market will continue to grow due to changes in consumer trends as a result of COVID-19. The company also has a strong enough balance sheet position to outpace competitors in terms of production and innovation, and its other revenue segments operate in markets where demand will continue to stay steady.
+￼
+(Dorel Industries - Google Market Chart, 2020)
+
+Biking grew increasingly popular during COVID-19, and this trend is here to stay
+
+In "Dorel Sports, demand for bikes continued to spike, as families were looking for outdoor activities that are safe (Dorel Quarterly Report, 2020). Although the company credits short-term reasonings for the continued success of its bikes, we believe that this trend is here to stay for the long-term.
+￼
+(Statista, 2020)
+Firstly, the overall demand for all kinds of biking has gone up, whether it be mountain biking, off-trail cycling, or road biking. Consumers will have different preferences based on the availability of certain terrains within their neighborhood. Dorel Industries is extremely well-positioned to capture consumers in all areas because it has 9 different bicycle brands that each cater to a unique customer segment.
+We believe that Cannondale, which is a higher-end road cycling brand, will see an uptick in sales especially during early spring of next year, as new consumers who picked up biking in urban environments during COVID-19 were deciding whether or not to lock in their long-term interest in cycling before buying a bike at a higher price point. Moreover, these consumers may have been using lower-end bikes during the summer of 2020 because higher-end bicycles were basically sold out everywhere during the pandemic.
+All the other brands that Dorel owns should see growth as well, as consumers look to capitalize on a full summer of outdoor activities. Other brands include Schwinn, which produces electric bikes, and GT, which focuses on mountain and off-road biking.
+
+We believe that biking, in general, will see an increase in the long-term because of the social aspect that has been introduced to the sport. Strava, which is a social media app that allows users to show off their exercising events, saw a "33% increase in uploaded activities over the last 12 months." We believe that the euphoria that consumers get from Strava interactions such as sharing, liking, and commenting on posts, matches the feelings consumers get from traditional social media outlets such as Facebook and Instagram. Therefore, biking enthusiasts, whether old or new, have an extra incentive to participate in the sport.
+Only 34.5% of the company's sales came from the sports division, which suggests that the company has lots of room to grow._END_OF_POST_PYSTOCK_ What is the ideal trailing stop loss percentage? Just executed my first trade with a trailing stock loss, and have it set to sell automatically if the stock goes beneath 20% of it's all time high. 20% was selected based off of limited internet research, but it occurs to me that someone must have done some extensive research and there has got to be a formula for determining an optimal stop loss percentage strategy. Further research online leads me to sites trying to sell me training, but is there a magic number or formula to this?
+
+Thanks!_END_OF_POST_PYSTOCK_ Need help trying to backtest a strategy I’ve got a strategy I would like to test out revolving around playing the top % change performers in the S&P, but I’m having difficulties figuring out how to actually go about this, google isn’t being much help.  I can’t even get a good feel for where things are YTD, it seems every site I go to has different numbers.
+
+Is there a reliable place to check data on this?
+
+What’s going to be my easiest way to test without manually parsing data?_END_OF_POST_PYSTOCK_ Swing trader here, need value investors advice! So I’m trying to start expanding my portfolio and I want a diversified long term (30 years min) portfolio.
+
+I’m doing a lot of research into what sectors / stocks I’m going to include and one is AstraZeneca.
+
+This isn’t a final decision yet I’m still looking at it’s competition however I’ve stumbled across something which I feel someone who long term invests could help me with.
+
+When you compare the US AstraZeneca market you will see that the cost of 1 share is currently $48.90, however the UK costs £72.53
+
+Is this due to the FX impact? If you look long term at the charts and compare them you can see how they both follow the exact same pattern/trend however there is minor differences which I am putting down to fluctuations in currency exchange and things like that. Would this be correct? Or would I be better off sticking my money into the US version since it is seemingly cheaper, would that be more beneficial to me? 
+
+Sorry if this is basic, like I said I am a swing trader and this is my first time looking to expand, I’m not used to analysing stocks in this particular way so I’m not 100% sure what is going on and what would be better if doing if I did decide AstraZeneca is the stock I’m going for.
+
+Many thanks! Merry Christmas :)_END_OF_POST_PYSTOCK_ Option contract volume of entire stock market I know that you can not only track the volume of individual option contracts, but actually the option contract volume of entire ETFs. Is it possible though to view the total option contract volume of every contract trading in the entire market - something even more inclusive than the volume of contracts traded on the SPY?_END_OF_POST_PYSTOCK_ What's the catch when it comes to SPACs? Their success is almost predictably consistent and I'm almost waiting for the bubble to burst... but will it? 1. Investment group announces the creation of a SPAC.
+2. SPAC identifies a few rumored acquisition targets. 
+3. Stock surges on the rumor.
+4. SPAC announces merger intention.
+5. Stock surges again.
+6. SPAC passes merger vote and ticker changes to new company name. 
+7. Stock surges again to 2-3x original price (or higher).
+
+Am I missing something?_END_OF_POST_PYSTOCK_ Dorel Industries Privatization Deal diibf dii.b I think true investors will find this interesting.  Back in April, I decided to get back into investing because the market was low.  My wife suggested investing in bicycles.  I did some research and I found Dorel Industries Diibf and it was trading for .98 USD / share.  With a market capitalization of around 30 Million.  Dorel industries own Schwinn, Cannondale, Mongoose, and GT.  That only makes up 1/3 of their portfolio.  The rest is made up of Dorel homes and Dorel juvenile.  How is a company that is doing almost 3 billion in sale only have a market cap of 30 million.  I started calling around and I was finding that bikes were selling out everywhere!  Huge upside with little risk.  They literally had more cash in the bank than their total market cap.  So I took a home equity line of credit and bought a decent amount of shares.  Fast forward 7 months, the stock has skyrocket to $12/share.  Then the company announces they have reached an agreement in principle to sell the minority share holders stake for 11.17 USD/share.  I started think it all makes sense.  The value of this company has been decimated!
+
+Now the founding family is pushing HARD for the minority shareholders to sell their share at no premium to the trading price and publicly stating they have no desire to sell theirs.   They have been using fear tatics to get us to sell.   It all seams like something more going on.  My fear is as soon the company goes private they release a new path they are taking the company.  Maybe something to compete with Peleton?  Some of the top shareholders have publicly stated they believe it is a lowball offer and they are voiting against.
+
+Does anyone have more information on this?
+
+Has anyone ever seen a deal voted down by minority shareholders?  What was the company and what happened to the stock after the vote.  My thought is that if more than half the minority are unwilling to sell their shares at that price despite the boards desperate attempts to convince them.  Also all of the class A shareholders are unwilling to sell.  Wouldn't that automatically cause the stock to increase because now you have more than %75 of the company confirming that they are unwilling to sell their shares at that prices.  Does this create a floor for the stock price with only upside?  Please provide insight if you have any.  _END_OF_POST_PYSTOCK_ How to bet against US dollar long term? I live and work in US and plan to retire there in 10-15 years horizon. I think there is a good chance that US dollar stops being world’s reserve currency in 15-20 years (e. g. when I stop working and hold a lot of dollar-based investments). 
+My question is, what investments (besides, for example, real estate) can I make now to protect myself against scenario when dollar becomes much less relevant?_END_OF_POST_PYSTOCK_ What’s the incentive for companies to give out special dividends? I was surprised this month to see that Costco gave out a special dividend of $10 per share. While I’m certainly not complaining, what’s the incentive for them to dole out so much cash to its shareholders? Like I personally would’ve been happy with half that amount. Is there math behind it, or is it just a number that sounded good to the board?_END_OF_POST_PYSTOCK_ Criteria for investing in high growth stocks. Like many of you guys I started about 3 years ago and I've since come up with my own investing style that has beat the index for this year. I invest in companies that have **explosive growth potential** and I base my investment thesis on fundamentals and financials, then choose the right time to enter the market at the right valuation. These criteria have helped me in filtering out the noise, pump and dumps and speculative actions in the market and I thought I'd share them and also ask you guys what are your criteria for picking companies?
+
+For fundamentals, it's actually simpler than what most people think:
+
+1. Does the company have a prototype and how much better is it compared to the existing products (unless it's a completely new tech)? If the product doesn't even exist and is not much better than the competitors, then there's no point in investing in that company.
+2. Does the product have scalability? This comes after criterion 1 as coming up with a product is easy but being able to produce the product at scale is a whole different ball game. Try projecting sales if possible. 
+3. Does the company have a 10x path? This requires all the big questions like is the industry they are in growing, is the company growing, what are they invested in, does regulations allow them to grow 10x?
+4. Leadership. It's important there is a great leader and I look at how long they have been with the company and what are some important decisions they have made. Bonus if the guy is famous and has a star effect like Elon Musk <3.
+
+For Financials, it's not incredibly difficult, and it can vary for most people. A few metrics I like to use are:
+
+1. Current Ratio: How much they currently own/how much they currently owe. (Current asset/current liability)
+2. Trend of gross margins: Indictor of future profitability once the company turns profitable.
+3. P/S ratio compared to competitors in the same industry: Tells you the current market valuation vs annual revenue (ttm) and therefore if the company is overpriced. Must compare to other peers in the industry as how "Expensive" a company is, is very subjective.
+
+Do not look at factors like P/E Ratio as that is impossible to use on high growth companies as the market will most likely assign their future expectations of the stock.
+
+For looking at right price to enter, I just use the simple fibonacci tool to look at price targets based on previous trends. If there is negative news that doesn't really affect the fundamentals of the company (e.g. Company CEO has a scandal), it's also an great buying opportunity.
+
+That's about all you need (I feel) to beat the market. Sounds easy but it takes a lot of homework and practice.
+
+What criteria and methods do you guys use to evaluate companies? Do share it in this thread.
+
+Hope you guys invest safe and remember, money never sleeps :)
+
+P.S. I do have run a channel what I analyse stocks based on my own criteria to save people time, let me know if you're keen but I will not be posting it here to comply with the group rules.
+
+EC_END_OF_POST_PYSTOCK_ Utility and Consumer Defensive Market Correlation Most ETFs, whether you buy a tech heavy VGT or value stocks such as VYM, have very heavy US market correlations in excess of .95.
+
+Utility and Consumer Defensive have much lower correlations at around .60 - is this due almost exclusively the lower downside risk in recessions, or is it due to other factors such as interest rates, etc. 
+
+Just trying to understand those two areas more for portfolio diversification and welcome any help or insight you could provide, thanks!_END_OF_POST_PYSTOCK_ Investing in A10 Networks (ATEN) or Magnite (MGNI) I've gotten some nice gains out of TESLA and cashed out earlier this week.  I'm looking to invest my gains in a smaller tech company with more upside.  Two that I've been tracking are A10 Networks and Magnite.
+
+Magnite is a service that facilitates buying and selling of online advertising space.  It seems very relevant right now and they should have significant demand.  However, others have thought the same and they're up 270% this year and 62% in just the past week.  Market cap is about $3.6B.
+
+A10 Networks sells datacenter management applications.  I think highly relavant in these times with more remote work and as companies move to the cloud.  They're up 45% over the past year and 17% over the past week.  They're market cap is $$787M.  And, they're profitable.
+
+I think Magnite is a more compelling company, but I'm worried about where the stock price can go after the growth it's seen in the past year.  A10 looks more compelling to me.  Stock price has not skyrocketed over the past year and they have a lower market cap.  I'd think they'd have more room to grow.
+
+Any opinions on these A10 or Magnite?_END_OF_POST_PYSTOCK_ How to Park the Bus I’m fairly new to investing and I have my portfolio allocated BogleHead 3 fund style (Total Market, Total Foreign Market, Add Bonds starting at age 40).  I also have a few tech stocks and ETFS.  All my funds have Fidelity’s 0% expense ratios or very minimal expense ratios and are held in my Roth IRA. 
+
+I’m happy with my allocation. But I still don’t quite understand how to make the shift to lower risk investing as I approach retirement down the road (I’m currently early 20’s so I have time).
+
+Is exchanging the total market funds proportionally into the bond fund the main way to do it?  Should I put it into more diverse holdings like a gold fund or REIT?  
+
+Any input is welcome.  Thank You!_END_OF_POST_PYSTOCK_ Medtronic & Titan Medical Buyout? Been reading up on Titan Medical (TMDI on Nasdaq) this week since I saw a mention they secured a couple huge $10 million awards from Medtronic a couple months ago and more to be awarded soon as they hit milestones in their development.
+
+Chatter on Yahoo is they expect a minimum $1 billion takeover offer in 2021, with only 82 million shares outstanding that's $12/share - currently its @ $1.55/share.
+
+Anyone have some deeper DD to share please??? :-)_END_OF_POST_PYSTOCK_ Does anyone have any promising VR companies? Looking for small to mid size market caps. Not FB Alphabet or big names. I love AR and VR and found Vuzix for my AR play. Now I need a company for my VR play and looking for companies who are developing technologies related to Vr the big companies might buy. Anyone have any good companies they are looking at or see potential in?_END_OF_POST_PYSTOCK_ Buyout/merger conspiracy: The exact same users on Stocktwits that were bashing Celgene just prior to the buyout by Bristol Myers Squibb, are currently posting similar comments about Gilead. Link:  [Gilead is the Next Celgene](https://www.griproom.com/fun/gilead-is-the-next-celgene-similarities-between-the-celgene-buyout-and-gilead)
+
+Excerpt:  
+
+Let’s see what Celgene and Gilead share in common.
+
+**Hitting 52-week lows** \- *check*
+
+**Down 30% from intra-year highs** – *check*
+
+**People calling management morons** \- *check*
+
+**People saying if CEO resigned then the stock would go up** – *check*
+
+**Retail investors confused by constant negative price action** – *check*
+
+**Stock price not following bio indexes like $IBB or $XLV** \- *check*
+
+**Stock price not following broad indexes like $SPY, or $QQQ** – *check*
+
+**Red almost every day, pre-market, and after-market, but no news** \- *check* 
+
+**CEO is also the Chairman of the Board of Directors** \- *check*
+
+**Company spent billions on acquisitions in the last year(s)** – *check*
+
+Celgene went on a buying spree prior to the merger. In 2018 they spent billions on [Juno Therapeutics](https://www.celgene.com/newsroom/cellular-immunotherapies/celgene-corporation-to-acquire-juno-therapeutics-inc/) and [IMPACT Biomedicines](https://www.businesswire.com/news/home/20180107005114/en/Celgene-to-Acquire-Impact-Biomedicines-Adding-Fedratinib-to-Its-Pipeline-of-Novel-Therapies-for-Hematologic-Malignancies). 
+
+Gilead spent more than 30 billion on buying up companies in 2019 and 2020. You can see a detailed list of a Gilead’s acquisitions in [Part 1](https://www.griproom.com/fun/it-looks-like-gilead-is-about-to-merge-with-roche), and how each one relates to Roche (the company that is probably trying to buy Gilead.)
+
+You might be thinking, okay but they couldn’t have been planning this merger for years, right? That would be crazy.
+
+Nope. That’s exactly what they did.
+
+Celgene management knew this was coming, because they’d been organizing it.
+
+[https://www.fiercepharma.com/pharma/bristol-myers-went-back-its-best-celgene-offer-days-before-deal-deadline-proxy-shows](https://www.fiercepharma.com/pharma/bristol-myers-went-back-its-best-celgene-offer-days-before-deal-deadline-proxy-shows)
+
+It seems this merger had been planned for more than a year. So if you’re expecting the management of Gilead to come out and defend the stock price…don’t.
+
+It didn’t happen with Celgene and it isn’t happening with Gilead.
+
+(Lots more info in the article.)_END_OF_POST_PYSTOCK_ Any publicly traded companies that sell VPNs? With the new streaming law going into effect soon, I imagine people are going to be jumping on VPNs. 
+
+I'd like to invest in some companies that provide VPNs but couldn't find any that sell shares. Any suggestions?
+
+Anyway, thanks in advance for the help. I think this is a good idea and something that I really want to invest in now if at all possible._END_OF_POST_PYSTOCK_ PLTR signs 31.5$ Mil contract with UK NHS PLTR just signed a 31.5 Mil$ contract with the UK NHS for its Covid and vaccine rollout. 
+
+The steady stream of government contracts do seem promising. If PLTR can prove itself to a particular agency, and embed themselves into the infrastructure, it'll stick with PLTR for years. 
+
+Although the size of the contracts seem to be small compared to those of other companies, the momentum itself is a very promising sign.
+
+Source:
+https://www.thestreet.com/investing/palantir-pltr-contract-national-health-service-united-kingdom?puc=yahoo&cm_ven=YAHOO&yptr=yahoo_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ 300k Stolen from Robinhood Retiree, Not Given Back https://www.bloomberg.com/news/articles/2020-12-22/robinhood-user-says-300-000-restored-from-hack-then-taken-back
+
+Lots of faux pas from RH lately. Not getting clearance for the cash management account, not disclosing order flow, free money cheat code, SEC lawsuits, and now this. And you still can’t add beneficiaries. 🤷‍♀️
+
+I am on RH still. 😃 I still think they had a great vision of opening investing to the public and millennials. They do make it simple. They forced everyone else to do commission free trades, which remains super pro consumer.
+
+Their ad blitz has added a huge base to their core over the past year...
+
+Will they weather all this and get their act together once they IPO, or will the amateur hour continue?_END_OF_POST_PYSTOCK_ ARKK and ARKG in a taxable account & tax on capital gain distributions ARKK and ARKG are actively managed ETFs. I wonder what would be the tax consequences of capital gain distributions for these ETFs, or at least a rough estimate of them, with a taxable account.
+
+I am aware that ARK Invest has a pretty high turnover in their funds. Because of this, the majority of distributed capital gains is likely to be subject to short-term capital gain taxes. You can find ARK Invest projections of the 2020 distribution on this link:
+
+[https://etfs.ark-funds.com/hubfs/1\_Download\_Files\_ETF\_Website/Performance-and-Other/Capital\_Gains\_Distribution\_ARK\_ETFs.pdf](https://etfs.ark-funds.com/hubfs/1_Download_Files_ETF_Website/Performance-and-Other/Capital_Gains_Distribution_ARK_ETFs.pdf)
+
+If I understand well, when a distribution occurs, the NAV is reduced by the same amount. With tax-deferred accounts, you can reinvest the entire distribution and you will not lose anything. However, with a taxable account, you need to pay taxes on these distributions. I am in California and short-term capital gain taxes can be nasty (around 50% in federal and state taxes for high income earners). Although ARKK distribution will be only 1.75% of the NAV this year, high earners would have to pay around 0.7% of the NAV in short-term taxes. This does not seem like a lot, but in a less favorable scenario where the distribution is 10% of the NAV and all gains are subject to short-term capital tax (a bit extreme and unrealistic case, but hey... who knows...), you would need to pay 5% of the NAV in taxes, which sounds horrific to me.
+
+Does any of you own a significant amount of ARKK and ARKG shares in a taxable account? Can you share your experience with taxes on capital gain distributions with us?_END_OF_POST_PYSTOCK_ Reuters: US Approves NYSE listing plan to cut out Wall Street middlemen I think this is a game changer, what do you think?  [https://www.reuters.com/article/us-usa-sec-nyse/u-s-approves-nyse-listing-plan-to-cut-out-wall-street-middlemen-idUSKBN28W2D4](https://www.reuters.com/article/us-usa-sec-nyse/u-s-approves-nyse-listing-plan-to-cut-out-wall-street-middlemen-idUSKBN28W2D4)_END_OF_POST_PYSTOCK_ $AESE DD Short Summary: $AESE: They had 4 different sets of inside buys in the last 2 weeks, with the most recent at 1.41. It’s a Esports company who is partners with Hyperx, who specialize in making gaming headsets for PCs, consoles, and phones, among other gaming accessories(mouses, keyboards, etc...). Just search Hyperx on Amazon and you’ll see. They are also partnered with WPT(World Poker Tour), which is one of the biggest names in poker. READ FULL DD (for your benefit).
+Full DD Thread : https://twitter.com/rocketmanguyman/status/1339265981294645249?s=21
+
+If this helps you out, throw me a follow on Twitter or don’t, I post some good stuff though. If you are interested in the company I highly recommend reading the full DD. Have a good day/night._END_OF_POST_PYSTOCK_ Are you guys still optimistic about Microvast DA? Pretty heavily invested but start to think, this may not happen? Was doing some research on Microvast CEO and the company itself.  They haven't released any news for last 4-5 months, they are not hiring anyone on LinkedIn.  There's almost nothing about their research/patents but Microvast won R&D of the year award which is prestigious.
+
+&#x200B;
+
+As we all know business is all about leverage and Microvast may be delaying to negotiate better % deal seeing QS?  Feel free to share your thoughts._END_OF_POST_PYSTOCK_ With so many people convinced we are in a bubble, are we? I don’t think I remember a time where so many people on so many platforms are convinced we are in a bubble. I’m not saying we aren’t in one or at least a very high valuation period. I’m just not sure right now is a bubble ready to burst if so many people think we are in a bubble. Thoughts?_END_OF_POST_PYSTOCK_ Four Relatively Unknown Stocks, PBHC, RFIL, OGZPY, MTNOY I have a very limited amount of money to spend, and I'm looking for stocks that are priced < $25 USD and are likely to rise by the end of next year. The first three I have positions on, and one where I'm waiting to see how the company sorts some things out. I've done my DD on all of these, and I want to know what people think of them.
+
+&#x200B;
+
+**Pathfinder Bancorp Inc (PBHC)**
+
+A bank holding company.
+
+pros: 
+
+Declared a dividend yesterday.
+
+Lots of recent insider purchases. ( 28% ownership )
+
+Has earned a profit every year since at least 2015.
+
+cons:
+
+   Banks will do poorly if the stock market crashes.
+
+&#x200B;
+
+**RF Industries Ltd (RFIL)**
+
+Involved in the design, manufacture and marketing of interconnect products and systems.
+
+pros:
+
+Lots of recent insider purchases. ( 13% ownership )
+
+Their current assets divided by total liabilities is > 5.458.
+
+Telecommunications will likely expand regardless of whatever else happens in 2021.
+
+cons:
+
+Didn't make a profit in the last two quarters.
+
+&#x200B;
+
+**Gazprom PAO (OGZPY)**
+
+Operates gas pipeline systems.
+
+pros:
+
+Holds 71% of natural gas reserves in Russia. (16% globally)
+
+Will likely benefit from the outcome of the Armenian-Azerbaijani war.
+
+cons:
+
+   Foreign stock (OTC)
+
+   Their current assets divided by total liabilities is < 0.618.
+
+   Didn't make a profit in the first and third quarters.
+
+&#x200B;
+
+**MTN Group Ltd** **(MTNOY)**
+
+South African Telecommunications company.
+
+pros: 
+
+Has access to 14 different African markets. (2nd only to ORAN)
+
+Price hasn't been lower since 2004.
+
+Africa has a booming middle class that wants cell phones.
+
+Profitable.
+
+Most recognized telecommunications brand in Africa.
+
+cons:
+
+Foreign stock (OTC)    
+
+Only releases annual reports. (No 2020 report yet.)
+
+Their current assets divided by total liabilities is < 0.426.
+
+Fined the equivalent of $1.7 billion USD by Nigeria in 2016.
+
+One-third of their revenue comes from Nigeria. (as of 2016)
+
+Sued over alleged protection payments to Taliban.
+
+Nigeria is forcing it's citizens to link their cells to their national ID numbers.
+
+\-Less than 20% Nigerians have a national ID number, and it's very difficult to get.
+
+&#x200B;
+
+Assuming Nigeria figures out a better plan for their national IDs, and hasn't paid the Taliban any money, I think MTNOY could potentially be very profitable. I am just watching at the moment.
+
+What do you think?_END_OF_POST_PYSTOCK_ Stock Market Correction EDIT: Don't sell you portfolio. I never said that. Just buy assets that do well in downturns.
+
+\----
+
+Although I'm not one to attempt to time the market; I think a crash or correction has to happen within the next few months. The majority of indicators tell us that everyday Robinhood investors are putting much more money into stocks than they are worth, which means they won't see enough returns and it will have to correct itself. It's pretty clear to me that not enough people on [r/stocks](https://www.reddit.com/r/stocks/) or [r/wsb](https://www.reddit.com/r/wsb/) have learned about bubbles from reading about the Tulip Bulb Crisis, the South Sea Bubble, Japan in the 80s, the Roaring 20's, the DotCom Boom, or the Mississippi Bubble. We have so many examples in history and yet everybody and their mom is posting rocket emoji's and thinking Tesla is undervalued.
+
+Most of us probably lived through the Great Recession, but I don't think that's comparable. If you were around during the DotCom bubble, you know the way people talked about PLTR, QS, and TSLA is the same way they talked about [Pets.com](https://pets.com/), or [eToys.com](https://etoys.com/).
+
+Some indicators, to look for:
+
+**Buffett Indicator:** Market Cap/ GDP Ratio
+
+* Market Cap/ GDP ratio tells us how much value we place on the market, over how much it's actually worth.
+* The general market is more overvalued than it was during the dot com boom
+   * This is likely due to the fact that everybody has a 0 commission trading app like Robinhood but nobody knows how to value a stock or read market indicators anymore.
+
+**Corporate Profit After Tax vs S&P 500**
+
+* There has never been such a large gap between Corporate Profit and the S&P 500, and it is likely due to the Coronavirus wrecking profits, but everybody investing before we miraculously fix the economy and are profitable again.
+* We're not going to fix the economy so well that we will reach the level of value we've placed on the future.
+
+**PE Ratios**
+
+* PE Ratios in general are getting ridiculous because people keep buying stocks which increases the price, but that purchasing is way outpacing Earnings.
+* Companies aren't going to make enough to earnings to make up for the value you placed on them.
+* *Almost Everything is overpriced.*
+
+**Fear and Greed Index**
+
+* The fear and greed index hit 88 on December 4, and if it hits something that high again, you can be pretty sure.
+
+\---------
+
+Expect this new coronavirus strain or a soft blow of wind to knock this stock market back to realistic levels at some point in the near future.
+
+Now I'm not a financial advisor, so i'm not going to recommend anything but I personally am looking into TZA and alternative assets until the market corrects itself, as well as continuing to add to my 401k and IRA as always. I'm just warning everybody that we are at ridiculous levels of overvaluation, and it's time to take those earnings and make safer investments imo.
+
+The more rocket emojis you see, the more sure you can be that i'm right.
+
+&#x200B;
+
+&#x200B;_END_OF_POST_PYSTOCK_ $MWK: Undervalued AI Company to Appreciate 10x by 2021 Year End I am bringing you guys an AI play that is absurdly undervalued with a large runway for growth: *Mohawk Group (NASDAQ: MWK)*. 
+
+**Overview**
+
+Mohawk uses AI to identify e-commerce market trends, which they use to launch, advertise, and sell the most desired consumer products. Their technology, dubbed “AIMEE”, synthesizes tons of data to identify new opportunities, launch best-selling consumer products, automate marketing, analyze existing consumer product brands, etc. MWK’s tech reduces go to market timing by \~70% and is highly scalable. Over the past 3 years, headcount hasn’t changed but revenues have increased significantly (50% CAGR since 2017).
+
+**E-Commerce Presence, Industry Opportunity, M&A Strategy**
+
+MWK is currently on Amazon (95% of revenue), Walmart, Shopify, and its own websites. E-commerce is obviously one of the biggest megatrends right now. The vertical is expected to grow at a 14.5% CAGR, increasing from $4.4 trillion in 2020 to $8.1 trillion by 2025 (Statista). Seller presence is extremely fragmented on Amazon, giving MWK tons of consolidation opportunities. Music to our ears. MWK has a big focus on inorganic growth, acquiring brands around 3x - 4x TTM EBITDA. These are immediately accretive, as generally no headcount is added and integration expenses are low (MWK only purchases the listing, IP, assets, and/or relationship with the manufacturer). In other words, MWK aims to acquire smaller consumer product companies and scale them with AIMEE. As inorganic growth is historically a main driver behind multibaggers, and AIMEE has proved effective in organically growing product demand, I am excited about the business model management is building out.
+
+**Valuation**
+
+Mohawk is currently trading at 3.47x TTM revenue, a drastically low valuation for a high growth company. The market has mispriced MWK as a pure consumer products company. MWK is bound to re-rate closer to tech valuations as investors start to discover this gem and realize the proven AI tech that management has developed. 3.47x is very low given MWK’s high revenue growth and upside potential. Let’s conservatively assume MWK reaches a multiple of 12x 2021 revenues. Management guides for $290mn revenue on the low end. At a 12x multiple, this is a $3.48bn market cap.
+
+In other words, that is a conservative **upside of 720%**. 10x is entirely reasonable from here. I could go on and on about this stock, but I’ll just cover a few more things.
+
+**Insider Buying and Gaining Institutional Ownership**
+
+There has been lots of insider buying, indicating that management is confident in their business. Very positive sign, as they obviously have a better idea of the upside potential.
+
+Additionally, institutional ownership is low. This is because MWK is too small for big investors to own shares substantive enough to influence their fund's performance. Once MWK becomes a bigger company, institutional ownership will continue to increase, coverage of the stock on the sell side will expand, and more investors will know about it, propelling it even higher.
+
+**Summary**
+
+Mohawk Group (MWK) uses AI to identify and sell the most desired consumer products on e-commerce platforms, such as Amazon. The stock is currently mispriced as a pure consumer products firm, rather than a tech company. In tandem with the below, MWK should re-rate in 2021 and reasonably give investors 10x upside.
+
+* Strong revenue growth expected to continue (likely >50% next few years)
+* Management focusing on margin expansion
+* Gaining market share in the growing e-commerce industry. Mainly through its accretive M&A efforts. Consolidating a fragmented space.
+* Significant insider buying
+* High probability for institutional ownership / increased sell side coverage once mkt cap gets a little bigger
+* This is a chance to get in on an undervalued small-cap with a proven business model, megatrend (AI, e-commerce) exposure and low institutional ownership._END_OF_POST_PYSTOCK_ PFE VS BIONTECH. Which is better? I always see their name together but I know they are separate company because I can buy their stocks separately. Did they merge? Can I find some articles about the contract between them in regards to the covid vaccine? Who is profiting more? I can’t seem to find any news that talks exactly about their merger, acquisition or co-op_END_OF_POST_PYSTOCK_ Which stagnating companies do you believe has the most potential to transform itself in the coming years? Dominoes (DPZ) a pizza company starts focusing heavily on software and its delivery app. Stock shoots up \~20x since 2000.
+
+Axon Enterprise Inc (AAXN) a company that focuses on weapons and law enforcement, starts focusing on cloud and SaaS. Stock shoots up \~20x since 2013.
+
+Microsoft (MSFT), Satya Nadella replaces Steve Ballmer as CEO in 2014. Begins to diversify microsoft into cloud, SaaS, and so on. Stock shoots up by 5X.
+
+Micro Devices (AMD), Lisa Su takes over as CEO in 2014, AMD begins releasing microprocessors that are more advanced than Intel's. Stock shoots up 20X.
+
+And lastly I'm assuming the recent huge run-up with Game Stop (GME) is due to the new CEO having plans on transforming it into an eCommerce/eSports company, especially with their recent partnership with Microsoft.
+
+Are there any other companies that you believe has the potential to transform themselves in the coming years? If so which ones?
+
+bonus: Why?_END_OF_POST_PYSTOCK_ ARKG (Genomic Revolution) Thinking of dumping some serious dough in ARKG with the CRISPR tests seeming to go well. And Cathie Wood spanking the street like a bad child. Thinking a 5-10 year play as trials need to be tracked for long term effects. Also the new cas12a looking for approval. Thoughts?_END_OF_POST_PYSTOCK_ Undervalued ETF - ITA What are your thoughts on ITA? Down around 12% this year but can see these companies coming back in the next 1-2 years. What are your thoughts on this? Most things besides REITs and energy are up year to date so this might be good opportunity to find something that’s still down._END_OF_POST_PYSTOCK_ What to do if hedge fund is not paying withdrawals Has anyone had experience with an investing firm that is not replying to emails, and has yet to send withdrawals that were due months prior? I'm not sure if I can share my personal situation (as per the rules of this subreddit), but I'm happy to give more details as necessary. I'm unfamiliar with laws regarding unpaid investments, and am currently deciding on whether I should keep on looking for ways to contact them, or if it's just time to lawyer up. Thanks in advance!_END_OF_POST_PYSTOCK_ 2020 in review : the good, the bad and the ugly As this crazy, tumultuous year comes to a spellbinding end, tell us about your investment journey through the year. 
+
+Best performing holding: thesis on entry, why you exited  and percent gain
+
+Worst performing holding: thesis, when you realised you were wrong  and total hit taken
+
+The one that got away: the investment that you didn't make, the weak hand you showed as you were shaken out with a puzzling 10% draw down, the short squeeze that nipped your GME play in the bud, etc. How does it make you feel? How much did you leave on the table? Why didn't you do it?
+
+Take aways: the one lesson you learnt, the one that will stand the test of time, the one you will tell the grand kids, whoever's listening at the bar, and the other nursing home residents over and over again._END_OF_POST_PYSTOCK_ Concern The “covid relief” got shot down by trump because of millions for other countries along with insufficient funds for individuals/ struggling  small businesses , further lockdowns(new strain of covid ), a over inflated market, uncertainty about election fraud, high unemployment, devaluation of the dollar, growing tension between US/China, it just seems that tumble or correction is coming soon.  I’m increasing my percentage of cash but I’m also thinking of s&amp;p puts. What would be the most effective way to cover these?  Vertical spreads?   Thoughts on the market correction as well?_END_OF_POST_PYSTOCK_ ALC, 2.65$ dividend for a 16$ share price? it was [announced](https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/algoma-central-corporation-announces-special-dividend-of-2-65-per-share) on the 14th that ALC (Algoma Central Corporation) will be giving out a special dividend of 2.65$ per share for anyone on their books before December 24th. So what am I missing here? That's a guaranteed 16.5% return on a investment in a 2 week period. 
+
+&#x200B;
+
+This seems really low risk with a pretty good return investing in a good company. I want to put a decent percentage of my portfolio down on it tomorrow. Is there any way this could go tits up and is there something I'm missing? Thanks!_END_OF_POST_PYSTOCK_ $BLBD - Electric Bus Play 
+Hey everyone, super short DD. I came across this company Bluebird (Ticker BLBD). This is a legacy bus maker with strong connections to school districts across the US that reported fairly strong earnings (check them out on seeking alpha, don’t have a link for you). They recently announced they were expanding production capacity to 1000 electric buses to meet growing demand. They most recently sold 158 electric school buses this year and announced on call they were off to a great fiscal 2021 with 80 orders in backlog. They also noted they have been delivering electric zero emissions buses for over two years now and they are not a startup. They have pretty strong cash flow, they already service many school districts not only with buses but parts as well. I am thinking with 1000 electric buses coming in this environment (Environment - where companies that have delivered nothing in electric vehicle  space are worth 10-15b+). At a measly 450m market cap this company is well positioned and could definitely see multiple expansion and is just fundamentally undervalued (electric vehicle company with p/e? Weird to even talk about that when valuing these companies). I can’t imagine this company is not going out of their way to produce expand electric school bus production if there is not demand, places like California are already going all electric. Chart looks really clean. 
+
+Con...pretty high debt..but they make money and are a legit company. 
+
+Always just my opinion, but love to share! Not financial advice!_END_OF_POST_PYSTOCK_ Opinions on ABML Hey all, I'm fairly new to investing and decided to try putting a small amount of money into TD Ameritrade to see how well I could do with more volatile stocks rather than my normal Morgan Stanley account that is fairly safe since it's holding pretty much all of my money for college. Anyways on 12/01/2020 I decided to buy a few shares of the stock ABML because I had heard good things about it, and after doing some research realized it's actually a very interesting and promising company. As of today I've had a 60% increase in value, and earlier today more than doubled my shares right before another increase. I'm debating whether to sell or hold, and I wanted to know your opinions on this stock! Thanks for reading! By the way this is my first post on this sub so I'm very sorry if I've formatted it incorrectly._END_OF_POST_PYSTOCK_ Moderna dip? please remove if In wrong group.
+
+What are the thoughts about moderna, a 9% drop today seems odd for a company with a viable vaccine thats already being shipped? I know Pfizer experienced same thing to a lesser extent. Hold shares until it starts hitting the general public and see what happens?
+
+What do you see this stock holding at?
+
+Thanks everyone happy investing!_END_OF_POST_PYSTOCK_ How can an American individual write BTC covered calls? I know this is possible with LedgerX, but is this possible elsewhere?
+
+I've seen that CME and Bakkt offer these services as well, however they seem tailored to only institutions. How can an American individual (as opposed to institution) write BTC covered calls?_END_OF_POST_PYSTOCK_

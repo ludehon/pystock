@@ -1,0 +1,819 @@
+ Moving money out of LendingClub and into XYZ broker Because LendingClub no longer allows investors to purchase notes, I need to move my Roth IRA (available balance, I've still got active notes) out to a broker. My preferred choice would be WeBull. I called LC and they've given me my STRATA number.
+
+However, I don't know what I'm supposed to do with it. WeBull app (transfer account page) doesn't list Lendingclub nor does the input of the DTC number (my STRATA number?) do anything.
+
+Anyone been through this scenario? My Roth at LC is sitting there doing nothing._END_OF_POST_PYSTOCK_ 2020 Stock Market Thesis Today a funny thought came to mind.
+
+I remember a year or two ago I watched a TED Talk on an individual who monitored penny stock pump and dump emails.
+
+He noticed how they had a very observable effect on price.
+
+He showed how the first ones were black and white text.  Then when people got use to that they would switch to color and vibrancy and how it would have the same effect as the black and white did when they were new.
+
+Then with spam folders how they had to switch up structure and such.
+
+What I started to realize is that with venues like WSB and the Crypto headlines we have created a new style of the Pump and Dump in an almost indirect way.
+
+I think what will be most interesting about this is because this development has a feedback loop and takes place on the general market versus just penny stocks or pink sheet trades it gives more validity to what individuals perceive.
+
+How this will all turn out?  I am not sure but I think in 2021 we will see a conclusion and it will be very interesting Lol_END_OF_POST_PYSTOCK_ Is the market underestimating the outcome of the Georgia elections next week? I’m surprised to see volatility trading low this week. The market seems to have priced in a Republican led congress, however, the 2 Georgia runoffs next week can drastically change things. In the event the Democrats win Georgia, we may see more volatility. 
+
+Betting markets are signaling some confidence in the Republican Party’s prospects, while polls indicate a slight advantage for Democrats.
+
+
+https://www.marketwatch.com/story/betting-markets_END_OF_POST_PYSTOCK_ Why the $TSLA bubble will not burst? A correction (\~-20%) can happen, but the bubble will not burst (where $TSLA loses more than 50%-90% of its value). Here's why:  
+
+So a lot of people often use the dotcom bubble as a parallel to speculate the pop of the Tesla bubble. The most immediate comparisons come from names such as Amazon, which lost nearly 90% of its value from the peak of the bubble but was eventually able to gain back most of its shares. Other comparisons also include stocks such as Yahoo, which was actually added to the S&P 500 in 1999, right before the bubble burst, or even Qualcomm/Cisco. 
+
+These speculations and comparisons are always interesting to think about. They come from deductions, aka where you extrapolate data points from the past in order to predict what is going to happen in the future. However, a deduction is often not the most useful mental model, especially when circumstances are different in the future. And this is one of those cases where the circumstances are actually very different. 
+
+Now the basic argument of "Tesla is not a car company" is often overused. Yes, Tesla creates batteries, they are going into the autonomous market soon, their AutoPilot is one of the best AI that the world has today (stronger than NVIDIA's GPUs), they are going to get into the insurance game, they are going to get into the financing industry, some people might even say they are going to collaborate with Space X to create flying cars in 2050. That's all great. However, I'm actually going to argue that despite all of these things, Tesla's current price is overvalued but yet, the stock will not burst. And this has in large part to do with how the markets and trader psychology works today, and how different it is from 1999/2000:
+
+As information and financial data has become more widely available through the internet, the markets have had a tendency to price things way ahead of it's time. For example, Tesla believers (bloggers/Youtubers/communities) can now share their bull case for Tesla and what the company will do years and years down the line. While CEOs and company personnel are not allowed to share such projections due to SEC rules, there is nothing stopping these communities from doing so. The most prominent of this has perhaps been Cathie Wood's ARK Invest. She laid out the case for Tesla way back in 2017, and as some of her projections (such as Tesla's profitability) have proven to be correct, people have now become believers that her entire bull case (of Tesla owning the entire autonomous space) will eventually be correct. In a way, the market has become this binary mechanism. FOMO kicks in due to the widespread information that is available, and people pile in. Now, most Tesla bulls believe in the $7000 PT (pre-split) that Cathie Wood has put on this stock, and I doubt very many people are going to be willing to sell before that price. In 1999, if a hedge fund manager was very bullish on a stock, most other investors had no way of knowing. There has been trend towards open-sourcing investing ideas from many investors, and this is a massive deal with Tesla. Other examples of this include Rob Baron or Chamath, who are also very famous investors and well-known Tesla bulls. 20 years ago, investing ideas were supposed to be secretive, with retail investors very much out of the know and speculating on their own. This is no longer the case today. 
+
+In a way, we now live in an investing world of stories, where the story of a stock matters more than the numbers, and these stories get reverberated through social media communities. What a company will do 20 years down the line is a story that is just now more widely available. So even if Tesla stock drops by 10-15% tomorrow, I believe that there are enough believers in this story where they will just continue to buy up the stock from those prices. "Buy the dip" has become this sort of motto in many of these investing communities, and this same theory is true for any of these companies that seem to be outlandishly valued as Tesla. 
+
+The bottom line is: As long as the story stays, the bubble of Tesla will not pop. Even if Tesla has a bad quarter but their long term outlook stays the same, I very much think this will stand true. The only way this bubble pops is if the story changes somehow. That can either be from investors such as ARK saying they no longer believe in the long term hypothesis or other events such as the death of Elon Musk. Otherwise, Tesla will very much continue to stand strong._END_OF_POST_PYSTOCK_ EV battery parts. Repost from r/pennystocks that's worth taking a look at.  Best hidden undervalued (Penny) Stock to buy now? And will this be a game-changer in the lithium mining world? Lake Resources NL (ASX:LKE, OTC: LLKKF)
+
+[https://www.proactiveinvestors.com/companies/news/934968/lake-resources-high-purity--clean--lithium-carbonate-to-be-used-for-first-lithium-ion-battery-test-cells-at-novonix-934968.html](https://www.proactiveinvestors.com/companies/news/934968/lake-resources-high-purity--clean--lithium-carbonate-to-be-used-for-first-lithium-ion-battery-test-cells-at-novonix-934968.html)
+
+**<<Long post alert>>**
+
+Summarized, why I think this stock has so much potential is (in short) because the technology they use will be a game-changer in the lithium mining world. It will **reduce the time** from brine extraction **from months/years to few hours!** It is **sustainable**, **low costs efficient**. It is backed by **Bill gates** and somewhere in a video I'm not sure, but I also heard the name **Jeff Bezos**. They own many lakes to operate in it.
+
+Their current milestone is waiting for the sample results they send to their partner Novonix (NVNXF). They will be given a PR soon about it.
+
+Before I want to get into the company details, let me show you the current state/background of the lithium mining world. I collected some articles below. (sources at the end below)
+
+*Most lithium is commercially produced from either the extraction of lithium-containing salts from underground brine reservoirs or the mining of lithium-containing rock, such as spodumene.* *Lithium production from clay sources* *is expected to become commercially viable, though perhaps not until 2022.*
+
+*Lithium is a metal commonly used in batteries like the rechargeable ones found in laptops, cellphones, and electric cars as well as in ceramics and glass. It is the lightest metal on Earth and is soft enough to be cut with a knife when in its elemental form.*
+
+*Demand has soared in recent years as carmakers move toward electric vehicles, as* *many countries including the UK, Sweden, the Netherlands, France, Norway and Canada* *announce a phase-out of combustion-engine cars. In fact,* *five times more lithium than is mined currently is going to be necessary to meet global climate targets by 2050*\*, according to the World Bank.\*
+
+*But there’s one big problem. Obtaining lithium by conventional means takes its own environmental toll, or rather three: carbon emissions, water and land.*
+
+*Lithium is currently sourced mainly from hard rock mines, such as those in Australia, or underground brine reservoirs below the surface of dried lake beds, mostly in Chile and Argentina. Hard rock mining – where the mineral is extracted from open pit mines and then roasted using fossil fuels – leaves scars in the landscape, requires a large amount of water and releases 15 tonnes of CO2 for every tonne of lithium, according to an analysis by the raw materials experts Minviro for the lithium and geothermal energy firm Vulcan Energy Resources. The other conventional option, extracting lithium from underground reservoirs, relies on even more water to extract the lithium – and it takes place in typically very water-scarce parts of the world, leading to indigenous communities questioning their sustainability.*
+
+*Extracting lithium from geothermal waters – found not just in Cornwall, but Germany and the US as well – has a tiny environmental footprint in comparison, including very low carbon emissions.*
+
+*Geothermal brine is a hot, concentrated saline solution that has circulated through very hot rocks and become enriched with elements such as lithium, boron and potassium. In other words, the energy-intensive process of extracting lithium from solid rock is powered by naturally occurring geothermal energy. The brine in the Cornish mines has concentrations of up to 260 milligrams per litre, flowing at a rate of between 40-60 litres (8.1 to 13.7 gallons) per second. That works out as about enough lithium for a typical smartphone battery (2-3g) passing through the production process every few seconds, according to Cornish Lithium’s estimates.*
+
+*The demand for lithium with a lower environmental footprint appears to be gaining ground. There are signs car manufacturers including Mercedes-Benz and Volkswagen are starting to think about the environmental and social impact of their electric vehicle supply chain, says Alex Keynes, clean vehicles manager at Brussels-based campaign organisation Transport and Environment. Using lithium that is already in circulation – from recycled batteries and electronics – is preferable to mining more, says Keynes. “Given the enormous demand we’re likely to see over the coming years, \[it\] is going to mean we need some extraction, and recovering lithium from geothermal brine looks very promising,” says Keynes.*
+
+*The speed of lithium extraction from brine deposits could be significantly increased using a technique recently developed by an international team of scientists.*
+
+*The new filtration technique mimics the capabilities of living cells and has been tailored specifically to filter lithium ions in an “ultra-fast, one-directional and highly-selective manner”.*
+
+*According to the researchers, the technology — which remains in an early stage — could one day reduce lithium-from-brine extraction times from several months to just a matter of hours*\*.\*
+
+*They have said they are hopeful the technique will be able to provide “a clear roadmap for resource recovery”, as well as for other uses such as “low-energy water purification” — noting the particular* *benefit of greater lithium availability to “enabling electric vehicles and grid integration of renewable energy sources*\*”.\*
+
+*It is the* *latest in a series of lithium extraction technology breakthroughs*\*, as researchers around the world seek ways to make access to this increasingly-important mineral easier and more cost-effective.\*
+
+**The company**
+
+Lake Resources NL (ASX:LKE, OTC: LLKKF) is a clean lithium developer utilising direct extraction technology for production ofsustainable, high purity lithium from its flagship Kachi Project within the Lithium Trianglein Argentina among other projects covering 200,00 ha. This direct extraction method delivers a solution for two rising demands of electric vehicle batteries –high purity battery materials to avoid performance issues, and more sustainable, responsibly sourced materials.
+
+1 Clean-Tech: Efficient, disruptive, cost-competitive technology using well-known water treatment re-engineered for lithium (not mining). Technology partner, Lilac Solutions Inc,supported by **Bill Gates** led Breakthrough Energy fund and MIT’s The Engine fund.
+
+2 High Purity: 99.97% purity lithium carbonate samples never previously delivered at scale in a cost competitive manner for a premium price(refer ASX announcement 9 January2020 and 20 October 2020)
+
+3 Sustainable /ESG: Far smaller environmental footprint than conventional methods, that returns virtually all water (brine) to its source without changing its chemistry, avoiding “water politics”in arid environmentsfor a better outcome for local communities.
+
+4 Prime Location, Large Projects: Flagship Kachi project in prime location among low cost producers with a large lease holding (70,000 ha) and expandable resource (4.4 Mt LCE) of which only 20% is used for 25 years production at 25,500tpa(JORC Resource: Indicated1.0Mt, Inferred 3.4Mt, refer ASX announcement 27 November 2018). Pre-feasibility study by tier 1 engineering firm shows large, long-life low-cost operation(refer ASX announcement 28April2020)
+
+An innovativedirect extraction technique,based on a well-used ion exchange water treatment method, has been tested for over 18 months in partnership with Lilac Solutions, with a pilot plant module in California operating on Kachi brines and has shown 80-90% recoveries. Battery qualitylithium carbonate(99.97% purity)has been produced from Kachi brine samples with very low impurities (refer ASX announcement 20 October 2020). The first samples of high purity (99.97%purity) battery quality lithium carbonate is beingtestedin a NMC622 battery by Novonix. Hazen will produce further samples fordownstream supply chain participants and off-takers.
+
+This method of producing high purity lithium can revolutionise and disrupt the battery materials supply industry as it’s scalable, low cost, and delivers a consistent product quality.
+
+[http://www.lakeresources.com.au/home](http://www.lakeresources.com.au/home)
+
+So far I figured out companies like Energy X and Vulcan Energy Resources having plans to commercialize this method. (all based in Europe)
+
+The stock of Vulcan Energy Resources already have been surged over the year, so will Lake Resoucres also act the same?
+
+Right now I have a small position in Lake Resources NL (ASX:LKE, OTC: LLKKF), they are even doing more projects, see their website. They also stated on their website that their stock is undervalued and should be around $0,29
+
+Depending on your opinions and point of view I might add some more positions in the future.
+
+Let me know your thoughts. Lets discuss it in Yahoo finance or Stocktwits as well, it's empty in stocktwits (LLKKF)
+
+What do you think the worth/market cap of the stock in 1 or 5 years?
+
+Go do your DD before you invest in something!
+
+On youtube there are many things to find.
+
+Used sources:
+
+[https://www.youtube.com/watch?v=FFs6zZ7yeCo&feature=youtu.be](https://www.youtube.com/watch?v=FFs6zZ7yeCo&feature=youtu.be)
+
+[https://www.youtube.com/watch?v=nsDHe-k433k](https://www.youtube.com/watch?v=nsDHe-k433k)
+
+[https://www.thechemicalengineer.com/news/extracting-lithium-from-water-using-synthetic-membranes/](https://www.thechemicalengineer.com/news/extracting-lithium-from-water-using-synthetic-membranes/)
+
+[https://www.bbc.com/future/article/20201124-how-geothermal-lithium-could-revolutionise-green-energy](https://www.bbc.com/future/article/20201124-how-geothermal-lithium-could-revolutionise-green-energy)
+
+[https://www.nsenergybusiness.com/features/lithium-brine-extraction-research/](https://www.nsenergybusiness.com/features/lithium-brine-extraction-research/)
+
+[https://www.thoughtco.com/lithium-production-2340123](https://www.thoughtco.com/lithium-production-2340123)
+
+[https://investorshub.advfn.com/Lake-Resources-NL-LLKKF-37596/](https://investorshub.advfn.com/Lake-Resources-NL-LLKKF-37596/)
+
+[https://backend.otcmarkets.com/otcapi/company/dns/news/document/45471/content](https://backend.otcmarkets.com/otcapi/company/dns/news/document/45471/content)
+
+TLDR: Lithium is essential in EV batteries and demand will continue to increase. This company is severely undervalued and trading at ***.06 cents.*** They've been granted 20 million dollars to continue this disruptive tech by Bill Gates-led fund "Breakthrough Energy" [https://www.proactiveinvestors.com.au/companies/news/913387/lake-resources-shares-surge-after-its-partner-secures-us20-million-from-bill-gates-led-fund-913387.html](https://www.proactiveinvestors.com.au/companies/news/913387/lake-resources-shares-surge-after-its-partner-secures-us20-million-from-bill-gates-led-fund-913387.html)
+
+[https://smallcaps.com.au/lake-resources-revolutionising-lithium-chemical-industry-disruptive-technology/](https://smallcaps.com.au/lake-resources-revolutionising-lithium-chemical-industry-disruptive-technology/)_END_OF_POST_PYSTOCK_ if bitcoin continues to surge in 2021 which is a better buy, paypal or square I just wanted to see what everyone's thoughts are on this. I know a lot of people here despise bitcoin, but I don't want to go there. Personally, I think square has more upside in regards to bitcoin continuing to surge. As of now, square allows you to move money out to a separate crypto wallet whereas paypal forces you to keep your coins on their exchange. let me know your thoughts._END_OF_POST_PYSTOCK_ Tracking investment gains vs deposits in brokerage account For 2021 I really want to focus on tracking the increases to my brokerage account which relate to deposits from my checking account vs gains related to growth in my stocks/dividends. I have a monthly minimum which I invest, but if I have any extra income due to not spending as much in a given month, I invest that too. So I’m trying to think of an easy way to track the dollar amount I’m depositing throughout the year vs market increases. Does anyone else do this and have a suggestion on how best to track? I’m open to apps, and currently use both personal capita and mint. 
+
+Thanks!_END_OF_POST_PYSTOCK_ 2021 Market Outlook  
+
+Hello investors, hope you all had great holidays!
+
+It's been awhile since I last posted one due to a project at my full-time job. I've made it my new year's resolution to continue improving this forum to be more informative and helpful for everyone so please feel free to leave any feedbacks!
+
+As we enter the new year, I believe it is important to keep things in a broader perspective. That means we need to keep a bigger picture of where we are now and where we are heading, per the Mosaic theory as I mentioned previously in #2 of this post.
+
+[https://www.reddit.com/r/Midasinvestors/comments/ju7zbi/investing\_philosophy\_plz\_read\_this/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Midasinvestors/comments/ju7zbi/investing_philosophy_plz_read_this/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+As Howard Marks states in his book "Mastering the Market Cycle: Getting the Odds on Your Side", if we can understand where we are in the broader market cycle, we can position ourselves in better odds to win.
+
+After all, our goal is to invest for the best risk/reward scenarios, whether it means buying stocks, purchase a house, shorting treasuries, or doing a combination of different things. As long as we take care of the downside, the upside will take care of itself.
+
+That is why it is critical to understand what's going on around us right now.
+
+Below are some headlines and graphs that will put things into perspective.
+
+(Images are not allowed here so please check the original post if you're interested in the graphs)
+
+[https://www.reddit.com/r/Midasinvestors/comments/knxgex/market\_commentary\_2021\_outlook\_12312020/](https://www.reddit.com/r/Midasinvestors/comments/knxgex/market_commentary_2021_outlook_12312020/)
+
+📷
+
+Corporate profits improving
+
+📷
+
+Negative correlation between debt amounts and corporate yield, either corporate yield has to go up (which means corporate spread widening, or a correction/recession) or the amount of debt has to come down. I believe that it is more likely that the corporate spread will go up as it is much likely for companies to face distress than for them to reduce the amount of leverage in a short period of time.
+
+Please note this post about how I argued it's more likely for the corporate spread to widen than to narrow.
+
+[https://www.reddit.com/r/Midasinvestors/comments/k53sd5/market\_commentary\_headed\_for\_another\_december/](https://www.reddit.com/r/Midasinvestors/comments/k53sd5/market_commentary_headed_for_another_december/)
+
+📷
+
+Large volumes of IG corporate bond issuance
+
+📷
+
+Large volumes of HY corporate bond issuance
+
+📷
+
+Relatively tight IG spreads
+
+📷
+
+Relatively tight HY spreads
+
+📷
+
+Low corporate yield
+
+📷
+
+Rising amount of companies with covenant-lite loans. Higher amount of CLOs (collateralized loan obligations), which are similar to the collateralized mortgage obligations (CMOs) seen in 2008. For now, it seems to me that they're bundling a bunch of cov-lite and distressed loans into tranches and selling them to raise money. Don't focus on this too much if you are not familiar with the security but keep this in mind for later.
+
+📷
+
+Not surprisingly, energy, cyclicals, and transportations are all struggling compared to the strengths in the tech sector.
+
+Higher leverage globally and in US
+
+Investors using record amount of margins to invest.
+
+[https://www.wsj.com/articles/investors-double-down-on-stocks-pushing-margin-debt-to-record-11609077600?mod=itp\_wsj&mod=djemITP\_h](https://www.wsj.com/articles/investors-double-down-on-stocks-pushing-margin-debt-to-record-11609077600?mod=itp_wsj&mod=djemITP_h)
+
+Stocks close record high
+
+[https://www.cnbc.com/2020/12/16/stock-market-futures-open-to-close-news.html](https://www.cnbc.com/2020/12/16/stock-market-futures-open-to-close-news.html)
+
+Based on the preceding information, it is pretty clear to see that we have the following list of observations.
+
+1. More debt, including both IG and HY, are being issued across all sectors, all countries, and all types of institutions, even at the individual levels.
+2. Corporate spreads are compressed, for that matter all rates including munis, ABS, CLOs, loans, and short-term rates (don't get hung up on any unfamiliar names or security types, as the point is that we are seeing both record amounts of leverage when the yields are at the lowest point. Normally, they go the opposite directions).
+3. Risk assets (stocks, real estate, loans, bitcoin?) are trending up.
+4. Economic conditions are improving as indicated by rising corporate profits.
+
+This is all happening when COVID cases and deaths are surging to record highs and a lot of the countries have imposed restrictions.
+
+If you were asked in April when the US was just going into a lockdown phase where we would be in late 2020, would you have guessed all of it? Specifically the point about surging COVID cases and deaths in conjunction with a record-high stock market and tight corporate spreads? Personally, I am amazed at all of these as they mostly defy the traditional econ 101 or finance 101 schools of thought. Remember all those PhD economists, market forecasters, and investors arguing for the worst stock market, crazy levels of inflation, and rising bond yields? They all got it wrong. How?
+
+This leads me to the topic for today's post.
+
+While the markets have surprised everyone, the list of observations isn't actually all that surprising considering the magnitude of the monetary and fiscal policies.
+
+We have seen an unprecedented (probably the most used word in 2020) amount of actions from both the Fed and the gov't.
+
+Source: https://www.cbo.gov/system/files/2020-11/56746-MBR.pdf
+
+Just these two graphs show the extent of the stimulus provided to the country.
+
+Most of you are probably familiar with the story up until this point, as they have been mentioned numerous times in news articles.
+
+The next part is where I think it will get a bit interesting.
+
+**My personal opinion on stocks is that we will see a broader market rally for the long term (2-5 years) with a few corrections in between.**
+
+It is the Fed that usually causes a recession or a depression even.
+
+📷
+
+If you look closely, most, if not all, recessions were just after when the Fed raised rates. Obviously controlling the rates is not the only maneuver that the Fed pulled over the years but it does indicate the Fed's willingness to turn hawkish (raising rates and tightening monetary policy).
+
+Remember 2018 Christmas market meltdown? That was also caused by the Fed being too hawkish than the market could handle. JPowell immediately changed his stance based on the market reaction and turned dovish instead.
+
+But why would Fed try to kill the economy with tighter monetary policy? It's because of the fear of inflation. Inflation can get out of hand in no time and their role is to prevent that from happening.
+
+The point I'm trying to make is that all we need to focus on at the moment is the Fed action and the government policy in order to see where the market is heading for the next 2-5 years. It doesn't take a rocket scientist to understand that their policies are so significant and so powerful that they are almost single-handedly driving the economic recovery and the markets.
+
+We don't need to worry about the Fed turning hawkish as the Fed has explicitly promised us we won't get any balance sheet contraction or rate hikes for the next 2-3 years until we have beaten the inflation target on average.
+
+We also don't need to worry about the government reducing its deficit as they have also promised to spend for the country, and worry about the deficits later.
+
+To summarize, we've got a few forces in action.
+
+1. Favorable Fed and government policies -> Positive to the risk-assets
+2. Signs of excess: EV bubble, bitcoin, risk assets rally, margin investing record highs, market sentiment at the highest, put to call volume ratio at the lowest, and so on. -> Negative to the risk-assets
+3. Vaccine coming up -> Positive to the risk-assets
+
+My personal feeling is that we will certainly see a few quick, out-of-nowhere corrections in the risk markets (stock markets) in the short-term due to the signs of excess I have observed. But the monetary and fiscal policies are too powerful to fight against.
+
+Therefore, I have positioned myself for shares in stocks, as opposed to call options or bull spreads (as they are too short-term), short treasuries, long gold, long cleantech, and a good amount of cash (20-30% cash). I will be observing the markets from the sidelines for a bit and decide when to pounce.
+
+As always, please feel free to share your ideas or opinions.
+
+I hope everyone has a great New Year's Eve and look forward to a great 2021!
+
+Thanks for reading and see you next year!_END_OF_POST_PYSTOCK_ ARKW and Nano Dimension So I have seen videos with the titles that ARKW recently bought a fair amount of NNDM in the last few days. I am subscribed to the daily ARK Trading Desk emails that are supposed to show the trades they make on a daily basis. I looked through the emails for the past week (only subscribed since 12/21) and don't see this trade anywhere. Am I missing something? Do they not send all their trades but just their bigger ones? From what I can tell the trade was done on 12/28 so I should be able to see it in the email no? Any help solving this grand mystery is greatly appreciated!_END_OF_POST_PYSTOCK_ Question about owing stocks in a US brokerage (Like RobinHood) as a Canadian resident Folks, this might be more of a tax related question, but while i was working in the US i investing using the Robinhood app. I didnt end up cashing out anything and just left it as is when i moved back to Canada. I figured i would just pay taxes both in US and Canada in as needed. Just curious if anyone is in the same position or has any advise on this situation. 
+
+Thank you in Advance._END_OF_POST_PYSTOCK_ ALERT! Ticker $CEO (CNOOC) will not be tradable after today on TD or Schwab! EDIT:  
+
+**You have until market close on Monday January 4** minutes to liquidate or you will have to "transfer to an overseas brokerage".  
+
+&#x200B;
+
+Dear Valued Client,  We recently wrote to let you know that you currently hold one or more of the restricted securities impacted by the executive order signed by President Trump on November 12, 2020. We've received notification from our liquidity providers that they may not accept transactions in shares of the associated securities starting on January 5, 2021, which is earlier than the January 11, 2021 federal deadline. Therefore, you will have until market close on **Monday, January 4, 2021** to liquidate these securities.    The [executive order](https://www.whitehouse.gov/presidential-actions/executive-order-addressing-threat-securities-investments-finance-communist-chinese-military-companies/) prohibits the purchase or holding of any securities that invest in mainland Chinese companies with ties to the military of the People's Republic of China (CCMCs\*). A full list of restricted companies and/or funds can be found [here](https://www.tdameritrade.com/retail-en_us/resources/pdf/TDA101484.pdf).  **Action Required in Your Account**
+
+* If you wish to liquidate any of the associated securities you should do so before market close on **Monday, January 4, 2021.**
+* We may be **unable to accept any liquidation orders** for any security, or any derivative of, that has been identified by the U.S. government as having investment exposure to CCMCs after **January 4, 2021**. Barring any future guidance from the U.S. government, you may continue to hold these securities until market close on November 11, 2021, **but you may not be able to liquidate them at TD Ameritrade.**  You also have the option to transfer the securities to another broker-dealer. Please submit any outgoing transfers requests to us by **August 2, 2021**\*\*. (These transactions may incur fees or commissions, depending on the asset type.)
+
+**Have Questions?**  We're here for you. Just reply to this message to write us, or call Client Services at 800-669-3900. We're available 24 hours a day, seven days a week.   Sincerely,    TD Ameritrade Client Services_END_OF_POST_PYSTOCK_ Thoughts on BSY Stock? A Recent IPO I found that is show promising growth. They're a Software company in the infrastructure industry, developed software such as MicroStation.
+
+Why they caught my eye:
+
+* Earnings are forecast to grow 20.29% per year
+* Revenue grew by 8.2% over the past year
+* 44 Acquisitions, essentially trucking any competitor in their path
+* A niche market (infrastructure) which has a hands
+* They seem to be making the right forward thinking choices (SaaS instead of Fat Client, building software on popular cloud platforms (AWS and Azure), and slowly cutting back on debt
+
+Seems to only be a matter of time before it catches the eyes of a hedge fund company that buys a ton of shares_END_OF_POST_PYSTOCK_ Peer to Peer Investing Platform I have been using LendingClub for a while, and was sad to hear that they have retired their investing accounts and are becoming just a high yield savings account. I’m looking for a new platform like LendingClub, but found that UpStart and FundingCircle are on the same path of LendingClub and are no longer investing. 
+
+Does anyone have a good peer to peer investing platform that still allows investing?_END_OF_POST_PYSTOCK_ Is there an archive of Ark Invest's trading activity? Individual retail investors can sign up to receive [trade notifications](https://ark-funds.com/trade-notifications) from Ark Invest regarding their publicly traded ETFs.
+
+I'm looking for a searchable archive of their historical notification, because I want to search for something specific in their past trades. 
+
+Anyone know of a way to do so?_END_OF_POST_PYSTOCK_ 2021 Resolutions for the happy investor The end of the year is near, 
+why the fuck are you on reddit? Good that I am here to share with you the tips to make 2021 your best year ever.
+If you don't have time be sure to comment or bookmark it for next year.
+
+So without further ado here they are:
+
+1. **Waste less time.** 
+Got Netflix? Cancel it. Facebook? Delete it. Twitter? Get rid of it. Instagram? Stop it. Reddit? Skip it.
+ Apart from the negative influence a lot of these media have, it's often a horrible waste of time.
+ Americans spend on average [1471 hours] (https://www.mandatory.com/living/1478185-social-media-wasting-time) a year watching tv.
+ Malcolm Gladwell stated that it takes [10.000 hours or practice to become an expert at something](). Didn't read the book, but I gave my own twist to it: I combine it with the [pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and I come to the conlusion that it takes only 80 hours to get 50% of the expert level. So yeah, let's be conservative and let's say it takes 100 hours to be decent at something.
+ Then, go ahead, get decent at something instead of watching television. Learn to code. Learn a new language. Study nutrition. Try to master an instrument. Make your own furniture. *This is investing in yourself.*
+ Waste less time on politics as well. The chance you will change something is very small anyway. Clean your own room first.
+
+2. If the thing you picked up at #1 is not a physical activity, pick up one. Go lift, run, go play squash. It's healthy for both body and mind. Chop trees. Fix your garden. Not only does this make your body release nice hormones and improve your physique, it also decreases the chance of getting Alzheimer's later in life.* This is investing in yourself.*
+
+3. **Waste less money.** Boosting your savings rate with [15% means you can stop working 8(!) years earlier](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/). So again, cancel that Netflix membership and skip that McDonalds meal for a nice homecooked one. This is investing in yourself.
+
+4. Allocate some money to 'high-risk' investments. Buy Bitcoin, smart people do. Buy [Coinbase before the IPO](https://warosu.org/biz/thread/S25039356). We are in a bullmarket and the FED is printing like crazy. Cash is trash.
+You are scared of a loss? The dollar lost 10% ytd versus the euro.... and versus bitcoin? More than 70% loss.
+
+5. Make someone's day more often. Call your mother.
+
+
+^*Don't ^waste ^time ^debunking ^Malcolm ^Gladwell, ^I ^don't ^care. ^The ^point ^is: ^you ^can ^allocate ^your ^time ^to ^more ^useful ^things ^than ^mindless ^entertainment._END_OF_POST_PYSTOCK_ Nio Been learning more about investmenting by reading the intelligent Investor, and some yt videos. Basically says I should dollar cost average into a variety of Etfs.
+
+My question is how much should I put into nio? I have heard very good things about it, I.e. Many are hailing it as the next tesla. I had about 5000 in it but took out a couple thousand today, as it was on a high.
+
+I am worried about putting too much of my eggs in one basket (I currently have 9k to play with), but at the same time, I have a fear of missing out on major gains if it actually becomes a legit car company.
+
+Let me know your thoughts!_END_OF_POST_PYSTOCK_ 2021 Investment Strategy Hey, over time I have changed my portfolio from a diversified dividend stock portfolio (12-14 stocks) now switched to an ultra concentrated high growth portfolio.
+Everyone is different and need to decide which strategy suits their risk tolerance the best.
+As a young investor my goal is to maximise growth, having an ultra concentrated strategy has by fair been the better for growth for me by far this year. Diversification leads to average returns, it seems in this crazy market anyway
+
+I hold only TSLA 45%, TTCF 25%, AMD 15%, NIO 5%,
+5% cash
+
+However TSLA has grown so much, surely will need to take some profit eventually. AMD has been more stable but all growth stocks seems to be majorly overvalued.
+
+The general consensus is bullish for 2021, low interest rates, more QE potentially as the fed said they’re continue to use all tools within their means. Is anyone worried about next year? Or which signs are you looking out for in the market in case there’s a crash?
+Potential hike in interest rates could be the catalyst for a crash?
+
+Open to any ideas about my asset allocation and general ideas! 
+Happy New Year!_END_OF_POST_PYSTOCK_ Are you invested in a company you don’t use? I am curious about this one...
+
+I keep reading and hearing veteran investors say “only invest in a company you believe in”...how many of you are actually doing that?
+
+I think Coca-Cola is a great company with a huge moat and worth the investment. But I don’t drink soda.   McDonald’s is a successful international business I don’t see going under, but I haven’t eaten fast food since I took a high school nutrition class over 10 years ago. 
+
+I believe in these companies because I know others LOVE their products even though they don’t fit in with my ~personal~ lifestyle 
+
+So would you invest?_END_OF_POST_PYSTOCK_ Tax Loss Harvesting on Option Combos 1. If I have a short straddle and I sell the leg that has a loss now and the leg with a gain tomorrow, is that a wash sale?
+
+2. If I have a covered call with a loss in the underlying, can I sell the underlaying and keep my short call or is that a wash sale?
+
+3. If I have a covered call with a loss in the option, can I sell the option and keep my long equity position or is that a wash sale?
+
+4. Are options on futures contracts handled differently with regards to the above?_END_OF_POST_PYSTOCK_ Is anyone buying right now? I know, don’t try to time the market and all that jazz, but it seems like most of my top stocks (apple, disney, jnj, sbux, costco etc) are insanely surging right now. i have a good amount of sitting cash waiting to be invested, but i can’t bring myself to buy at such inflated prices. is anyone still buying or waiting it out?_END_OF_POST_PYSTOCK_ How do you pay 0% state capital gain taxes I am an single unemployed SC resident who is considering doing tax gain harvesting. I know up to 40k will be taxed at 0% federally, but I am unsure of how much will be taxed for the state, which has a 7% rate with 44% reduction. Also you don't have to file state taxes if you make under $10,000 (it's a bit more). I am fairly confused on this, so any help is appreciated. I think it would be limited to if its under how much is needed before taxes need to be filed._END_OF_POST_PYSTOCK_ Outside of political/economic events, unemployment reports, seasonal activity...what causes the markets to fluctuate daily? Is it just happenstance that people are cashing out long term holdings on any given day? Surely the companies in the S&P aren't worth less on a down day today than an up day yesterday? 
+
+What about days where the S&P jump up big in a day with no major headline news or etc.? Everyone bjust decided to buy that day? Why not make a pact where we all commit to buy small perpetually?_END_OF_POST_PYSTOCK_ I have become a living meme to all my investor friends because I keep missing out on every good investment opportunity since I started while they became richer and richer. If you don't want to become a loser like me listen to your gut and don't be afraid to take risks. I got friends that made a fortune on Bitcoin and others on tech stocks like Tesla, Microsoft and Apple.
+I remember countless conversations we had, them telling me to invest(I remember clearly that at that time I could have bought around 200 bitcoins) and I just couldn't be bothered "gambling" my savings so I had them parked in a bank for a lousy 1.5% interest per year for over 12 years.
+
+Back on January of this year I finally got some courage and decided to invest but chose to put my savings on a diversified ETF portfolio instead of picking single stocks, because I wanted to limit my risk.
+In February my portfolio went down around 35% due to the Covid market crash and I got immense pressure from my wife to sell and save as much of our savings as possible before we lose everything. I panicked and caved in, more than half the amount was hers so I couldn't really refuse.
+
+During the following months and for some bizare reason the markets not only recovered from the February-March losses, but they kept making record highs and made many investors rich during a pandemic that killed milions and crippled most countries economies. Not even sure how this was possible if you ask me.
+
+Moral of the story: 
+Don't be a fucking loser like me. Don't be scared to take financial risks because you will never make money if you don't. All my investor friends started with a lot less capital than me and ended up rich or well off.
+I could have been set for life if I only listened to them and didn't chicken out like the coward I am. Instead my family is currently struggling due to unemployment and having to move in to a bigger house._END_OF_POST_PYSTOCK_ KOMP vs ARK What's everyone's views on KOMP as compared to ARK? 
+
+Both seek to invest in innovative, disruptive companies, but KOMP tracks an index, rather than being actively managed, and has a way smaller expense ratio. The returns have been pretty decent too, and I'm a fan of their top ten holdings. 
+
+Any reason to opt for ARK instead, invest in individual stocks, or otherwise not invest in KOMP?_END_OF_POST_PYSTOCK_ Are there any historical examples of stocks behaving similarly to TSLA for such a long time? I think (most) people would agree that TSLA is largely overvalued right now and has been for some time. But unlike typical bubble examples, TSLA's price has never really burst like a lot of people expected, and continues to look strong. I'm curious, are there other stocks that were historically similar to this (ie., orders of magnitude overvalued for years), and did they ultimately grow into their valuation over time, or did they eventually see a bubble burst? Would appreciate specific examples if you have any, thanks!_END_OF_POST_PYSTOCK_ What are the repercussions of investing in a parent company if you work at a subsidiary? Is investing in a parent company legal if you work at a subsidiary? Or it considered insider trading? As an example, if you work for Dairy Queen, Fruit of the Loom, GEICO, etc., can you invest in let’s say Berkshire Hathaway? I couldn’t find a resource that specifically talked about or pointed to an answer. Thanks!_END_OF_POST_PYSTOCK_ Downturn Investing Tips (Thread) Former hedge fund analyst shared this on Twitter - great lessons from 2020 and ways to take action the next time we run into downturn or shock to the market.  Also some tips that work in any market.
+
+https://twitter.com/aravreby/status/1344356602321620992?s=21
+
+What do ya’ll think?_END_OF_POST_PYSTOCK_ The fear and greed chart for 2021 [chart here](https://www.eckelberry.com/blog/phases-bulle-speculative.png)
+
+Goodbye 2020, hello 2021.
+
+Hello all!
+
+As the year comes to a close we've seen some crazy-ness in the markets and historical gains. Are we in a bubble? Or are we entering a new era of retail investors and YOLO traders that are pushing markets to all time highs?  Is this sort of thing sustainable if and when things get "back to normal"? 
+
+Where do you people think we are on this chart? Just a post for discussion and debate._END_OF_POST_PYSTOCK_ [US] Tax advantage of setting up legal entities for stock trading/investing TLDR; Is there any tax advantage of setting up any legal entities (LLC/S-Corp etc) for stock investing/ trading activity?
+
+For retail investors who have a different primary source of income and invest in the stock market (or even trade frequently but do not qualify as traders per IRS guidelines) to derive some secondary income, is there any tax advantage of setting up a separate legal entity for all trading activities?
+
+I know that answer is probably “it depends on your exact scenario and your financial goals” but I’m curious to know under what common scenarios does it make sense?
+
+For example: many retail investors I know have a full time job. They buy/sell stocks may be once or twice a month. They probably trade some options every now and then. Would it make sense for them to setup any legal entity to get any tax advantage on their side income from trading activities?
+
+PS Happy New Year everyone!_END_OF_POST_PYSTOCK_ VSMAX's holdings not actually small cap? VSMAX is one of vanguard's small cap index index funds, yet when I looked up their holdings, I found that their largest holdings are ZBRA, ETSY, TER, and HUBS.
+
+Those 4 companies are approx $20B companies, which puts them into Large cap, not small.  Based on various google search sources, my definition of small is <$2B.
+
+The VSMAX prospectus references the MSCI Small Cap 1750 index, which has similar large cap companies for its top holdings.
+
+Maybe a case could be built for Etsy, seeing how most sales there are from tiny startups in people's garages, although I would generally classify those businesses as micro or nano caps.  Even if that's the reason, then couldn't the same logic apply to Amazon or eBay (which I don't think anyone would consider as small caps either)?
+
+Also, even if that's the reason, that logic doesn't really work for Teradyne either though.
+
+So, all this is to say "what gives?". Is there something I'm missing here?_END_OF_POST_PYSTOCK_ Can you refinance a rental property as a "second home?" I bought a starter property in 2018 for $299k, lived in it for a year, then moved into a McMansion (after getting a new job).
+
+I rented the starter property out for $2100 a month. I'm currently paying 4.06% interest as a "first home" mortgage. I want to refinance the starter property because rates are so much lower now. 
+
+The starter property has gone up in value and is now worth about $350k. I have approximately 30% equity.
+
+Can you refinance a rental property as a "second home?" I've read that you can't do this, but there are sites saying you CAN if you have at least 25% equity and your income can cover both properties.
+
+I make about 175k/year (wife lost job because of covid). Mortgage on McMansion is about $2700/month. We have no other debt (except 20k of margin in brokerage accounts that won't show up on credit report.) Credit score is around 750-760._END_OF_POST_PYSTOCK_ Thoughts on what to do with FUBO? I’m somewhat conflicted. I trimmed down my position yesterday and distributed the money to limit risk but the thing keeps going down. Their growth is pretty good but do you think it could be a 200-300 stock in the future? From a growth standpoint it’s looking good but there is a lot of competition in the streaming sector they could get crushed. Pretty risky bet if you ask me. Just wanted to start a discussion about this stock._END_OF_POST_PYSTOCK_ I'm surprised at how many people in the comments recommend ARKK and ARKG these days Can you really say that putting money in these ETFs is a solid investment?
+
+Are you forgetting that past performance can't predict future performance?
+
+Did you go over each of the balance sheets and conference calls for the top 10 holdings in these ETFs and agree that they are undervalued?
+
+Or are you just putting your faith in Cathie, who has no control over market sentiment towards these stocks?
+
+Even if you actually believe in Cathie's ability to consistently outperform the market, and you believe in active fund management - why stop there? There are many active fund managers who performed even better than ARKK, with a better track record to boot! Is it just the ETF package that suddenly makes it a better investment?
+
+I remember everybody ridiculed ARKK in this subreddit in consensus when someone asked about whether ARK ETFs are a good investment (before they exploded). Don't you think it's a little bit too late after the fact to call it a long-term set-and-forget investment?
+
+I'm really open-minded to change my opinion on this so feel free to criticize my line of thinking._END_OF_POST_PYSTOCK_ Which ETF to choose between FSKAX vs FBCG for my son future I want to put in $50 a month to a long tern etf for my 9 year ild son until he turns 18. And i would to give him this money as a graduation gift to him. But I cant decide between FSKAX or FBCG. I already have othe but etf like VTI and QQQ for my Roth IRA. Can someone help me decide what would be the best choice between these 2 etf for my son._END_OF_POST_PYSTOCK_ What happens to my Good Faith Violations after I switch from a Cash account to a Margin account? I recently incurred two GFV's on my Webull account and now only can have 3 more within 12 months before my account is restricted. I did not think it was a big deal because I plan on switching to Margin in the next few days. My question is, what happens to my GFV's once I transfer to margin? Will I now be able to day trade 3 times within a 5 day period like I have been able to on my Robinhood Margin account? Will the marks I received for GFV's simply go away?_END_OF_POST_PYSTOCK_ Tax considerations with ETFs (ARK in particular) My father has a sizable investment portfolio in a traditional IRA and another non-IRA. He's done really well with VTI and VGT over the past few years. I've been telling him about ARKK, ARKG and a few other high flyers and he's interested in moving a small percentage of his portfolio to them. He enjoys watching the market, researching, and keeping track of it all.
+
+Beyond holding the ETF so they are considered long term gains, are there any other tax consequences to consider if he puts a small percentage of his investments into these fund?
+
+Many years ago before ETF's were as popular, I remember having to consider tax consequences of various mutual funds. Two funds with similar performance numbers may end up with different results come tax time depending on how often the funds traded, etc. ETF's eliminate those concerns, correct?_END_OF_POST_PYSTOCK_ Are some investor names just used as marketing? I've been investing for 20+ years.  I'm at a point where my retirement goals are being met so I can start investing in diversified options other than equities.  
+
+One thing I've noticed is names like Mark Cuban, Kevin O'Leary, etc keep popping up as investors in many of these ventures.  I'm doubtful that theses guys have taken the time to do a lot of DD on these companies (maybe they have?).  It just seems like a new company looking for capital can give these guys equity cheap to add their names as investors as a marketing tool to attracting additional investors.  
+
+Is this what is going on or are these guys genuine stakeholders?_END_OF_POST_PYSTOCK_ Finding ETFs - choose/filter by stocks Hi,   
+I'm new to the investment world and would like to start investing with an ETF.  
+Now I got some ideas about what kind of companies I'd like to put my money in but when I saw the popular ETFs around I found some positions which I didn't like.   
+
+
+So I'm looking for a tool or website that can show me ETFs that contains certain stocks that I want,   
+or rather filters ETFs by stocks that I don't like.  
+
+
+For example, I'm looking for an ETF that contains these  
+\- Amazon, Apple, Airbnb  
+but I'd hate to invest in these  
+\- Facebook  
+
+
+How  do you guys find your ETFs?  
+Do you actually care for the stocks in them?_END_OF_POST_PYSTOCK_ Coinbase: sued, slandered and still going up I do not like Coinbase as an exchange, but I think it will be the opportunity of a life to get in now. Which I did. (I described a way to get into CBSE Pre IPO [here](https://np.reddit.com/r/CryptoCurrency/comments/khx0rj/get_ik_before_wall_street_the_coinbase_pre_ipo/))
+
+Since buying in two pretty bad pieces of news came out:
+
+
+Bloomberg: [Coinbase Sued Over XRP Commissions After SEC Pursues Ripple](https://www.bloomberg.com/news/articles/2020-12-30/coinbase-sued-over-xrp-commissions-after-sec-pursues-ripple)
+
+NY Times: [Cryptocurrency Start-Up Underpaid Women and Black Employees, Data Shows](https://www.nytimes.com/2020/12/29/technology/coinbase-pay-employees.html)
+
+While I do not thing any of those things have any merit, **normally** this would have a negative effect on the price regardless. Especially if a company is already overvalued by any useful metrics, which CBSE seems to be.
+
+But there is no selling pressure. We are currently trading at 263 USD, up from 238. Which makes me believe **Coinbase will be a mind-blowing IPO in 2021.** I believe there is a lot of potential upside left. Because of the reasons mentioned in the other topic (so nothing about fundamentals, just expected IPO price action).
+
+
+
+
+
+
+ ^I ^am ^long ^CBSE ^and ^this ^is ^NOT ^financial ^advice._END_OF_POST_PYSTOCK_ Momentum ETFs - what are the reasons against? Many speak of not being able to beat the market over the long-run. As such, the core of an investment portfolio should contain a passive index ETF that tracks the entire market, such as the MSCI World (or regional alternative). However, momentum indexes such as the MSCI World Momentum often do better or only *very slightly* worse than their baseline counterparts, including through the last two major financial collapses.
+
+Why would one not build their portfolio around a momentum ETF, given the potential for greater returns at very little added risk?
+
+**Examples:**
+
+[MCSI World Momentum](https://www.msci.com/documents/10199/904e031c-94e4-4dbc-a314-7c373446dffa)
+
+[S&P 500 Momentum](https://www.spglobal.com/spdji/en/idsenhancedfactsheet/file.pdf?calcFrequency=M&force_download=true&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&indexId=92024474)_END_OF_POST_PYSTOCK_ Top 15 Countries by Productivity per Hour Worked - 1950/2017  Top 15 Countries by Productivity per Hour Worked - 1950/2017
+
+Labor productivity per hour is measured as gross domestic product (GDP) per hour of work.
+
+GDP is measured in constant 2011 international-$, which means it is adjusted for price differences between countries (PPP adjustment) and for inflation to allow comparisons between countries and over time. Source: Our World in Data.
+
+Source: National accounts, ICP benchmark data; Our World in data
+
+Link video here: [https://youtu.be/TK9Cj-icWUM](https://youtu.be/TK9Cj-icWUM)_END_OF_POST_PYSTOCK_ Do margin loan interests compound? daily or yearly? say I have zero cash and $50k worth of stocks now in an account at fidelity/interactive broker. One day, I decide to withdraw $10k cash as my margin loan to pay my house mortgage and my margin loan balance is $10000. I just let it sit and don't pay back a penny from now on.
+
+
+Let's say my interest rate is 10.8%, so everyday it is 0.03%. Fidelity/IBKR will charge me $3 everyday. after day one, I owe them $10003; after two days, do I owe them $10006 (simple interest) or $10006.009 (compounding)? 
+
+
+Is my cash balance -$11080 after a year? ($10k principal + $1080 interest, simple interest, no compounding)
+
+
+Is my cash balance -$12160 after two years? but if it's compounding yearly, it would be negative $12276.64 (==$11080*1.108).
+
+
+Thank you for your help._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Fidelity COVID withdraw - lawsuit? Tried to make a Covid withdraw from my 401K. Called at around 11am PST or 2pm EST (2hours before market close). End up being on hold for 2hours 27minutes. Finally get through to fidelity rep who assures me I am ineligible for Covid withdraw because market is closed and the government has a strict deadline for 12/30 4pm EST. I continue to ask and try to get him to execute my trade with no luck. After the call I do some research and find out in invested in mutual funds which exclusively ONLY trade AFTER 4pm EST and read up on the IRS website where there is ABSOLUTELY NOTHING about the deadline being 4pm EST. Did anyone else experience this today? Is this grounds for a lawsuit?_END_OF_POST_PYSTOCK_ What is your long-term view of MSFT? The reason I’m asking is because when the discussion arises about the biggest tech companies and their possible upside in the future I mainly see the likes of AAPL, GOOGL and FB being mentioned. Microsoft however doesn’t seem to be named a lot. 
+
+So I’m curious how people on this subreddit look at the company in the long-term. I’m quite bullish on them to be realizing the same amount of gains in the future as these other companies given the very solid foundations the company can rely on and they have the means to jump into any project they want. 
+
+Let’s discuss._END_OF_POST_PYSTOCK_ How does one trade oil? Day traders trade the volatility during the day but oil is pretty much all day (correct me if I’m wrong). How does one actually trade oil futures? Buy Low sell high? There’s a bunch of guys that made a huge load of money when oil was pretty much “take it off our hands”. How does one do that? Anyone have any experience trading oil futures? What would be the equivalent of investor relations pages for an oil trader to read?   Please share some advice for a new trader. Will upvote._END_OF_POST_PYSTOCK_ $ARCT completely misunderstood I honestly can't believe how 1 person's opinion can trigger a 50% drop in this company.
+
+The drop was for the following reasons:
+
+\- Not moving fast enough
+
+\- Not enough antibodies
+
+\- THE BIGGEST REASON: May not be a 1 shot solution
+
+The facts:
+
+\- Not moving fast enough:
+
+They are literally on the timeline that they outlined 4 months ago in their past video.
+
+\- Not enough Antibodies
+
+The antibodies after 1 shot of Pfe/ biontech was essentially equivalent to the antibody response in ARCT's first shot.
+
+THE MAIN DIFFERENCE:
+
+ARCT's vaccine in 1 shot provided ample antibodies, but also a strong Tcell response. Much better than any other vaccine EVER created.
+
+\- May not be a 1 shot solution:
+
+If you watch this video and actually understand what they're saying. This is ON TRACK to be a 1 shot solution. If ARCT was creating a vaccine like PFE they would not be valued like this. The reason they are valued at what they are is because of the type of mRNA vaccine they creat that is self replicatin and inducing a strong T cell response. Over time it is already, and will continue to show, that this response is effective after 1 shot over time.
+
+Why T Cell is more important than antibody: [https://www.cebm.net/covid-19/what-is-the-role-of-t-cells-in-covid-19-infection-why-immunity-is-about-more-than-antibodies/](https://www.cebm.net/covid-19/what-is-the-role-of-t-cells-in-covid-19-infection-why-immunity-is-about-more-than-antibodies/)
+
+Who cares;
+
+If you seriously think that the couple of vaccines available now are ample for what the demand is you are strongly mistaken. Vaccine demand is for a surplus of vaccines. A multitude of vaccines are needed b/c not all vaccines work for everyone.
+
+ARCT has the lowest dosage for a vaccine, single shot (yes, still works), cheaper, EASIER TO PRODUCT, EASIER TO STORE, EASIER TO TRANSPORT. *ARCT*\-021 will be lyophilized, or *freeze*\-dried, so it's can be stored at regular refridgirator temperatures.
+
+Every other vaccine requires expensive equipment to keep it the right temperature at FREEZER LEVELS, not REFRIDGIRATOR. This is a huge difference number 1, number 2 the size of the equipment carrying the vaccine makes a huge difference.
+
+PFE has a vaccine that requires 2 doses, stored at freezing temperatures. This is heavier, more expensive, and requires double the shipment / person.
+
+And for everyone waiting for ARK's approval. They haven't sold, last time it dropped they waited 2 days before buying so you have 1 day left. After that ARK buy goes through you've missed the boat.
+
+See you at $90 in Jan. 👍_END_OF_POST_PYSTOCK_ All portfolio's gone on investing.com! Anybody else has or had this? This is weird. On [nl.investing.com](https://nl.investing.com) (Dutch version but should be the same for every language of [investing.com](https://investing.com) ) all of a sudden all my portfolio's are totally gone. Just happened 15 minutes ago or so. Anybody else has this or ever had this? What to do about this?
+
+If you also use [investing.com](https://investing.com) for watchlists maybe check if your portfolio's are still there and let me know. Thanks._END_OF_POST_PYSTOCK_ Bought Alibaba at 298 and it’s down to 230 now. New investor here. A few months ago my girlfriends dad told me to get into investing. I decided to put a large amount of my savings in BABA which is basically the Chinese Amazon from what I heard. Unfortunately ever since I bought in at 298 a share the price has tumbled and I’m out quite a bit of money. Is the stock market rigged? Will I ever recoup my money lost? What do I do. I feel like a complete idiot now when my girlfriends dad wants to talk stocks._END_OF_POST_PYSTOCK_ Short Position: The Big Short (Movie) Why Short a company when you can buy long term Puts on it?
+
+Ok, so in the movie the Big Short by Adam McKay (based on real events of the 2007 crash) the hedge fund managed by Doctor Berry creates a Short position on the whole Mortgage Backed Securities market by “borrowing” stock shares from the banks who do the sketchy securities (specifically the Credit Default Swaps i believe) for a certain price every year... which means that if they are not right in a few years he loses all of his money due to that interest... my question is why didn’t he just do a whole bunch of long term Option Puts? Wouldn’t that be better because he could have less at risk with just the premium And not worry about losing all of his money from holding a Short Position? Or is there some special rule about Hedge funds that I don’t know that doesn’t allow him to have such large amounts of money in options?_END_OF_POST_PYSTOCK_ Precious Metals ETF vs Gold ETF Hello;
+
+for 4% of my portfolio I am trying to decide between following ETF's: 
+
+\- **WisdomTree Physical Gold (EUR) (PHAU)**  
+\- **WisdomTree Precious Metals (EUR) | (AIGPP)**
+
+The rest of my portfolio is mainly VT.
+
+I would opt towards AIGPP because it offers more diversification.
+
+Any advice between these 2?_END_OF_POST_PYSTOCK_ NIO Jan 9, 2021 Battery day event So Jan 9, 2021 is NIO battery day. What are the plays here? Tesla battery made bank up their price targets and went on a major bull run post event. Do we expect the same? What are your thoughts?
+
+They made no statements about cell chemistry, cell supplier, size, weight or cost of the battery pack. Nio plans to hold the ‘Nio Day’ in Chengdu on 9 January 2021 – an event that actually takes place between the years. “CN Tech Post” expects the new battery to be presented during the event.
+
+In its current models, the electric car startup offers batteries with 70 and 84 kWh, and a 100 kWh option may follow this year, which could meet the demand for higher ranges._END_OF_POST_PYSTOCK_ Are you more bullish on EV and autonomous vehicle related stocks or lithium and battery related stocks/etfs? Why? Are you more bullish on EV and autonomous vehicle related stocks or lithium and battery related stocks/etfs? Why? What positions do you hold? Why did you choose it over something else?  
+
+&#x200B;
+
+Two ETF's to compare: 
+
+$LIT an ETF related battery technology for evs and autonomous (LAST $62.31 & GROWTH 116% in 12 months) 
+
+$DRIV an ETF related to autonomous and electric vehicles (LAST $23.97 & GROWTH 60.52%)  
+
+Personally, I see more risk related to the car companies themselves. There are so many factors that come into making them succeed but the materials and tech needed for the batteries will only continue to improve and become more valuable unless there is something that comes out over night and replaces ev tech/lithium batteries._END_OF_POST_PYSTOCK_ Question on SPACs I invested in IPOC a few months ago. They acquired Open Door in mid-December and all of the shares converted to Open Door shares. Made perfect sense.
+
+What doesn't make sense is that I still see IPOC moving on my watch list. Is this a new SPAC that started under the same ticker? Is the old SPAC still moving on with leftover funds to acquire new targets?_END_OF_POST_PYSTOCK_ Cathie Wood’s Flagship Fund Posts Largest Outflow on Record ARKK Don't worry... still a solid ETF, probably profit taking like the rest of us
+
+[https://www.bloomberg.com/news/articles/2020-12-30/cathie-wood-s-flagship-fund-posts-largest-outflow-on-record?sref=sEeidznU](https://www.bloomberg.com/news/articles/2020-12-30/cathie-wood-s-flagship-fund-posts-largest-outflow-on-record?sref=sEeidznU)_END_OF_POST_PYSTOCK_ Donation/ charity amount for tax deduction Hi,
+
+We donated old clothes and toys to the vfw organization earlier this year. It's was about 8-10 boxes of clothes and toys. They gave a sheet of paper with spaces for the value of donated items that we can use for tax purposes. 
+
+Is there a default value that goes on here? How do you ensure its not an unrealistic number? Is there a depreciation formula for clothes and toys? It's our first time doing this - we keep forgetting to include this in our taxes every year. 
+
+Thank you for your input._END_OF_POST_PYSTOCK_ Why leave cash in a pre-built ETF portfolio? I’m not an experienced investor and something I saw on E\*Trade makes me wonder something: 
+
+They have pre-built ETF Portfolios with a minimum $2.5k to start. There are several portfolios to choose from based on how much risk is involved (60/40 etc).
+
+What makes me wonder is they list “10% cash” as a component on all of those portfolios, regardless of risk. 
+
+Is it a strategy to leave cash in such an account? Why not invest all of it from the get go? 
+
+Granted, depending on how much the underlying securities are worth at the account inception that initial $2.5k is not going to be fully used up simply because stocks vary in price. There's going to be a little bit of cash left over after that first batch of securities are purchased. 
+
+So is E\*Trade basically saying that “10% cash” is going to be just leftover cash once the portfolio is created? 
+
+Or am I missing something?_END_OF_POST_PYSTOCK_ Selling loss-making stocks for taxes in 2021 Hi all,
+
+I have a bunch of exxon stocks that is trading at less than what I paid for a few years ago. bought them  when they were around 100, but currently trading at 40ish. It's not coming back up in the next couple of years, I'm sure. So given that its the 31st of December tomorrow, can I sell them and write down the loss when I file taxes in 2021? Not a wash sale but a complete loss write down. Hope that makes sense. 
+
+Thank you in advance for your inputs.
+
+EDIT: Some people mentioned the 29th as the last day to sell stocks for tax purposes. Is this a federal/ SEC rule? Thanks._END_OF_POST_PYSTOCK_ How to calculate Cash Conversion Cycle for the telecommunication company? I am trying to evaluate few Canadian telecommunication companies from the investment perspective. I am reading that one of the indicators that is advisable to evaluate is [Cash Conversion Cycle](https://www.investopedia.com/articles/06/cashconversioncycle.asp) (CCC). One of the factors for the calculation of this indicator is COGS (Cost of Goods Sold), however no companies that I am evaluating (Telus, Rogers) list this in their Income Statements.
+
+I think it may be because these companies don't produce any material items. Is my assumption correct and if it is, how can I calculate CCC for this type of companies?
+
+Thank you._END_OF_POST_PYSTOCK_ First Time Investing in ETFs Hello there, I have roughly $8k that I rolled over from my 401k to a rollover IRA. My goal is to just place the money in and not look for a good 5-10 years. I know there is a bit over overlap with some of the companies in these ETFs so I'd like any feedback.  I plan on investing in the following ETFs:
+
+\-VGT
+
+\-VOOG
+
+\-ARKG
+
+\-TAN
+
+\-QQQ
+
+\-VTI
+
+\-VT
+
+\-ARKK
+
+\-VNQ
+
+\-QCLN_END_OF_POST_PYSTOCK_ Loss harvesting... I have one day left if I were to sell. Overall, my investments have been down for the year and I have no big winners to offset. Should I sell my big loser to secure losses for this year and subsequent years? I’m not even sure how many years I could write losses off for, but it exceeds $70k. Thanks in advance._END_OF_POST_PYSTOCK_ Open Insider Hey all,
+
+I've been looking into Open Insider: [http://openinsider.com/](http://openinsider.com/) and how people have effectively used it. If you have any success or horror stories I would love to hear it! I think that there is a very good chance that we as commoners could benefit from this site! Please share!_END_OF_POST_PYSTOCK_ Is a limit order considered timing the market? Is placing a limit order on an ETF or stock for it to fill if it drops considered timing the market or just planning? I keep telling myself I’m not comfortable buying in at a certain price, and then the market keeps going up further. Should I just set my limits and walk away?_END_OF_POST_PYSTOCK_ My Stock Watchlist For 12/31/2020 My Plays for 12/31/2020:
+
+What every line means. I also use RSI, Stoch, Vortex Indicator, 10-50-200EMA Lines. I also trade off of the 180D/4H Chart
+
+&#x200B;
+
+$ENBL: Possible triangle, but certainly a value here. Support, 200EMA, trendline, awesome. RSI and Stoch just curled and Vortex says fair price.
+
+&#x200B;
+
+$ETON: Ascending Triangle and channel play here, right above the POC. RSI is fair, but Stoch is low and so is Vortex which is good. Riding 200EMA lines as well!
+
+&#x200B;
+
+$EYE: Support, channel support, 50EMA all lined up? Gorgeous; and showing Stoch Divergence. RSI fair and Vortex is a fair price too. Great setup.
+
+&#x200B;
+
+$FITB: Great channel up. This is a great value for this type of play. Perfect 50EMA bounce as well. Vortex low and Stoch low with a divergence, love it!
+
+&#x200B;
+
+$KPTI: What a beautiful channel. Showed life todat after I called it yesterday. RSI oversold, Vortex super low, and Stoch just curled, beautiful.
+
+&#x200B;
+
+$RF: Channel up again, beautiful rise up with the 50EMA bounce. Indicators are fair at best, so this isn't AS strong as others, but a great deal.
+
+&#x200B;
+
+$ROK: Triangle play, Stoch is oversold, and Vortex is consolidating. Has big move written all over it.
+
+&#x200B;
+
+$SPLK: Fantastic deal right here. 50EMA and support play. RSI fair, Stoch and Vortex very low, which means we should see a reversal very soon.
+
+&#x200B;
+
+$SPT: Called before, calling again. Right above the 200EMA where it reverses at - with all indicators super low? Looooove it.
+
+&#x200B;
+
+$UMH: Channel up and forming a new one, so we want to get in now. RSI, Stoch and Vortex low which is great. IF it shows life tomorrow, go long for sure.
+
+&#x200B;
+
+$VERI: 50EMA, ascending triangle, and support area -- great play. Stoch is oversold, other 2 are fair value.
+
+&#x200B;
+
+$WMT: Beautiful channel up. If it dies more here, then wait till about $141. But Indicators say it will be reversing soon, but a great channel._END_OF_POST_PYSTOCK_ Ticker Symbol Question Hey Guys,
+Noob question, does the NYSE and NASDAQ share ticker 
+symbols?
+
+For example, if I look up XYZ company and find it on the NYSE, can I be absolutely sure that XYZ company is the same company posted on the NASDAQ without exception?
+
+I tried googling and couldn't find a definitive answer. Thanks guys_END_OF_POST_PYSTOCK_ Is there a "recovery stocks" etf? Get lots of advice to invest in companies that got hit hard early and have high potential to recover. I invested in some hotels and airlines. Ive started moving away from individual stocks and doing mutual funds or etfs. Has any brokerage put together a good recovery ETF?_END_OF_POST_PYSTOCK_ A solid buy GILD $Gilead Sciences
+
+Morningstar rating 5 of 6
+Fair Market value $75
+Current PE Good 58
+Future PE Fantastic 8.6
+Has a high return on Capital
+Is currently at a 52 week low
+Over 70% Bullish
+Great dividend payouts 
+
+Fantastic buy and hold for 1 year.
+Great swing hold till feb earning.
+
+Buying in at $60 or less is a deal._END_OF_POST_PYSTOCK_ My thoughts and Due Diligence on ABCL **Disclaimer:** This is my opinion – I would appreciate any feedback or comments so I can improve my due diligence in the future.
+
+**TLDR**: I want to buy ABCL, but in my opinion ABCL is currently overvalued. I had 3 red flags.
+
+1. A competitor (CERT) has about 10x the revenue of ABCL but only half of the market cap
+2. ABCL has a high valuation with a small amount of revenue
+3. ABCL have less customers than Palantir and C3.ai (competitors) and make less money on average per partner
+
+ABCL has a lot of future potential. I wouldn’t buy position until May 2021 when the lock-up periods expire unless the price goes below $30 / share (which would put it at about an $8B valuation) before then to at least get some skin in the game. 
+
+While the company’s financial performance is good, it’s current market cap given it’s revenue when compared to it’s competitors does not justify the current retail share price. 
+
+Bearish short-term, bullish long term.
+
+&#x200B;
+
+**Part 1 -** **Company Description**
+
+*“AbCellera Biologics Inc. \[ABCL\] develops antibody discovery platform.* ***Its full-stack, AI-powered drug discovery platform*** *searches and analyzes the database of natural immune systems to find antibodies that can be developed as drugs.”* 
+
+According to ABCL in their S-1 form, *“Over the last eight years, we have developed and assembled technologies that unlock the database of natural antibodies.* ***We are democratizing the industry by providing our partners of all sizes with access to our centralized operating system****.”* So essentially, they have this huge antibody database and an analytics platform to help get from point A to point B for their partners. 
+
+ABCL makes money through partnership agreements with industry leaders who they help solve problems. Partnership agreements can result in revenue in 3 ways:
+
+1. payments for technology access and performance of research
+2. downstream payments in the form of clinical and commercial milestones and 
+3. royalties on net sales of any approved therapeutics
+
+Arguably the biggest biotech / pharmaceutical partnership that has been disclosed is that with Eli Lilly and Company to co-develop their COVID-19 vacine. ABCL has partnerships with a handful of companies in the biotech / pharma industry (some of which are left undisclosed on the S-1).
+
+ABCL also receives grants and non-profit funding. Some of these organizations are the Government of Canada ($175.6M over multiple years) , DARPA ($30.6M over 4 years) the Bill & Melinda Gates Foundation ($4.8M over 2 years). 
+
+&#x200B;
+
+**Part 2 - Company Performance**
+
+Liquidity is **improving.**
+
+* Working capital is about $93.9M as of Sept. 30, 2020 according to the filed S-1 form. This is substantially better than the $4.8M reported on Dec. 31, 2019.
+* Current ratio is 5.7 per September 30, 2020 data in S-1 form
+* Receivable Turnovers improved over 2019 levels (even when 2020 grant money and milestone payments are removed from revenue to be conservative), but it is important to note that it is still at about it’s 2018 level.
+
+Solvency is **improving.**
+
+* Free cashflow has improved significantly
+* Debt to total asset ratio was deteriorating between 2019 and the September 30th, 2020 reporting period. Accounts payable and deferred revenue grew but current portion of long-term debt was significantly reduced. I would expect this to improve with the cash raised from the IPO. 
+* Times interest earned ratio  has improved over the 2019 reporting period but is still below 2018 levels . The improvement is largely seen from the reduction in interest expense that were carried from 2018 to 2019 and the increase in revenue for 2020.
+
+Profitability is **improving**
+
+* Revenue has grown this year. ABCL’s profit margin is improving. ABCL is currently growth oriented so I wouldn’t hold my breath on them becoming profitable soon.
+* Basic EPS from S-1 form shows improvement for this year (so far) over 2019 and 2018.
+
+So the company is performing well and has a great product, but why has the stock been dropping since IPO day?
+
+&#x200B;
+
+**Part 3 - Market Position**
+
+This is where things get interesting. It’s hard to find a strictly apples-to-apples comparison for ABCL. They are in the biotech field but are more of a data science company (keeping in mind they sell their services and access to their AI-powered drug discovery platform). 
+
+**Predictive versus Prescriptive Analytics** 
+
+One company that performs a similar service to ABCL is Certara (CERT). CERT provides customers with simulation of virtual drug trials with virtual patients to predict how drugs behave in different people. Reading the 2 company descriptions, we can see a slight difference with their platforms. CERT appears to use a predictive analytics approach where ABCL uses a prescriptive analytics approach. 
+
+CERT also rely on a larger customer bases where as ABCL has a small and arguably more focused client base. While both are providing a similar service, CERT has about 10x the revenue of ABCL but only half of the market cap (**red flag #1**).
+
+Having said all of the above, to dive deeper we need to compare ABCL against other prescriptive analytic companies. I’ve picked 2: Palantir (PLTR) and C3.ai (ticker is AI, but I’ll continue referring to them as C3.ai to avoid confusion). 
+
+**ABCL, PLTR and C3.AI Revenue Per Customer**
+
+At the time of writing this, here are some of the relevant metrics for ABCL, PLTR and C3.ai:
+
+**Prices: (USD/share)**
+
+|ABCL|CERT|PLTR|C3.ai|
+|:-|:-|:-|:-|
+|34.97|34.97|25.30|145.32|
+
+**Market Cap (Billion USD)**
+
+|ABCL|CERT|PLTR|C3.ai|
+|:-|:-|:-|:-|
+|10.243|5.349|47.502|13.928|
+
+**TTM Revenue (Thousands USD)**
+
+|ABCL|CERT|PLTR|C3.ai|
+|:-|:-|:-|:-|
+|29,449|232,746|999,940|164,725|
+
+How does ABCL have such a high valuation with such a small amount of revenue (**red flag #2**)?  It seems strange that ABCL could be valued at about 20% of PLTR (or roughly the same value as C3.ai) when it only makes a fraction of the revenue. 
+
+**Maybe it’s related to the number of partners they have (or at least have publicly disclosed)?**
+
+While we can’t know exactly how many customers each company has, we can try to guess at the revenue per partnership (or at least by looking at the largest ones they’ve disclosed) – it’s a very rough estimate but we’re just trying to figure out orders of magnitude here. 
+
+PLTR in their S-1 form disclosed that their platform is used by 125 customers. For their TTM revenue, that works out to about $8M per partner. 
+
+Using the same idea for C3.ai who has publicly advertised 26 partnerships, their revenue is about $6.3M per partner.
+
+ABCL has 26 customers, but with such low revenue, they only make about $1.1M per partner. So, **ABCL have less customers than PLTR and C3.ai, and make less money on average per partner (red flag #3).** Again, this is just to approximate about how much they’re making per partnership. It’s not an exact number but it gives us an idea if the price is out to lunch or not (which I think it is).
+
+**So why is the share price so high then?**
+
+I think this is a case of supply and demand. The IPO was hyped up and there’s still less than 30% float. Lock-up period per S-1 form is 180 days, so don’t expect any big insiders to sell anytime soon.
+
+The $17.50 price tag wasn’t for us, just Peter Thiel and the bunch.
+
+**Peter Thiel you say?**
+
+Yes, Peter Thiel. The same one at PLTR. Peter Thiel had a position of about 8.5M shares before the IPO and picked up another 3M on IPO day. He also sits on the Board of Directors for ABCL (since October 2020). 
+
+In the S-1 form, ABCL outlined their desire for growth. They have new facilities under development and are scheduled to take occupancy in 2021. **From September 2019 to September 2020, ABCL has grew their workforce by 82%, moving from 98 to 174 full time employees**. Since September 30, 2020 there have been 50 different job postings advertised on ABCL’s website. They are looking at some serious growth. 
+
+What really gets my excited about Peter Thiel on the Board of Directors is that there are a lot of similarities to how ABCL forms it’s partnerships for access to it’s platform to PLTR. Who do you call when you have a problem that you can’t solve but have lots of data? There really is not a better person to have on the Board of Directors for ABCL, especially after having such a big influx of cash to get to the next level as a company. 
+
+&#x200B;
+
+**Part 4 - Final Thoughts**
+
+I think there's a lot to be exited about with ABCL. It's a young and innovative company. With it's low revenue levels and high stock price, it's hard to justify picking up stock at it's current valuation._END_OF_POST_PYSTOCK_ UAL 21 Jan 22 90 Calls Hey Guys,
+
+I picked up some UAL calls at the peak a few weeks back and am curious if I should take the L or hold steady. I paid a premium for these boys at 3.40 and the current value is 1.97. This is way under my stop loss point, and it seems uncertain if the stock will rebound enough to turn this into a profitable trade. Sure there's time on my side, but the stocks already slipped 10% and I'm down 40% on my position. UAL needs to hit 50 by late January to squeeze out a gain, I'm not so sure this will happen w/the presidential transition and the new covid strain.
+
+What're your thoughts?_END_OF_POST_PYSTOCK_

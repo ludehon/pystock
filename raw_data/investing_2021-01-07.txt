@@ -1,0 +1,540 @@
+ Fintech SoFi (Social Finance) to go public via SPAC Online lender SoFi to go public via [SPAC backed by Chamath Palihapitiya (IPOE)](https://www.cnbc.com/2021/01/07/online-lender-sofi-to-go-public-via-spac-backed-by-chamath-palihapitiya-.html)
+
+* **Fintech start-up SoFi says it will merge with a special purpose acquisition company, or SPAC, backed by venture capital investor Chamath Palihapitiya.** 
+* **The merger with Palihapitiya’s SPAC values SoFi at $8.65 billion.** 
+* **Palihapitiya has taken multiple companies public through SPACs, including Virgin Galactic.**
+
+For those that aren't familiar with SoFi, [www.sofi.com](https://www.sofi.com), they offer cash management/bank accounts, investment/brokerage services, crypto services, money tracking, their own credit card, and personal/business + student lending services. You can learn more about their products here: [https://www.sofi.com/products/](https://www.sofi.com/products/)
+
+They have about 1,000,000+ members currently using SoFi.
+
+In addition to the aforementioned product offerings, pre-covid, SoFi often hosted events where you could go and meet other SoFi members and participate in an activity in certain cities across the US (usually larger metros). SoFi typically provided food and beverages at these events. These events were just one of the benefits of being a SoFi member and were previously offered free of charge.
+
+It looks like the ticker is currently **IPOE;** [**https://www.cnbc.com/quotes/?symbol=IPOE\^**](https://www.cnbc.com/quotes/?symbol=IPOE^)
+
+Thought some folks would find this interesting, as it's a new Fintech opportunity._END_OF_POST_PYSTOCK_ What are your thoughts on the free available articles from Seeking Alpha ? They have a lot of free content, however (and unlike articles from "free versions" of other sites which try to sell premium advisory/stoc-picking services), those articles don't seem to be just bullshit designed to fill the page...
+
+Am I easily deceived ?
+
+What do you guys think ?_END_OF_POST_PYSTOCK_ DOJ fines Boeing over $2.5 billion, charges it with fraud conspiracy over 737 Max crashes https://www.cnbc.com/2021/01/07/doj-fines-boeing-over-2point5-billion-charges-it-with-fraud-conspiracy-over-737-max-crashes.html
+
+
+>The Department of Justice on Thursday said Boeing agreed to pay more than $2.5 billion to resolve criminal charges stemming from crashes of its best-selling 737 Max airplanes._END_OF_POST_PYSTOCK_ Should you always treat a high RSI as an overbought indicator? The general rule says RSI>70 indicates a fund is overbought and ready for a trend reversal, but in the case where a fund is currently trending (such as ICLN), does that still hold true?
+
+It seems like if you were to listen to this indicator and wait for a dip, you may be missing out on potential entry points.
+
+What other indicators can you look at when you're not convinced the RSI is reliable?_END_OF_POST_PYSTOCK_ If you invest in companies for reasons other than the financial bottom line, such as impact/SRI/ESG -- how are you choosing/finding those companies, and how are they reporting on/measuring their impact? I'm open to private discussions as well, I'd love to understand reporting/measuring on impact better. There don't seem to be any obvious standards. In the impact investing communities they seem to use the UN SDGs as a popular marker, but each goal has several targets and indicators so measuring impact between competing companies for impact seems challenging._END_OF_POST_PYSTOCK_ Consequences for shares after IPO Hi,
+
+So I have bought a position of 500 shares in a Norwegian company. They are treating me well for now . They are planning an IPO at the end of Q1. They are currently trading on the Euronext Growth Oslo, but will by trading on the Oslo stock main exchange. 
+
+I was a bit confused since I though that when you are trading on Eurnoxt Growth and I can buy shares publicly, they already did an IPO? If they do this IPO on the main Oslo exchange, what will this imply for my stock and position? I assume I will keep my shares, but under a different ISIN code and of course trading at the value of the IPO day?
+
+Many thanks in advance!_END_OF_POST_PYSTOCK_ Texas Real Estate ETF? So Silicon Valley, or all the tech giants in California are packing up and leaving to Texas (mostly). I’m assuming Austin area or around there. Does anyone know a good Texas real estate etf to invest in? If so id truly appreciate it if you can share it with me. Thanks!_END_OF_POST_PYSTOCK_ Thoughts on JMIA It seems that no one on this sub has really talked about JMIA since sometime after the IPO but I’ve been doing some looking around and I’m curious to see if anyone sees any issues with the long term growth of this company.
+
+As far as I can tell they’ve got a huge market in front of them and I can’t seem to be able to find any negative reports or articles which is why I’m slightly wary of just ending up buying into hype. If anyone is still holding/planning to buy/knows something I don’t, is JMIA still a valid long term play (I’m talking LONG term)?
+
+TLDR: Is JMIA a hype stock or a long term buy?_END_OF_POST_PYSTOCK_ Bitcoin rally without hype is making me nervous Back then it was clearly a bubble. Even your taxi driver knew all about crypto. Now I feel barely anyone talks about bitcoin let alone is aware of this insane rally. Is my impression right?
+
+That makes me believe that it must be institutions that are pumping the price this time unlike retail investors last time. Why would they do that? Are they worried / know something about traditional currencies going down the drain?
+
+Add to that the insane valuations of some companies on the stock market (TSLA, DASH, SNOW... I'm looking at you) it makes me really nervous something is about to go down. Anyone else feels uneasy with bitcoin around $40k?_END_OF_POST_PYSTOCK_ Smartsheet (NYSE: SMAR) – Deep Dive Research – Part 1 **TL:DR is at the bottom**
+
+Hello, welcome to my second deep dive write up.
+
+My name’s Mark and I’m an accountant with a passion for investing. About two years ago, I used to work as an auditor at a public accounting firm and have been behind the scenes at many different publicly traded and privately held companies in the U.S. My goal is to bring my unique perspective from that past experience, my current experience working in a new role at a large corporation, and my understanding of accounting to help break down some of the most exciting growth stocks on the market today.
+
+I’m a long-term investor. I am focused on finding great companies and holding them for a long time. I’m willing to endure volatility, crazy price drops, and everything that comes with this approach as long as the facts that led me to originally invest and believe in that company have not changed. If you want to learn more about this approach. I recommend reading the book “100 Baggers” by Chris Mayer.
+
+**Introduction**
+
+I’m excited to share with you all my stock pick for this month, Smartsheet. I’m always looking for investment ideas. I run stock screeners with different criteria (mostly focused on revenue growth), scan Twitter, talk to professionals in different industries, and try to observe what products or services are getting popular with my friends and family. One of the best investment decisions I’ve made to date came after I talked to my friend about a drink he was drinking on the golf course. Shout out to you Celsius (CELH)! With that being said, you never know where your next good investment idea is going to come from.
+
+In the case of Smartsheet, I became aware of the company through a stock screener. I was drawn to the relatively small market cap ($8.6B), strong revenue growth (roughly 35%), and the fact that it’s a subscription business model (SaaS). Once I became aware of these facts, it cued me to take a deeper dive. The more I learned about Smartsheet, the more I liked. Management talks a lot about empowering people and that really struck a chord with me. In different roles I’ve had as a teacher, tutor, and supervisor, I’ve always found empowering people to be one of the most important keys to success. I will touch on this more later in the write up.
+
+Another positive signal I got about Smartsheet came unexpectedly one evening. I was sitting in the kitchen and my girlfriend was cooking dinner. I was watching an interview on my phone with Mark Mader, the CEO of Smartsheet. My girlfriend overheard the word “Smartsheet” mentioned in the video and said “Are they talking about the Smartsheet with the blue check mark?”. I had to Google their logo but yes, it turns out we were thinking about the same Smartsheet. I asked her how she knew about it. She said “My company just transitioned all of our work onto Smartsheet. I really love it. Our marketing department is really excited about it because it makes their job way easier and more enjoyable.” Hearing this just motivated me to learn more about Smartsheet.
+
+**The Thesis Statement**
+
+For every stock pick I make, I want to provide a quick thesis statement that can serve as a reminder for why I’m buying and holding that stock for the long term. I’ll always aim to make it just a few sentences long so it can easily be remembered and internalized. This helps during times when the price may sporadically drop and you need to remember why you’re holding this position.
+
+The thesis statement I have come up with for Smartsheet is as follows:
+
+*“Smartsheet: A leader in collaborative work management (CWM) software. As the global workforce becomes more decentralized through remote work, managers and executives now more than ever need a tool to digitally consolidate their teams, projects and deadlines. Smartsheet is that tool and is innovating to offer businesses even more ways to get the most out of their teams.”*
+
+I think this thesis statement really captures the essence of what Smartsheet does. If you go to Smartsheet’s website and look at the “About” page, you will find their “About” statement which says “Smartsheet is the enterprise platform for dynamic work that aligns people and technology so your entire business can move faster, drive innovation, and achieve more.” Notice how their statement emphasizes helping businesses move faster, drive innovation, and achieve more.
+
+In my thesis statement, I mention that Smartsheet is a leader in the CWM software space. But how do I know this? Well, a highly reputable independent research firm named Forrester conducted a study on the CWM space based off different criteria including collaboration, enterprise capabilities, UI/user experience, planned enhancements and number of customers just to name a few of the factors considered. I put the companies that were identified from the study in the order of their ranking below. As you can see, Smartsheet is firmly planted as a leader in the space at 2nd place. Let’s use our common sense for a second. At the beginning stages of a remote work revolution, do we want to invest in an up and coming SaaS company that focuses on providing firms with resources to digitally manage their teams, digitally manage work/projects, and digitally collaborate to get work done? I think the answer should be a resounding yes. But what about these other companies on the list. Let’s break them down 1 by 1:
+
+* Workfront was recently bought by Adobe. If you want to invest in Workfront, you’d have to invest in the much larger company of Adobe. It wouldn’t be a pure play investment into the CWM space.
+* Smartsheet is 2nd and of course, they are public :)
+* Wrike is private
+* ServiceNow – CWM is just one small piece of their total offerings. Investing here would not be a pure play into the CWM space. Also, the company is already quite large ($106B market cap)
+* Asana is public but just IPO’d on 9/30/20 about 3 months ago. We don’t have much data to track their performance as a publicly traded company. Furthermore, although they actually would be a pure play investment into the CWM space, they’re not a leader and rank behind Smartsheet in several of Forrester’s categories. Why invest in the 2nd best when you can invest in the best?
+* Monday.com is private
+* Microsoft – CWM is just one small piece of their total offerings. Investing here would not be a pure play into the CWM space.
+* Atlassian – This company does primarily focus on CWM but I have a couple problems with them as an investment. 1) They’re ranked way beneath Smartsheet. 2) They’re already too big for me to confidently say they can 10x (market cap already $58B).
+
+Now that we’ve established that Smartsheet is a leader in the CWM space and that they’re arguably the best publicly available pure-play investment in this space let’s understand why this is important. Other than the obvious reason that we’re in the beginning stages of a remote work revolution, why is this important?
+
+Well, let’s take a look at this quote from Mark Mader, Smartsheet CEO, during the last earnings call (Q3 FY21) that occurred on December 7th, 2020:
+
+“Leaders are recognizing they need to shift more workloads to asynchronous work, work that is documented, automated, tracked with dashboards, and where priorities are clearly defined. They understand that by empowering their teams with no-code solutions that facilitate asynchronous work, cycle times will be improved, a deeper sense of ownership will be created, and prioritization and accountability will be insured. Smartsheet is ideally suited to help enterprises work more asynchronously to derive the benefits from doing so.”
+
+Key word here: Asynchronous. Asynchronous communication is different from Synchronous communication. Here is the difference:
+
+Asynchronous: email, message boards, dashboards, etc.
+
+Synchronous: video conferencing, chat, audio calls, etc.
+
+Any communication that doesn’t require a real-time response can be considered asynchronous, like the examples in the picture above. Synchronous communication is any communication that happens in real time, thereby allowing for immediate responses, see examples above. As part of my research on Smartsheet, I read an E-Book that was written by the original co-founders of Smartsheet, Mark Mader the current CEO and Brent Frei who is no longer with the company. They wrote the E-Book in 2007 just a couple of years after the 2005 founding. The E-Book is called “The Power of Done”. The moral of the book is that Mark and Brent noticed through their own experience, and through different research studies on work place productivity, that the rise in technology in the early 21st century was actually making employees less productive. This is a quote from their E-Book:
+
+“According to Basex, a research firm focusing on the knowledge economy, interruptions from email, cell phones, instant messaging, text messaging and blogs eat up nearly 30 percent of each day; on an annualized basis, this represents a loss of 28 billion hours for the entire U.S. workforce, or a $588 billion cost to the American economy.”
+
+They mention in their book that although there has been a lot of advances in work technology such as email, word processing, and spreadsheets, there hadn’t at that time been any great applications created for teamwork collaboration or task management. The fact that technology advances helped the world create tools to enhance productivity but also deterred productivity at the same time is what Mark and Brent referred to as the productivity paradox. They wanted to do something about it and thus they founded Smartsheet.
+
+**How Smartsheet makes money**
+
+At the very least, before you invest in a company, you better understand how they make money. In Chris Mayers’ excellent book, 100 Baggers, that I mentioned above, he continually references top line revenue growth as one of the main common indicators of a possible 100 Bagger. This isn’t to tell you that any stock I pick will be a 100 Bagger just because it has great top line revenue growth, but if I am looking at a growth stock to hold for the long term, revenue growth is one of the first things I look at.
+
+Before I talk about the revenue streams of Smartsheet, I want to share a little bit about the actual product that they sell to earn this revenue. Co-Founder/CEO Mark Mader realized that a lot of work in the corporate world was being done on spreadsheets such as Microsoft Excel. However, he realized that these spreadsheets were largely static and not necessarily used to their full potential. He wanted to help people get more out of their use of spreadsheets. As a result, we now have Smartsheets which is a cloud based platform that can be accessed by all employees of the company no matter where they are with live information about project statuses, meeting times and work that is assigned to each employee just to name a few uses. Users can choose their way of viewing this information with different views such as calendar view, grid view, card view, and Gantt view.
+
+The idea is that by enhancing the availability and quality of asynchronous information available to all members of a team about the status of a project, the tasks assigned, and the timelines, the less synchronous communication will be needed which allows employees to spend more time doing what they’re hired to do – get work done. Think about how wasteful it is to hire a highly talented engineer but then make him spend half his day preparing for and doing status update meetings and hunting people down to see where they’re at with their assignments. What if all this information was available for him, his managers, and his staff to see within Smartsheet without having to bother each other and waste precious work hours that could be used for coding, designing, and producing? That’s what Smartsheet looks to achieve.
+
+For Smartsheet, their means of making money is quite simple. As I mentioned earlier, they are a Software as a Service (SaaS) company. Whenever you see SaaS, that means subscription revenue and in my opinion that’s a very good thing. With a subscription business model, the revenue is going to be recurring every year and that type of reliability (combined with growth of course) is something you want as an investor.
+
+Smartsheet’s primary source of revenue is the sale of subscriptions to their cloud-based Collaborative Work Management (CWM) platform. Customers and potential customers begin their engagement with the Smartsheet platform by either signing up for a free trial, purchasing a subscription on the Smartsheet website, going through a sales rep, or they are exposed to Smartsheet by collaborating with a Company/Individual that uses Smartsheet. For subscriptions, customers select the plan that meets their needs and can begin using Smartsheet within minutes.
+
+Smartsheet offers four subscription levels: Individual, Business, Enterprise, and Premier, the pricing for which varies by the capabilities provided. Customers can also purchase connectors, which provide data integration and automation to third-party applications.
+
+The Connectors part of the business is something I find really interesting. Basically, Smartsheet has made deals with most of the top work productivity and communication software companies in the world to allow their customers to use those applications within their Smartsheet user interface. This helps position Smartsheet as the true “command center” platform while the products of the other companies become ancillary pieces. You’ll see this on the link above but some products that Smartsheet sells Connectors for include Adobe Creative Cloud, Microsoft Dynamics 365, Salesforce, Jira Software, Slack, and Skype just to name a few.
+
+I think that being able to sell these Connectors as ancillary pieces to the Smartsheet user experience is so beneficial to Smartsheet because a lot of these companies that people may perceive as “Smartsheet competitors” actually become a piece of the Smartsheet platform and can be sold by Smartsheet as a supplemental revenue stream. This neutral angle that Smartsheet is able to come from by selling Connectors to their perceived “competitors” reminds me a little bit of how Roku (ROKU) is able to earn revenue off of selling a Netflix subscription on their platform. I think just the fact that all these big companies like Adobe, Jira, Salesforce, etc. allow their products to be integrated into Smartsheet shows that there is a high value proposition in the Smartsheet platform and that they would risk alienating their customers if they didn’t allow for their products to be integrated with Smartsheet.
+
+On top of the Connectors to third party vendors that Smartsheet is able to sell, Smartsheet is also able to sell upgrades to their own internal plug-ins. Smartsheet has some impressive proprietary plug-ins they can sell to their customers. For example, in May 2019, Smartsheet acquired 10,000ft which augmented their product portfolio by providing resource allocation and planning. The name “10,000ft” is meant to be analogous to having a high level view of your company and all resources available within your company and how to deploy them.
+
+Also, in September 2020, Smartsheet acquired Brandfolder, Inc. which provides a centralized platform to organize, discover, control, distribute, and measure all forms of digital content. Combining Brandfolder capabilities with Smartsheet allows them to create dynamic solutions that manage workflows around content and collaboration. This goes back to what I said earlier in the article about how my girlfriend had mentioned that her company’s marketing team was “really excited about Smartsheet because it makes their job way easier and more enjoyable.” She told me that before Smartsheet, her company’s marketing team had to constantly hunt down members of the creative team (photographers, graphic designers) to receive the latest photos, videos, and digital designs they were working on. She said it was a big pain for them trying to share this content over email and SharePoint. Now, all of the content is inside of Smartsheet and the marketing team can access it at any time. They can leave comments on the content, route to appropriate individuals for approvals, and have better insight into the status of all digital content that is being worked on. The acquisition of Brandfolder is really what allows Smartsheet to stand out in this department.
+
+Nobody really talks about it, but digital content is so important these days for companies in terms of controlling their brand image, putting out quality advertisements, and presenting their product in as positive of a light as possible. The fact that Smartsheet has a strong proprietary plug-in for this with Brandfolder is very promising. During Smartsheet’s FY21 Engage Customer Conference, Anna Griffin, Smartsheet Chief Marketing Officer said that the global annual marketing spend is $500B for companies around the world. She said the role of the marketing department is changing from sole content creator to Editor in Chief. All kinds of teams within companies these days are putting out content that effects the company’s brand. Sales is running social media campaigns, product marketing is putting out blog posts and podcasts, and R&D is teasing new product experiences in app. It can get really difficult for the company’s Marketing/Branding team to stay on top of all this without a centralized digital content collaboration platform like Brandfolder in Smartsheet. This is just one reason why I think Smartsheet has a lot of growth opportunities in the future.
+
+As you can see, Smartsheet has a lot to offer to companies with their core CWM platform, the Connectors they can sell, and the internal upgrades available such as 10,000ft and Brandfolder. On top of that, Smartsheet also provides WorkApps, a proprietary no-code platform that empowers users to build intuitive web and mobile applications that streamline business and simplify collaboration. There are so many instances within companies where an app needs to be built to streamline a workflow. Traditionally, companies need to engage their IT departments and the coders that sit within these departments to build these apps. This places a lot of strain on IT departments and takes away time they can be spending on more complex/mission critical projects. Mark Mader is aware of this and thus is heavily pushing no-code as a solution for companies now and in the future. He believes that everyday non-coder employees know their jobs/workflows best and thus if you empower them to build their own apps with a no-code platform they will produce better and more relevant apps to help get work done than an IT department employee who doesn’t even do the job that the app is being built for. Also, he believes this will reduce strain on IT departments and allow them to focus on more complex and mission critical projects.
+
+Here is a quote from the Director of Sales (Hina Patel) at a Smartsheet customer, Cisco (NASDAQ: CSCO): “I have been waiting for a solution like WorkApps that can give us quick and easy access to the content we need, when and where we need it,” said Hina Patel, Director of Sales Operations at Cisco. “The ability to take our Smartsheet assets, along with other tools we use, and package an entire solution in an intuitive app will make it even easier to drive active participation from everyone involved in the process, no matter their role.” As you can see, the value proposition of WorkApps and the Smartsheet platform appears to be high.
+
+Lastly, Smartsheet also generates revenue from Professional Services which is essentially providing training and customized consulting to Smartsheet customers that want to get more out of the Smartsheet platform. In the most recent quarter, Q3 FY21, Professional Services accounted for 8.2% of revenue. Here is the breakout from the most recent quarter:
+
+Subscription revenue = $90,890M for 91.8% of total revenue
+
+Professional services revenue = $8,043M for 8.2% of total revenue
+
+This is the end of my first article about Smartsheet. My goal is to drop Part 2 within the next week. The focus of Part 2 will be an in depth answer of the question – “Can we 10x from here?”
+
+**TL:DR**
+
+* This is Part 1 of my two part deep dive on Smartsheet (Ticker: SMAR).
+* This first part introduces you to (1) me, (2) the company, (3) my thesis on the company, and (4) digs into how they make money.
+* Part 2 (to be released later this week) will go in depth to explore the question “Can we 10x from here?”
+* Smartsheet is an exciting SaaS company that’s helping businesses be more productive and get the most out of their people
+* I am not a financial advisor and this is not investment advice. These are just my opinions to help facilitate learning and discussion.
+
+**Disclosure:** I am long Smartsheet. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it. I have no business relationship with any company whose stock is mentioned in this article._END_OF_POST_PYSTOCK_ Thoughts on newcomer CTEC for global renewable energy vs. ICLN I want to invest in a broad renewable energy fund, and I'm debating between CTEC and ICLN. This will be a long-term investment, so I'm not really concerned about the small amount of assets under management for CTEC.
+
+CTEC is
+
+* 39% in N America
+* 26% in Europe and UK
+* 29% in Asia (mostly China and S Korea)
+
+Top holdings are
+
+* Enphase Energy
+* Plug Power 
+* Xinyi Solar 
+* SolarEdge 
+* Siemens Gamesa
+
+ICLN is 
+
+* 38% in N America 
+* 33% in Europe (no UK) 
+* 12% Asia (mostly China) 
+* 10% in NZ 
+* 4% in Brazil
+
+Top holdings are
+
+* Plug Power 
+* Enphase Energy 
+* Meridian Energy 
+* Verbund AG 
+* Siemens Gamesa
+
+At first glance, the difference seems small. But according to etfrc.com, there's only a 41% overlap in assets. CTEC is almost exclusively industrials and tech firms, while ICLN has over 50% in utilities. This is the most obvious difference, and the main reason I'm considering CTEC instead. Also the exposure to S Korea appeals to me, though I recognize that's probably a baseless bias._END_OF_POST_PYSTOCK_ Tesla passes Facebook in Market Cap, becoming 5th largest publicly traded company in the world. As of writing this, per Yahoo Finance, Tesla’s Market cap stands at $765.5 bil and Facebook’s is $765.0 bil. Now only Apple, Microsoft, Amazon, and Alphabet are larger than Tesla by market cap. This may or may not hold for long, but in my opinion it’s significant either way._END_OF_POST_PYSTOCK_ Impossible Foods CFO hired as AppHarvest President https://www.businesswire.com/news/home/20210107005626/en/AppHarvest-Hires-Impossible-Foods’-David-Lee-as-President
+
+MOREHEAD, Ky.--(BUSINESS WIRE)--AppHarvest, the leading AgTech company building some of the country’s largest indoor farms and combining conventional agriculture techniques with cutting-edge technology to grow affordable, nutritious fruits and vegetables at scale, has appointed David Lee president, reporting to Founder & CEO Jonathan Webb effective Jan. 25.
+
+
+In this newly created role, Lee will develop strategy and engage in operations management, leading the sales, marketing and finance functions as AppHarvest continues to grow as a sustainable fresh foods company.
+
+Lee will join AppHarvest from Impossible Foods where he has served as chief financial officer since December 2015. He is credited with significant growth accomplishments at Impossible Foods including securing more than $1.3 billion in funding to accelerate manufacturing, product development and distribution into key national grocery, restaurant, and hospitality venues; and to expand in international markets. Additionally, Lee served as chief operating officer of Impossible Foods from 2015 to 2019, during a period of significant transformation for the company. Lee has served on the board of directors of AppHarvest since August of 2020 and will continue to serve in that role after the closing of the previously announced business combination of AppHarvest with Novus Capital Corporation (Nasdaq: NOVS).
+
+————————————————————-
+
+I’ve become very interested in this project lately, their goal is to create jobs and fuel the economy of Appalachia through innovative indoor farming, which utilizes rainwater and zero chemical pesticides. By doing so, they also intend to ramp up domestic production and sell of fresh vegetation instead of importing it from places like Mexico. The company went public through a SPAC, Novus Capital Corp. ($NOVS) earlier this year, and are expected to start sales and IPO sometime in 2021. I decided to buy in today following the above news, what do you think?_END_OF_POST_PYSTOCK_ What are your thoughts on SPCE? I'm thinking about jumping in. I feel like once they have a few successful commercial flights under their belt we might have another bubble.   
+
+
+I can already picture it now. "They're more than just taking people into space, they'll have hotels and moon trips and everything one day", "They beat everyone into Space tourism"... blah blah blah.  
+
+
+So from that angle, it seems like a good buy. But anyone been following them closely? I know they announced that one of their bigger holders were selling off some shares to free up some liquidity and that they had that failed test flight early. Seems super risky but I could see it taking off (hah) if they are able to send some tourists._END_OF_POST_PYSTOCK_ Stock Market Events for next week #  [https://imgur.com/a/2mvnsEz](https://imgur.com/a/2mvnsEz)
+
+Link to the Calendar of Market moving events if you are investing in Stock Market. If you don't find it useful please down vote.
+
+If you want to see some market moving events and earning calls for next week here is a de-branded calendar: [https://imgur.com/a/2mvnsEz](https://imgur.com/a/2mvnsEz)_END_OF_POST_PYSTOCK_ Besides MARA, does BLOK is the best solid crypto stock ? In these crazy days, I think that bitcoin price is going to go up and up and won't stop anytime soon. 
+
+**BLOK** is showing some GREAT gains these weeks,
+
+I think it is the most solid crypto stock on the market.
+
+(not +30% -30% like MARA).
+
+What do you think of **BLOK** ? Do you have any other crypto follow stock you are investing in ?_END_OF_POST_PYSTOCK_ 3D systems: DDD I got a free stock for 3D systems (Ticker symbol: DDD) about 4 days ago for about $9. Today it is up 95% and is at $21. Is this a stock that is worth it to buy more as it may go up more or should I just sell the stock and walk away with a free $21?
+
+I am very new to investing and do not know how to do any research on stocks. I also know nothing about how to trade options. Even though I don’t know much I still have managed to make a 17% return so far this year by investing in the S&P 500 and top companies such as Apple and Tesla that I know are going to well. As well as diversifying a little and investing in Bitcoin. If someone could help me get even better I would like to grow my $8,000 account more._END_OF_POST_PYSTOCK_ Snowflake Rally Defies End of Lockup Freeing Millions of Shares [https://www.bloomberg.com/news/articles/2021-01-07/snowflake-rally-defies-end-of-lockup-freeing-millions-of-shares-kjn2nme9?utm\_source=google&utm\_medium=bd&cmpId=google](https://www.bloomberg.com/news/articles/2021-01-07/snowflake-rally-defies-end-of-lockup-freeing-millions-of-shares-kjn2nme9?utm_source=google&utm_medium=bd&cmpId=google)
+
+ [Snowflake Inc.](https://www.bloomberg.com/quote/SNOW:US) rallied by the most in a month on Thursday despite the expiration of a second lockup freeing company insiders from selling restrictions on tens of millions of shares.
+
+Snowflake shares rose as much as 12% and touched an intraday off about $301 amid a broad advance in technology and financial stocks. The gains were part of a broader rally led by technology and financial stocks as investors bet that Democratic control of Congress and the White House will usher in more economic stimulus.
+
+ The cloud-computing company, which briefly [topped](https://www.bloomberg.com/news/articles/2020-12-08/snowflake-surges-past-ibm-with-market-value-at-120-billion) $110 billion in market value last month, said in a Dec. 29 [filing](https://www.bloomberg.com/news/terminal/QM4GDBGIPVYE) that an estimated 37.9 million shares would become eligible for sale at the open of trading Thursday.
+
+  Investors have bid up Snowflake shares to gain exposure to the company’s rapid revenue growth, which is projected to exceed 80% in fiscal 2022. While the stock has more than doubled since debuting in September, it has fallen about 9% since the [first lockup expired](https://www.bloomberg.com/news/articles/2020-12-15/snowflake-market-value-losses-top-20-billion-as-lockup-expires) on Dec. 15.
+
+ \------
+
+ Cloud-based data warehousing company Snowflake (NYSE: SNOW) saw its stock decline by almost 30% over the last month. While not much really changed on the ground for Snowflake, which is on track to more than double revenues this fiscal year, there are a couple of factors that have likely driven the sell-off. Firstly, Snowflake stock remains very richly valued trading at over 130x consensus FY’21 Revenues and is up by about 130% from its IPO price. Considering these big gains, investors are likely booking some profits. Secondly, in mid-December Snowflake saw its first lockup release post its IPO, allowing employees to sell 25% of their vested options. While this only had a limited impact, investors are likely concerned that the full lock-up expiration, which happens this March, will put a lot more pressure on the stock. Snowflake’s float, or the shares available to investors for trading, stands at just about 18% of its total shares outstanding currently. Thirdly, with Covid-19 vaccines being rolled out globally, investors could be rethinking their allocation to cloud computing stocks which were a hot theme through the pandemic, while shifting to more value bets. This could also be a factor hurting Snowflake stock. 
+
+\----
+
+what do people think, will there be a large sell off tomorrow? Is it currently overvalued? Will it sell off when it unlocks in March? Does it have a fighting chance against big tech? Is their low float (10% of outstanding shares) causing the high valuation and run up?_END_OF_POST_PYSTOCK_ Is 1,500+ Price to Earnings the New Normal? This is a genuine question, I'm not trolling and I'm net very long on the market. That being said, are traditional fundamentals quite literally out the window now with the Fed back stopping everything? If the incoming Treasury Secretary's suggestion of the Fed directly buying corporate equity comes into place, what really is going to cause any sort of healthy correction?
+
+I just don't see it happening, not until the Fed needs to limit Quantitive Easing and actually raise interest rates. The valuations are already really high, but truthfully, what is preventing them from going ever higher until interest rates finally increase (at the earliest 2-3 years from now)? Investors seem to have full appetite for equities no matter the fundamentals, so I'm just not seeing it. 
+
+I'm strongly considering increasing leverage and buying LEAPs on the market as a whole. There seems to be no risk with the rate of Fed expansion and potential for direct equity buying by the Fed in the near future. With the Fed back stopping it all, is there really anything to lose until interest rates increase? (If they ever do)._END_OF_POST_PYSTOCK_ Why nobody talks about United Steel (X) This company catch my eye in 2019 and I was waiting to take it in low. For my consideration it was a little bit risky company than other steels competitors because of the bigger debt ratios, it was one of forgotten industrial company of the "old" age, and not like the newest fancy tech.
+
+Nobody want it before, and it seems to me that nobody wants it now. Very bad for you.
+
+I bought it on the deepest low inside the March free fall, and it greatly rewarded. 
+
+What do you think? Where it will go? What about all the commodities sector?_END_OF_POST_PYSTOCK_ Little Technical and analytical support for GIS Hey all, 
+
+Looking into a lot of analytics that I've had success with, I think that $GIS has a great option chance! Analyst and P/E expectations have turned positive which has led to a price increase of around 2% within the coming week. This has happened 5 times in the past which has led to 85% of those days resulted in an upward move in a week period. 
+
+\- The median move for the week is 2% and with GIS dropping early this morning is a great chance to buy it. My hit ratio for that comes in very high around 90%. I am in at a strike price of 57.5.
+
+I've had a lot of success with these metrics but feel free to use or not use!_END_OF_POST_PYSTOCK_ Sharp rise in SKEW Risk of a **black swan event** is rising:    
+SKEW's 3 week average is extremely high.   
+Over the past few years, such high readings could see stocks rally another 1-3 months, then fall sharply. I'm not able to attach the chart though... It's quite a good indicator. You can see it from the source below if you want :)  
+
+\*(Source: [bullmarkets.co](https://www.bullmarkets.co/jump-in-skew-small-caps-financials-and-material-stocks/))_END_OF_POST_PYSTOCK_ QuantumScape Corporations Due Diligence! Greetings to all who read this,
+
+today I am sharing some due-diligence I recently did on $QS. QS has been a hot stock in recent months having made large moves, both up and down. They also entered the market as a SPAC and as they are intensely research-based, have no prior financials worth noting. So this dd post focuses on their innovation and their management and recent news. I hope you all enjoy it and look forward to any discussion!
+
+&#x200B;
+
+**QUANTUMSCAPES DUE DILIGENCE (5th Jan)**
+
+Intro to QS: " QuantumScape Corp. engages in the provision of energy storage solutions. It focuses on the development of solid-state lithium-metal batteries for use in electric vehicles. The company was founded by Jagdeep Singh, Tim Holme, and Fritz B. Prinz in May 2010 and is headquartered in San Jose, CA. "
+
+&#x200B;
+
+*First I checked their ratings and trend summary on* [*stockinvest.us*](https://stockinvest.us)*. Here is what I found:*
+
+· Rated as sell on [stockinvest.us](https://stockinvest.us) (changed to buy on the 6th Jan)
+
+· Trending search for the day/week though (bullish - investor sentiment shows hype and interest)
+
+* “QS Stock Risk:
+
+This stock may move very much during a day (volatility) and with a very large prediction interval from the Bollinger Band this stock is considered to be "very high risk". During the last day, the stock moved **$13.60** between high and low, or **28.69%**. For the last week, the stock has had a daily average volatility of **17.36%**.
+
+Our recommended stop-loss: **We hold a sell evaluation for this stock. No stop-loss set."**
+
+· Volume has increased on the 4th (of January) by 69 million shares but on falling prices.
+
+· Given the current short-term trend, the stock is expected to rise **185.84%** during the next 3 months and, with a 90% probability hold a price between **$142.81** and **$406.18** at the end of this 3-month period.
+
+&#x200B;
+
+*Next I checked Motley Fool (although I have no confidence in their analysis overall), to see what they had to say:*
+
+· QuantumScape is several years from commercial production, and its current [market capitalization](https://www.fool.com/investing/how-to-invest/stocks/what-is-market-cap/) is still over $18 billion. Investors who want to speculate on the potential of QuantumScape and its business need to plan on a lot of volatility in the years leading up to its technology going to market.
+
+· Investors have jumped in, excited about the potential, but QuantumScape will soon have a lot more shares trading. The company updated an S-1 filing at end of December registering more than 300 million shares, with at least 60 million not subject to any lockup agreement and able to be sold as soon as the filing gets the rubber stamp from the Securities and Exchange Commission.
+
+· More shares available typically means downward pressure on a stock. In this case it is existing holders, and not the company, selling shares, meaning QuantumScape would get no cash from the offering. But existing shares could feel some near-term downward pressure (which they have since mid-late December).
+
+· We'll likely know when the registration becomes official (probably sometime January) when we see a spike in the volume of shares traded and probably another down day for the shares (likely the increase in volume and decrease in price mentioned on [stockinvest.us](https://stockinvest.us) on the 4th). It's hard to read too much into options pricing, but if options are to be believed some investors are pricing in the potential for the stock to lose $20 or more in the weeks to come.
+
+· QuantumScape was a breath of fresh air as it hit the public markets after its [reverse merger](https://www.fool.com/investing/2020/11/13/why-kensington-capital-is-charging-higher-today/) with Kensington Acquisition Corp. in November.
+
+· QuantumScape, in partnership with **Volkswagen**, expects to begin construction of a 1-gigawatt hour (GWh) pilot facility in 2021. If successful, QuantumScape will expand the project to a 20-GWh facility. To put this in perspective, consider that in mid-2018 Tesla reported that battery production of its Gigafactory in Nevada achieved annualized battery production of about 20 GWh.
+
+· While management foresees the company reporting $275 million in revenue and $73 million in gross profit for 2026, QuantumScape estimates that the following year, the top line and gross profit will skyrocket to $3 billion and $1 billion, respectively. Likewise, the company believes that 2027 will be the year it starts to report positive [EBITDA](https://www.fool.com/knowledge-center/ebitda.aspx) \-- approximately $808 million.
+
+·  Since 2012, Volkswagen has provided more than $300 million in funding to QuantumScape, making it the company's largest investor -- though it maintains a minority stake. In 2018, Volkswagen and QuantumScape formed a 50/50 joint venture, one of the goals of which is to produce solid-state batteries for Volkswagen's EVs on a mass scale.
+
+· Thanks to the joint venture and pilot facility, QuantumScape envisions that Volkswagen will be the first to commercialize its solid-state batteries. But QuantumScape demonstrated in a recent filing that its dance card is hardly full, stating that "subject to the other terms of the joint venture arrangements, we are not limited from working in parallel with other automotive OEMs to commercialize our technology."
+
+· While QuantumScape is singularly focused on developing its solid-state batteries for EVs, the company recognizes that its technology may be used in other applications, such as stationary storage, smartphones, and wearables. While the company may, in time, pursue the latter two markets, it seems that stationary storage is closest to the company's current focus; moreover, it's one that certainly represents a significant opportunity. According to Lux Research, the stationary storage market, which represented installations of 164 GWh in 2019, is expected to grow at a 20% compound annual growth rate through 2035, when it will reach installations totaling 3,046 GWh.
+
+· Apple has a [mountain of cash](https://www.fool.com/investing/how-to-invest/cash-is-king/), and one could speculate that it would acquire a company with the right technology. QuantumScape highlighted its technology in a presentation earlier this month. The solid-state technology charges to 80% capacity in just 15 minutes, has greater than a 300 mile range, has a long usage life, and is non-combustible.
+
+· The company is notably backed by both **Volkswagen** ([OTC:VWAGY](https://www.fool.com/quote/otc/volkswagen-aktiengesellschaft/vwagy/)) and Bill Gates. Whether investors are speculating about an Apple investment is anyone's guess. Moves could also be driven by thinking that other potential customers will want to partner with QuantumScape if they have to compete against an Apple EV.
+
+&#x200B;
+
+*After this, I went to Simply Wall St. to get an overview of management and financials:*
+
+## ·Shahmoon Keller PLLC Files Suit on Behalf of Holders of QuantumScape Corporation Warrants
+
+· Shahmoon Keller PLLC announced that the Supreme Court of the State of New York in Manhattan has scheduled an injunction hearing for January 19, 2021 in a class action lawsuit on behalf of holders of warrants to purchase stock of QuantumScape Corporation. QuantumScape, the successor to Kensington Capital Acquisition Corp. by virtue of a business combination that closed on November 25, 2020, stated in its proxy statement and prospectus that the warrants “will become exercisable 30 days after the consummation of the Business Combination. QuantumScape subsequently asserted that the warrants could not be exercised until June 30, 2021, at the earliest.
+
+&#x200B;
+
+*Their management is excellently qualified and highly respected in their field of expertise, with many years experience and strong motivation. At the minimum this is evident in their Co-Founder:*
+
+· Mr. Jagdeep Singh is a Co-Founder of QuantumScape Corporation since May 2010 and has been its Chief Executive Officer and Director since May 2010 and serves as its Chairman since November 2020. Prior to that, Mr. Singh served as the President and General Manager of CIENA Corporation's Core Switching Division. He co-founded Infinera Corporation in 2001 and served as its President and Chief Executive Officer from January 2001 to December 31, 2009. He was the Founder of OnFiber and served as its Chief Executive Officer. He was the Founder of Lightera Networks and served as its President and Chief Executive Officer. He served as the Chairman of Onfiber Communications Inc. He served as Chairman of Infinera Corporation from March 2001 to October 14, 2010 and Executive Chairman from January 2010 to October 2010. He serves as a Member of Policy Board at EsNet, Inc. He serves as a Member of the Advisory Council at Stanford Graduate School of Business. He serves as a Member of Advisory Board of RWI Ventures. He served as a Director of Infinera until October 2010. He served as a Director of CIENA. Mr. Singh holds an MS in Computer Science from Stanford University, an MBA from the University of California, Berkeley, and a BS in Computer Science from the University of Maryland.
+
+* Over 50% of current shares are held by either insiders, institutions, public companies or Venture Capitalist Firms.
+* Top 15 shareholders own 57.19% of the companies shares. Among the top 15 include the likes of:
+
+1. Porsche automobil Holding, with 19.56% ownership,
+2. Khosla Ventures LLC, with 9.76%,
+3. Capricorn Investment LLC, with 6.71%
+4. L. Doerr , with 5.59% and
+5. Jagdeep Singh with 4.84%.
+
+&#x200B;
+
+*Next, I filtered through a Google search, focusing on news involving QS or its shareholders. This is what I found:*
+
+&#x200B;
+
+* NEW YORK, Jan. 04, 2021 (GLOBE NEWSWIRE) -- [**Wolf Haldenstein Adler Freeman & Herz LLP**](https://www.globenewswire.com/Tracker?data=d7DcVPN4nJvLQkcksRpxinmXVVLrJDxKXZ51kUy069jt6KYCVWfxv-xmrrVleGnnjI41ZIjHtVkE7V1tBU-F7u6qoBkkbZq2k4sxaA3WGwbEZTD6Y14D4iXLD4nmgqDb) announces that it has commenced an investigation of QuantumScape Corporation (“QuantumScape” or the “Company”) (NASDAQ: QS) on behalf of investors concerning the Company’s possible violations of federal securities laws.
+
+&#x200B;
+
+* On January 4, 2021, *Seeking Alpha* published an article pointing to several risks with QuantumScape’s solid state batteries that make it *“completely unacceptable for real world field electric vehicles.”* Specifically, it stated that the battery’s power means it “*will only last for 260 cycles or about 75,000 miles of aggressive driving.”* As solid state batteries are temperature sensitive, *“the power and cycle tests at 30 and 45 degrees above would have been significantly worse if run even a few degrees lower.”*
+
+On this news, the Company’s stock price fell almost 40% during intraday trading on January 4, 2021.
+
+[**Wolf Haldenstein**](https://www.globenewswire.com/Tracker?data=d7DcVPN4nJvLQkcksRpxilkDLpHhrmI0w9pWxLiwZxzgbfa0LW6wu-ssajWNDjgU-zgz7CpsCaXj9SXd2mcPUg==) has extensive experience in the prosecution of securities class actions and derivative litigation in state and federal trial and appellate courts across the country. The firm has attorneys in various practice areas and offices in New York, Chicago and San Diego. The reputation and expertise of this firm in shareholder and other class litigation has been repeatedly recognized by the courts, which have appointed it to major positions in complex securities multi-district and consolidated litigation.
+
+&#x200B;
+
+* MILWAUKEE, Jan. 4, 2021 /PRNewswire/ -- Ademi LLP is investigating possible securities fraud claims against QuantumScape (NASDAQ: QS) resulting from inaccurate statements QuantumScape made regarding its business operations and prospects.
+
+Click here to learn more about the investigation: [http://ademilaw.com/case/quantumscape-corporation](https://c212.net/c/link/?t=0&l=en&o=3025642-1&h=1038669832&u=http%3A%2F%2Fademilaw.com%2Fcase%2Fquantumscape-corporation&a=http%3A%2F%2Fademilaw.com%2Fcase%2Fquantumscape-corporation).
+
+The investigation focuses on whether QuantumScape properly disclosed the significant limitations of its solid-state battery products in order to be acceptable for real world field electric vehicle performance. Specifically, according to a Seeking Alpha research report, QuantumScape's solid state battery products (i) last only for "260 cycles or about 75,000 miles of aggressive driving", (ii) have a daily range of only about "75-100 miles at full capacity in winter temperature conditions", (iii) will charge only to 5% in 15 minutes rather than 80% at 15 minutes in winter conditions, and (iv) will have an energy density lower than competitors.
+
+If you wish to obtain additional information or have information about this investigation of Splunk, please contact X....
+
+[http://ademilaw.com/case/quantumscape-corporation](https://c212.net/c/link/?t=0&l=en&o=3025642-1&h=1038669832&u=http%3A%2F%2Fademilaw.com%2Fcase%2Fquantumscape-corporation&a=http%3A%2F%2Fademilaw.com%2Fcase%2Fquantumscape-corporation).
+
+**Also of interest, I found a Bloomberg Article outlining all the key points from above, with bullish outlook:**
+
+[https://archive.vn/Thdc8](https://archive.vn/Thdc8)
+
+For anyone willing to dive deep enough, I recommend having a look through their patent applications on Google Patents here: [https://patents.google.com/?assignee=Quantumscape&oq=Quantumscape&sort=new&page=1](https://patents.google.com/?assignee=Quantumscape&oq=Quantumscape&sort=new&page=1)
+
+Also, a quick Google Scholar search on solid-state lithium batteries, should be enough to satisfy the battery nerds out there. Some really great articles, and research on this stuff, showing huge potential.
+
+I also highly recommend everyone interested, to watch the following. It is the investors presentation, released on 8th December, on Youtube. It contains more information on their actual breakthrough btteries than I have above.
+
+[https://www.youtube.com/watch?v=dGnPSkXKb0I](https://www.youtube.com/watch?v=dGnPSkXKb0I)
+
+&#x200B;
+
+Lastly, check out r/QuantumScape for even more dd if you desire.
+
+&#x200B;
+
+My Tl;dr:
+
+* Overall bullish, the tech, if all data and results are true representations, is extremely advanced. It will be the future.
+* But production doesnt start until 2025 at the soonest. There have been accusations that the results and data were exaggerated, fabricated or whatever else usually follows success. Ongoing investigations are likely to turn up nothing though.
+* Management and the board overall are extremely experienced and likely trustworthy. They are and will continue to be the best they can be at what they do.
+* There are some extra shares floating around that may suppress price for a couple of weeks or so. And with a huge run up already after happening, it is unlikely to see another for a couple weeks/months again, minimum.
+* People are comparing it to Tesla already. There are also some competitors, some of them Chinese, some of them just other car companies, such as Toyota and GM. Also EV stocks in general are hot/are getting bad rep because of valuations.
+* In terms of technical analysis, I predict a big move upwards over the next few week/months.
+* Long term (5+ years) this could go up 1,000% from current prices if they deliver on all their promises, and especially if they overdeliver. That would be extremely bullish.
+
+&#x200B;
+
+Also, as a side note, I want to give a special mention to CBAT, another battery maker. All the hype surrounding EV's and Battery companies could cause CBAT to go on a huge bullish run. For reference, it is already up around 30% over the last week or so, and could easily rise another 100%+ from here, with a current price of only \~$9. I am personally going long both.
+
+&#x200B;
+
+I hope you have all enjoyed my dd on QS, as much as I enjoyed putting it together! I hope to see big things from them in the future.
+
+&#x200B;
+
+Yours truly,
+
+NathMcLovin!_END_OF_POST_PYSTOCK_ U.S. considering adding Alibaba, Tencent to China investment ban The Trump administration is considering adding tech giants Alibaba and Tencent to a blacklist of firms allegedly owned or controlled by the Chinese military, two people familiar with the matter said on Wednesday.
+
+
+Targeting Asia’s two most valuable companies would be U.S. President Donald Trump’s most dramatic step yet in a recent raft of measures unleashed against Chinese companies as he seeks to cement his hardline policy against Beijing during his final days in office.
+
+Defense Department officials, who oversee the blacklist designations, have not yet finalized plans and are also discussing adding other Chinese firms to the list, the sources said, speaking on condition of anonymity because the deliberations are private.
+
+Both companies declined to comment. The discussions were first reported by the Wall Street Journal.
+
+Shares in Alibaba, China’s biggest e-commerce firm, finished down 3.9% on the Hong Kong Stock Exchange while Tencent, a gaming and social media behemoth, lost 4.7%. Alibaba’s U.S.-listed shares closed down just over 5% on the news on Wednesday.
+
+Some investors expressed skepticism, however, that Alibaba and Tencent would face long-term restrictions - given that they are worth a combined $1.3 trillion, widely held by U.S. investors and the likely reputational and financial hit to U.S. stock markets.
+
+“It’s a very bad policy and there’s enough money in Asia, lots and getting bigger, that one shouldn’t force these companies out of America,” said Thomas Caldwell, chairman of Caldwell Investment Management in Toronto and an investor in the New York Stock Exchange. “Money and markets should be neutral.”
+
+Source: [Reuters](https://www.reuters.com/article/us-china-usa-alibaba-tencent-idUSKBN29C04Y)_END_OF_POST_PYSTOCK_ Portfolio Holdings Of Insurance Companies Is there a way to find out specific holdings in portfolio of Insurance companies ? 
+
+There is plenty of sources on the structure of insurers holdings (mostly bonds) , all relevant asset type and breakdown of issuers of these securities (governemnt, corporate, ...), but where can I find specific holdings? Do they perhaps file these on regular basis? I wonder which specific bonds insurer like Allianz, AXA or Generali hold in their portfolio._END_OF_POST_PYSTOCK_ What would happen if BABA get delisted to my stocks? Is there any samples of what happens then? It's value of 8 BABA stocks on HK exchange. Doesn't say what that means to a casual. How these backing stocks would come to me?
+
+Also, what about these TCEHY ADRs? Would they have the same right to be converted to real underlining stock?
+
+&#x200B;
+
+I unloaded some Chinese stocks for fears a some time ago and missed huge jumps but BABA and TCEHY seems to at least be solid firms regardless of possible deceitfulness in bookkeeping among Chinese firms and with current USA market valuations craze seems these are valued "fairly"._END_OF_POST_PYSTOCK_ Europe's plug in EV market grows 198% YoY in November. Tesla drops out of the top 3 https://cleantechnica.com/2020/12/29/record-electric-vehicle-sales-in-europe/
+
+Renault Zoe - 9953 Vehicles Sold
+Volkswagen ID.3 - 8496 Vehicles Sold
+Hyunday Kona EV - 5375 Vehicles Sold
+Tesla Model 3 - 5014 Vehicles Sold
+Mercedes A250e - 4517 Vehicles Sold_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Examples of Investments with Worthless Resale Value? This might seem obscure, but I am trying to think of investments that have no resale value after purchasing, but that do return expected cashflows.
+
+Alternatively, (1) investments with transaction costs so high that it would essentially never make sense to resell, or (2) investments whose residual resale value diminish relatively quickly.
+
+This can be in any context; Individual retail investing, Businesses investing in $x, etc.
+
+Appreciate any responses!_END_OF_POST_PYSTOCK_ Convertible Bonds Basics Can anyone point me in a direction for a good resource so I can learn the basics of them?  I am interested in learning the basics to see if it could be part of my career way down the road. I am entering college and I have an interest in the stock market, but I would really like to know about Convertible Bonds and would like to know the best resource in which to start out with. (This would have been much shorter if there was no word minimum)._END_OF_POST_PYSTOCK_ SOMO IPO comparison to competitors/similar stocks SUMO : Price/sales = 13x, revenue growth YoY = 49.6%, Gross margin 71.3% (from S-1)
+
+FROG: Price/sales = 30x, revenue growth YoY = 40%, Gross margin 81% (from 10-Q)
+
+DDOG: Price/sales = 40x, revenue growth YoY = 68%, Gross margin 78% (from 10-Q)
+
+PLTR: Price/sales = 40x, revenue growth YoY = 52%, Gross margin 48.3% (PLTR press release)
+
+
+SNOW: Price/sales = 100x, revenue growth YoY = 121%, Gross margin 62% 
+
+Thoughts? 
+This is a hidden gem maybe?_END_OF_POST_PYSTOCK_ Bond Index Price History Does anyone know where to find the price history of a bond index that goes back to 1950 ideally, Or as far back as possible.
+
+I am able to get the price history of the S&P 500 going back to 1927, but want to back test a strategy that includes a secure asset like corporate bonds or the 10 year treasury, but am having trouble finding the price history of anything beyond AGG, which only goes back to 2003 in yahoo finance or the vanguard total bond market index, which only goes back to 2001._END_OF_POST_PYSTOCK_ Spreads / Naked Calls - What's the difference? I'm getting differing answers and answers that are not answering my question, so I'm posting in here.
+
+What is the difference between a debit spread and a naked call option if in the end, you need to supply 100 shares per contract if the option goes ITM?
+
+Example: I buy a $100 long call for April 2021 with a premium of $0.50 and I sell a short call for April 2021 at $150 with a premium of $0.20. The stock price suddenly jumps from $105 to $160 and is assigned and exercised by the person who bought my short call. Now I owe this guy 100 shares, which I don't have. Apparently my long call "covers" this. What the hell does that mean? I need to exercise my long call instead of collecting the premium on it?
+
+Please tell me the exact actions one would take in this type of scenario to avoid having to provide 100 shares to the person who exercised my short call option._END_OF_POST_PYSTOCK_ Are there location-specific REITs? Im interested in real estate investing, but unfortunately I live in a pretty terrible location for it (coastal city with high home prices yet little appreciation year to year). I’d love to get in on some of the growth that some of the up-and-coming cities around the country are seeing. The idea of purchasing and managing a rental in another state is pretty daunting, so I’m curious about location-specific REITs. Are they a thing? Are there other ways I can invest in specific cities’ real estate markets?_END_OF_POST_PYSTOCK_ TSLA - Tesla market value today is more valuable than all the world's major auto makers combined - what gives? Tesla market value today (716 Billion) is about the same as  the market value of all the world's major car makers combined.  In addition China's BYDDY (86B) and Nio (78B) are both more valuable than Daimler (74B) even though NIO only delivered less than 40,000 cars in all of 2020 with huge loss. China's LI and XPEV combined market value are similar to GM (61B), which has production in China and has a worldwide lineup of EV to be on the market in the next few years.
+
+With the exception of autonomous driving, EV manufacturing appears to have a low technology barrier to entry, that's why we have so many EV car companies pops up all over the world. Everybody used the same Total Addressable Market to justify their future value. I don't think autonomous driving is a must have in buying an EV, so the competition will be intense once all ICV companies start to produce their lineup of EVs in the near future.
+
+Since Auto industry is a cyclical business, historically, the market value of the auto companies were somewhat depressed as compared to other high growth industries. Since there is a limit on how many cars will be sold in a year based on historical trends, I don't know how we can justify doubling or tripling the total market value of the whole auto industry unless all the non-Tesla companies lost significant amount of their market value, which is not likely (you are talking about fierce competitors like Toyota, Daimler, Honda, GM, etc)
+
+The first movers (Tesla, BYDDY, Nio, Xpev) are catching all the investment dollars, driving their stock to current nose bleeding price.  Once all major car makers start to deliver EVs, supply and demand will determine their profit margin, future cash flow and true present value.
+
+What do you think? How long will this EV mania last?_END_OF_POST_PYSTOCK_ $DHI, Question about Cash Flow from Operations  I was looking at $DHI, and they seem like a great company. #1 U.S. home builder by homes sold, increasing revenue and net profit, good balance sheet, and in no financial threat. They are doing much better than their competitors, because they operate throughout the sunbelt of America and provide fairly cheap homes(\~$300,000 avg). This, I believe, has a lot of potential, because more people are moving down south and into suburbs. With affordable homes and demand, I see a great future for this company.
+
+My only concern is their Cash Flow from Operations(CFO) is slightly lagging behind their Net Income. Their CFO is almost half of their Net Income. I've checked other companies in the home construction industry, and they don't seem to have this problem. I might be missing something, or I might be over exaggerating this issue, but I would like to hear your thoughts about this and what you think about this company and industry.
+
+&#x200B;
+
+|Year|2017|2018|2019|TTM|
+|:-|:-|:-|:-|:-|
+|Net Income| 1,038.4 | 1,460.3 | 1,618.5 | 2,373.7 |
+|CFO| **440.2** | **545.2** | **892.1** | **1,421.6** |
+
+&#x200B;
+
+What seems to be dragging this down is their Change In Inventories and their Change in Other Net Operating Assets. I was also wondering if someone could help me break down these 2 terms. Thanks in advance!_END_OF_POST_PYSTOCK_ My Watchlist For 1/7/2021 $ALNY - Great small channel here, with fantastic value here. It also has 4 higher lows that line up perfectly, which is also great. RSI and Vortex is very low, and Stoch is medium. Great setup.
+
+&#x200B;
+
+$ATNX - Beautiful channel at value. Showing some higher lows and has a good chance to reverse here. Indicators say it is fair price, so I think it ay dip a little more.
+
+&#x200B;
+
+$BAND - Great value here. Super easy stop lose area here. All indicators oversold, so I think if it lives tomorrow, it is going to be awesome.
+
+&#x200B;
+
+$BILL - Old resistance as a support, and a previous channel resistance retest. All indicators oversold and showing a divergence.
+
+&#x200B;
+
+$CDW - Nice uptrend, and a solid area of support. If it breaks higher it may skyrocket. Indicators are low and at a nice are of support? I like it!
+
+&#x200B;
+
+$EBR - Beautiful uptrend which is great, area of support, and 200EMA? Love it. All indicators are low, so this should be a great place for a reversal!
+
+&#x200B;
+
+$FGEN - Beautiful area of support. Great value and just showed some good life. Indicators look good, but we may see a small pullback then take off.
+
+&#x200B;
+
+$PSA - Great area of support, and a noticeable uptrend. All indicators look good for a reversal, and it has never been lower on them.
+
+&#x200B;
+
+$SDC - Great uptrend, so it may come down a tiny bit. Noticeable support at the 200EMA line as well. All indicators are oversold as well which is great.
+
+&#x200B;
+
+$SUI - Great ascending triangle which is awesome. If it dies, we have a beautiful channel to buy into as well. All indicators show this is a great place for a reversal too.
+
+&#x200B;
+
+$VRSN - Gap down and gaps like to be filled, and now it is in a support area. All indicators say reversal coming soon, so this is a great look._END_OF_POST_PYSTOCK_ Tax question Are there any tax filing platforms that are better for reporting sold stocks? I used H&R Block last year and they charged $10 per sale. That’s a lot of money I’d rather not pay and I’m not sure if there are other options available or if every service charges similarly._END_OF_POST_PYSTOCK_ The total value of all cryptocurrencies passed $1 trillion Wednesday for the first time ever, per CoinGecko‘s index of 6,124 assets. A big part of this is Bitcoin rallying, but also a lot of other cryptocurrencies are up 50-150% this week. Ethereum, the second largest, is up 61%. Stellar notably has jumped up 164%.
+
+The rally appears to have been prompted by regulatory guidance allowing banks to transact in stablecoins, as the biggest winners have been blockchains that participate in that space.
+
+https://www.coindesk.com/cryptocurrency-market-value-record-1-trillion
+http://coingecko.com/_END_OF_POST_PYSTOCK_ You have to build a "Zombie Apocalypse" ETF. What stocks would you put in there? "Zombie Apocalypse" is a stand in for all sorts of disasters -- like pandemic, massive earthquake, civil unrest, housing bubble collapse, etc. Two rules:
+
+* It has to be a stock that would be good (or at least ok) to own even when things are peaceful.
+* Your assumption is that the disaster is a big one, but country will eventually recover within 1-2 years.
+
+So for example:
+
+* Home Depot: People need to board up their homes during the disaster, and rebuild afterwards.
+* AXON: Police body cam and tasers. Also good after disaster because we're undergoing a increase demand for body cams for civil liberty reasons.
+* Palantir: Large scale problems require large scale solutions. And that requires data analysis.
+* Solar panel companies: During disasters people may buy more solar panels to become self sufficient. During peace times solar still saves money.
+
+This is just a fun thought exercise. Please don't turn this into a political discussion._END_OF_POST_PYSTOCK_ U.S. Weighs Adding Alibaba, Tencent to China Stock Ban Jan. 6, 2021 5:48 pm ET
+
+U.S. officials are considering prohibiting Americans from investing in Alibaba Group Holding Ltd. and Tencent Holdings Ltd., a potential escalation of the outgoing Trump administration’s efforts to unwind U.S. investors’ holdings in major Chinese companies.
+
+State and Defense Department officials in recent weeks have discussed expanding a blacklist of companies prohibited to U.S. investments over alleged ties to China’s military and security services, according to people familiar with the matter. The U.S. government announced its original blacklist in November with 31 companies.
+
+Tencent and Alibaba are China’s two most valuable publicly listed companies, with a combined market capitalization of over $1.3 trillion and scores of American mutual funds and other investors holding their shares. U.S. listed units of Alibaba fell more than 5% on Wednesday, and Tencent tumbled by about 4%.
+
+The blacklist is one of several Trump administration efforts related to investing in Chinese firms. Also on Wednesday, the New York Stock Exchange said it would delist three major Chinese telecommunication carriers targeted by a Trump executive order, after earlier scrapping the plan following “new specific guidance” from the Treasury Department._END_OF_POST_PYSTOCK_

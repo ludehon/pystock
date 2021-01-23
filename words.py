@@ -15,12 +15,14 @@ import shared
 DATA_FOLDER = shared.DATA_FOLDER
 RESSOURCES_FOLTER = shared.RESSOURCES_FOLTER
 
+
 def clean_string(content):
     content = content.translate(str.maketrans("", "", string.punctuation))
     return content
 
 
 # rate = {0, 1}, data = list
+
 def lowPassFilter(data, rate):
     tmp_data = data[0]
     filter_data = []
@@ -44,6 +46,7 @@ def smoothDF(df):
 
 
 class wordFreq:
+    
     def __init__(self):
         self.count = dict()
         self.nameMap = dict()
@@ -55,16 +58,22 @@ class wordFreq:
         self.loadFilter(RESSOURCES_FOLTER + "cleaned_nyse.csv")
         self.loadFilter(RESSOURCES_FOLTER + "cleaned_amex.csv")
 
+    
     def loadFilter(self, filterFile):
         df = pandas.read_csv(filterFile)
         df["Symbol"] = df["Symbol"].str.lower()
         df["Name"] = df["Name"].str.lower()
         df["First_Name"] = df.Name.str.split().str[0]
 
-        first_Name_map = df[["Name", "First_Name"]].set_index("Name").to_dict()["First_Name"]
-        ticker_map = df[["Symbol", "First_Name"]].set_index("Symbol").to_dict()["First_Name"]
+        # first_Name_map = df[["Name", "First_Name"]].set_index("Name").to_dict()["First_Name"]
+        # ticker_map = df[["Symbol", "First_Name"]].set_index("Symbol").to_dict()["First_Name"]
+
+        # TODO : test new display
+        # create dict name-> full, ticker->full
+        first_Name_map = df[["Symbol", "First_Name"]].set_index("First_Name").to_dict()["Symbol"]
+        ticker_map = df[["Symbol", "Name"]].set_index("Name").to_dict()["Symbol"]
+
         fusion = {**ticker_map, **first_Name_map}
-        
         self.nameMap = {**self.nameMap, **fusion}
 
         self.filter = self.filter.union(
@@ -75,13 +84,13 @@ class wordFreq:
             set(df["Name"].str.lower().tolist())
         )
 
-
     # return set of words from content
     # remove punctuation
     # lower case
-    # replace ticker and full company name by the first name
+    # replace ticker and full company name by the first name with self.nameMap
     # keep only company names
     # content : str
+    
     def processContent(self, content):
         content = clean_string(content)
         content = content.lower().split()
@@ -92,6 +101,7 @@ class wordFreq:
         return set(content)
 
     # content : str
+    
     def addWords(self, content):
         words = self.processContent(content)
         for word in words:
@@ -102,22 +112,77 @@ class wordFreq:
 
     # keep words in li that belong to self.filter and remove those that are in self.stopWords
     # li  : list[str]
+    
     def filterWords(self, li):
         li = [x for x in li if x in self.filter]
         li = [x for x in li if x not in self.stopWords]
         return li
 
+    
     def getCount(self):
         return self.count
 
+    # input:
+    # date(string):
+    # size(int): 
+    
+    def getTopsByDay(self, date, size):
+        stats = json.load(open(DATA_FOLDER + str(date) + "_word_frequency.json"))
+        c = collections.Counter(stats)
+        return c.most_common(size)
+
+    
+    def displayTopByDate(self, size):
+        first, last = shared.getFirstAndLastDate(shared.RAW_FOLDER + "investing*.txt")
+        dates = pd.date_range(start=first, end=last).tolist()
+        dates = dates[-5:]
+        tops = {}
+        for date in dates:
+            date = str(date).split(" ")[0]
+            topDay = self.getTopsByDay(date, size)
+            tops[date] = topDay
+        # print(tops)
+        df = pd.DataFrame.from_dict(tops)
+        print(df)
+
+    
+    def getDayData(self, date):
+        stats = json.load(open(DATA_FOLDER + str(date) + "_word_frequency.json"))
+        return stats
+
     # return list with top words from json files
     # size : int
+    # 
+    # def loadTop(self, size):
+    #     stats = collections.Counter()
+    #     first, last = shared.getFirstAndLastDate(shared.DATA_FOLDER + "*.json")
+    #     dates = pd.date_range(start=first, end=last).tolist()[-7:]
+    #     for date in dates:
+    #         date = str(date).split(" ")[0]
+    #         # topDay = self.getDayData(date)
+    #         # stats += collections.Counter(topDay)
+    #         freq = json.load(open(DATA_FOLDER + str(date) + "_word_frequency.json"))
+    #         stats += collections.Counter(freq)
+    #     # for file in files:
+    #     #     freq = json.load(open(file))
+    #     #     stats += collections.Counter(freq)
+    #     print("STATS::")
+    #     df = pd.DataFrame.from_dict(stats, orient="index").reset_index()
+    #     print(df)
+    #     df = df.rename(columns={"index": "word", 0: "count"})
+    #     df = df.sort_values("count", ascending=False)
+    #     print(df)
+    #     df = df.head(size)
+    #     top = df["word"].tolist()
+    #     return top
+
     def loadTop(self, size):
         stats = collections.Counter()
-        files = glob.glob(DATA_FOLDER + "*json")
-        files.sort(key=os.path.getmtime)
-        for file in files:
-            freq = json.load(open(file))
+        first, last = shared.getFirstAndLastDate(shared.DATA_FOLDER + "*.json")
+        dates = pd.date_range(start=first, end=last).tolist()[-7:]
+        for date in dates:
+            date = str(date).split(" ")[0]
+            freq = json.load(open(DATA_FOLDER + str(date) + "_word_frequency.json"))
             stats += collections.Counter(freq)
         df = pd.DataFrame.from_dict(stats, orient="index").reset_index()
         df = df.rename(columns={"index": "word", 0: "count"})
@@ -161,6 +226,7 @@ class wordFreq:
 
     # remove unecessary columns and words
     # fileName : str
+    
     def clean_csv(self, fileName):
         stops = ["inc", "corp", "corporation", "ltd", "etf", "nasdaq", "dow"]
         data = pandas.read_csv(fileName)
@@ -176,6 +242,7 @@ class wordFreq:
 
     # save word occurence to file
     # date : str
+    
     def saveToFile(self, date=None):
         if date == None:
             date = str(datetime.utcnow()).split(" ")[0]
@@ -185,19 +252,21 @@ class wordFreq:
         self.count = json.load(open(date + "_word_frequency.json"))
 
 class TopViz:
-    def getTopDay(self, date, size):
-        subs = shared.subs
+    
+    def getTopsByDay(self, date, size):
         stats = json.load(open(DATA_FOLDER + str(date) + "_word_frequency.json"))
         c = collections.Counter(stats)
         return c.most_common(size)
 
+    
     def displayTopByDate(self, size):
         first, last = shared.getFirstAndLastDate(shared.RAW_FOLDER + "investing*.txt")
         dates = pd.date_range(start=first, end=last).tolist()
+        dates = dates[-5:]
         tops = {}
         for date in dates:
             date = str(date).split(" ")[0]
-            topDay = self.getTopDay(date, size)
+            topDay = self.getTopsByDay(date, size)
             tops[date] = topDay
         # print(tops)
         df = pd.DataFrame.from_dict(tops)

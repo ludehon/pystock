@@ -1,0 +1,761 @@
+ Looking for ideas in fixed income realm -10 plus year time horizon
+-Moderate risk
+-Investment objectives are 1) income 2) preservation of capital
+
+How do you feel about these or anything else you have in mind for generating income where safety of principal is not paramount?
+
+O
+PFXF
+PSEC
+
+If you there is anything missing in the premise, please make up to your liking. Thanks in advance.
+
+Edit: Investment doesn’t have to be a fixed income product. Can be dividend generating securities as well.
+
+Not interested in covered option writing at the moment be a little too involved right now._END_OF_POST_PYSTOCK_ How to handle reinvestment for discounted cash flow approach [https://ptgmedia.pearsoncmg.com/images/chap10\_9780134854106/elementLinks/10fig06\_alt.jpg](https://ptgmedia.pearsoncmg.com/images/chap10_9780134854106/elementLinks/10fig06_alt.jpg)
+
+In reference to the image above detailing the steps for a DCF approach, I've always baked in the reinvestment amount directly into the Operating Margin. Why is there the need to deduct it again after Net Income to reach the final Net Cash Flow? Thanks alot in advance!_END_OF_POST_PYSTOCK_ Finwiz Hi. It looks like many of you use FinWiz. The service looks great. However, how come the mobile app shows me more stocks than the web interrace? For example, the mobile shows me all the normal info for FTSSF, but the web service does not pull anything at all. I cannot even pull FNMA on the web which is puzzling to me. 
+Thanks in advance._END_OF_POST_PYSTOCK_ If Fidelity and Schwab are superior to robinhood, why does robinhood have more users? I'm a beginner investor and I noticed something strange. Supposedly, from what I hear at least, fidelity and Schwab are better than robinhood and apparently robinhood is bottom of the barrel in terms of brokerages. Yet it has more users, at least looking at the user downloads of their respective apps on the play store. Is this simply a matter of robinhood having better advertising and the free stock luring more people to their platform? Or am I missing something? Genuinely curious, I intend to use all of them at some point, right now I'm only on robinhood._END_OF_POST_PYSTOCK_ Tools to Compare Stocks Fairly new investor, just wondering what you all use to compare quantitative stock data. Any tools you'd consider a hidden gem? Right now Im using a good old spreadsheet, but I'd like to move away from manual searching and start automating the process a bit more._END_OF_POST_PYSTOCK_ Hedge against market drop? What’s the best/simplest way to hedge against a decline in the market? In an ideal scenario I’d like to auto invest 80% into VOO, with the other 15-20% invested automatically into an ETF to hedge against volatility in the overall market.
+
+Where I’m struggling is finding the right approach that doesn’t require a ton of time and effort. 
+
+Appreciate any thoughts._END_OF_POST_PYSTOCK_ Why is insider trading illegal/immoral? Ok so I did some research into this and I’m pretty confused on why this is illegal. For example let’s say that I work for a company and overhear that it’s going to go bankrupt due to severe financial problems. 
+
+I know my friend has a lot of shares in this company so I tell him to sell them before the shares drop. Why would this be illegal or immoral? Would I legally not be able to tell him to sell his shares?
+
+I feel like I’m missing something can someone please explain._END_OF_POST_PYSTOCK_ Seeking Alpha No Longer Free I have been using Seeking Alpha to find investing ideas for years.  Today, they eliminated unlimited free articles to non-subscribers.  This is untenable for me and many others, as SA contributors are no professionals, but amateurs.  Join me in letting the SA editors know how big of a mistake they have made.  
+
+
+[https://feedback.seekingalpha.com/en/communities/1/topics/152129-new-paywall-free-article-limit-since-jan-4th-2021](https://feedback.seekingalpha.com/en/communities/1/topics/152129-new-paywall-free-article-limit-since-jan-4th-2021)_END_OF_POST_PYSTOCK_ How do you handle changes in currency exchange rates? Hello r/investing
+
+I have a question regarding currency exchange rates. I live in Sweden and our currency is called SEK, Swedish crowns. About 70% of my portfolio is stocks (the rest ETF:s) and 100% of those stocks are traded on American markets. 
+
+The current prognosis of the USD/SEK exchange rate is that the Swedish crown is going to strengthen, hence 1 USD = less Swedish crowns. How should one handle this currency risk? For example, I bought MSFT shares a couple of months ago for $202 per share, today they're $216 which implies a 7% increase in value. Over this period the USD/SEK exchange rate went from 8,8 SEK per USD (which is the rate I bought at) to 8,2 SEK per USD, i.e. a 7% decrease. These two movements cancel out, and I'm break even. 
+
+How can one handle changes in currency exchange rates? And how can one minimize the effects on his/her investments, mainly stocks and funds.
+
+&#x200B;
+
+Thank you, 
+
+Samuel, Sweden_END_OF_POST_PYSTOCK_ Options question about how far OTM to go (RKT) I’m brand new to options and still have lots of learning to do, but I’m fairly bullish on RKT and would like to purchase a call option for December 2021. I’m struggling to understand what the benefits and drawbacks are for buying a 27 call for $2.90 vs a 25 call for 3.34. I know that with the 25 call option my break even will be 28.34 a share instead of the 29.90 a share for the 27 option, but if it were all about breakevens there’s even cheaper options. Can anyone point me in the right direction to some resources? Just trying to decide how going farther out of the money is worth it._END_OF_POST_PYSTOCK_ Son Masayoshi's interesting take on 'is this a bubble?' question -- relevant to some of the previous discussions here on the 'Internet bubble' At 45:50: https://www.youtube.com/watch?v=4KZrOf0lyUA&t=2750
+
+He starts his answer by comparing it to the .com bubble back when Y2K was around, similar to some of the discussions here. He essentially says that that was just the beginning of the Internet revolution, then adds a layer to the complexity to the question whether the discussion is around short term or long term. His answer is essentially AI/tech/information revolution for the current bubble.
+
+His sale of Arm to Nvidia seem to fit this vision. What do you think?_END_OF_POST_PYSTOCK_ What is the sentiment on investing in big banks right now? Now I know interest rates are a factor now and for the next few years but what else can put a hamper on their growth and stability? I look at banks like JPM and BAC and I like what I see on paper. They haven't had a huge run up and are still paying a divident. Seems like a safe bet for the next few years to me. Am I wrong? How does everyone else feel about big banks right now?_END_OF_POST_PYSTOCK_ Sustainability Investing Hey fam, I am brand new to this game. I just started a personal trading account with a little money to use in order to become familiar with trading in general. I am looking to invest in companies that do good work for environmental sustainability and social justice issues. Any list I find online is a completely contrived list of oil companies, pharmaceutical companies and other corporations that I know do not care about the issues I care about. Is investing just a crapshoot? Will I be forced to throw my money at companies that I think are evil? Are there any good companies that y'all could recommend to me if I am interested in investing in a company's stock that works for sustainability issues and social justice causes? What sorts of stocks should I be looking for?_END_OF_POST_PYSTOCK_ Wondering what does Wednesday bring?? (Electoral stuff) Curious what some more experienced investors think may come this week on the 6th.
+
+Not looking to have a political discussion, but for anyone paying attention it would seem the process on the 6th will not go smoothly, per-se.
+
+I expect a market reaction, is that reasonable?? Anyone planning on buying Puts?
+
+Just looking for some insights from the legends on what to expect if/when chaos ensues._END_OF_POST_PYSTOCK_ Will evictions be the downfall of the economy? (Discussion) Just wondering what people’s thoughts will be on an idea I’ve been researching. 
+
+(I’ll keep it short but if you want any websites to numbers I claim let me know)
+
+
+Currently as we all know there’s a huge rental paying problem about 17 million Americans are behind as of 12/14/2020 and 5.7 million of those  are likely to be evicted in the next 2 months. 
+(This doesn’t consider commercial)
+
+With this new stimulus evictions were supposed to be prolonged but it’s only been prolonged until January 31, 2021. Luckily many states have an extension (About February 14) with the exception of Maryland,Nevada,New Jersey, New York, and Oregon which have farther down extensions June, end of pandemic, etc. 
+
+I’ve talked with a couple of real estate lawyers and they say they are already getting a flood of evictions (commercial and residential) and are expecting a “huge tsunami of evictions” (not my word theirs. 
+
+Since hedge funds are currently holding a huge amount of real estate bought in 08 for cheap ( top 50 real estate hedge funds held about 192.876 billions dollars of real estate in 2012) They’ve definitely been stocking up and there portfolios are probably 10 fold by now since (that’s what’s caused market value increase) but now with a huge amount of evictions (that they will be giving out) they will loose a huge amount of profit that the hedge was making. 
+
+Ultimately this will lead to an initial drop in home values once evictions occur, and a second greater drop once they try to liquidate their real estate properties. 
+
+This part I might be wrong but I see two ways they liquidate, the first is they sell to banks in packages at reduced prices knowing eventually the government will bail the banks out when the values drop on the properties and take profit from 08 or if they are actually evicting people out of stupidity, they themselves put the properties on the market to sell.
+
+Either way restaurants and people get evicted, home values drop and the stock market being pumped on inexperienced investors gets a quick scare dump. 
+
+I might be completely wrong so I’d love to get peoples opinion and especially people in the real estate space. 
+
+Tldr: Commercial/Home Evictions will reduce rental income in hedge funds causing them to Liquidate real estate dropping the housing market and stock market.
+
+Edit:  
+Most common counter argument which is that properties will be able to find new renters after evicting the old ones. Obviously this is a great counter argument and if this happens my post won’t occur.
+
+Obviously we don’t know what will occur we can only assume. 
+
+But I will be keeping an eye on vacancy levels in March as it would be an early sign that we’re in trouble. Thanks for all the ideas and discussions very informative!_END_OF_POST_PYSTOCK_ Robinhood Fraud? I recently made a brokerage account a few weeks ago. I transferred a few dollars to begin practicing with the app. I noticed that if I upgraded to gold, with the free 30 day one, that I’d get an instant deposit limit of 5k. I deposit about $2000 as planned. Now, as soon as I upgraded to gold and deposited 2k, my instant deposits were revoked and my account was restricted. I emailed them asking them why and they gave me vague answers. They pretty much said only until the transfers successfully make their way to RH, will they enable my instant deposits again. Isn’t this fraud? They promised instant deposits for upgrading to gold. I’ve lost lots of money already because of their surprise restriction. I’ve them every day of the ordeal and their brainless representatives still refuse to re-enable the credits until my transfer clears. Two of the representatives claimed they don’t have the power to re-enable unless my transfers come through. However, this is a lie because some of my single digit transfers have successfully come through. My belief is that they have the ability to re-enable them at anytime. For some reason they deem my account untrustworthy despite no reversals. Their faulty algorithm flagged my account and now I lose money and have to pay for it? Let me know what you guys think about this. I appreciate any thoughts. I would not trust these people with very large portfolios._END_OF_POST_PYSTOCK_ Tesla Call Options instead of Tesla Stock Hey,
+
+I wanted to ask for opinions on buying Tesla Call Options (ISIN: DE000TT462X1 expires 2024) instead of / as an alternative to buying Tesla stock.
+I know how Options work, so I know my risk with it, especially because of the strike price of 800$, but I am only turned 19 a few weeks ago and don't have the money to buy whole stocks, but I believe in Tesla and wanted to find a way to invest a small part (about 2,5%) of my portfolio in it.
+
+So I wanted to ask for some Opinions from people experienced in investing because I never hear people talk about holding Options for multiple years as some kind of alternative or taking a little bit more risk but still have the benefit of holding it for a few years.
+
+I am pretty new to investing and to this subreddit as well.
+
+So I hope for some advice and thanks in advance. :)_END_OF_POST_PYSTOCK_ What is gambling in your opinion? I keep seeing this word getting thrown alot here. In your opinion, what is the difference between investing and gambling?
+
+Does it depend on the choice you make? (e.g. buying stock TSLA is gambling regardless of your research/effort put in)
+
+Does it depend on how the choice was made? (e.g. Person A is "gambling" by buying TSLA because he put 0 research, but person B is "investing" TSLA because he put hours upon hours of research)_END_OF_POST_PYSTOCK_ Viable alternatives to stocks/ real estate? I'm sitting on a pile of cash, and wary of both the real estate and stock markets, which I believe are overvalued.
+
+Despite what you may personally think on the above, what are the viable alternatives to investing in either of them? I'd like to at least preserve my cash against inflation and with the likely higher than normal inflation coming, I'd like to do it soon._END_OF_POST_PYSTOCK_ Is the stock market overvalued? I've been an index fund investor for years, and pulled out in the past year or so. It seems like the market is overvalued, but it keeps going up despite that.
+
+I'd like to get back in the market, but almost every indicator I look at shows the market as overvalued, and with the economy in the dumps, it doesn't make much sense. I'm beginning to think we're in a period of irrational exuberance.
+
+I'd hate to be that guy "waiting for the dip" that never comes, or the guy who gets hit by higher inflation, but the stock market seems so disconnected from reality now. Is it overvalued, or completely normal?_END_OF_POST_PYSTOCK_ Tonal is currently pre market I’m new to investing and was looking into home gym equipment. I noticed that Tonal has been backed by a few larger investors and despite my best efforts and can’t find a public date. I was looking for help or guidance on finding out when a company will go public. Thank you in advance for your assistance._END_OF_POST_PYSTOCK_ Quantitative analysis 
+Ok I have been looking into “algorithmic analysis” and it seems to be the future of the stock market but I wanted to know how I can get my hands in it or what do people think about computer algorithm trading.  Personally when I hear that a computer can learn human culture and language and reactions and can sell a stock,option or asset faster than any brokerage or human being it makes me wonder why we are even here..:).  So anyone please tell me your thoughts or personal advice on the future of trading._END_OF_POST_PYSTOCK_ Will BNGO reach 10 dollars in the near future? I bought BNGO at a dollar a share and then sold it when it went to over 2 dollars. I actually wasn't aware of the hype and just wanted get off before it dipped like a lot of dollar stocks. I figured doubling my investment was good enough. I decided to get back into it and I noticed today that, as far as I've followed, it has scaled as high as 6.85.
+
+Will it continue to climb or is the ride going to come to a crashing end?_END_OF_POST_PYSTOCK_ Are bitcoin hedge funds real? So my friend was told about a btc hedge fund from her friend but everything clearly says red flags in my eyes. Basically in a nutshell its a btc hedge fund that solely deals in trading btc. You make and account with them and fund with btc and they'll trade it for you within their pool of traders.
+
+The costs are $25 monthly fee along with a 30/70 split in profit between management and yourself.
+
+She's citing 14-18% RoI (after the 30/70) on a monthly level which is bonkers.
+
+Says that each trader manage 5-10% of the core portfolio and look only for low risk trades of around .5%-1% and thats how they're able to pull in about 4% weekly. They say that they can consistently pull those numbers in any market and that they just have experienced traders so they can make money even when the markets are down.
+
+How funding works is to use an E-Wallet and purchase btc and then send btc to them from them to manage. Says you can cash out profits every week and put back into investment or cash out back into an E-Wallet
+
+Some questions I have are how would they be able to make this work? Would they just be pushing numbers by using new investors capital to pay off the weekly profits for users?
+
+Is it even possible to push these numbers by day trading btc on a very low risk trading style? What is a more realistic number?
+
+Are there any crypto hedge funds to look at for comparatives?
+
+Novatechfx is the company, there's more information there. let me know comparatives and realistic numbers and anything that debunks this._END_OF_POST_PYSTOCK_ Is this a simple enough tax loss harvesting strategy? Hey r/investing \-- my wife and I have been pretty aggressively tackling some student loan debt in 2020 (thanks to r/personalfinance), and are now finally at the point where we have some investible income in 2020 after taking care of the mortgage, retirement accounts, emergency fund, etc. I'm pretty familiar with investing and trading, but everything we've done so far has been retirement investing in our tax-advantaged Roth IRAs, so I want to make sure I'm using a suitable strategy for our taxable brokerage account.
+
+We want to keep things simple and just put our excess investible income into a broad market ETF in a taxable brokerage account. I'm familiar with how tax loss harvesting works in theory, but I'm wondering if -- in practice -- it would be simple enough to invest 100% of our investible income into our primary ETF (we're thinking iShares ESGU, which tracks the MSCI USA Extended ESG Focus Index), and when there's a sizable market event (like March of this year), sell it and buy 100% of Vanguard VOO, which tracks the S&P 500. I believe these would qualify as measurably distinct, since they track different indices with ESGU having an additional ESG focus, but would largely mirror performance, and then after 30 days (or longer to avoid the wash sale rule), sell the VOO and buy ESGU back.
+
+Is that all it takes? I've looked into using a robo-investor, since we plan to stick to our budgets and have a long-term investing strategy with a (near) set-it-and-forget-it strategy, but those all seem to leverage their tax loss harvesting strategies against multiple asset types, and since we're comfortable just sticking everything into one ETF, I'm wondering if the above scenario would be simple enough yet still work from a tax loss harvesting perspective.
+
+Any insight or tips would be appreciated!_END_OF_POST_PYSTOCK_ Why ICLN is rated so poorly by Morningstar? I rarely use Reddit, so hopefully I'm doing this right but I cant understand why Morningstar seems to hate ICLN so much? They rate them very poorly from what I've seen and ICLN seems to be performing great. Can somebody help shine some light on this to a newbie investor?  Thanks_END_OF_POST_PYSTOCK_ Robo-advisors or classic investments banks Hi everyone, happy new year!
+Looking for opinions from the community about the following matter.
+
+I currently invest part of my monthly savings in e-platforms like etoro and stash away, and so far I've been happy with the results.
+While watching my invested amount grow overtime, I started wondering if there exists a threshold amount of money above which investing in classic banks like JP Morgan/Morgan Stanley/Deutsche Bank/etc proves better than online platforms, especially for long-term investments.
+By "better" I don't mean exclusively in terms of returns, rather in terms of the overall investment experience.
+
+Making a practical example, if you won at the lottery 200k would you go to a physical bank or would you trust an online broker?
+I think I might be biased towards classic banks because of the possibility of real-life interactions, which I feel would enable a better, more customized service.
+
+Do you think there are practical advantages in using a physical bank over investment solutions, especially for increasingly larger amount of managed assets and for a long-term horizon? Or do you think the two types to be equivalent?
+
+Thanks a lot for your help._END_OF_POST_PYSTOCK_ If you had to pick one stock to be a ten-bagger in the next decade, which stock would you pick? Right now I'm looking at stocks like SQ, ETSY, and similar stocks, but while I really like both of those stocks I'm not sure they will be worth ten times more within the next decade. So what are some stock is most likely to be a ten-bagger within the next decade or a hundred bagger within the next couple decades?_END_OF_POST_PYSTOCK_ What’s the catch with a Securities Income Program? I just got the offer below to enroll in Ally’s Securities Income Program. I don’t understand the downside risk here, what do y’all think?
+
+—
+
+Securities Income Program
+Earn extra cash on shares you already own. We’ll show you how.
+You can increase your portfolio’s income potential by letting us loan out your in-demand shares, known as securities lending. We’ll pay you an interest rebate while they’re being borrowed.
+Here’s how it works
+
+·         Enroll
+
+Consent to participate upon eligibility. We’ll auto-enroll you once you qualify so you can start earning without doing anything else.
+·         Loan
+
+We’ll see if you have any securities that could be loaned out to other traders and pay you interest while they’re being borrowed. They’re your shares, though, so you can sell at any time.
+·         Earn
+
+We’ll deposit any interest your shares make into your account mid-month in addition to the value of any dividends earned.
+Keep in mind, enrollment doesn’t guarantee we’ll borrow your shares, and what you earn on loaned shares may be taxed differently. Learn more about how the program works._END_OF_POST_PYSTOCK_ Water...? Han anyone hear dabbled in investing in water? I looked into buying water rights, but the legal red tape made it seem like it wasn’t worth the effort. I did see Nasdaq started a market for California water futures and was wondering if anyone has had experience there?_END_OF_POST_PYSTOCK_ Deep Dive Research About a Collaborative Work Management Company Poised to Benefit off the Remote Work Trend. NYSE Listed.  **TL:DR is at the bottom**
+
+Hello, welcome to my second deep dive write up.
+
+My   name’s Mark and I’m an accountant with a passion for investing. About   two years ago, I used to work as an auditor at a public accounting firm   and have been behind the scenes at many different publicly traded and   privately held companies in the U.S. My goal is to bring my unique   perspective from that past experience, my current experience working in a   new role at a large corporation, and my understanding of accounting to   help break down some of the most exciting growth stocks on the market   today.
+
+I’m a long-term investor. I   am focused on finding great companies and holding them for a long  time.  I’m willing to endure volatility, crazy price drops, and  everything  that comes with this approach as long as the facts that led  me to  originally invest and believe in that company have not changed.  If you  want to learn more about this approach. I recommend reading the  book  “100 Baggers” by Chris Mayer.
+
+**Introduction**
+
+I’m   excited to share with you all my stock pick for this month,  Smartsheet.  I’m always looking for investment ideas. I run stock  screeners with  different criteria (mostly focused on revenue growth),  scan Twitter,  talk to professionals in different industries, and try to  observe what  products or services are getting popular with my friends  and family. One  of the best investment decisions I’ve made to date came  after I talked  to my friend about a drink he was drinking on the golf  course. Shout out  to you Celsius (CELH)! With that being said, you  never know where your  next good investment idea is going to come from.
+
+In   the case of Smartsheet, I became aware of the company through a stock   screener. I was drawn to the relatively small market cap ($8.6B),  strong  revenue growth (roughly 35%), and the fact that it’s a  subscription  business model (SaaS). Once I became aware of these facts,  it cued me to  take a deeper dive. The more I learned about Smartsheet,  the more I  liked. Management talks a lot about empowering people and  that really  struck a chord with me. In different roles I’ve had as a  teacher, tutor,  and supervisor, I’ve always found empowering people to  be one of the  most important keys to success. I will touch on this more  later in the  write up.
+
+Another  positive signal I  got about Smartsheet came unexpectedly one evening. I  was sitting in  the kitchen and my girlfriend was cooking dinner. I was  watching an  interview on my phone with Mark Mader, the CEO of  Smartsheet. My  girlfriend overheard the word “Smartsheet” mentioned in  the video and  said “Are they talking about the Smartsheet with the blue  check mark?”. I  had to Google their logo but yes, it turns out we were  thinking about  the same Smartsheet. I asked her how she knew about it.  She said “My  company just transitioned all of our work onto  Smartsheet. I really love  it. Our marketing department is really  excited about it because it  makes their job way easier and more  enjoyable.” Hearing this just  motivated me to learn more about  Smartsheet.
+
+**The Thesis Statement**
+
+For   every stock pick I make, I want to provide a quick thesis statement   that can serve as a reminder for why I’m buying and holding that stock   for the long term. I’ll always aim to make it just a few sentences long   so it can easily be remembered and internalized. This helps during  times  when the price may sporadically drop and you need to remember why   you’re holding this position.
+
+The thesis statement I have come up with for Smartsheet is as follows:
+
+*“Smartsheet:   A leader in collaborative work management (CWM) software. As the  global  workforce becomes more decentralized through remote work,  managers and  executives now more than ever need a tool to digitally  consolidate their  teams, projects and deadlines. Smartsheet is that  tool and is  innovating to offer businesses even more ways to get the  most out of  their teams.”*
+
+I  think this  thesis statement really captures the essence of what  Smartsheet does. If  you go to Smartsheet’s website and look at the  “About” page, you will  find their “About” statement which says  “Smartsheet is the enterprise  platform for dynamic work that aligns  people and technology so your  entire business can move faster, drive  innovation, and achieve more.”  Notice how their statement emphasizes  helping businesses move faster,  drive innovation, and achieve more.
+
+In   my thesis statement, I mention that Smartsheet is a leader in the CWM   software space. But how do I know this? Well, a highly reputable   independent research firm named Forrester conducted a study on the CWM   space based off different criteria including collaboration, enterprise   capabilities, UI/user experience, planned enhancements and number of   customers just to name a few of the factors considered. I put the   companies that were identified from the study in the order of their   ranking below. As you can see, Smartsheet is firmly planted as a leader   in the space at 2nd place. Let’s use our common sense for a second. At   the beginning stages of a remote work revolution, do we want to invest   in an up and coming SaaS company that focuses on providing firms with   resources to digitally manage their teams, digitally manage   work/projects, and digitally collaborate to get work done? I think the   answer should be a resounding yes. But what about these other companies   on the list. Let’s break them down 1 by 1:
+
+* Workfront   was recently bought by Adobe. If you want to invest in Workfront,  you’d  have to invest in the much larger company of Adobe. It wouldn’t  be a  pure play investment into the CWM space.
+* Smartsheet is 2nd and of course, they are public :)
+* Wrike is private
+* ServiceNow   – CWM is just one small piece of their total      offerings. Investing   here would not be a pure play into the CWM space.  Also, the company  is  already quite large ($106B market cap)
+* Asana   is public but just IPO’d on 9/30/20 about 3 months ago. We don’t have   much data to track their performance as a      publicly traded company.   Furthermore, although they actually would be a pure play investment  into  the CWM space, they’re not a leader and rank behind Smartsheet in   several of Forrester’s categories. Why invest in the 2nd best when you   can invest in the best?
+* Monday.com is private
+* Microsoft – CWM is just one small piece of their total offerings. Investing here would not be a pure play into the CWM space.
+* Atlassian   – This company does primarily focus on CWM but I have a couple  problems  with them as an investment. 1) They’re ranked way beneath  Smartsheet.  2) They’re already too big for me to confidently say they  can 10x  (market cap already $58B).
+
+Now   that we’ve established that Smartsheet is a leader in the CWM space  and  that they’re arguably the best publicly available pure-play  investment  in this space let’s understand why this is important. Other  than the  obvious reason that we’re in the beginning stages of a remote  work  revolution, why is this important?
+
+Well,   let’s take a look at this quote from Mark Mader, Smartsheet CEO,  during  the last earnings call (Q3 FY21) that occurred on December 7th,  2020:
+
+“Leaders  are recognizing  they need to shift more workloads to asynchronous work,  work that is  documented, automated, tracked with dashboards, and where  priorities  are clearly defined. They understand that by empowering their  teams  with no-code solutions that facilitate asynchronous work, cycle  times  will be improved, a deeper sense of ownership will be created, and   prioritization and accountability will be insured. Smartsheet is   ideally suited to help enterprises work more asynchronously to derive   the benefits from doing so.”
+
+Key word here: Asynchronous. Asynchronous communication is different from Synchronous communication. Here is the difference:
+
+Asynchronous: email, message boards, dashboards, etc.
+
+Synchronous: video conferencing, chat, audio calls, etc.
+
+Any   communication that doesn’t require a real-time response can be   considered asynchronous, like the examples in the picture above.   Synchronous communication is any communication that happens in real   time, thereby allowing for immediate responses, see examples above. As   part of my research on Smartsheet, I read an E-Book that was written by   the original co-founders of Smartsheet, Mark Mader the current CEO and   Brent Frei who is no longer with the company. They wrote the E-Book in   2007 just a couple of years after the 2005 founding. The E-Book is   called “The Power of Done”. The moral of the book is that Mark and Brent   noticed through their own experience, and through different research   studies on work place productivity, that the rise in technology in the   early 21st century was actually making employees less productive. This   is a quote from their E-Book:
+
+“According   to Basex, a research firm focusing on the knowledge economy,   interruptions from email, cell phones, instant messaging, text messaging   and blogs eat up nearly 30 percent of each day; on an annualized  basis,  this represents a loss of 28 billion hours for the entire U.S.   workforce, or a $588 billion cost to the American economy.”
+
+They   mention in their book that although there has been a lot of advances  in  work technology such as email, word processing, and spreadsheets,  there  hadn’t at that time been any great applications created for  teamwork  collaboration or task management. The fact that technology  advances  helped the world create tools to enhance productivity but also  deterred  productivity at the same time is what Mark and Brent referred  to as the  productivity paradox. They wanted to do something about it  and thus they  founded Smartsheet.
+
+**How Smartsheet makes money**
+
+At   the very least, before you invest in a company, you better understand   how they make money. In Chris Mayers’ excellent book, 100 Baggers, that  I  mentioned above, he continually references top line revenue growth  as  one of the main common indicators of a possible 100 Bagger. This  isn’t  to tell you that any stock I pick will be a 100 Bagger just  because it  has great top line revenue growth, but if I am looking at a  growth stock  to hold for the long term, revenue growth is one of the  first things I  look at.
+
+Before I  talk about the  revenue streams of Smartsheet, I want to share a little  bit about the  actual product that they sell to earn this revenue.  Co-Founder/CEO Mark  Mader realized that a lot of work in the corporate  world was being done  on spreadsheets such as Microsoft Excel. However,  he realized that these  spreadsheets were largely static and not  necessarily used to their full  potential. He wanted to help people get  more out of their use of  spreadsheets. As a result, we now have  Smartsheets which is a cloud  based platform that can be accessed by all  employees of the company no  matter where they are with live  information about project statuses,  meeting times and work that is  assigned to each employee just to name a  few uses. Users can choose  their way of viewing this information with  different views such as  calendar view, grid view, card view, and Gantt  view.
+
+The  idea is that by  enhancing the availability and quality of asynchronous  information  available to all members of a team about the status of a  project, the  tasks assigned, and the timelines, the less synchronous  communication  will be needed which allows employees to spend more time  doing what  they’re hired to do – get work done. Think about how  wasteful it is to  hire a highly talented engineer but then make him  spend half his day  preparing for and doing status update meetings and  hunting people down  to see where they’re at with their assignments.  What if all this  information was available for him, his managers, and  his staff to see  within Smartsheet without having to bother each other  and waste precious  work hours that could be used for coding, designing,  and producing?  That’s what Smartsheet looks to achieve.
+
+For   Smartsheet, their means of making money is quite simple. As I  mentioned  earlier, they are a Software as a Service (SaaS) company.  Whenever you  see SaaS, that means subscription revenue and in my  opinion that’s a  very good thing. With a subscription business model,  the revenue is  going to be recurring every year and that type of  reliability (combined  with growth of course) is something you want as  an investor.
+
+Smartsheet’s  primary  source of revenue is the sale of subscriptions to their  cloud-based  Collaborative Work Management (CWM) platform. Customers and  potential  customers begin their engagement with the Smartsheet platform  by either  signing up for a free trial, purchasing a subscription on the   Smartsheet website, going through a sales rep, or they are exposed to   Smartsheet by collaborating with a Company/Individual that uses   Smartsheet.  For subscriptions, customers select the plan that meets   their needs and can begin using Smartsheet within minutes.
+
+Smartsheet   offers four subscription levels: Individual, Business, Enterprise, and   Premier, the pricing for which varies by the capabilities provided.   Customers can also purchase connectors, which provide data integration   and automation to third-party applications.
+
+The   Connectors part of the business is something I find really  interesting.  Basically, Smartsheet has made deals with most of the top  work  productivity and communication software companies in the world to  allow  their customers to use those applications within their Smartsheet  user  interface. This helps position Smartsheet as the true “command  center”  platform while the products of the other companies become  ancillary  pieces. You’ll see this on the link above but some products  that  Smartsheet sells Connectors for include Adobe Creative Cloud,  Microsoft  Dynamics 365, Salesforce, Jira Software, Slack, and Skype  just to name a  few.
+
+I think that  being able to  sell these Connectors as ancillary pieces to the  Smartsheet user  experience is so beneficial to Smartsheet because a lot  of these  companies that people may perceive as “Smartsheet  competitors” actually  become a piece of the Smartsheet platform and can  be sold by Smartsheet  as a supplemental revenue stream. This neutral  angle that Smartsheet is  able to come from by selling Connectors to  their perceived “competitors”  reminds me a little bit of how Roku  (ROKU) is able to earn revenue off  of selling a Netflix subscription on  their platform. I think just the  fact that all these big companies  like Adobe, Jira, Salesforce, etc.  allow their products to be  integrated into Smartsheet shows that there  is a high value proposition  in the Smartsheet platform and that they  would risk alienating their  customers if they didn’t allow for their  products to be integrated with  Smartsheet.
+
+On  top of the  Connectors to third party vendors that Smartsheet is able to  sell,  Smartsheet is also able to sell upgrades to their own internal   plug-ins. Smartsheet has some impressive proprietary plug-ins they can   sell to their customers. For example, in May 2019, Smartsheet acquired   10,000ft which augmented their product portfolio by providing resource   allocation and planning. The name “10,000ft” is meant to be analogous to   having a high level view of your company and all resources available   within your company and how to deploy them.
+
+Also,   in September 2020, Smartsheet acquired Brandfolder, Inc. which  provides  a centralized platform to organize, discover, control,  distribute, and  measure all forms of digital content. Combining  Brandfolder capabilities  with Smartsheet allows them to create dynamic  solutions that manage  workflows around content and collaboration. This  goes back to what I  said earlier in the article about how my girlfriend  had mentioned that  her company’s marketing team was “really excited  about Smartsheet  because it makes their job way easier and more  enjoyable.” She told me  that before Smartsheet, her company’s marketing  team had to constantly  hunt down members of the creative team  (photographers, graphic  designers) to receive the latest photos,  videos, and digital designs  they were working on. She said it was a big  pain for them trying to  share this content over email and SharePoint.  Now, all of the content is  inside of Smartsheet and the marketing team  can access it at any time.  They can leave comments on the content,  route to appropriate individuals  for approvals, and have better insight  into the status of all digital  content that is being worked on. The  acquisition of Brandfolder is  really what allows Smartsheet to stand  out in this department.
+
+Nobody   really talks about it, but digital content is so important these days   for companies in terms of controlling their brand image, putting out   quality advertisements, and presenting their product in as positive of a   light as possible. The fact that Smartsheet has a strong proprietary   plug-in for this with Brandfolder is very promising. During Smartsheet’s   FY21 Engage Customer Conference, Anna Griffin, Smartsheet Chief   Marketing Officer said that the global annual marketing spend is $500B   for companies around the world. She said the role of the marketing   department is changing from sole content creator to Editor in Chief. All   kinds of teams within companies these days are putting out content  that  effects the company’s brand. Sales is running social media  campaigns,  product marketing is putting out blog posts and podcasts,  and R&D is  teasing new product experiences in app. It can get  really difficult for  the company’s Marketing/Branding team to stay on  top of all this  without a centralized digital content collaboration  platform like  Brandfolder in Smartsheet. This is just one reason why I  think  Smartsheet has a lot of growth opportunities in the future.
+
+As   you can see, Smartsheet has a lot to offer to companies with their  core  CWM platform, the Connectors they can sell, and the internal  upgrades  available such as 10,000ft and Brandfolder. On top of that,  Smartsheet  also provides WorkApps, a proprietary no-code platform that  empowers  users to build intuitive web and mobile applications that  streamline  business and simplify collaboration. There are so many  instances within  companies where an app needs to be built to streamline  a workflow.  Traditionally, companies need to engage their IT  departments and the  coders that sit within these departments to build  these apps. This  places a lot of strain on IT departments and takes  away time they can be  spending on more complex/mission critical  projects. Mark Mader is aware  of this and thus is heavily pushing  no-code as a solution for companies  now and in the future. He believes  that everyday non-coder employees  know their jobs/workflows best and  thus if you empower them to build  their own apps with a no-code  platform they will produce better and more  relevant apps to help get  work done than an IT department employee who  doesn’t even do the job  that the app is being built for. Also, he  believes this will reduce  strain on IT departments and allow them to  focus on more complex and  mission critical projects.
+
+Here   is a quote from the Director of Sales (Hina Patel) at a Smartsheet   customer, Cisco (NASDAQ: CSCO): “I have been waiting for a solution like   WorkApps that can give us quick and easy access to the content we  need,  when and where we need it,” said Hina Patel, Director of Sales   Operations at Cisco. “The ability to take our Smartsheet assets, along   with other tools we use, and package an entire solution in an intuitive   app will make it even easier to drive active participation from  everyone  involved in the process, no matter their role.” As you can  see, the  value proposition of WorkApps and the Smartsheet platform  appears to be  high.
+
+Lastly,  Smartsheet also  generates revenue from Professional Services which is  essentially  providing training and customized consulting to Smartsheet  customers  that want to get more out of the Smartsheet platform. In the  most recent  quarter, Q3 FY21, Professional Services accounted for 8.2%  of revenue.  Here is the breakout from the most recent quarter:
+
+Subscription revenue = $90,890M for 91.8% of total revenue
+
+Professional services revenue = $8,043M for 8.2% of total revenue
+
+This   is the end of my first article about Smartsheet. My goal is to drop   Part 2 within the next week. The focus of Part 2 will be an in depth   answer of the question – “Can we 10x from here?”
+
+**TL:DR**
+
+* This is Part 1 of my two part deep dive on Smartsheet (Ticker: SMAR).
+* This first part introduces you to (1) me, (2) the company, (3) my thesis on the company, and (4) digs into how they make money.
+* Smartsheet is an exciting SaaS company that’s helping businesses be more productive and get the most out of their people
+* I  am not a financial advisor and this is not investment advice. These  are  just my opinions to help facilitate learning and discussion.
+
+**Disclosure:**   I have no position in Smartsheet. I do plan to initiate a long  position  when the markets open again in 2021.  I wrote this article  myself, and  it expresses my own opinions. I am not receiving  compensation for it. I  have no business relationship with any company  whose stock is mentioned  in this article._END_OF_POST_PYSTOCK_ Help on DD for Future Fuels is it a bargain or what im missing? Hi guys i was screening some stocks with low p/e high current ratio and low debt and i found this guys. 
+
+FutureFuels a biodiesel producer. I find ratios and grow for this guys very attractive and would like to hear some opinions about them.
+
+p/e 4.8
+
+current ratio 5.8
+
+0 long term debt
+
+book value 10.68
+
+sales per share 4.69
+
+gross profit margin 36.1
+
+they also have 180 million on cash and current assets. 
+
+Seems like a good value investment since they are operating in the biodiesel industry. 
+
+Let me know what you guys think about it.
+
+ FF, with its decline in revenue, underperformed when compared the subsector average of 0.4%. Since the same quarter one year prior, revenues fell by 17.6%. The declining revenue has not hurt the company's bottom line, with increasing earnings per share. 
+
+Price 12.8_END_OF_POST_PYSTOCK_ Brookfield Asset Management to take Brookfield Property Partners private in a $5.9 billion deal Brookfield Asset Management ($BAM), and a group of investors have offered to acquire the stake in Brookfield Property Partners ($BPY) that they don't already own, in a $5.9 billion bid to take the real estate company private.
+
+The proposal of $16.50 per share would imply a 14% premium to Thursday's closing price of $14.46. Investors can also choose for 0.4 share of BAM.
+
+The reason for privatising BPY is that Brookfield believes that its been consistently discounted for more than just the past year. BPY has a high quality portfolio of $88 bln in total assets.
+
+I was personally thinking of selling today, because I wanted to get out of commercial real estate. I'm long in BAM because I like their diverse assets, and I think they're still undervalued. 
+
+[Source](https://www.globenewswire.com/news-release/2021/01/04/2152543/0/en/Brookfield-Asset-Management-and-Institutional-Partners-Propose-to-Acquire-100-of-the-Units-of-Brookfield-Property-Partners-Not-Owned-by-Brookfield-for-5-9-Billion.html)_END_OF_POST_PYSTOCK_ Irelands High 41% ETF Tax Rate and investing in Vanguard Hi there
+
+I've been investing a few years now and I am curious to know why etfs or index funds are taxed so high here in Ireland at 41%? 
+
+Is it because these low cost index funds such as ishares or vanguard would do damage to the to the financial industry companies based here in Ireland or what is the reason behind it?
+
+Also while I invest in Vanguard S&P 500 (VUSA) and Ishares (CSPX) on the degiro platform, I would love to invest through a vanguard platform itself. I know that they do not have a platform here in Ireland because it is such a small market but is there an EU version that maybe I would be able invest in?
+
+Would appreciate any feedback. Thanks_END_OF_POST_PYSTOCK_ Potential winner for 2021 Big Oil companies including Chevron, BP, and Total have announced various kinds of partnerships with Clean Energy Fuels to develop and market clean biogas fuel. That's given the stock a roughly 150% boost in 2020, but the biogas revolution is only just beginning.
+I expect that Clean Energy Fuels shares will continue their sharp rise in the new year and will power even beginner investors to some juicy returns._END_OF_POST_PYSTOCK_ Are human capital contracts still a thing? I’ve been looking around, and all I keep finding are a bunch of online rip-offs that pose as coding universities for income share agreements. (Why would you even do that, there are literally free resources online. Just listen to Indian youtubers and you got yourself pretty decent learnings.) 
+
+Anyway, are there any sites out there that let you sell equity in yourself? I’m from an Asian country so sites like Upstart or Pave aren’t really going to work (I looked over the list of available countries, and mine’s not included). 
+
+If not, how would one go about selling percentages in their future income? Does it work the same way as equity crowdfunding for startups? Is it appropriate to do that in similar sites?
+
+Side Note: I apologize if this counts as seeking advice for personal situation in advance, feel free to take it down or tell me off. Thanks._END_OF_POST_PYSTOCK_ Full DCA vs DCA + buying 10%+ dips? I'm pondering a strategy and can't find much actual data online that specifically addresses this.
+
+I'm 26 and starting to take my portfolio seriously. I've decided that Dollar Cost Averaging is the way to go for me. Right now, I have a pretty vanilla diversification into the major ETFs. I invest $2000 per month bi-weekly spread out across S/M/L ETFs, REITs, etc.
+
+What I'm contemplating is breaking that up by doing something like $1000 per month as DCA, and holding the rest in cash until a 10%+ dip. I'm not talking about a market timing "buy low sell high" strategy, but a "buy and hold" the dip.
+
+Using March 2020 as an (admittedly extreme) example, what would have been the overall difference in my portfolio if I had been sitting on a few years of cash and was able to purchase the \~30% dip (DJIA) with pre-allocated funds while still doing my normal DCA? Looking at the major indices over time, there are bear markets that last several years. With cash reserves, would my portfolio be better off buying in large at that time (or even increasing my DCA contributions in those periods), or just increasing my overall DCA? Gains can be lost instantly or over several years and take even longer to recoup (NASDAQ between 2000 and 2015 makes me cringe). So, in theory, if that portion of your portfolio is negative for that period, isn't an opportunistic cash reserve favorable?
+
+Is there a way to model this out historically without personally rolling up my sleeves and pulling out the financial calculator? Has this been addressed before? Is it better to just be all-in in the market since I'm not making anything on the cash?
+
+I'm really just a passive investor... not looking to get too cute. Just find a strategy that I'm confident in and marry it.
+
+Thanks in advance for any input._END_OF_POST_PYSTOCK_ Next big thing: user generated audio content. Lizhi. I just wanted to share my current little hype, namely Audio Guides and in general user generated audio content, a pretty uncharted territory with no big players yet.
+
+I have been looking for companies in this market for quite a while and found one that looks promising, namely Lizhi, which recently IPOed. Check it out [https://www.bloomberg.com/profile/company/LIZI:US](https://www.bloomberg.com/profile/company/LIZI:US)
+
+They have had solid revenue growth on a year by year basis, but also on a quarter to quarter basis in 2020. Plus they seem on track when it comes to proper partnerships, like with auto makers etc.
+
+From the technical perspective, volume and price experienced a dramatic growth over the last month and seems to be, currently, at the end of a few weeks long consolidation period, which gives me hope for a decent spike over the next days/weeks.
+
+I have no idea how to calculate price targets, but hype should bring this stock at least back to IPO price (3x from here).
+
+What are your thoughts about the company but also the type of market? Do you know of any alternative?_END_OF_POST_PYSTOCK_ First Monday of 2021 Hi all,
+
+Welcome to Investing 2021 edition. I could be wrong but I don't think I have seen a similar post yet. 
+
+Without wanting to creep into r/WallStreetBets territory. What are your solid investment opportunities for 2021? Not looking for hail Mary's or penny stocks here but what do you see growing throughout the year and why?
+
+Are there any stocks that are still way below pre covid levels with room for growth? Or just general solid investments? Let's hear from the community
+
+Let's make 2021 a successful year for us all!_END_OF_POST_PYSTOCK_ Is the supply of "Bitcoin" actually finite? As far as I can see, one of the arguments that is used to sell the idea of Bitcoin is that unlike gold, and fiat currency I guess, it has a finite amount of it theoretically possible and useful (minus whatever gets lost or hidden), hence it is considered some kind of store of value relative to fiat currencies which can be printed endlessly.
+
+Is this actually true though? Isn't it possible to either:
+
+a) Infinitely divide bitcoins into smaller and smaller units of exchange, sort of the opposite of hyper-inflation.
+
+b) Can't you come up with an ever-increasing number of 'versions' of Bitcoin, i.e. other cryptocurrencies that utilize virtually identically underlying technology, and even if they too have a limit to how much of them can be mined, if you can just keep on inventing a new one and a new one after that, for which there would obviously be a profit motive, then what is the actual difference?_END_OF_POST_PYSTOCK_ 3M alternatives Hello. I like 3M business model and products, I like their tapes, N95 masks, equipment and so on. However I'd like to invest  in their much cheaper competitors, but I couldn't find any other  company in same industry that is as big and famous, it seems like a Boeing situation - where there is a natural monopoly. Any ideas what company is closest to 3M model and capability?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ If/when there is a huge correction what opportunities are you looking at? For me Entain (ENT) a gambling company looks very tasty under 500p & I already took profit from Carnival (CCL) but I am looking for a re-entry point on that too.
+
+I also withdrew from all my funds as I am a very careful investor but I will wait for a potential ~15% dip and buy those back._END_OF_POST_PYSTOCK_ Confused about P/E ratio Sometimes when I look at a company’s income statement, the numbers i calculate for stuff like P/E are vastly different from the numbers google gives me. 
+
+For example, JKS. Net income = 1.065B, Market cap = 2.8B. They don’t pay a dividend. Or if it’s easier, price = 61.87, EPS = 23.5
+
+The P/E should be 2.8/1.065, right? So under 3. But Yahoo Finance gives it as 48.16, and other places as 45 ish. 
+
+What am I doing wrong here??_END_OF_POST_PYSTOCK_ 2021/2022 Scenario: Effects of a Bursting Chinese Real Estate Bubble? OVERVIEW:
+
+I want to be optimistic about investing in some Chinese stocks but I'm concerned about a few things. For years now China's real estate sector has been running too hot, people much smarter than me say it would've corrected itself years ago but because of the unique land control system regulated by the Chinese government it's been allowed to keep going.
+
+From my understanding most Chinese people invest in "land" for equity, it's ingrained in their culture due to recent history. Unfortunately, this habit has led to overproduction leading to unnecessary "ghost cities" and shoddy building standards . From my own research I found that homes in China aren't really built to last long-term as it is in Western countries and there's tons of stories of houses falling apart just years after being built.
+
+From what I've read the Chinese government is aware and seriously concerned about this to the point that they've started increasing financial regulations this past week (Jan., 2021) after easing restrictions this past year to fuel the recovery from the pandemic lock-downs. They won't raise interest rates though, their hands are a bit tied. It appears that many people had been using the increased liquidity to buy and re-sell condominiums in Shenzhen and other urban cities leading to even crazier housing prices that were already inflated to begin with. 
+
+Housing prices have become so high that many younger people won't buy houses but instead have switched to renting. This has become significant enough that tech giants like Tencent, JD.com and Alibaba have started investing more in the rental sector. There's even a Chinese version of AirBnB now called Ziroom backed by Tencent, Warburg Pincus, Sequoia Capital, and Sunac.
+
+While I wouldn't rule out the Chinese government in finding a clever way to continue to mitigate other economic shocks eventually it seems there's to be a reckoning from the years of explosive growth at all costs. Since Western countries and economies have had centuries to grow more sustainable systems this appears to be a unique "China" problem.
+
+&#x200B;
+
+CONCLUSION:
+
+Imagining a worst case scenario where this problem gets away from Chinese regulators and creates a recession, how would this affect the global economy and stocks?
+
+Are we looking at just local domestic stagnation from monetary restrictions? 
+
+Would this affect global supply-chains and manufacturing at all?_END_OF_POST_PYSTOCK_ What’s the easiest way to buy US stocks if I live in Europe? I want to buy US stocks but I live in Europe. How can I start? 
+
+
+This is the third time I’m posting this question and the moderator has been removing it because I don’t have up to 250 words. Since the battle is to now outdo a bot 🤖, I thought I’ll add this. But seriously that’s my question up there. If you have any ideas, I’d appreciate._END_OF_POST_PYSTOCK_ Which stocks would crash the most during a big market correction ? Assuming a decent sized market correction is assumed to arrive in the next year or two, what would be stocks that would crash the most (unrelated to any direct industry news)? In overall corrections are there some stocks that get punished the most and move downward the most violently?
+
+I also would like to combine those with companies with cheap options so I could take advantage of buying "cheap" puts?
+
+No need to comment on the idea that I'm trying to time the market or anything like that. Just a form of hedging I'm flying with.
+
+Thanks!_END_OF_POST_PYSTOCK_ Where can I start investing online? So far I have two stocks on Robin Hood (plug & sbux) they’re doing ok right now but wanna start investing like how I see most people-Online it’s always a computer and a stock name like Bitcoin for example. Where or how can I get started like that?
+
+Edit: yes I’m aware that Bitcoin is a cryptocurrency. I’m using the name as an example of a “stock”_END_OF_POST_PYSTOCK_ How to choose comparable companies for growth stocks? I am learning how to do relative valuation for investing and wondering what metrics I should look at when choosing comparable companies for a growth stock. Obviously it's hard and would be inaccurate to compare a new growth stock to stocks that have been around for a LONG time and have stable earnings & low growth. What metrics would you recommend I look at??
+
+&#x200B;
+
+Also I'm new to reddit and not sure if I'm posting in the right place for this group? Please let me know if I should be putting this question elsewhere, thanks._END_OF_POST_PYSTOCK_ Looking to start my retirement fund while in college. Hi all!
+
+As the title says, I'm looking to create a retirement fund and begin contributing to it while I'm still relatively young. I am a college student who currently is debt free with 20k in savings, but I do have a few financial decisions to make (used car, summer abroad). I am an absolute beginner when it comes investing/taxes, but I have done a bit of research and I have come across a couple details that  leave me confused. 
+
+So from what I have researched (from the bogleheads wiki), I should make a Roth IRA and create a three fund portfolio (90/10) within this vehicle as to outperform the market while maintaining relatively low risk. Now my questions arrive when I begin to think about actually conducting this portfolio. 
+
+\- How often/much should I invest into this account? Every month? once a year?
+
+\- Should I invest in Index funds or ETFs to create this portfolio?
+
+\- Is it true that international stocks should go in a taxable account, and bonds should be in a tax advantaged account?
+
+\- Is there a better vehicle to use to start my retirement fund?
+
+Thank you for any responses!_END_OF_POST_PYSTOCK_ Depending on how well it's managed, can the valuation of an ETF targeting a specific nation's economy be seen as a general indicator of that nation's economic growth? Of course stock prices are all based on public perception, not actual financial data, and so they don't always make sense.  That said, I'm wondering if it's a decent idea to invest in emerging markets I have faith will experience dramatic growth within my lifetime.
+
+Looking at India specifically, I know there is a massive amount of domestic and foreign investment going in to things like the Delhi-Mumbai Industrial Corridor, and while I haven't taken the time to spot-check the individual holdings of INDA (the Indian-market ETF I hold shares in) and how they may be related to that project, I believe, as a general rule of thumb with macro investments in national infrastructure, that projects like DMIC will have an immensely positive impact on the country's economy.  My thought is that, long-term, we would see this reflected in the price of the ETF, but when I look at Chinese funds to see how that explosive economy is represented in the market data, the trend lines are relatively flat and unremarkable in comparison with the nation's growth trajectory.
+
+Is putting money in an ETF targeting a nation effectively betting on that nation's economic future, as I would presume, or is there something I'm missing (like with the Chinese market ETFs)?
+
+Hope this isn't too much of a novice question.  I haven't seen much discussion on stuff like this._END_OF_POST_PYSTOCK_ Understanding the implications of a falling dollar.... I want some more insight from this community if possible on what the implications of a falling dollar might be and what they think of the current outlook. Looking at the M2 money supply chart, listening to a bunch of different macro investors on YouTube and LinkedIn, and realizing that the Federal Reserve has printed an absurd amount of money (partially to prop up large corporations) has made me extensively worried about the value of the dollar. 
+
+I mean there’s no way this won’t have repercussions right? Isn’t it honestly like unbelievably scary? I’m young and I graduated recently, so I might be naive and not have a lot of experience, but the thought of the falling dollar makes me really worried. Is it as bad as it seems? I mean it’s literally not backed by anything and getting printed like crazy. Also, what will this mean for assets as a whole? Will ETFs and mutual funds that mirror the S&P500 still be considered safe investments in the long term if most of the companies (if not all) are American and there is a significant devaluation of the USD? Gold doesn’t seem to be behaving as many might expect also. In the future, for a secure retirement, what’s going to be considered safe and have longevity and stable returns for me and my future family’s living expenses?_END_OF_POST_PYSTOCK_ Lump Sum versus DCA From what I have read, the data shows that lump sum beats out DCA.  However, the main drawback is the emotional component.  Let's say I have 100k.  I put that 100k to work on February 18 2020 in a total market index fund.  One month later it's around 66k.  The chances of me pulling out (no pun intended) is much higher than let's say I put in 25k on February 18.  Put in another 25 k after 10% drop.  And then 25k after another 10% drop.  Remaining 25k after 30% drop from Feb 18 high._END_OF_POST_PYSTOCK_ Opening a Roth IRA today at 18, advice? So I have $600 saved up so far and I’m opening a Roth IRA with Fidelity today. I fully plan on buying lots of index funds both in the Us and international markets diversifying through those index funds and bonds and all that, but would it be a bad idea to buy Tesla? I love Elon Musk and I fully planned on buying shares of Tesla back before COVID but I was only 17 at the time. Then Tesla skyrocketed and here we are. I have faith that when I’m 60, Tesla will either be worthless or worth so much when I’m taking my Roth IRA out while sitting on my couch on Mars. I would wait for it to go down slightly as it’s at its all time high atm, but does it make sense to buy Tesla? And what about dividends like Coca Cola? Or the super dividend ETF SDIV? 
+
+Any other tips on how to go about my Roth IRA or what tickets you reccomended?_END_OF_POST_PYSTOCK_ Do traditional wall street analysts tend to overthink everything? I'm not talking about high risk hedge funds or high speed automated algorithm traders. I'm talking about the analysts for the traditional investment portfolios. To me, they seem to be overthinking everything, overanalyzing every little detail. This has lead to an ultra conservative investment mindset where they shun a lot of really good stocks that could have netted them good profits.
+
+I'm not a professional. I wouldn't even say I know a lot about stocks. I know the basics like company financials, revenue, net profit, book value, cash flow, debt, eps, p/e ratio etc. Most of the time, I don't even read quarterly earnings reports. I read them when I'm bored. I mainly just read seeking alpha articles and their comment section. But, for some reason, I'm out performing these traditional wall street analysts. I have never lost money through buying undervalued growth stocks with low debt and strong consistent growth in their company financials. Do traditional wall street analysts tend to overthink everything?_END_OF_POST_PYSTOCK_ IBKR vs bank for long term buy in If im going into VTI for example for the next 10 years, is it safe to use IBKR for that?
+Seems to me banks are more reputable but that has a cost, 0.2% custodian fee per year + 0.15% one time fee when going in.
+
+
+If the worst happens and either entity goes out of biz, am i safe? Is my money banked with vanguard cause im holding shares of their fund?_END_OF_POST_PYSTOCK_ Tax Bracket When Converting 401K to Roth IRA? I've read that you'd want to convert a 401K to a Roth IRA during a year when your income is low.
+
+I was laid off due to COVID last year and thus would have a low income year.
+
+I start a new job in 2 weeks, which has a much higher salary.
+
+Given that it's January 2021 right now and I'm technically unemployed, if I were to do a 401K --> Roth conversion, how do they determine the tax bracket and taxes I have to pay to convert?  Do they determine my tax bracket based on my income on my latest tax return?  Also, when do I pay the taxes, right now or when I do my taxes this year (or is it next year)?
+
+I have about $35k in my 401K that I'd like to convert._END_OF_POST_PYSTOCK_ Dividend vs Growth This is a super common question I know but I really don't get the argument. If the investment isn't in a ROTH Dividend stocks even with a drip never makes sense when you're around my age at 19.
+
+Examples:
+
+***Stock A (Growth):***
+
+Let's say a 10% return every year, which is generous because the S&P has an average of 9.8% in the past 90 years and it holds a bunch of dividend stocks as well.
+
+If you have $20,000 invested at 10% each year for 30 years, you would make **$348,988** by the end.
+
+Cons: Gains arent realized and is riskier
+
+&#x200B;
+
+***Stock B (Dividend):***
+
+Let's say the share price is $100 and you have 200 shares ($20,000)
+
+With an annual dividend yield of 5%, the dividend grows 1% yearly AND the share price appreciation at 4% every year for 30 years WITH A DRIP, and the tax rate of the dividends that cant go back into a whole stock via drip would be taxed at 15% you would only have **$260.076.06** by the end.
+
+Honestly, my dividend calculations were generous also!!
+
+&#x200B;
+
+Am i getting something wrong please help!!!
+
+&#x200B;
+
+At the end of the day though I will have both in my portfolio, dividends  stocks being in my ROTH and growth stocks would be in both my ROTH and regular account.
+
+However the best way to make money in stocks is by picking winning companies_END_OF_POST_PYSTOCK_ Investing as a college student Hi everyone! I am currently a college student who recently became interested in investing. I realized the earlier I start the better it is. How would you recommend I start? Should I put money into ETF’s or look for stocks I am interested in, or should I just read a book about investing first? Any advice is greatly appreciated, thank you!_END_OF_POST_PYSTOCK_ Questions from a youngling Currently I’m 24 with around 200k sitting in my bank.I been in and out of the market but I’m really afraid of investing into the market since I’m planning on buying a house soon and it’s especially expensive since I live in the Bay Area (California). Currently going to school at the moment to get into the medical field. I also have around 21k in crypto currencies (11k gain at this moment) and I have around 4.5k in my Robin Hood account (500 gain at the moment) and around 9k into a retirement account. I want to start investing more but doesn’t feel right because of what’s going on in the world at this moment. I recently got out of the military ( around a year ago) so a lot of this stuff is pretty new to me. Even with a mare 25k into investments I’m always look at it through out the day. How do you guys over come this feeling or fear of losing everything ?_END_OF_POST_PYSTOCK_ Rookie Investing Mistakes Hi all, I am a 25 year old this year (2021) and I've learnt quite a bit about investing over the years. From where I began, I've made countless stupid mistakes that I would look back at cringe, and go "why did I even do that?". With that said, here are some mistakes to avoid, as well as tips to help overcome these mistakes. *Disclaimer: by no means am I an expert on this topic, I just feel that I have some experiences which I think could benefit anyone that is thinking of starting.*
+
+**Common Mistake 1: Overreaction to price trends**
+
+\- Stock prices fluctuate all the time, one day it might be up 2%, the next day it might be down 1%, some days it might even go up 10%. Does this mean you should sell? Well, no. You've got to think long term when you are investing, otherwise, you are finding yourself in the territory of trading which requires different strategies and approaches. So don't confuse the both of them. 
+
+\- How to prevent this? Do a very thorough research on the company that you are planning to buy. By thorough, I mean, looking through their financial reports, understanding what the company's business model is, projecting the future growth of the company, knowing it's competition, knowing why it is profitable or why it is not profitable etc. Why is this important? When you invest, the mentality should be as though you were acquiring the entire business - this way, you have a benchmark of when to sell, when to maintain and when to buy more, and you would not be worried about the price action of the market, because it is irrelevant. The market can price a stock all it wants, but at the end of the day, the underlying business is what will drive the trend of the stock price, and that is where you make your buck.
+
+\- Moral of the story: If you do your due diligence, the daily movement of the stock price should be immaterial to you. \*UNLESS something significant happens that could alter the future of the business, but that's a different topic.
+
+**Common Mistake 2: Buying up stocks that crashed**
+
+\- I often hear this narrative that the stock market will always move in an upward trend, so if it crashes, you should buy it all up. Well, I could argue against that, but for simplicity, let's assume that statement is accurate. Even if that is the case, not all stocks will necessarily recover. Companies do go bankrupt, with their stock being wiped off the exchange. This happens. And it has happened. Many. Many. Times. 
+
+\- Please, do not be foolish and assume that when a stock price crashed, it means that it's a golden opportunity to get rich quick. There is a reason why it crashed in the first place - yes, maybe panic exacerbated the drop, but you must know WHY it crashed, and whether the sell-off is justifiable or not. And, not ALL stocks recover back to its all time high, so please, don't bet on it.
+
+**Common Mistake 3: Stock splits.**
+
+\- Picture this, on 1 January, the company announces that they will be carrying out a 2 to 1 stock split. Amateurs don't know what this means, they shrug their shoulders and carry on their lives. Next day, they open their investing apps and go "whaaaaat", the price of their beloved stock ABC just dropped 50%, and they gobble it up, because suddenly, the stock is super cheap. 
+
+\-  No. Stock splits does not change the price of the business. You buying it at $500 after a 2 to 1 stock split, is the same as buying it at $1000. The market cap did not change. Do not be foolish.
+
+&#x200B;
+
+At the end of the day, it goes back to the old adage "if it is too good to be true, it most likely is". That is all for today. This concludes my first post on reddit. I sincerely hope it helps. I enjoy discussing investment related matters, so long as the other party is genuine and not a WSB kind of guy.
+
+Oh, one last tip. Usually when I hear someone say stuff like "stock XYZ to the mooooon", I usually run as far as I can._END_OF_POST_PYSTOCK_ What’s the best growth stock etf/mutual fund? I have a brokerage account through my 401k and would like more growth stock exposure so I want to invest a portion of my 401k in a fund or ETF that focuses on thus. I’ve looked at various funds and ETFs but there are so many to choose from and it’s difficult to compare their historical returns and fees on an apples to apples basis. I ended up putting my money in Vanguard’s VUG etf but I’m still wondering if that’s the best choice? Anything better out there?_END_OF_POST_PYSTOCK_ Dogs of the Dow? Get into it for 2021? Hey folks - I've got some cash in my IRA that I want to put back into the market. I'm thinking about going for Dogs of the Dow since it's picking companies with high dividends (and muted stock prices) and I could dump a good bucket of cash into the market.
+
+In 2020 the dogs did poorly but over time it tends to outperform.
+
+Question:  
+1. Why are you/ are you not following this approach?
+
+2. Are there other portfolio strategies you recommend considering (assume large cash sitting idly)?
+
+Thank you!_END_OF_POST_PYSTOCK_ Why There Won't Likely Be A Monetary Bubble I posted this in my previous post:
+
+ [https://www.lynalden.com/fraying-petrodollar-system/](https://www.lynalden.com/fraying-petrodollar-system/) 
+
+It's a seriously long read so I've decided to TLDR the relevant parts for you, mainly because so many comments in my last post brought up monetary bubbles, hyperinflation, and our currency becoming worthless.
+
+**We have been the world's reserve currency since WW2**
+
+This means that pretty much every country in the world finances most of their debt in US dollars, purchases petroleum in US dollars, or lends money to other countries in US dollars. This basically means the US dollar is what gold used to be. And we get to control the gold supply.
+
+**A strong dollar hurts everyone including us**
+
+Because everyone's debt is financed in US dollars, a strong dollar starts to crush countries under the weight of that debt. Imagine if everyone's mortgage was financed in Tesla shares. *Everyone* would be defaulting this year. Same principle. A strong dollar stifles the growth of the global economy, which hurts us since we're the epicenter of global trade. It also makes it that much harder for us to export and increases the trade deficit.
+
+**Printing money has nothing to do with balancing our budget**
+
+We are basically gold for the entire global economy. That means we need to get enough gold into circulation to keep other countries from being crushed by their debts in US dollars. Every financial crisis causes a sharp spike in the dollar as countries from all over the world start to hoover the dollar up as the safest, most stable currency. Money printing has become the standard for alleviating a financial crisis because it gets enough dollars back into international circulation to keep the dollar reasonably priced.
+
+**We're not going to create a crippling national debt**
+
+Being the reserve currency has some real drawbacks. Having to worry about your national debt is not one of them. Our national debt is indirectly borne by the global economy and we have the power to dilute it by printing more gold. We've been fairly responsible with this power, which is why people still use dollar as the reserve currency, and what we're doing now is well within the realm of responsibility.
+
+**Cheer for a weaker dollar**
+
+The only people who suffer under a weak dollar are Americans traveling abroad. Everyone else wins. People who hold equities especially win. Labor also wins in the longer term because we can export more. There's a reason fantastically wealthy countries like Switzerland and China ruthlessly devalue their currency. It's the smart play.
+
+**TLDR of the TLDR:** We're mainly printing money for the benefit of the global economy, not to cover our debts or bail ourselves out. This is a mixed bag for people with no equities or real estate. It's a pure win for people with assets, and the global economy._END_OF_POST_PYSTOCK_ What newsletters or blogs do you follow to keep up with the industry? Looking to find a few authors who are industry experts, know their shit, and write about it as a hobby. All things investing, asset management, banking, or sector-specific content. 
+
+Standard avenues of news (WSJ, CNN Money, MarketWatch) feel tired and uninspired lately. Kind of looking for a Pomp equivalent if you follow blockchain news, or ZeroHedge but with more opinions and less click baiting.
+
+Let me know if you guys have anything._END_OF_POST_PYSTOCK_ What should be my plan of action? 21 y/o, live in U.K., got a minimum wage job that I work 3 days a week just for some extra cash on hand along with studying for a degree (4th year)
+
+Very little spending, I help out my family and spend a little on clothing/hobby related things. Currently have 5k sitting in my bank account and I’m doing nothing with it apart from few investments (some gold, some crypto). 
+
+I have been wanting to join in on trading stocks/doing long term investments, but I do not know how to start. I have been watching numerous videos (planning on reading some books/articles) but I got the dilemma of wanting high rewards with minimal-medium risk, not high, I would not consider investing 1k into a single stock, or in multiple, at once, as I do not feel comfortable with my current engagement level when it comes to investing. 
+
+Anyone have some guidance to offer? Any books, videos, recommendations? I am considering some penny stocks with small amounts of money for the chance that they will rocket._END_OF_POST_PYSTOCK_ ComputerShare gifted account I received a small position (under $500) from a relative many years ago. Currently the stocks are certified-so I’ve been able to have them reinvest and I can sell or transfer the reinvested dividend purchases, however the original 31 shares I cannot touch. Does anyone have outlined steps on what it would take to be able to move these to another brokerage? Currently it is not a big deal to me as far as needing access to the amount of stock, I would rather just add them to another brokerage account that I’m already using. I had thought I may just sell them and pocket the cash since the overall position is so small , however that is not even an option for me at the moment as I can’t sell the certified shares._END_OF_POST_PYSTOCK_ Quantitative measure of sentiment loss in the dollar It's not even 11am and this morning I just witnessed:
+
+1) someone selling some dollars at the train station
+2) 2 different people looking at the usd chart on their phones
+3) an old friend messaging me about bitcoin out of the blue 
+
+There's sentiment here but it's more of a relative measure than absolute:
+https://www.dailyfx.com/sentiment
+
+Would you chart against a basket of currencies plus assets? If so, how?_END_OF_POST_PYSTOCK_ How will the Georgia Senate runoff on Tuesday affect the market? If the Dems gain control of the senate, will the market drop because Biden can then pass his 40% capital gains tax or soar because of the possibility of more stimulus?
+
+
+
+
+If Republicans regain control will the market rise because of a gridlock so Biden won't be able to hike taxes?_END_OF_POST_PYSTOCK_ Long term capital gains offset short term capital losses beyond 3k? When canceling out gains and loses, if there is a mismatch between short term and long term, does the mismatch count as the same bucket of $3000 of "income" that can be applied every year and carried forward or can you cancel out an unlimited amount of mismatched short-term long-term gains/losses and also 3k income?
+
+Because I couldn't find a better way to phrase it, here's an example for within one year:
+
+Long term capital loss: 9K
+
+Short term capital gains: 6k
+
+For the example above, would the 6K Short Term gains + 3K income cancel out with the 9K Long Term loss, or would only 3K Short Term gains cancel out with the Long Term loss?
+
+I couldn't find an explicit reference if you are allowed an unlimited amount of mismatched cancelations for short-term long-term gains/losses. I'd appreciate any resource references._END_OF_POST_PYSTOCK_ What’s the deal with GAXY? I started hearing a lot of news about it and general chit chat from my friends but I have not heard anything about GAXY and I don’t know why they are gaining so much traction. They seem to just be a company revolving around improving education, which isn’t anything new.
+
+Could someone explain it? Thank you_END_OF_POST_PYSTOCK_ Bond ETF recommendations? Hi - I'm 24 and have about 65k in my brokerage account (all in equity ETFs), have about 40k in various retirement accounts, and make \~160k a year. I have 20k in student loans. Have two questions that I'd like to get people's thoughts on
+
+\- When does it make sense to start putting money into bonds? I don't have any major purchases on the horizon, but would probably want to buy an apartment or a house in 7-10 years
+
+\- Any good recommendations of bond ETFs that offer a good mix of return and lack of volatility?_END_OF_POST_PYSTOCK_ Transferring from Robinhood to Charles Schwab I have been thinking of transferring my investments from Robinhood to Charles Schwab. I really wanted to invest more money (an amount greater than 20K) and wanted to be secure by being in a more established brokerage firm. I have not had problems with Robinhood but I really value factors like customer service (in case anything goes wrong) and having more options in general. I currently have a mix of ETFs, individual stocks, and Bitcoin in my portfolio.
+
+I have a lot of questions:
+
+* Is it a good idea to transfer to CS? What are the reasons I should or should not transfer to CS?
+* What is the process in the transferring process? Is it easy or complicated? (I currently have a mix of ETFs, individual stocks, and Bitcoin with most of it having fractional shares)
+
+I am very open to any advice and is very appreciated!_END_OF_POST_PYSTOCK_ Any investing challenges or predictions made at the start of the year 2020 that we can look back on? I see a lot of predictions or challenges usually made at the start of the year. Then by the time the year passes no one remembers what happened to them.
+
+Any predictions you remember from the start of the year that were interesting either super on point right or way way off?_END_OF_POST_PYSTOCK_ Investing in silver Can someone help me and give me a counter-argument for this?
+
+Silver is primarily an industrial metal, and industrial commodities have a way  to self regulate their prices through price and demand. If silver gets  too expensive, it will get used less, which decreases the demand and  therefore decreases the price. Is this why the silver price is  'suppressed' or kept low on purpose? Why would it be a  good investment if its likely this price suppression will continue?_END_OF_POST_PYSTOCK_ Where to invest my 200€ Hello, I am a french investor and this month am gonna invest 200€ (not my first investment). I will invest them in 4 stocks, and that's where the game begins.
+
+Am pretty sure my first 150€(50€ each) will go in 
+1: Visa
+2: MasterCard
+3: Pepsi Co
+
+Any opinion about these investments are welcomed.
+
+And for the last 50€ I still don't know where to put them and that's why I ask you. I thaught about Exxon Mobil or maybe invest more in some action that I already have in my wallet (probably Oracle tbh) 
+
+
+So here's some information about my wallet to help u understand my situation : 700€ invested 
+
+AMD 30.83%
+Nvidia 14.17%
+Schneider electric 11.45%
+Federal Realty Investment 10.82%
+BlackStone Group 8.03%
+Total 7.33%
+Sanofi 7.24%
+Oracle 7.23%
+Microsoft 2.91%
+
+Any thaughts are welcome since am starting in this ;)_END_OF_POST_PYSTOCK_ Looking for some perspective on where I should be keeping ETFs like ARK, QQQ and ICLN. Is it wise to hold in a Roth? Or should I just stick with keeping them in a taxable? I’m looking at setting up a [backdoor] Roth. I also have a taxable account with some company stock and ETFs like QQQ, CIBR, ICLN, ARKK, ARKF and ARKG.
+
+I was debating on selling said ETFs (I have a relatively small amount and not a ton of capital gains as I’ve had them for 2 months) and reinvesting in my Roth, along with FSKAX - FSKAX being the majority holding.
+
+I’m aware of the overlap here but for the sake of the question, is it wise to keep those ETFs in my Roth? Or should I keep them in a taxable and just stick to total market, international, etc. for my Roth?_END_OF_POST_PYSTOCK_ What is the difference between r/investing and r/stocks? What is the difference between r/investing and r/stocks? I came across both subs recently and I notice both sub tend to stick with the traditional investing mentality. Both subs have a large following and over one million members. I'm curious to what are the differences between both sub?_END_OF_POST_PYSTOCK_ Low risk long term stocks to invest in I am looking to invest a little bit of money every paycheque into stocks instead of having all of my extra money go and sit in a savings account. What are some low risk stocks that will continue to grow over the years? I am new to investing. I live in Canada and have a tfsa account, I’m just not 100% sure where to invest my money. I feel like I can get further ahead when my money is invested in something rather than have it sitting in my bank account. Thanks_END_OF_POST_PYSTOCK_ Growth and Bonds protect your growth stocks with a trade \~8x max payoff in 6 months.  
+ 
+
+[https://deepyield.substack.com/p/growth-and-bonds?r=dsyq7&utm\_campaign=post&utm\_medium=web&utm\_source=copy](https://deepyield.substack.com/p/growth-and-bonds?r=dsyq7&utm_campaign=post&utm_medium=web&utm_source=copy)_END_OF_POST_PYSTOCK_ I have only 10$.How can I invest it and where? I am new to investing and I don’t have the connections to get started.Any help?I live in Romania,and some apps are not available here.Any apps that I could use?I got introduced to investing from tiktok,but all of them are just lying and scamming and telling you to buy their book that is no use for anyone.I just want some actually proper tips that could help me._END_OF_POST_PYSTOCK_ Thoughts on Quantumscape (QS)? I’ve been hearing a lot of things about this company. It’s super speculative, but it’s backed by Volkswagen and Bill Gates. It’s rumored that Apple might use their battery in their car. I’m thinking of jumping on it when it hits the $60’s. What do you guys think?_END_OF_POST_PYSTOCK_ SEC data api 
+Just got my API up and running.  It’s a financial data API, and it still needs some work.  If I could get some feedback that would be great! Link: www.ase-data.com
+
+There is a link to the documentation on the server home.
+
+My API can be used to get 10+ years of financial data for cheap, as well as investing news and alerts from the SEC.
+
+Any reviews, comments, or feedback are all greatly appreciated!!_END_OF_POST_PYSTOCK_ Turtle Beach (HEAR): Strong Growth, Cheap Valuation  
+
+**Turtle Beach (NASDAQ: HEAR)**
+
+Industry leader in high quality gaming audio
+
+**Company Overview**
+
+Turtle Beach (“HEAR”) is an American gaming headset and computer accessories company established in 1975 and headquartered in New York. 
+
+Launching the first ever console gaming headset in 2005, Turtle beach has grown to be the North American market leader in gaming headsets for the last ten years while maintaining a 40% market share. Turtle Beach expanded its product offerings beyond headsets to include peripheral devices such as keyboards and mice with the acquisition of ROCCAT in 2019 for $15.6 million in cash and $3.3 million in earnout payments. ROCCAT is a leading German peripherals business with a history of producing award-winning keyboards and mice. 
+
+HEAR IPO’d at $6.80 in 2010 as Parametric rocketing up to over $80 in March 2013 before changing their name to Turtle Beach in 2014. The stock has seen a volatile decade since then now resting just above $20 and a roughly $320 million market cap, despite posting over $300 million in revenue for 2020. 
+
+**Business Fundamentals**
+
+**Company Financials**
+
+In their most recent Q3’20 earnings, Turtle Beach recorded a revenue increase of 141% year-over-year (“y/y”) from Q3’19 with $112.5 million in revenue, and gross margins increase of 880 basis points to 41%. Adjusted EBITDA in Q3’20 was $27.6 million, compared to $0.3 million in the prior year quarter,with a margin of 24.5%. The company has continued to benefit from the current stay-at-home environment that has bolstered an influx of new gamers, driving the strong y/y growth.
+
+As of Q3’20, Turtle Beach has significantly cleaned up it’s balance sheet by increasing their cash balance 233% from $8.2 million at FYE19 to $27.3 million while also repaying $26.6 million of outstanding debt under its revolving credit line, reducing outstanding debt to $0. Total assets were $201.5 million, liabilities were $105.8 million at Q3’20. The company generated operating cash flow of $44.7 million, free cash flow of $40.5 million, and working capital cash inflows of $70.9 million in Q3’20.
+
+**Revenue streams**
+
+Turtle Beach offers an array of headset gaming products across Xbox, Playstation, Ninentendo, and PC systems that vary in quality and price. 
+
+The 2019 acquisition of ROCCAT expanded their portfolio to include gaming keyboards and mice as they continue to expanded into the PC accessories market.
+
+**Industry and competitive landscape**
+
+**Market Size**
+
+According to Grand View Research, the 2019 gaming peripheral market was $3.88 billion and is expected to grow by 10.4% CAGR from 2020 to 2025 to $6.96 billion. This trend has been accelerated as a result of the coronavirus pandemic and rapid increase in the number of gamers.
+
+According to Newzoo, there were 2.47 billion gamers worldwide averaging a 5.9% year over year increase since 2014. It’s expected to reach 2.725 billion by 2021.
+
+**Competitive strategy**
+
+Turtle Beach has a number of competitors in the peripheral space that include SteelSeries, Razer, Logitech, Corsair, and Mad Catz. 
+
+In the console gaming headset market Turtle Beach dominates with a roughly 40% market share. On their Q3’20 earnings call, Turtle Beach announced a quarterly revenue share of over 50% and quarterly share of units of headsets shipped over 60%. They continue to shell out high quality gaming headsets at affordable prices for all levels of gamers. Competitors such as SteelSeries or Logitech also offer higher priced premium headsets, although none can match the equilibrium between quality and price that Turtle Beach offers. This is evidence by the recent launch of the Stealth 600 Gen 2 Headset for Xbox and PS5, which continues to be the #1 selling wireless gaming headset on the market.
+
+**Growth strategy**
+
+While Turtle Beach’s recent success in 2020 was driven by the stay-at-home orders during the coronavirus pandemic, much of this growth is expected to continue. As cited in their most recent earnings call, Activate consulting firm found that console gaming has increased 27% in 2020 and more than half of this increase is expected to remain once the world returns to normal. Similarly, they estimate that time spent on PC gaming is up 30% as a result of stay-at-home orders and this should settle to about 10% once we return to normal.
+
+Additionally, Turtle Beach will continue to benefit from the new rollout of new generation consoles for Xbox and PlayStation. Market Research Firm DFC forecasts that console unit sales will increase 55% in 2021 and this rate will continue higher into 2022 as we start to see new edition next generation consoles. 
+
+Raising their investment from $9 to $12 million for 2021 in their most recent earnings call, Turtle Beach will continue take advantage of it’s excellent cash position. Much of Turtle Beaches current re-investments are going to be targeted towards building the ROCCAT brand as they continue their growth strategy into the PC accessories market. The ROCCAT brand already has an established brand in its German market of origin but Turtle Beach will be looking to take this investment global. The Turtle Beach team has made clear of their goals to create a $100 million PC accessories business.
+
+As a result of these positive trends and growth outlook, Turtle Beach gave guidance of $330 million in sales for the full-year 2020, up from an estimated $300 million in their previous guidance. $330 million in sales would represent a 40% year-over-year increase and a 5 year CAGR from 2015 of over 15%.
+
+*E-sports Partnerships*
+
+They have partnerships with EA sports and Estars Fortnite, the leading independent production company for e-sports and video games. In March 2020, Turtle Beach announced an expanded partnership with NRG e-sports. While Turtle Beach serves as the official audio partner of NRG, ROCCAT supplies keyboards, mice, and other accessories to Apex Legends, Call of Duty, Fortnite, and Rocket League players.
+
+Additionally, they have dozens of gaming influencers and Ambassadors including the likes of Dr. Disrespect, Ali-A, Castro, and NBA-player Josh Hart.
+
+**Risks**
+
+*Maintaining a Competitive Economic Moat*
+
+The gaming peripherals space is a very crowded market with somewhat low barriers to entry. While Turtle Beach continues to maintain their market share through strategic pricing and quality products, they face stiff competition from better capitalized companies. While Turtle Beach has expressed their goals to tap into the growing peripherals market, there are still questions that their team will successfully execute their strategy. It is difficult to protect and commercialize new technologies in this space and pricing power is key as competitors copy new technologies.
+
+*Supply Chain Constraints*
+
+The Covid Pandemic has sent a ripple through global supply chains sending companies through logistical headaches. This includes securing everything from airfreight to ocean containers. As a result sales could be lost if competitors can implement more efficient supply chains to keep up with demand.  Q3 factory headset production in units was almost 90% of the total headset unit production in Q3 2019. However as the globe weathers the pandemic into Q2 of 2021 these constraints will continue to ease for the broader market.
+
+*Execution Beyond the Pandemic and Next Generation Consoles*
+
+The growth that Turtle Beach has seen during FY 2020 is unlikely to remain at these levels as the double tailwind of the Covid pandemic and next generation console release simmer away. However, this company and the broader peripherals market will continue to grow as the organic growth of gamers increases across the globe well into the coming decade.
+
+**Stock Technicals**
+
+Turtle Beach is one of the cheapest peripheral companies you can own in the public markets today. Trading at a 9x price-earning ratio, this pales in comparison to the Communication - Components industry that currently trades at around 26.43x earnings. On a more specific basis, competitors Razer and Corsair are currently trading at 588.24x forward P/E and a 49.73 P/E. Logitech trades at a fair valuation of 24.33 P/E. Clearly on a relative basis, Turtle Beach is as cheap as you can get in this sector which is surprising for such a household brand in gaming that continues to show consistent growth.
+
+Turtle Beach did have a short lived rally past $30 in the summer of 2018 after posting encouraging sales on the back of the Fortnite Battle Royale craze. However, the stock came back down to earth in 2019 after announcing modest earnings as investors decided the stock had run too far too fast.
+
+The reality is that 2020 is not 2018 for a multitude of reasons and I believe this stock has plenty more room to run from here. Starting with the Covid Pandemic, this resulted in a surge of increased gaming across the globe. Certainly this growth trend is bound to come down but the residual effects of the pandemic has given a steroid shot to the CAGR in all sectors of gaming that many companies, including Turtle Beach, will continue to benefit from well into 2022-2023. Additionally, we have a new generation of consoles that will continue to give tailwinds to the peripherals market for years to come. And lastly, the organic growth of gamers across the global will continue into this technological era despite help from stay-at-home orders.
+
+Thanks for reading, let me know your thoughts or criticisms.
+
+Seacow_END_OF_POST_PYSTOCK_ Sold SLV at a loss last week, will buying SLVP tomorrow be considered a wash sale? (Substantially identical?) The replies to my situation may be instructive to other people who are dealing with wash sales.
+
+**Situation:**
+
+Years ago I bought SLV at a high price and managed to Sell it at a LOSS last week. I plan to report it as capital loss on my 2020 taxes to offset other gains.
+
+Tomorrow (within 30 days of selling SLV), I want to Buy SLVP. 
+
+**Question:**
+
+I want to confirm if this will be considered a wash sale (I don't want a wash sale). This determination hinges on whether this is a 'Substantially Identical Security'. IRS instructions are not clear to me (and many people), about whether these two securities are Substantially Identical.
+
+**What the heck are SLV and SLVP?:**
+
+SLV and SLVP are both ETFs provided by iShares that are focused on the silver precious metal. Both have similar performance. In addition, it's known that when the price of silver goes up, the stock value of the actual silver MINING companies go up too. So there's some... identicality there, I guess.
+
+However, there are also DIFFERENCES...
+
+SLV = iShares Silver Trust = Seeks to reflect generally the performance of the price of silver. It's a precious metals ETF that holds / is physically backed by the actual metal, silver.
+Link: https://www.ishares.com/us/products/239855/ishares-silver-trust-fund
+
+SLVP = iShares MSCI Global Silver Miners ETF = Seeks to track the investment results of an index composed of global equities of companies primarily engaged in the business of silver exploration or metals mining. It's holdings are shares in a list of actual silver mining companies.
+Link: https://www.ishares.com/us/products/239656/ishares-msci-global-silver-and-metals-miners-etf
+
+I asked an accountant I used years ago and they didn't seem to know, so I would love to hear from someone who is already familiar with these topics. Thanks so much to everyone who hangs out on this forum, I hope you have a great and happy 2021!_END_OF_POST_PYSTOCK_ Invest 40k Hi, I have about 40k I'd like to make good use of. 
+
+I am currently looking at some projects on Yieldstreet and Crowdstreet.  Crowdstreet only has real estate projects and requires a minimum of 25k, with most projects lasting at least 4 years. Yieldstreet seems much more flexible, though with a much lower return rate. 
+
+Can someone share some thoughts?  I am not interested in stock market since I already regularly contribute to my 401k.  Thanks!_END_OF_POST_PYSTOCK_ Being the Bank I’ve been doing a LOT of reading, podcasting, research lately about investing and business ownership. I’m currently just an employee with a decent savings and no debt at all. I keep looking at the many avenues to becoming rich, but they seem very risky, time consuming, not quite a sure thing. It’s not that I’m afraid of the risk, but I feel like my studying has brought me to a mental state that drives me to find another way. With that being said, I see the people making the most money around are banks. It got me thinking... without literally OWNING a large bank, how can I begin to loan money to people, safely, I’m a way that I will build interest on these peoples loans much like the banks do? Is this even a thing?_END_OF_POST_PYSTOCK_ Long Term Investing and Stock Picking Services First off let's start with a Happy New Year my fellow Redditor, I wish you and your family all the best in the coming year!
+
+Who am I:I have been a lurker here for a long time and come here from a world of professional online poker. I consider myself a long term investor with value investing coming from my neocortex and growth investing coming from my amygdala. I currently hold 20% BTC, 7% gold and 73% cash.
+
+I have bsc from economics with a big interest for **mass psychology,** I understand investing and risk related terminology and know the basics of reading financial data. I have read the value investment classics (Lynch, Buffet, Dalio-Principles, N .Taleb-Black Swan) so I think I am your average "I will become investor guy", that sooner or later admits I don't know shit about the market and just joins the"DCA into ETF"! and "Time in the market is more important that timing the market"! chants here or r/investing. Because I find investing fun and feel uneasy with ETFs being the only holding I have, this is my last ditch effort to see if with your help I can learn how to invest semi actively and come out on the other side.
+
+The problem no1:  **A million information sources out there, but which one are actually worth it? What steps do you, seasoned investors take, to gather your investment ideas, which people do you follow, what forums do you interact on, analysts pay, newsletters subscribe to?** I am open to anything really, I just want to build a solid time efficient process that I can follow, and gathering trustworthy information seems to be a major hurdle for me.
+
+People and Sources that I have checked:  I have searched the r/investing for this questions, it did help to a degree but very little recent sources
+
+**Motley Fool and Zacks**\- Their advertising is so aggressive my intuition screams scam and I didn't find an independent source to verify their returns (please share a source if you have that).
+
+**Seeking Alpha:**  tried the service and tested some paid subscriptions, haven't found a good fit yet, recommendations welcome.
+
+**Real Vision:** Currently subscribed to their service, joined a few weeks ago, some really good interviews there, good for macro 1on1 interviews.
+
+**Sven Carlin:** I like the guy, seems to do solid analysis and is very clear about his investing style and investments, I am considering buying his research platform, any information on this would be very valuable.
+
+**Research List:** Undervalued shares and Tactical investor (It was recommended as a good mass psychology investment source, not sure if they are still relevant in 2020?)
+
+**Twitter:**   [Dan Rasmussen](https://twitter.com/verdadcap)\-CIO Verdad advisors invests in small cap value companies his thought process seems solid,  [@michaeljburry](https://twitter.com/michaeljburry) , @nntaleb are the most valuable ones for me atm
+
+There is a lot of work that has to be done when researching an investment, so I assume people group in small groups to go over material quicker. **Is there a place where one can search for a group like that to join?**
+
+**Is 1on1 coaching a thing in investing? In case anyone is interested I am more than happy to trade my online poker knowledge for investing one, I know it's a long shot but just saying.**
+
+If you made it down to here, I would like to thank you for reading my post. If you want to talk about investing or anything related that make you think we could have an interesting conversation , shoot me a message and I will happily reply.
+
+Either way, I wish you a nice day and a compounding decade to come!_END_OF_POST_PYSTOCK_ Can one invest in college tuitions? I am NOT taking about finding money to pay college studies. I am referring to investing in that system somehow and earn from investments. College tuition increases about 8 percent per year, it seems to good of a deal and a safe bet, but is there any actual mechanism to invest on it?_END_OF_POST_PYSTOCK_ Series 65 test administered online Hi all,
+
+&#x200B;
+
+I'm wondering if anyone here has taken the Series 65 online and might be able to share what the experience was like / what to expect.
+
+&#x200B;
+
+I'm hoping to finish it this month, have done a bit of studying so far.
+
+&#x200B;
+
+Thanks for any replies._END_OF_POST_PYSTOCK_ VOOV and VTI Evening everyone,
+I was wondering if anyone had any experience with both VOOV and VTI. I currently have a few shares in both and wonder if VOOV is worth it if I all ready have VTI? Would it be smart to move the VOOV money into a bigger stake in VTI? Any and all opinions welcomed!_END_OF_POST_PYSTOCK_

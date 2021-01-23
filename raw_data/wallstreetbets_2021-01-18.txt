@@ -1,0 +1,1289 @@
+ This one is for the GME Gang 💎🙌🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ This is it retards, this is where we push to the MOON🚀🚀🚀🚀. Dont let the 🌈🐻 win!! _END_OF_POST_PYSTOCK_ Clearing rumors over share lending Just wanted to clear up some quick information on this and break it down nice and easy.
+
+1. For any shares held in a cash account your brokerage must get your permission to loan them out.  If you have a margin account, they can be lent out at any time without notice as long as you hold a **negative balance** I.E. you have used margin to buy.  This means if you have a margin account, but your shares were all purchased using only cash, they still need your permission.
+
+Edit: remember when you buy on margin you don't actually own those shares, the brokerage does.   This is why they don't need your permission to loan them out.  While it will likely never happen, the brokerage can contact you at any time ask for their money back
+
+2. Does putting a sell order on shares prevent them from being loaned out? Yes , if you put in a sale order for $$$, they will be tied up and unavailable to be lent out. This doesn't really matter though because if your shares are already loaned they just find other shares to fulfill the sale if it actually goes through.  My guess here is if you have shares purchased with cash and a sale order in place your brokerage won't bother asking you if you want to loan them out.
+
+&#x200B;
+
+3. If I set my shares to sell at $420.69 will my broker lower that? **Absolutely not!**  If you put in a sale for 420.69, then they will sell for that minimum price.  If you told a brokerage you wanted to sell for 420.69 and they sold it for less they would be open to lawsuits and penalties.  **Edit:** Check out this post for more info on the Limit up Limit down rule (LULD) [https://www.reddit.com/r/wallstreetbets/comments/kzy256/for\_those\_who\_can\_read\_here\_is\_the\_limit\_up\_limit/](https://www.reddit.com/r/wallstreetbets/comments/kzy256/for_those_who_can_read_here_is_the_limit_up_limit/)
+
+TLDR of that post  
+
+>*An active order would be a buy above the upper limit. A passive order would be a sell above the upper limit. Passive orders are not repriced, only active. Your 420.69 would stay, but a buy order for 100 (if the band is at 69.69) would get repriced to 69.69. All this does is ensure that no trades can happen outside the band, and is how a pause is implemented.*  
+>  
+>*TL;DR: No, your 420.69 limits won't get repriced to 69.69 on a pause - this is probably boomer fud trying to get you to remove your limit orders so the dealers have more to short*
+
+This has been confused with buy orders.  If you put an order to buy stock at $40, and the stock is trading for $35, your broker will fill your order at the price of $35 and continue to fill your order until your entire order has been filled or until the price exceeds $40.
+
+Here are some links you likely wont click or bother to read
+
+[https://www.investopedia.com/ask/answers/05/lendersellshare.asp](https://www.investopedia.com/ask/answers/05/lendersellshare.asp)
+
+[https://www.contracts-for-difference.com/Borrowing-lending-shares.html](https://www.contracts-for-difference.com/Borrowing-lending-shares.html)
+
+[https://www.investopedia.com/ask/answers/100314/whats-difference-between-cash-account-and-margin-account.asp](https://www.investopedia.com/ask/answers/100314/whats-difference-between-cash-account-and-margin-account.asp)
+
+&#x200B;
+
+Edit: adding to point number 2_END_OF_POST_PYSTOCK_ What happened to Mr.Beasts $100k YOLO? In the post he said he was going to yolo $100k into something risky. Did he go through with it?
+
+link: [https://www.reddit.com/r/wallstreetbets/comments/hrorfa/i\_will\_invest\_100000\_into\_whatever\_is\_the\_top/](https://www.reddit.com/r/wallstreetbets/comments/hrorfa/i_will_invest_100000_into_whatever_is_the_top/)_END_OF_POST_PYSTOCK_ $BB: Rivian Automotive is also looking for a QNX (BlackBerry) Developer As some of you may have seen my previous post about Lucid Motors looking for an employee who can do QNX (QNX = a real-time operating system from BlackBerry), here are some further news about Rivian.
+
+Here is the reference to the previous post: ([https://www.reddit.com/r/wallstreetbets/comments/l04gtk/bb\_lucid\_motors\_is\_looking\_for\_a\_qnx\_blackberry/](https://www.reddit.com/r/wallstreetbets/comments/l04gtk/bb_lucid_motors_is_looking_for_a_qnx_blackberry/))
+
+Just found out that Rivian is doing the same. ([https://boards.greenhouse.io/rivian/jobs/4310012003](https://boards.greenhouse.io/rivian/jobs/4310012003))They have not only one but multiple job offers that include QNX as a prerequisite.
+
+For those of you who don't know what QNX is:QNX = " a time-tested real-time operating system" from BlackBerry([https://blackberry.qnx.com/en](https://blackberry.qnx.com/en))
+
+Buckle up guys! 🚀🚀🚀_END_OF_POST_PYSTOCK_ 12k GME yolo I bought at open on Friday. These printing? _END_OF_POST_PYSTOCK_ Our GME gains after this week 🚀🚀 _END_OF_POST_PYSTOCK_ BB gang this one’s for you _END_OF_POST_PYSTOCK_ GameStop The Mother Of All Short Squeeze The Movie _END_OF_POST_PYSTOCK_ DD - GoEasy to the fucking moon  I mostly lurk but I've been here since y'all were in middle school.  See my BWLD post below.
+
+[https://www.reddit.com/r/wallstreetbets/comments/6m2vfe/4k\_in\_long\_august\_puts\_for\_bwld/](https://www.reddit.com/r/wallstreetbets/comments/6m2vfe/4k_in_long_august_puts_for_bwld/)
+
+Posting my new play cuz y'all are good for some laughs so I thought I'd help you autists out.
+
+Goeasy is company based in Canada that gives loans to lower credit quality people. It also leases stuff. With this higher risk, they charge crazy amounts since no one else will lend to these people usually.
+
+Setting aside the ethics, this stock is going to the fucking moon.
+
+Basically they borrow at 3-5% and lend it out at 40%. They take a 10% haircut on bad loans and keep the rest.
+
+1. Price $104.7 CAD and trading at 3.5x revenue. Market cap of 1.55B CAD (1.2B USD)
+2. Annual earnings growth of 37% for the last five years
+3. Dividend growth for 32% for the last five years
+4. Recently reduced their cost of borrowing with new $200M securitization facility at 3.4%.
+5. Return on equity of >20%
+6. Authorized to buy 10% of stock back this year. Authorized mid-December 2020.
+
+But the fucking icing on the cake - The Management
+
+GoEasy had a minority stake in Paybright which they bought for 34 million in September of 2019. One year later, in December of 2020 they sell it to Affirm for $60 million: 23 million in Cash (CAD) and the rest in shares.
+
+So you might wonder 60-23 = 37 million dollars in shares right? WRONG
+
+GSY received 655,416 shares of Affirm with an additional 468,154 shares if revenue milestones are met.
+
+How much are these Affirm shares worth?
+
+655,416 \* 117 = 77 Million
+
+468,154 \* 117 = 55 Million
+
+Total = 23 million + (77 +55)\*1.28 (for USD to CAD conversion = 23 + 168 million = 192 million.
+
+In one year the investment of 34 million became 192 million. They could buy back 12% of the stock with this gain alone, not including the internal capital generation from operations.
+
+GSY is expected to release results in the 2nd week of February. Probably a 30% dividend increase and if they announce plans to expand to the US, this stock is doubling in a month and could be a 5-bagger.
+
+No options boys. Straight stock only.
+
+LONG GSY._END_OF_POST_PYSTOCK_ A Gourd Story: TheEmperorOfJenks _END_OF_POST_PYSTOCK_ Stuck at home waiting for COVID results, so I wrote a sea shanty in honor of $GME. Presenting: "The Tendieman" _END_OF_POST_PYSTOCK_ For you GME autists that claim to have 💎🤲 that have been in this for a couple weeks or months... _END_OF_POST_PYSTOCK_ Another 🌈🐻 hit piece on $pltr. I'm holding 160+ shares 💎🤲 $$ PLTR 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ $BB: Lucid Motors is looking for a QNX (BlackBerry) Developer Just found out that Lucid Motors is looking for an employee who can work with QNX.   
+([https://www.linkedin.com/jobs/view/embedded-software-engineer-adas-autonomous-driving-at-lucid-motors-2191779169/](https://www.linkedin.com/jobs/view/embedded-software-engineer-adas-autonomous-driving-at-lucid-motors-2191779169/))   
+QNX = " a time-tested real-time operating system (RTOS), hypervisor, and other embedded software"   
+([https://blackberry.qnx.com/en](https://blackberry.qnx.com/en))  
+
+
+You know what that means.   
+🚀  🚀  🚀_END_OF_POST_PYSTOCK_ United States of Cannabis DD: Autist edition As many suspect cannabis is coming to legalization in the future. The debate is currently when and not if. All evidence points towards legalization in the coming 12 months and maybe even sooner.
+
+# Current cannabis legalization in the United States.
+
+This is a list of states that have recreationally legalized cannabis and their populations. We need to gauge what the size of the market already is and what segment of it is left unserved. The percentages next to the state name are the size of that state with respect to total US population
+
+Recreational populations by state:
+
+1. California, 11.88%
+2. Illinois 3.79%
+3. Michigan 3.0%
+4. New Jersey 2.67%
+5. Washington 2.31%
+6. Arizona 2.22%
+7. Massachusetts 2.07%
+8. Colorado 1.75%
+9. Maine 1.64%
+10. Oregon  1.28%
+11. Nevada .94%
+12. Montana .32%
+13. South Dakota .27%
+14. Alaska .22%
+15. DC .21%
+16. Vermont .19%
+
+# Unserved or Underserved Market Share
+
+Total Population of those states: 52.19% So immediately that looks like it will double when we see legalization. But right now the government employs roughly 6% of our population which means those people can't consume cannabis and keep their job reliably. Let's just be safe and say 5% just to be on the safe side.
+
+52.19% \* 95% = 49.58%
+
+# 50.4% of Americans will be eligible after federal legalization.
+
+# Two Thirds of Americans support legalization
+
+Two-thirds of Americans say the use of marijuana should be legal, reflecting a steady increase over the past decade, according to a new Pew Research Center survey. The share of U.S. adults who oppose legalization has fallen from 52% in 2010 to 32% today.  The numbers skew extremely heavily in one direction. The older you are the more likely you are to want to keep it illegal. Thankfully the ancient authoritarian opposition isn't going to be around very long to bitch and ruin our fun or destroy our tendies.
+
+Approval by generation
+
+* Silent 35%🌈🐻
+* Boomer tards 63%
+* Gen X 65%🐂
+* Millennial 76%🐂🐂
+* Gen z🐂🐂🐂
+   * weren't on this survey but they're twice as likely to use as national average so probly like 99%
+
+Silent Generation is around 74-80+ right now
+
+CDC says that the percentage of death for a Covid-19 victim are:
+
+* 65-74  - 21.7%
+* 75-84 - 26%
+* 85+ - 30.4%
+
+By Race
+
+* White 51.3%
+* Hispanic/latino 24.2
+* Black 18.7%
+
+As we all know old white men are almost entirely republican. Cannabis opposition skews extremely heavily towards the older and whiter the person the more likely they are to oppose legalization of recreation. Covid19 may have killed around 78.1% \* 400k covid19 Silent Generation in united states.
+
+.781\*400,000 = 312,000. Current population of Silent generation is around 20 million so Covid may have killed around 1.5% of the silent generation alone.
+
+# Why are we talking about old people?
+
+* They don't like cannabis and don't want it legalized
+* They have nothing to do with themselves so they vote like their life depends on it
+* They're the fastest shrinking population group and the least fond of cannabis
+
+Do you retards get it yet? The only people that would have shit all over politicians for voting against legalization are shrinking every day. These acts as a pressure release valve on politicians who may have voted NO on legalization because they don't want to lose their office.
+
+# But isn't everyone who wants to smoke weed already doing it?
+
+No dumbass.
+
+>In fact, more than 50 percent of Americans surveyed for the study changed their minds about whether they would smoke pot, depending on whether the laws specified certain penalties, the study found.
+
+[https://www.livescience.com/56705-marijuana-use-legalization-survey.html](https://www.livescience.com/56705-marijuana-use-legalization-survey.html)
+
+This is from 2016. Cannabis has become significantly more popular and the older generation as I've said before has continued to die off making it even MORE popular.
+
+# How do we get it through the House of Representatives?
+
+It literally already passed. On December 4th last year the HR passed a bill to legalize cannabis 228-164  which is a huge victory. Even if they have to make revisions on it the bill won't get less popular it will get more popular in the house.
+
+&#x200B;
+
+# How do we get it through the senate?
+
+# Chuck Schumer Says Marijuana Legalization Will Be Prioritized If Democrats Retake Senate
+
+“I’m a big fighter for racial justice, and the marijuana laws have been one of the biggest examples of racial injustice, and so to change them makes sense,” he said. “And that fits in with all of the movement now to bring equality in the policing, in economics and in everything else. Our bill is, in a certain sense, at the nexus of **racial justice**, individual freedom and states’ rights.”
+
+* Removes cannabis from controlled substance Act
+* Cosponsored by Bernie Sanders the new Senate Budget committee chairman
+* Would force money into the hands of women/economically disadvantaged (this is an earmark of the Biden administrations intentions for his first 100 days)
+* Both Alaskan REPUBLICAN senators support legalization
+* New GA senator Ossof supports legalization
+* New GA senator Warnock supports **racial justice** and legalization
+* Voting against cannabis would be deeply unpopular in literally almost any state
+* One week after House passed their bill the Senate passed a [research bill](https://www.marijuanamoment.net/senate-passes-marijuana-research-bill-one-week-after-house-approves-similar-legislation/)
+
+&#x200B;
+
+# 
+
+# What about Biden?
+
+* Biden has described 'racial injustice' as one of the four crises he wants to solve in his FIRST HUNDRED DAYS
+* The optics of vetoing a bill for cannabis legalization that focuses on racial justice would obliterate his presidency and destroy his credibility. If a bill hits his desk he WILL pass it.
+* Biden has previously not supported it but he's an old enough politician to know which way the wind blows and won't
+
+>Mr. Nadler, who spearheaded the legislation with ~~Senator~~  **VICE PRESIDENT** Kamala Harris, Democrat of California and the vice president-elect, described the collateral consequences of a conviction for marijuana possession as creating “an often-permanent second-class status for millions of Americans.”  
+>  
+>The idea behind the legislation is “you want to make whole these communities, and you want to compensate,” he said. “You want to shed light on what was done.”
+
+Can you smell the incredible racial justice? This is the exact thing Biden needs to do to become a fucking super hero in the eyes of the public and that's what he wants and needs right now.
+
+[https://www.nytimes.com/2020/12/04/us/politics/house-marijuana.html](https://www.nytimes.com/2020/12/04/us/politics/house-marijuana.html)
+
+&#x200B;
+
+## What Is the Significance of the First 100 Days?
+
+>The idea comes from Franklin Delano Roosevelt, the 32nd US president, who passed [15 major pieces of legislation and 76 laws](http://www.history.com/news/fast-facts-on-the-first-100-days) during the first 100 days of his presidency in 1933. By today's standards, the efficiency is almost unbelievable. It's mostly due to the extenuating circumstances of his term: Roosevelt was dealing with the Great Depression when he was inaugurated, and the **nationwide sense of emergency allowed him to take action swiftly**. And while the circumstances for following presidents were less dire, the term stuck.
+
+[https://www.popsugar.com/news/why-are-first-100-days-important-for-president-48070657](https://www.popsugar.com/news/why-are-first-100-days-important-for-president-48070657)
+
+&#x200B;
+
+# Okay Let's talk money
+
+>US retail marijuana sales on pace to rise 40% in 2020, near $37 billion by 2024
+
+[https://mjbizdaily.com/exclusive-us-retail-marijuana-sales-on-pace-to-rise-40-in-2020-near-37-billion-by-2023/](https://mjbizdaily.com/exclusive-us-retail-marijuana-sales-on-pace-to-rise-40-in-2020-near-37-billion-by-2023/)
+
+Adult-Use of cannabis is on track to go up 5Billion a year for the next few years. That's retard growth. In 2020 is was only around $11.8Billion. **Estimates say next year it could be as high as $15.9Billion. That's 74% in one year. That's fucking insane.** This year and this year alone is special because its' the fastest percentage growth. Further years will have the same nominal growth but the already existing base of Adult users will offset the growth %
+
+Covid acted in two ways. It killed many people that opposed this legislation which makes it politically safer for republican senators to approve it  and it offset the ability of congress to even really address it. It created a stall moment. Right now is the best time to go deep because it's not being talked about on the news.
+
+You can play this any way you want. I personally will be going balls deep and holding for years to come but the key to winning this is to make all your moves BEFORE congress talks about it. The second they mention it the game is over and someone else took your sticky sweet cali kush purple haze tendies.
+
+&#x200B;
+
+# Why should we focus on American cannabis rather than others?
+
+Because congress will engineer the law to favor American cannabis industry inside. That's going to help them with inequality and racial injustice in the United States. It's both a strong economic and political move. American industry boom can also fuel job growth which once again is something that's on Biden's economic plan and we are in dire need of job growth from the fallout of the pandemic.
+
+&#x200B;
+
+# Conclusion
+
+* It may be as little as 3-6 months before we see cannabis get passed.
+* the most powerful people in our government (Senate Leader / Vice President) want it to happen
+* The president needs to unite people and cannabis is EXTREMELY popular among citizens
+* Expense ratios on all the ETFs I post are basically exactly the same
+* We just had one hell of a weekend so everything is on discount right now
+* Go buy weed and finally have sex with your wife instead of her boyfriend all the time
+
+# ETFs and Tickers
+
+# Enter MSOS - American cannabis 🚀🚀🚀🚀🚀
+
+[MSOS  - AdvisorShares Pure US Cannabis ETF](https://www.etf.com/MSOS#overview)
+
+MSOS is the first US-listed actively managed ETF to provide exposure solely to American cannabis and hemp companies, including multi-state operators (MSOs). This is the second fund from AdvisorShares dedicated to the cannabis investment strategy. MSOS seeks long-term capital appreciation by investing entirely in legal, domestic cannabis equity securities
+
+Holdings are \~50% mutual fund and 21% derivatives. They are ready and have 💦very high liquidity💦 for the second that cannabis becomes recreationally legal. The agility of having 50% sitting in basically liquid makes it imo a top pick. Any first-to-market advantage that Canada or other countries have will quickly outstripped by proximity advantage of a local US brand. [US companies are waiting for the legalization will quickly hit economy of scales that other competing countries can't with respect to domestic consumption](https://www.dailyrecord.com/story/news/2020/11/06/legal-weed-nj-marijuana-farm-gets-ready-first-harvest/6167161002/).
+
+Popular Holdings: 100% American
+
+* Curaleaf CURLF 13% American
+* Green Thumb  GTBIF 12.6% American
+* Trueieve  TCNNF  12.7% American
+* Cresco  CRLBF  10.6% American
+
+Average volume: 1.14M
+
+52 Low 20.45
+
+52 High 47.55
+
+Market cap \~500M
+
+P/E -18.00
+
+I'm extremely confident in MSOS because it's not flashy like the others, has solid market cap and has grown the least in price of more enticingly named ETFs. People are missing out on MSOS. I am full on 💎✋ on this for at least 2-3 years. To me this isn't average investing because people will look at the chart and say 'not impressive' and go buy something else but when the chart looks bad is when the most money can be made.
+
+Disclosure - I'm 5 digits deep
+
+&#x200B;
+
+# Second fund - YOLO🚀🚀🚀🚀
+
+[YOLO](https://advisorshares.com/etfs/yolo/#yolo)
+
+This is where I throw you retards some fucking red meat because I know as soon as you see this people will say 'yolo on YOLO'.
+
+Yolo is less liquid than MSOS and is also far more international. So they will have gains from legalization but I strongly believe it won't be as much as American companies will see for painfully obvious reasons. I would say use this to sip international gains as the US steps into the world of legalized cannabis and completely normalizes it on the western world stage.
+
+YOLO has popular companies in its holdings (61% Canadian 28% United States)
+
+* Village Farms International VFF 9.38% Canadian
+* Green Thumb Industries  GTBIF  8.23% American
+* Trulieve Cannabis Swap TCNNF 7.60% American
+* Curaleaf CURLF 6.2% American
+* Aphria APHA 6.1% Canadian
+* Cresco CRLBF 4.2% American
+
+Average Volume: 902K
+
+52 Low 5.65
+
+52 High 22.85
+
+Market Cap \~250M
+
+P/E -9.00
+
+Never doubt the power of a name. This solid mix between several countries gives it strong diversified hedging against isolated national incidents.
+
+Disclosure: I'm 4 digits deep
+
+# Third MJ🚀🚀🚀
+
+[MJ](https://www.etf.com/MJ#efficiency)
+
+MJ is 50% Canadian and 33% American with 13.5% UK. MJ has popular holdings in it's top 10
+
+* Aphria APHA 11.4% Canadian
+* Tilray TLRY 9.9% Canadian
+* Canopy Growth CGC 7.8% Canadian
+* Aurora Cannabis ACB 6.2% Canadian
+
+Average Volume: 4.31M
+
+52 Low 8.81
+
+52 High 20.97
+
+Market Cap \~1.5Billion
+
+P/E -3.00
+
+The name is classic and the operation is very under way but I'm a little concerned that it's not nearly as heavy in the states as other ETFs and it's P/E still isn't positive. Regardless it holds some tickers that have been making **huge** waves lately.
+
+Disclosure: I do not hold this security.
+
+# TLDR: If you hear congress say anything about weed and you haven't already bought cannabis stock, Yes you're too late.
+
+&#x200B;
+
+Sources:
+
+* [https://worldpopulationreview.com/states](https://worldpopulationreview.com/states)
+* [https://thehill.com/opinion/finance/438242-the-federal-government-is-the-largest-employer-in-the-nation#:\~:text=The%20federal%20government%20employs%20nearly,employment%20in%20the%20United%20States](https://thehill.com/opinion/finance/438242-the-federal-government-is-the-largest-employer-in-the-nation#:~:text=The%20federal%20government%20employs%20nearly,employment%20in%20the%20United%20States).
+* [https://www.pewresearch.org/fact-tank/2019/11/14/americans-support-marijuana-legalization/](https://www.pewresearch.org/fact-tank/2019/11/14/americans-support-marijuana-legalization/)
+* [https://www.bloombergquint.com/onweb/gen-z-and-weed-the-u-s-generation-of-native-cannabis-consumers](https://www.bloombergquint.com/onweb/gen-z-and-weed-the-u-s-generation-of-native-cannabis-consumers)
+* [https://www.cdc.gov/mmwr/volumes/69/wr/mm6942e1.htm](https://www.cdc.gov/mmwr/volumes/69/wr/mm6942e1.htm)
+* [https://www.scribd.com/document/382710811/Marijuana-Freedom-and-Opportunity-Act#from\_embed](https://www.scribd.com/document/382710811/Marijuana-Freedom-and-Opportunity-Act#from_embed)
+* [https://www.ndtv.com/world-news/joe-biden-to-sign-inauguration-day-orders-on-covid-economy-says-aide-2353648](https://www.ndtv.com/world-news/joe-biden-to-sign-inauguration-day-orders-on-covid-economy-says-aide-2353648)
+* [https://mjbizdaily.com/giants-of-the-senate/](https://mjbizdaily.com/giants-of-the-senate/)
+* [https://www.ndtv.com/world-news/joe-biden-to-sign-inauguration-day-orders-on-covid-economy-says-aide-2353648](https://www.ndtv.com/world-news/joe-biden-to-sign-inauguration-day-orders-on-covid-economy-says-aide-2353648)
+* [https://mjbizdaily.com/exclusive-us-retail-marijuana-sales-on-pace-to-rise-40-in-2020-near-37-billion-by-2023/](https://mjbizdaily.com/exclusive-us-retail-marijuana-sales-on-pace-to-rise-40-in-2020-near-37-billion-by-2023/)
+
+Mods: I messaged you twice about this post and asked if it was okay so if something is wrong please don't ban me like last time._END_OF_POST_PYSTOCK_ NIO Printing Tendies: Call of the Month Hello retards I'm new to reddit but have been trading for a few years now. Here's my analysis on NIO, any feedback is appreciated.
+
+&#x200B;
+
+https://preview.redd.it/11dq4g1ts5c61.png?width=2880&format=png&auto=webp&s=c0eab8bb76eb57688a4cc5275da6ac8f2ae752cc
+
+$NIO sold off toward the end of the week and is now sitting .3 CENTS ABOVE THE NEXT FIBONACCI RETRACEMENT LEVEL... PERFECT ENTRY POINT. Once we clear the next Fib trend level, near term prices could easily exceed $80+ and would further validate our trend line, which still appears bullish even after the selloff. Moral of my rant BTFD (BUY THE FUCKING DIP)
+
+Great long opportunity especially considering a current RSI of sub 20 (way oversold) on no material changes in the company. We are still in a strong up-trend as can be viewed by the chart trend line and buying at an oversold level is an optimal entry point which is likely to continue given all technical factors.
+
+There seems to be a common misconception that it's impossible to compete with Tesla. Think of Tesla like myspace. They were one of the first social media platforms with a successful business model, dominating the industry until Facebook had solutions for flaws in the system users didn't even realize existed. NIO isn't the next Facebook. But we're going to see something very similar unfold. The EV industry is still so young. Tesla basically created it's popularity and no one's had the chance to truly assess, adapt, and develop a business model that legitimately competes, until NIO.
+
+Kick ass ET7 sedan they unveiled and next generation solid state batteries(providing 600+ miles of range on a single charge coming in the next year)
+
+Battery as a service and battery swap stations are also taking off in China, this decrease upfront purchase price and longer range batteries makes $NIO eligible to continue receiving government subsidies unlike many competitors.
+
+Tesla created the electric vehicle... NIO is reinventing the EV business.
+
+We rotate profits from GME we can easily push this gem past the recent ATH's and into price discovery and from their blastoff to the moon
+
+P.S. : Short ratio \~ 22% (gunpowder for a squeeze) Thank you Citron.
+
+🚀🚀🚀🚀Prepare for blastoff, 120+ price target🚀🚀🚀🚀
+
+Play it how you want but I'm LONG
+
+As always, not investment advice just my own calls.
+
+holding the March 19, 80c's, short the 50p's
+
+Will post trade results at a future date. Not selling for a long fucking time🚀🚀🚀_END_OF_POST_PYSTOCK_ In EU we have done our part today +19.62% 🚀🚀🚀🌝 I sold all my positions and bought more GME (I love well diversified portfolios) 🚀🚀🚀 let’s go to the fucking moon! GameStonks gang, united we will write a piece of history! _END_OF_POST_PYSTOCK_ What Are Your Moves Tomorrow, January 19, 2021 Your daily trading discussion thread. Please keep the shitposting to a minimum. 
+
+^Navigate ^WSB|^We ^recommend ^best ^daily ^DD
+:--|:--                                 
+**DD** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADD) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=week)
+**Discussion** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADiscussion) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=week)
+**YOLO** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AYOLO) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=week)
+**Gain** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AGain) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=week)
+**Loss** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ALoss) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=week)
+
+[Weekly Earnings Discussion Thread](https://www.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3A%22Earnings%20Thread%22)
+
+**Read the [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide) and make sure other people follow them.**
+
+Try [No Meme Mode](https://www.reddit.com/r/wallstreetbets/search/?q=-flair%3AMeme%20-flair%3ASatire%20-flair%3AShitpost&restrict_sr=1&t=day&sort=hot), also accessible through the top bar._END_OF_POST_PYSTOCK_ Yahoo finance article discusses recent 30% rise of BB despite no "significant news release." Hint: They missed us. Is BlackBerry (TSX:BB) Stock Headed for $20?:
+
+[https://ca.finance.yahoo.com/news/blackberry-tsx-bb-stock-headed-130033163.html](https://ca.finance.yahoo.com/news/blackberry-tsx-bb-stock-headed-130033163.html)
+
+When an analyst decides to upgrade a stock and it subsequently goes up the news will say "BB goes up after analyst upgrades."
+
+This Yahoo article is missing something. WSB upgraded BB to a strong buy.
+
+Solid DD has been presented from several people. Sentiment in the sub has increased. Now maybe there are actually other factors that impacted this stock. They do mention the 90 patents sold. However from my perspective it was WSB that caused this stock to rise. At the moment we are not being acknowledged, but I find it hard to see any other strong reasons. WSB upgrading a stock may sound hilarious and it may not actually be good that we are the reason it went up. However other people such as Cramer have started to mention us as catalysts to stock movement.
+
+I'm curious to see what might happen if mainstream financial news starts consistently reporting to boomers that WSB made their stonk go to the moon.
+
+BB gang 🚀🚀 🚀🚀🚀_END_OF_POST_PYSTOCK_ EarningsBot – Automated earnings estimates for upcoming company earnings (Not sure if this is the right flair)
+
+Hello everyone! I don’t know about you, but I love to make plays on company earnings. There’s nothing more exciting than eagerly waiting for that earnings call to come after you’ve locked in your position. I wanted a more quantitative approach to these plays. I made a machine learning model to assist in predicting whether or not a company would beat earnings. I present to you a personal project of mine: EarningsBot.
+
+**How does it work?**
+
+EarningsBot is trained to predict whether a company will beat consensus earnings estimates for the upcoming earnings report. The training data consists of features extracted from the previous 10Q statements like debt, cash, funds from operations, etc. The model is attempting to answer questions like “Will a company’s debt in Q3 impact if said company will beat earnings in Q4”? The model also considers if a particular company is always missing/beating earnings.
+
+**How accurate is the model?**
+
+The model has an accuracy of 65.8% on the test data set (data the model has not seen before).
+
+**What algorithm are you using?**
+
+I’m using a decision tree model (XGBoost).
+
+**What are some important features the model is learning?**
+
+Some features the model learned to pay close attention to:
+
+* Funds from operations
+* Global Industry Classification
+* Account payable/Creditors
+
+**How many data samples are you using?**
+
+I have data from 2008-2020 with a little more than 90,000 earnings reports from 8,725 companies. I’m using 2,541 features.
+
+**Don’t companies already have a natural tendency to beat earnings?**
+
+Yes, companies will beat earnings at a rate of 57%. However, we are still above chance!
+
+**What’s the point??? A stock can still go down even if they beat earnings!**
+
+Yes this is definitely possible, especially if there is negative news in the earnings report. However, I calculated the percent change in stock price before and after earnings for companies that beat and companies that missed earnings from 2008-2020. The average percent change in price after earnings announcements for companies that beat earnings is 1.6%. The average percent change in price for companies that miss earnings is -1.8%. So take that to the bank!
+
+**This is pretty vague, you got any source code?**
+
+I plan to have a proper write up on arXiv when I’m a bit less busy, and potentially some source code.
+
+**Shut up nerd just give me the ticker and tell me how I can make money off of this**
+
+This is for research purposes only so don’t use it as financial advice 😉. I take the companies that the model predicts as “will beat earnings” and split up $1000-$2000 as shares among them a couple days before earnings. Then after earnings, I dump everything and repeat. On average, my percent gain per trade is 1.73%.
+
+Thanks for reading 😊 please ask any other questions below and I’ll try to get to them!
+
+&#x200B;
+
+Here are some upcoming predictions for the next two weeks. Values closer to 1 means the model predicts the company "will beat earnings". Values closer to 0 means the model predicts the company "will miss earnings".
+
+**WARNING: THE MODEL IS TRAINED TO STRONGLY AVOID FALSE POSITIVES. THIS MEANS THAT IT IS HEAVILY PENALIZED FOR LABELING A COMPANY AS "WILL BEAT EARNINGS", WHEN IT IN FACT MISSES EARNINGS. BE CAREFUL IF TRYING TO SHORT A STOCK THAT IS LABELED AS "WILL MISS EARNINGS".**
+
+Week of 1/18/2021:
+
+https://preview.redd.it/qx95biw7l5c61.png?width=367&format=png&auto=webp&s=ec7e3faffd9ec6ca8c75dd35ae247abdcda5d846
+
+Week of 1/25/2021:
+
+https://preview.redd.it/k3o8ngubn5c61.png?width=358&format=png&auto=webp&s=1e388467c0c4d9d5cab745b9a88f33c0cc0b8887_END_OF_POST_PYSTOCK_ What everybody missed about the $MSFT & $GME deal Microsoft closed their stores [1] so where are they going to display all their products and distribute from? Hint: MSFT was happy to pay $GME [2] via multi-year rev-share deal. Don’t give me an award, think, then go buy what you know you should
+
+That’s right. As part of GameStop’s premium keep-only-the-best-stores and move-to e-commerce-first refresh $GME will sell $MSFT hardware...and I’m not just talking about the XBOX.
+
+Now think about those build-your-own-pc kiosks? See how big the big picture is? $GME 
+
+[1] https://news.microsoft.com/2020/06/26/microsoft-store-announces-new-approach-to-retail/ 
+[2] https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-multi-year-strategic-partnership-microsoft_END_OF_POST_PYSTOCK_ GME: The Dogman Rises _END_OF_POST_PYSTOCK_ Reddit Most Trending Stocks Updates Hey guys, 
+
+Following your suggestions. New updates have been added to the dashboard. 
+
+\- Now you can directly have your stock/ subreddit Bookmarked in the Screener while specifying your choices in the url. Example ' [http://unbiastock.com/redditScreener.php?defaulticker=GME&defaultredd=wallstreetbets&plotauto=yes](http://unbiastock.com/redditScreener.php?defaulticker=GME&defaultredd=wallstreetbets&plotauto=yes) '
+
+\- You can directly access the stock page in the dashboard from the table of most trending reddit stocks.
+
+\- Some Tickers have been filtred as they don't represent tickers. Do not hesitate to report more! 
+
+Again, thanks a lot for all your help and suggestions !! You guys rock! Don't hesitate to share more ideas and suggestions, even though I feel I am going to get fired from my daily job very soon ... 
+
+Swiss-Rock,_END_OF_POST_PYSTOCK_ $GME 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ Cramer dodging questions on the GME squeeze. I think you're missing the point Cramer, the squeeze isn't over. _END_OF_POST_PYSTOCK_ Even yahoo news says you should hold _END_OF_POST_PYSTOCK_ BB is up almost 30% on the Mexican Exchange! 🚀🚀🚀 _END_OF_POST_PYSTOCK_ There is hope BB autists 🚀 up 27% in Mexico today. Prepare for launch _END_OF_POST_PYSTOCK_ Limit Up Limit Down (LULD) rule does not apply for GME high limit sell orders _END_OF_POST_PYSTOCK_ The battle for GME. _END_OF_POST_PYSTOCK_ Melvin shorted Nintendo during Switch release So, this Plotkin guy seems to have a thing against video gaming. I found this link on Youtube from the Bloomberg channel: [https://www.youtube.com/watch?v=zCxbY1erG7U](https://www.youtube.com/watch?v=zCxbY1erG7U)
+
+Apparently, he shorted Nintendo when the Switch was released and made a profit of $400 million. Pretty ballsy short, but damn, targeting the gaming industry seems personal to me now. Maybe a nerd one upped him by banging his girlfriend and his girlfriend's best friend (short haired anchor), who he was also seeing on the side. I don't know. Just thought it was interesting and wanted to add more gasoline to the fire for Tuesday.
+
+TLDR: 🌈🐻 fucked over Nintendo in the past, so let's fuck them back harder 🚀🚀🚀
+
+POS: 400 shares and another $15k at the open 💎🙌_END_OF_POST_PYSTOCK_ $STLA why I’m wasting my money on this turd 1. Fiat Chrysler merged with French auto maker Peugeot to create the worlds 4th most retarded automaker, Stellantis.
+2. In a desperate attempt to do appear relevant Fiat Chrysler recently announced a partnership with an electric flying taxi startup called archer. This move shows me that this company will come up with some super retarded shit to pump the stock
+3. $STLA looks like $TSLA, I say it’s about time someone profits off of dyslexia.
+
+For true retards 
+March 2021 $22.5 calls
+For half retards 
+January 2022 $25 calls
+For non retards
+January 2023 $22.5 calls_END_OF_POST_PYSTOCK_ WTF is happening in Mexico?! $BB _END_OF_POST_PYSTOCK_ Sat at my Girls reading WSB all day,and only just looked at this artwork I’m sat next to. It’s a sign. _END_OF_POST_PYSTOCK_ 🚀 Ready for Liftoff 🚀 _END_OF_POST_PYSTOCK_ I'm starting to think the Dummy from the Cohen tweet represents Jim Cramer himself.... I think the Dummy from the Dumb and Dumber gif tweeted by Ryan Cohen represents Jim Cramer, and I think this because of a series of tweets.
+
+I'f you look at Cohen's past tweets, there's a theme.
+
+[Tweet #1](https://twitter.com/ryancohen/status/1336775515101949963?s=20): Ryan Cohen tweets an article about Jim Cramer himself saying that GameStop will be the next Blockbuster. This tweet was from  Dec 9, 2020
+
+[Tweet #2](https://twitter.com/ryancohen/status/1344687817998401537?s=20):   Dec 31, 2020 Cohen tweets a quote from Benjamin Franklin:
+
+>An ounce of prevention is worth a pound of cure
+
+I take this to mean that Cohen aims to prevent bankruptcy, given his current focus.
+
+[Tweet #3](https://twitter.com/ryancohen/status/1346943412663177218?s=20): Cohen tweets a picture of blockbuster, accompanied by a shit emoji. Message is clear.
+
+[Tweet #4](https://twitter.com/ryancohen/status/1350877969816956934?s=20): Cohen's infamous  Dumb and Dumber tweet from last night. But what does it mean?!?! Who was the dummy? Well, let's take a look at Jim Cramers twitter.
+
+[Tweet #5](https://twitter.com/jimcramer/status/1351205382434250755?s=20): Today Cramer tweets to attack GME for not returning his calls, as well as misrepresents some details about a stock sale.
+
+5 tweets, back to back ,in chronological order, all starting with Jim Cramer calling GME the next Blockbuster, and ending with Cramer complaining about Cohen ignoring his phone calls.
+
+So, instead of answering of returning Jim Cramers calls, who is undoubtedly calling about GME bankruptcy/The Big Fucking Short Squeeze, Cohen tweeted the Dumb and Dumber gif to mock him.
+
+Jim Carry in that gif represents Jim Cramer himself desperately clinging on a chance for bankruptcy, when Cohen believes there is not chance. That's my theory, at least._END_OF_POST_PYSTOCK_ YOLO over $34k in $GME _END_OF_POST_PYSTOCK_ My WSB Academia: GME Rising _END_OF_POST_PYSTOCK_ 🚀💎 A Message to GME Holders from Bogdanoff! 🚀💎 _END_OF_POST_PYSTOCK_ Yellen Says Printer Goes Brrrr into 2021 and Beyond! _END_OF_POST_PYSTOCK_ GME Gang - if you're up a lot, also consider a thank you to GameStop employees that are every much a part of this as you are. Yesterday, we handed some of these out to employees at the local GameStop’s. They are a part of the reason we are up so much. Please if you’ve benefited from this a lot, those employees deserve this - consider doing something similar.
+
+&#x200B;
+
+https://preview.redd.it/jn9p0bwq15c61.png?width=1147&format=png&auto=webp&s=6718a3232cf38621fd0e2c86923cb3752f729444
+
+\*not a flex just hoping to inspire others to do similar\*
+
+Not sure why the image isn't showing up but here's an alternate link:
+
+[https://stocktwits.com/Slantedangles/message/274590043](https://stocktwits.com/Slantedangles/message/274590043)
+
+&#x200B;_END_OF_POST_PYSTOCK_ BB currently trading in Toronto at 13.15 CAD so BB will open at 10.31 USD tmr on NYSE. That’s 8% gain from 9.55 USD close on Friday. Still fuelling 🚀🚀🚀 _END_OF_POST_PYSTOCK_ The effect of short interest on stock performance, academic work _END_OF_POST_PYSTOCK_ A retard's take on China, ADRs(NIO BABA) and Soft Power **TLDR: China would lose their soft power, banks and people would disinvest in China if they didn't honor their ADR/VIE agreements and would set China onto the path of future economic ruin and upheaval like the USSR - I could be wrong though but read on for my analysis with references (mostly!)**
+
+&#x200B;
+
+I've seen a few posts about ADRs/VIEs recently talking about how all chinese stocks (NIO BABA TENCENT) are based in the Cayman Islands and no one's really buying stock in these chinese companies and that China has no need to uphold these agreements - As a disclaimer, before I go on, I was to say I do own stock in NIO and BABA as well as AMZN, AAPL and a few other small AI companies.
+
+While many of you may be technically correct about ADRs/VIEs, it fundamentally ignores the foreign policy climate of almost all countries and more specifically ignores the way China's foreign policy is being conducted right now - I'm not an expert and you should of course do your own DD but what I've noticed from all these posts is that they are all ignoring the idea of Soft Power.
+
+**Lets define what soft and hard power are**: I've taken these definitions from wikipedia, because they're concise and as always wikipedia is well referenced (damn teachers!)
+
+Soft power: In politics (and particularly in international politics), soft power is the ability to attract and co-opt, rather than coerce (contrast hard power). In other words, soft power involves shaping the preferences of others through appeal and attraction - Foreign Aid is an excellent example of the use of Soft Power
+
+Hard Power: Hard power is the use of military and economic means to influence the behavior or interests of other political bodies. This form of political power is often aggressive (coercion), and is most immediately effective when imposed by one political body upon another of lesser military and/or economic power
+
+**Why is this important?:**
+
+While China is on its way to becoming a global superpower its not there yet, there are more economically reliable countries (US) and countries with more functional military might (Russia and US) - I say functional here because military might isn't just man power and number of soldiers.
+
+China uses hard power when it comes to domestic policy, through the use of censorship, coercion of officials, imprisonment of dissidents and so on and so forth. ([https://www.amnesty.org/en/countries/asia-and-the-pacific/china/report-china/](https://www.amnesty.org/en/countries/asia-and-the-pacific/china/report-china/))
+
+However, they've also learnt from the collapse of the USSR which collapsed in part due their international and economic isolation among other factors ([https://www.britannica.com/story/why-did-the-soviet-union-collapse](https://www.britannica.com/story/why-did-the-soviet-union-collapse)) - Now China doesn't want that to happen and to ensure it doesn't, it's followed an interesting hybridisation of communism and capitalism where private companies are closely linked to the government but are allowed to compete and have private ownership. However this has meant that chinese companies and by extension China as a country has to be attractive to outside investors and that's where soft power comes in.
+
+Throughout the pandemic and even before China has been trying to expand its soft power further in the hope of eventually leveraging itself into the world's leading super power. Case and point is the Free trade agreement it signed with 14 other asia-pacific countries creating an even larger free market than the eu (16% vs 22%) ([https://www.theguardian.com/business/2020/nov/15/china-and-14-asia-pacific-countries-agree-historic-free-trade-deal](https://www.theguardian.com/business/2020/nov/15/china-and-14-asia-pacific-countries-agree-historic-free-trade-deal)). While this gives it more economic power, it also gives china great headlines!
+
+This isn't the only way China is trying to garner a better image of itself and therefore more soft power - For a long time, China has been and is commonly viewed as one of the largest polluters in the world ([https://ge.usembassy.gov/chinas-air-pollution-harms-its-citizens-and-the-world/#:\~:text=The%20People's%20Republic%20of%20China,health%20and%20the%20world's%20economy](https://ge.usembassy.gov/chinas-air-pollution-harms-its-citizens-and-the-world/#:~:text=The%20People's%20Republic%20of%20China,health%20and%20the%20world's%20economy).), pollution that has been killing around a million of its citizens a year - so to not only improve their citizens lives (though how much of the main motivation that is I'm very skeptical) but to also capture the ongoing trend of renewable energy becoming the dominant energy market in the next decade or two, China has been pouring money into clean energy initiatives, so they not only capture a significant slice of an upcoming dominant market but they are also able to position themselves as the clean energy capital of the world.
+
+Let's be clear though, the current pandemic has affected their soft power and reduced it massively which leads onto the crux of my argument.
+
+**How Soft power relates to ADRs/VIEs and Stocks?**
+
+For China to successfully follow through with their plans (leveraging soft power into economic might - the tried and tested american way to an extent - except america had WW2 and the Marshall plan to reach this point sidenote: I know that's massively reductive and there's a lot of other factors involved in america becoming a superpower including a shit load of hard power i.e. nuclear bombs and military might) they require investment not just from domestic sources but foreign sources otherwise they gain no soft power. So how does this relate the ADRs/VIEs:
+
+If China and Chinese companies were to renege on their agreements with these shell companies, it would lead to major banks, hedge funds and entire countries to disinvest from the chinese economy - a counterpoint I can imagine in the comments may be that it's technically not a reneging because the these chinese companies and chinese law doesn't state that you can own shares but the optics of it certainly are. Every major newspaper would be covering it, people who have invested would be using their soft power (their vote) to push for harder line on china and so would banks who would be disinvesting by their droves from chinese ADRs/VIEs. I know I wouldn't be buying anything from China again because the risk is too high and that would be the most dangerous thing for the chinese government. They are trying and have until now succeeded in creating an image of a stable thriving economy
+
+Disinvestment may sound sensationalist and to an extent I would agree it may be but the most recent example is BABA stock - The disappearance of Jack Ma not only lead to a massive drop in BABA stock but countless headlines about how dangerous it is to invest in Chinese companies - and while I'm sure Jack Ma when he returns will have to change to adapt to his potentially curbed reality, the chinese government will have also realised that they'll need to adapt to ensure that they don't lose the soft power they've spent over 40 years cultivating ( look up Deng Xiaoping's China reform and opening-up policy).
+
+And to address comments that I'm sure will say China can be self sufficient without any foreign investments - I'm sure they can but that path has until now lead to ruin for other countries, the primary example being the USSR and a less prominent example being North Korea. The chinese government is ruthless, efficient and they're certainly not stupid.
+
+Of course if anyone thinks I'm wrong, please let me know - I also understand that the BABA example is more nuanced than how far I've gone into it because of Jack Ma's Ant group going onto central bank turf but the logic behind the point stands.
+
+Hong Kong is an interesting counterpoint to my argument, but I would say that to a certain extent, Banks knew HK would be bought under the CCP and still think they can make money there - also Hong Kong massively damaged Chinese Soft power and if there had been a better president I think the effect would have been huge but there wasn't and the markets are over it - if ADRs aren't honoured, then Banks and hedge funds would lose money and I think that that's their bottom line and a red line for them - I could be wrong though
+
+Edit: The other response I've seen is that under chinese law VIEs are illegal and China can just declare them as such and we'd all be shit out of luck - and while yes it could do that, that would be one of the greatest acts of self harm conducted by a nation in history, there's around 2 trillion in Chinese VIEs (FT 2019 article - can't find the link rn), for China to declare them invalid would essentially be China putting itself into complete total international isolation and this idea also ignores the fact that China is also heavily invested in the US, owning around 1.1 trillion in US debt and the Yuan is tied to the dollar - all in all would be mutually assured destruction that China would most likely not recover from _END_OF_POST_PYSTOCK_ Are you a GMEtard that needs to re-up on your faith in Gamestop after the long weekend? Read my $36 --> $2.6k gains journey from (9) GME 1/15 Calls What’s up fuckers, so let me start this off by saying I’m probably one of the smaller fish in this retarded fish pool but I wanted to share my experience with GME this last week:
+
+Last week I threw $36 on GME: (8) 1/15 $34c's and (1) 1/15 $30c; based off the news that there was an agreement with new investors. And holy fuck, Wednesday that blew up into $3k+; my account went from $700 to $4k with a peak of $9k. The wild part is I tried selling the (8) $34c’s for .03 the night before… 3 times. I ended up selling 7 of the $34c for $1,600 on 1/13 in 2 batches to re-invest into other options/stock. Decided to show GME some faith after reading about the shorters, bought 10 shares @$35 and decided to ride it out with my 2 remaining contracts since they expire Friday anyway.
+
+I wasn’t used to this kind of money, and frankly I told myself I would take some out if I hit like over $5k, but of course being the retarded fish that I am, I held my positions through Friday resisting the urge to sell. Now unless I’m understanding this wrong, I wanted to do my best not to sell my ITM calls to some shorters (thinking they'll exercise it to buy back cheaper shares). SO I ended up selling ALL my call options (including the GME $34c as it spiked to $37) and ALL my stonks at 2:45 on Friday to be able to exercise MY FUCKIN RIGHT to buy 100 shares of GME at $30 before RH sells my contract for pennies at 3pm to some Melvin dude who’s trying to short GME. Hoping my $30c beats out their newly bought $34c in the greater push. I heard options don't affect the stock price as much but I thought it would be a great (and safe) way to buy into GME👊
+
+Point being now… 100 shares into GME and 💎🙌 till we 🚀🚀🚀🚀🚀!!!! Not really much compared to some, but now it’s 94% of my portfolio. They just turned me from a nobody into a degenerate soldier ready to stick it to the big guys and hold this app true to it’s name.
+
+&#x200B;
+
+PS-
+
+This is my first post since the mods won’t let new accounts post (at least in the comment section). Been watching this sub from a dark corner since Thanksgiving and finally had the balls to help and post about how AAXN was about to moon last week due to the armed protests but got blocked so quick because my account isn’t a month old (new to reddit in general). Not mad, just another part of the story😁 Today, technically yesterday, is the first day I can post according to the mod message so I’ll leave you with this:
+
+WSB fuckin rocks!!! After being put through the ringer of the corporate world and pyramid schemes, I'm PUMPED I found a community to make some serious money with... and on our own accord. I have so much thanks to give to you guys so just wanted to share my 1,767% gains porn for the year and finally say "Hello". Hoping this gives inspiration to any GMEtard ready to ride this blast from the past all the way into the fuckin moon and blow up in a beautiful explosion of tendies 🚀🌑🤑
+
+\- another GMEtard,
+
+standing by and ready for orders..
+
+[Portfolio GAINS 1WK](https://preview.redd.it/gd0by768y4c61.jpg?width=644&format=pjpg&auto=webp&s=2c3939b16529a9e9e9a1b1e8e997b9db6fa7214d)
+
+[Portfolio GAINS 1 YR](https://preview.redd.it/nb5uky58y4c61.jpg?width=666&format=pjpg&auto=webp&s=2e1d67ae641a08fcaa38efc04153fd8886cb026f)
+
+[GME OPT 12,400&#37; GAINS \(Bonus: \\"69\\" appears twice\)](https://preview.redd.it/unj4et58y4c61.jpg?width=697&format=pjpg&auto=webp&s=f2d9ddde98d946b61495fd851f9103aad051f123)
+
+[GME $30c GAINS](https://preview.redd.it/fuko3v58y4c61.jpg?width=744&format=pjpg&auto=webp&s=a4b75f8a1fd632b61efdc37e9913fc369ab19826)
+
+[GME $34c GAINS](https://preview.redd.it/6zy8rx58y4c61.jpg?width=807&format=pjpg&auto=webp&s=1e47ffebca2705ee51da2dfe989c34f5a0ac4f2c)
+
+[GME History PT 1](https://preview.redd.it/a08l6268y4c61.jpg?width=557&format=pjpg&auto=webp&s=8f97b54cc828f691c521f6c6b1da8d18d311ca17)
+
+[GME History PT 2](https://preview.redd.it/vaxk7w58y4c61.jpg?width=742&format=pjpg&auto=webp&s=5061cd673ee4f147367d7648fcf0521e37aff015)
+
+[GME EOW Position](https://preview.redd.it/37koh468y4c61.jpg?width=657&format=pjpg&auto=webp&s=3337f9abf40bd35cbd8b43da153b92987c8fd005)_END_OF_POST_PYSTOCK_ Indian Stocks $TTM $WIT $INFY While the GME gang and Tesla finish up posting their Gain porn from last week I wanted to talk about a boomer level DD.
+
+I had started working on this post last week and never posted on it, but I still think Indian stocks had significant value moving forward. The Indian economy is growing 8% a year which is 2% greater than the US economy year over year. The entire infrastructure in Indian is still being built, so the country hasn't even really started its industrial revolution. This means its established companies have a lot of room to grow with an emerging market of 1BILLION people.
+
+&#x200B;
+
+$TTM was my safest bet, but it already started its climb thanks to Tesla. In the last two weeks alone $TTM climbed from 11.50 to 18. They are a car company that is moving into the EV landscape and will likely be Tesla's main competitor in India. The main advantage they have is existing relationships with the Indian state governments. Government contracts in India are extremely important because each state has its own cultural identity. They don't conform to the popular culture of Delhi and are actually more likely to give there business to a company like Tata Motors. This gives TTM a huge advantage since it has contracts in the southern Indian states (most recently Kerala). If companies like XPev and Nio have sustainable interest Tata Motors should be a clear favorite. 
+
+&#x200B;
+
+The company I am most interested in is Wipro ($WIT). This is an information technology company worth billions. They had been struggling for years before 2020, when they replaced their CEO with a much more aggressive executive office. Since then their growth as been apparent and they are taking a more revenue driven approach. Now why would this company trading at under $7 a share have value? Well 80% of this companies revenue is currently in North America and Europe. That means this Indian company has NOT even tapped its own market. That is about to change, starting in April Wipro is taking over the Indian locations of a German company Metro AG. This deal was worth 700million when signed, but does not actually take affect for a couple of months. That means the current 6.4 stock value will rocket in about 4 months. This takeover is the start of Wipro having regional monopolies in Indian, something that is not heavily legislated in their country. The stock has mid term growth protentional and June options for this company are currently really cheap. Its not an overnight gain like GME, but this one should pay off as the US economy may start to falter.  
+
+&#x200B;
+
+I am currently in on both of these and $INFY for shares and calls. As we get closer to April I will probably YOLO on Wipro options, so you can look out for that in a couple months._END_OF_POST_PYSTOCK_ Someone is Mad He Didn't Get a Call Back. _END_OF_POST_PYSTOCK_ Jim Cramer: "Don't you get it? It's on the moon.. the insiders are bailing.. you need to be concerned about life AFTER the squeeze." _END_OF_POST_PYSTOCK_ How it all Began.. _END_OF_POST_PYSTOCK_ Been too long since we've had a bearpocalypse post 🐻 that should tell you something. 20k QQQ SPY put play This idea is largely built off of the work of a volatility trader I've been following on twitter. CK if you're reading this and want to be credited lmk, I'd link you but I don't want an army of idiots trolling you
+
+Premise : the last 2 months has been a rocket fuel of market uppies thanks to the absurd amount of election hedging that happened for Nov election. [https://www.cboe.com/insights/post/57/](https://www.cboe.com/insights/post/57/) As those election hedges expire, they provide a "Vanna" flow, which is volatility decay in options pricing which in turn has market makers (the people selling you options) buying back stonks as they dynamically rehedge [https://spotgamma.com/options-vanna/](https://spotgamma.com/options-vanna/) (im gonna be honest I barely understand this concept). I'm sure a lot of you noticed how much the market spiked up Nov 4th even though the election wasn't close to resolved = that was an artifact of these election hedges expiring which in turn causes market makers to buy delta uppies in indices as they unwind from their hedges.
+
+This last week was the first week where the last of the election vanna from these flows was cut in half, and what did we see? A mildly red week. Next week vanna flows will be gone, and there will be a two week window where the market will be without these flows since we're entering a 5 week opex cycle. No big deal right? People will buy the dip and what not?
+
+Well, maybe. Right now it looks like everyone is positioned extremely long. Look at WSB, no one has made a bearpocalpyse post in forever. Call buying is literally at all time highs right now  
+
+[https://twitter.com/sentimentrader/status/1350457253250396161?s=21](https://twitter.com/sentimentrader/status/1350457253250396161?s=21)
+
+And it makes sense, this last year has created an army of people who have won massively in the bull market and they think they understand how the market works. Right now we're past all the main things people were worried about 1) election, one way or another, is done 2) covid vaccines are coming out, theoretically we should be back to life as we knew it somewhat soon 3) stimulus is coming, Mama Yellen gonna make it rain Buyden's gonna have ur back etc. == Everyone's bought in long right now. Which is fine but it means that there isn't much money left to buy at these levels nor to buy any dips that come
+
+The big question no one knows is how much pain everyone can take on the downside before stop losses start getting hit from overleveraged longs, or before forced liquidation starts to happen. There \*could\* be a cascading liquidation event that starts slowly starts snowballing on itself.
+
+There are some other important concepts here that frankly I just don't understand, something about this 5 week opex cycle meaning that the last week of the opex is actually gonna be bearish vix or something which means that we \*could\* end up in backwardation = iVol gets bid up in the next week of the 5 week opex cycle, which can/will further put downward pressure on stonks.
+
+Also the rotation from tech - value taht is going to happen as Mama Yellen induces meaningful inflation (which hurts growth stonks but helps value like GME) could cut some of the tech rallies in the near term. What happens when you have a tech rally that's been gamma fueled and the 🚀 stalls? These things work down the same way they went up.
+
+THE PLAY : I'm holding these puts thru the week, if by 1/22 we see a meaningful sell starting, I'm going to lean into it. If there is no meaningful sell by then, I will flip long again and cut out the short shit. \*Meaningful sell\* per the twitter source I follow is 1 standard deviation below the 20 day moving average. I have no idea what hte fuck that means so I'm just gonna use my guts and see if I"m feeling like staying 🐻 or not on Friday
+
+Positions  
+
+[https://imgur.com/gallery/UCq8bIQ](https://imgur.com/gallery/UCq8bIQ)
+
+(Ive got random tech puts too from shit that I think could get squashed coz of extreme growth that's priced into SNOW ZM) Also long GME af the rest of my portfolio is basically GME calls. GME is on it's own planet and if the market floor really falls out shorts are gonna get margin called and GME to the moon etc._END_OF_POST_PYSTOCK_ NIO battery swapping station vs Tesla supercharger analysis NIO battery swapping station vs Tesla supercharger (efficiency, space) 
+
+NIO’s 2nd generation battery swapping station:
+- holds 13 batteries
+- takes up four parking spaces 
+- can swap 312x per day (5 mins/swap)
+
+Tesla’s supercharger:
+- takes up one parking space
+- takes 75 mins to 100% recharge (max: 19.2x/day)
+
+Assuming full capacity, in order for Tesla to fully recharge 312 batteries/day, Tesla would need 16.25 superchargers (16.25 parking spaces). 
+
+Efficiency: NIO wins (5 mins vs 75 mins)
+
+Space: NIO wins (4 parking spaces vs 16.25 parking spaces). This is especially important in crowded cities like Shanghai, NYC where land is expensive.  
+
+I don’t have the cost of NIO stations and Tesla superchargers so I can’t do a cost analysis.  I know the cost of 2nd generation stations is 1/2 the cost of first generation so cost is going down.  
+
+NIO is planning to double its swapping stations to 500 by the end of 2021.  Therefore, NIO would need 500 x 13 batteries = 6,500 batteries.  Assuming each battery cost $10,000...the total cost is $65m.  
+
+Unknown:  Can Tesla reduce recharging time? It is possible but due to safety and degradation issues, recharging time has not changed much over the years.
+
+Update:  I used 100% recharge for comparison purpose.  It takes a Tesla supercharger 40 minutes to recharge 80% of the original 85kWh battery.  Even if I were to compare 80% of Tesla  (supercharger) to 100% of NIO (battery swapping station), Tesla would still lose by a mile._END_OF_POST_PYSTOCK_ My $247,688 GME YOLO _END_OF_POST_PYSTOCK_ BB up 8% in Mexico 🚀 get prepared for a week full of tendies _END_OF_POST_PYSTOCK_ $BB Blast Off [Official Film Release] [1/18/21] [thx for 1.5k ^ on trailer, to the moon!] _END_OF_POST_PYSTOCK_ An Interstellar Dip _END_OF_POST_PYSTOCK_ FYI, US market may be closed, but Canadian is not. BB is crosslisted as BB.TO Don't let the holiday get in your way of tendies (if you're able to trade in the Canadian market that is) 
+
+Also, not sure as I can't check against current American prices, but I'd guess OTM calls of BB would be cheaper on the TSX, most Canadian stuff is.
+
+Edit: Here's what I bought, we'll see how things shake out tomorrow. I didn't have much that I could liquidate as I don't keep much on the Canadian side of my account, but here it is.
+
+Everything converted back to USD
+
+4x 18/06/21 $10.19c @$2.59
+
+8x 22/01/21 $10.58c @$0.48_END_OF_POST_PYSTOCK_ The New Wolf of Wall Street ft. DeepFuckingValue & Uberkikz _END_OF_POST_PYSTOCK_ GameStop Monday Notes - The Rocket is fueling up 🚀🚀🚀🥜 # It has been a wild ride so far - and it gets crazier by the day...
+
+&#x200B;
+
+https://preview.redd.it/0rczw3dcp3c61.jpg?width=260&format=pjpg&auto=webp&s=75a07e89ddbff71469b8e33ea7c26393d3216a35
+
+Holy \*\*\*\* everyone! After my post on Friday explaining why that day's dip wasn't problematic a lot of things have happened. Once again, **thank to everyone for holding the line**!!! And also thanks to **everyone who keeps buying into the cause**. Stay put (aka don't press the f\*cking sell button)... Keep in mind, that not only are we likely to make big dollars but we are also protecting 45,000 people who work at a company that was important in many people's childhoods - and soon will be relevant for future generations again. Without further ado, here are the updates regarding GameStop:
+
+&#x200B;
+
+# 📅 A Summary of GameStop's moon mission
+
+***GENERAL INFORMATION***:
+
+* At this point we have many different investors that are in it for the long term (sorted by investment size): **Fidelity** (including their Intrinsic Opportunities Fund), Daddy Cohen's **RC Ventures**, **Blackrock**, **Susquehanna**, the OG u/DeepFuckingValue, and of course us *fellow retards* \- among others
+* GameStop is still a Fortune 500 company which operates as the **WORLD'S LARGEST MULTICHANNEL VIDEO GAME RETAILER**
+* The firm has huge potential for expansion (including in ecommerce) as the **video game market is valued at $160 billion dollars** with an estimated **Compound Annual Growth Rate of 12.9%** (according to *Grand View Research).*
+
+***SHORT INFORMATION (Ortex Estimates; exact Updates not for another week)***:
+
+* *Estimated short interest*: \~72 Million (decreased after spike but still up from 2020 EOY)
+* *Estimated short float*: still at \~**101%+** (other estimates as high as 180%)
+* GameStop is still on the **SEC threshold list for 28th consecutive days**
+* Cost to borrow increased by an estimated 14.2%
+* Around 80% to 85% of shorts were likely shorted with a stock price under $20  ❗ ❗
+
+***NEWS***:
+
+* Jim Cramer acknowledged that the short busting seems to be working
+* Fidelity, IBKR and Schwab are confirmed to have eliminated/limit margin on $GME (heavily limiting short sellers)
+* Outgoing board members sold a total of nearly $20 Million dollars in stock on Friday sending the stock tumbling bc of the news. Having that said,  💎 **✋ s** saved the stock from a potential panic selloff
+* **Ryan Cohen Tweeted yesterday (1/17): Peanut Emoji & GIF saying "So you're telling me there's a chance".** The actual meaning remains unclear but many interpreted this as his confirmation that there is a chance for an infinity squeeze 🥜🥜🥜
+* Multiple sources have confirmed that PC-Building Stations are coming in near future (mini microcenter-style)
+* Uptick rule (SEC 210) is in effect until at least EOD Tuesday
+* **$GS2C (Frankfurt) is up nearly 17% at the time** of writing this DD (on a NYSE holiday)
+* Webull and Etoro disabled shorting $GME
+
+***OTHER FACTORS***:
+
+* There are talks about **potential margin calls** (which would strongly affect shorts)
+* Additional stimulus potential will increase the WSB meme buy
+* u/TitusSupremus DD post ended up on Reddit's popular page (with 300+ awards and 11k+ upvotes) making it inevitable for Reddit users outside of this sub to miss out on this. (This play has literally reached the Front Page of the "Front Page of the Internet")
+
+**News about GameStop seem to be never-ending. This renders technical analysis nearly irrelevant as well. Despite some major publications releasing a bearish outlook on the firm, the bullish signs are overwhelming**
+
+&#x200B;
+
+# 🔮 Outlook over the coming days:
+
+* Expect yet another highly **volatile day/week on the market**. Be careful with options at the moment; shares are likely the way to go and will also help the cause more...
+* There is no doubt that the **potential for another squeeze exists** (maybe even a legendary MOASS)!!!
+* Even if the squeeze does not happen (for whatever reasons) this stock is an **absolute value buy**, as many people before me have explained here. Another reason to go with shares rather than options!
+
+**As long as idiots don't 📄✋ there is a fairly low potential for downside and HIGH POTENTIAL FOR LARGE UPSIDE on the LONG POSITION**
+
+&#x200B;
+
+# 🐻 Media Outlets, Melvin & other short sellers
+
+I feel like I am a broken record, but GameStop is here to stay. I know WallStreetBets will never change your mind but if you were honest you would go back an analyze past short squeezes.
+
+Let's take the example of KBIO's 10,000% squeeze:
+
+* KBIO was entirely defunct and insolvent unlike **GME which actually has an amazing opportunity in a fast-growing space**. The childhood memories of most American's and brand recognition alone play a huge factor. Plus, their subsidiaries are solid as well!
+* **Fundamentals don't matter in these situations**... it's a result of a variety of different factors that cause a short squeeze, and now you have an unprecedented influence: bullish individuals who will never give up - aka us!
+* Most squeezes undergo a similar sequence of events:
+
+1. Shares are **massively over-shorted** (over 100% is banned by some governments for a reason)
+2. **Big news regarding the overhaul** of the firm (happened with RC ventures buying in and overhauling board control)
+3. Forced **borrow recall** and/or margin removal (this already started)
+4. An actual squeeze happens as **panic breaks out** among short sellers - it's just a matter of time before someone starts folding (BTW, doubling down on shorts in this case is a horrible bet and has barely ever gone well after a squeeze)
+
+* News Outlets and analysts tend to focus on patterns or traditional methods of pricing stocks. There is no way to say that this will be a good stock to short and therefore short selling downside far outweighs the upside.
+
+&#x200B;
+
+**EASY TO SHORT does not mean EASY TO COVER. Now it's time to realize that SHORTING THIS STOCK WAS A HORRIBLE IDEA and in fact STILL IS A HORRIBLE IDEA. For institutional and retail short sellers alike: you may see the same consequences as $KBIO short sellers did - many of which went bankrupt. LONG POSITIONS are the way to go.**
+
+&#x200B;
+
+Note: For everyone who is new to this, please be aware that options have low impact on share prices and that volatility (among many other things) plays a huge factor in your trades. Be careful with your trades and always do your own due diligence. This is for educational purposes only.
+
+PS: 🚀🚀🚀🚀
+
+PPS: Now would be the perfect time for an announcement by GME for future plans. Even a small announcement relating to a technology-shift will slingshot-launch our moon mission. Maybe a potential for that happening as GameStop canceled appearance at ICR?? This is a big maybe, hence just a note as PPS...
+
+&#x200B;
+
+Positions: 190 shares (for the long run), 5 1/22 $38c (very risky and make up full reinvestment of my calls that printed last week) - will buy more shares tomorrow morning
+
+# CAN'T STOP, WON'T STOP, GAMESTOP
+
+&#x200B;
+
+TL;DR: Over the weekend we have seen more bullish signs than anticipated. Even if we don't see a squeeze, we for sure have a value stock on our hands. $GME goes to the moon no matter what...
+
+Edit: GME Mexico is up 24.4% as of 12:15 ET 🚀🚀🚀
+
+Edit 2: Cramer just tweeted saying we are already on the moon. Keep in mind he was wrong about $GME before - and we showed him!!! And guess what... we will fucking do the same thing again
+
+Edit 3: For the people who are tracking non-us GME: Mexico is up 40% and Frankfurt (aka Germany) is up 15.9% as of 1:15 ET 🥜🥜🥜
+
+Edit 4: As of 4.45 PM, iBorrowDesk has reported a borrowing cost of 54.1% (a nearly 80% increase)_END_OF_POST_PYSTOCK_ My whole life savings. Is this enough diversification ? _END_OF_POST_PYSTOCK_ Short Walmart (WMT) (w/ technicals) _END_OF_POST_PYSTOCK_ Charlie Munger latest: on money printer going brrrrrrr Transcript from his recent Caltech interview (14 Dec 2020):- 
+
+Interviewer: Are you expecting next 10 years to have lower returns in the equity markets than in the last 10?
+
+Grandpa: Yes. The answer is yes. 
+
+Interviewer: Could you give us a hint as to why that might come to pass? 
+
+Grandpa: Because so many people are in it; and the frenzy is so great; and the systems of management - the reward systems are so foolish that I don't think it's gonna work at all. I think the returns will go down, yes. In real terms: the returns will be lower. 
+
+Interviewer: What do you think of the combination of (quantitative easing + large fiscal deficit), and where is it gonna lead us?
+
+Grandpa: For that I've got a very simple answer: and that is - it's one of the most interesting questions that anybody could ask. We're in very uncharted waters. Nobody has gotten by with the kind of money-printing we're doing now, for a very extended period without some trouble. And I think we're very near to the edge of "playing with fire."
+
+Interviewer: What do you think about how much we've expanded the money supply; how low the interests are; and how little the initial response there's been on...
+
+Grandpa: ..."Remarkable" is not too strong a word. "Astounding" would be more like it. 
+
+Interviewer: I will let you choose the adjective, Charlie. 
+
+Grandpa: It's "unbelievably" "extreme". Some European Government borrowed money reasonably for some little fraction of 1% for 100 YEARS. Now that is weird. What kind of lunatic would loan money to a European Government for a 100 years for less than 1% ? 
+
+Interviewer: [Struggles to frame question] So can I ask you a question that falls out from this, from a different perspective - which is that for a lot of time, a lot of the policy-making in the world was because capital is scarce. Since World War 2 we're creating wealth at a very very high rate. Have the rules changed to some extent because in some sense the developed economies are just very wealthy?
+
+Grandpa: Well, of course it's changed to some extent because the developing economies are very wealthy. It's changed enormously. In my lifetime, advanced-civilization has gotten ahead faster than any century that existed before. Nothing else comes even close. It's utterly without precedence in real terms. It's unbelievable because I watched the whole damn thing practically because I lived so long. And it's been absolutely astounding. I can remember having 5 course dinner in Omaha for 60 cents when I was little boy. The world has really changed._END_OF_POST_PYSTOCK_ ASML 🚀🚀🚀🚀🚀🚀🚀🌌 Forget AMD, your TSMC (don't really). ASML is where your semiconductor cash needs to be at.
+
+The numbers speak for themselves. They literally have a monopoly on all EUV lithography machines, 2018 1.8bn EUR of sales were EUV machines, 2019 that rose to 2.8bn EUR in 2020 it'll be about 4.3bn EUR (I'm guessing). All in all total revenues increasing 8-10% YOY with 2021 projected for 'low double digit' growth. Beating out the last 2 years of EUV expansion even.
+
+Gross margins are up with more EUV machines sold. Q4 estimated at 50% leaving FY20 at 48%, around 10% increase in gross margin against 2019. With more lithography machines sold that number will just get bigger.
+
+They literally cannot make enough of them. back orders are in the 50+ range. With each machine selling for at ~150m EUR they've literally got 8+ billion of Euros in back orders. And with each machine comes more and more servicing revenue. Projected around 3bn EUR this year up 18% in servicing sales alone since 2017. Reports say that TSMC have out in another order for 21 machines with over a dozen shipping in Q1.
+
+To date they've sold somewhere around 100 EUV machines of which half of have gone to TSMC alone. Samsung and TSMC being the only 2 major players with the technology. I'm not going to go on about TSMC a. But it's worth noting that ASML will be delivering the new TWINSCAN NXE:3600D which can increase wafer throughput 25% around Q2 2021a all this is in the backdrop of a an extremely constrained semiconductor industry. These consumer facing constraints are expected to last until at least Q2 2021 anyway.
+
+ASML have a partner/investor relationship with Carl Zeiss who, similarly, are the only people capable of making the optical systems for these or any other EUV machines and each have an exclusive customer/supplier relationship. ASML are spending record amounts of money on R&D - 2.2bn EUR this year - and are still aggressively buying back shares. To 3nm and beyond to High-NA EUV ASML are investing heavily in the technology which they expect to be ready or the first shipment by 2022.
+
+ASML are heavily undervalued at the moment. Margins, order intake, R&D, revenue, profit, shipments, serving sales is all increasing at 10%+ per year. 2020 is already set to be a huge gain despite Q1/COVID problems. There's massive wafer demand for GPU's, consoles, cars & AI. Toyota, VW, FCA have all shut down production somewhat because of supply constraints around chips. ASML is the gatekeeper for the whole industry and a lot of the developed world. It's not just CPU's and GPU's. NAND chips and DRAM all rely heavily on ASML too. And this is meanwhile their backbone of DUV sales continues to still be the majority of sales. Their forecasts for 2025 at 15bn EUR low case and 24bn high. Seeing as they are probably on track for a little under 13bn EUR this year with 10%+ growth 2021 can get pretty close to matching the low end of that target already
+
+TL;DR - Buy ASML it literally cannot go tits up_END_OF_POST_PYSTOCK_ GME Short Interest declined to 71M and some other explanations 1. &#x200B;
+
+GME short interest declined from 79.5M to 71M after Jan 15 EOD according to ORTEX estimates.
+
+[Short Interest data left to the rightmost column(the reddit image was making trouble)](https://imgur.com/a/9D8GGO2)
+
+[Chart of the same thing](https://imgur.com/a/cgthXrs)
+
+Seems like the cost of borrowing has also declined very slightly for institutional investors(which is probably the more important factor as institutional investors can keep their margin requirements but the interest bleeds them).
+
+2.
+
+Probably the most important information, lots of ITM options had been cashed out on Friday, resulting in the ***unwinding of hedges*** by market makers. This would probably explain the price action of Friday the most; plus the profit taking by other investors. As a result, the stock sold by MMs and profit-takers were bought back by short sellers to cover their position.
+
+**How does ORTEX get this Short Interest data?**
+
+I have had an email exchange with ORTEX Co-founder and CTO and this is what he said, "I have seen some question on Reddit regarding how we get the daily short interest data. And if you are interested I thought I should give you a bit of a longer explanation. The data comes from actual securities lenders, companies that facilitate the loans in stocks. They submit their lending portfolios, ie how many shares they have lent in any given stock, as well as how many stocks are available to be lent, on a daily basis. The data covers over 68 000 lending portfolios and includes over $10 trillion in availability with over $2 trillion worth of security loans per day. "
+
+Note: *This is not the full e-mail.*_END_OF_POST_PYSTOCK_ GME IS RUNNING GOOD! AMERICAS PREPARE FOR TUESDAY _END_OF_POST_PYSTOCK_ Tesla delivers its first Shanghai-made Model Y crossovers in China. All on board!!! _END_OF_POST_PYSTOCK_ Quick Ratio over Price over Outstanding Shares Self-taught investor here. Started out as a speculative pattern trader on Robinhood, got lucky, then realized I was just getting lucky.
+
+Since then, I have pulled back from relying on **RSI** and **moving averages**, and been learning more about fundamentals, financials and valuation.
+
+Currently my favorite screens are:
+
+* **quick ratio** over 2 - *to me this is the most important, and it's baffling to me how so many businesses have ratios under 1. I want to buy assets, not debt!*
+* positive **dividend yield**
+* positive **margins (gross, net and operating)** \- *I want to learn more about the differences between these 3 margins.*
+* IPO more than 5 years ago
+* **insider ownership** over 5% *(to me this represents a workforce that believes in itself)*
+* **debt/equity** under 0.8 - *(please correct me if i'm wrong, but to me a higher d/e ratio represents a corporation's propensity to raise funds from banks rather than selling stocks.)*
+
+&#x200B;
+
+My question is, if I were to take the quick ratio, and divide it by the outstanding shares, and then divide that by the price of a share, would I get a better valuation of the stock?
+
+Similarly, if I were to take the cash flow, and divide that by outstanding share and divide that by the price, would i get a useful valuation of the stock?_END_OF_POST_PYSTOCK_ DD: How to grow your own gourds. You can even make knots out of them ($ROPE) _END_OF_POST_PYSTOCK_ On the eve of our GME space flight, I present each & every one of you space cadets your very own mission patch 🚀💎🤲 Since the first manned spaceflight, mission patches were sewn to astronauts suits to represent their mission goals. Every single spaceflight has had their own custom-made, crew-designed mission patch to be worn in space and I see no reason why our mission aboard the GME should be any different. So, on the eve of our trip to outer space, I present each and every one of you winkled brained space cadets your very own mission patch. Wear it proud. GME to 420.69 🚀🚀🚀🚀🚀🚀
+
+Edit: Messaged mods u/zjz to see if we could actually make these a reality. 
+
+[ I'd love to actually make some of these, tried contacting mods but didn't get a reply so until then digital ones will do. ](https://preview.redd.it/0nl6gt9go3c61.jpg?width=2000&format=pjpg&auto=webp&s=51e3aae1573382ec6298b75325e4ffc42be1ac66)_END_OF_POST_PYSTOCK_ WSB when there's a dip before the $GME rocket takes off 🚀🚀🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ NOKIA, and why it might finally make your father proud of you. Nokia, famed purveyor of meme-phones that are indestructible, is also an indestructible stock.
+
+Never mind the fact that [Nokia is literally going to the moon](https://news.sky.com/story/nokia-to-build-4g-network-on-the-moon-for-nasa-12108387) within the next decade, the once dominantly positioned Finnish mobile phone maker now seems to be investing heavily in becoming a big player in the telecoms infrastructure space.
+
+In the past week alone, Nokia has
+
+* Won the brief to expand the [US's largest 5G network, alongside Sony Ericsson](https://www.capacitymedia.com/articles/3827406/t-mobile-us-awards-five-year-5g-deals-to-ericsson-and-nokia) (14th Jan 2021)
+* [Expanded their partnership with Google to make 5G useable for mission-critical functions](https://www.techradar.com/uk/news/nokia-and-google-partner-on-cloud-native-5g-app-development) (15th Jan 2021)
+* [Been selected as a technology provider and collaborator by the National Cybersecurity Center of Excellence (NCCoE) 5G Cybersecurity Project](https://www.globenewswire.com/news-release/2021/01/14/2158714/0/en/Nokia-selected-for-U-S-Federal-5G-Cybersecurity-Project.html) (14th Jan 2021)
+* [Been hired by M1, a Singaporean telco, to provide machine learning and artificial intelligence (AI) capabilities that will enable M1 to tailor its 5G services for industrial use cases](https://www.zdnet.com/article/m1-to-tap-nokia-in-5g-standalone-network-deployment/) (13th Jan 2021)
+* Set up a JV with Kalmar, a subsidiary of Cargotech, to [provide new solutions for port and terminal operators to further automate operations and improve productivity](https://vertikal.net/en/news/story/36919/kalmar-forms-jv-with-nokia) (13th Jan 2021)
+
+Nokia's Digital Automation Cloud platform is hotter than the girl that you had a crush on in college who caused more financial damage to you than when you decided to short TSLA at $420. Everyone wants it, and similar to that crush of yours, everyone is paying to get some. So, why don't you, like the good little cuckold you are, pay to be a part of this fucking action?
+
+The other good news is that Nokia is extremely fucking cheap right now, at around a 90% discount from its ATH.
+
+If you want value, this stock is certainly one of the better options out there. The company currently has a Market Cap of around $19bn, which is around half of comparable companies such as Corning and Sony Ericsson. It's P/E ratio is 13.19x, which again, is just more than half of the industry standard of 20.26x.
+
+Bottom line - Nokia is undervalued by about 100% of its current price, not taking into account the enormous contracts it has won this past week. Strong buy. DYOR and read the fucking post.
+
+Moons, rainbows and rockets for retards:🚀🚀🚀🚀🚀🚀🚀🌕🌕🌕🌕🌕🌕🌕🌈🌈🌈🌈🌈🌈🌈
+
+Edit: forgot to add, Earnings is early February, so getting on board before obviously increased earning would be a sensible play. 
+
+Also not investment advice, do your own research etc.
+
+Edit2: Nokia’s handset business was divested to MFTS, net good thing for the company imo. DYOR._END_OF_POST_PYSTOCK_ Monitor how GME is trading in other countries while the US stock market is closed I hope you all enjoy the charts 🚀 🚀 🚀 !!!
+
+Edit: link went down and had to repost a new link. Up 15-16% in Europe. FYI the prices is in Euros so I hope you autists are good at conversions and math! Getting posts saying that the price isn’t 35, but I’m assuming you didn’t realize the € symbol. 
+
+https://www.marketwatch.com/investing/stock/gs2c?countrycode=de&amp;amp;iso=xfra
+
+Edit: Another link as posted by ppl below that is definitely better. https://www.onvista.de/aktien/GAMESTOP-CORP-Aktie-US36467W1099_END_OF_POST_PYSTOCK_ What are the odds that wsb is being leveraged to pump positions by large holders? Take the beloved $BB. 
+
+In Sept 2020 they sold convertible debt to one of their major holders for $365 mil but it can be converted into stock at 55 mil shares at $6. That's roughly 10% dilution for those who care.
+
+https://www.fairfax.ca/news/press-releases/press-release-details/2020/Fairfax-Announces-Acquisition-of-1.75-Convertible-Debentures-of-BlackBerry-Limited-After-Redemption-of-Existing-Convertible-Debentures/default.aspx
+
+So if Fairfax elects to convert the debt and take 55 million shares at $6, wsb has made them $220 mil on a $365 mil loan in 4 months. Loan sharks would be envious of that math. 
+
+I'm not a conspiracy theory guy but in the world of Wall Street that gave us boiler rooms and Jordan Belfort it's not hard to imagine some unscrupulous investor hiring a company to make memes to get the wsb crowd frothing at the mouth when the potential pay day is so lucrative for them._END_OF_POST_PYSTOCK_ LAC's Back (DD) Sup Kevins.
+
+ You all may remember LAC as the boomer mining stock that u window lickers pumped ahead of Tesla's battery day only to see it crash when papa Elon didn't announce hed be buying every company with the word Lithium in its name. But, LAC is so much more than that now.
+
+**WHAT IS LAC?**
+
+Lithium Americas Corp is a lithium miner developing claims on 2 new lithium mines, one in Argentina, and one in Nevada (3 hours from the gigafactory).
+
+The Argentinian mine is set to start producing within a year and will produce 40k tons of lithium per year. This is unimaginably huge since the ENTIRE WORLD only produced 77k tons in '19^(1)
+
+The Nevada "Thacker Pass" mine is even more interesting. It is the only place in the entire world where lithium can be mined straight out of the dirt (sedimentary clay), potentially making LAC one of the lowest cost producers in the entire market. 
+
+The problem for LAC has been that they'd spent over a decade trying to get approval from the mean old federal government to go dig up a mountain range for a stupid nerd metal.  
+
+But thanks to a lame duck trump, this is no longer a problem. 
+
+**What changed?**
+
+Since the election, the Trump administration has been looking for every possible way to get back at Biden. That included GREATLY accelerating permissions for companies to mine/drill federal lands. 
+
+Because of this, LAC was able to get a final EIS approved and a record of decision to mine approved in just two months! That process averages 18 months and can take 5 or more years. 
+
+But wont Biden just reverse this decision when he takes over? No. Once the record of decision is granted it is binding and cant be reversed by a new admin by law. Biden could try writing an executive order but he'd probably lose in court and look like the big old meanie who doesnt want renewable energy. Not to mention he's on record as saying America needs to start producing its own battery metals multiple times. 
+
+**But the stock is already up so much**
+
+No its not. The thacker pass mine alone gives these guys 550mm in ebitda per year AT CURRENT LITHIUM PRICES, the argentinian one should give them a few hundred more^(2). The only reason the stock is so cheap is because you idiots pumped it and it was still getting dumped when the actual good news came. 
+
+&#x200B;
+
+1)[https://www.nsenergybusiness.com/features/top-lithium-producing-countries/#:\~:text=According%20to%20the%20latest%20figures,production%20and%20decreased%20commodity%20prices](https://www.nsenergybusiness.com/features/top-lithium-producing-countries/#:~:text=According%20to%20the%20latest%20figures,production%20and%20decreased%20commodity%20prices).
+
+2)[https://www.lithiumamericas.com/thacker-pass/](https://www.lithiumamericas.com/thacker-pass/)_END_OF_POST_PYSTOCK_ $BB When The Market Opens _END_OF_POST_PYSTOCK_ BB Gang Checking In Today Before BB GO BRRRRR🚀🚀🚀 _END_OF_POST_PYSTOCK_ Earnings for this week. _END_OF_POST_PYSTOCK_ $AMC 🚀🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ Good Gourd _END_OF_POST_PYSTOCK_ Biden to EO against Keystone XL pipeline on day one. Puts on oil? https://www.cbc.ca/amp/1.5877038_END_OF_POST_PYSTOCK_ Victory and vindication, GME comrades!!! UUUURRRRRAAAAAAA!!!!! _END_OF_POST_PYSTOCK_ My broker emailed me asking to borrow shares. The example stock they used was GME. _END_OF_POST_PYSTOCK_ Doing my part 🚀 🚀 🚀 🇩🇪 🇩🇪 🇩🇪 🇪🇺 🇪🇺 🇪🇺 💎 💎 💎 _END_OF_POST_PYSTOCK_ Daily Discussion Thread for January 18, 2021 Your daily trading discussion thread. Please keep the shitposting to a minimum. 
+
+^Navigate ^WSB |^We ^recommend ^best ^daily ^DD
+:--|:--                                 
+**DD** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADD) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=week)
+**Discussion** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADiscussion) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=week)
+**YOLO** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AYOLO) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=week)
+**Gain** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AGain) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=week)
+**Loss** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ALoss) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=week)
+
+
+[Weekly Earnings Discussion Thread](https://www.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3A%22Earnings%20Thread%22)
+
+**Read the [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide) and make sure other people follow them.**
+
+Try [No Meme Mode](https://www.reddit.com/r/wallstreetbets/search/?q=-flair%3AMeme%20-flair%3ASatire%20-flair%3AShitpost&restrict_sr=1&t=day&sort=hot), also accessible through the top bar._END_OF_POST_PYSTOCK_ GME Stupid german Money reporting im My fellow retards,
+
+after all these disappointing years finally germans doing what they supposed to do: 
+
+I went in the office. Took all returnable coke bottles from my employer. Brought them to Aldi and bought GME in an ultra narrow market. 
+
+I am already 5 % down BUT you retards in the US are currently 10 % up compared to friday. So  i am finally doing my part.
+
+For confirmation bias: I am 100 % convinced we will fuck Melvin (😈). 
+
+Diamond Hands: 💎 🙌
+
+Rockets:🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+Position: https://i.imgur.com/OVTsbB5.jpg_END_OF_POST_PYSTOCK_ Tomorrow is my birthday. I already put majority of my savings into GME and on Friday dip I moved my entire portfolio as the price is 🥜. Thank you u/deepfuckingvalue for the birthday present and I wish you all happy landing 🚀🚀🚀🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ GME DD: Fair value is at least $74/share. Conservative $2.3bn in e-commerce sales in 2022. OPEN FOR DD 🚀🚀🚀🚀🚀 [Warning: LOTS OF OC] I’ll start by admitting I was originally going to post the below analysis to a certain **S**tock **A**nalysis website that will not be named. However, I decided to forgo the $42 in CPM revenue and instead take my talents to WSB since I’ve been having so much fun shitposting about GME with you guys the past month. I also think this might be the first Sum of the Parts (“SOTP”) analysis that has even been posted to WSB.
+
+Now I know most of you can hardly read, let alone understand revenue multiples. But if you stick with me, you’re in for a bullish treat. Long story short, if we apply **even the** **most conservative** forward revenue projections and EV/revenue multiple to GameStop’s e-commerce business, we arrive at a fair value per share of $74.05. Additionally, this fair value **DOES NOT** factor in the intrinsic value from a potential short squeeze that is an added "cherry on top" when you buy GME shares.
+
+**SKIP TO THE BOTTOM FOR A TLDR** 🚀🚀🚀🚀🚀
+
+# Full analysis behind the $74/share fair value
+
+When reading the many bearish articles that have carpet bombed  investment websites and now even WSB, one thing is apparent. The authors want to talk about ANYTHING BUT valuation. They would rather base their thesis on “BlOckBuSTer” instead of calmly and rationally analyzing forward revenue streams and applying a fair multiple based on public comparable companies.
+
+I believe that is likely the reason we have not seen a “SOTP” (Sum of the Parts) analysis for GameStop yet for broad consumption. Not even the Wall Street analysts who are being paid piles to analyze this company are performing this analysis-- they would rather just double down on their $1.60 price target than do the work. Preforming a SOTP analysis on GameStop is critical because it is the only way to give the Company credit for the **significant** **e-commerce revenues** **it is achieving** and the rich multiple that e-commerce sales demand from the market. “*Multiple expansion is a hell of a drug*.” - Michael Burry
+
+# Modeling revenue projections
+
+Before we can value GameStop on a forward basis, we must reasonably arrive at a forward revenue assumption and the corresponding percentage breakdown between e-commerce and brick and mortar sales.
+
+We can start with GME’s recently released 9-week holiday sales figures for the period ending January 2nd, 2021. By examining the delta between last year’s 9-week revenue figures and the subsequent full quarter figures, we can reasonably arrive at an assumption of $2.1bn of revenue for the fiscal quarter ending in February 2021. Management also publicly stated that 34% of holiday sales were e-commerce. For this analysis, we will apply that percentage to the full quarter estimate.
+
+[Source: GME 8-K filings, author assumptions](https://preview.redd.it/cdy97vncf1c61.jpg?width=1208&format=pjpg&auto=webp&s=b7311bccac530f267f085fe9135a2e3034ebc66a)
+
+The next step is to build on the Q4 assumption to model out the next fiscal year through Q4’2022E (the fiscal quarter ending February 2022). Luckily, we have a great proxy to achieve this—we can utilize GameStop’s quarter-on-quarter revenue growth the 2013 console launch. We can also reasonably assume an expansion from 34% to 40% e-commerce sales over the next four quarters as Ryan Cohen executes his strategic vision.
+
+[Source: GME 10-Q filings, author assumptions](https://preview.redd.it/fax5gecjf1c61.jpg?width=1866&format=pjpg&auto=webp&s=7b59f50aad048decbbc68450c68df3bef15c9640)
+
+We can use the above quarterly figures to inform an annual projection model that will be the foundation of our SOTP analysis. 5% revenue growth is a conservative estimate based on actual figures from the 2013 console cycle and the uptick in demand for both new and used consoles and games that followed the launch of the new consoles.
+
+[Source: GME 10-K filings, author assumptions](https://preview.redd.it/k26jmdinf1c61.jpg?width=1544&format=pjpg&auto=webp&s=c960121888b8bb0b60074bdeaac898a568e17202)
+
+# Determining and applying an e-commerce revenue multiple based on peer comparables
+
+Now that we have a reasonable estimate for both e-commerce and B&M revenue for GameStop’s fiscal year ending February 1, 2023, we need to apply a multiple to both revenue streams to bridge to enterprise value. Upon review of a set of public internet retail peers, we find a median EV/CY2022E revenue multiple of 3.2x.
+
+[Source: Factset ](https://preview.redd.it/8c0i8pqrf1c61.jpg?width=997&format=pjpg&auto=webp&s=85d7ca0a194c580c6e540452a0e646e6eba77ecb)
+
+For the purpose of my SOTP analysis, I will apply only a **2.0x revenue multiple to e-commerce sales, which is highly conservative.** It goes without saying that if Ryan Cohen were able to achieve a e-commerce revenue multiple equal to Chewy (the company he founded!) the long-term growth in GameStop’s share price would be enormous. Using this conservative e-commerce revenue multiple of 2.0x and applying a de minimis multiple of 0.2x to GameStop’s legacy brick and mortar business, **we arrive at a fair value per share of $74.05 on a SOTP basis.**
+
+[Source: GME public filings, author assumptions ](https://preview.redd.it/b4asaomuf1c61.jpg?width=821&format=pjpg&auto=webp&s=e1b2f2aa2ea313e569b724a84cecbf4648d0a2ce)
+
+For fun, if we drop Chewy’s e-commerce multiple into the above table, we get a fair value per share of $151.76.
+
+[Source: GME public filings, author assumptions ](https://preview.redd.it/u06o5uc0g1c61.jpg?width=855&format=pjpg&auto=webp&s=a3fec1ebacbb84e7ed48a98406ec5be63acba828)
+
+The upside to current implied by this analysis is significant, but based on the market’s reaction to Ryan Cohen’s activism so far, a 100%+ gain on a re-rating of projected e-commerce revenues doesn’t seem so far-fetched. Clearly the stock has made a run since its lows in April of last year, but the market still has not fully priced in GameStop’s present and future e-commerce revenues at a fair multiple relative to peers.
+
+[Source: Current SP, author assumptions](https://preview.redd.it/1uuw4yf2g1c61.jpg?width=865&format=pjpg&auto=webp&s=e5f09e799ebf058adfbf3daf9feab9a2cddd9ccb)
+
+Everyone is tunnel visioning on if the short squeeze has squoze yet, and/or to what extent shorts have covered so far. But after doing their DD on a SOTP basis, GME holders can sleep well at night knowing that there is still 100%+ upside once GME’s e-commerce revs. are fairly valued by the market.
+
+# TLDR
+
+* GameStop's growing e-commerce revenues (**34% of holiday sales!**) deserve a far higher multiple than the company's legacy brick and mortar business.
+* Comparable internet retail companies trade at median EV/CY'22E revenues of 3.2x. **Chewy trades at 4.4x EV CY’22E revenues**
+* Even with the recent share price run, **GameStop still only trades at 0.4x 2022E revenues**, of which the revenues will likely be 40% e-commerce at a minimum.
+* **SOTP valuation analysis indicates a fair value of $74.05 per share. At the same e-commerce revenue multiple as Chewy, GME’s fair value is $151.76 per share**
+* 🚀🚀🚀🚀🚀
+* Positions: 3k GME shares in my Roth IRA_END_OF_POST_PYSTOCK_ Polar Bears are going to the moon....yes you read that right. 🚀🚀 Hello fellow autists,
+
+Polar bears are going to the moon very soon and you're gonna want to be in on this play. Not just any random ass polar bears. But Coca-Cola drinking bears. I know, I know  "Coke is a fucking boomer ass play. "But I'm presenting an opportunity to beat r/investing and r/dividends  boomers at their own game with 200% gains possibly. Since the start of the 2021 Coke has dropped over 11% in a matter of two weeks on news of a new IRS tax case, JP Morgan downgrade, and just typical boomer panic. This dip will be bought up based off the **vaccine distribution, the legal case will be beat as the case is weak as fuck, fundamentals, earnings coming up next month, Stimulus news, and the fact that Warren Buffet has never sold a fucking share.** And as Warren says "Buy the fucking dip dipshit."
+
+&#x200B;
+
+[Polar Bears drinking Coke before boarding the rockets](https://preview.redd.it/4aagqdydc1c61.png?width=1920&format=png&auto=webp&s=88ece0142ff101cc5873850051ac51e6dc1b8222)
+
+Lets talk about the major thing that led to the downgrade and all hell breaking loose to start KO down 11% to start 2021.
+
+**The Tax case:** The IRS has gone back years and said that KO owes billions in taxes. If true, that could be a big hit to earnings. But the truth is this news has been around since November and was only just pointed out by a JP Morgan analyst who brought it up and spooked boomers. The tax case involves the IRS trying to get Coke in years dating back to 07-09 back when the tax code was different and did not apply to todays IRS regulations.... and this case can and will be won by any competent tax lawyer who points this outs and argues. At worst, it will only be a slap on the wrist. Also its coke, one of the biggest companies in the world and has a fuck ton of cash and resources to make sure their tendies don't get fucked with. The S&P 500 runs the world, not politicians, the IRS, or anyone else.
+
+JP Morgan also owns 3 million shares in KO stock which is bullshit.
+
+**Vaccine Distribution, Stimulus:** The pandemic hit Coke hard, a lot of their revenue is based off fast food chains, movie theaters, and sports teams. As vaccine distribution occurs more and more society will be going back to normal giving them more revenue sources. This pandemic also made more people buy coke products at the store and bring them to the house...hence after the recovery revenue from store products I expect to go up because people will be used to having Coke products at home. The stimulus will also give people an extra $2,000 and they will surely celebrate with a Coke product and send our call options to the fucking moon.
+
+**Fundamentals:** From a long term investors view point Coke is a great investment, bunch of products, we have a growing population, world's most recognized brand. pays a 3.4% dividend yield, P/E ratio just around 25. Long term investors aren't gonna let this dip without a fight and are gonna pump it. Coke is literally the definition of a r/investing wet dream. But as Wall Street bets autists we are gonna profit heavily off their 6% yearly gains.
+
+**Warren Buffet:** Our guy Buffet may have bought at the top and sold at the bottom regarding airlines like a true autist, but Coke is his signature stock and he lives and dies by that company. Him and Berkshire Hathaway own 400 Million shares in KO.
+
+**Earnings Run Up:** 2/10/2021 is earnings, investors are gonna load up on shares going into it, jacking up our calls to the tits in value.
+
+**Technical Analysis:**
+
+&#x200B;
+
+[KO stock....see it?](https://preview.redd.it/3rp74u58c1c61.png?width=226&format=png&auto=webp&s=6cc2bb3f97747e6eb08862711915138d42bcb100)
+
+Look at the chart fuckers, is your mouth watering yet? Clean the drool and dried cum off your mouth and place that buy order for those calls. Buy the fucking dip.
+
+&#x200B;
+
+**Positions:**
+
+Options are incredibly cheap for KO.
+
+$2.00 for **May 21 2021 $50 calls**.
+
+The stock was just $55 at the beginning of the year.
+
+Literally cannot go tits up. - Warren buffet
+
+Just buy and crack open a coke, collect Tendies. 🚀🚀
+
+&#x200B;
+
+https://preview.redd.it/56d8svu6c1c61.png?width=1100&format=png&auto=webp&s=4ff5011edad4c0342127904bf99fa90e36b04337_END_OF_POST_PYSTOCK_ How market makers consistently win selling weekly options - GME GME long share holder here and buying more next week as well :) I notice many on WSB are over buying OTM weekly calls and I want to explain why retail investors consistently lose on this.
+
+1) As of last friday's close, a GME $36 1/22/21 call costs $460 while an April $40 call costs $900. Let's assume the next huge GME up move happens one random week between now and April 16th. It will cost on average about $2750 buying one weekly call option every week to hit a big win while it only costs $900 to buy one April call. Buying a weekly call after a volatility spike makes you a 3:1 under dog right off the bat. 
+
+2) Institutions own a lot of gamestop shares and market makers can manipulate implied volatility and price in the short term as they please to protect their delta neutral options portfolio. It's common knowledge that robinhood poors rarely exercise OTM weekly options and market makers take full advantage of this.
+
+&#x200B;
+
+https://preview.redd.it/cbruqv8tv0c61.png?width=748&format=png&auto=webp&s=2584c812d93e05f8457eff513ced85f216464d07
+
+The first hour of open on GME on 1/13 the market maker's realized a surge of buyer's were entering and unusual buying volume was occurring (anyone have info on why btw? seemed kinda random to me). To adjust for this, they excessively increased implied volatility on the weekly options so the lagging FOMO buyers were paying a 3-4x+ premium for the same calls. Eventually implied volatility got so extended that people start selling. This allows the market maker selling the options to maintain delta neutral regardless of how many more people buy weekly options, because the next person to buy the call is paying a ridiculous premium compared to the previous buyers.
+
+This being so, eventually the rate of theta decay will exceed the rate of incoming buyers, and the market maker wins.
+
+TLDR: buy GME shares or April+ calls instead of weekly OTM calls!_END_OF_POST_PYSTOCK_ Samsung CEO is going to prison _END_OF_POST_PYSTOCK_ Don't buy $BB calls, buy $BB shares - Here's why I'll admit it. All this Blackberry pump got me hyped and I want to get some action too. BB has potential to moon, but I think a lot of you will still manage to lose money, because you are picking wrong strategies.
+
+**The problem**
+
+I know this sub is obsessed with short term OTM calls. However by buying these you are doing no justice to yourself and this community.
+
+Let me explain. Have you ever wondered who sells you these calls? I'll tell you. Big guys and by big guys I'm talking billion dollar financial institutions that we call **market makers**. Market maker does not care which stock, what strike, how many 🚀🚀🚀🚀🚀 we put here - all they care about is to **make money by selling you calls.**
+
+Market makers are very good at managing risk. Whenever they sell calls, they make sure they have the underlying stock. That way, they essentially sell **covered calls** instead of **naked calls**.
+
+When you look at the option table, you will notice a column called **Open Interest**. It basically tells you have many option contracts are out there in the wild. Think about this as a number of retards holding these in their Robinhood account, hoping to get rich quickly.
+
+Market makers love when there is a big hype around certain stock, especially certain strike and date. They sell these calls to you retards, and all they have to do as the expiration date nears is make sure **the stock stays below the most popular strike**, aka **strike with the most open interest**.
+
+Why would they do that? Because they **make free money** by selling you these worthless gambling short term tickets.
+
+How would they do this? By shorting the stock. Remember they are so big that they can afford to short the stock and suppress the price of the stock **in the short term** just in time for **your short term calls to expire worthless**.
+
+I know some of you geniuses will tell me that market makers can't manipulate the stock in the short term; sure keep telling yourself that while you ride in your 2010 Toyota Corolla.
+
+**You are easy targets**
+
+Over 11,000 of you idiots, bought $12 February calls. Don't believe me? Check it yourself: [https://twitter.com/silberschmelzer/status/1350903153433128967/photo/1](https://twitter.com/silberschmelzer/status/1350903153433128967/photo/1)
+
+All market makers have to do now, is make sure BB does not moon past $12 by February 19 and they are set. You lost your stimulus check money and have no means to play again.
+
+March is even worse: [https://twitter.com/silberschmelzer/status/1350910637451468801/photo/1](https://twitter.com/silberschmelzer/status/1350910637451468801/photo/1). All of you piling into $15 strikes. Why are you making yourself easy targets? You are disclosing your strike and your date! What if BB moons in April? Can you sustain wasting money on these monthly calls with your minimum wage jobs?
+
+**The solution**
+
+Buy shares. They do not expire. There is no pressure to be right. You want to be on the 🚀 when it starts taking off, instead of being broke on the ground.
+
+With worthless calls, no one will like you - even this sub will make funny of you.
+
+Believe me. I've been here long enough to remember MSFT 03/21/2020 C $200 and PLTR 12/31/2020 C $30.
+
+**TL;DR**  
+Buy BB shares, not short term OTM calls._END_OF_POST_PYSTOCK_ I am financially ruined (agricultural futures) I have lost everything, and I'm not sure how to continue. This summer I invested $17,500 (six months salary and my entire life savings) into ornamental gourd futures, hoping to capitalize on this lucrative emerging industry. After watching a video about Vincent Kosuga and his monopoly on onions, I decided I'd try to do something similar with another vegetable. I did some research and found out many agricultural forecasters expected this year's gourd yield would be far smaller than the past, due to deteriorating soil conditions in central Mexico and a warmer-than-average spring. At first, demand soared around Halloween and prices skyrocketed, but the gourd bubble burst on November 12th. Unfortunately, the coronavirus caused a massive drop-off in demand due to fewer families decorating their tables for thanksgiving, and prices plummeted. I had invested early enough that I thought I would still be fine, but then on the morning of December 2nd, a new email in my inbox caused my stomach to turn into a pretzel. The massive gourd shipment from Argentina, scheduled for early March, had arrived. I was planning on selling off my futures right before this, in February, but this ruined everything. To top it off, the gourds in this shipment were absolutely gargantuan, some topping 4 pounds each, causing the price-per-pound to drop like an anchor into the range of 6 cents per pound. I am ruined._END_OF_POST_PYSTOCK_ While everyone was busy wanking it to GME, legendary Boomer con man Bob Swan just bit the dust after years of terrible short sighted Boomer leadership caught up to him. He was the second highest paid CEO in the world. For those of you who don't know, Bob Swan was the CEO of Intel and he was treated like a leadership God by Boomers even though nearly all of the companies he lead crashed after he left. He was the king of short term short sighted leadership. 
+
+He kept bailing ship right before companies would crash, like GE Financial, HP computers, Northrop, and eBay. But because he bailed on top, Boomers gave him credit for the rise, but not the fall. 
+
+Boomers completely ignored how many companies he tanked. 
+
+Well, he didnt bail from Intel quickly enough and they tanked 60 BILLION because he failed to develop new products. Instead tried to send jobs overseas and undercut development of new products in order to pump short term earnings, exactly like he did at his previous companies. This let AMD take the lead, and destroyed Intel stock. 
+
+It is incredible that Boomers failed to notice that nearly every company Bob Swan lead crashed right after he left. 
+
+Good riddance._END_OF_POST_PYSTOCK_ $906.44 to $25,204.53 in two days. 1/12-1/14 $BBBY TO THE MOON!!🚀🚀🚀 Good afternoon fellow autistics, 
+
+Long story short recently quit my job, and cashed out my 401k. Decided to use all my 401k, and life savings to Yolo on some option plays. Fast forward 2 weeks, and I'm down from my $12,000 life savings to my last $900 bucks. 
+
+I've been holding $BBBY prior to my failed trades, and the earnings had deceived me causing the stock to drop from 20s to 18s, and being the fellow autistic I am I had a margin call I had to cover so the shares were sold lol. 
+
+After this loss (3k) decided to Yolo 5k on daily spy puts, and then the spy rallied causing my account to be near worthless, but with last $900 bucks to my name I decided to Yolo on Jan 15 - $23.00 strike calls @ .10 each when BBBY was trading at 19.00 on 1/12. Fast forward to 1/14 BBBY is trading at $25.00+. I sell my 85 options @ 1.53ish each turning $900 into $12,946.11. 
+
+Then I continue to watch $BBBY accelerate towards $26.00, and decide to get back in. This time I get Jan 22 $26.00 strike calls for $BBBY. $BBBY then accelerates towards $27.00, and crushes through the $27.00 level. My $12,XXX initial position rolled into the $26.00 calls snow balled my account to $25,204.53. 
+
+Fast forward to end of the day 1/14 I decide to use all the profits from $BBBY to buy May 21st $27.00 strike calls @ 5.55 each which I currently have 45 of. Bought them for 25k, and now they're sitting at about 19k USD. 
+
+All in all - $BBBY has new management that came from target, accelerated share buy back program, 60%+ short interest, 77% increase year over year with digital sales, they are reducing their non-essential assets to increase cash flow to investments better suited to create more profitability AKA raising EPS aka raising the stock price. In addition there is also a low supply of housing, and increasing demand for housing. This will also increase the demand for stuff $BBBY sells. The upcoming earnings call scheduled for early April will begin to show early signs of a turnover. We are just a bit ahead of the results. 
+
+LETS TAKE $BBBY TO 420.69
+
+Important notes - $BBBY TO THE MOON NEXT 3 MONTHS $42.00+ TARGET PRICE, 60%+ SHORT INTEREST LETS MAKE THIS ROCKET SHIP LIKE GME BABY! 
+
+BUY MAY CALL OPTIONS ANY PRICE $BBBY
+
+u/Nouri_Trades 
+
+&#x200B;
+
+https://preview.redd.it/in5x2s0yv0c61.png?width=963&format=png&auto=webp&s=03e43a65d4478e60e49f9e5c927ab7f55d14aa5a_END_OF_POST_PYSTOCK_ The Big F*cking Short Squeeze - Out 19th January 🚀💎🤲🚀 _END_OF_POST_PYSTOCK_ BB🚀🚀🚀💎👐💎 _END_OF_POST_PYSTOCK_ "You are not right or wrong because a thousand people agree with you..." Great Buffett Lesson _END_OF_POST_PYSTOCK_ Am i doing this right ? Matching all loses (9k total) in BB 🚀🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ Some Fundamental Numbers on GME Here is a summary of the Statement of Operations for you folks that like the fundamental stuff.
+
+You can see why the stock price has dropped heading into 2019, quarterly results continued to deteriorate. Most recently SG&A have decreased which should help any additional sales go straight to the bottom line(profit). Analysts consensus Estimate for Q4 2020 is $2290 million. Holiday sales disappointed with $1770 million which puts meeting analysts expectations at risk unless console inventory can be replenished and sold before the end of January. If not, then more demand and sales gets pushed into Q1 2021 (Feb and onward).
+
+With SG&A decreasing from the closure of less profitable stores and other cost cutting measures and with the boost in Net Sales expected for Q4 2020, SG&A-to-Gross Profit (bottom left chart) should fall back below 100% as it should.
+
+Consensus analyst expectations is for EPS of +1.42 which would be the highest its ever been in the last 3 years. It will also be the first profitable quarter without Asset or Goodwill Impairments hampering profits. 
+
+Edit: This means we'll have our 1st profitable quarter since Q1 2018 (not bankruptcy), once we have back-to-back profitable quarters, we will attract more mainstream investment firms. Watch out bears!  🚀 
+
+https://preview.redd.it/4wuh423f60c61.png?width=1077&format=png&auto=webp&s=1f5dc0928b21d43958712d009070c758ccb062b1_END_OF_POST_PYSTOCK_ Went full retard on TSLA ($870 1/22, bought when it was $855 a week ago) _END_OF_POST_PYSTOCK_ PSA: Please stop using "Market Orders" and Instead Use "Limit Orders" Obligatory: This is for education and entertainment purposes only, and not financial advice.
+
+Okay, I first off want to say that I am stoked to see all the new degenerates that have decide to join this channel and dump their life savings into whatever one hot stock we are bursting at the seems with at the time. It's an absolute strength in numbers "win" for the sub, and it give me more hope for the momentum we build here. 
+
+HOWEVER, I saw a lot of the new crayon casserole lovers, who've taken a break from watching their morning cartoons out there to dump your money into GME this week. Then coming on here and asking, "I bought "X number of shares at "Y" price, am I going to get rich now?" 
+
+As someone that has been doing this now for some ten plus years, this is a complete fucking rookie move! You want control over the situation, then use "Limit Orders" and assign the price at the proper support levels. You know who uses "Limit Orders" the bull with the 10 inch cock that comes over to fuck your wife every night while you sit in the corner chair and watch. Why you might ask? Because he's in control of the situation. He uses limit orders to buy the stock at a specific price instead of just sending the order to the markets makers to be assigned the highest price on the book for the day. So while you are buying that stock at $38.50, he's buying at a cool even $35.00, allowing him to capture 10% more on the upside. 
+
+Perfect example is with GME, where the entire sub is screaming "hold the line" blah blah blah "SPARTA". You want to hold the line? Then place those future orders at support levels like 33 or 30. That way if and when the stock drops to these levels you get the price you want and you help the stock from dropping even further. So be fucking smart and be patient about this, this is your money so make it work for you and not against you.  
+
+TLDR: Use limit orders if you really want to help control the underlying stock and make a smart investment. Be patient and wait for the price to come to you and so some fucking reasearch._END_OF_POST_PYSTOCK_ TESLA Million Mile Battery CONFIRMED! 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 (0:19) _END_OF_POST_PYSTOCK_ Has Anyone Looked into MAXR? Firstly, a disclaimer... I own MAXR calls and shares so yeah I'm pushing my own book... a little bit.
+
+That being said I think this has a good way to go yet.
+
+Why?
+
+From an earlier post...
+
+MAXR had a satellite go boom circa 2018. It was a very expensive satellite.. 184 million give or take. They recieved an insurance payout but MAXR never recovered until now. It's high was around $80 USD or so at this time. Add some questionable accounting into the works and this thing cratered. Could have had all you wanted uder $5 Yankee bucks at one time.
+
+They are increasing their business especially in satellite monitoring and mapping. Militaries use this for intelligence purposes. Want to see what's happening to the Urghurs in China... MAXR might be able to help. They call it the WorldView Legion Project. [WorldView Legion - It takes a legion | Maxar](https://www.maxar.com/splash/it-takes-a-legion)
+
+To use a Boomer term... their P/E is around 7 which in this very over-valued market is cheap.
+
+Institutions are going to buy... biggly... especially if added to the Space ETF. The float is also shorted by about 13% which is high.
+
+Anyways, do your own DD but I like the outlook.
+
+Thoughts? Click on the link... the detail is amazing in those Zoomed in photos._END_OF_POST_PYSTOCK_ A plea to Jeff Bezos regarding the departure of one of his most trusted confidantes; Jeff Wilke. Be a good chap and stock split if not for our sake, then for Wilke's sake. 🪓 🪓 🪓=🚀 🚀 🚀 🚀 Dear Jeff Bezos,
+
+In your own words, "(Jeff Wilke) is simply one of those people without whom Amazon would be completely unrecognizable.” Wilke has often been touted as your successor, as Amazon would surely be at the beta stages of it's worldwide commerce takeover if it wasn't for the leadership of this unsung hero. I entreat you to put your company where your mouth is.
+
+I propose the ultimate departure gift; a 20:1 stock split so that Jeff Wilke's measely $200 million net worth may quintuple, so that he may retire as a respectable billionaire and not an autistic pauper.
+
+This will also help wsb and me, a ginger orphan of estranged heroine addicts, get so many tendies that even KFC would turn into a vegan establishment; and the colonel becoming the poster child of PETA. 
+
+Your most dedicated prime member and AMZN yolo extraordinaire,
+
+Highzenbrrrg
+
+P.s. my calls are bleeding so Amazon's free two day delivery would be most obliged, a propos the stock split.
+
+P.P.S
+I find this to be some actual DD for WSB as how inhuman would Bezos be if he didn't send his buddy Wilke off into the sunset with an AMZN stock split?
+
+Positions 2/19 3300c_END_OF_POST_PYSTOCK_ Attack on GME _END_OF_POST_PYSTOCK_ MLK Weekend When You're in the PLTR and TSLA Gang _END_OF_POST_PYSTOCK_ With booming ammo sales, Vista Outdoor (VSTO) is about to soar Vista Outdoor makes lots and lots of outdoor products… Bell bikes, Bushnell golf rangefinders, Camelback water bottles, Camp Chef outdoor cooking products, and … oh yes, ammunition. Lots and lots of ammunition.
+
+Vista brings in roughly 60-65% of its revenue with ammunition for firearms.
+
+Their ammo brands include Remington, American Eagle, Federal, Blazer, & more.
+
+They currently have a 1 billion backlog in ammo sales, for a $1.6B (Cap sized) company.
+
+Recent guidance showed that management expected $495 to $515M during the current quarter of sales. This is roughly $500 Million in sales for a company that is only valued at $1.6B in total…
+
+I predict VSTO easily making a new all time high within the next couple of months, 100% returns by Summer._END_OF_POST_PYSTOCK_ GME Tues 20 Jan 2021, the day that makes WSB world famous. After a long weekend, finally it's Tuesday, you'd been looking forward to this day for months now, you devoured every single one of the GME DDs produced on this subreddit to feed your confirmation bias. All the catalyst were here, seemed like nothing can stop GME from becoming the Amazon for gaming, everything looked just fantastic for longs.
+
+You woke up at 8am in you mother's boyfriend's basement, first thing you did was picking up your iPhone6 with cracked screen anxiously, opening your Robinhood app, clicking $GME, "Holy shit", you yelled out, you rubbed your eyes, it's real! It shows it's up 40% to $50 in pre-market.
+
+You went on reddit, a bunch of posts were rejoicing with you, telling you the shorts can do nothing but give up at this stage, they had to cover their positions now, their doom's day is here.
+
+The market opened, GME shoot up, crossing the $100 mark, then it's suspended for trading and when it opened again, it's $150!, then $200, $250, it kept getting suspended for super high volatility, but every time the suspending got lifted it went up another $50!!! Finally it crossed WSB's favourite number $420.69, but it still kept going, it's like a never-ending straight line going to the moon, no, Mars! Then the magic number $694.20 was getting closer and closer, you were thinking "Haha funny number, I'll sell at that price", you filled in order detail, Limit Sell 23 shares at $694.20, you were sweating balls, hoping your ma will love you now that you've made money in a stock. You submitted the order, it showed "Sorry we've encountered an unexpected server error. Please try again later".
+
+&#x200B;
+
+Edit: Tuesday is 19th, I got stupidsm, and 🚀 🚀 🚀 🌚 🌚🌚_END_OF_POST_PYSTOCK_ Barbell Investing  This is a thread to discuss Taleb's barbell investing idea, introduced in Chapter 13 of "The Black Swan."
+
+I'm  going to quote Taleb's description of the strategy here, which I  believe is ok because he blatantly and purposefully makes all his books  freely available via online pdf. 
+
+*"If you know that you are  vulnerable to prediction errors, and if you accept that most "risk  measures" are flawed, because of the Black Swan, then your strategy is  to be as hyperconservative*  
+*and hyperaggressive as you can be instead  of being mildly aggressive or conservative. Instead of putting your  money in "medium risk" investments (how do you know it is medium risk?  by listening to tenure-seeking "experts"?), you need to put a portion,  say 85 to 90 percent, in extremely safe instruments, like Treasury  bills—as safe a class of instruments as you can manage to find on this  planet. The remaining 10 to 15 percent you put in extremely speculative  bets, as leveraged as possible (like options), preferably venture  capital-style portfolios. That way you do not depend on errors of risk  management; no Black Swan can hurt you at all, beyond your "floor," the  nest egg that you have in maximally safe investments."*
+
+This is  in no way a suggestion that any of us should invest in a strategy like  this. This is a thread to discuss specific, practical, hypothetical  components that an investor in this type of strategy could use to  construct their barbell.
+
+Personally, I'm more interested in publicly traded investments than private equity.
+
+I don't have many ideas to share, but here are a few.
+
+**Positive Black Swans**
+
+Bitcoin  - TBH I just sold all of my bitcoin. But I still think of this as an  area with possibly unlimited upside. I also \*like\* the idea of others  piling into the trade using stocks like RIOT and bidding up the price of  blockchain-related ETPs way above NAV. The next time we see a slew of  "I-told-you-so" Bitcoin articles about all those silly tulip chasers,  I'll be levering up through instruments like these rather than buying  BTC itself, since I'm not a believer anyway. Are there any ways to get  direct leveraged exposure to BTC?
+
+Call Options - I am an  options noob recently trying to educate myself. My problem with call  options is that when they are most useful (after big market declines),  they are also most expensive. If this is a misconception, I would like  to clear it up. Can anyone recommend good resources to learn options  trading? I'm not sure if I should take a class at my local business  school, read some books (which ones?), learn through websites (which  ones?), or all of the above. 
+
+Hedge Fund Copycat - Just last  year I put a small amount into gold mining penny stocks highlighted on a  series of YT videos by Crescat Capital. I don't really believe any of  their story, but I think the fact that they are telling it increases the  probability of these penny stocks doing well. One of them is up over  600% since I bought so that's cool. I haven't used this strategy with  anything else. Anyone else have ideas for this strategy?
+
+How else can we get exposure to positive black swans in our barbell strategy?
+
+**Negative Black Swans**
+
+USD  - USD losing its status as world reserve currency would be a tremendous  black swan. At first thought, it seems like there are lots of direct  leveraged trades to short USD via the FOREX exchange (e.g. just go long  EURUSD). But on second thought, if all currencies lose against whatever  the new reserve currency will be, then it may not be quite so easy to  pick relative winners among the losers. What else can we do to get  exposure to this event in a barbell?
+
+Put Options - Again,  total noob options trader here. I love the irony of puts in that they  are cheapest when they are most useful and valuable. How beautiful is  that. I get the math behind simple hedging strategies using SPX puts,  but what if you want to seek greater profits in your barbell? How do you  identify a real turd to maximize the potential payout of your puts? I  know, that's a big question. Any books (or anything else?) that you  would recommend on the subject? I know that's like asking the industry of short sellers to reveal their secrets, but hey it doesn't hurt to ask.
+
+What other strategies should we stick on the negative side of our barbell?_END_OF_POST_PYSTOCK_ A True Retard _END_OF_POST_PYSTOCK_ A gif I made for wallstreetbets 🚀 🚀 _END_OF_POST_PYSTOCK_ fear no dip.. pleas fly again _END_OF_POST_PYSTOCK_ Saudi Arabia plans 170km city without roads in Neom economic zone - News - GCR _END_OF_POST_PYSTOCK_ Pump and Dump ads targeting WSB? 🤨 Just realized, some Pump and Dump ads are targeting WSB.
+
+&#x200B;
+
+https://preview.redd.it/vtpxypjkbzb61.jpg?width=1145&format=pjpg&auto=webp&s=36a2b3ddf705dc3bca6e6e386d5573756d7bdc3f_END_OF_POST_PYSTOCK_ I called $GME about PC hardware, here's the audio! PC Gamer Components are coming to GameStop. I called the shipping hub for the GameStop stores in my area, and an associate confirmed that gamer PC hardware is coming! That among some other cool details. Another associate from another store confirmed that streaming hardware will be coming first if not already in store, but actual internal components are scheduled when some stores get a new "face" it sounded like she said? I'm guessing the 1.5 tier stores will somehow reface themselves to indicate they are PC gaming oriented stores? Likely regional hubs I'd assume. They adopted a similar shipping and delivery model to Auto Zone and Advance Auto if I recall correctly. Sounds like a moon mission to me! 🚀🚀🚀🚀🚀
+
+I have trimmed the front of the audio file to protect the associate, and beeped our specific location area. Yes I am aware my phone and poor editing skills make me sound 13, but before you shit on me let me ask did you call and post it today? 😎
+
+[https://mega.nz/file/9jRV2S5I#h1HR\_5jmufioO691XjcUi3iAD-9z1QHjjfbJu\_w\_OWk](https://mega.nz/file/9jRV2S5I#h1HR_5jmufioO691XjcUi3iAD-9z1QHjjfbJu_w_OWk)
+
+Edit: I'm going to trim and edit the audio from at least one other store. Two people noted "faces", but one of them also knew a little about hardware so I'll upload that as well. 
+
+Edit #2: Here is the 2nd recording. The reps audio was low, and I am not a sound engineer but I did my best. 
+
+https://mega.nz/file/Iq4ABRoA#COo0J3UuoJ4o9SyTAv1L-enlL1eYA23htsIkzfuGZRs
+
+Edit #3: can people tweet this @RyanCohen to get some exposure. Of course he can't say much, but the silence will tell all. I'm not the social media type, RC is one of like 6 people I follow but this gaining traction could be huge. 
+
+Edit #4: I had a wet dream last night that Ryan Cohen brought John Legere on board. Can you imagine? That dude is wild. 
+
+I should also note, someone else posted this rumor. I simply put in a little effort. I did not crack this myself. 
+
+Legal note I apparently already need to make, I live in a one-party consent state for telecommunication recording and I will be removing all personal and specific local area references._END_OF_POST_PYSTOCK_ Ark Invest's top 5 buys of last week by % change in shares held. Thoughts on why LMT? _END_OF_POST_PYSTOCK_ Get in on LYFT before too late!! _END_OF_POST_PYSTOCK_ DD $PBI (Pitney Bowes Inc) 100 year brand in need of a turnaround story. Already extremely well established infrastructure from their direct print and mailer business. Making the move into e-commerce, balance sheet hasn’t been great but they have been continuing to slash costs as they move more and more towards e-commerce. Multi year (2022-2023) personal PT of $20+ a share. They just raised their pricing model into the holidays and I think they have a monster quarter. Established name could lead to a potential acquisition down the road as a fulfillment play (I’ve had Amazon packages with their tags on the letterhead for a 3rd party delivery). Already had a huge move off the oversold selloff from last quarter and I think this will be their first true “turnaround quarter”.
+
+Pricing raise:
+https://www.businesswire.com/news/home/20201202005180/en/Pitney-Bowes-Announces-2021-Pricing-for-Ecommerce-Services-with-Simple-Easy-to-Understand-Rates
+
+Disclosure: Long Feb $8, 9 calls. Also long 1,500 shares since $6 and holding $10 2022 LEAPS._END_OF_POST_PYSTOCK_ NOK news Nokia is a sleeper 5G play. Earning could be released February 4th and with these new contracts they are gonna smash earnings. The hype just started Friday so we can still get in early.
+
+Because I'm a broke bastard I only have 1 01/20/23 5$ call that I paid 75$ for.
+
+Up 5 dollars so far 🚀🚀🚀🚀🚀 my retard brain is happy.
+
+[https://finance.yahoo.com/news/nokia-nok-secures-key-deals-145002461.html](https://finance.yahoo.com/news/nokia-nok-secures-key-deals-145002461.html)
+
+[https://www.reuters.com/article/nokia-alphabet/nokia-signs-up-google-for-building-cloud-based-5g-network-idUSL1N2JP0O6](https://www.reuters.com/article/nokia-alphabet/nokia-signs-up-google-for-building-cloud-based-5g-network-idUSL1N2JP0O6)_END_OF_POST_PYSTOCK_

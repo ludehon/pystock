@@ -1,0 +1,273 @@
+ Borrowing on Margin (2% APY) for boring Buy and Hold ETF Investing My broker is willing to let me borrow 40% of the funds in my brokerage account at a 2% APY interest rate. They will issue a maintenance call if the account drops 50% but it contains relatively boring ETFs that I plan to hold for 10+ years and therefore I don't envision this happening.
+
+It seems like I should borrow as much as they will give me and reinvest it back into the ETFs as they're expected to return 5-8% per year over the long term. 
+
+Is there something I'm missing? This feels like a no brainer._END_OF_POST_PYSTOCK_ The meaning of “over-valued” There is a lot of talk of stocks being “over-valued” without clarification of what this actually means. People forget that valuation is what is being done when people are willing to buy a stock at the price it shows up at. There has been a progressive dissociation between valuation and company worth. If you’re a trader, it doesn’t matter but if you are investing for long term gain this principle is extremely important. If you are a long term investor, simply buying at whatever asking price and pricing far future without checking how that asset is actually doing vs ones that cost the same is asking for a surprise.
+
+This is why I have made the table below. I feel it puts into context what is being discussed for some of the stocks with largest market caps. And gets us thinking about how much “potential” we are actively pricing into some of these assets. There is a reason corrections happen on the market and some can be devastating. 
+
+
+It is worth thinking about:
+1. How much revenue does the company have vs those of a similar or lesser market valuation?
+
+2. How is the rate of revenue increase and actually changing?
+
+3. How much is the profitability vs companies of a similar lesser market cap?
+
+4. Do the current assets hold actual value and how does this value compare with other similarly valued businesses?
+
+
+At a simpler level:
+
+1. How accessible are the products they physically have available right now? 
+
+2. How many of them do you, your family and your friends have and use currently? 
+
+This explains the growth that some have experienced and some that you might expect given your company choice.
+
+
+Figuring this out will allow you to figure out how much “potential” investors as a whole are pricing into a company's worth. Furthermore, if a correction occurs on your chosen stock, how much growth will it take to reach those levels again. When corrections occur, the only thing that changes is the market valuation whilst fundamental company metrics stay put and that is why certain stocks never get back to previous valuations i.e. because they were substantially “over-valued” by investors who priced in substantially more potential than they should have. See below. 
+
+https://imgur.com/a/IIsnabx_END_OF_POST_PYSTOCK_ ETF fees or expense ratio (net) Hello there! 
+
+A lot folks have been posting about investing in ETFs lately. However, nobody is talking about the ETF fees associated with some of these investments. Is this not mentioned because people don’t know about them or think the returns will be greater than the cost of bothering with the fees? Am I missing something? (Newer to investing in ETFs)
+
+For example, ARKG is all the rage but the expense ratio (net) is still .75%. That’s high in comparison to let’s say SPY at 0.09%. 
+
+Can somebody help explain why ARK and let’s say MSOS are so popular but have high expense ratios? Is this a concern?
+
+Thank you so much for your input!_END_OF_POST_PYSTOCK_ Sleeping giant! (NMRD) SLEEPING GIANT (NMRD)  Investor presentation: [https://nemauramedical.com/wp-content/uploads/2020/09/Nemaura-Medical-3rdSept20-V1.1.pdf](https://nemauramedical.com/wp-content/uploads/2020/09/Nemaura-Medical-3rdSept20-V1.1.pdf)
+
+Basically    a disruptor for the continuous and non invasive measurement of  glucose   levels in the blood for diabetics. With a fancy app on your  phone you   can see your blood sugar live, instead of heaving to  puncture yourself   with a needle and draw blood. It checks all the  boxes: a disruptor,   under the radar, huge TAM (80 billon+), healthcare  tech, and a SaaS   model with huge marins. The nice thing about the  company is that they   have a low market cap, they are CE certified and  started selling their   product in Germany, Ireland and the UK in Q4. In  the slideshow they say   they are already making revenue in these  countries, so I expect a nice   surprise when earnings come around. FDA  approval is expected at the end   of 2021. Competitors are big pharma,  but because NMRD focusses only on   their sugarbeat product, I believe  that this gives them an advantage.
+
+Also: they match up to their competitors: [https://www.youtube.com/watch?v=7Mujq9\_wDOw](https://www.youtube.com/watch?v=7Mujq9_wDOw)
+
+Profit    margins are also very nice with a subscription model and data    collection. Big hedge funds (including Blackrock) bought in on the 29th    of September 2020, around $3,50._END_OF_POST_PYSTOCK_ Walmart to create fintech start-up with investment firm behind Robinhood 
+
+https://www.cnbc.com/2021/01/11/walmart-to-create-fintech-start-up-with-investment-firm-behind-robinhood.html?__source=androidappshare
+
+Walmart has been aggressively expanding in the past couple years.
+
+They're looking to tap into healthcare and finance services and are becoming an in person Amazon, which provides not only every good you'll ever need, but also every in person service.
+
+With their large presence and high volume low cost model, I believe Walmart could really draw upon the pool of underbanked and fintech Americans.
+
+Looks like a good time to expand your position._END_OF_POST_PYSTOCK_ Price differences between Bitcoin and $GBTC Bitcoin index Hi all, thanks ahead of time for any participation in the discussion. I’ve been interested in bitcoin for a couple of years now but have been reticent to pull the trigger because of price levels. For some reason my investment principles aren’t being applied to bitcoin, but perhaps that is happening to other people as well.
+
+I will say that a part of me wants to just buy the index noted in the title so I don’t have to leave my brokerage. I’m starting to rethink given the APY available in Bitcoin platforms. 
+
+However, for the sake of debate, I’m curious specifically about the pricing differences between the index and bitcoin itself. It’s hard to line up any hard numbers because of the constant fluctuations, but it appears that the index is down significantly more today. Am I wrong about that? If not, what’s the reasoning behind this? Any information is welcome. Thanks exclamation_END_OF_POST_PYSTOCK_ Question to Investors who have been through the multiple bubbles One of the fundamental reasons why I feel the stock prices are going up is because there are very few places you can park your money:
+
+\- Real estate requires huge capital.
+
+\- Gold and Bitcoin are only a hedge at best. 
+
+So, even though these stock prices are nuts, I can make a case for them to continue to go higher. 
+
+My question to folks who have been through multiple bubbles (including the dot com bubble) is, was it a similar case then too? Was there every few assets where you could park money then too? 
+
+Thanks!_END_OF_POST_PYSTOCK_ Trading the News The recent surge of Hyundai stock after the news that Apple and Hyuandai were in early talks about a possible cooperation made we wonder how effective "trading the news" is? In this example, we do not even know if there will ever be a cooperation, so buying stocks based on such early news sounds dangerous to me. What do you guys think?_END_OF_POST_PYSTOCK_ Rising Inflation Impact on Bond ETFs With rising inflation being predicted in the near future (some expecting CPI \~3% as early as the spring), how would this impact bond ETFs?
+
+Wouldn't rising inflation cause the price of these bond ETFs to fall (since bond yields and price have an inverse relationship)? Also, would this apply to any fixed-income ETF? For example, I'm particularly interested in how rising inflation would be expected to impact bond ETFs like these:
+
+* AGG: iShares Core Total US Bond Market ETF (U.S. Bonds)
+* LQD: iShares iBoxx $ Investment Grade Corporate Bond ETF (U.S. Corporate Bonds)
+* BNDX: Vanguard Total International Bond ETF (International Bonds)_END_OF_POST_PYSTOCK_ Why I think Motley Fool is a legitimate resource for stock picking People accuse MF of pump and dump schemes, claiming that if they really were successful investors they would be keeping their information to themselves.   
+
+
+1.  If you're invested in a company for the long term, sharing your DD makes it MORE LIKELY for your company to succeed. You get more people to invest in the company you own, the company gets more money to improve their bottom line, (marketing, hiring more engineers, obtaining more money for R&D etc...).  Which then encourages more people to invest in them.  
+
+2. MF has been operating for the past \~30 years. If they really were operating a pump and dump scheme, they would've been ousted long ago.  
+
+3. One of the MF founders interviewed Jack Bogle. During a segment they discussed that the more often you trade or sell stocks, the more likely you are to underperform the market. And they also found that if Warren Buffet never sold a single stock he would've been much wealthier today. Similarly MF found that if they never sold a single stock that they purchased, they also would've performed better. So they stopped adding when to sell stocks on their news letters. 
+
+That's why long term investors like ARK and Motley Fool SHARE all of their research and purchases. When they do that, more people invest in their companies, those companies then have a better chance of getting an early advantage compared to their competitors, and so on.
+
+Disclaimer: I'm not subscribed to Motley Fool, but my dad has for the past 2 years and his portfolio consists entirely of MF stocks. He bought SHOP and FSLY before they were 1/10 the value they are now. You can judge for yourself whether or not these are short term pump and dump stocks: ZNGA, LMND, SHOP, DIS, TEUM, CHWY, LKNCY, APPN, TER, ASML, CGC, ZM, ROKU, PLUG, FSLY._END_OF_POST_PYSTOCK_ Holding rival stocks? Hey all,
+
+I’m fairly new to the market (<1 year) and wondering if it’s a bad idea to hold position in competing companies? I currently have funds split about 50/50 between NIO and Tesla. After Saturday’s event, I’m beginning to wonder if this is a bad idea. 
+
+In theory- when one gains from big news (NIO today), will Tesla most likely always see a negative change?  am I just cancelling out any positives by holding both simultaneously? Any help would be appreciated._END_OF_POST_PYSTOCK_ Using sovereign credit/debt to leverage on foreign exchange weaknesses Hi all, everyone’s been awesome here and I’ve learnt a ton from all of you.
+
+I have a query. Is there a way for retail traders  to hold soverign credit in currency A when currency B (USD) is strong. And convert A to USD when  USD has weakened. 
+
+After that, we use USD to buy assets such as reits and bonds where the carry is higher. 
+
+Is there any kind soul who can advise me please? Thank you very much in advance 
+
+Cheers_END_OF_POST_PYSTOCK_ Ryan Cohen joins GameStop board; E-commerce sales reach 34% of GameStop sales GameStop Announces Additional Board Refreshment to Accelerate Transformation
+
+[Source.](https://www.globenewswire.com/news-release/2021/01/11/2156168/0/en/GameStop-Announces-Additional-Board-Refreshment-to-Accelerate-Transformation.html)
+
+TL;DR: Former Chewy CEO(Ryan Cohen), CFO, COO join GameStop board. So now total board members is 13(3 new board member). 4 of the previous board members will retire later.
+
+GameStop Reports 2020 Holiday Sales Results
+
+[Source](https://www.globenewswire.com/news-release/2021/01/11/2156301/0/en/GameStop-Reports-2020-Holiday-Sales-Results.html)
+
+TL;DR: E-commerce sales up 309%, comparable store sales up 4.8%. Total sales DECLINED 3.1% driven by an 11% decrease in the company’s store base. Australia and New Zealand being less affected by pandemic saw 31% increase in sales. No guidance. Profitability coming in fourth quarter.
+
+Net sales $1.77B._END_OF_POST_PYSTOCK_ $MELI is an amazing buy and hold $MELI is a great buy and hold, dont sleep because its not late at all.
+Here are my reasons
+
+1) Deep on E-commerce and Fintech, this company is an Amazon + Square + Paypal combination in South America. ARK funda have a good share of it
+2) E-commerce purchases as a part of all retail in Latin America at the end of last year were somewhere around 4% of the total. Huge growth ahead.
+3) MELI jumped 7% on friday because in a press release, MercadoLibre said it will offer $400 million worth of debt paying 2.375% interest and maturing in 2026, and also $700 million worth of debt paying 3.125% and maturing in 2031. The company noted that this will be its first offering of debt securities. 
+4) Just started to ride the Green wave, which only brings gains: "MercadoLibre intends to use the net proceeds from the sale ... to finance or refinance ... environmental objectives such as: clean transportation, land conservation and preservation, energy efficiency, renewable energy, green buildings and pollution prevention and control."
+
+MELI can go really high without much risk associated, just expect some low volume volatility. 
+My floor Price Target for MELI is $2300 in 6-9 months_END_OF_POST_PYSTOCK_ are index funds as reliable as they're made to look? Has anyone had any bad experiences with index funds? They're promoted to be 99%, pretty much guaranteed safe (not an actual statistic) and its extremely unlikely you will lose money. But surely, if they where so good, every average joe would have one?_END_OF_POST_PYSTOCK_ Tesla (again) Let's brainstorm this a little bit.  I'm sure most of you saw that snippet from 60 minutes (posted on WSB recently), saying, "Amazon would have to sell every book being sold in the world today to justify its stock price." That was way back in the late 1990s when Amazon was just an on-line book store. 
+
+Someone else said, "That's Tesla today." 
+
+I'd like to know how. 
+
+Amazon had a clear path to expand from selling books, to household gadgets, to literally everything and anything sold by anyone anywhere. Including things that didn't exist in the 1990s, like AWS cloud services (that \*should\* have gone to someone like Akamai or CSCO or MSFT, or Oracle or even freaking WalMart had a better information system infrastructure than Amazon had in the 1990s.)  Amazon dominating that segment was just a fluke. And currently the lion's share of its revenue too.
+
+Also, I wanted an electric car but didn't want Tesla's goofy iPad-style interface system, among other things, so I took an old sports car and built my own EV. Guess what? EV's are not hard. Sure, mine is definitely not more efficient than a Tesla (or Bolt, or etc.) but I learned something important -- replacing the drivetrain and installing batteries was the easy part (granted, I have some electrical engineering experience -- but not much). Literally everything else about building a car was way, way, WAY harder. Companies like Ford, GM, Toyota, VW, etc. can \*easily\* outbuild Tesla, and highly efficient, high-torque electric motors and solid state batteries appear to be on their way to commodity status. 
+
+Solar Panels, self-driving capability, yada, yada... I don't see how these can possibly match the scale of what Amazon did. Grid energy storage, merging with Space-X and using Starlink's Skynet as part of the self-driving hive-mind... maybe? 
+
+What else could there be? Fully autonomous, self-managing houses? Is Tesla going to start selling phones that use Starlink, to fulfill the space Iridium tried to back in the 90's? 
+
+Help me understand how TSLA \*might\* live-up to its current stock price. I want to believe, but currently, I'm just not seeing it._END_OF_POST_PYSTOCK_ Thoughts on Alibaba? And other Chinese growth stocks (Meituan, Tencent etc) We've all heard about Jack Ma's disappearance over the past few months and its repercussions to BABA stock. The underlying concern of Chinese regulation and the communist regime has clearly weighed on Chinese stocks, especially those with ADRs traded in the States. Do ya'll think this is temporary or will Chinese stocks continue to suffer through this year?
+
+Personally I think the incoming administration for better or worse will ameliorate Sino American tensions and given the attractive P/E's of both Alibaba and Tencent (\~23 and \~38) we could see a decent rally in the coming months._END_OF_POST_PYSTOCK_ Perfect Piotroski Scores - Q1 2021 Hi Everyone,
+
+I've made a few posts here about the different data I collect, so here's another one on the Piotroski Score.
+
+I started tracking the Piotroski Score for >5000 companies last year and dove back in this past week to see how the different scores performed. The answer? Quite well.
+
+**Companies with a Piotroski Score of 9 (10 total) on July 1, 2020, as a basket, returned 56.10%** if held through till market close on Friday. The S&P 500 during the same timeframe returned 22.75%.
+
+There were some super small companies in that batch though including Fuwei Films and Socket Mobile. So I took a look at something a little cleaner, companies scoring 8 or 9 with a market cap > $1B. This, too, beat the market, but by a smaller margin 31.5% versus the 22.75%. It also consisted of 74 stocks, so a little harder to manage if you were to buy them all.
+
+So, is it worth following? Not sure yet, but I use it as a tool to make investment decisions. I like to keep track of it for the companies in my portfolio and watchlists to see that they're improving in this area and not scoring lower and lower over time.
+
+**Companies with a score of 9 today:**
+
+* Potlatchdeltic Corp
+* Avantor Inc
+* Daily Journal Corporation
+* MSG Networks Inc
+* Louisiana-Pacific Corporation
+* Fuwei Films (Holdings) Co Ltd
+* NetScout Systems, Inc.
+* Howmet Aerospace Inc
+* Genie Energy Ltd Class B
+* Donnelley Financial Solutions Inc
+* Hain Celestial Group Inc
+* Western Midstream Partners LP
+* Hologic, Inc.
+* Lifeway Foods, Inc.
+* Photronics, Inc.
+* Vistra Corp
+* International Seaways Inc
+
+The data is all in this Google Sheet: [https://docs.google.com/spreadsheets/d/1293vjngVqXB-aCwi1uZ8Kt6XX4ME4AXQWsHlsaB4YWY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1293vjngVqXB-aCwi1uZ8Kt6XX4ME4AXQWsHlsaB4YWY/edit?usp=sharing)
+
+EDIT: Just to note, it looks like Google Finance is having some troubles returning prices in the sheet above. This occasionally happens, and I have no control over it. _END_OF_POST_PYSTOCK_ Biogen, Apple collaborate to evaluate device role in digital biomarkers of cognitive health  
+
+* Biogen (NASDAQ:[BIIB](https://seekingalpha.com/symbol/BIIB?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link)) gains 3% in premarket after entering into a new virtual research study, [in collaboration with Apple](https://seekingalpha.com/pr/18145641-biogen-to-launch-pioneering-study-to-develop-digital-biomarkers-of-cognitive-health-using?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link) (NASDAQ:[AAPL](https://seekingalpha.com/symbol/AAPL?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link)) to investigate the role Apple  Watch and iPhone could play in monitoring cognitive performance and  screening for decline in cognitive health including mild cognitive  impairment.
+* The study aims  to identify digital biomarkers to help monitor cognitive performance and  health including potentially detecting mild cognitive impairment, an  early indicator of certain forms of dementia such as Alzheimer’s disease
+* Multi-year,  observational research study will be launched later in 2021 and will  enroll participants including young and aging adults with a range of  cognitive performance.
+
+[https://seekingalpha.com/news/3650238-biogen-apple-collaborate-to-evaluate-device-role-in-digital-biomarkers-of-cognitive-health](https://seekingalpha.com/news/3650238-biogen-apple-collaborate-to-evaluate-device-role-in-digital-biomarkers-of-cognitive-health)_END_OF_POST_PYSTOCK_ Eli Lilly up 20% after donanemab shows clinical benefit in mid-stage Alzheimer's study  
+
+* Eli Lilly (NYSE:[LLY](https://seekingalpha.com/symbol/LLY?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link)) gains 20% in premarket on [promising results](https://seekingalpha.com/pr/18145426-lillys-donanemab-slows-clinical-decline-of-alzheimers-disease-in-positive-phase-2-trial?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link) from [Phase 2 TRAILBLAZER-ALZ study](https://clinicaltrials.gov/ct2/show/NCT03367403?cond=trailblazer&draw=2&rank=1&source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link), evaluating donanemab, an antibody that targets a  modified form of beta amyloid called N3pG, for Alzheimer's disease  (AD). The study met the primary endpoint of change from baseline to 76  weeks in AD rating scale.
+* Data  showed that donanemab slowed the decline in a composite measure of  cognition and daily function by 32%, compared to placebo.
+* Safety profile was consistent with observations from Phase 1 data.
+* Full  results of the TRAILBLAZER-ALZ study will be presented at a future  medical congress and submitted for publication in a peer-reviewed  clinical journal.
+* Lilly plans to  discuss these results with regulators to assess next steps for  donanemab. In addition, TRAILBLAZER-EXT is an ongoing trial for those  who participated in TRAILBLAZER-ALZ.
+* Safety, tolerability and efficacy of donanemab are also being evaluated in another [Phase 2 study TRAILBLAZER-ALZ 2](https://clinicaltrials.gov/ct2/show/NCT04437511?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link).
+* Progress on Alzheimer's treatments was one reason cited by BofA in picking Lilly as a [top name for 2021](https://seekingalpha.com/news/3649105-bofas-biopharma-picks-2021-set-to-build-new-launches-beatable-expectations?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link).
+
+[https://seekingalpha.com/news/3650196-eli-lilly-up-20-after-donanemab-shows-clinical-benefit-in-mid-stage-alzheimers-study](https://seekingalpha.com/news/3650196-eli-lilly-up-20-after-donanemab-shows-clinical-benefit-in-mid-stage-alzheimers-study)_END_OF_POST_PYSTOCK_ Semiconductors or Battery ETFs? Hi! My core portfolio is in VT+BND. I am looking to get exposure to a theme that may generate alpha over 5-10 years. I'd prefer a passive ETF unlike ARK funds.
+
+I am looking at [LIT](https://www.globalxetfs.com/funds/lit/?utm_source=google&utm_medium=cpc&utm_content=lit&gclid=CjwKCAiAi_D_BRApEiwASslbJyMJYsgvXYRlsk3sF_Vttw8JC1xMgJe_5xCXnnAUXG8B6Lm_yBFnihoChzkQAvD_BwE) **and** [SOXX](https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf)**.** How does everybody here feel about these two ETFs? I also looked at [KOMP](https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-kensho-new-economies-composite-etf-komp) but it honestly sounds like a passive version of ARKK._END_OF_POST_PYSTOCK_ Peter Lynch: "There's always something to worry about." [There's always something to worry about](https://www.youtube.com/watch?v=Esn0QZmD77A).
+
+Most people on this sub who preach to invest into index funds, to hold for the long term. Yet, everyday you see posts about what's next to buy, what's gonna crash the stock market, or why this market doesn't make sense when the economy is in the dumpster. At the end of day, most people here don't have the stomachs to withstand when actual correction comes. A lot of people don't know what they own. How many people sold out of their SPY or VOO during March & April of 2020, then just to buy it back later at a way higher price?
+
+To them holding long term equals to holding a stock for 1-3 months, and they wondered why they got paper handed. You can be the best expert at economics, you understand the inside-and-out of the world's money supply and the U.S. national debts, and you would still get the market wrong._END_OF_POST_PYSTOCK_ E-Sports ETF's I've been looking to buy into the e-sports sector as I'm rather bullish on the its future.
+
+To mitigate some risk and help with diversification, I've been thinking of buying into one the sectors ETF's (NERD, HERO or ESPO) rather than buying into one or two companies.
+
+My question is thus this, which one of these three would be the best option?  Or even, which two?_END_OF_POST_PYSTOCK_ TSMC VS SAMSUNG These two companies are the leaders in semiconductor market. I’ve seen a couple news articles about how Samsung will outcompete TSMC by 2024 but i am uncertain since TSMC works closely with Apple. What are your guys’ opinions? Which one should I invest in?_END_OF_POST_PYSTOCK_ Download data from Yahoo Finance to Excel Hi all,
+
+I am creating an excel workbook for determine the discounted dividend model.
+
+I would like to download some information directly from yahoo finance .
+
+Could someone suggest to me any method to download data like eps, dividends and other from yahoo finance directly to Excel?
+
+Thank you in advance_END_OF_POST_PYSTOCK_ Website to check in real-time the single stocks P&L inside an ETF? Would be nice to have a website where to input an ETF ticker/ISIS, and see in real time all the P&L of the single stocks included in that ETF. Does such a thing exist?
+
+It would be incredibly educational to see how the stocks move as a whole, when the global markets are reacting to specific events (like this morning - I see World index up, EU index down and bonds going up a bit)._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Nearly $170 billion wiped off cryptocurrency market in 24 hours as bitcoin pulls back https://www.cnbc.com/2021/01/11/bitcoin-btc-price-nearly-170-billion-wiped-off-entire-cryptocurrency-market.html
+
+Looks like a 20% drop on Sunday means that the Bitcoin bubble is popped at least in the near term. It just goes to show that there is still very little liquidity actually moving the price around. I personally think it will probably bounce back up within a month or two, and the roller coaster will continue again._END_OF_POST_PYSTOCK_ New to all of this, but want to learn the basics. So, what are some good "crash course" videos or books that I can look in to? I'm new to this investing thing and honestly don't even know where to start to learn more about it so I figured what better place to come for some advice on where to start. I'm looking for some "crash course" type videos or books that I can look in to so I can learn the basics. Any insight or advice would be greatly appreciated! Serious answers only please._END_OF_POST_PYSTOCK_ Using Indicators * Hey guys, I just started using indicators (MACD, RSI, squeeze) to decide when to buy and sell stocks, it's been super helpful but I'm still a bit confused. I use tradingview's screener, which lets you look at a stock chart over the past year, 6 months, etc. and changing this of course changes what the indicators will look like. For example you're looking at a stock's performance over the past year using RSI, and the line is currently well under 30, indicating a buy point. Then you zoom in to the past month instead, and now the line is dead in the middle of the chart at 50 because the stock's been trending pretty low over the past month. How do you decide which one to look at? Obviously I can assume that the stock might not do much in the next month but will probably go up in the next year and make decisions based on how long I plan on holding onto it, but I was wondering if you guys had a better approach. Sometimes I just give up because the one month chart of a stock says buy, the 6 month says sell, and the year to date says something totally different._END_OF_POST_PYSTOCK_ Why do retail investor returns don’t matter? I read an article that said “your retail returns don’t matter if you wanna open a fund”.Marketing-wise I get it ,but why don’t they matter investment-wise?if a retail investor is making 20%-120% returns what’s stopping him from doing that in a fund with more money??(and for the sake of the question he manages less than a billion dollars)._END_OF_POST_PYSTOCK_ Fed QE and Asset Inflation Can the fed hypothetically do an endless QE? Any potential impact in the future status of markets? As I understand it, the reason why the stock and property markets across North America and much of the world are going through the roof right now is because of loose monetary policies: interest rates are very low, too much money supply. Is this a correct perspective? Is US/Canada heading towards the direction of Japanese economy? If not, what’s the difference?_END_OF_POST_PYSTOCK_ What are your 2021 January Stock Picks? Obviously no one has a crystal ball but what are your stock pick for early January here that you think will rip upwards in 2021.
+
+I'm really looking at $Roku and $FVRR which will continue to grow but I'm simply perplexed with Tesla at the moment and don't understand it's movement other than Fomo at this point
+
+In addition I've been pretty heavy on Arkk and arkw_END_OF_POST_PYSTOCK_ When you execute a call and buy the 100 shares, who are you getting the shares from? I know this seems like a pretty generic question but I have never been able to find an answer to my question. My first thought was that the person who sold them the call had to buy 100 shares at the current price and sell them to them at the strike price. But we know that’s not true so who is it, the brokerage? (Edit: Technically this is true sometimes if you buy it from someone writing a call)
+
+Edit: Question answered the original person who wrote the call has to buy and sell (or just sell if it was a covered call)the 100 shares hence selling an uncovered call and selling a covered call. I’m not stupid I mostly understand options. I was confused on whether the liability transfers to you when you bought and sold an option (I was 99% sure they didn’t or else everyone would execute not sell). I was also curious about whether maybe brokerages were usually the ones selling them since they have the big money to cover their calls._END_OF_POST_PYSTOCK_ What's stopping big quant funds like Renaissance Technologies, DE Shaw and Two Sigma from having the future of Long Term Capital Management? As Warren Buffett puts it, LTCM has possibly had the highest concentration of intelligence in a group of 16 people who have worked together in a United States office. A staff made up of the academic and financial elite that ended up bankrupt.
+
+What guarantees that large quantitative funds such as Rennaisence Technologies, DE SHAW, Two Sigma (although this only operates with raw materials) do not have the same future? Especially after the hyperliquidity bubble caused by the FED explodes, which facilitated prediction and reduced market volatility in recent years.
+
+My conclusion is: quantitative strategies are profitable and sustainable only until the size threshold is reached that allows you to take advantage of the instantaneous inefficiencies of the market and an equation will never be invented to solve the market.
+
+&#x200B;
+
+[https://finance.yahoo.com/news/human-run-hedge-funds-trounce-050001129.html](https://finance.yahoo.com/news/human-run-hedge-funds-trounce-050001129.html)
+
+[https://www.bloomberg.com/news/articles/2020-11-17/renaissance-two-sigma-see-losses-as-quant-giants-navigate-chaos](https://www.bloomberg.com/news/articles/2020-11-17/renaissance-two-sigma-see-losses-as-quant-giants-navigate-chaos)_END_OF_POST_PYSTOCK_ Why doesn't Renaissance Technologies's create a quant ETF/MF like their Medallion Fund I know that they outperform SP500 by a large margin, why don't they create ETF/MFs using the same technology isn't there money to be made in the MF/ETF market. Is there a specific legal or technical problem?
+
+Here is the description of medallion fund for anyone who doesn't know:
+
+>*The Medallion fund is considered to be one of the most successful hedge funds ever. It has averaged a 71.8% annual return, before fees, from 1994 through mid-2014. The fund has been closed to outside investors since 1993 and is available only to current and past employees and their families. The firm bought out the last investor in the Medallion fund in 2005 and the investor community has not seen its returns since then. About 100 of Renaissance's 275 or so employees are what it calls "qualified purchasers", meaning they generally have at least $5 million in assets to invest. The remaining are "accredited investors", generally worth at least $1 million. By the year 2000, the computer-driven Medallion fund had made an average of 34% a year after fees since 1988. Simons ran Renaissance until his retirement in late 2009. Between January 1993 and April 2005, Medallion only had 17 monthly losses and out of 49 quarters in the same time period, Medallion only posted three quarterly losses. Between 1989-2005 Medallion had only one year showing a loss: 1989.*
+
+So I hope someone will able to come up with the answer to this question. Hopefully this question wasn't asked in the past._END_OF_POST_PYSTOCK_ In this day and age with advanced computers, why does volume spike at all? Logically, wouldn't an algo compensate to buy low over the course of weeks vs paying a premium of 30 40 50 percent on a particular day? I was working on some charts tonight and this logical question popped up. In today's world with advanced computers and algos, why does volume "pop" anymore? Logically, wouldn't I want all my buys to be spread out (as low as possible) over a few days or even weeks? Is this "pop" actually intentional (once a large position is built up) to signal other algos to take notice? This is the only explanation I can think of. Thinking about it, why would a firm pay 20-30-40 percent premium on a single day? It could easily wait and build up a position in my mind_END_OF_POST_PYSTOCK_ What happens when you invest in a SPAC? When you buy shares of a SPAC, and then the SPAC merges with a company to ‘Faux-IPO’ it, will the share price adjust such that it is as if you bought what the company would have IPO’d at? For example, if a SPAC IPO’s at $15 but is trading at $30, and they find a company to merge with and the price will be $95, is the financial end-result about the same as the company going the rough the IPO process and pricing/debuting at $95? Will you benefit from the same potential upside (and downside) of day 1 volatility?_END_OF_POST_PYSTOCK_ Question about Master Limited Partnerships (MLPs) Someone I spoke to recommended adding an MLP, specifically Enterprise Products Partners L.P. (EPD) to my portfolio.  I'm just curious about what everyones opinion is about MLPs since it doesn't seem to be discussed often on this sub-forum. 
+
+A few questions I have are: Do you own any MLPS?  Would you recommend MLPs in a portfolio?  Any issues with Unrelated Business Income Tax (UBIT)?  Are K-1 forms really nightmare and do they cause any tax filling issues  (I've heard they're normally mailed late in the tax season)? 
+
+Any feedback will be appreciated!_END_OF_POST_PYSTOCK_ How do you evaluate management? Just like the header says; what methods do you use to evaluate upper management and their decision making process?
+
+In school, we were taught financial valuation, and innumerable methods thereof.  The older I get though, the more I believe I'm missing an element to my process.  Namely, the human factor.   CEOs are a bit more forward, a quick google search can yield anything I could hope for an more.  But when it comes to other executives and directors I was hoping I could pick the brains of r/investing for your insights._END_OF_POST_PYSTOCK_ What are the best in-depth books that teach you about mining stocks especially small companies? I would like to learn about mining stocks especially small companies. I have found some books about the subject but none of them have in depth knowledge. Where I can find books, lectures any reports on analysis to teach my universal in-depth knowledge about investing in small and normal mining companies like gold and silver companies. 250 characters reached uff._END_OF_POST_PYSTOCK_ Sell off beginning mid March? I think we may see people and institutions begin to take profits. This would correlate with the average market low on 3/18/20. If people are holding for 366 days to negate the short term gains taxes, we may be in for a nice correction.. Just a thought. I mean, I am beginning to wonder anything might correct this current environment of stocks only up up mentality?
+
+What do y'all think?'_END_OF_POST_PYSTOCK_ Softening the blow of the future crash (my thoughts and guidance request) I'm not sure of how to soften the blow of the impending crash, but here is my current plan.
+
+1. Look over my portfolio and sell the extraordinarily overvalued stocks on the next solid green day (probably after Biden's stimulus speech, assuming that hasn't been priced in).  Already sold TSLA, but I have some mini-TSLA positions that are nearly as absurd.
+2. Start investing in gold on every day that gold is in the red.  I'm still debating between gold, gold miners, or gold-related etfs.  But it's looking like GLDM for me.  Any advice here would be useful.
+3. Build up a cash reserve (typically, I go for about 7%, but I think I'm going to aim for about 12-15% as there are certainly going to be amazing stock sales coming up).
+4. Pump excess cash into fairly valued or undervalued low-volatile/established stocks as, even when they crash, the recovery will be faster (and I can still enjoy some modest gains waiting for the large correction).
+5. Save 5% of my portfolio for the wacky, rocket-to-moon rides (enjoy the ride while the ride can be enjoyed).
+
+How does that look as a proactive plan?  What is your plan?  Any adjustments that you would make to this?
+
+**\*\*EDIT: This post isn't about debating whether there will be a crash.  Assume this is a hypothetical intellectual exercise, so what would be your hypothetical approach prior to a crash occurring?\*\***_END_OF_POST_PYSTOCK_ Returning shares to treasury Hi all,
+
+I’ve been looking online, but I can’t find a definitive answer—most likely because I’m learning. 
+
+As an example. If a company has 500mm shares OS. They cancel a credit line, returning 100mm shares back to the treasury. Does this action reduce the OS, float or both by 100mm?
+
+Thanks so much._END_OF_POST_PYSTOCK_ Identifying Undervalued Sectors/Funds/Holding Companies for 2021-2022 The goal here is to not start another debate about the high valuations certain sectors like tech  and EV are currently seeing. I am trying to find a few undervalued funds (even holding companies) in the form of low cost ETFs or mutual funds to park some money over the next year or two. I've been considering energy but I dont know any low cost ETFs. Was also considering Berk.B as I feel is still very undervalued, although it is underperforming the market. What undervalued funds are you folks considering?_END_OF_POST_PYSTOCK_ Should I invest in AMZN Hi!
+
+I'm currently 19 and have invested 10.5k into VDHG and 5k in NDQ. I'm thinking of investing 4k in AMZN primarily for their Cloud Services. I've aimed to have a fairly diverse portfolio so I'm wondering if putting so much into a single stock would be dumb given my current portfolio.
+
+Thanks in advance!_END_OF_POST_PYSTOCK_ Does copper have more room to run? Lots of institutional investors/forward looking ppl I follow on social and podcasts are saying that copper is a good buy with the likelihood of big infrastructure investment and growth in 5G etc.
+
+Copper is already way up though, and I’m curious what people think in terms of upside from current prices. Is infrastructure investment already priced in? Considering nothing has officially happened yet, I wonder if things could still go way up_END_OF_POST_PYSTOCK_

@@ -1,0 +1,418 @@
+ What do you think of FUBO Tv and it's massive run the past month? Still room for growth? I'm pretty bullish on Fubo TV. Big fan of the platform personally that you can get normal live tv channels and streaming in one for way less than you can a cable subscription.
+
+Even after a massive run their market cap is only at $4B, with huge room to grow imo due to their growth numbers of monthly subscribers, the money they generate from ads that play on the platform as Fubo becomes more well known over the next few years.
+
+They're also looking into sports betting which would be really cool as an interactive way of watching sports, and taking some market share for other sports gambling companies.
+
+Just my 2 cents, but curious to hear everyone elses thoughts._END_OF_POST_PYSTOCK_ Please tell me what NPAWW is this a call option. Hello’ 
+
+
+In a little confused when it comes to warrants.
+I’d like to purchase NPAWW 
+
+I don’t understand what I’d be doing. 
+I’m wanting to buy calls, only warrants are available.
+How do I know what the strike price/expiration of NPAWW is? 
+
+I can’t find to much info online about what I’d be doing by purchasing NPAWW 
+
+Please help,
+
+Thank you_END_OF_POST_PYSTOCK_ Credit spread- are the buy and sell call options treated separately? 
+I am learning about options. And I came across credit spread. So from my understanding you basically buy a call at a higher strike price and sell a call at a lower strike price for the same date. What I don’t understand is will these two options be treated separately or will they treated as one? And what happens when the price falls below the sell call strike?
+
+So let’s take for example Apple. For the date of 2/19/2020 I buy a 70 call for 62.05 and sell a call at 65 put for 67.03. So I get a premium of 498 up front.  So what happens here? 
+
+from how these two option work independently if some one exercises the call I have to sell 100 Apple shares. But I didn’t have Apple shares to sell. How does this work? Will my buy call option exercise immediately to cover for the sell call option?  Or will both be treated as part of one contract and exercise only on 2/19?? 
+
+If the price is above 70 by 2/19 I am assuming my buy and sell calls get exercised and will incur a loss of 2 dollars. 70-65-4.98=2. Is this correct?  Also what happens if Apple price falls below 65? I am assuming the contract is worthless and I get to the 498 dollars.and what if the price is in between 70 and 65. My sell gets exercised but I cannot exercise my call? What is my loss then?_END_OF_POST_PYSTOCK_ Sprouts Farmers Market DD- Undervalued With this strong brand proposition, they plan to expand their efforts on marketing since COVID-19 has accelerated its goal (mentioned above) and want to implement a loyalty program in the near future. Who doesn’t love more deals and saving money, right? to mention when you look at their financial statements is that they had a sudden increase in long term leases and property plant and equipment (PP&E). This is due to a change in accounting policy and is nothing to worry about..
+
+Over time they have been slowly growing and have around 356 stores and approximate they will continue to add around 20 stores each year (based on their last quarterly report). The CFO said that at a minimum they will continue with a “10% annual unit growth rate”. 
+
+They are able to keep their costs low due to strategic distribution centres and they mostly self distribute their produce. They will be adding more distribution centres in 2021 to cut down costs even more and improve efficiency as they grow in scale.
+
+Sprouts has had tremendous growth with an average revenue growth of 12.9% and net income growth of 16.2% per year for the last 5 years (including the last earnings report).  Their balance sheet looks good in terms of the grocery store business. One thing to mention when you look at their financial statements is that they had a sudden increase in long term leases and property planr and equipment (PP&E). This is due to a change in accounting policy and is nothing to worry about.
+
+How has COVID-19 impacted Sprouts? First of all they have had more sales and CEO, Jack Sinclair said “. Our e-commerce business grew 337%, outpacing most e-commerce growth rates in the industry. We ended the quarter with e-commerce representing 11% of our sales. Our gross margin increased 400 basis points versus last year.”. However, the best part that COVID-19 has done to Sprouts is accelerate it’s 5-year goal of “creating a highly profitable, differentiated specialty grocer with a long growth runway”.  They have not had much of an emphasis on marketing, but have still accumulated a few millions of followers on social media. They have developed a strong brand that integrates sustainability with supporting farmers, their society, etc while offering lower prices on organic produce than any other grocer. 
+
+With this strong brand proposition, they plan to expand their efforts on marketing since COVID-19 has accelerated their goal (mentioned above) and want to implement a loyalty program in the near future. Who doesn’t love more deals and saving money, right?
+
+In addition to this, the CEO is relatively new (under 2 years) and has plenty of experience in the grocery sector with being an executive vice president of the U.S. Grocery Division of Walmart. 
+
+With the current trend of wanting to be healthier and being “frugal” at the same time, this is another catalyst that differentiates Sprouts Farmer Markets from other grocery stores. 
+
+Did I forget to mention that they brought in revenues of 6.231 billion and only have a market cap of 2.38 billion!
+
+It would be great to hear your thoughts and criticism! Hope this DD helped!_END_OF_POST_PYSTOCK_ SNOW? Bought SNOW on the 17th for techincal setup for a trade but now its barely consolidating and almost starting downward channel, wondering if anyone in similar situation could let me know opinion on chart? I am not trying to overrisk and it is an expensive stock so anything is appreciated, thanks_END_OF_POST_PYSTOCK_ Discussion on whether or not Altria (MO) is a solid long term investment? (Still down ~40% from ATH) 1. Altria has been in the top 5 best performing stocks for the past 20 years. 
+2. They're responsible for selling tobacco (Marlboro cigarettes), and they currently have plans on getting into the marijuana industry through their 45 percent stake in Cronos Group. 
+3. Vice stocks will still be around forever. I honestly don't think people are going to suddenly stop consuming tobacco, no matter what the current health trends of today are.  Lastly if we do find a treatment for the negative health consequences of smoking via CRISPR therapy, there will probably be fewer negative views on tobacco.
+4. They recently announced an $0.86 / share dividend.
+
+Lastly here's an interesting post I read from another topic: 
+
+"Look at the best performing stock since 1968: Altria. 1 dollar invested back then would have turned into over 6000 dollars with dividends reinvested. Why? Because the reality of the company's earnings have consistently been better than people expected. All the pessimism over smoking declines and aversion to the industry has kept share prices low relative to earnings for long periods of time."_END_OF_POST_PYSTOCK_ BABA Bull/Bear? CNN with some crazy forecasts (see below). It might face a tougher stance from China’s regulators in the upcoming year. You guys agree w these forecasts? 
+
+&#x200B;
+
+[https://money.cnn.com/quote/forecast/forecast.html?symb=BABA](https://money.cnn.com/quote/forecast/forecast.html?symb=BABA)_END_OF_POST_PYSTOCK_ Where to buy pre-IPO stocks as a European? I have been trading stocks for a couple of years now and am interested in buying pre-IPO stocks, Googling about this matter lead me to Equityzen but I guess that I'm not allowed to join that platform since I'm a European and not an accredited US investor. Which other reliable platforms are out there which do accept Europeans and don't require an "accredited investor" status?_END_OF_POST_PYSTOCK_ Opinions on Platinum/Palladium? Been doing a bit of research recently and they seem like potentially interesting investments. I just can't make up my mind -  
+
+
+On one hand, they're used more and more (more so Palladium) in ecofriendly vehicles which is a trend I'm all for. But, apparently replacing palladium with platinum is challenging.  
+
+
+What are your thoughts on this? Just curious!_END_OF_POST_PYSTOCK_ Deep Pharma Tech posts report on 5 High-Impact Technology Companies in Healthcare to Watch in 2021-2022 This article popped up in my Schwab feed and I found it to be an interesting read. Not sure on the credibility of the author but the research looks good. The breakdown of the partners and investors is particularly insightful. 
+
+[Link to Report](https://www.deep-pharma.tech/high-impact-companies) 
+
+Here are their picks:
+- NanoX
+- Eargo
+- Transmedics
+- Silk Road
+- Outset 
+
+I’m particularly bullish on NanoX and Outset. NanoX because I think their payment model has the potential to disrupt the medical imaging industry. It reduces the barrier to entry for emerging markets who don’t otherwise have access to imaging machines. I’ll be curious to see if there are any reports in 2021 on the preordered machines. It sounds like they had a successful demonstration at a recent convention but some industry leaders remain skeptical. The largest downside here in my opinion is the fact that the R&D lead listed on most of their patents doesn’t appear on other public documents as an employee of the company. There’s speculation around his employment status. With such cutting edge technology, losing a product lead can be crushing. 
+
+Outset produces a portable home dialysis unit for kidney disease. I’m bullish here for a couple reasons. First, this is a rapidly growing area of healthcare. It’s such a drastic improvement for patient experience over coming into a clinic and it reduces costs for the healthcare provider. So win/win. Second, early research suggests COVID can lead to kidney disease ([John’s Hopkins](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-kidney-damage-caused-by-covid19)) If that’s true, then the demand for their product is going to skyrocket over the next few years. 
+
+Does anyone have any insights on their research?_END_OF_POST_PYSTOCK_ What are some good articles, videos, or podcasts on how to find the intrinsic value of a company, particularly a growing one? Can you please recommend some good articles, videos, or podcasts on how to determine the intrinsic value of a company? I'm interested in any company but ones on growing companies would be ideal. Ones with particular examples or case studies may be helpful._END_OF_POST_PYSTOCK_ Would you rather invest in stocks or real estate and why? Would you rather invest in real estate or stocks and why? Here are some examples of stocks and how they did this year of 2020.
+Apple (88% past year)
+PLTR (139% last 3 months)
+ROKU (155% Past Year)
+SNAPCHAT (231% Past Year)
+PTON (460% Past Year)
+Shopify (222% Past Year)
+Netflix (55% Past Year)
+Microsoft (41% Past Year).
+
+So again, which do you prefer (stocks or real estate) and what % of return are you getting realistically this year? And what kinds of real estate?_END_OF_POST_PYSTOCK_ Is there a place to find out the total of all ARK Holdings? Sorry if this is a simple question. I want to make a mini fund based on all ARK holdings, and I'm looking for a single place which shows what percent of ARKs total holdings is held in each stock. 
+
+Previously I had manually added up the different ETF's and worked it out as a percentage of the total, and then invested in the top 20 funds. This is really cumbersome and difficult to track. 
+
+Is there any website etc which has a running total of all ARK ETF's in one place, and not separate pages etc? 
+
+Also, is this a silly idea? Any advice greatly appreciated_END_OF_POST_PYSTOCK_ Jan2022 NCLH/UAL/GE Calls 
+Thoughts on my UAL / NCLH / GE Jan2022 Calls
+
+Hey guys, I’m curious what you all think I should do. I bought some calls for UAL/NCLH/GE near the peak as I was expecting the FDA approval of the covid vaccines to be a positive catalyst for these sectors. For some reason, they weren’t and have been slipping ever since. Now with the news about the UK strain, they’re getting beat down harder. I’m like down 60% on these guys which is a huge loss. In hindsight I should’ve taken the L earlier and just moved on. 
+
+With options expiring so far away, I’m pretty confident they’ll hit. What do you think? Sell now and take the massive L or hold and (on some level) hope. 
+
+With the vaccine becoming more and more widespread I imagine, they’ll be a resurgence in travel demand and thus will drive the price up of NCLH/UAL. GE’s a momentum play but I do feel they’ll benefit from this as well. 
+
+Lmk what you think._END_OF_POST_PYSTOCK_ SPACs that fly post-merger: Case for $RIDE We've seen several SPACs go through with their merger process only to drop soon after the merger. However, some have had beautiful runs a couple of weeks and/or months after the initial drop. For examples look at VLDR's current run (formerly GRAF) or look at TTCF's current run (formerly FMCI).
+
+RIDE, Lordstown Motors, (formerly DPHC) just got a $35 price target. Realistic or not, we just got a stimulus bill that really makes an impact for EVs, charging stations, and alternate energy. We are also in a bullish market with a tremendous amount of momentum trading going on. SPACs have cultlike followings and the market is reacting tremendously to EV companies.
+
+When it was DPHC it surpassed the $30 mark. As RIDE, it currently sits around $20.30. If it reaches the $35 price target, we would see about a 73% increase.
+
+RIDE will be producing vehicles in 2021 (yeah, we ring in the new year in about 8 days). They have a nice model called the Endurance. Its an EV pickup and there seems to be much interest from different companies. In fact, E Squared Energy recently signed a letter of intent to acquire 14,000 models from RIDE over the span of 3 years
+
+"**Pickups** boast strong **popularity** nationwide – they are the most **common** vehicles in operation (VIO) at 20% share today " <- From 2019._END_OF_POST_PYSTOCK_ Coinbase will IPO in 2021, already valued at 60B in pre IPO markets Coinbase will go public in 2021. Expected for Q1.
+
+
+> "Coinbase was valued at more than $8 billion in 2018 after a $300 million funding round led by Tiger Global Management.
+The company, started in 2012, has raised more than $500 million from backers that also include Andreessen Horowitz, Y Combinator and Greylock Partners, according to its website. Coinbase said it has has more than 35 million verified users in more than 100 countries and more than $25 billion in assets on its platform."
+
+
+**If you are a little bit tech-savvy you can already get in through so-called preipo contracts** see:
+[https://np.reddit.com/r/CryptoCurrency/comments/khx0rj/get_ik_before_wall_street_the_coinbase_pre_ipo/](https://np.reddit.com/r/CryptoCurrency/comments/khx0rj/get_ik_before_wall_street_the_coinbase_pre_ipo/)
+
+
+Coinbase is the goto exchange for cryptocurrencies in the USA. They are selling shovels during the goldrush.
+
+That said 60B is an extreme value. Too much I would say. I still think it is a good play upto actual IPO day. Short term: long, long term: short. I expect this to be one of the biggest IPOs of 2021. Recently traditional media have been spending more and more attention to bitcoin and crypto, so their audiences are warmed up and afraid to miss out.
+
+
+EDIT: The Pre IPO is not open for US Citizens.
+
+> "CM-Equity is fully regulated in Germany, and is a licensed financial institution permitted to offer these products.  All FTX users who trade tokenized stocks may also have to become customers of CM-Equity, and pass through CM-Equity's KYC and compliance.  Furthermore, all trading activity may be monitored for compliance by CM-Equity.  CM-Equity custodies the equities at a third party brokerage firm.  CM-Equity (not FTX Trading LTD) provides the brokerage services. In order to trade tokenized stocks on FTX, you must be at least KYC level 2.  Once you are, you can go to your tokenized stocks KYC page to submit your information to CM-Equity.  You must also not be a member of one of FTX's restricted jurisdictions, including the United States; FTX collects KYC documents and IP addresses from its users.  FTX does not operate in its restricted jurisdictions."
+
+The preipo contracts will convert to tokenized shares at the end of IPO day. The tokenized shares are backed 1 on 1 by the actual shares. If Coinbase for whatever reason does not go public before 21st of june 2022 (1.5 year from now) the contracts will be cash settled at 32 USD._END_OF_POST_PYSTOCK_ JMIA / OZON Hi everyone
+
+I'm interested in getting your thoughts on Jumia and Ozon. These have been heralded as the Amazons of Africa and Russia, respectively. 
+
+I feel these are both risky investments in the short term. But i wonder what these two stocks will do in the next few years?_END_OF_POST_PYSTOCK_ Can someone explain why Moderna is going down? Are people just cashing out from the initial surge?  
+Should I cash out and re-buy back in anticipation of future profits?
+
+With the COVID approval and impending widespread rollout of the Moderna mRNA vaccine, I would imagine that Moderna would hold steady or slightly rise...but it's dropped 8% today (just a couple of days after I bought in and I am confused)._END_OF_POST_PYSTOCK_ Why is there a difference between the #growth of a company listed on different exchanges? Can someone explain this to me because I am having trouble understanding. For example:  
+Tesla is listed on NASDAQ and XETRA. (Tickers TSLA:xnas and TL0:xetr)  
+For the same period:  
+On NASDAQ the price has grown 541%  
+On Xetra the price has grown 496%  
+
+
+I would be forever grateful if someone explains this to me. Happy Holidays!_END_OF_POST_PYSTOCK_ IAC to Spin Off Vimeo to Shareholders IAC, the internet and media conglomerate founded by billionaire Barry Diller, on Tuesday announced it plans to spin off its majority stake in the video-streaming platform Vimeo to IAC shareholders, which will make it the eleventh independent, publicly traded company to emerge from IAC. IAC said it expects to reclassify its shares, with IAC stockholders receiving a proportionate amount of Vimeo stock. If the proposal is approved by stockholders, the deal is expected to be completed by the second quarter of 2021._END_OF_POST_PYSTOCK_ [DD] NASDAQ: FTNT **Irrelevant Intro:** I thought I'd kick this off with the first play I've ever made *entirely without outside suggestion or analysis.* That might make you wonder why you should even read this to begin with, because I am very clearly *not* a professional, but god damn do I love analysis and stock picking. 
+
+**Actual intro:** Fortinet, no not Fortnite, is an American multinational corporation headquartered in Sunnyvale, California that develops and markets cybersecurity products and services, such as firewalls, anti-virus, intrusion prevention and endpoint security. I ripped that description straight from Wikipedia, but it's important to note that a hobby, not profession, of mine is cybersecurity. Over the last few months reading various books, content here, and yes, digging into technical trading too, I finally decided I was ready. The only problem was, I didn't know where to start- this is where FTNT comes in. 
+
+**I need to be clear here, the analysis I did for FTNT was done at the end of November. It's been about 3 weeks since this analysis so the valuation of the company *has* inherently changed.** 
+
+**Why Fortinet?:**
+
+Ultimately, my decision to buy into FTNT came from wanting to invest in the Cybersecurity industry. Yes, there are ETFs for this that spread out risk over a number of players, but I wanted to try and apply the tools I've picked up to real world investing. As I mentioned, cybersecurity is a hobby of mine. It's grown increasingly interesting to me, but more specifically, it's grown increasingly *more important* in today's tech driven world. To me, Cybersecurity is 'the utility industry with upside' because of tech's reliance on it.
+
+Because I wanted something *specifically* within the Cybersecurity industry, I looked into *many* different companies listed in Cyber ETFs or competitors within the space. Specifically, I want to call out Palo Alto as a competitor, but others such as CyberArk, FireEye, and others. It's also important for me to stop right here and mention to you that if you do not know these companies well enough, you will not recognize that they **do not** offer the same products and services as one another. Just because a company is in the same industry as another doesn't mean they operate similarly. 
+
+**Metrics:** 
+
+1. Cybersecurity Industry CAGR:  Somewhere between 8% - 13% over the next few years.
+
+1. ROIC: 19.74% as of Sep 2020, but their last couple of years have been well above my mark for buy consideration. (GuruFocus)
+
+1. Institutional Ownership: 71% of shares held by Institutions, 85% of float held by Institutions. FYI, this was slightly lower during my purchase. I wanted to note institutional ownership for the following reason: The less Institutional ownership, the greater the chance for a significant rise in price after proven profitability comes. (Yahoo)
+
+1. D/E ratio: Pre-pandemic was around 2 and declining consistently. As of end of Sep, closer to 4. I can't imagine the D/E ratio not to drop off over the next couple of quarters. I wanted to mention D/E ratio specifically because of FTNT's in comparison to the rest of the industry. Because the industry is still tech based, high debt is *very* common. The fact that this company, especially 20 years ago, already has a successful track record of obtaining debt for higher returns is especially encouraging when comparing their competitors. 
+
+1. PEG Ratio: At September's end, FTNT's PEG Ratio was .66, however it has increased to 1.16 as of today. Again, this is absolutely *insane* when compared to other Cybersecurity industry competitors. (GuruFocus)
+
+1. There are many other metrics that could be listed here, both in favor of FTNT and against them, but the ones above are a handful that went into my secret sauce when comparing the company against its competitors. 
+
+**Subjective Sentiment:** 
+
+There have been huge catalysts that have helped boost FTNT recently. The COVID pandemic, like most other tech related picks, has definitely boosted FTNT's ability to outperform. The 52 week low of $70 was robbery and unfortunately I was too late to buy in at that point. My actual buy in price didn't come until the stock hit $124 but I'm glad I did, even then. About a week later, it was announced that FireEye was hit by a malware attack, which further exploded into basically what's being referred to as the largest cybersecurity event in the last decade and maybe ever. The implications are reaching as far as the US Gov't, foreign entities, and private businesses alike due to poor cybersecurity practices on behalf of the vendor SolarWinds. I'm not going to get into the details on this attack, but with every passing year, more cybersecurity incidents arise. Hacking is its own industry. Cybersecurity is its opposite. As the hacking industry grows, as does Cyber. This will *not* be a one time thing. If you are too concerned that you 'missed out' on a significant event and shouldn't even consider FTNT, you're gonna keep missing out on what Fortinet will continue to prevent against.
+
+What I think is the most important piece of this short novel is the sentiment behind the company itself. I am not a FTNT customer, so I was unfamiliar with their level of success from the customer's perspective. How did I get an idea of the company? Literally just reddit. It sounds insane, but it was tremendously helpful. Subreddits like r/sysadmin and r/netsec was a gold mine for finding out how people feel about both Fortinet, Palo Alto, and other competitors. And guess what, Fortinet was all thumbs up. "Inexpensive and cheap" was the mantra. Palo Alto, you ask? The cream of the crop when it came to the specific solution both companies were trying to solve, but expensive as heck. Even after the fundamental analysis done above, I reasoned that *everyone* needs to start considering Cybersecurity as a part of their core business expenses, but very few but the largest and mid size organizations are willing to put out cash for the "Ferrari of equipment" from Palo Alto.
+
+**Conclusion:**
+
+I could go on and on about Fortinet. It checks all of my boxes and again, it's important for me to say that FTNT is something I'm going to hold for *a long* time. Their leadership is killing it, they're performing when others are still figuring things out, and they still have incredible room to absolutely crush it in the industry. Despite my position being up only 20% since November 30th, I'm absolutely stoked about the potential that Fortinet has in the future.
+
+Please provide criticisms & feedback about FTNT because my strategy is based on examining all possible data & information. It may not be relevant to me now, but keeping it in mind as I move forward with holding FTNT could prove fortuitous if things change. 
+
+*Disclaimer, I am long FTNT and I wish you good luck trying to change my mind.*_END_OF_POST_PYSTOCK_ HCAC and GOEV Merger So the merger agreement occurred yesterday. This is my first time going through this sort of acquisition. So does the HCAC symbol turn into GOEV? I bought more GOEV today because HCAC was still showing as a ticker on my account but just wasn't moving. I could not sell or buy more of it either
+
+If someone could help me out I'd greatly appreciate it_END_OF_POST_PYSTOCK_ Genuine question: Do “winning” strategies necessarily become invalid in direct relation to the number of people executing that strategy? The real question is this. I assume that Robinhood or other brokers that deal with retail traders have data on the p/l of their users. 
+
+I also assume there is someone who just doesn’t lose. 
+
+Now let’s say that I got ahold of that persons order book and just followed them in their trades.
+
+Does that hurt their returns? At what point wild it start to hurt them?
+
+I mean it stands to reason that one of the million plus users on here has performed incredibly well  so is it kept quiet intentionally? I would get that but just wondering._END_OF_POST_PYSTOCK_ Nano Dimension stock popped yesterday and seems likely to do so again today. Why? I recently bought a small number of NNDM shares to keep my eye on them as I find 3d printing fascinating. Yesterday they popped ~18% and pre-market today theyre up another 5.23%. I tried looking around to see why but as they're a penny stock and not covered much I couldn't find anything. Any clues??_END_OF_POST_PYSTOCK_ New to technical analysis. Is this a textbook Falling Wedge Pattern? $JKS Noticed this pattern showing up in this stock that I was looking at. I'm totally new to technical analysis. Am I right to call this a falling wedge pattern? Appreciate any feedback! Thank you! :)
+
+&#x200B;
+
+[https://ibb.co/w7LDXv2](https://ibb.co/w7LDXv2)_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Expected Revenue of Companies Hello fellow redditors,
+
+may I ask if anyone knows how to find historical information about expected revenue of stocks?
+
+Ive found revenue on the [sec.gov](https://sec.gov) page but am not sure where to the find the expected revenue... Does  anyone know where to find that, perhaps even in a nice chart? Id like to compare these which why I need them
+
+Thanks_END_OF_POST_PYSTOCK_ [Question] Explain price movement on day of inclusion in the S&P 500 Tesla dropped 6% today after joining the s&p 500, but how can this be? if billions of dollars have to buy shares of tesla as passive index funds pour in, how can the price fall? Maybe I’m misunderstanding simple supply and demand, but if all s&p index funds have to buy shares of tesla today, how does that massive demand not push price higher? Might be an idiotic question but any help would be awesome_END_OF_POST_PYSTOCK_ EDIT on Fire **Takes 7th spot on ARKK's Top10 list:**
+
+[https://www.reddit.com/r/EditasMedicine/comments/ki1b36/edit\_takes\_the\_7th\_spot\_on\_arkks\_top\_10/](https://www.reddit.com/r/EditasMedicine/comments/ki1b36/edit_takes_the_7th_spot_on_arkks_top_10/)
+
+**ATH:**
+
+[https://www.reddit.com/r/EditasMedicine/comments/khq8cy/edit\_at\_ath\_211220/](https://www.reddit.com/r/EditasMedicine/comments/khq8cy/edit_at_ath_211220/)
+
+**Trending on Yahoo:**
+
+[https://www.reddit.com/r/EditasMedicine/comments/ki1f1i/look\_whos\_trending/](https://www.reddit.com/r/EditasMedicine/comments/ki1f1i/look_whos_trending/)
+
+**Pipeline:**
+
+[https://www.editasmedicine.com/gene-editing-pipeline/](https://www.editasmedicine.com/gene-editing-pipeline/)_END_OF_POST_PYSTOCK_ Triple Income Strategy Alright if you’re unfamiliar with the Triple Income Strategy, here it is.
+
+&#x200B;
+
+This is not some trick to get quick profits. This is an amazing method to earn $ on shares you don’t own, and get paid dividends on shares you do own. You must do this with a stock you want to own. This is not a great strategy if you don’t want to own the shares for at least a month.
+
+&#x200B;
+
+I have talked about this before, the Triple Income Strategy.
+
+&#x200B;
+
+Scenario 1 - Find a stock you would like to own. You will then sell cash covered puts on it. You collect the $ from selling puts, they expire worthless, you keep the $ and profited from doing nothing.
+
+&#x200B;
+
+Scenario 2 - you sell puts, get assigned when the stock falls to that level, and you get 100 shares for the price you chose. Now, the fun happens. You can start selling covered calls. Sell strikes that are higher than what you paid.
+
+&#x200B;
+
+Once assigned, you will have profited from the premium of the put selling, the premium of the call selling, and the increase in price from what you bought it at vs what you sold it at. This is proven to pay more $ than owning dividend stocks.
+
+&#x200B;
+
+Okay, you want to add BLNK to your long term portfolio but you think $37 is too high and you can get a better price. So how do you get a lower price? Bid. Selling a put is a way of bidding. If BLNK hits $33 by next Friday, we will buy 100 shares for $33. We got paid $115 for selling the put, so really our BLNK shares have a total price of $31.85 each, which is our break even price.
+
+&#x200B;
+
+Instead of just buying the shares from the beginning, you will sell puts until you get assigned. Each time you sell a put and then close it for profit, you are earning $ off of the stock. If you sell 1 put for 1.00 a week for a month, you will profit $400 that month from selling puts. Now if you get assigned on the 5th week at $33, you actually only paid $29 because you already profited $400.
+
+&#x200B;
+
+Once you own the shares you can either keep them long term and sell far OTM calls and only collect a small amount of money, or you can be aggressive and sell the next strike up. If you paid $33 for your shares, you would want to sell at least a $34 call.
+
+&#x200B;
+
+This will let you profit from selling the call (calls are about $250) and the increase from your purchase price of $33 to your selling price of $34, which is $100.
+
+&#x200B;
+
+In total, you made $115 from selling the put, $250 from selling the call, and $100 from the shares increasing in price. This gives you a total profit of $465 just from owning 100 shares of a stock that moved $1._END_OF_POST_PYSTOCK_ Is it possible that LKNCY will be let back to NASDAQ? They have recently been give a deal with SEC due to their previous fraud and the fine is basically a slap on the wrist and imo it looks like US authorities are willing to overlook it for the most part. So does that mean they can go back the more prestigious stock exchanges?
+Has that happened in the past (that a company that’s been kicked out gets reinstated)? Or are all the bans permanent? How does the SEC deal play into it? Can they go NYSE instead for example?_END_OF_POST_PYSTOCK_ In your experience, how valid are articles like below? Essentially says the market is overbought based on their "Big Money Index"
+
+[https://www.investopedia.com/when-can-we-expect-this-overbought-market-to-pull-back-5093212](https://www.investopedia.com/when-can-we-expect-this-overbought-market-to-pull-back-5093212)_END_OF_POST_PYSTOCK_ What to do with gains? My picks It seems like tax laws are going change soon. I am up close to 200%, and am thinking about taking 30-50% off the table prior to the new year to avoid massive taxes that seem to be imminent regardless of presidents, and more likely because we are going to have to pay back our debts at some point. 
+
+However I am making 3-5% gains almost every day and I dont want to do something stupid if taxes don't end up being that different after all. 
+
+I understand how general tax laws work regarding hold times and wash sale. More looking for peoples thoughts on how bad things may or may not be in the next 6-24 months, which is my timeline for the 7 largest positions I have. Ill list them, and explain why I have them 
+
+MVIS- 500 shares at $1.8
+UBNT 30 shares at $40
+WKHS - 100 shares at $16 
+CMBM - 160 Shares at $15
+NRZ - 200 Shares at $7
+CEQP - 100 shares at $12
+VLDR -40 Shares at 15
+
+I work in TELCO and Lidar is changing the way we do mapping and making life 100x easier. VLDR is a company that was mentioned by a supplier and I heard good things about them. 
+
+MVIS has a ton of patents for lidar, and the buy out rumors have been coming and going for a few cycles now. I've traded in and out quite a few times and made decent money on options. If the BO rumors are true this time, which seems likely given the EV and SDC mania, I think 10-15 is easily attainable.  If a bidding war happens who knows. 
+
+UI makes our radio gear. The CEO used to work for Apple, and basically flipped them the finger amd bootstrapped ubnt on his own. If you listen to the earnings call after the Citron report you will understand why I love him. He told an analyst  to go research his company before asking stupid questions,  while his company sp was tanking due to a major hit job. Then he stopped getting on the calls all together because he "didn't have time for the circus and had a company to run". Then took it on a 400% rocket ride. They have both netowkr and wifi hardware and we currently run about 700 customers almost exclusively on UI gear inside and outside the home. Their price point is unbeatable for performance, but there is a definite ceiling for the time being on the performance capacity.  
+
+CMBM is like UI smarter and more responsible older brother. We just started using their products and they are amazing. They have inked some huge deals and their engineering and support are worlds better than UI. I missed my chance to load the boat on UI at this price in 2016. I fully expect CMBM to follow a similar trajectory.  See my profile for more in depth DD here. 
+
+I bought 2x WKHS 2.5 calls for 10c each right before it exploded to $19. Sold at 21 and bought back in at 16. Its a spec play because I know nothing about them past whats available to everyone here.
+
+NRZ was a bad divi play that I averaged down on. Its been slow to make a full recovery, but has recently been posting good numbers. 
+
+CEQP is one of the last Oil stocks I follow to make moves toward normalization. The divi stayed strong through covid and I think it has a solid chance to track back toward 30$ 
+
+UAVS is another one I just bought. They make smart farm drones. My county just got a 2mil dollar grant in association with several other counties to develope ag tech solutions to deal with the ever aging farmer problem. AG tech, imo, is going to be the next EV boom. There are very few companies in the market, relatively speaking, and most of them are offshoots of large corporations.  To my knowledge there hasn't been a big entrepreneur boom here because the money wasn't flowing, but with covid wreaking havoc on the food supply farmers here are scrambling for ways to cut cost and there aren't many. And there aren't many ways to do so at this time. 
+
+However smart field maintenence kills two birds with one stone. More efficiently managed fields have better yields, and smart fields will consume less water, Nd require less pesticides because the application will be target specific vs mass application methods that are required today. 
+
+Use case- drone flies over field and identifies all suspected weeds, sprayers can locate weeds quickly,  preventing spread thus lowering application amount,  lowers labor costs due to not having to search for weeds. 
+
+Drone identifies over/under watered sections of field. Adjusts sprinkler flow accordingly saving money and water. Makes greenies and capitalists happy._END_OF_POST_PYSTOCK_ Why do buyers and sellers use Opendoor? My understand is the biggest value of iBuying sites like Opendoor is the fast closing process for sellers without needing to find a buyer themselves. 
+
+Outside of that, what value do these sites offer to either buyer or seller? 
+
+As a buyer, you’re basically buying an overpriced house that pays for Opendoor’s margin. 
+
+Example: https://www.redfin.com/AZ/Laveen-Village/6504-W-Sophie-Ln-85339/home/28150899
+
+Opendoor bought a house in November for $306k. Flips in two weeks for $345k ask or 13% increase. 
+
+As a seller you still pay a 5% fee plus 1% closing costs *and* pay for repairs, so it isn’t even as if Opendoor is spending their own money to pay for repairs or upgrades. 
+
+So the seller is still paying 6%+ of their home value in fees which is comparable to a traditional realtor’s commission, but with this model the buyer is now paying for this new margin for Opendoor that wouldn’t be there in a traditional sale? 
+
+Just seems like this model of home buying makes housing more expensive for everyone with the main benefit of faster closing for the seller than a traditional sale._END_OF_POST_PYSTOCK_ Detailed Assessment of $MP Materials With the +10% jump today, I wanted to put forward some points on why $MP may not be such a great investment right now despite the recent 3x in price from the SPAC days
+
+**First off, the good:**
+
+* $MP is the only major rare earth producer in the US - major national security implications
+
+* EV boom and political alignment in favor of clean energy means the whole industry will get a boost - all EVs need rare earths
+
+* Picks and shovels play - as the CEO stated in an interview, this is a 'selling shovels to miners' play.  You don't need to bet on which EV mfr will be successful, just that the industry as a whole will grow exponentially and that $MP will the key supplier
+
+* Strong management backing - Chamath SPAC, what more is there to say?
+
+**The potentially bad:**
+
+* 90%+ of processing is still done in China, and is an essential step before the materials can be used in the final application.   $MP's CEO said they plan to build out processing facilities, but no detail on the timeline, capacity, or what the risks are.
+
+* On the processing point, the going rate for these rare earths (neodymium-praeseodymium) is about $60/kg.  According to the latest $MP report, they are getting only about $3/kg, not doubt because unprocessed materials are much less valuable than processed.  They're not capturing much value in the supply chain.   
+
+* Valuation - OK we're in a market where right now no one seems to care about valuation so I'll say that up front.  But $MP is trading now at a $5.5B market cap on just over $15M in net income according to the last quarterly report -  those are tiny profits and a PE ratio of 367... in the raw materials industry!  
+
+If you do a rough DCF with a 1% discount rate, starting with the current $15M in earnings, *you have to assume earnings will grow at 66% p.a. for the next 10 years in order to justify the current price.  If $MP hits a $10B market cap that requires about 78% earnings growth pa for 10 years.*  In their defense, they did grow net income by 4.2x yoy, but that's including major corporate actions/events.  Can they continue to deliver software-like earnings growth?  I'm not seeing much of margin of safety here.  Especially if rates rise, their required earnings growth rate will skyrocket.  (For the purists:  yes I'm using earnings in place of dividends.  Deal with it.)
+
+* Limited runway - On their website, $MP says the mine has 800k tonne total capacity.  If they only get $3/kg that's a total revenue stream of only $2.4B!  And that's revenue, not even profit/earnings.  If they somehow get $60/kg that's $48B total revenue from the mine which is better but still fairly limited.  Of course the key assumptions here are that 1) $MP doesn't expand to other mines and 2) the price of NdPr doesn't go above $60/kg which it probably will.  Also we're not even talking about earnings, just revenues.    
+
+* Competition - I'm less clear on this, but seems like the Australian $LYSDY has a significant non-China REE share?  There may also be other US based companies with competition potential.
+
+* Before $MP, the company was Molycorp which went bankrupt.  Are we sure it's going to be different this time?  
+
+**Summary:  OK for a short term momentum play, but I can't justify this valuation long term unless my analysis is totally wrong (tell me if it is).  Curious to hear everyone's thoughts.**_END_OF_POST_PYSTOCK_ Is total rate of return for a stock posted on financial web sites? Please excuse the stupid question, but I am looking for a total rate of return for the stock  (1, 3, 5 years). I  can't find this information readily available on common financial websites (yahoo finance, Morningstar).
+
+Am I looking in the wrong place or is this info not readily available?
+
+EDIT: Morningstar actually shows trailing returns up to 15 years but not sure if it factors in the dividends paid._END_OF_POST_PYSTOCK_ XY find it equity I have a descent amount of XY find it equity and would like to sell 1k shares of it. I'm willing to work something out for the full amount but it's currently valued at $8 per share and has been doing very well with their business but due to Covid I have come to a place where I need to let go of some of them. Please Pm me if you are interested in buying any amount._END_OF_POST_PYSTOCK_ Invest with morals in play I’ve been holding the tech ETF TEC.TO for about 6 months and its performance has been good. However, I’m not crazy about the companies it hold from a moral standpoint. I love companies like Apple but I can’t help but have mixed feelings about investing in Facebook or Amazon. 
+
+Would it make sense to exit this position based on this? Perhaps reinvest in individual stocks?
+
+I get the goal at the end of the day is to increase my net worth but I don’t want to do this at all costs. I’m still very much a beginner and invest mostly based on what I believe the world needs/interesting things I like rather than based on financials only (please don’t crucify me)
+
+Thank you_END_OF_POST_PYSTOCK_ Coinbase 'pre IPO' contracts Does anybody know more about socalled 'preIPO contracts?'
+
+Read this piece mentioning Coinbase PreIPO contracts yesterday: (can't link to it but google: Joshua Persijn + IPO)
+
+And today they actually got listed: https://warosu.org/biz/thread/S25039356
+
+Massive valuation indeed, but I think the medium writer is right in saying fundamentals don't matter for IPOs (just like in shortsqueezes)
+
+So I pulled the trigger and bought in.
+
+But are these contracts actually solid? Seems like one party quotes them. What about settlement?_END_OF_POST_PYSTOCK_ Stimulus bill includes 35 billion for clean energy initiatives [https://techcrunch.com/2020/12/21/new-stimulus-bill-includes-35-2-billion-for-new-energy-initiatives/](https://techcrunch.com/2020/12/21/new-stimulus-bill-includes-35-2-billion-for-new-energy-initiatives/)
+
+ $1.5 billion for new solar technologies 
+
+ $2.6 billion set aside for transportation technologies 
+
+ $1.7 billion reauthorization of the Weatherization Assistance Program 
+
+Energy-grid technologies get a $3.44 billion boost through $1.08 billion in support for short-term, long-term, seasonal and transportation energy storage technologies and $2.36 billion for smart utility and energy distribution technologies.  
+
+$625 million is dedicated to new research, development and commercialization for both onshore and offshore wind technologies 
+
+ $850 million is being set aside for geothermal technology development 
+
+ $933 million for marine energy and hydropower tech 
+
+ $160 million earmarked for hydropower generator upgrades
+
+ $500 million pot for stakeholders in industries like iron, steel, aluminum, cement and chemicals as well as transportation businesses like shipping, aviation and long-distance transport that are looking to decarbonize. 
+
+$6.2 billion for carbon capture utilization and storage technologies 
+
+ $6.6 billion in funding for the modernization of existing nuclear power plants and the development of advanced reactors 
+
+$4.7 billion for nascent fusion industry 
+
+The new energy bill includes a directive to the Department of the Interior to target the generation of 25 gigawatts of solar, wind and geothermal production on public lands by 2025._END_OF_POST_PYSTOCK_ Bilibili has been warned by the Chinese Anti-pornography office on Dec 3 They get the warning and an executive order to reform their operation, and won't be allowed to have any new function before approved by the Anti-pornography office. 
+
+The information is released today by the office, and if you noticed the price of the $BILI, it's raising right after DEC 3.
+
+I don't hold any of the stock or option( I was thinking to buy puts today but didn't, what a pity) but I notice there isn't any English news covered this yet so I post this for you guys. 
+
+You can check the Chinese news if you want:[https://hot.cnbeta.com/articles/movie/1068553.htm](https://hot.cnbeta.com/articles/movie/1068553.htm)_END_OF_POST_PYSTOCK_ Robinhood margin interest rate lowered to 2.5% from 5%. From email.
+
+Hi,
+
+We’ve lowered the annual margin rate from 5% to 2.5%, one of the most competitive rates in the industry.
+
+Since you’re already using margin, the margin rate used for your billing cycle will be at 5% until December 20 and 2.5% for the rest of your billing cycle. As a result, you will see a blended rate on your next billing date depending on when and how much you were borrowing.
+
+Check out the details of your new rate in the app. Thank you for being a Robinhood Gold customer, and please reach out if you have any questions. We’re happy to help._END_OF_POST_PYSTOCK_ Peloton acquires Precor in $420 million deal https://www.precor.com/sites/default/files/PDF/PELOTON-SIGNS-AGREEMENT-TO-ACQUIRE-PRECOR.pdf
+
+Press release above. Shares up 8.5% after hours. Should be interesting to see if Peloton can break into the hotel and commercial markets. At the very least this should help with their distribution problems._END_OF_POST_PYSTOCK_ Palantir- Tiberius contract value announcement Governments around the world are literally pouring Billions in covid testing, tracing and vaccine distribution and Palantir ( PLTR) is playing a big role in it.
+Can’t wait for that contract value to be announced!
+
+“At the outset of the coronavirus pandemic, U.S. data analytics company Palantir Technologies was tapped by over a dozen governments around the world including the U.S. government to use its software to manage the data about the spread of COVID-19, analyze trends and anticipate various needs across the supply chain.”
+-Washington Post
+
+https://www.washingtonpost.com/washington-post-live/2021/01/07/path-forward-combating-covid-19-with-palantir-ceo-alexander-karp/?outputType=amp_END_OF_POST_PYSTOCK_

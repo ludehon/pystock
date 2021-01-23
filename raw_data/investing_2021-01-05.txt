@@ -1,0 +1,653 @@
+ My Watchlist For 1/6/2021 **\*\*I trade off of the 180D/4H chart. I use the RSI, Stochastic, Vortex, and 10-50-200 EMA Lines as well\*\***
+
+&#x200B;
+
+$BGS - Beautiful channel going on. Extra strong support area, it may dip lower so be prepared for that. RSI over sold, and Vortex has never been lower. 
+
+&#x200B;
+
+$DRE - Has room to drop to $38 but this 200EMA bounce is strong; and an area of support. Higher lows is a great sign. Stoch is super low and so is Vortex.
+
+&#x200B;
+
+$EBR - Has a tiny bit more room to drop, but 200EMA, support, and channel? Love it. All 3 indicators are oversold, time for a reversal.
+
+&#x200B;
+
+$ED - I mean.... what a channel to play off of. What a great value at $69. Stoch super low, RSI is fair price.
+
+&#x200B;
+
+$KNDI - More risk; I want to see life first. But strong support and channel area to play off of here. All indicators are consolidating.
+
+&#x200B;
+
+$KREF - Fantastic area of value, stochastic divergence, and RSI is over sold. The price action alone is enough to buy in, but the indicators are just icing on the cake.
+
+&#x200B;
+
+$MORF - Resistance retest as a support now, can dip to the 200EMA line still. RSI is fair, and Stoch is super low. May have another day or 2 of selling off.
+
+&#x200B;
+
+$NSA - Fantastic. 200EMA, Support, and a channel altogether here. All 3 indicators are low, this should be a great reversal. 
+
+&#x200B;
+
+$OPTT - Reversing above the area I would like to see, but if it holds go long. Massive potential, more risk than usual. RSI is fair, But Vortex is low and has room to run.
+
+&#x200B;
+
+$PEAK - 200EMA and support are here. Could drop to $28 still. All indicators are oversold, but if it lives we are at the ground floor of a new channel.
+
+&#x200B;
+
+$PEG - Great channel up, this areas has support and trendline. All indicators are low so we should see a reversal soon.
+
+&#x200B;
+
+$WYY - Strong support, strong trend, possible flag here? Massive move possibility. More risk than I like though. RSI fair, Stoch oversold, and Vortex Consolidating._END_OF_POST_PYSTOCK_ Why has BITW dropped about 50% in the last couple weeks? Just as the title asks, why has this ETF dropped so substantially when it’s primary holdings (BTC, ETH) continue their climb.
+
+Despite its high expense ratio I liked the look of the fund. Exposure to a number of currencies that are already on my radar, etc. I was getting ready to pull the trigger but then zoomed out and saw the dramatic decline.
+
+What might be causing such a substantial drop, when its holdings increase in value?
+
+Thank you for any insight! I know crypto can be a controversial topic, but I’m hoping some other investors might share some knowledge._END_OF_POST_PYSTOCK_ Am I missing something w/ GME? Correct me if I am wrong GME is a dying company with their back against the wall. Everyone cites the consoles as a reason for the stock to go up but the consoles are a disaster for them because the cheaper versions don’t have CDs which effectively eliminates Gamestop as a third party seller. The stock and company has been declining for years w/ revenue and profitability shrinking. So why is it going up now? Am I missing something?_END_OF_POST_PYSTOCK_ Robinhood Was Indeed Too Good to Be True Article details how RH made the majority of their money on order flows while not disclosing such information and has been censured by SEC to the tune of  $65M. Net effect of such practices likely did not leave customers worse off. 
+
+ https://www.morningstar.ca/ca/news/208445/robinhood-was-indeed-too-good-to-be-true.aspx_END_OF_POST_PYSTOCK_ LEAPS exercise question I had bought call options on $ROKU in August 2020 expiring in Jan 2021. These are up solid 500%+. As they are about to expire soon, I'm looking for a way to reduce my tax bill. I have extra cash to exercise the options as I had got ITM calls at $150 strike (got it for cost basis of $2500). Some tax questions around exercising LEAPs:
+
+- Would exercising the call option be a taxable event? I guess not.
+- What would be my cost basis upon exercising the call? $150+$25 = $175?
+- How long would I have to hold these for getting taxed at LTCG rates? Is it one year from the time you purchased the contract or the exercise date?
+
+I still expect the stock to go higher in 2021 so don't mind holding the stocks long term._END_OF_POST_PYSTOCK_ Sell orders and price fluctuations Hi guys,
+
+If I were to put in a sell order for 100 of my shares and overnight the share price went up 20%, do the 100 shares locked in the sell order benefit from the price swing ?
+
+Use case:
+I own 2000 shares in Company X
+I place a limit order to sell 100 shares.
+24 hours later, share price goes up 20%, though my limit price was not hit.
+I decide to cancel the limit order.
+
+Did the 100 shares I had locked in this order benefit from the 20% price swing?
+
+Probably a dum question but just trying to understand logically. New to trading :3
+
+Thanks !_END_OF_POST_PYSTOCK_ Tesla China Model Y has 29.4% Gross Margin - Industry average is 8-10% [Tesla's China Model Y has 29.4% gross margin: report (teslarati.com)](https://www.teslarati.com/tesla-china-model-y-gross-margin-30-percent-report/)
+
+As title states, industry average margin for luxury cars is 8-10% while Model Y is at 30%.
+
+Why do people continue to use legacy auto maker multipliers when evaluating TSLA? Higher margins warrant higher multiples.
+
+Also, no, competition won't catch up. Once TSLA achieves L4 autonomy people will pay $15-20k extra for FSD, so margins will improve even further. Moreover, 4680 cells will cut battery costs by 50%.
+
+Every other automaker will go bankrupt or be extremely niche in the future._END_OF_POST_PYSTOCK_ TSLA Curiosity I just saw this news report and always thought that Telsa "auto-pilot" helps to prevent this type of accident - yes, she fell asleep but why did it not engage?
+
+[https://www.nj.com/middlesex/2021/01/woman-wrecks-tesla-after-falling-asleep-at-wheel-cops-say.html](https://www.nj.com/middlesex/2021/01/woman-wrecks-tesla-after-falling-asleep-at-wheel-cops-say.html)_END_OF_POST_PYSTOCK_ Monthly dollar-cost average OR buy the "monthly" dip? Optimization So we all know that time in the market beats timing the market. This is what makes "buying the dip" a worse performer than DCA: missing out on the big gains made while forever waiting for the next dip.
+
+But what if you lower your "dip" expectations in order to trigger at least \~1 monthly dip? The goal is to invest monthly, as with DCA, but not at a random price. Pro: prevent buying overpriced/all-time highs. Con: stay out of the market a few more days.
+
+There can be many strategies to identify this dip. Personally, after the paycheck I make my one monthly buy&hold at the 1st occurrence when the price passes over the 15-day moving average, as I found this a sweet spot to trigger at least one monthly buy opportunity at "discount".
+
+To visualize, the green vertical bars here represent these 15-MA crossover buy spots, it's an indicator I created on TradingView: [https://i.imgur.com/kl9VAeP.jpg](https://i.imgur.com/kl9VAeP.jpg)
+
+As you can see it triggers many "dips" for Nasdaq-100 which I'm most invested in, even during months with huge growth (March-September). It's important to define your dip so it triggers ideally at least once a month, so you don't stay out of the market too long, otherwise the strategy won't beat DCA.
+
+What are your opinions on this approach? Thanks for reading :-)_END_OF_POST_PYSTOCK_ Profit Interest Acquisition (Not Granted) I know that Profit Interest Units are typically granted, but is anyone familiar with the purchase of a Profit Interest?  In this scenario, individuals may purchase an interest in profits but will not become equity holders in the LLC nor will they have any management rights._END_OF_POST_PYSTOCK_ Hottest stocks of 2021 What are your list of top 5 stock picks for 2021? I believe we are due for a correction after the market finishes off the final stage of the bull market and want to prepared to how to respond for when this correction hit. 
+
+My top five are consisting of BAC, AAPL, V, MSFT, and QQQ/QQQJ. 
+
+This morning I liquidated my positions by now holding 25% cash to prepare for this possibility._END_OF_POST_PYSTOCK_ CORR Aquisition CORR filled out there SEC 8-k form, announcing the aquisition of Spire STL pipeline. This just happened so news hasn't gotten out about it. I have 6 March 12.5c contracts to hopefully 10x. Obviously do your DD but this is a good play. This stock could 2x, I'm hoping for 3 or 4x.
+
+[SEC Filing ](https://investors.corenergy.reit/investors/financial-information/sec-filings/default.aspx)_END_OF_POST_PYSTOCK_ on Bitcoin ($BTC) - a question One argument for the use of Bitcoin going forward (or any crypto currency) is it will hold it's value much better vs. the fiat that the government prints and circulates. So essentially, one can foresee once Bitcoin becomes mainstream and widely held and used, that the governments, and governments around the world will be stripped of their powers over monetary policy etc. and somewhat the financial system.
+
+**So the question is this** 1) Under what conditions will the governments around the world willingly and allowably let this happen? 2) If widespread popularity and use of Bitcoin is going to happen simply just due to sheer force: "you can't stop us from using bitcoin" heard mentality; then what is stopping any government from decreeing it illegal within their borders? Despite this, I do think that BTC could still operate under the decree under this hypothetical scenario, but it will have to be some sort of grey market currency.
+
+Any thoughts? What's the counter-argument for this?_END_OF_POST_PYSTOCK_ AYRWF: 3-6x Cannabis Opportunity Hey guys, first wanted to thank everyone for the community here. I appreciate your contributions. This is my first post and I'd love any feedback!
+
+I've been doing a lot of work in the US cannabis space and 2021 is shaping up to be a big year for the cannabis industry and for Ayr Strategies (AYRWF), a US multi-state operator.
+
+**TL;dr: The stock could be a 3-6x over the next two years and 10x+ longer-term. The US MSOs will be the most direct beneficiaries of growing cannabis consumption, and AYRWF has a strong management team, the highest growth over the next two years, best-in-class margin profile, and lowest valuation.**
+
+*Note: the company is listed in Canada under AYR.A and is available over-the-counter under AYRWF (OTC ticker recently changed from AYRSF to AYRWF).*
+
+**Thesis**
+
+* Cannabis is a $80-100Bn consumer staple category but only $20Bn are legal sales. The rest of the market is illicit. In addition to seeing the overall industry grow, the US operators should see a strong tailwind from illicit sales converting to legal sales
+* AYRWF is expanding its footprint in seven high-growth states including MA, PA, NJ, AZ, OH, FL, and NV (see table below)
+   * Limited license dynamics gives AYRWF a buffer against new competition
+   * Recent acquisitions in Florida and New Jersey give the company a strong position in two large, growing markets. Deals slated to close in 1Q21/2Q21
+* Strong financial profile
+   * AYRWF projected to grow \~140% in 2021 (75% organic) and 65% in 2022 (40% organic)
+   * The Company has 40%+ EBITDA margins currently
+* Company has a strong, sophisticated management team with a background in finance, mergers & acquisitions, and operations. They run a tight ship as evidenced by their high EBITDA margins and ability to execute through COVID-related disruptions throughout 2020
+* Several industry catalysts including:
+   * Adult use legalization in PA, FL, OH
+   * Banking bill would allow cannabis businesses to access the banking system, reduce their cost of capital, improve their margin profiles, make customer transactions more seamless, and allow AYRWF to list on a major exchange
+* Stock is significantly undervalued
+   * AYRWF trading at 9.5x and 5.0x 2021 and 2022 EBITDA, respectively vs peer average of 21x 2021 and 13.5x 2022
+   * For context, GRWG trading at 40x+ 2022 EBITDA
+
+**What is the stock worth?**
+
+* If AYRWF simply traded at the group average of 13x 2022 EBITDA, the stock would be worth $75, or a 3x from here...
+* ...but what would you pay for a high-growth consumer staple business growing 40%+ organically with 40%+ EBITDA margins? 25x EBITDA ($145 target price - 6x upside)? 30x ($170)? 40x ($230 - 9x upside)? I believe the stock will get a higher valuation as we get positive news throughout 2021 and cannabis increasingly becomes a part of the mainstream
+* How does the valuation gap close? Deal closures, execution, and discovery. Until recently AYRWF has been a strong but smaller player that not many people had heard of. Through a series of acquisitions (some of which have yet to close) the company will have a diversified footprint indexed to some of the best markets in the US. The company is well positioned to become a top 5 MSO by the end of 2021
+
+**Risks**
+
+* Recently announced deals to acquire assets in FL and NJ don't close
+* Delays in implementation of adult use sales in AZ and NJ
+* Execution missteps
+
+**Overview of AYRWF's state footprint**
+
+* PA: market estimated to grow \~60%/year from 2020-2025 (assumes adult use legalization by 2023)
+   * AYRWF expanding from 1 dispensary to 6 in 2021
+* MA: market estimated to grow 10.5%/year from 2020-2025.
+   * MA is already an adult use state but the story here is around Boston where AYRWF recently received a license to operate a dispensary in downtown Boston. Sales to begin in 2021
+* NV: market estimated to grow 12%/year from 2020-2025. NV performance through COVID shows strength of this market
+   * AYR has 6 dispensaries
+* NJ: market estimated to grow 80%/year from 2020-2025. Adult use sales likely to begin in 3Q21
+   * AYRWF recently acquired a vertically-integrated license in NJ including 3 dispensaries
+* AZ: market estimated to grow 15%/year from 2020-2025, with growth front-loaded in the next couple of years as adult use sales begin in 2Q21
+   * AYRWF has 3 dispensaries currently
+* FL: market estimated to grow 25-30%/year from 2020-2025 (assumes adult use legalization by 2023)
+* OH: market estimated to grow 50%/year from 2020-2025 (assumes adult use legalization by 2024). Relatively nascent medical market that has surprised many jumping out to a $250MM run-rate in a little over a year
+   * AYRWF bought cultivation and production assets in OH_END_OF_POST_PYSTOCK_ Is Simon Property Group a Buy? With the COVID pandemic hitting the economy hard in March, nearly all companies were effected, including real estate. Before the March crash Simon Property Group was in the 140-150 dollar range but currently sits at 83.70. Before the pandemic hit, the stock was starting to decline from January 2019 by about 17 percent. They were especially hit hard due to about half of their portfolio consisting of malls. When the pandemic is over I think they can come back stronger especially if all the weaker/smaller malls were taken out because of the pandemic. My thoughts were even with the decline starting from January 2019 do you think that this stock is a buy? 
+
+I am bye no means an experienced investor, just looking for some friendly input. Thanks!_END_OF_POST_PYSTOCK_ Remember that time JPM Berkshire and Amazon were going to crush healthcare? [https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html](https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html)
+
+how'd that go?_END_OF_POST_PYSTOCK_ Not enough money for FANG? I’m currently up about 20% on my small €1000 investment. My biggest regret is being over diversified . I currently have about 20 companies which I think is too much. I have hit 100% return on a few companies however this gets diluted with the other companies.
+
+I don’t have too much money to invest otherwise I’d be happy to invest in Microsoft, Apple, Amazon. 
+I currently have partial shares in each of them but my other investments have had better returns.
+I’m investing for the long term so it seems silly to leave out these large companies. I’m also interested in Visa. 
+I’m wondering if it would be better to leave them out for a few years and focus on high risk, high growth- then convert them into these safer long term companies. 
+I have been looking at investing in an etf, theres a few that are very heavy in these companies. My only problem is Ireland has a 41% tax on etfs which must be declared when sold but also every 8 years regardless. 
+
+Sorry for the long post and I don’t like asking these basic questions but I’d really appreciate any suggestions.
+
+Btw I know fang only includes one of my listed companies but you know what I mean lol_END_OF_POST_PYSTOCK_ Honest question: when do you think Virgin Galactic will perform its test flight again for FAA certification of its spaceship? https://www.cnbc.com/2020/12/14/virgin-galactic-spce-stock-drops-after-aborted-spaceflight-test.html
+
+The last test got aborted, but on the positive side showed that it’s safety systems worked flawlessly.  Now they just need to do the analysis fix the computer connection issue and launch its next test flight.
+
+When do you think it will be?_END_OF_POST_PYSTOCK_ A lot of people believe that Tesla is actually UNDERVALUED if Elon Musk succeeds in transforming all teslas into self-driving cars. From interviews of Cathy Wood, she also said that the major reason why Tesla is undervalued is due to the potential of self-driving cars and the software that comes with it. Not necessarily EV sales.
+
+&#x200B;
+
+From a Quora post responding to the question,
+
+"[**Is Tesla, Inc's stock (TSLA) undervalued right now?**](https://www.quora.com/Is-Tesla-Incs-stock-TSLA-undervalued-right-now)**"**
+
+"As an EV manufacturer, Tesla is, by every metric, overvalued. I mean, it's valued at 9x VW, yet VW sells 14x more cars.
+
+HOWEVER, if Musk pulls off what he claims he will - that Teslas produced from 2016 will suddenly turn into self-driving cars next year, or even if he's a year late, then Tesla begins to look undervalued.
+
+A recent video makes all of this seem a lot more possible than some, including myself, previously thought. It shows a Model 3 self-driving from San Francisco to Los Angeles - that's over 350 miles of urban streets to highways - with almost no help.
+
+Pretty incredible.
+
+Tesla's USP has been EV but that was never going to be enough - as other manufacturers have been fast-joining the bandwagon.
+
+**The real battleground is self-driving cars - whoever gets this right first will benefit from a huge first-mover advantage - huge because the gathering of real-life data first will drive home the advantage - a network effect.**
+
+And Tesla already has hundreds of thousands of these cars collecting data.
+
+The biggest winner in the automobile race isn't going to be the first that mass-produced EVs. It's going to be the first to win in software - like we've seen for PCs and mobiles. That may well end up being Tesla."
+
+&#x200B;
+
+What are your thoughts?_END_OF_POST_PYSTOCK_ Warrant exercise price given multiple underwritten offerings Hello! To give you a bit of context, I have little capital to work with and I have been eyeing a few companies lately. I have done my DD on them and I made a call that purchasing warrants would give me better ROI in the long term - allowing me to also save up enough capital to exercise it. 
+
+**One company, in particular, has had multiple underwritten offers issuing warrants with a different strike price from one another.** Not to mention a different strike price for the warrants sold on the IPO. I did some research on IPO's and found out that on traditional IPOS's, underwriters would buy all the shares from the company and sell it to their pickings of institutional/private investors and more. Only after they had their fill will the stocks actually go public on the market.
+
+A clause in the SEC filings for the underwritten offerings states that "The shares of common stock or the pre-funded warrants, and the accompanying common warrants, **can only be purchased together in the offering** but will be issued separately and will be immediately separable upon issuance."
+
+**Do underwritten offerings work the same way? And if so, when buying a warrant on the market, how do you know which warrant with the specified strike price you are buying given the multiple underwritten offerings?**_END_OF_POST_PYSTOCK_ Common Stock $-- Par Value in 10K Hey guys so I'm diving into Boeing 10Ks and at the cover it is stated that their stock is worth $5.0 Par Value. As I write this BA is trading at $212. As I understand it, this refers to the minimum price a stock can sell at. Is this true? What happens if Boeing stock trades at less than $5?_END_OF_POST_PYSTOCK_ Need advice after NASDAQ: TURN did a 1-for-3 reverse stock split. 180 Degree Capital Corp. (NASDAQ:TURN) performed a 1-for-3 reverse stock split of the company's common stock. This happened yesterday and my portfolio now shows $0.00 for this stock with the quantity unchanged. Do I need to be taking some sort of action?_END_OF_POST_PYSTOCK_ New to Buffett's method of calculating the intrinsic value of a company and have a question. I understand the first step is estimating out into the future the free cash flow of the company. Where I get hung up on is then applying the discount rate on that and working backward.
+
+I understand that the discount rate is essentially what the investor sees as a "risk-free" rate, but my question to that is what does taking that rate out of the future FCF position solve for? Is that implying that you as an owner would be pulling said % of free cash flow out of the company each year? Or % of the growth %?
+
+If so, then why does a particular percentage even matter? Free cash flow, by its nature, is free to the owner's discretion thus why should we only be taking out a small percentage of it each year, rather than all of it each year? 
+
+I'm new at this so please let me know if I'm missing the point of the discount rate entirely._END_OF_POST_PYSTOCK_ Holding volatility as an asset class and the art of hedging Hi all, I recently finished up a side project and want to get the results out there for some feedback and comments. Long post ahead! And also my first in /r/investing so please let me know if this isn't appropriate. 
+
+**TL;DR:** You can buy option spreads that are highly correlated to the VIX as a way to hedge, but I don't think the performance is worth it to hedge a UPRO portfolio. 
+
+Hedging is notoriously difficult and involves the selection of the right asset class, right allocation, and right time to remove the hedge (ideally at the bottom of a correction). If the VIX were directly investable, holding it as an asset in a portfolio would provide a significant edge. However, you cannot directly “buy” the VIX, and tradable VIX products (like VXX, UVXY, etc) have notable under performance when used as a hedge. A paper by James Doran (2020) proposed that a portfolio of SPX options that is highly correlated to the VIX could be held as a long-term hedge. The portfolio buys an ITM-OTM put spread and sells an ATM-OTM call spread when the VIX is at normal values, and does not hedge when the VIX is above the mean plus one standard deviation. In this way the portfolio systematically removes the hedge when vol is the most expensive and therefore more likely to revert to the mean.
+
+I was interested in replicating the results of this paper, extending the findings to the end of 2020 (the paper stops in 2017), and finding if the option portfolio would hedge a leveraged stock portfolio holding UPRO (3X leveraged S&P500).  
+
+**Step 0: Obtain data, write backtest code**
+
+Option data: I obtained end of day option prices for the SPX index from a subscription to OptionMetrics for 1996-2019. 2020 data were purchased from historicaloptiondata.com.
+
+Extended UPRO and TMF data: These products began trading in 2009, but we definitely want to include the early 2000s dotcom crash and 2008 financial crisis in our backtests. Someone on the bogleheads forum simulated the funds going back to 1986.
+
+Backtesting: I wrote a simple program to backtest an option portfolio in R. This program buys a 30 DTE spread as described above and typically holds to expiration. When VIX is low, a fixed percentage of the portfolio value is placed into the option portion during each rebalance, which occurs when the options expire. When VIX is high (above mean plus one standard deviation), the portfolio only holds the base asset class. If VIX transitions from low to high, the hedge is immediately abandoned, and if VIX transitions from high to low, the hedge is repurchased.
+
+**Step 1: replicate the results of Doran (2020) with the SPX index**
+
+To ensure our option backtest works as expected, I first replicated the results from the Doran paper using the SPX index. I allocated a fixed 5% to the hedge. I found performance was improved by using options 10% ITM or OTM, so these were used in all backtests. Below are the returns of these portfolios from 1996-2020, starting with $100,000. Although the hedge does well in negative markets, the under performance in the bull market of the last 10 years is quite apparent. The hedge also didn’t protect much against the rapid COVID crash in March 2020 – I think because VIX spiked very quickly and the portfolio wasn’t hedged for much of the crash. My results don’t exactly match those in the paper (even using a 5% spread width). I think differences in the option prices, especially early in the dataset, are playing a role in this.
+
+[Equity curves for SPX](https://imgur.com/zme5GVb)   
+SPX: un-hedged. OPT: always hedged 5%. OPTsd: hedged 5% when VIX is below the mean plus one standard deviation.
+
+  | SPX | OPT | OPTsd
+---|---|----|----
+CAGR|7.49|2.91|7.08
+Sharpe ratio (Annualized)|0.48|0.39|0.64
+StdDev (Annualized)|15.3|7.71|11.23
+Worst drawdown|52.5|35.2|41.2
+
+**Step 2: extend the option hedge to a portfolio holding UPRO**
+
+How does the hedge work using 3X leveraged fund UPRO? I conducted the same backtest, and found that 10% allocated to the hedge is better. This makes sense – you need something with higher volatility to balance out the extreme swings in UPRO. Hedged performance is definitely better than holding UPRO alone, which has pathetic stats over this time period. Better returns than holding SPX alone, but more variance and a equivalent Sharpe ratio. Holding the VIX as an asset is still the winner here.
+
+[Equity curves for UPRO](https://imgur.com/4zvFWE1)  
+SPX: un-hedged, UPRO: un-hedged, UPROvixsd: holding VIX as hedge when VIX is low, UPROoptsd: holding option hedge when VIX is low.
+
+  | SPX | UPRO | UPROoptsd | UPROvixsd
+---|---|----|----|----
+CAGR|7.49|9.71|15.1|21.6
+Sharpe ratio (Annualized)|0.48|0.20|0.49|0.53
+StdDev (Annualized)|15.3|46.8|31.6|40.5
+Worst drawdown|52.5|97.4|87.7|91.7
+
+**Comparison to a UPRO/TMF portfolio**
+
+The option-hedged portfolio needs to outperform a 55/45% UPRO/TMF portfolio for me to consider running it for real. I used portfoliovisualizer.com to easily compare these portfolios with monthly rebalancing.
+
+[Comparison to UPRO/TMF 55/45](https://imgur.com/vCHrEkZ)
+
+The returns with TMF have less variance than the option hedged portfolio and end up almost exactly equal at the end of this time period. However, in 1996-2008, the option portfolio definitely outperformed. Holding VIX is again the clear winner in both absolute and risk-adjusted returns, but still suffers severe drawdowns.
+
+**Conclusions**
+
+I don’t think holding this portfolio will provide a significant advantage compared to a UPRO/TMF portfolio. Given the limitations below and no significant advantage in the backtest, I won’t be voting with my wallet. The option hedge portfolio did provide significant advantages in the 1996-2008 period, where it outperformed all other portfolios (even the optimal 70/30 UPRO/VIX!) with a Sharpe ratio of 1.01 and max drawdown of 47% in the dotcom crash. I may paper-trade this strategy to get a feel for position sizing, slippage and fills on these spreads, though.
+
+**Limitations: Why I won’t be hedging with this method**
+
+1. This model assumes all transactions occur at the midpoint of the bid-ask spread and does not take into account transaction costs. While transaction costs are relatively small, SPX and XSP can have relatively wide bid-ask spreads, much wider than SPY.
+2. Options can by illiquid, only purchased in fixed quantities, and difficult to adjust. Today with SPX at 3750, Buying one SPX 30d 5% ITM-OTM put spread costs $16100. Adding the call spread brings the cost down to $9340 but brings the max loss of the position to $27340! Trading on XSP brings the cost down by a factor of 10. With a 1% hedge, this method is only good for portfolios >100k. As a 5% hedge this can be used on a portfolio as small as 20k. Still, what do you do when the optimal amount of hedge is 1.5 XSP contracts?
+3. It’s more complicated than simply rebalancing between UPRO and TMF, requiring more active management time.
+4. The option hedge didn’t even outperform UPRO/TMF in some regards!
+5. Backtests are only backward-looking and easy to overfit to your problem.
+
+**Future directions to explore**
+
+1. Optimal hedge amount – was not optimized scientifically, I just tried a few values and decided based on returns and Sharpe ratio.
+2. Differing DTE on position opening an closing. 30 days and holding to expiration may not be optimal.
+3. Selecting strikes based on Delta instead of fixed percentage ITM/OTM. This would result in different strikes selected in times of low and high vol, but probably has a minimal impact.
+4. The max loss of these spreads can be quite high compared to the cost to enter the trade – maybe the hedge amount should be scaled based on the max loss of the position (with the remaining invested in the base asset or held in cash).
+
+Questions? Other ideas to test? Let me know! I’ll also happily release returns or code (it’s not pretty) if you are interested.
+
+**References:**
+
+1. Doran, J. S. Volatility as an asset class: Holding VIX in a portfolio. Journal of Futures Markets 40, 841–859 (2020).
+2. Ayres, I. & Nalebuff, B. J. Life-Cycle Investing and Leverage: Buying Stock on Margin Can Reduce Retirement Risk. https://papers.ssrn.com/abstract=1149340 (2008).
+3. Ayres, I. & Nalebuff, B. J. Diversification Across Time. https://papers.ssrn.com/abstract=1687272 (2010)._END_OF_POST_PYSTOCK_ Jerome Powell’s future as chair of the Fed could be affected by its pandemic response. >Jerome H. Powell, the 67-year-old chair of the Federal Reserve, will face pressure from all sides in 2021, and he could find himself auditioning for his own job. His term expires in early 2022, which means that President-elect Joseph R. Biden Jr. will choose whether to renominate him.
+
+>Mr. Powell, a Republican who was made a Fed governor by President Barack Obama and elevated to his current position by President Trump, has yet to say publicly whether he wants to be reappointed, reports The New York Times’s Jeanna Smialek.
+
+>His chances could be affected by the Fed’s coronavirus crisis response, which has been credited as early and swift.
+
+>“We crossed a lot of red lines that had not been crossed before,” Mr. Powell said at an event in May.
+
+https://www.nytimes.com/2021/01/04/business/jerome-powells-future-as-chair-of-the-fed-could-be-affected-by-its-pandemic-response.html_END_OF_POST_PYSTOCK_ Jeremy Grantham of GMO: "I believe this event will be recorded as one of the great bubbles of financial history, right along with the South Sea bubble, 1929, and 2000." A very [thought-provoking piece by Jeremy Grantham](https://www.gmo.com/americas/research-library/waiting-for-the-last-dance/) that I thought was worth of discussion on this subreddit:
+
+> The long, long bull market since 2009 has finally matured into a fully-fledged epic bubble. Featuring extreme overvaluation, explosive price increases, frenzied issuance, and hysterically speculative investor behavior, I believe this event will be recorded as one of the great bubbles of financial history, right along with the South Sea bubble, 1929, and 2000.
+
+Grantham still finds it very difficult to time a bubble, even when he feels certain he's looking at one right now, because it's so tough to call the top. But he sees some interesting characteristics:
+
+> Either way, the market is now checking off all the touchy-feely characteristics of a major bubble. The most impressive features are the intensity and enthusiasm of bulls, the breadth of coverage of stocks and the market, and, above all, the rising hostility toward bears. In 1929, to be a bear was to risk physical attack and guarantee character assassination. For us, 1999 was the only experience we have had of clients reacting as if we were deliberately and maliciously depriving them of gains. In comparison, 2008 was nothing. But in the last few months the hostile tone has been rapidly ratcheting up. The irony for bears though is that it’s exactly what we want to hear. It’s a classic precursor of the ultimate break; together with stocks rising, not for their fundamentals, but simply because they are rising.
+
+> Another more measurable feature of a late-stage bull, from the South Sea bubble to the Tech bubble of 1999, has been an acceleration3 of the final leg, which in recent cases has been over 60% in the last 21 months to the peak, a rate well over twice the normal rate of bull market ascents. This time, the U.S. indices have advanced from +69% for the S&P 500 to +100% for the Russell 2000 in just 9 months. Not bad! And there may still be more climbing to come. But it has already met this necessary test of a late-stage bubble.
+
+And then his recommendation at the end:
+
+> Not surprisingly, we believe it is in the overlap of these two ideas, Value and Emerging, that your relative bets should go, along with the greatest avoidance of U.S. Growth stocks that your career and business risk will allow.
+
+I don't understand everything that goes into Grantham's piece, but he takes such a historical and experienced approach to giving context to the current stock market that I think this is worth a read for anyone who's relatively new to investing and wants to experience some battle-hardened weariness when looking at Dow 30k._END_OF_POST_PYSTOCK_ Oil breaks above $50 for the first time since February https://www.cnbc.com/2021/01/05/oil-breaks-above-50-for-the-first-time-since-february.html
+
+
+
+Oil has bounced back a lot from the crash earlier last year. I just wish I had a ton of land so I could have bought oil futures contracts when they were going for negative $$ and would have been paid to receive thousands of barrels which i could sell now. damn lol_END_OF_POST_PYSTOCK_ CLNE Plowed through $8.30 resistance Big Oil companies including Chevron, BP, and Total have announced various kinds of partnerships with Clean Energy Fuels to develop and market clean biogas fuel. That's given the stock a roughly 150% boost in 2020, but the biogas revolution is only just beginning.
+I expect that Clean Energy Fuels shares will continue their sharp rise in the new year and will power even beginner investors to some juicy returns.
+
+CLNE reported on Q3 97.7 million gallons in the third quarter of 2020
+The Company’s revenue for the third quarter of 2020 was $70.9 million_END_OF_POST_PYSTOCK_ People that laughed or didn't believe in crypto, have you changed your mind? Hello,
+
+We've all heard the news: "OCC Regulator Implements Groundbreaking Cryptocurrency Guidance For Banks And The Future Of Payments." - Forbes.
+
+Has this or anything changed your mind about crypto in the recent years? Why or why not?
+
+If the answer is YES, have you even dare to buy something you once thought was laughable?
+
+Disclaimer: I loved the concept of blockchain from day 1, but laughed at the idea of crypto. However, I started reading about it, and then it hit me. Not so much Bitcoin, but Ethereum ecosystem. So I hold some Ether since Jan-2019.
+
+C'mon let's hear everyone thoughts. We can all learn something today!
+
+Have a great day :)_END_OF_POST_PYSTOCK_ HSBC HSBC - buy, hold, sell?
+
+Would anyone invest in HSBC? The stock price is so low at the moment and im wondering if others have considered or have invested in HSBC in preparation for when long term interest rates increase and dividends are continued again?
+
+Interested to know people’s thoughts as I’m contemplating exposing a small % of my portfolio to this stock_END_OF_POST_PYSTOCK_ Why are $RIOT and other bitcoin mining stocks overpriced? I've spent the last week and a half researching bitcoin mining, looking at financials, purchase orders, equipment, making spreadsheets, etc.
+
+I don't see any possible world where owning 10,000 mining units (and an order for another 25,000 to arrive by October) imputes a $1b+ valuation, especially when there will be close to 1,000,000 of these units manufactured by that time.
+
+There is nothing proprietary about what $RIOT does -- what they do is done 1000x over across the world: Buy mining hardware and plug it in.  Is the total market cap for bitcoin mining somehow in the trillions?  If owning these units is so amazing valuable, why are the manufacturers selling them rather than using them to mine?
+
+I'm wondering if I'm missing something here...
+
+Happy to expand on this more if there's any interest.
+
+---
+
+**About Mining**
+
+Bitcoin Mining is the process of buying specialized hardware (which has a hashrate), hooking it up to electricity, and getting back some amount of BTC.  The amount of BTC you get is:  **your hashrate** divided by **network hashrate** times **reward**.
+
+Currently the reward is 1000 BTC per day.  This halves every four years, so if you're a miner, get wrecked.  But anyway, just assume it doesn't half.
+
+Now the amount of $ rewards you get is the above equation times the price of BTC, or $USD.
+
+So to recap:  You spend $2400 to get hardware that gives you 100 TH/s... the network hashrate is 150,000,000 TH/s, so you get 1/1,500,000 of 1,000 BTC per day (.0067 BTC), times $30,000, that's $20/day.  Pretty sweet, right?  You'll break-even in 120 days, and from then on out, it's all profit, right?
+
+---
+
+**Race to the bottom**
+
+Except, here's the golden rule of bitcoin mining:  **The more profitable it is to mine, the more the network hashrate grows**.  It's that simple.  Miners collectively see it is profitable to mine, so they buy a **ton** of that hardware, and now the network hashrate will, for example, double... so you're netting $10/day instead of $20/day.
+
+This is how it works -- miners are all competing, adding hardware when it's profitable, and driving the profit margin down to the lowest point they can tolerate, given the volatility of $BTC.
+
+There is nothing proprietary about mining, and there are no economies of scale.  There's nothing special about any miner's hardware -- they all buy it from one of a few manufacturers (Bitmain, MicroBT, Canaan, eBang, etc).  There's nothing special about electricity -- low cost electricity is available all around the planet.
+
+During the bull run of 2017, BTC went from $1,000 to $14,000 -- but during that same period hashrate went from 2 EH/s to 16 EH/s -- so even though $BTC exploding in value, the actual mining profit margins only increased a little bit.  By the end of 2017, the same hardware you had in Jan would now mine 1/8th the amount of BTC.  (The story got WAY worse in 2018)
+
+From my analysis I've concluded that on average **miners can hope for 1-2x return on their hardware investment across 2 years** -- by that time, the hardware has negative profit margin.  Not bad.. but not worthy of $1b+ valuation.
+
+Of this 1-2x, the vast majority of return comes from when the newest hardware is just released, and/or when there are spikes in $BTC that happen faster than miners can provision new hardware.
+
+---
+
+**The arms race**
+
+All things being equal ($BTC, network hashrate), there is another factor that guarantees network hashrate will go up -- and that is availability of new hardware.  For $2400 you could get 20 TH/s... then a year later, 50 TH/s.
+
+Per the golden rule of mining -- if it's more profitable to mine, network hashrate goes up.  About every year the next generation of mining hardware is released and is much more profitable, so miners **must** upgrade to it or they'll be left in the dust as the network hashrate explodes. When the dust settles, they are still getting the same amount of BTC, but have had to shell out $ for the new hardware.  Nobody wins, except the hardware manufacturers.
+
+---
+
+**About RIOT**
+
+$RIOT is a publicly traded company at above $1b valuation.  They've done essentially nothing but hook up a few thousand hardware units and operated at a loss.
+
+They sell shares constantly to raise cash to pay for their losses and ridiculous salaries.  There is nothing special about their operations -- what they do happens on a scale 1,000x over across the world:  buy mining hardware, hook it up to electricity.
+
+Throughout 2020 they ordered $83m in equipment which will trickle in throughout 2021... (which they'll have to do more share offerings to finance as their purchase orders require payment in various months).
+
+Meanwhile, the rest of the mining world has done exactly the same, probably to the total tune of a few $billion in orders.  The miners in china will get their equipment in greater quantities, and earlier, and at better prices (no tariffs, cheaper shipping, etc).
+
+*If $83m purchase order for late-arriving, overpriced mining hardware (which will only amount to a tiny fraction of global hashrate) is worth $1b+ market cap... doesn't this impute a ridiculous valuation on the BTC mining industry as a whole?
+
+---
+
+**Litmus test**
+
+Do you think that purchasing $50m in hardware (which will not arrive until later this year) somehow imputes a $1b valuation, when literally **$billions** of the same mining hardware were purchased by all other miners?
+
+Do you think the manufacturers are too stupid to realize that they could be multi trillion dollar companies if they just announced they are going to mine with their hardware rather than sell it?
+
+Do you think 1% of the network hashrate a year from now is worth $1b?  (Btw, they will not even come close to 1%... network hashrate will have gone up 2-4x by then.)
+
+Do you think $RIOT can compete against Chinese miners that get preferred deals with manufacturers, get first dibs at newest hardware, get better deals, don't have to pay tariffs, don't have to wait for shipping, and use their precious [Guanxi](https://en.wikipedia.org/wiki/Guanxi)?
+
+Do you think that when $BTC doubles, somehow all miners will **forever** make double the returns from their hardware?
+
+---
+
+**Am I missing something? How are $RIOT, $MARA, etc, seeing such insane valuations right now?  Would it make sense to short them?**
+
+Thanks._END_OF_POST_PYSTOCK_ REITS for TX/FL With all the news about several companies relocating their HQs to TX, or opening up new offices in FL for tax reasons, I think this may be the start of a more durable, long term trend. I would like exposure to real estate in these two states, and i’m wondering if anyone is aware of any REITS that own/operate commercial or residential real estate in TX/FL.
+
+
+Thanks!_END_OF_POST_PYSTOCK_ Why Greed is necessary in bull market You must have always heard since childhood that greed is always bad. But it isn't so. Greed by itself is not a bad thing. It's how you use greed that makes it a good or bad action. But How does this apply to investing?
+
+When you invest your hard earned money in the stock market, you should be greedy to get maximum value out of the investment because you have put in the effort and hard work to earn that money and it is absolutely fair that you get the maximum return from that money. This won't be possible unless you're greedy. You have to be hungry for more returns. 
+
+Often times people buy some wonderful stock and sell them pretty quickly for a little bit of profit. That stock then goes to unimaginable heights. In such a situation people justify by saying that I didn't want to be too greedy hence cashed out. But that is the wrong attitude. Unless the profit you made changed your life in any meaningful way, it is always wrong to cash out too early. It's as good as never having owned that stock. 
+
+Bull market thrive on greed and if you're not greedy then you will never be able to take advantage of bull market. The actual bull run begins when even the most bullish people say that's its too much, market has gone too high its time to stop. 
+
+Another perspective is when you buy a bad stock that stock punishes you relentlessly and without any mercy until you cannot take it anymore. That's because it has got your neck and it will wring it and squeeze it for its worth. So when you get hold of the neck by buying a great stock (either by research or accidentally) you also need to show no mercy to it. Squeeze it for all its worth because it would do the same to you. 
+
+TLDR; Bull markets thrive on greediness and if you're not greedy then you will never be able to take advantage of bull markets._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ TPL reorganization from a trust to a corporation- What does it mean for the stock price? Hello! I'm repeating my question posted earlier on r/StockMarket, as it seems this subreddit is also fairly focused on the stock exchange. I usually read wsb but the less said about that the better. 
+
+Also I'm putting this question in its own post instead of the daily question thread in the belief that it's a complex enough situation to lead to some discussion helpful to all. I feel like TPL is in the sort of situation that resembles a coming split, but I don't know enough about anything to understand the implication of the shift from 1 share of the Trust to 1 share of the new Corporation. 
+
+At the moment I'm sitting on a hefty amount of TPL shares. Normally, seeing TPL hit $750, I would sell all. It's close to its usual annual high before plunging again in a pattern that's been repeated for the past few years. Something about oil prices? However this year is different, in that the Refinitiv rating still says **Strong Buy**. And the newsfeed says:
+
+*"Texas Pacific Land Trust declares expected distribution date related to corporate reorganisation M2 Communications*
+
+*The Trustees of Texas Pacific Land Trust (NYSE:TPL) declared on Friday that pursuant to its plan to reorganise to a corporation formed under Delaware law named Texas Pacific Land Corporation (TPL Corporation), from its current structure, it will distribute all TPL Corporation common stock to sub-share certificates holders in certificates of proprietary interest of the trust on 11 January 2021 (effective date).*
+
+*Also, the company said that before the market opening on the effective date, it will distribute all of the above mentioned shares as of such date on a pro rata, one-for-one basis as per their interests in it. The trading of sub-share certificates on the New York Stock Exchange (NYSE) will cease and be cancelled prior to the market opening and TPL Corporation common stock will begin trading on the NYSE on the same date under the same symbol "TPL."*
+
+*Further, the distribution of TPL Corporation common stock will be made in book-entry form only and therefore, no action is required by sub-share certificate holders to receive shares of TPL Corporation common stock. Immediately after the distribution becomes effective, TPL Corporation will be an independent, publicly traded company and successor to all of the company's assets, employees, liabilities and obligations....*
+
+*....Texas Pacific Land Trust is a large landowners in Texas, USA with about 880,000 acres of land and not a real estate investment trust. It was organised under a Declaration of Trust to receive and hold title to extensive tracts of land, previously the property of the Texas and Pacific Railway Company and to issue transferable Certificates of Proprietary Interest pro rata to the holders of certain debt securities of the Texas and Pacific Railway Company. The company's trustees are empowered under the Declaration of Trust to manage the lands with all the powers of an absolute owner.*"
+
+So, does anyone know what this means exactly? Why is it worthwhile to hold onto shares until and after January 11? Is this change from a trust to a corporation affecting the availability of the stock? Are more shares being issued? I don't get it. Perhaps this is all arbitrary and I should sell now?
+
+What am I missing? Any advice?_END_OF_POST_PYSTOCK_ Paywall on SeekingAlpha Looks like [SeekingAlpha.com](https://seekingalpha.com/) has made some changes to how they make money. They are now behind a paywall. So anyone who wants to read analysis there needs to pay money.
+
+Being a longtime reader of SeekingAlpha, I must say I'm disappointed. Nonetheless, I'm now looking for a competitor 'aggregator' wherein one could read insightful commentaries on various asset classes(specifically commodities).
+
+Any leads on which is the second-best resource?_END_OF_POST_PYSTOCK_ 1/4/2021 - Top Meme Stock Options by Volume Traded *Less than 60 Days to Expiration (DTE) Top Meme Stock Options by Volume Traded\*:
+
+NIO Call $60 Jan/8/2021 Vol: 57,615
+
+TSLA Call $750 Jan/8/2021 Vol: 24,054
+
+PLTR Call $30 Jan/15/2021 Vol: 22,771
+
+CCL Call $22 Jan/8/2021 Vol: 11,304
+
+BABA Call $235 Jan/8/2021 Vol: 9,944
+
+\*Less than 60 Days to Expiration (DTE)_END_OF_POST_PYSTOCK_ Impact of Solar/Wind on Utilities Hi Does anyone have any links to good research on the future of the power industry? 
+
+Basically I think Utilities are super cheap, XLU ended down for the year and I think negative rates are coming.
+
+The main problem is renewables, will this bankrupt manage electricity generators? I dont know where to start looking at impacts.
+
+Thanks_END_OF_POST_PYSTOCK_ Asset Allocation - Tech Heavy Right Now As I start the new year it’s time to rebalance my portfolio. One thing I’ve noticed is how heavily concentrated my portfolio is in tech and tech related stocks. I’m seeing the S&P weighted with 24% tech, but my hunch is it’s even higher than that, with pseudo  tech stocks in other sectors.
+
+I’m not personally a fan of loading up on bonds, as that seems old fashioned at this point; however, I’d like to improve the sharp ratio on my portfolio and was thinking of diversifying as below.
+
+80% Equities (vanilla market etfs, global/US)
+5% Oil and Gas Integrated/Pipelines
+5% Megacap Mining Companies
+5% REITs (large cap only)
+2% Bonds
+3% Cryptocurrency
+
+I’d appreciate some feedback on your opinion of my allocation.  Generally I have less weight in commodities than this, but I feel Oil&Gas is very undervalued right now. Also, I believe mining is set up for a great year with the coming global government stimulus._END_OF_POST_PYSTOCK_ Why do brokers offer margin for so cheap? So I’m trying to understand why brokers offer margin at such low rates. For instance, Robinhood now offers margin at a 2.5% interest rate. I wondering why they don’t just place their money elsewhere. Like, why bother lending money at 2.5% interest when they could place it in any index fund and get 3-4 times that. Other than the obvious interest earned, what’s in it for them? Do you suppose it’s mainly to attract clients to their brokerage where they make money in other ways?_END_OF_POST_PYSTOCK_ What is Robinhood's MAU/DAU? I am looking to invest in pre-IPO shares through EquityZen. I couldn't find any publicly available information about how many active users they have daily, monthly to see the user growth.
+
+Total users over time is meaningless as there are lot of inactive accounts over time._END_OF_POST_PYSTOCK_ What's is your strategy for 2021? I'm seriously considering reducing the number of stocks I hold down to 5 individual stocks and two ETFs. I'm currently holding 24 individual stocks and 5 ETFs. I have done my research about the below 5 companies and I'm convinced that they are very well aligned to grow more with strong fundamentals.
+
+My only confusion is between SE and ENPH.
+
+I'm keen to know your 2021 strategy and the general sentiments around concentrating on 5 individual picks. Which individual stocks and ETF would you choose if you could only choose 5 stocks and 2 ETF?
+
+**Strategy:**  Reduce the over-diversification by performing through analysis and concentrate on the top 5 growth companies. Same for ETF, I believe in Cathy Wood's team and TAN.  
+Stocks:
+
+NET, SQ, TSLA, AAPL, SE
+
+ETF:
+
+ARKW & TAN_END_OF_POST_PYSTOCK_ How to read SEC filings Hello, I was wondering how to actually find and read/interpret the SEC filings for companies. I feel that words are nothing compared to the major investors dumping or buying in on stock, and was told that I could find people with a >5% stake in the company's trades *for that company.* 
+
+Could you please direct me to a tutorial on how to look for that specific trading data, or just tell me in the comments if you have the time?
+
+&#x200B;
+
+Thanks so much and stay safe,
+
+&#x200B;
+
+Cheap Upstairs_END_OF_POST_PYSTOCK_ Commission on selling ESPP shares After holding some of my long term gains in my company's ESPP program, I decided to sell a few lots and was surprised to see my brokerage, Fidelity, still charging $19.99 commission for each transaction. A few years ago it was as high as $29.99 when normal trades were $7.99 but I would've thought with the recent trend of brokerages going to the commission-free model, it would've been free. I called Fidelity and after a lengthy hold, the perplexed rep gave me an unassuring response of "that's just your company's negotiated rate with us."
+
+Why would there still be a commission for this type of service? How much is your brokerage charging to exercise your ESPP shares?_END_OF_POST_PYSTOCK_ Biotech Investing Input In regards to investing strategies in biotech world. There are lot of phase 3 trials that get published with positive data and post those results FDA decides to approve the drug or not.
+
+Is it safe to say that companies with positive phase 3 data where a drug offers better safety profile and has favorable results - would more often then not get approved by FDA. So if one invests after the phase 3 data is out and before the FDA approval process - isn’t that a safe investment strategy?  For example, in cases like MYOV where there is positive phase 3 data - and FDA did approve the drug, so post that data and between FDA approval is a full proof way of investment? No one can really predict the market, but despite such odds stock doesn’t necessarily change post positive phase 3 data and even at fda approval - would you usually suggest holding such stocks in those settings as they eventually will go up? 
+
+Is it worth usually buying companies which are again small to medium cap with positive phase 3 data, as for large cap one positive trial won’t change much. 
+
+Thanks for your input!_END_OF_POST_PYSTOCK_ Warrants question Hey guys, I have a few years experience trading stocks and options and was looking into getting warrants for a particular company. I did a lot of research on how they work and have a pretty good understanding, but I am still unclear about one thing - if the warrant is 4, and the strike is 10, then the break even is 14 - great. Does that mean post merger of the stock is 16 and remains that price, the intrinsic value of the warrant becomes 14 and then you can trade the warrant for 14+ like you would an options contract vs executing it? Thanks!_END_OF_POST_PYSTOCK_ BABA: Buy, sell, or hold? Jack Ma hasn’t made a public appearance in 2 months after criticizing Chinese regulators Before this whole fiasco, I was high on BABA as were many of my peers. Jack Ma seems to have pissed off the Chinese government by publicly criticizing regulators and now he seems to have disappeared off the face of the earth.
+
+The Chinese government doesn’t give a shit, they’re straight up mercenaries. They don’t even pretend to disguise their brutality. For Christ’s sake, they’re genociding an entire group of people (Uighurs, a Muslim minority in western China)!! Point is, if they want you gone, you’re gone. I’m not informed enough to cite specific examples, but haven’t they disappeared billionaires before?? Not making a political statement here, I just want to make money...or rather...avoid losing money due to my BABA position.
+
+Sure, Jack Ma could simply be laying low until the heat dies down. No one knows for sure.
+
+My question is buy, sell, or hold?
+
+My gut is telling me to sell and take the ~12% loss (I got in just a few months ago) and do some tax loss harvesting and repurpose the $ to something more stable. Otherwise, I fear my 12% loss can balloon to 40%. Thoughts?
+
+This video + article does a good job at summarizing: [CNN video + article](https://www.cnn.com/2021/01/04/tech/jack-ma-alibaba-ant-group-intl-hnk/index.html)_END_OF_POST_PYSTOCK_ Stocks listed on NASDAQ & Frankfurt stock exchange, different performance - Arbitrage opportunities? I've been following some COVID-19 vaccine biotech stocks that are listed on both NASDAQ and Frankrut stock exchanges (e.g. Moderna, BioNTech, Novavax) and I've realized their daily movements are not correlated on the two stock exchanges.
+
+For instance, Moderna's day-over-day change for yesterday (Jan 4, 2021) was down 6.08% on the Frankfurt exchange while it was up 6.95% on NASDAQ. Same for BioNTech (down 4.79% on Frankfrut; up 5.16% on NASDAQ) and Novavax (down 5.68% on Frankfrut; up 1.32% on NASDAQ). For reference, TecDAX was up 1.02% while NASDAQ was down 1.47% for the same day (i.e. this was not due to the respective overall market sentiments in Europe and the US).
+
+Why the discrepancy? Are there arbitrage opportunities or does it have to do with FX? I've been talking about this with a friend of mine and he mentioned something about the Frankfurt exchange changing their trading currency to EUR from USD, but from my research this doesn't seem to be true (I believe the trading currency of the Frankfurt exchange has been EUR). Can anyone shed some insight here? Thank you._END_OF_POST_PYSTOCK_ How to set price target? I mean in short-term & long-term price target for a security that meets traders and investors needs? I am curious what fundamental factors you use for price valuation ( I imagine EPS change would suit more long-term than near term) and what technical factors you would use for these analysis? Supposed you use support/resistance, I don’t think it would change that much with time
+
+
+Let’s say Apple for example. How would you set price target for buy and set trailing stoploss in 2 weeks, 2 months, and a year time?_END_OF_POST_PYSTOCK_ AAN  
+
+This  is my first post here. I'm new (be gentle). Thought I'd start posting  my ideas and analysis on here to get feedback and brainstorm ideas.
+
+\#######################################################################
+
+**Description (Data in $000s)**
+
+AAN  is a recent spinoff of PRG that operates in the “lease-to-own” (LTO)  business, offering customers the option to acquire staple merchandise –  appliances, furniture, and electronics – over a fixed term, usually  12-14 months, with flexible terms of agreement. Its primary strategy is  to target customers with lower credit scores that are unable to secure  financing elsewhere, though this only constitutes \~28% of current  revenues, with significant potential for expansion. There is a potential  market of 100 million Americans in this segment, alone.
+
+The  LTO business benefits from relatively stable, recurring, and  predictable cash flows provided by pools of lease agreements from prior  periods. These recurring revenue streams help insulate the business from  temporary macroeconomic disruption and are not reliant on current  period sales or conditions; 88% of AAN’s revenues were generated from  recurring streams in 2019. More importantly, for our purposes, it  increases the predictability of future earnings using past earnings as  AAN also benefits from repeat customers. The past two years have been  challenging for AAN, but the LTO business tends to perform better in  depressed economic conditions that are likely to return and persist over  the next few years. Recent revenue shrinkage shouldn’t persist over the  next few years.
+
+A rough proxy for  normalized free cash flow is an arithmetic average that deliberately  understates the growth potential of the enterprise whilst smoothing  fluctuations in capital expenditure and other undisclosed (aggregated)  line items. The following figures have excluded the restructuring costs  incurred during the spinoff and accounted for the potentially higher tax  rates (\~30%) under the new administration.
+
+2017H FCF: $394,623.5
+
+2018H FCF: $338,835.4
+
+2019H FCF: $520,150.2
+
+**2021E FCF: $417,869.7**
+
+I’ve  deliberately chosen to use gross capital expenditures rather than  maintenance capital expenditures to understate cash flow generation.
+
+AAN’s  merchandise base is full of staples – appliances, furniture, etc. –  that are less susceptible to online e-commerce giants; it is likely to  operate over the long-term. In addition, it already offers same or  next-day service, delivery and return of product in the majority of its  stores. No DCF is required, however. The enterprise value sits at  \~$833,790 when all interest-bearing contractual obligations and pensions  are accounted for. This means the market is pricing the company at  \~2.11x normalized free cash flow. The company is well-financed, too,  with ready-to-use financing agreements and a conservatively capitalized  balance sheet and potential for dilution is probably restricted to  acquisitions with equity-issuance.
+
+Let’s have rough look at comparable companies in the LTO business that have a similar product mix.
+
+Big Lots, Inc:  7.39x FCF of $264,490
+
+Conn’s Inc: 11.52x FCF of $366,500
+
+Dick’s Sporting Goods: 18.85x FCF of $275,341
+
+FirstCash Inc: 23.68x FCF of $145,138
+
+Rent-A-Center: 7.36x of $304,183
+
+AAN  has slightly higher FCF levels than most of these comparables and is  currently refocusing on its most profitable business segments and should  post more consistent FCF figures going forward. Based on market  interest in comparables, AAN has quite a large margin of safety in  eventually being recognised by the market for its fair value. Bad debts  are minimal ($933 for nine-months of 2020).
+
+**Potential Risk Factors**
+
+AAN  effectively operates in the subprime space and is subject to consumer  regulation. The biggest risk here is limitations on pricing power, but  this is already partially priced into current earnings due to the  competitive industry, itself. California recently passed the CCPA that  could raise compliance costs.
+
+Shifting  consumer preferences are always a danger, but most of AAN’s goods are  consumer staples such as appliances and furniture, which are subject to  limited risk of being “disrupted.”
+
+Much  has been made of recent court decisions exposing LTO businesses to the  acts, omissions, and liabilities of franchisees. This isn’t much of a  problem for AAN, though, given that it is quickly buying back its  franchisees.
+
+The spinoff may  result in a loss of economies of scope and scale in costs. I believe  that the margin of safety is large enough to absorb any potential  effects that may materialize here.
+
+The potential for higher taxes has been built into my FCF estimates.
+
+The  rise of e-commerce giants is a problem. I’m not sure Bezos can – or  even wants – to disrupt the furniture and appliance leasing market,  though.
+
+COVID-19 may pose ongoing  problems such as delays in orders and supply-chain issues. None of these  have occurred over 2020, and if they occur I believe that they can be  offset by the increase in lower credit score customers using AAN’s lease  options. There was an impairment expense for goodwill in the recent  results that is extremely conservative, in my opinion, and disguises a  net profit as a loss for the nine months of 2020.
+
+The  electronics segment (\~20%) is most likely to be disrupted. I have  deliberately avoided considering growth in order to provide a margin of  error for disruption and other fundamentally unpredictable events.
+
+Predicting the dividend yield is impossible at this stage.
+
+The  emergence of buy-now-pay-later enterprises may adversely affect AAN’s  business model. It’s worth mentioning that most of these businesses –  e.g. AfterPay – operate in more discretionary consumer markets like  clothing, though. AAN and LTOs also have the advantage of formalised  collateralization of leased-goods.
+
+**Management**
+
+The  executive suite is being taken over by Douglas Lindsay, Steve Olsen,  and John Robinson. They’ve all been working in the LTO business for  years and have good track records. Their compensation is highly  performance-based and oriented towards long-term equity options.
+
+**Catalyst**
+
+The  reduction in selling pressure post-spinoff; the realisation of  closer-to-normal results masked by restructuring costs and the full  amortization of goodwill in 2020; shift to e-commerce reducing costs for  physical stores and improving returns on capital; margin of safety too  large to ignore.
+
+\----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Disclaimer: I own the stock. Do your own research - not here to pump._END_OF_POST_PYSTOCK_ Anyone planning on buying more NIO tomorrow? Who here is doubting any form of post nio day dip and buying more NIO tomorrow? I do not want to screw myself trying to wait for dip that isn't going to happen and want to focus on acquiring as much volume as possible while its sub 60. What's everyone's current thought on NIO tomorrow/pre nio day?_END_OF_POST_PYSTOCK_ Are there any disadvantages to being pass-through? Why aren't all companies doing it? I know publicly traded corps can't. But say a c-corp with 10 shareholders elects to get taxed as a pass-through s-corp. Gains massive profits one year, but neither of the 10 shareholders sell/cash out any of their stocks.
+
+Does this mean, the company itself doesn't get taxed. No capital gains to be taxed. And the only form of taxation will be the two sharholders personal salary income tax (and possible dividends)? Am I missing something here?
+
+And if not, What's the catch? Is there a catch to the whole pass-through thing? Cause otherwise isn't this just a super simple legal way for companies to avoid taxation?_END_OF_POST_PYSTOCK_ Market P/E at historical high, second only to dot com bubble? Lots of articles citing stock market bubble as P/E ratio reach level that is only surpassed by the doc com bubble, second highest ever.
+
+But Isn’t it true that the current P/E is high due to covid-19 and in fact many companies in entire industries are reporting loss per share, such as travel, airline...etc. So isn’t it flawed to use the current P/E as assessment of market valuation. Is the P/E, specifically calculated with forward earning post covid timeframe, showing the same sky high valuation? 
+
+
+
+Also, what about stock valuation vs fixed income? The reality is that the days of 6% fixed bonds is long gone, so while 15x multiple might be the norm in the past, when factoring in the the virtually 0% return, what is the new norm?_END_OF_POST_PYSTOCK_ Portfolio Composition Calculator Does anyone know of a tool which calculates how much of your portfolio is in each company. In other words, my portfolio consists of VOO, ARKK, ARKW, and VGT, as well as a few small positions in individual companies. Is there a tool which can tell me how much of my portfolio is in a given stock?_END_OF_POST_PYSTOCK_ where to find US wage growth rate from 1960 or earlier ? I am trying to see how many years of annual income a person can achieve by investing in Index fund (like SP500). Assuming this person save 30% of his/her annual income into SP500, and his/her salary grew at US average wage growth rate. How many year of annual income this person can achieve at the retirement. How fast can this person reach 25X annual income and FIRE ? 
+
+so I need to find this wage growth rate since 1960 or earlier to plug it into the spreadsheet.
+
+(I imagine this should be on [BLS.gov](https://BLS.gov), but I couldn't find this there)
+
+Or has this been done before ? If so, could someone kindly provide the link, please ?_END_OF_POST_PYSTOCK_ The US REIT market does not seem to follow family homes demand It seems to me that family homes supply is low and in high demand. Ie. If you are a real estate "retail" buyer, prices will be high and stock low.
+
+However, shares of REITs across the board have generally been hit with some exceptions.
+
+For example, while the market has largely recovered, VNQ and IYR are still trading below precovid levels. And as far as I can tell, if you are looking to buy a home to live in, prices have pretty much been completely stable throughout the pandemic sell off and subsequent recovery.
+
+This tells me that REITs are not a good investment choice if you want exposure residential real estate. 
+
+I have an alternative living lifestyle. I currently live in a hotel and have previously lived in a van. I want exposure to a home but i don't want to live in a residential home so I've been buying shares of REITs because i thought it would be good exposure to real estate. However all of my REITs have lagged the 2020 market recovery.
+
+I realize that commercial has been hit due to covid, but shouldn't the increased residential demand have buoyed REIT performance? 
+
+It seems like there is no residential exposure in the REIT sector. At least as far as traditional homes goes.
+
+What's the best way to get exposure to that? Should I have bought Home Depot, AirBNB, Target, Lowes, Amazon, Whirlpool type equities instead of REITs?_END_OF_POST_PYSTOCK_ US Treasury OCC will allow US banks to use public blockchains and stablecoins as a settlement infrastructure in the US financial system Breaking major news from US Treasury OCC, the largest US banking regulator, with new guidance allowing US banks to use public blockchains and dollar stablecoins as a settlement infrastructure in the US financial system.
+
+https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html_END_OF_POST_PYSTOCK_ Warren Buffet said if you have just $10K or $15K to invest, he recommends investing in just one or two companies, which goes against the conventional wisdom of diversification in most investment subs, what do you think? (Link inside) https://www.youtube.com/watch?v=rgyYFQmdRyY
+
+This is of course assuming you know what you are doing, and still follow the value-based investment approach, but this is in contrary to most investment advice I've seen on reddit, which generally encourages buying index funds to reduce risk. What do you think?
+
+EDIT: Oops, just realized I misspelled his name, maybe I'm getting hungry._END_OF_POST_PYSTOCK_ How to invest in BBQ/Smoking Idk if theres going to be a great play here, since most of the parts makers I can find are private companies, but I've noticed theres been a huge uptick in the number of people who are smoking meats at home over covid. The biggest beneficiaries are probably local butchershops/high quality cattle ranchers so if anyone knows any tickers associated with high quality meat or associated industries (large animal medicines?). Then theres the smoker angle. I cant find much since most high end smokers are custom made, doesnt really seem to be a scene that has any public players. 
+
+Idk if this will be a long term trend, but it certainly could be, just fishing for some new ideas_END_OF_POST_PYSTOCK_ Need help finding company financial statements Hello, I recently got into investing in stocks and crypto. I was wondering the best ways to find some company’s financial statements to speculate stocks. I am looking for the most cost effective way to find the financial documents so I might not have to use pay-walls. I am currently invested in $BNGO, $APOP, and $ZOM. I am also wondering the best ways to look at the financial statements to potentially see a run or dip coming. I invested in BNGO this morning and was able to capitalize on the x10 gains, but I’d like to try and figure out why it happened too. Hopefully I can find myself some moon tickets 🚀 🚀🚀🚀🚀_END_OF_POST_PYSTOCK_

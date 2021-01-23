@@ -1,0 +1,289 @@
+ AMZN holiday sales numbers on Monday AMZN reports it’s holiday numbers on Monday... given that Black Friday & Cyber Monday already where ATH numbers I would expect these numbers also to be incredibly impressive!  Plus covid really helps with most things being closed. Amazon is about to post its best numbers ever so sales and Q1 earning I would expect and blowout! 
+
+Took some weekly calls I expect no less than 100points next week from AMZN!_END_OF_POST_PYSTOCK_ What's your WORST investment idea for 2021? Should be an actionable true investment idea and something which on 12/31/2021 has the potential to have been a *good* idea in retrospect. So "100% money market funds all year" is acceptable but "lighting all your money on fire" is not. Nor is "100% in stock that has already declared bankruptcy".
+
+
+Been reading some things recently about how all those "10 themes for the upcoming year" pieces often end up containing some horrible advice and how you would've been better off doing the exact opposite of what was suggested. It would then follow that intentional *bad* ideas turn out to be good. So I'm wondering what y'all's are._END_OF_POST_PYSTOCK_ BABA is an example of why you need to HEDGE and DUE DILIGENCE i’ve seen many posts here during my recent intro to this subreddit on Bullish BABA. It is a great firm no doubt, and I myself benefited immensely earlier in the year riding a 41-45% return.
+
+This fiasco has been brewing for a while (since 2018). 2020 has ramped up over the past few months. Jack Ma didn’t help himself by taunting a totalitarian government in public. 
+
+I have no position on BABA, and I don’t recommend any action right now other than take your damn time, hedge, and do your due diligence.
+
+Reddit investor threads seldom are a good analysis or summary for any investment regardless of result. I dare you to find any reputable report/analysis that yields a page. Please people, hedge your portfolios because while it is fun to win 10k in a month, the music will eventually stop. This has happened every time, and you don’t wanna be caught without a chair. You can talk shit about Buffett all you want, but there is a reason why the old man is revered and on top after so many ups and downs, he hedges on top of being defensive and having long time horizons. 
+
+TL;DR - BABA is a prime example of the music stopping and why you need to HEDGE and do your DUE DILIGENCE_END_OF_POST_PYSTOCK_ US News - Top Robo Investors 2020 and Titan Invest All Titan Research and Reviews I've seen on Reddit were from early 2019 or before so I decided to include some of my own research. As always do your own research and invest wisely.
+
+[US News](https://money.usnews.com/investing/investing-101/slideshows/the-best-robo-advisor-for-different-types-of-investors) recently released their top 10 robo advisors of 2020. Titan has been doing very well with their different hedge fund plan vs other robos. Beating the competition since their founding in 2018.
+
+[Robo Report Quarterly Report](https://www.backendbenchmarking.com/blog/2020/11/titan-invest-review/) also had good things to say. I recommend their newsletter to anyone who's remotely interested in robos. This is from their Q3 2020 report released Nov 2020: "Titan’s goal is to bring exceptional performance to the masses with a hedge fund-like approach. So far, it is delivering on that promise. It does so by holding individual stocks and making active trades. This is in direct opposition to the strategy of most robos, which are passively managed and hold index funds. Once again, it is the top performer over all periods for which our account has been open. In the third quarter, it returned 11.76%, bringing its year-to-date returns to 24.62%. It is an all-equity portfolio, and when we compare it to the average robo’s equity returns, we see that it outperformed by 30.95% over the 1-year period."
+
+Their fees are higher (1% annual of total portfolio) than other robos but so far their returns have made it worth it often beating the S&P.
+
+I wouldn't recommend pouring your entire portfolio into Titan. Start small and if you like your returns invest more later. They offer Roth IRA and taxable accounts._END_OF_POST_PYSTOCK_ South China Morning Post News On Alibaba AntiTrust Probe [https://www.scmp.com/tech/policy/article/3115107/beijing-lectures-alibaba-tencent-meituan-and-pinduoduo-new-antitrust](https://www.scmp.com/tech/policy/article/3115107/beijing-lectures-alibaba-tencent-meituan-and-pinduoduo-new-antitrust)
+
+tldr;  Chinese government gave Chinese big tech guidance on what not to do.  That is all. I doubt they'll  break up Alibaba unless it ignores the commandments_END_OF_POST_PYSTOCK_ Anyone invested in DQ (Daqo energy)? I’m long on it, it’s a renewable energy play, had recently seen a run up to $68 but now has dipped down to $55. 
+
+I think this has a lot of potential for a long term gain. My only concern Is that it’s dipped when the market has been soaring. 
+
+Any thoughts?_END_OF_POST_PYSTOCK_ Reminder: BABA stock does NOT entitle shareholders to equity in Alibaba Been seeing a lot of users posting DD on Alibaba and making a bullish case for it. Seems like the massive drop in share price now should be a fantastic opportunity to pick up the Amazon of China at only a forward P/E of 18 right? Not exactly.
+
+This has been posted before in less detail, but I think it's important to remind investors of the current circumstances arising during the anti-trust probe with China.
+
+The reason why BABA is nose-diving on any extra news of government involvement is that BABA represents ownership of a shell company in the cayman islands, not actually Alibaba itself. The shell company doesn't even have ownership of Alibaba's equity. If you want proof of this, simply open up any of their financial statements filed with the SEC.
+
+Chinese law forbids foreigners from owning strategic assets in the country, and Alibaba wouldn’t be able to keep its licenses if, say, a U.S. hedge fund directly bought into the company.  Basically, the Alibaba stock will buy you a stake in a Cayman Islands-registered entity that is under contract to receive the profit from Alibaba's Chinese assets but will not actually own them. This structure is called a VIE.
+
+So think about this, if Chinese laws prohibit foreigners from owning/investing in these kinds of assets in China, what would protect the shell company in the Caymans from enforcing their contract to receive profits from Alibaba if shit hit the fan with the CCP? If Alibaba gets broken up during anti-trust probes, how do we know which subsidiaries BABA ( the shell company in the caymans) will be contractually obligated to receive profits from? Heck, is this contract to receive profits even enforceable in China, where the law clearly states foreigners can't own strategic investments?
+
+Is this VIE structure even legal in China? Beijing has never acknowledged the legality. According to Harris Bricken, an international law firm:
+
+" VIEs are illegal. We disagree with those who are saying that what is proposed is a two tier, foreign/Chinese system. "
+
+We don't know the true answers to the above questions. BABA could easily be worth 0$ if investors one day decide that the "contract" to receive profits from Alibaba is basically BS.
+
+Alibaba and Chinese executives come out a winner either way. Alibaba was able to raise billions from foreign investors without giving up a single bit of ownership.
+
+Oh, by the way, all Chinese listed companies on US exchanges are listed as Cayman shell companies, this isn't specific to Alibaba. Baidu and JD are set up the same way.
+
+EDITS:
+
+1. Since many of you are asking, yes NIO is also set up this way. When I said all Chinese companies are listed this way, I literally mean 100%.
+2. I don't know why so many high-profile investors still buy these ADR's. My favourite value investor, Bill Miller, also holds a huge position in BABA. I guess you're either in the camp that believes China won't enforce their own laws on foreign ownership so BABA's VIE is undervalued, or that one day they will and so the intrinsic value of BABA's VIE is 0$ because profits can never legally flow to foreign investors.
+3. The SEC just last month in a report published in November expressed serious concerns: "These China-based Issuer VIE structures pose risks to U.S. investors that are not present in other organizational structures. For example, exerting control through contractual arrangements may be less effective than direct equity ownership, and a company may incur substantial costs to enforce the terms of the arrangements, including those relating to the distribution of funds among the entities. Further, the Chinese government could determine that the agreements establishing the VIE structure do not comply with Chinese law and regulations, including those related to restrictions on foreign ownership, which could subject a China-based Issuer to penalties, revocation of business and operating licenses, or forfeiture of ownership interests. " Source: [https://www.sec.gov/corpfin/disclosure-considerations-china-based-issuers](https://www.sec.gov/corpfin/disclosure-considerations-china-based-issuers)
+4. After some further research, Mainland Chinese companies listed on the HKE are also VIE's and considered "offshore".  Here is what the org structure looks like: [https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/12/21/7b58a856-4294-11eb-be63-b2d34bb06b66\_972x\_163317.jpg](https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/12/21/7b58a856-4294-11eb-be63-b2d34bb06b66_972x_163317.jpg)_END_OF_POST_PYSTOCK_ Investing in a car rental business through Turo or Avail? Anyone done it? What was your experience? 
+
+Turo is essetianlly Airbnb for cars, and it looks like you get all the fun of cleaning up and gassing up after your customers too. From a stickied post in /r/Turo, it looks like insurance is a challenge for that platform. 
+
+For Avail, you leave off your car at the airport and they seemingly handle everything. But you only get about $20 per day, and only if someone rents your car.
+
+It certainly doesn't seem like the best time for either right now given the pandemic._END_OF_POST_PYSTOCK_ Russell 2000 has passed 2000 I find the idea itself endearing, but just look at that slope upwards starting from November.
+
+There is no way that is healthy, right? Russell 3000 doesn't look quite as silly, though.
+
+My entirely out of my own ass -theory is that everything on the sp500 is too expensive now so the free money flows there now. I don't think that's exactly right, though._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Underwriter positions I'm trying to determine if the underwriters (namely, Cantor Fitzgerald)  for a certain IPO retain shares of the company they helped IPO (namely,  Nanox Vision).  From the company [prospectus](https://investors.nanox.vision/static-files/5810c5f6-62b1-4d96-b9fd-b74c73aadbf3)  it looks like Cantor got 4.3M shares to sell (and/or keep?) of 9.1M  shares initially offered - however at this point there are 46M  outstanding shares. So - where did all those extra shares come from ,  and does Cantor still hold any? They don't seem to be listed as [institutional shareholders](https://www.nasdaq.com/market-activity/stocks/nnox/institutional-holdings) (and btw why are all those guys listed as having bought on the same day, 30.9.2020??)_END_OF_POST_PYSTOCK_ CD Project Red Hi,
+What are your guys thoughts on the drama surrounding CDPR and Cyberpunk 2077
+
+Since the recent drops to CDPR's stocks I feel like their stock has gotten a lot more interesting. I have big trust in the company to fix all bugs and issues with Cyberpunk. Moreover, a sequel for The Witcher series has been pretty much confirmed and work for the next AAA game is supposedly starting soon, though I suppose they are first going to focus on patching Cyberpunk to repair their image a bit. It was kind of the same with The Witcher 3, while it was still a great game at the start, only after continued support did it turn into the game so many know and love.
+
+So my question since I am fairly new to investing, is there some specific time one should wait before investing due to the recent drama? How does something like this normally get resolved / resolve itself? Or is the sooner the better regarding a possible investment?_END_OF_POST_PYSTOCK_ Why the Alibaba Anti-Trust Probe Should Not Concern You Obvious Disclaimer: Not professional advice, but my personal opinion
+
+So I've been seeing a lot of posts/comments on different subs lately from new investors who are scared and are thinking of selling their BABA shares first thing tomorrow. If you are uncomfortable holding this company given the recent news, and understandably so, then go ahead - this post is not for you. It's your money, do whatever you want. But I want to make this post for the new investors who are in between/scared because they have a big position in this stock and are not sure what to do.
+
+Full disclaimer: Alibaba is my second biggest position and constitutes almost 8% of my portfolio. I have been holding this stock for a very long time and my cost basis is somewhere in the low 100s. Even I will be buying into this dip tomorrow. Let's break down some of the reasons and different scenarios:
+
+1. CCP (Chinese Communist Party) has bad blood with Jack Ma, not Alibaba. Yes Jack Ma was the founder and he still owns massive portions of the company, including portions of subsidiaries of this company, but he is no longer the CEO. If the government took some action against Jack Ma, it would not fundamentally hurt Alibaba as a whole. Let's remember, Alibaba is one of China's tech darlings. The government and their people take pride in Alibaba being one of the biggest companies in the world. CCP cares very deeply about the global image of China. They would not do anything drastic to the company that would ruin it's image or ruin the image of it's largest technology company
+2. Alibaba is facing anti-trust probes due to forcing sellers to do a pick one strategy. Right now, if vendors chose to sell on Alibaba's marketplace, they cannot sell on JD or Pinduoduo. Yes, the CCP can overturn this, and this is most likely what will happen. However, is this enough to justify the 5-10% sell-off that is coming tomorrow? Absolutely not. In fact, Alibaba trades at a 20x PE while Amazon trades at a PE above 100x. The company is already undervalued as of right now IMO.
+3. Alibaba may be forced to pay a fine to CCP: This changes absolutely nothing fundamental about the company. Alibaba is sitting on millions in cash and they generate insane levels of cash flow every quarter. Even a large fine would not hurt this company
+4. Alibaba may have to hand over some shares and ownership to CCP: This changes nothing about the company. Let's remember, the CCP essentially controls all businesses in China anyways. In particular, the CCP has always worked closely with Alibaba and Tencent anyways.
+5. Stricter regulations on Alibaba and Ant Group. This will likely happen. However, the company has already said it is willing to work with the CCP and regulators to come to an agreement.
+6. Worst case scenario: Alibaba gets broken up. Bad for Jack Ma, bad for Alibaba but GREAT for investors. If each of the parts of Alibaba were released separately into the market, Alibaba would be worth way more than what it is today. (The conglomerate discount: It's a thing, search it up)
+
+In short, this anti-trust probe is likely just a small hiccup if you are a long term investor. CCP is most likely doing this just to remind Jack Ma and others that they are still the boss and that talking against Xi is a very bad idea, even if you are one of the richest man in the world. That is all._END_OF_POST_PYSTOCK_ A China expert on BABA: Bullish Background: I've published peer-reviewed journal articles on China's politics and markets before. 
+
+Alibaba (and Ant)'s getting pulled into a meeting with regulators today on the heels of a new anti-trust probe. Expect a correction, but much of the uncertainty had already been priced in. 
+
+A quick sentiment analysis of the press releases from Chinese government mouthpieces like《人民日報》\[the People's Daily\] shows their tone is much more mellow now than before. Where before they hawked on Ma and Alibaba, they're now focusing on “the country’s focus on the healthy development of the platform economy in China”. This talking point is repeated a significant number of times in the releases. 
+
+This stark shift in tone suggests regulators already have a for-show compromise in mind and BABA will only need to kiss the ring when they meet with said regulators today. It also suggests regulators are putting on this show for political grandstanding to send a message to digital companies and the billionaire class to do the same. 
+
+To put this into an even broader context, this episode is just the latest in a chest-puffing government campaign going on over the last couple of years to stress deference to the CCP. China's state-run banks have dragged their heels in performance for a while, and ever since private-sector digital platforms (BABA, JD, Meituan, TCEHY) have forged ahead in innovating much more efficient payment systems, the CCP felt left behind and wanted to be included in the party. What's key is we’ve observed this campaign to be much more discursive and cultural in practice and effect (e.g. prodding individual people and companies to be more humble and thank the party, put on the frills, yaddi-yadda) than it has been economic (e.g. quashing entire companies). 
+
+Why? And where are we headed? BABA and the digital platform economy it's a leader in are essential to China. The CCP has been ramping up efforts to digitalize in a bid to take a lead in the global (fin)tech race and strengthen the yuan at the same time. The innovation of the new China digital currency is a game-changer. The Bank of China filed over 70 patents related to the digital currency in the past year. The patents will likely be approved 2021, which will be BABA's time to shine because the CCP will need the networks and infrastructure of Alipay to make the digital currency a success. 
+
+More bullish sentiment: in Q3 2020, close to 1800 hedge funds/financial institutions had BABA in their holdings, over 200 opened new positions, and \~700 added to their positions. Bigger names who bought more over Q3: Cathie Woods' Ark, Ray Dalio's Bridgewater, Morgan Stanley, Fidelity, Barclays, Susquehanna, Deutsche, Canada Pension Plan, etc. It remains Blackrock's #8 holding and has become Bridgewater's #4 holding. 
+
+My take: buy and hold. I literally bought more yesterday and I intend to keep buying._END_OF_POST_PYSTOCK_ What is your target number of positions ? I see a lot of discussion around investment style, diversification, investment type but not a lot around how many positions people think are ideal. I target 20 positions at about 5% each. I do have 3 that are overweighted and I am very reluctant to pare back. 
+
+Even though I target 20, I do find myself over that number on occasion. I am currently at 24 and was planning on selling 4 and using the proceeds to rebalance a little so my “favorites” are not so overweighted but am having problems picking the 4 (I liked them when I bought them and I still like them!) You don’t want to put all your eggs in in the same basket but you also don’t want pennies making more pennies by spreading out your dollar too much.
+
+So what’s your ideal number of positions and why?_END_OF_POST_PYSTOCK_ How to tell if my investment strategy is working? Hi there, I started being interested in investing when Covid hit. I started in May 2020 and I have made a 25% profit since. Ive been sticking to the same strategy since the start, but how do I know if its my strategy working or if its the overall market increasing? I know a lot of stocks have been way down because of lockdown and restrictions, but many stocks (like technology) have increased dramatically. Is the best way to tell if my strategy is working to wait it out and compare it in the long run? Or would it be best to just compare to the overall market?
+
+&#x200B;
+
+Sorry, english isnt my first language_END_OF_POST_PYSTOCK_ IPOs to watch in 2021: The 5 most anticipated debuts  Despite the near-constant upheaval caused by the [coronavirus pandemic](https://finance.yahoo.com/news/coronavirus-update-us-buys-more-pfizer-covid-19-vaccine-doses-cdc-says-uk-strain-likely-already-here-161435856.html), 2020 will go down as one of the best performing years for initial public offerings (IPOs). Over the last 12 months, a stunning 216 companies went public, the most since 2014, with firms raising an astonishing $78.1 billion in the process.
+
+Consistent with previous years, healthcare and technology were the most popular sectors of the IPO market. Airbnb ([ABNB](https://finance.yahoo.com/quote/ABNB/)), Doordash ([DASH](https://finance.yahoo.com/quote/dash)), Snowflake ([SNOW](https://finance.yahoo.com/quote/snow)), Lufax Holding ([LU](https://finance.yahoo.com/quote/lu)), and Royalty Pharma ([RPRX](https://finance.yahoo.com/quote/rprx)) were the largest companies to go public this year.
+
+And 2021 looks like it could be just as good for public debuts, according to Kathleen Smith, IPO ETF manager at Renaissance Capital.
+
+“As long as the market holds up, we could very likely see a better year in 2021 than we saw in 2020,” Smith told Yahoo Finance. While the IPO market started out strong in 2020, the pipeline essentially closed down in March because of the pandemic before picking up steam again in the second half of the year. Momentum looks promising heading into the new year, assuming the Federal Reserve’s easy money policy stays intact for the foreseeable future.
+
+ Overall, this year’s slate of public offerings performed extraordinarily well during and after their IPOs. The Renaissance IPO ETF ([IPO](https://finance.yahoo.com/quote/IPO/)) is up 119% this year compared to the S&P’s overall 14.3% gain, logging its best year ever. The average return on a U.S. IPO this year was 75.4%, compared to last year’s 24.4% and 2018’s -1.9% loss.
+
+With two COVID-19 vaccines now authorized in the U.S., one potential shift is a so-called return to normalcy that may not favor growth-oriented healthcare and tech companies, and instead may benefit cyclical names that aren’t as high-flying. “We can’t be so sure that the tech IPOs will be the ones at the top of the 2021 list. The minute there’s any kind of worry, markets correct and deals get priced more conservatively and they don’t get done,” Smith said.
+
+2021’s big-name companies range from communication services and consumer discretionary to fintech and materials. Juggernauts like gaming platform Roblox, buy-now-pay-later retailer Affirm, and chemicals and equipment company Atotech are each poised to raise as much as $1 billion. And there are plenty of other firms waiting in the wings.
+
+## Roblox (RBLX)
+
+If you’ve got children, you know [Roblox](https://www.roblox.com/). The online gaming platform, valued at $4 billion, allows users to create and publish their own video games using Roblox’s tool set. It’s part creation, part play, and expected to hit the public market next year. Founded in 2004 by David Baszucki and Erik Cassel, the company makes money through the sale of its Robux in-game currency.
+
+[Roblox’s S-1](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm) indicates the company, along with the rest of the gaming industry,[ has experienced rapid growth](https://finance.yahoo.com/news/coronavirus-world-turning-to-video-games-150704969.html) in users and revenue, but its losses have ballooned in lockstep.
+
+In the nine-month period ending in September, Roblox had 31.1 million daily active users, an 82% increase from the same period a year ago. Revenue hit $589 million, but its net losses totaled $203 million, four-and-a-half times the $46 million it lost in the same period of 2019.
+
+Roblox, which was widely expected to debut in December, delayed its move into the public markets after Doordash and Airbnb made it difficult for the video game company to price its shares, [according to The Wall Street Journal](https://www.wsj.com/articles/roblox-delays-ipo-until-next-year-11607742940?mod=article_inline).
+
+Smith says the firm should see a huge amount of interest from investors.
+
+“I look at Roblox and, although they are losing money, they have positive cash flow and it’s a $1 billion-plus IPO, so I think investors are going to pay attention to that,” Smith said.
+
+## Affirm Holdings (AFRM)
+
+Affirm Holdings, like Roblox, was expected to IPO in December 2020. However, it delayed the move until at least January 2021 after Doordash and Airbnb saw massive pops during their public offerings.
+
+The company, which could see its valuation top out at $10 billion, is part of a growing number of buy-now-pay-later services that provides 0% interest or simple interest loans for consumers looking to purchase everything from shoes to exercise bikes.
+
+Founded in 2012, the company is still losing money, posting net losses of $120.5 million and $112.6 million in 2019 and 2020, respectively, [according to its S-1](https://www.sec.gov/Archives/edgar/data/1820953/000110465920126927/tm2026663-4_s1.htm). Still, Affirm, which was founded by Paypal co-founder Max Levchin, is likely to see its IPO raise billions of dollars.
+
+“The company is losing money and I think, although it’s growing really fast, these types of companies are like payday lenders,” Smith said. “They have some things investors have to pay attention to when it comes to rules and regulations.”
+
+## Atotech (ATC)
+
+Initially expected to IPO in the first half of 2020, Carlyle Group-owned Atotech delayed its debut due to the coronavirus pandemic and fears that it would hurt its valuation. The company makes specialty chemicals and equipment found in everything from smartphones to communications infrastructure.
+
+[The German firm filed its F-1](https://www.sec.gov/Archives/edgar/data/1762459/000119312520008031/d903704df1.htm) with the Securities and Exchange Commission in January 2020, reporting consolidated net losses of $23.7 million in 2018 on $1.2 billion in revenue. In the nine months ending in September 2019, though, the firm saw net income of $12 million on $877 million in revenue, and its IPO deal could top out at $1 billion.
+
+Of course, the company will also have to contend with variables in the broader tech industry including the whims of consumers and enterprises purchase cycles for electronics infrastructure.
+
+## Petco (WOOF)
+
+It’s where the pets go, and in 2021, it’s where investors will go, too. The pet retail giant Petco is set to go public in 2021 with a deal worth as much as $800 million. Founded in 1965, the company was last publicly traded in 2006 and has since been owned by private equity investors.
+
+[In the company’s S-1](https://www.sec.gov/Archives/edgar/data/1826470/000119312520309678/d62974ds1.htm), CEO Ron Coughlin goes even further, saying: “Petco has grown from a local veterinary supplies shop to a disruptive, fully integrated, digital-led, comprehensive pet care ecosystem that puts the health and wellness of pets first.” 
+
+That’s a fancy way of saying you can get virtually everything you need for your pets from the retailer. And judging by online pet retailer Chewy’s ([CHWY](https://finance.yahoo.com/chart/CHWY#eyJpbnRlcnZhbCI6IndlZWsiLCJwZXJpb2RpY2l0eSI6MSwidGltZVVuaXQiOm51bGwsImNhbmRsZVdpZHRoIjoxMS4zMjA5ODc2NTQzMjA5ODcsImZsaXBwZWQiOmZhbHNlLCJ2b2x1bWVVbmRlcmxheSI6dHJ1ZSwiYWRqIjp0cnVlLCJjcm9zc2hhaXIiOnRydWUsImNoYXJ0VHlwZSI6ImxpbmUiLCJleHRlbmRlZCI6ZmFsc2UsIm1hcmtldFNlc3Npb25zIjp7fSwiYWdncmVnYXRpb25UeXBlIjoib2hsYyIsImNoYXJ0U2NhbGUiOiJsaW5lYXIiLCJwYW5lbHMiOnsiY2hhcnQiOnsicGVyY2VudCI6MSwiZGlzcGxheSI6IkNIV1kiLCJjaGFydE5hbWUiOiJjaGFydCIsImluZGV4IjowLCJ5QXhpcyI6eyJuYW1lIjoiY2hhcnQiLCJwb3NpdGlvbiI6bnVsbH0sInlheGlzTEhTIjpbXSwieWF4aXNSSFMiOlsiY2hhcnQiLCLigIx2b2wgdW5kcuKAjCJdfX0sImxpbmVXaWR0aCI6Miwic3RyaXBlZEJhY2tncm91bmQiOnRydWUsImV2ZW50cyI6dHJ1ZSwiY29sb3IiOiIjMDA4MWYyIiwic3RyaXBlZEJhY2tncm91ZCI6dHJ1ZSwiZXZlbnRNYXAiOnsiY29ycG9yYXRlIjp7ImRpdnMiOnRydWUsInNwbGl0cyI6dHJ1ZX0sInNpZ0RldiI6e319LCJzeW1ib2xzIjpbeyJzeW1ib2wiOiJDSFdZIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6IkNIV1kiLCJxdW90ZVR5cGUiOiJFUVVJVFkiLCJleGNoYW5nZVRpbWVab25lIjoiQW1lcmljYS9OZXdfWW9yayJ9LCJwZXJpb2RpY2l0eSI6MSwiaW50ZXJ2YWwiOiJ3ZWVrIiwidGltZVVuaXQiOm51bGwsInNldFNwYW4iOnsibXVsdGlwbGllciI6NSwiYmFzZSI6InllYXIiLCJwZXJpb2RpY2l0eSI6eyJwZXJpb2QiOjEsImludGVydmFsIjoid2VlayJ9fX1dLCJzdHVkaWVzIjp7IuKAjHZvbCB1bmRy4oCMIjp7InR5cGUiOiJ2b2wgdW5kciIsImlucHV0cyI6eyJpZCI6IuKAjHZvbCB1bmRy4oCMIiwiZGlzcGxheSI6IuKAjHZvbCB1bmRy4oCMIn0sIm91dHB1dHMiOnsiVXAgVm9sdW1lIjoiIzAwYjA2MSIsIkRvd24gVm9sdW1lIjoiI2ZmMzMzYSJ9LCJwYW5lbCI6ImNoYXJ0IiwicGFyYW1ldGVycyI6eyJ3aWR0aEZhY3RvciI6MC40NSwiY2hhcnROYW1lIjoiY2hhcnQiLCJwYW5lbE5hbWUiOiJjaGFydCJ9fX0sInNldFNwYW4iOnsibXVsdGlwbGllciI6NSwiYmFzZSI6InllYXIiLCJwZXJpb2RpY2l0eSI6eyJwZXJpb2QiOjEsImludGVydmFsIjoid2VlayJ9fSwiY3VzdG9tUmFuZ2UiOm51bGx9)) stellar performance since going public in June 2019 — up 107% — Petco thinks the demand for pet products will only continue to grow.
+
+The company, which will be delightfully listed as WOOF, has seen its profitability improve as of late. Net losses in 2018 came in at $413 million, but fell to $103 million in 2019. Net sales in the same period rose from $4.39 billion in 2018 to $4.43 billion in 2019.
+
+## Southeastern Grocers (SEGR)
+
+Southeastern Grocers, which operates 420 supermarkets under the Winn-Dixie, Harveys, and Fresco y Más names, is an interesting addition to this list because it only emerged from bankruptcy in May 2018. [In its S-1](https://sec.report/Document/0001047469-20-005232/a2242541zs-1.htm), the company says its overall financial performance was hurt by its aggressive expansion from 2011 through 2015, which saw its store base expand by 256%.
+
+Since then, its profitability has improved with the company reporting a net loss of $62 million in the 28 weeks that ended July 10, 2018, only to turn that into net income of $205 million in the 28 weeks that ended July 8, 2020.
+
+Now a leaner organization, Southeastern Grocers is seeking to IPO in 2021 and could raise as much as $500 million.
+
+## The future pipeline
+
+While many of these companies are looking to hit the public exchanges in the traditional way, 2020 was a banner year for alternative ways to go public — namely, the SPAC (special purpose acquisition company). Two hundred and forty one SPACs raised $73.4 billion. While household names are likely to pursue a traditional IPO or even a direct listing, those looking for a quicker liquidity option will consider these so-called blank check companies to take them public.
+
+Investors should expect to see alternative means of going public remain prominent in 2021. “Private companies like Paysafe and Opendoor took advantage of the speed and price certainty that the SPAC structure offers during an uncertain market. Now, companies have more options than ever when they pursue a public listing with SPACs and direct listings both emerging as ‘mainstream’ options,” according to pre-IPO marketplace [EquityZen](https://equityzen.com/).
+
+Aside from the aforementioned five that are almost surely going to go public in 2021, there’s a slew of other hotly anticipated debuts of companies that have become household names. Payments platform Stripe, grocery delivery startup Instacart, stock trading app Robinhood Markets, residential real estate brokerage Compass, dating app Bumble, online education platform Coursera, and fashion players ThredUp and Poshmark are all readying their market debuts.
+
+&#x200B;
+
+Source: [https://ca.finance.yahoo.com/news/2021-ipo-market-roblox-affirm-atotech-petco-southeastern-grocers-201607439.html](https://ca.finance.yahoo.com/news/2021-ipo-market-roblox-affirm-atotech-petco-southeastern-grocers-201607439.html)_END_OF_POST_PYSTOCK_ China Targets Jack Ma’s Alibaba Empire in Monopoly Probe  
+
+Sauce:[https://www.bloomberg.com/news/articles/2020-12-24/china-launches-probe-into-alibaba-over-monopoly-allegations](https://www.bloomberg.com/news/articles/2020-12-24/china-launches-probe-into-alibaba-over-monopoly-allegations)
+
+My guess as a Chinese, only my thought not investment advice: typical fighting among "nobles", won't affect a lot, probably after a month everything will be fine, Alibaba won't get any kind of real punishment, only to decide the ones who get more cake under the table. Good chance to make decent money._END_OF_POST_PYSTOCK_ Square (SQ) Has Discussed Acquiring Jay-Z’s Tidal Service TECHNOLOGY
+ 
+News Wire
+ 
+Company News
+55m ago
+
+Square Has Discussed Acquiring Jay-Z’s Tidal Service
+Lucas Shaw and Kurt Wagner, Bloomberg News
+
+Jack Dorsey
+Jack Dorsey , Bloomberg
+
+(Bloomberg) -- Square Inc., the digital-payment company run by Jack Dorsey, has held talks to acquire the music-streaming service Tidal as part of a push to diversify, according to a person familiar with the situation.
+
+Dorsey has discussed a potential deal with Jay-Z, the rapper and music mogul who acquired Tidal for $56 million in early 2015, said the person, who asked not to be identified because the talks were private. The negotiations may not result in a transaction.
+
+Square declined to comment, while Tidal didn’t respond to requests for comment.
+
+Tidal, which first launched in 2014, has struggled to keep pace with other streaming services, including Spotify Technology SA and Apple Music. Jay-Z’s own music has been a lure for the platform, but he put his songs back on Spotify last year -- raising questions about the health of Tidal. The closely held service hasn’t reported subscriber figures since saying it had 3 million paying customers in 2016.
+
+Dorsey, meanwhile, has ambitions to build Square into a much broader company made up of stand-alone, complementary services. Square’s two core products, Square Seller and Cash App, already operate somewhat separately within Square Inc., each with its own “lead” on the executive team. It’s believed Dorsey, who spent more than four years on the board of Walt Disney Co., imagines Square will similarly own a collection of businesses under one corporate umbrella.
+
+Dorsey was photographed in August in the Hamptons with Jay-Z and his wife, Beyoncé, and then again in December with the power couple and actor Sean Penn on a beach in Hawaii.
+
+Tidal’s owners include nearly two dozen high-profile artists, including Beyoncé, Alicia Keys, Coldplay, Madonna, Rihanna and others, according to its website. The service is available in 53 countries and offers more than 60 million songs and 250,000 videos.
+
+The service has attempted to use its star power to offer experiences that complement its music. That includes a Rihanna runway show in Paris that was streamed for Tidal members, as well as charity concerts by Jay-Z and Beyoncé.
+
+https://www.bnnbloomberg.ca/square-has-discussed-acquiring-jay-z-s-tidal-service-1.1540779_END_OF_POST_PYSTOCK_ Value Investing in EVs (MYRG) Everyone is betting on who will win the EV wars, but let's listen to what the CEO of Toyota had to say recently.
+
+"Toyota President Akio Toyoda said Japan would run out of electricity in the summer if all cars were running on electric power. The infrastructure needed to support a fleet consisting entirely of EVs would cost Japan between ¥14 trillion and ¥37 trillion, the equivalent of $135 billion to $358 billion, he said."
+
+The US would require exponentially more investment.  I think a safe bet is MYR Group Inc. (MYRG).  MYRG is one of the largest contractors in electrical transmission and distribution, substation and commercial construction in the US.  It's already a double digit growth company with a low price to sales ratio.  EVs can't happen without investment in electric infrastructure._END_OF_POST_PYSTOCK_ What is the long term growth case for "gaming" related industry? Microsoft buys Bethesda and enters into a multi year partnership with Gamestop, who was on the verge on bankruptcy and by all accounts, a shitty company.  Now Gamestop is pumping hard and apparently strongly backed by a dude (Cohen) who people think has a long game of turning it into a strong e-commerce platform.
+
+I don't understand.  Even with console refresh, covid making people game more, etc., I can't see how gaming in general would be so lucrative.  I used to game a lot but have since transitioned into casual gaming maybe with 3-4 single player games a year  Can someone ELI5?  What is the vision Microsoft and Cohen having for gaming in general?_END_OF_POST_PYSTOCK_ My Plays For 12/24/2020 **My Plays For 12/24/2020**
+
+\*I used the RSI, Stochastic, MACD, Volume Profile, and the 10-50-200EMA Lines\*
+
+&#x200B;
+
+$ACCO:  New channel that has a new support area which is awesome. Can easily drop to the 50EMA line for a new buy in location. Stoch is oversold.
+
+$ADC: Is it a channel, or a triangle? We will see but this is a great buy in price. If it dies, buy in near $62 for easy profit, but can easily run another 10%. 
+
+$AEP: Great support area, Stoch and RSI are oversold as well. If it doesn't live go long around $79 for an even better value.
+
+$AMH: Very easy to see ascending triangle. Buy in any time now, and it should blast up soon for an easy 7-20%. Riding both EMA lines as well, Stochastic oversold.
+
+$AMRX: Showing life at the POC Volume Line. Right above all 3 EMA lines, as well -- so this is an extremely strong support area. Go long for some easy money.
+
+$AOS: Channel Up play right at a support. May drop to the 200EMA line though, so it has plenty of buy in areas but this one is very strong to go long.
+
+$ARCT: If you like run ups this is a technically sound one. Channel up, 50EMA, support a few dollars away/ Bullish Divergence and Stoch oversold should be a good play.
+
+$ATO: What a beautiful deal here, can't get too much lower. Stoch shows Divergence and RSI is actually oversold. Great setup!
+
+$BTG: Channeling up, strong support area, and over the 50EMA. It is beautiful set up overall.
+
+$CGEN: Ran up like I called, now pulling back, this is a strong support area lined up with the 50EMA line. Stoch is oversold, so it has volume ready to roll.
+
+$DD: Simple channel up again, above the 50EMA line, but the Stochastic is very oversold, so it has plenty of room to run. May drop to $63 for a resistance retest though.
+
+$DOC: Showing higher lows, and still running. POC Lines is very strong support area, and at a good value. Stoch and RSI almost oversold so we may see it dip just a little more. 
+
+$DOCU: Similar to $DOC, it has room to run down as well. Stoch is almost oversold, but this is basically an ascending triangle -- and it has signs of blasting soon!
+
+$EMP: Low risk, low reward triangle but could be a very calm 5% to win. Price action is beautiful otherwise.
+
+$FR: Ascending Triangle which I love, and it is neat trend line and support area. It has room to run up though, but I think it may take a day or two of red, then it'll take off. 
+
+$NG: Support area, mixed with channel up, Stoch over sold showing divergence? Love it go long.
+
+$OXLC: Channeling up very well, but may drop to support area near the 200EMA as well. I think it will keep running up, just a matter of when.
+
+$SXC: Old trendline resistance becoming a possible support? Love it. Partnered with the 200EMA and support area as well, Stoch oversold and so is RSI, gonna be great!
+
+$UMH: Support test here, Stoch oversold as well. If it dies just rebuy in at the channel and go long!_END_OF_POST_PYSTOCK_ Help! with GHIV Shares I'm new to SPACs and recently bought 500 shares of GHIV after some research. A "Voluntary Corporate Action Alert" was sent to my Saxo account, with options to "elect" my 500 shares. From what I read, this would have something to do with the inherent warrants in SPAC share purchases. Can someone kindly clarify?
+
+1. If I am to elect 500 shares, what happens?
+2. If I do not elect any shares, what happens?_END_OF_POST_PYSTOCK_ Stimulus will be a playground for small retail investors and big boys will soon follow on the train of psychedelic medicine research companies like CMPS , MMEDF, and LKYSF...2021- 2023 Strategy discussion...    Retail investors like me are very bullish on this industry and I want to know if anyone else shares a common opinion with me on this or if anyone else is holding shares of all and options on CMPS collecting fat premiums on volitity like me... but I'm long on this shit. As big Pharmas master plan is finally getting figured out by helpless folks that depend on them... shit didnt take off a couple years ago because people were still skeptical about legality, but now that it's becoming a reality, and CMPS IPO super strong this year, it's over... gains to come. Another indicator is that Peter Thiel has been long on this as well for the past 4 years and has been increasing his stake more and more in recent months on these companies and the breakout is just beginning. Of course big pharma won't back down or fall easily, but there's bands to be made here. I literally have just been flipping monthly calls and puts alternating and making 250% plus each trade, and it hits a new high every few weeks. Plus cultivating shrooms to heal myself is a passion of mine already, and this hobby is exploding this year as people are bored at home and depressed... one vendor of psilocybin spores has sales up 12k% this year alone...so my 1 option is CMPS $60C 1-15-21 currently.
+
+POSITIONS--- 500 shares MMEDF, 30 sharss CMPS, 150 LKYSF
+
+TLDR--- RH kids love psychedelic drugs and older folks are starting to understand too... this will be a trip to the moon in the coming years... also studies in MDMA, LSD, and others as well which should all be approved by FDA within next year or 2 (for the more intense drug studies). All very promising results. Nothing negative. This is not going to be the pot stocks of 2014, this is a potential to be replaced and even taken over by big pharma when they realize the threat of their drugs being possibly banned by the FDA going forward.
+
+I know this has some penny stock esque to it but MMEDF just hit $1b cap and NUMI will be soon to follow. They will just get unlisted and then explode next year JUST like EXPI which I made thousands of % on this year... Thoughts?_END_OF_POST_PYSTOCK_ Looking for Tesla options but cheaper Is there a way to buy options that reflect Tesla’s stock price without costing 5k per contract? I know there are ETFs that contain high percentages of Tesla stock, but ETFs would dampen the movement you look for in options. Basically, what cheaper stock could you buy options for that would most closely track the Tesla stock price?_END_OF_POST_PYSTOCK_ How to find the current list of SPACs? It's usually a bit late when you realise a SPAC has announced for a merger. 
+
+Does anyone know how to obtain the current list of SPACs out there?
+
+Thinking about buying in before any merger announcement (I know some SPACs take up to 2 years to find a target)_END_OF_POST_PYSTOCK_ Looking for a good dividend history data source I use the IEX cloud api but lately their data quality has been a hit and miss. I use it for my Google sheet that tracks my portfolio. Do you guys have any suggestions for good data source? An API would be best, but I could scrape as well if need be. I am looking primarily for 2-3 years of data with amount, ex-div date, recoding date, payable date. Thanks in advance!_END_OF_POST_PYSTOCK_ Should I sell my NWBO? One of my big investments is in NWBO which is red at the moment. And my other stocks which are green have helped me break even. Is it smart to sell all now at break even? Or should I be patient with NWBO and wait for it go green? I understand that it's gonna be my decision at the end of the day. But wanted to see how y'all think._END_OF_POST_PYSTOCK_ Stocks disappeared from Degiro? Hey all,
+
+I might be missing something here but I did some stock buying at the start of pandemic for shits and giggles and bought 820 stocks in Norwegian Air Shuttle. I don't check my stock often so today I was looking at it and suddenly see that I now have 8 stock (at least it says 8 under qty for that stock) left on it. I know the value went down a lot but I don't think the company went under from what I can find so any reason for this? Am I missing something obvious? I'm not seeing anything in my transaction history showing I sold them.
+
+Thanks._END_OF_POST_PYSTOCK_

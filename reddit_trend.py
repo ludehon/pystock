@@ -51,7 +51,7 @@ def get_wf_from_sub(subs, limit, nowDate=None):
     return wf
 
 
-# save word occurence from raw files to dict files
+# transform raw txt files to dict files, addWords() remove useless words and keeps compay first name
 # startDate, endDate : str (YYYY-MM-DD)
 def save_wf_from_raw(startDate, endDate):
     dates = pd.date_range(start=startDate, end=endDate).tolist()
@@ -85,11 +85,13 @@ if __name__ == "__main__":
             wf.saveToFile(date)
     elif mode == "vizu":
         wf = wordFreq()
+        toExclude = ["nio", "palantir", "tesla"]
         toExclude = []
         toLookAt = []
         wf.displayTimeSerie(15, toExclude, toLookAt)
     elif mode == "raw":
-        save_wf_from_raw("2020-11-20", "2020-11-21")
+        save_wf_from_raw("2020-11-13", "2021-01-22")
     elif mode == "top":
         top = TopViz()
-        top.displayTopByDate(3)
+        # top.getTopLatestDay(5)
+        top.displayTopByDate(5)

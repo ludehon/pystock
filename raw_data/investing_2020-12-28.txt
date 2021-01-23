@@ -1,0 +1,624 @@
+ Too late to max out pre-tax 401k + roth IRA rollover after-tax? Opted for the default 6% in my 401k throughout the year, now end of year I have a lot of cash leftover and would like to max it out pretax. However, there are no more paycheck distributions from my employer this year. Is there any way to still max out my 401k with pre-tax $ or not possible? 
+
+If not, I can contribute after-tax $. Is it worth it to do so and rollover to my roth IRA? How does this work is it only able to be rolled over after age 65?_END_OF_POST_PYSTOCK_ Data-Driven Portfolio Building Application Hello everyone, this is my first post here and I'm coming to you all today with an idea that I had and questions to go along with it.
+
+TL;DR I want to use the R programming language to drive portfolio decisions and I have most of a plan but little knowledge of the necessary resources to fully execute it so pls help.
+
+# My Goal
+
+Use quantitative analysis to build optimal portfolios for both the short and long term. I will first use historical stock data to tune any models I build and test out long-term scenarios with the historical data. From that I hope to find the best metrics to use to drive purchasing/selling decisions and portfolio composition to minimize risk and maximize gain (I know that last part is obvious, but I'm still going to say it) and then apply what I built to real-time stocks.
+
+# My Plan
+
+**Model Building**
+
+* Data: to build my model I intend to download 20 years of historical stock data on every ticker that is available. I will use whichever financial metrics are included and calculate the rest.
+* I will test out a variety of methods combining forecasting and machine learning to 1) choose which stocks to buy (and later, which ones to sell) 2) choose how much of a stock to buy and 3) choose the optimal portfolio. To choose the top performing method I am going to create 1,000 faux investment accounts with amounts that range from $100 to $1,000,000 as a baseline and train/test the models on each scenario for roughly 20 years of the historical data. I will compare the results of these scenarios and select the top performing models (if there is any advice on what might already be the best method feel free to let me know).
+
+**Real-World Testing**
+
+* Data: to continuously build upon the model I will download stock data every day and run it through my model to bring me to what decisions I should make.
+* I'm risk-adverse, so, like in the Model Building phase, I am going to create a series of faux accounts of varying amounts and assess their performance over the course of the next year. Once I am confident in the results I will begin applying my model to my own portfolio.
+
+**Other Considerations**
+
+* I don't intend to day-trade. Though I will assess my portfolio daily, I will include minor tests that will help me decide whether to hold onto my portfolio or whether to adjust it more so on a weekly/monthly basis
+* I will prioritize risk over reward (I have decades left until retirement)
+* I intend to trust the numbers and not allow feelings to drive portfolio decisions
+* I will periodically test my model's performance and adjust accordingly
+
+# Questions for the Community
+
+1. Best free websites to download aggregate historical/current stock data?
+2. Best models for forecasting stocks, portfolio composition? If anyone is familiar with R there are some packages that could be useful, but by no means have I looked through them all yet, so I'd gladly take advice there.
+3. Overall: has anyone built this before in a non-commercial setting? Is it feasible or even useful? 
+
+If this idea intrigues you, I am open to collaboration. I want to make this using completely free resources with the intent to share the end result after the initial testing as well as in its completed stage. If you aren't comfortable in R, I'm still open to collaboration from an idea standpoint. I do want to make this to help myself, but I want others to be able to gain from it as well.
+
+
+Edit: I just learned about cross-posting so I will be posting this on other investing communities so I apologize if you see this more than once._END_OF_POST_PYSTOCK_ question about buying put option w/ high strike price when I own shares So I'm doing some math on put options & I want to make sure I understand this correctly.
+
+Say I own a few hundred shares of a company's stock. I can buy put options with what seems to me an unrealistically high strike price. Even considering the premium, I would make a profit if the option is ITM at expiration.
+
+If the options are OTM at expiration, I can sell my shares and make a tidy profit, even when I factor in the wasted premium from buying the ultimately worthless options.
+
+What's the downside in this situation? Is it just the potential for bag-holding with the shares I currently own if the options are ITM?_END_OF_POST_PYSTOCK_ CoVid impact on Insurance. Since CoVid is killing an unprecedented amount of old people, is there a net gain to be made by old-age insurance companies? Imagine, someone has been contributing since they were young and now it is a benefit that no longer has to be paid out. Also, what is the impact of the change in demographics? It has always been complained that as life expectancy increases, the younger generation will have to pull more weight ( compared to parents and grandparents) than they signed up for..._END_OF_POST_PYSTOCK_ S&P 500, Dow 30 and Nasdaq Composite all close at record highs 'Growth' stocks once again leading the way
+
+Bitcoin surging also suggests massive risk-on rally
+
+"If I had never sold a stock, I would be much wealthier" - Warren Buffett
+
+I don't have much confidence in the 1 to 2 year outlook for the market, but with a long term investing horizon, I don't have to.  Only way to benefit from every rally is to also hold through every decline._END_OF_POST_PYSTOCK_ Outlook on market and economy? Long time lurker and first time poster on this sub. 
+
+Im wondering if there's any good analysis on the current economic situation and possible unfoldings of the market.
+
+Basically Im really short on the market in the near term looking at moratoriums for rents and mortgages ending and entertainment industries being hit hard. There's also unsustainable stock prices (IMO) like TSLA, which is being sold hotter than tech companies. However the injection of cash seems to try to balance that out and has inflated prices up. Im 90% invested with 10% cash at the moment, but yet I feel like Im missing a ride on my 10% cash and it's losing it's purchasing power every day.
+
+TLDR: What's the general feeling on this sub? Market long/party won't stop or we're in for an awakening?_END_OF_POST_PYSTOCK_ Overvalued stocks Hello everyone, with everything that has happened this year and the recent gains that we have seen in the market I was wondering what everyone’s opinions are. Are these valuations justified? And if not, what are some companies that you see that are overvalued_END_OF_POST_PYSTOCK_ "Beating the Market" for Smaller Investors (i.e., most of us) So all of you probably regularly hear that active investing (i.e., stock picking) does not consistently give returns better than the overall market and index funds are the way to go. This is certainly backed up by a lot of research and empirical evidence but I've recently wondered about something. A common example of failure to beat the market is the Warren Buffett bet against hedge funds. A lot of the evidence also looks at the performance of active mutual fund managers and so on. But here's my issue. These people manage hundreds of millions to billions of dollars. I remember watching a video of one of Berkshire's annual shareholder's meetings where Buffet said that it is much harder to obtain consistent gains with larger sums of money. But he also said he could name around 7 people or so that if they had a million, they could certainly do 50% annual returns, albeit with their full attention. Some of Buffet's best years himself are when he managed smaller sums of money. So it makes me think does all this advice against stock picking really apply to the smaller investors? I mean there are a lot of factors involved, including behavioral ones, and your ability to spend the time it takes to analyze lots and lots of companies within your circle of competence, and your intellectual ability, and also just plain luck, and so on, but granted most of that, why wouldn't you make better than general market returns? And I guess, if you have been an active investor for a while, what have been your experiences?_END_OF_POST_PYSTOCK_ Selling covered calls to exit a position? I’m a novice investor 20 yo and trying to learn more about investing. I recently learned about covered calls and from what I understand it’s essentially selling an options contract for a 100 shares of a stock you own. If the stock hits the strike price by the expiry date, you have to sell the stock, and if not then you just profit whatever the options premium was. Is this right? This sounds like a very low risk and potentially higher reward scenario. For example, if I own 100 shares of a stock like AAPL in a long term position where it’s had an over 300% growth, instead of simply selling the stock I can sell a covered call to exit the position and make a little more money off it as well. I see this as a viable strategy only for long term positions that have had significant gains to the point where the price fluctuation between selling immediately or selling within a few weeks during which an option s contract would expire is negligible. Also if it’s a long term position, I would expect people would be comfortable holding the stock for a little longer in case it doesn’t hit the strike price and collecting the options premium anyways. Am I missing something or does this strategy make sense?_END_OF_POST_PYSTOCK_ Celyad Oncology - A non-gene editing alternative for Allo CAR T cells $CYAD is a clinical stage cell therapy company developing both autologous and allogeneic CAR T cell products.  
+
+FYI....
+
+CAR T cell: Chimeric Antigen Receptor T cells.  T cells are genetically modified to express a receptor specific to a protein found on the surface of its target.  In most cases these are used to target tumor cells.  This allows the T cells to identify and kill a tumor cell. 
+
+Autologous: A patient’s T cells are collected, engineered, and returned to them.  Think Juno, Kite, Novartis
+
+Allogeneic: T cells from a healthy donor are collected, engineered, and stored as off-the-shelf doses.  This requires extra modification, at minimum knock out of the healthy cell’s T cell receptor (TCR) to prevent them from attacking the patients tissues (graft vs. host).  Think CRISPR Tx, Allogene, Cellectis 
+
+-
+
+Allogeneic is preferred for a handful of reasons:  Healthy donor T cells are more fit than ones taken from a patient; patients are very sick and heavily pre-treated.  The healthy cells are more efficient to manufacture and more potent and durable.  Cost is also a factor, it will be much more cost effective to manufacture large batches of T cell doses and administer them off-the-shelf.  In addition, off-the-shelf doses prevent a patient who is measuring lifespan in months from waiting long periods of time (20-30 days) for their T cells to be manufactured.  
+
+The most popular method of manufacturing Allo CAR T cells is via gene editing.  CRISPR, base editing, Zinc Finger Nucleases, TALEN.  While these are really effective at editing, for example knocking out a TCR, they come with some downsides during manufacturing.  One downside is the editing methods often require some abuse to the T cells, example being via electroporation to deliver the CRISPR components.  This makes multiple edits difficult because cells really don’t expand and thrive after being zapped.  Another is risk of translocations, broken ends of DNA binding to a broken end in another location in the genome.  Disclaimer: base editing solves this issue, and to date there have been no clinical issues with gene editing and translocations. 
+
+
+About CYAD: 
+
+Tech: They are using a non-gene editing approach to modifying T cells.  Instead of knocking a gene out via a double stranded break (CRISPR) or swapping a letter in the sequence (base editing) they eliminate expression of the TCR by adding a sequence to the gene they insert for the CAR which expresses either a TIM (TCR Inhibitory Molecule) or a shRNA (short hairpin RNA).  The “transgene” is delivered using a viral vector, from what I can tell.  With this method they achieve 99.7% TCR disruption, comparable to the best results using gene editing.  They also add a sequence to express a truncated molecule called CD34, which allows them to bind tiny magnetic beads to the edited cells and enrich the product for purity.  (This is not novel, but I nice touch).  It would be nice to see them adding other modifications to prevent host NK response, like some of their competitors.  
+
+They have CARs targeting BCMA (multiple myeloma), CD19 (leukemia/lymphoma) and NKG2DL (AML, solid tumor indications).  BCMA and CD19 are well characterized and validated targets in the field. 
+
+They have discontinued a clinical trail of their first autologous product CYAD-01 due to its low efficacy.  However they rolled out an improved product called CYAD-02 using shRNA to silence endogenous expression of the CARs ligand and they are seeing nice results, with several patients seeing tumor reduction and one complete response.  It’s possible the CAR binder in CYAD-01 was binding to target molecules on the surface of T cells and causing issues.  This is a phase 1 dose escalation trail testing safety.  They also just received a green light by the FDA on their IND for their anti-BCMA product CYAD-211 and have dosed their first patient.
+
+Company:  Based in Belgium.  Using Allogene as a comparison:  100 employees with 6 open positions compared to ~260 employees with 25 open positions at Allogene.  Here’s where the value comes in; Allogene has a market value of $3.85B compared to Celyad at $112.9M.  On the flip side, they burned $7.8M in Q3 2020, and have $23.4M on hand.  That only gives them 3 quarters of runway.  This is compared to a burn of $66.2M and $1.0B on hand at Allogene.  
+
+Summary: Scientifically, there is a lot of value in this company.  Their pre-clinical data is comparable to its competition using gene editing, and it’s a novel approach.  Also, the efficacy looks pretty good against a lesser target in NKG2DL, so I’d be excited to see data using a great target like BCMA.  As far as investment value goes, they could come out with data updates this year that boost their share price or they could be a prime M&A target.
+
+TLDR: 🚀
+
+Links:
+
+Preclinical Data:
+https://celyad.com/wp-content/uploads/2020/12/Endpoints-.pdf
+
+ASH data for CYAD-02:
+https://celyad.com/wp-content/uploads/2020/11/Celyad-Oncology_ASH2020_poster990_CYAD02.pdf
+
+H1 2020 Financials:
+https://celyad.com/wp-content/uploads/2020/08/Celyad-Oncology-Interim-Fin-Report-H1-2020.pdf_END_OF_POST_PYSTOCK_ Questrade vs TD Ameritrade in Canada I am an 18 year old who wants to begin to invest in ETF’s and the two options I have are Questrade and TD Direct Investing . The fees for buying and selling from TD are are quite high while buying from Questrade is free, but TD has a more user friendly interface and all of my financial interactions will be at one spot. An alternative for just buying ETFs at TD is buying e-series mutual funds regularly and then making one big ETF purchase at the end of the year from the e-series money. So, I could someone guide me on what I should do, and how much money will I use by using the e-series method when compared to just buying ETFs from questrade.
+
+Sorry, the title says ameritrade but I meant Direct Investing._END_OF_POST_PYSTOCK_ How do ETFs actually work? So from reading so far, it seems like certain designated parties (APs) are allowed to interact with the ETF and trade in bulk newly minted ETF shares for the underlying securities at NAV or sell the shares back to ETF for the securities at NAV. And these parties then sell the ETF shares to me, keeping the value close to the NAV.
+
+What I am wondering is what do I actually own? If a mutal fund parent company implodes, my understanding is I still own some fraction of the underlying securities. However, what happens if the ETF implodes? Does the market value of the ETF share plummet? Does the AP then buy my ETF shares at NAV or do I lose everything because nobody wants the ETF shares anymore?
+
+Seems fairly unlikely that the larger funds will just fold, but what if there's panic selling of say 10% of an ETF in a day? The NAV should remain the same from the previous day, and the AP just makes a ton of money buying the discounted shares and trading them for the securities at the previously determined NAV? If I hold, I still ultimately retain approximately the NAV for some point in the future when panic subsides, correct?
+
+Similarly, if I see a huge upward trend on an ETF like ICLN (which I was considering) over multiple days, should this represent a bubble, it really is a bubble within the underlying securities and not the ETF itself, right?
+
+I've been avoiding ETFs so far because I don't fully understand them. But they seem like a really easy way to buy assets classes and control portfolio ratios. I just want to understand the risks.
+
+Thanks._END_OF_POST_PYSTOCK_ How do I/Can I even find out the specific entities (companies, instruments, etc.) into which any given retirement fund 401k investment allocates its money Currently looking at two hypothetical examples, the VNGR TRGT RTRMT 2020 INV (VTWNX) and the Fidelity Money Market Fund (QPCBQ).
+
+I’d like to know the specifics of these funds. They take 401k money and place it where exactly/precisely. I’m not looking at the general categories, but instead the specific entities and percentages, etc. 
+
+Can someone explain how I go about finding that information online?
+
+Cheers_END_OF_POST_PYSTOCK_ Do people legitimately believe in cruises and travel? I see the cruise lines and travel industry have been bouncing back and I'm wondering if people genuinely believe in these companies? Do people think travel will come roaring back all of a sudden and the pandemic will just magically disappear. Regardless of that those companies have still been hit with insane amounts of debt and their customer base has probably been halved until people feel safe travelling again. I'm mostly a tech investor and so I'm confused that people are trimming/selling tech to invest in cruises and travel. The only thing that makes sense is trend hopping to make a quick buck. I find it very hard to see the growth in these companies. In my opinion it will take 5-10 years just to bounce back. I could be wrong though, maybe someone invested in them can explain to me why they feel its a good investment. Genuinely curious about any long term horizons I might not be seeing._END_OF_POST_PYSTOCK_ $ACY is up 1300% today and no one claims to know why The stock has been around for years. Independent aircraft leasing company. Up from $3 to $38 in one day. The CFO just released a statement saying the company has no idea what is going on with the stock price.
+
+30 million shares traded. 1.55M shares outstanding. Average daily volume 140k. LOL. Any thoughts?
+
+https://www.globenewswire.com/news-release/2020/12/28/2150981/0/en/AeroCentury-Corp-Comments-on-Unusual-Market-Activity.html_END_OF_POST_PYSTOCK_ Surging margin debt, oil rig recovery, elevated sentiment Something to watch out for in 2021:     
+Margin Debt soared 50% in the past 8 months. In the past 30+ years, such investor euphoria happened exactly twice:    
+March 2000    
+June 2007   
+Now... 
+
+**(source: Troy Bombardia from** **bullmarkets.co****)**
+
+Margin debt has surged more than 50% over the past 8 months (since March 2020 bottom). All historical cases of such aggressive positioning occurred near 1-2 year market tops. This happened near the start of the 1973-1974, 2000-2002, and 2007-2009 bear markets. The June 1983 historical case was followed by a 1 year-long stock market correction:
+
+**Oil rig recovery**
+
+The U.S. oil rig count has stabilized near the lowest level in a decade:
+
+Total World Oil & Gas Rig Count paints an even clearer picture: energy supply is at a multi-decade low. This should be bullish for energy in 2021, especially as the global economy recovers.Crude oil usually pushed higher over the next 3 months when the U.S. oil rig count jumped from an extremely low level._END_OF_POST_PYSTOCK_ How do day traders like me affect your long term investments? I’m new to trading if you can believe. 
+
+Recently I’ve been day trading and swing trading Palantir Technologies over the past month and making good pocket change. Although I’m not sure if I want to invest my cash into the stock market for the long term, I am happy with my short term earnings - Real estate is what I would be leaning into for long term investments. 
+
+As I am exploring this bull market I started to wonder how I day traders or swing traders affect your long term stock investments?_END_OF_POST_PYSTOCK_ Commodity investing part 2: the start of a new cycle and the great opportunities it will bring A little over a month ago, I wrote a post about why I believe commodities and commodity related equities would provide a better return on invested capital compared to other sectors in the market (tech, consumer goods, healthcare etc.) in the coming decade. Why I believe this is the case, is simply a factor of how markets work and how they have worked for the past hundreds of years. The past decade has seen an incredible run in the general equities market and most notably the tech giants (and subsequently the Nasdaq). However, recency bias can be a blinding mistake for many investors. Thinking something will keep going up because it has done so in recent times, is not always the case and even if it will, chances are the subsequent run up won’t be nearly as big.
+
+So while this part of the market has run up, commodities staggered and lagged behind. Years of underinvestment followed the end of the previous commodity bull market and as these things go, as was shown time and again throughout history, the cycle is about to turn. When there is severe underinvestment in a sector, supply gets constrained because things like exploration and development of new sources gets cut. This results in a situation with one of two outcomes. Either we replace the commodity in questions in its entirety and it ceases to exit (extremely unlikely with the commodities I covered) or the price goes up, because now there is not enough supply to meet ever growing demand. As these companies are heavily leveraged to the price of the respective underlying commodity, operating margin increases and so does free cash flow, allowing the share prices of these companies to go up exponentially. At high prices, more and more new projects will be explored for, developed and brough into production, after which we will get more supply and the price will drop.
+
+These cycles have been in place ever since the concept of the stock market has been in place and there is no reason for that to change now. We are standing at the start of another major commodity bull market which will take us back into this upcycle. Uranium and copper have run up significantly and after a period of consolidation since August, I fully believe gold and silver stocks will perform amazingly from the start of the year into Q2 of 2021. Those who participate stand to profit greatly off of playing this new cycle. I am not saying to position your entire portfolio into this part of the market, but having no significant exposure will in my view be a foolish decision.
+
+To add to my list of commodities I am bullish on for the coming decade, I will add Cobalt, Nickel, Oil&Gas and Potash. There are several other and opportunities can be found for those willing to do the work. Best of luck out there and always make sure to do your own due diligence.  
+   
+ 
+
+In my previous post, I covered the following sectors and companies, this is how they performed in the time between that post and this one:
+
+Uranium:
+
+Cameco +43%  
+ Energy Fuels +147%  
+ Denison Mines +105%  
+ 
+
+Silver:  
+ Pan American Silver +2%  
+ First Majestic Silver  +19%  
+ SSR Mining +2%  
+ 
+
+Copper:  
+ Freeport Mcmoran +17%  
+ Rio Tinto +18%  
+ Lundin Mining +20%  
+ 
+
+Gold:  
+ Barrick Gold -10%  
+ Agnico-Eagle Mines -3%  
+ B2Gold -9%  
+ 
+
+Lithium:
+
+Albemarle +17%  
+ SQM +7%  
+ Livent +22%  
+ 
+
+In the same period, the three major US indexes are up:  
+ S&P 500 +3%  
+ Nasdaq +8%  
+ Dow Jones +2%  
+ 
+
+Some popular stocks on this subreddit in that time:  
+ Tesla +64%  
+ Amazon +5%  
+ Apple +13%  
+ NIO -3%  
+ Microsoft +4%
+
+TLDR: we are at the beginning of another upcycle in commodities and this bull market will create great returns on investment for those who choose to participate. I believe having a significant allocation of your portfolio in this part of the market is most definitely worth it, as in my view it will outperform other sectors and the general market._END_OF_POST_PYSTOCK_ Putting the Next Big Mining Company on your Radar (GENM) Came across a potentially big play to come in the future. Generation mining is sitting on the largest palladium project in north america and Eric Sprott has just begun financing the company on the 22nd (A famous Canadian Billionaire who has most of his assets in gold and silver). 
+
+&#x200B;
+
+Their Feasibility project is meant to finish in the first quarter of 2021 and right now the share price is only 0.70$._END_OF_POST_PYSTOCK_ Is there any money to be made selling covered calls on ford stock? I currently own 2500 shares of ford, and quite honestly, I play on just holding them until it hits what I think will be 14-15 range or higher and depending on if the dividend comes back.  Mainly, im just curious is there any money to be made selling covered calls on these?  Like if I think its gonna keep slow climbing, would there be a point in selling calls.  Even if I sold contracts for 25 contracts for 5$ a piece that are guaranteed not to hit, im ok with the 125$ quite honestly. 
+
+I don't know how this works though honestly, i have a rough idea but advice would be nice.   and the IV is basically 0 on this stock so everything is priced very reasonably and low and so forth._END_OF_POST_PYSTOCK_ Question about reducing short term gains Hi, I had 100 HCA stocks I bought at 100 and then I sold calls at 160 and got assigned. If i buy 100 HCA back, can I mitigate the short term gain or does papa IRS still tax me for the 100-160 (times 100) gain?
+
+I googled wash sales but that seems to be for losses._END_OF_POST_PYSTOCK_ Is a sector-based and ETF-only investment portfolio uncommon or a bad idea? I know that everyone says "diversify" in order to lower risk. Is a 100% stock-based investment strategy that's diversified across industries *still* pretty risky? I can't imagine a case where every sector is down for a long time (even the March dip was temporary).
+
+Personally, if I found myself at my target retirement age in a big dip, I'd likely just wait 1-3 years to retire (and my stock % would be way lower by then).
+
+FWIW: I'm 25 years old and have almost all of my savings in the stock market (mixed between ETFs in robinhood and Chase YouInvest). I'm inclined to drop Chase's offering because it has performed _much_ worse than credible ETFs this year._END_OF_POST_PYSTOCK_ Beyond Meat Cash Flow Issue? Hi,
+
+I noticed beyond meat has been a fairly popular investment considering the plant based/green trends. They have some pretty good partnerships. However, it seems that they have increasingly negative operating cash flow year over year. I see this as a way to look at the health of a business and its ability to generate $. So why are so many investors (institutional and retail) able to overlook that? Since it is getting owrse and worse, it seems to be signs of a sinking ship. The company seems to be losing more and more $ in operating cash flow each year and also borrowing more and more money.   
+
+
+Am I interpreting this wrong? I'd like to understand how people can justify that and still invest. Much respect to the investors, just trying to understand. Thanks.
+
+&#x200B;
+
+|Breakdown|TTM|12/31/2019|12/31/2018|12/31/2017|12/31/2016|
+|:-|:-|:-|:-|:-|:-|
+|Operating Cash Flow|\-46,995|\-46,995|\-37,721|\-25,273|\-23,495|
+|Investing Cash Flow|\-26,164|\-26,164|\-23,242|\-8,115|\-5,038|
+|Financing Cash Flow|294,876|294,876|76,199|55,425|31,914|_END_OF_POST_PYSTOCK_ Chase Investing or Fidelity? Hi there, I'm an 18 year old who started his first job and getting into investing immediately after his birthday in September. I love staying on top of my finances and just want to be rich as an adult. I plan on continuing on investing, opening up a Roth IRA in January, and want to get into real estate in my 20's as a side income. I opened up a student credit card with Chase (the only popular local bank in my town) and I went after 3 months of having the student card, which gives 1% back on everything to try for Chase's Freedom Flex card, which gives 5% on things, 3%, and 1% on everything else. I was advised against it because I'm new to having a credit card and my credit score is only 650 as a result of being new.
+
+ I make my payments in full, but my real question is how to go about continuing my investing and opening up my Roth IRA. While at Chase, the man I talked to told me all about their app "YouInvest" and said that it would be great for investing. I've used Robinhood since my 18th birthday 3 months ago and have $800ish in my account split among companies and have been pretty successful. I also am trying to get into WeBull, but it's kind of confusing so I'm going slow.
+
+The man advised me to use "YouInvest" for my investments since J.P. Morgan is so big and it would be much better. I knew he was basically trying to sell me the idea and he even said to open my Roth IRA with them. I planned on opening my Roth IRA with Fidelity after doing lots of research. I just want some advice on thinks like:
+
+\- Has anyone used "YouInvest" through Chase? Is it superior to Robinhood or other apps in any way? Does it even make sense to stick to my bank's app or just use other apps once I've been into investing for a while like that Think or Swim one?
+
+\- Do I open up the Roth IRA with Chase or Fidelity? And do I manage it myself and diversify with index funds or do I let them manage it?
+
+Thanks for any help!_END_OF_POST_PYSTOCK_ How to know what ETFS/Big companies are buying? I wish to know so I can keep up with the stocks and use them kind of as alerts. For example with ARK you can sign up for a newsletter and they send it everyday with what they bought and sold. Also you can also view their holdings very easily. 
+
+Do you guys know any other good etfs/fund managers that do this?_END_OF_POST_PYSTOCK_ Why do people pay an insane ADR premium for this stock? Stock: HDFC Bank - available as an ADR in the US: HDB.
+
+ADR math as I see it: HDB represents 3 shares of HDFC Bank in India. Stock was last at 1,412.85 and the Indian Rupee was at 73.50. So ADR should be worth 1,412.85 / 73.50 x 3 = $57.66. 
+
+Instead it is trading at $70.29 (a 22% premium!). 
+
+Is there any other ADR that trades at such a premium? Why don't people buy IBN on INDF instead?_END_OF_POST_PYSTOCK_ Investment advice for an un-leveraged account (21M, £25kNW) Hello!
+
+So some brief context. I’m 21, with a net worth of roughly £25,000, but of course I have student debt as I am at university. I currently invest using spread betting and it has treated me well on IG.
+
+My thoughts are that I have around £21,000 of this that I am happy to invest, with £2,000 in an emergency fund and £2,000 in my current account that gets substituted every month with rent and food etc etc etc 
+
+now with this £21,000 I want to open an Un leveraged account with a company like fidelity or HGL just to reduce my risk as my spread betting account was highly leveraged 
+
+Would be great to hear some thoughts about accounts and industry distributions along with target returns (as I’m young I’m happy taking more risk) and also NW distributions! 
+
+Thank you!_END_OF_POST_PYSTOCK_ Alternative to Robinhood for Europeans based in EU? I tried to register at RH, but it says it\`s only for US citizens. I tried Saxo Bank but it only allows UK and some off shore islands and Monaco. Is ETORO a good choice? Do you know anything else? It's frustrating that my Saxo reseller that I am registered in has disallowed trading options and I am looking for alternatives._END_OF_POST_PYSTOCK_ Thoughts on Magic Formula of Joel Greenblatt? Hello Reddit,
+
+This is my first year investing and I feel that I have a lot to learn before going serious and deep into analyzing stocks.
+
+I read Joel Greenblatt´s Magic Formula book and I´considerinhg using it for 2021 (and longer run, re-investing the profits if any) while I keep educating myself, and I wanted to know how this community see this kind of strategy.
+
+Thanks in advance :)_END_OF_POST_PYSTOCK_ Where do you get Fair Value Hey, I'm new to investing and I want to ask where you are getting Fair Value from a stock. 
+
+I've googled "Fair Value (company)", but only could find one site that posts fair value (finbox) and don't know how trustworthy this site is.
+
+Do you have any recommendations or
+know if finbox is legitimate?_END_OF_POST_PYSTOCK_ $DKNG Online gambling/sports betting, marketshare and what do i need to know? So I'm considering investing into DKNG since it seems to me that online gambling wil go thru the roof in the future. I mean it's a company that makes money on addicts. Customers that will return because they have to because of their illness. 
+
+However i dont know much about the gambling market. I only know that gambling stocks like MGM or CZR are doing pretty well. Also the advantage of online gambling is that you dont have to leave the house and dont have to by property. I'm from europe and since I watch a lot of sports i know they make a shit ton of advertising.
+
+Somehow research seems to be harder then i thought i'd be.My questions in general would be:
+
+1. How is online gambling/betting in the US. Is it an established market?
+2. What are the biggest companys?
+3. Can draftkings keep up with its competition?
+4. Did you use the app/service, how does it feel and how would you rate it. Is the mobile app good?_END_OF_POST_PYSTOCK_ Boeing not even delivering 787s now... when do they run out of cash? The only airplanes that BCA is delivering right now are 767s, and a very few 737s.  Their cash burn has increased in the second half of 2020 because of the issues with the body join on the 787s.  
+
+I know that they pulled in a bunch of cash to ride out the 737 storm, but they must be burning it up at a prodigious rate.  
+
+Has anyone seen info on BA cash burn rate relative to their stockpile?  Anyone place odds on BA going bankrupt in 2021?
+
+They have practically no major revenue generating operation right now, relative to their cost structures.
+
+Article discussing 787 issues:  http://nyc787.blogspot.com/_END_OF_POST_PYSTOCK_ Those who were around in the dotcom bubble, what’s your biggest bag? Interested to see if there’s some investors out there that were victims of the dotcom bubble and are still holding their bags, never cutting their losses.
+
+What were some companies you invested in with high valuations that never got back to their all time highs?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Stock time series forecasting I have found some amazing open source resources about stock forecasting using machine learning and I thought that other people would also be interested in this topic.
+
+Using mathematical models and machine learning to forecast stock time series has become really famous nowadays.
+
+I have found some excellent articles with code and real word examples in case someone is interested in reading these.
+
+The first using the famous model developed by Facebook engineers themselves (FB Prophet model): https://towardsdatascience.com/time-series-forecasting-predicting-stock-prices-using-facebooks-prophet-model-9ee1657132b5
+
+The second uses LSTM gold standard models: https://towardsdatascience.com/lstm-time-series-forecasting-predicting-stock-prices-using-an-lstm-model-6223e9644a2f
+
+The third uses another gold standard model named ARIMA: https://towardsdatascience.com/time-series-forecasting-predicting-stock-prices-using-an-arima-model-2e3b3080bd70
+
+P.S: of course predicting the future is impossible but models like that can help and complement our DD analysis and in general our research_END_OF_POST_PYSTOCK_ Investing in Everfuel to drive hydro power in Scandinavia and Europe I have been following Nel Asa as a hydrogen power producing company. They have agreed to collaborate with a company which is called as Everfuel (https://finance.yahoo.com/quote/EFUEL.OL?p=EFUEL.OL) and it has been mooning since it is on stock market. Thoughts?_END_OF_POST_PYSTOCK_ How to bet on the success of the digital Renminbi? Hi guys, 
+
+I believe this Chinese project, of creating a digital Yuan, is going to be very successful in challenging the dollar as the world reserve currency. I'd like to speculate on this happening over the next 1-2 years.  An ideas for how to do this? I could buy CYB, to go long the Yuan / USD, but I'm not actually sure that's the most efficient way to make this bet, as the Chinese could continue manipulating their currency to keep the price of the Yuan suppressed
+
+Thanks for your thoughts._END_OF_POST_PYSTOCK_ Tax loss harvesting questions So, I just started brokerage accounts about a year ago, and now I'm wondering about tax loss harvesting for 2020. I have never sold a security before. Appreciate any help or pointers to reading material!
+
+1. If I want to get rid of a stock that looks bubbly (e.g. Lemonade) at a profit, and a stock that I don't want to be invested in anymore (e.g. Root) at a loss, can I get these to cancel out, and pay no taxes? Can I buy Lemonade again after >30 days and avoid the "wash sale"?
+2. Can I get a short-term capital gain to be canceled by a short-term capital loss?  For example, if my Lemonade shares gained $100, and my Root shares lost $100, these would cancel to $0?
+3. Can I get a short-term capital gain to be canceled by a long-term capital loss?
+4. Are dividends treated as long-term capital gains, if you've only owned the security for <1 year?
+5. Can I use tax-loss harvesting to offset taxes that I'd normally pay on my dividends? What about offsetting taxes I pay on 1099 or W-2 income?
+6. How does tax-loss harvesting work across multiple brokerage accounts? I stopped using Robinhood after their glitches and used Fidelity instead, but I never closed my Robinhood account.
+7. For the purposes of tax optimization of my brokerage accounts, should I just ignore my Wealthfront/Betterment automated tax-loss harvesting?
+8. Do I need special tax reporting software for all this, or is the premium version of TurboTax good enough?_END_OF_POST_PYSTOCK_ The Greeks: What You Should Know Part 2 A lot of us know what the Greeks do individually but aren’t as certain on how they behave in relation to each other and the underlying asset. This write up will be done with the assumption you have read the previous post here:
+
+&#x200B;
+
+Quick Example
+
+Say John buys XYZ 100 1/15/21 Call (Buy-to-Open) for 1.00 and this contract has the following values:
+
+Delta: 0.50 Gamma: 0.05 Theta: -0.02 Vega: 0.01
+
+and the Current price of XYZ stock is $95.00.
+
+&#x200B;
+
+This tells a lot but we will start with how Delta and Gamma work together:
+
+(1) The Delta says that for every $1 move either up or down in price, will either decrease or increase the value of the option contract by 0.50 (e.g. $50). You will notice most option contracts are bought and measured for statistical purposes in the ranges of 0-0.20, .21-.40, .41-.60, .61-80, and .81-1.00.
+
+(2) Then because Gamma is 0.05, for every change in Delta relative to a $1 movement in the underlying asset, The value of the option contract will increase by an additional 0.05 ($5) for every additional $1dollar change in the underlying assets price which would there create a correlated change in delta which is measured by gamma. So if the option contract for XYZ is 1.00 when the price of the underlying asset is $95 and then price moves up $1 dollar then the value of the contract becomes 1.50. (1.00 + 0.50) THEN, if the price moves an additional $1, Then the equation becomes, (1.50 + 0.50 + 0.05) = 2.05.
+
+We add Delta and Gamma together whenever we have additional 1$ movements or quantifiably similar changes in delta.
+
+(3) Theta, which is the amount of daily time decay that decreases the value of your options contract. So here we know that even if delta and gamma increase, With Theta being -0.02 we can expect to lose 0.02 every day we hold this contract. INCLUDING WEEKENDS. So now the Equation becomes 2.05 (current value of delta + gamma after a $2 movement) – 0.02 = 2.03.
+
+(4) Vega tells us that if Implied Volatility has a 1% change, then Vega will correlate the price increase or decrease related to the premium paid to buy/sell an option contract. If Vega is 0.01 then we add that to the value of the option contract. With 2.03 (Delta + Gamma – Theta) + 0.01 ($1) = 2.04.
+
+We do not use RHO in this calculation.
+
+&#x200B;
+
+Please note that these are not Static numbers and they will change drastically in relation to volume.
+
+You will notice Greek Combinations that have very high Delta and Gamma and Vega translates to an option most likely having a Higher Implied volatility because of how much of a range the option can move in and out of the money from delta and gamma while understanding from Vega that there is also a lot of dynamic price movement to either side. You will find these combinations in ETF’s like SLV, GOLD, XLK, things like that. Because they have high In-the-money probabilities and because their price doesn’t move much, GAMMA is very high which in turn means that smaller changes in delta will add to your contract value quicker.
+
+&#x200B;
+
+The most important thing here is understanding the formula and making sure there is liquidity (Volume and open interest) in your contract position.  
+
+
+I did want to touch on straddles and covered calls which many believe is a better way to trade options in terms of risk vs. reward.  
+
+
+Straddles  
+When an Investor is not sure which direction the market will move but has a strong opinion that there will be dynamic movement, a strategy that might be employed is the purchase of a straddle. This is the combining of a put and a call on the same stock with the same exercise price and expiration date. If the stock moves up, a profit is made on the call; if down, a profit is made on the put. Those who buy a straddle will profit from volatility while those who sell a straddle will profit if the market is stable because the options will expire unexercised.  
+
+
+Writing Calls   
+
+
+A Neutral or Bearish investor can write (sell) a call and collect the premium. An investor who believes a stock's price will stay the same or decline can write a call to:  
+(1) Generate income from the option premium  
+(2) partially protect (hedge) a long stock position by offsetting any loss on the sale of the stock by the premium amount  
+(3) If the stock price increases, the call may be exercised. In addition to the premium received when the option was sold, the writer will be paid the strike price for the stock.  
+If the option writer is the owns the stock on which the call is being written, is it known as a covered call and the risk is limited because no matter how high the stock price rises (meaning the call will certainly be exercised) , the writer merely uses the stock already owned (which has been deposited with the broker-dealer) to make delivery. However, if the writer does not own the stock, the option is uncovered (usually referred to as "naked" in the industry). That's when the risk is unlimited, because the writer must pay the going market price (and there is theoretically no limit as to how high a stock's price can go) to acquire the stock needed to fulfill the obligation to deliver. That is why Naked Call writing is the most risky option strategy.
+
+There much more to learn
+
+Hope this helps!  
+
+
+Edit: Added content related to straddles and Covered/writing calls_END_OF_POST_PYSTOCK_ How to find new and emerging companies to invest in? New to the stock market. I’ve been reading and watching a lot of videos on investing but none seem to go into detail about how they go about finding new and emerging companies and stocks. They talk about how to value a company and what to look for in them but they don’t talk about getting ahead of the curve and finding these stocks before they take off and everybody starts investing in them.
+
+For example I just watched a YouTuber talk about MP Materials, Clean Spark, Skillz, Nano-X imaging and more but am curious how he and people like him get ahead of the game and find these companies before everyone else does. Or for example what if I wanted to find the next big EV company, what resources would I use in order to achieve smaller less looked at ones?
+
+What news sources or websites do you guys use when trying to find the latest and greatest companies? I’m getting the basics down when it comes to fundamental analysis and researching a companies balance sheet and income statement but when it actually comes to finding these new emerging companies I’m lost. 
+
+Most of my investing money is in ETFs and blue chips right now but it’d be nice to diversify a little bit into these new and more speculative stocks. I feel like it would not only be funner but also more likely to see rapid growth._END_OF_POST_PYSTOCK_ Some Macro Thoughts As We Enter 2021: Things Will Get Really Interesting As We Enter the 1 Year Post-Covid Window (long) I tend to always be looking through interesting datasets, and I try to find anything that may be relevant or might be getting overlooked by markets in a general sense. I wanted to share something I found interesting and worth discussing.
+
+# Preface - Market Insanity & What Caused Markets to Rocket
+
+There has been endless commentary about markets this year, first discussing the unprecedented 37% drawdown, only to be followed by the equally unprecedented rocket rally to the new all time highs in the face of record unemployment.
+
+It's super easy to point to the fact that the market completely disconnected from the economy, or that it's not remotely rational so long as QE infinity is going on. Truthfully, it's complex, and influenced by a shit ton of different factors. But I think the following two datasets show the picture almost perfectly.
+
+* [Personal Consumption Expenditures](https://fred.stlouisfed.org/series/PCE#0) (IE, the fed's preferred inflation gauge)
+* [Personal Income](https://fred.stlouisfed.org/series/PI#0) (IE, how much money people are making)
+
+If you look at these two charts, you'll note that inflation fell off a cliff during March / April (hence the whole negative oil prices thing). This was mostly a product of lockdowns literally preventing people from being able to spend their money on the broad majority of goods and services aside from basic staples.
+
+At the same time, personal income **went up**. This is not a product of quantitative easing or anything Jay Powell did - it's a product of the fiscal stimulus that literally gave people who lost their job a temporary raise via unemployment assistance along with the $1200 stimulus checks almost everyone got below the 75k salary threshold.
+
+Just think about these two items together. People had nowhere to spend their money, and simultaneously, they were making even more than they were before. The obvious answer here is that the $ gets plowed into the stock market, and most notably into single-name stocks since none of this $ would be able to be allocated to a 401k program.
+
+# Rate Of Change, Comps, And Timing
+
+With the above out of the way, another important item worth sharing is that markets care far more about the rate of change of various data points than they do about the current levels of said data. Take for example unemployment - if unemployment stays at a flat level (regardless of where it is), the markets will generally adjust to that level and price it in. The biggest item to watch isn't how many unemployed people there are, but rather how many more unemployed there are this week than there was the previous week. The same principle here can (and does) get applied broadly across most anything that has a time series available. The most obvious example is within corporate earnings releases, which typically display year over year comparisons for their financials.
+
+The rate of change says far more about the future, which the markets are constantly trying to discount (across various time durations). As a result, you can take this one step further and look at the rate of change of the rate of change itself.  AKA, the second derivative of the rate of change. Simply by looking at this, you can often get a leg up on a lot of other people trying to interpret economic data.
+
+Okay, so why am I boring people with this? Year over year comps matter a lot, and markets try to price these things in. But quite often, they also price things on a linear basis, and sometimes they are only pricing in what is 1 week ahead of them. Markets aren't efficient, and they often just extrapolate whatever is currently happening into the distant future. In short, we are facing a rather ridiculous data comparison, starting around the time of March 2021, and this may have some significant impacts on the market & economy.
+
+# Personal Income & Personal Consumption Expenditures Look... Worrying?
+
+If the macro conditions we saw in March saved the market from further failure, then we have to look at the comparisons and change of that macro data in the coming months. Comparing against this dataset becomes obviously difficult, and that can have a broad affect on a lot of things.
+
+**Personal Income:** Personal income didn't just go up in March, it skyrocketed. The problem however, is that it was not a permanent growth in income, and we still have a LOT of people out of work or under-employed. The new stimulus bill looks to be relatively small here as well, and then additional stimulus that may come from the Biden administration will likely take a bit of time to be implemented.
+
+* The big cautionary warning here is that due to the crazy comp in 2020 along with rapidly deteriorating income, we will very likely see the most negative YOY number for personal income we've ever seen in the data set.
+* A lot of debt moratoriums will also be ending at the start of this year, although a good amount of this will depend on extensions which could come from further stimulus bills.
+* The comps here are subject to changes in the labor market & new stimulus measures. IE, if and when we see new stimulus passed, this will make that YOY comp look a lot "less bad". The question of course is how much?
+* I'm not personally sure how much the YOY change of personal income matters to markets. Certain items trade a lot based on YOY comps. I can track changes in inflation pretty reliably with a forward view of approximately 2-3 months, but I don't fully know how markets will react to this. My gut would say that the dropoff in personal income is going to be most visible in equity inflows, especially from the retail crowd that charged into the markets back in April.
+
+**Personal Consumption Expenditures:** Personal consumption hit a cliff and fell off in March. A lot of this was a product of job-loss and general caution reducing spending and increasing saving. But a lot more was likely a product of people literally not being able to spend their money on the things they would normally be doing (IE, traveling, going to restaurants, etc). This seeing a big drop can be beneficial for the economy as prices are lowered to accommodate for lost wages and income. Obviously, we don't ***normally*** see his fall at the same time income rises, but our current situation was obviously unprecedented.
+
+* Similar to income, we will be facing an astronomically low comp. Oil went negative, what else do you need to know? As a result, once March hits, we will be seeing all the economists' inflation metrics screaming that inflation is running really hot.
+* Many people have already noticed inflation in everyday items. But inflation is "low" right now because we're comping against last December's prices. To me, it actually says a lot that inflation #'s are as high as they are right now despite the fact that we're not even in the window where we would expect that # to surge.
+* Fundamentally, there are a lot of valid reasons we may continue to see inflation. There have been a lot of supply and production restrictions as companies have gone bankrupt, supply chains have been reconfigured, and capacity has been broadly reduced. Of course, this still has the giant anchor of high unemployment counteracting some of these things.
+* Lots of people misinterpret inflation as a sign of growth. Inflation ***can*** come from growth, but it also can come from a reduction in supply. The latter tends to be very negative for economies, and tends to be more of the "stagflationary" variety. The 1970's inflation regime came from both a generational boom in demand along with a lot of supply shocks of various forms. I still remain skeptical that we are heading into a secular inflation regime as we saw in the 70's, but that doesn't mean we can't have significant bursts of inflation over shorter time frames.
+* Around this time, we will very likely see a bit of a re-opening burst of spending assuming the vaccine rollout goes well. This would just add more fuel to the fire here, although it would also be supportive of growth, which is a good thing.
+
+**Putting it All Together...**
+
+\*\*[**I put together the data here**](https://i.imgur.com/ROj6scS.png)\*\*, and people can see for themselves what these changes in personal income and personal consumption look like back to the 1990's. This includes a basic projection using the recent rate of change to show just how much personal income will drop off and how much consumption expenditures will rise.
+
+So long story short, we are likely going to be entering a window after March where we will likely see record high comps for inflation metrics, and a record dropoff in personal income. Needless to say, this can *potentially* be a recipe for a lot of negative market reactions.
+
+* The biggest risk is if bond yields on the long end continue to rise, which has the effect of tightening financial conditions, and making it more difficult for the fed to enact their policies since it would just spur further inflation and price instability. If this occurs a time where growth is really falling off, that could be a really big problem for equities, especially the high p/e long-duration stocks.
+   * Keep in mind, the fed IS still doing lots of QE, which helps keep yields in check. They can also still do ***more.*** So yields rising is not a foregone conclusion despite the obvious inflation pickup we are seeing even now.
+* The big thing worth mentioning is that it's difficult to know how much of this the market has already priced in. We can see that the market has already been pricing in inflationary exposures, but the big unknown for these things is how much more can it go? In my experience, while knowing the level of change is next to impossible, you can drastically reduce risk simply by being in the right exposures and out of the stuff that becomes riskier during these types of conditions.
+* A default assumption that NEEDS to be considered is that authorities WILL react to the conditions at hand. It's literally their job whether you like it or not, and betting against that is a good way to get burned. With that said, the cover to provide aid is FAR lower than it was in 2020, and inflation will act as a constraint to the ability to provide stimulus.
+* IF you're managing risk around this type of environment, I would personally suggest taking a second look at heavy overweighting towards growth stocks, or really anything that was the biggest beneficiary of the 2020 environment. Not only will they not be as much of a benificiary when we open back up, but the retail inflows will likely not be supporting further price appreciation.
+   * This also opens up a potentially strong window of opportunity for value stocks to outperform during this window, although there is of course a lot more to consider here than just this factor alone.
+
+# It's Not All Bad
+
+Since the data here I'm sharing looks bad, I wanted to also state it's not necessarily doom and gloom. There are other reasons to be positive. In mentioning year over year comps, while income and consumption expenditures look worrying, other items like corporate earnings are going to be comping against super low levels.
+
+Similarly, other economic measures related to growth that measure output will likely be the opposite of personal income, where even a low amount of growth will look great on a YOY level.
+
+Realistically, so long as authorities can prevent shocks from sending the economy into a self-reinforcing downward cycle, I would expect the unemployment rate to slowly decrease, which creates a positive reinforcement in economic stability. The question is where that ability to prevent shocks via stimulus gets constrained by real interest rates or inflation crashing the party.
+
+# TLDR:
+
+* Year over year rate of change matters a lot for economic data, and markets often price on this
+* Markets surged in 2020 due to personal incomes surging while personal consumption fell off a cliff, leaving markets as a natural place for a lot of money to flow into
+* Since YOY rate of change matters, we are now going to be facing the complete opposite of the above bullepoint, where inflation will be surging off a very low base, while personal income will be crashing off a very high comp. This can potentially be quite negative for asset prices.
+* The above two items will likely start this spring, and could represent an upcoming period of market risk
+* There are other reasons to be optimistic, don't be a dumbass and yolo weekly put options based on this post._END_OF_POST_PYSTOCK_ Risk of investing in a large portfolio of stocks I have been playing around with options most of this year and thankfully have not lost any money. I am not new to investing in general, just new to options. However, screwing around with options is entirely too time consuming and anxiety inducing than I'd like especially with money I'd like to keep. My 401k is entirely in ETF's, diversified between large/med/small and international stocks; I don't look at it. But I have money that is accumulated outside of the emergency fund that I'd like to avoid having in cash earnings .01%. This is the money I have been playing with. It was fun, I learned a lot, but its time to get serious. 
+
+I have been reviewing lots of ETF's holdings and doing my own research and picking out companies I feel have growth potential. I came up with a list of 40 companies that I'd like to buy shares of based on a weighting against the amount of money I have to invest. Then invest more every month and buy more these companies. In essence I'd create my own little ETF. Its not much money right now, some companies that are expensive and may result in less than 10 shares.
+
+The companies are a mix of Technology, Healthcare and Consumer Cyclicals and Financials. 
+
+What's wrong with doing this?_END_OF_POST_PYSTOCK_ Prepare for SE to Crash Sea Limited is not going to have good earnings, in my opinion.
+
+I live in Thailand. The economy could hardly be any worse.
+
+Homelessness is on the rise. Many have fled Bangkok to go back to the village where they come from to stay with their parents.  Have literally had several begging for me to give them bus fair (to go home).
+
+I have waitresses in my messenger telling me they are out of work and they didn't eat yesterday, and are hungry.
+
+Hookers offering "everything" for 500 baht. Christ, even 10 years ago you'd get slapped if you offered that. Such desperation.
+
+Bars n restaurants offering really good food n drink deals just to get customers. My friend told me they were selling gin n tonics for 20 baht in Phuket, which is unbelievable.
+
+Things are way worse than 6 months ago. There is no social security here in general, but what covid stimulation the Thais were getting was halved a while back and I think is drying up now. 
+
+So many businesses closed. Personal debt is rising.
+
+Immigration offering special visas for foreigners who buy a condo, special tourist visas to those who qualify. They are really on their knees.
+
+I am guessing it is similar in Indonesia and the other places SE operates. Maybe not Singapore, I dunno.
+
+I reckon the next few months are gonna be bad til we get the vaccine, May, I think.
+
+We have just had a fresh breakout in covid recently too.
+
+I just don't see people using Shoppee for a while cos it is mostly luxury items they sell, not daily necessities.
+
+ Food deliveries, like Grab, are still doing great though._END_OF_POST_PYSTOCK_ BABA ready set go! Alibaba's stock has been taking hit after hit.   Recently now under investigation for anti trust practices.  But they are a global leader in on line sales and here to stay in my opinion.   Their stock price dropped to $222 attaining jaw dropping p/e ratio of 30.  That's unheard of for an established tech company.   I think an absolute strong but at this point.   Also hearing they are starting a stock buy back here soon.   Thoughts?_END_OF_POST_PYSTOCK_ Is shorting 20-year Treasury bonds similar to borrowing at a ~1.5% interest rate? My thinking is that since you know how much the bond will be worth in 20 years (1.46% year on year growth as of today), wouldn't shorting the bond be just like taking out a loan at a 1.46% interest rate?
+This shouldn't be right.  Can someone explain?  Thanks!_END_OF_POST_PYSTOCK_ Sold almost my entire $1m portfolio in March. How exactly do I recover from this? I was one of those poorly informed fools who sold almost the entirety of my $1m portfolio in March. I sold $800k worth of equities and ETFs, including TSLA, TQQQ, ROKU, and other stocks which have rallied significantly (think 4x or more) since. I am sitting at around a $200k loss. What's worse is that I would literally be up 200%+ this year if I had simply nothing!!! I am feeling extremely bad, but that doesn't matter. I just want to recover from this. It seems absolutely humiliating, knowing that I could be sitting on $2m right now if I had literally done nothing and not sell in March. I never got back in because I rationalized that sooner or later the market would correct itself and go lower. But that didn't happen. Now the market and most stocks are at ATH. I feel like dying. How exactly do I recover from this?_END_OF_POST_PYSTOCK_ UniQure's Phase 3 trial put on hold. Why it is interesting for biotech investors. UniQure’s gene therapy to treat hemophilia has been placed on clinical hold after a patient in the trial was diagnosed with hepatocellular carcinoma (HCC):
+
+https://www.sciencemag.org/news/2020/12/liver-tumor-gene-therapy-recipient-raises-concerns-about-virus-widely-used-treatment
+
+https://www.fiercebiotech.com/biotech/uniqure-csl-hit-by-fda-clinical-hold-for-hem-b-gene-therapy-program-after-liver-cancer-find
+
+In this trial, a single dose of 2e13 gc/kg of AMT-061, which is an AAV5 vector containing a gene cassette with the Padua variant of Factor IX, was delivered intravenously:
+
+https://clinicaltrials.gov/ct2/show/NCT03569891
+
+Per the company’s website, the patient that developed HCC had ‘multiple risk factors associated with HCC, including a twenty-five-year history of hepatitis C (HCV), hepatitis B virus (HBV), evidence of non-alcoholic fatty liver disease and advanced age,’ and that, ‘Chronic infections with hepatitis B and C have been associated with approximately 80% of HCC cases.’
+
+https://tools.eurolandir.com/tools/Pressreleases/GetPressRelease/?ID=3852484&lang=en-GB&companycode=nl-qure&v=
+
+If you are investing in any kind of companies that are trying to develop gene therapies, it may be prudent to pay attention to these results.  AAVs are the de facto gold standard for many gene therapies, because they are less immunogenic than most other viruses (in other previous trials other virus types have caused severe adverse events and deaths). AAVs are considered by many to be some of the safest viruses that can be used for delivering gene therapies. AAVs are even often used to deliver gene therapies that involve CRISPR as well.  
+
+Although the patient had factors associated with higher risk for developing HCC, what’s intriguing (and this is just my opinion) is the fact that research has shown in preclinical animal studies that liver tumors develop in animals that receive intravenous administrations of AAVs.  One observation that has been observed is that AAV genetic payloads can integrate at a site in the genome known as the *Rian* locus (will warn you though, this is still highly controversial).  You don’t need to know all of the details of the *Rian* locus except for the fact that it encodes for some microRNAs (aka miRNAs – these regulate gene expression), and disrupting miRNAs is often associated with many kinds of cancers.  See here:
+
+https://science.sciencemag.org/content/317/5837/477
+
+https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(16)30324-0
+
+https://www.sciencedirect.com/science/article/pii/S2329050117301237
+
+UPenn professor Jim Wilson (a massive name in the field of gene therapy) has also been presenting work from his lab, which was recently published, showing that AAVs have also been associated with unexpected findings in monkey studies.  Data from his lab's work showed that AAVs were producing dorsal root ganglia anomalies in monkeys that received intravenous doses of AAVs, leading to central nervous system toxicities:
+
+https://www.liebertpub.com/doi/10.1089/hum.2020.167
+
+Per the abstract of the above paper:
+
+>  DRG pathology was observed in 83% of NHP that were administered AAV through the CSF, and 32% of NHP that received an intravenous (IV) injection. We show that dose and age at injection significantly affected the severity whereas sex had no impact. DRG pathology was minimal at acute time points (i.e., <14 days), similar from one to 5 months post-injection, and was less severe after 6 months. Vector purification method had no impact, and all capsids and promoters that we tested resulted in some DRG pathology. The data presented here from **five different capsids, five different promoters, and 20 different transgenes suggest that DRG pathology is almost universal after AAV gene therapy in nonclinical studies using NHP**. None of the animals receiving a therapeutic transgene displayed any clinical signs. Incorporation of sensitive techniques such as nerve-conduction velocity testing can show alterations in a minority of animals that correlate with the severity of peripheral nerve axonopathy
+
+Now, I’ve been quite messy reporting the above, because as you may have noticed by now, it appears that different serotypes of AAVs  (e.g. AAV2/9) were used in the liver tumor studies compared to the UniQure trial (AAV5).  There are also issues with trying to draw grand and sweeping conclusions from the academic studies, for example, not all AAVs contained the same vector design, and some studies used wild type vectors vs recombinantly made AAVs.   Further, it may be the case that existing conditions involving liver injury or infection may be a contributing factor in the development of HCC, as the UniQure people alluded to in their press release:  
+
+https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(20)30552-9  (paywall)
+
+That being said, it is also difficult to integrate the findings of Jim Wilson’s work, which showed that dorsal root ganglion toxicities appear to be independent from serotype and vector design (bolded parts above).  Overall, there appear to be some new and challenging issues, in my opinion, that are now cropping up in the gene therapy field for ideas that are delivered with AAVs.  Although many of the academic findings appear to conflict in some ways, there seems to be more findings across both academic papers and now in the clinic when AAVs are delivered intravenously and at higher doses (‘higher dose’ is probably in the ballpark of 10^13 - 10^14 vc/kg).  
+
+The point here is that for AAV based gene therapies to be viable, enough transduction efficiency to produce a measurable efficacy may in fact be limited by dose if AAVs are involved, because high doses of AAVs may be associated with liver and CNS findings that may take a long time develop that makes them very hard to detect.  It is possible these findings may even impact development for things like CRISPR based therapeutics that are delivered via intravenous routes of administration and use AAVs.  While pre-existing liver injuries/infections may increase the risk for toxicities like HCC, it should also be noted that some companies have programs targeting people with liver issues *because they have liver diseases* in the first place.  The jury is out if liver disease programs will be limited by the findings above if the therapies being studied only work at higher dose levels. 
+
+TL;DR: Many gene therapy biotechs use AAVs to deliver their therapies.  There have been some new safety findings with AAVs based therapies.  It is difficult to make sweeping conclusions, but one should not overlook what may be new risks involved for AAV based gene therapies, especially if a company has to deliver their investigational product at higher doses.  This potentially includes companies working on CRISPR therapies, assuming they’re using AAV delivery.  This is all my opinion based on the news articles and studies linked to above.  This isn’t meant  to be overly alarmist, but is rather just inteded to make sure people are aware of what to look for in biotechs developing gene therapies._END_OF_POST_PYSTOCK_ Trying to analyse using home as investment I'm renting.
+
+I'm trying to determine what my situation would be if I bought a home and rented a room out (tax free in Ireland)
+
+I'm trying to figure out what the situation would be for me if there was a 10 or 20% drop in market values.
+
+
+So, lets say I'm spending 3600 on rent per year now.
+
+25 year mortgage for 190k at 3% = 11k per year payment total (principal + interest)
+
+I rent out a room taking in 6k per year. I would pay 5k per year.
+
+50k deposit - 240k house value initially.
+
+
+I'm trying to figure out when my breakeven point would be if the house dropped to 200k value. Would it just be 6.5 years? (i.e 40k loss / 6k rental income per year?)
+
+Or do I include the 3600 rent payment as "income" aswell because I'm not paying that anymore?
+
+Basically I'd like to buy a house but won't stay there long term so trying to work out scenarios. 
+
+I thought I had this figured out but doubting myself now._END_OF_POST_PYSTOCK_ How can one be comfortable with a buy and hold strategy? I’ve tried it. It’s not for me. I watch my portfolio like a hawk and track every ticker for news and insider selling/ buying. I just can’t understand how one can have a passive approach about their investments and be okay with it. I.e. “ set it and forget it” Im talking about Individual stocks here. I totally get the set it and forget it approach about index funds and ETF’s. I do that myself. I’m not knocking the method by any means I’m just genuinely curious_END_OF_POST_PYSTOCK_ Can anyone recommend or share a good Fundamental Analysis Spreadsheet? I am about to build a stock portfolio from scratch and am in search of good long term growth value stocks at this time.  I have searched online to see if there are any templates available however the selection is fairly limited.  I also have two broker accounts, and neither of them offer any FA spreadsheets.  I've also searched Investopedia and was not able to find any.  I am capable of building one but I am hoping that I can find one with macro's so that it will load all of the current stock data.  I want to have multiple stocks on one spreadsheet, which I saw a few were only one stock per tab, which is not what I am looking for.  Thanks in Advance!!
+
+Here's to a solid 2021!!_END_OF_POST_PYSTOCK_ Trump Signs Covid 19 Aid Bill (Live News) Trump Signs Covid 19 Aid Bill. Ongoing and live news, but interested to hear reactions to change in administration, stock market outlook, portfolio investments, etc...
+
+https://www.wsj.com/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841?st=30n6xus1fzw70kk&reflink=article_copyURL_share_END_OF_POST_PYSTOCK_ Alibaba (BABA) to up its share buybacks to 10 Billion [https://www.businesswire.com/news/home/20201227005014/en/Alibaba-Group-Upsizes-Share-Repurchase-Program-to-US10-Billion](https://www.businesswire.com/news/home/20201227005014/en/Alibaba-Group-Upsizes-Share-Repurchase-Program-to-US10-Billion)
+
+&#x200B;
+
+I'd take this as a good sign, no? Management seems to think the share is undervalued right now obviously_END_OF_POST_PYSTOCK_ AAPL DD It seems like the news of a possible Apple car coming in the somewhat near further should be a positive catalyst and provide some solid price action to play off of. 
+
+What’re your thoughts? 
+
+My Gameplan: ITM Long Calls on AAPL. Ride the positive price action and sell when the trend reverse’s._END_OF_POST_PYSTOCK_ ETFs with high expense ratio vs Managing your own ? I have a couple of questions:
+
+* Those who invest in high expense ratio ETFs - are they really worth it? 
+* How difficult is it to maintain your own ETF ? have you ever tried it and is it doable or is it crazy?
+
+For example I am interested in ICLN but 0.46% expense ratio is alarming. I am not question why its so high but the economy of maintaining such ETFs for long term. 
+
+Considering that many such specific ETFs are always going to be higher expense ratio, has anyone tried doing it on your own? How difficult was it and is it worth pursuing it?
+
+ I don't mind doing a bit of rebalancing to follow the index once a month for trial basis but is it worth doing it? 
+
+I understand ETFs are forget about it investments but trying to weigh them in terms of expense ratio vs time spent._END_OF_POST_PYSTOCK_ What’s the best way to keep track/journal your trades to learn from? “You can’t measure it, you can’t improve it”
+
+I was curious of everyone’s method for keeping track of their investments such as why they entered the trade, entry price, gain/loss and so on. That way you can look back and learn from your previous trades. Iv seen some products online that are pre printed journals for investment tracking that seemed interesting to. Iv also thought excel would probably be useful. 
+
+Would love to hear what you use and what kind of information you find important to document._END_OF_POST_PYSTOCK_ Energy against inflation & high interest rates  Are energy sector ETFs (such as XLE, VDE) a safe hedge against raising interest rates & inflation? Assuming that energy prices would go up during higher inflationary period, and that interest rates would also go up too (to combat inflation), it appears that energy companies may be, in the medium term, indifferent for inflation.  
+
+Also, assuming that energy demand stays consistent with current expectations, wouldn’t XLE be a great investment in the current, waiting for higher rates – inflation pending, environment?_END_OF_POST_PYSTOCK_ What do you think about Stanley Druckenmiller's 10 Best Stocks to Buy for 2021? Hey guys, recently saw an article on Yahoo Finance going through Billionaire Stanley Druckenmiller's 10 best stocks to buy for 2021. What do you guys think of this list?
+
+I give my thoughts in the video below but for those who prefer not to watch here is the list! Thanks!
+
+10) [JD.com](https://JD.com)
+
+9) Starbucks Corporation
+
+8) Barrick Gold Corporation
+
+7) PENN National Gaming
+
+6) Netflix
+
+5) Sea Limited
+
+4) Alibaba
+
+3) T-Mobile US
+
+2) Amazon
+
+1) Microsoft
+
+Original article: https://www.google.com/amp/s/finance.yahoo.com/amphtml/news/10-best-stocks-buy-2021-210723510.html
+
+My video (would love to hear your thoughts!):
+[https://www.youtube.com/watch?v=hnjaB6UEL5U&ab\_channel=PierceJordan](https://www.youtube.com/watch?v=hnjaB6UEL5U&ab_channel=PierceJordan)_END_OF_POST_PYSTOCK_ [MarketWatch] ARKK is out on UBER. Ark Invest's Cathie Wood: "stayed private too long and lost the plot. They could have incentivized their drivers to put sensors on their cars and collect data much faster than even $TSLA." https://www.marketwatch.com/story/cathie-wood-uber-and-lyft-missed-the-boat-2020-12-27?mod=investing
+
+Ark Invest's Cathie Wood isn't betting on Uber Technologies Inc UBER, -1.55% and LYFT Inc LYFT, -2.42% over Tesla Inc TSLA, +2.44%.
+
+What Happened: Wood, CEO of New York-based Ark Invest, said in a tweet Saturday night that Uber and Lyft missed out on a data opportunity that ties in to AI — and which companies will most benefit from it.
+
+Wood said the ride-sharing companies "stayed private too long and lost the plot. They could have incentivized their drivers to put sensors on their cars and collect data much faster than even $TSLA."
+
+The tweet was in response to a question about Ark Invest's portfolio.
+
+Data collection and AI are closely intertwined because machine learning systems develop faster and with greater precision when they are paired with large data sets.
+
+Why It Matters: Wood's opinion carries weight. She has become the breakout star of the 2020 bull market as her actively-managed ETFs generate phenomenal returns. Shares of her ARK Innovation ETF ARKK, -1.43% are up over 163% this year.
+
+ARK has predicted Tesla shares will hit $7,000 in 2024. Tesla is the top holding in the Ark Innovation ETF, at 9.98% of assets._END_OF_POST_PYSTOCK_ Morningstar Fundamental data report Hi all anyone know how to get this feature to create your own reports? I used to have access via Questrade where I could perform a screen select my stocks and create a PDF report that would include 10 years past fundamental data. Questrade just stopped offering it at next to no notice. 
+
+I have essentially built my screening around this function and had my own analysis in excel where I used data from this to filter downy picks. To say I feel lost now is an understatement. 
+
+It doesn't have to be Morningstar but anyway of finding 10 year data specific to 10 year High and Low PB ratio and Book Value over 10 years 
+
+Any help would be greatly appreciate. I did sign up for Morningstar Premium but it does not offer the ability to create the reports._END_OF_POST_PYSTOCK_

@@ -1,0 +1,186 @@
+ Buying stocks seems like such a mess I come from the cryptocurrency market, on crypto exchanges all the information is available to you, e.g. you can look at the order books for market depth and see the battle between makers and takers and judge liquidity(you can try to scare people off by putting on huge sell walls, or you can put hidden orders), you can see the candlestick formation happening right in front of you, etc etc, all this allows you to have a feeling of what's going on. In contrast with my Interactive Brokers account, it seems as if I have to pay a monthly subscription of hundred dollars just to have "Deep Book" access for one single exchange, like what the fuck. The stock market seems so inefficient, noobish, and perhaps designed in a way to keep the retail investor dumb. It's pretty disappointing.
+
+Is there a way to have access to "Level II" information without having to scam myself?_END_OF_POST_PYSTOCK_ VIEs and BABA et al There are some common misconceptions about VIEs and the difference between the ADSs listed on US exchanges and the shares on the HK exchanges. I have seen these misconceptions spread here, on Seeking Alpha and also places like Motley Fool. So I have read in detail the SEC filing here [https://www.sec.gov/Archives/edgar/data/1577552/000104746919006309/a2240097z424b5.htm](https://www.sec.gov/Archives/edgar/data/1577552/000104746919006309/a2240097z424b5.htm)
+
+by Alibaba Group Holding Limited, incorporated in Cayman Islands, for their HK listing and am ready to clarify some of the BS that is being spread.
+
+**THERE IS ZERO MEANINGFUL DIFFERENCE BETWEEN THE HK AND NYSE SHARES.** A lot of people spread the nonsense that the American ADS's give you "a mere economic ownership of a VIE" whereas the HK listing gives you "direct ownership of the company". They then acted "shocked" that there is almost no difference between the price of the two, and act like this indicated that the market fails to appreciate the VIE risk (I saw this crap being written in a Motley Fool article). This is wrong on so many levels. Here is why:
+
+* **THE SHARES ON THE TWO DIFFERENT LISTINGS ARE FULLY FUNGIBLE.** You can convert each  American ADSs directly to 8 HK shares. The process for doing this is listed here in the SEC [https://www.sec.gov/Archives/edgar/data/1577552/000104746919006309/a2240097z424b5.htm#de15203\_conversion\_between\_adss\_and\_ordinary\_shares](https://www.sec.gov/Archives/edgar/data/1577552/000104746919006309/a2240097z424b5.htm#de15203_conversion_between_adss_and_ordinary_shares) Note that this is *completely fucking standard* for ADSs. For example, Tencent (also a VIE) has a listing in HK and also has a very popular ADS available OTC in the US.
+* **THE ABOVE FACT MAKES THE TWO SHARES FUNCTIONALLY EQUIVALENT.** The instant there is a meaningful price difference between the American and HK shares, any arbitrageur can buy the cheaper one and sell the more expensive one. How hard is that? Its just a phone call to the broker, and a trivial, approximately $500 fee. In fact, IBKR can convert many shares from ADRs to common stock on foreign exchanges *automatically*, without even a phone call. See [https://www1.interactivebrokers.com/en/index.php?f=15260#supported-adr](https://www1.interactivebrokers.com/en/index.php?f=15260#supported-adr)
+* **BOTH THE HK SHARES AND US SHARES PROVIDE OWNERSHIP.** More precisely, they both confer ownership in the same company - *Alibaba Group Holding Limited*, incorporated in Cayman Islands. This is a holding company. It has economic interests in China, via contracts with certain VIEs. A VIE must be wholly owned by Chinese citizens.
+
+So, both the HK and US shares are the same thing. Both have the same risks. You can convert from one to the other freely. Both carry a VIE risk, in that these Chinese owned VIEs could theoretically be confiscated by the CCP, depriving the holding company of future income. Also
+
+* **THIS IS THE SAME FOR EVERY CHINESE COMPANY.** China forbids foreigners from owning stock in a Chinese company, so *every single fucking Chinese stock has the exact same VIE risk.* This goes for Tencent, NIO, Netease, Billi etc - under Chinese law, there is no way for a foreigner to do business in China other than through a VIE.
+
+TLDR - there is no difference whatsoever between HK listings and US listings of Chinese stocks. All Chinese stocks carry an identical VIE risk. You can not get around it by owning the HK stock, it literally makes zero difference, its a contract for the exact same thing and is fully fungible with the US one.
+
+**EDIT**: Guys - to clarify, I am not trying to say there is no risk investing in China, or that VIEs don't carry any risk. I am trying to debunk the common conspiracy theory along the lines of "the CCP can, at any time, eliminate the VIE structure and liquidate US investors in BABA, whilst protecting investors in Hong Kong". We are all in the same boat, no matter which exchange we bought the shares in, and the shares are completely interchangeable. If the CCP wipes out investors in BABA, they wipe out holders of 9988. (I also doubt they would destroy the VIE structure entirely, and kill Tencent, NIO, NTES and all the rest. They would be killing the entire HKEX).
+
+ Since Alibaba Holdings is a core holding for Asian mutual funds (I believe I read recently that its the number 1 holding, but I don't feel like searching for the reference today), I personally think the probability of the CCP wiping out all all investors in Alibaba is very small, but that's for you, the individual investor, to decide. (This would also involve wiping out actors like Japan's SoftBank, most of whose NAV is kept in Alibaba Holdings.)_END_OF_POST_PYSTOCK_ What are your favorite long term stocks? Which stocks would you buy and hold for the next fifteen years? Which ones do you see the most potential for growth and/or the best long term value at their current price? I'm looking at stocks like Etsy and Square but I'm concerned about how much they have grown this past year so im not sure if they are the best value right now. What are your thoughts?_END_OF_POST_PYSTOCK_ Top Dividends stocks to add to portfolio? So I’m enforcing my dividend portfolio to end the year with a solid portfolio that I can slowly build upon. Deciding to add 6K towards this. Currently I have the following (stock:#ofshares):
+
+MAIN - 5
+O - 10
+SPHD - 15
+SPY - 10 (not really dividends but for long term play)
+
+Haven’t focused much on building dividends out. But I thought I’d start now. Would like this portfolio to maybe a mix of dividends/etfs for long term play (20+ years)
+
+Thoughts on mixing both etfs and dividends into 1 portfolio and the top 5 stocks you’d want to add within the dividend portfolio.
+
+Cheers and happy holidays!
+
+Edit - thanks everyone for commenting their thoughts love this community an support!_END_OF_POST_PYSTOCK_ S&P Chart Hi all, ive been staring at the S&P chart and it has me worried in the short term (1-3mo)
+
+[https://i.imgur.com/qD4fSge.jpg](https://i.imgur.com/qD4fSge.jpg)
+
+\--- WTF am i looking at? ---
+
+Thicc lines : topline(green) and bottomline(red) projections from 2008 and 2016 trends
+
+Thin lines : local trend lines for last year
+
+blue linegraph : VIX
+
+everything else : has labels
+
+\--------------
+
+whats got m worried:
+
+long MACD is decaying, looks like it may be headed into another test of the trend.
+
+short MACD is stuck in the negative.
+
+ATR and VIX minimums are diverging from price (negative trend)
+
+Local channel bottom is converging with 2008 and 2016 toplines (February crossover)
+
+\--------------
+
+basically it looks like we are running out of momentum and getting ready for another gap up and test of the 3500 bottom in the new year. Anyone else seeing this?_END_OF_POST_PYSTOCK_ Question on the terminology related to 'formations' A cup with handle or a bullish flag or whatever it may be, they are formations. That is something that you'll find everywhere but I have also found them being called different things and I don't understand if there is a difference or they mean the same thing. I have heard formations being called things like 
+
+\- Bases
+
+\- Price Structures
+
+\- Price Patterns
+
+Is there a difference between them? Does it even matter? I heard them being called formations first and so If they aren't too different, I'll stick with that but if you use another word, then what do you call them?_END_OF_POST_PYSTOCK_ Protecting profit margins [IG broker] I’m using uk broker to trade called IG. I want to start setting up rules to sell at comfortable profit margins automatically in case value of shares drops unexpectedly. I don’t want to waste my time watching my stocks all the time. Is there an online service that allows to integrate your broker account and to this? For instance: Sell if share price is less or equal than $20. 
+
+Btw: I tried setting up an indefinite sell order in IG but it says that at this price it will execute immediately where current share price was $60 and my sell point was at $49._END_OF_POST_PYSTOCK_ Investing and trading taxes in Norway Hello everyone, i live in norway and im pretty new in this trading -investing game , and i start invest in investing account in trading212 i want know, how works taxes in norway if you trade in trading212, how big is tax and how can i calculate how much i need pay in taxes if i sell shares and withdraw profit to my -sparebank._END_OF_POST_PYSTOCK_ OAC, why is no one talking about it? Should I be concerned? 3-400% return Hey guys, somewhat new to investing  (only had my money in LS100 since 2018) so forgive the lack of knowledge. **Can someone explain to me what I'm missing about getting in on the OAC stock?** *To me, this seems like a pre-IPO (Hims) deal with* ***at least 2*****00-400%** ***upside:***
+
+* Hims & Hers reported $41.3 million of net revenue in Q3 2020, representing 9**1% year-over-year growth**
+* **85% YTD revenue growth**
+* **Institutional backing**, *including Founders Fund, Forerunner Ventures, IVP, Redpoint Ventures, Thrive Capital, McKesson Ventures, and the Canadian Pension Plan Investment Board intend to roll 100% of their equity*
+* Hims/Hers is **already profitable** 
+* *Combined company to have an implied initial enterprise value of approximately $1.6 billion, with the company expected to have an estimated $330 million in cash after closing*
+* JLO and ARod are brand ambassadors (lol)
+
+Besides that few posts I see on a few other subs, I don't see as much hype as I would have expected. I_END_OF_POST_PYSTOCK_ All analyst ratings across all US listed companies I wonder if there is an efficient way to get data on all analysts ratings across US listed companies (>micro caps) in all sectors.
+
+By concept I would love to see analyst's (and the firm he is representing) rating for a particular stock, sector in which business operates,, and a date issued. Having rating of the analyst itself (tipranks) would be a bonus. 
+
+Any tips / help is appreciated._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ KO vs PEP Building a dividend portfolio to have some fun on the side. I already have a fully funded Roth with mutual funds.
+
+Classic dilemma, Can't decide between Coke or Pepsi! What's your take? I'm leaning PEP because they are into the food/snack market too and it might be a better long term play. Also KO just laid off a bunch of employees and they're cutting some brands. Trouble brewing?_END_OF_POST_PYSTOCK_ NVTA, CRSP I’m starting to invest my savings at the beginning of the new year and I was wondering, whether those two are any good to invest in. They are companies that are quite big on the emerging “genomics” market, and as this field of science is expanding quite rapidly I figure those two could see some significant growth. Any thoughts?_END_OF_POST_PYSTOCK_ I'm an accredited investor now. How do I buy private offerings? I recently fell under the definition of an Accredited Investor due to an SEC rule change effective 12/08/2020. I want to be able to invest in companies like SpaceX and Discord while they are still doing rounds of funding and have found a few marketplaces or platforms to potentially use for transactions. However, i'm skeptical by nature and would appreciate any insight on the process in general.   
+
+
+Lastly, is there anything stopping an accredited investor from buying popular companies for non-accredited investors?   
+Seems like a no-brainer to crowd fund to create a private equity fund and the resounding obstacle is initial startup capital. Well what if that isn't an issue? Is the registration process, if any, stringent?  
+
+
+Any answers would be gladly appreciated!_END_OF_POST_PYSTOCK_ Confused about index Hi,
+
+I had an argument about index funds. My understanding is that index grows because economy grows. The other side's idea was that it grows, but companies are getting removed from the index so you as an investor can actually loose money buying index even though index is growing. Another idea of other side was that if indexes were profitable then banks would just take cheap loans from central bank and buy index, but they dont do it. Could someone explain?_END_OF_POST_PYSTOCK_ What's your potential ten bagger stock? My ten bagger so far has been PLUG and my next one is STPK / STEM. STPK already announced that it will combine with Stem, smart energy storage which uses AI to optimise clean energy assets and supplies its customers with digitally connected storage networks.
+
+I'm in STPK and PLUG.
+
+What's yours and why._END_OF_POST_PYSTOCK_ What were your WORST stock picks of 2020? **Limelight Networks (LLNW)**
+
+CDN and edge network provider trading at much, much, much lower valuation than Fastly (FSLY) with multiple tailwinds from lockdowns, online streaming boom, Work From Home and online education but management failed to materialize anything and took convertible notes and did nothing with it. The stock crashed 30% when the results came out despite having 'their best quarter ever'.
+
+**Scorpio Tankers**
+
+/r/tankergang
+
+Product tanker. Watch as rates soared due to storage filling up and production of oil not stopping. I was early too and bought in March and watched it go to almost $30 before crashing down. The company is in a much better shape than a year ago but its trading at half the price now. FUCK shipping._END_OF_POST_PYSTOCK_ Stop Limit Order RH Sell To Close  
+
+I don't understand selling a stop limit order on Robinhood.
+
+It keeps saying \*High Stop Price\* Your stop price is above the current ask price so your order will likely trigger immediately. Does this mean I'm gonna immediately make my money back?
+
+**Example:**
+
+**Current Stock Price $9**
+
+Let's say that I bought 5 contracts with a strike price of $10 and a premium of $1.6, so that totals $800 that I "invested" in the call options.
+
+Now, I want to sell the 5 contracts back for say.... break even. Then in this case, I would input the following:
+
+**Contracts: 5**
+
+**Limit Price: 1.6 or do I put $160?** \- I should put 1.6 because this is the bid/ask price right?
+
+**Stop Price: what do I put here? 800? 10? 9? -** If I enter 1.6 then I get the High Stop Price Warning
+
+Edit: all the YouTube videos keep giving examples of high values for limit and stop price such as the premium \* 100 instead of just the price of the premium... for example **Limit Price:** $160 instead of $1.6, but I should be entering the ask price before multiplying by 100 for Robinhood right?_END_OF_POST_PYSTOCK_ Do you think Boeing is a buy? I’m trying to diversify out of tech and think with the vaccine airlines will come back slowly but surely. Boeing lost $6 per share this year and down on their revenues obviously due to COVID but I was reading their SEC filings over the past  3 years and their growth looks good. Am I completely off?_END_OF_POST_PYSTOCK_ ETF vs mutual fund for PCRA For 401k I changed to self directed PCRA account so I can buy securities of my choice.
+
+Are there any tax benefits of using ETF vs mutual funds for PCRA account?
+
+Other than some other differences like buying whole amount of shares in ETF vs dollar amount in mutual fund, are there any other important differences?
+
+For some vanguard securities, I see expense ratio of ETF are lower than of mutual fund, so i am little inclined towards them._END_OF_POST_PYSTOCK_ High yield € Bond etf Hello!
+
+I want to buy some high yield € bond ETF, but the expense ratio on some of them varies a lot. My issue is that all them I’ve found seem to have a very high expense ratio compared to USD high yield ETF
+
+An example for the lowest expense ratio I found for USD and Euro
+
+Xtrackers USD High Yield Corporate Bond ETF: Expense ratio of 0.15%
+
+SPDR Barclays Euro High Yield Bond UCITS ETF: Expense ratio of 0.40%
+
+It’s 0.15% vs 0.40%, which is quite big in the long run, so any recommendations for € bond ETFs
+
+The currency it’s denominated in doesn’t really matter, just that the underlying bonds are in €
+
+Best Regards_END_OF_POST_PYSTOCK_ Biden's campaign announced a broad plan to invest in clean energy and improve America's infrastructure. Who do you expect to be the winners (or losers) if such a plan is implemented? From his [campaign site](https://joebiden.com/clean-energy/):
+
+>Biden will make a $2 trillion accelerated investment, with a plan to deploy those resources over his first term, setting us on an irreversible course to meet the ambitious climate progress that science demands.
+
+>Biden will make far-reaching investments in:
+
+>**Infrastructure**: Create millions of good, union jobs rebuilding America’s crumbling infrastructure – from roads and bridges to green spaces and water systems to electricity grids and universal broadband – to lay a new foundation for sustainable growth, compete in the global economy, withstand the impacts of climate change, and improve public health, including access to clean air and clean water.
+
+>**Auto Industry**: Create 1 million new jobs in the American auto industry, domestic auto supply chains, and auto infrastructure, from parts to materials to electric vehicle charging stations, positioning American auto workers and manufacturers to win the 21st century; and invest in U.S. auto workers to ensure their jobs are good jobs with a choice to join a union.
+
+>**Transit**: Provide every American city with 100,000 or more residents with high-quality, zero-emissions public transportation options through flexible federal investments with strong labor protections that create good, union jobs and meet the needs of these cities – ranging from light rail networks to improving existing transit and bus lines to installing infrastructure for pedestrians and bicyclists.
+
+>**Power Sector**: Move ambitiously to generate clean, American-made electricity to achieve a carbon pollution-free power sector by 2035. This will enable us to meet the existential threat of climate change while creating millions of jobs with a choice to join a union.
+
+>**Buildings**: Upgrade 4 million buildings and weatherize 2 million homes over 4 years, creating at least 1 million good-paying jobs with a choice to join a union; and also spur the building retrofit and efficient-appliance manufacturing supply chain by funding direct cash rebates and low-cost financing to upgrade and electrify home appliances and install more efficient windows, which will cut residential energy bills.
+
+>**Housing**: Spur the construction of 1.5 million sustainable homes and housing units.
+
+>**Innovation**: Drive dramatic cost reductions in critical clean energy technologies, including battery storage, negative emissions technologies, the next generation of building materials, renewable hydrogen, and advanced nuclear – and rapidly commercialize them, ensuring that those new technologies are made in America.
+
+>**Agriculture and Conservation**: Create jobs in climate-smart agriculture, resilience, and conservation, including 250,000 jobs plugging abandoned oil and natural gas wells and reclaiming abandoned coal, hardrock, and uranium mines – providing good work with a choice to join or continue membership in a union in hard hit communities, including rural communities, reducing leakage of toxics, and preventing local environmental damage.
+
+>**Environmental Justice**: Ensure that environmental justice is a key consideration in where, how, and with whom we build – creating good, union, middle-class jobs in communities left behind, righting wrongs in communities that bear the brunt of pollution, and lifting up the best ideas from across our great nation – rural, urban, and tribal.
+
+Obviously Biden will have to negotiate this plan with Congress, and it's an open question as to whether Democrats will hold the Senate (which could significantly change what an Infrastructure deal looks like). If we take this plan at face value for the moment, who do you see as some of the likely beneficiaries?_END_OF_POST_PYSTOCK_

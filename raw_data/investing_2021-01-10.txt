@@ -1,0 +1,419 @@
+ Which stocks to sell off first? I need to liquidate some assets to pay for a down payment on a house. Approximately 70% of portfolio is in mutual funds, while the other 30% is in Home Depot stock (acquired through an employee stock purchase program).  Am I better off selling the stock, or lowest performing mutual funds first?_END_OF_POST_PYSTOCK_ Is dollar cost averaging doable with regular stocks instead of mutual funds? Everything I see about dollar cost averaging involves mutual funds. I see nothing about doing it for a regular stock by itself. I don't understand why everyone only does it with mutual funds other than fact that no-load mutual funds offer 0 commission fees but Charles Schwab does not have commission fees anyways. I cant find a good reason anywhere as to why it would not work with a regular company stock. I am very new to investing so this probably has an obvious answer_END_OF_POST_PYSTOCK_ Any ideas on how to short SIGL? For the past 5 years, SIGL has never once broken $0.65, and right now it sits at $7.19.  Most people agree it's because Elon Musk made a reference to Signal, a secure messaging app that is not publicly traded, and people mistook it for SIGL, an unrelated company.
+
+Unfortunately it appears that SIGL is too small for the options market.  Is there another strategy for securing a short position?_END_OF_POST_PYSTOCK_ Profit Reaping/ Loss limiting strategy Thoughts from others please...  thinking about investing in EtFs and setting parameters to sell when 10% gain/loss is reached, then go reinvest in same or something else if gain, entirely different area of loss.   Other than transaction costs and short term capital gains tax, what are other things to consider?_END_OF_POST_PYSTOCK_ Comparing Mutual Fund Holdings As I'm looking at some of my mutual fund holding I know that many of them are heavily weighted in a couple of stocks. For example, all US domestic funds I own seem to be holding FAANG and a few other names we see daily in the financial news. Not that this is necessarily bad but certainly represents less diversity than one would assume without research.
+
+I'm wondering if there is a tool that would allow me to plug in the mutual funds I have across my accounts to review holding value in a specific stock.
+
+I primarily want to use this to make an investment decision that I may make in individual stocks that I also trade or hold._END_OF_POST_PYSTOCK_ Thoughts on the market? The first week of 2021 seen us hit another set of highs while the economy and job market suffers. It seems as if the stock market is no longer connected to the environment it operates in. Do you guys see a correction soon or will the highs set to continue?_END_OF_POST_PYSTOCK_ Sure, "time in the market...", but what about "be fearful when others are greedy"? Isn't [what we're seeing now](https://twitter.com/MeekMill/status/1347577344609955842) both a great example of widespread greed *and* the [shoeshine boy story](https://archive.fortune.com/magazines/fortune/fortune_archive/1996/04/15/211503/index.htm) brought to life?
+
+At what point do you follow "be fearful when others are greedy" over "time in the market"?_END_OF_POST_PYSTOCK_ Lithium Americas [LAC] Thacker Pass Project Approval 1/15 FYI Thacker Pass is the largest lithium mining deposit in the US. Coincidentally, it’s right next to the Tesla Gigafactory.
+
+
+https://www.equities.com/news/trump-administration-to-loosen-mining-regulations-approve-new-projects-in-final-days
+
+“Trump officials are also on the verge of approving several mining projects, or significantly advancing their regulatory review process.
+
+One of those, the Lithium Americas Thacker Pass project in Nevada, is expected to be approved on Jan. 15, according to an official at the Bureau of Land Management.
+
+‘It’s been a good, collaborative process with state and federal authorities. We look forward to the decision,’ said Jon Evans, chief executive of Lithium Americas, which has been developing the project for more than a decade. Lithium is a key component of electric vehicle batteries.”
+
+This is good news, right?!?_END_OF_POST_PYSTOCK_ Renesola (Sol) worth investing? Clean energy seems to be a good investment into 2021. Renesola seems to be In a good position, which is why I’m considering investing in it. Nio offers are different but I’m also looking for a dip to invest in it as well. 
+
+Will you guys consider Renesola to be solid for long/short term investment?
+
+Also what would guys consider to have a higher room for growth  SOL, NIO or possibly ICLN at this current time?
+
+Of course no one here is a fortune teller, but I would love to hear different perspectives before committing. Thank you for your time!_END_OF_POST_PYSTOCK_ Capital Gains Question I’m asking this here because I don’t know enough about investing and I know someone here is much more knowledgeable about this than me . I currently have about 50,000$ able to invest currently and I’m looking to invest all of it into VTI and VOO vanguard ETF’s. The average monthly percentage increase for these ETF’s is about 3-4 percent of both of those which would be about 2000$ a month . My question is why can’t I pull that 2000$ a month for living expenses , rent , food , etc. I understand that there is capital gains tax but I don’t understand how it works and when I would have to pay it . I also understand that the monthly gains won’t be 3-4 percent every month . Could someone explain to me why this wouldn’t be a good idea . 
+
+Thanks in advance._END_OF_POST_PYSTOCK_ Equity value and Adjusted Equity value differences Hi All,
+
+As I wrote in below posts I am creating a DCF Model on Excel.
+
+I am analyzing American Express, and since it is a financial institution the simple DCF Model is not suitable. Some people on this website suggested to me to use instead of FCF the FCFE (found using FCF-Net debt of the last year analyzed (2019)).
+
+Online I found a website that suggest to add cash and other investment to the equity value of the company in order to find and use the Adjusted value of equity...
+
+Could someone explain to me why is better to use the adjusted one? And what's are the differences?
+
+Thank you so much_END_OF_POST_PYSTOCK_ Earnings Calender Integration Guys is there any (and if multiple, the best) way to add future earnings dates of companies/stocks of my choice to my Google Calender. And if it's not possible to select companies to add, even an overall earnings calendar integrated into my google calendar can be really helpful. Perhaps from [investing.com](https://investing.com) or Yahoo Finance. Basically looking for a more streamlined way to check earnings calenders, all the ones I've previously found have been quite cluttered and would love a way to somehow integrate it into the work calendar I already use. I found previous old articles explaining the process to do it directly from Google Finance but Google Finance has since changes its interface and I don't think it is possible anymore.
+
+Cheers and TIA._END_OF_POST_PYSTOCK_ Question for self employed people (1099) Since we don’t have to pay our taxes as we get paid, we have an advantage in that we have the opportunity to invest the money we will be paying our taxes with. This year I am looking to buy calls and shares in ARKK, ARKF, ARKG, LIT, ICLN, REML, and maybe some travel sector such as CCL AND SAVE. 
+
+I don’t care about the risk of loosing money because I just don’t see it happening, however I am prepared for the risk so don’t worry about grilling me there. Does anyone else do this? How has it worked for you.
+
+Edit: I’ll look into tax situation. I see that I have some misconceptions as 2021 will be my first full year as being self employed. Regardless I’ll at least be able to invest what I owe quarterly. I look at it like this, if I owe $3000 quarterly and can trade and make 100% return in that period it is a major win._END_OF_POST_PYSTOCK_ Warren Buffett, as always, looks like the smartest guy in the room. If you've paid any attention to the financial news over the last 2 years, you've seen the questions and critiques about Warren Buffett's cash position. In almost every interview he's asked why is he stacking cash or why Berkshire isn't outperforming the S&P 500. The majority of questions aren't as brazen, but rewatch some of his interviews and you'll see that 1 or 2 questions along those lines comes up.
+
+Take this article by CNBC from November of last year:
+
+Being in the enviable position of having that much cash to spend seems unenviable at the moment, as far as Berkshire shareholders, and maybe even Buffett, are concerned. Buffett’s company is currently on pace for its worst annual stock performance since 2009.
+
+“He pinned himself into a corner a few years ago, saying I can’t have $150 billion in cash in three to four years and say that’s alright,” said Greggory Warren, a Morningstar analyst who covers Berkshire Hathaway.
+
+Underperformance versus the index, deals that have not worked out well, such as Kraft Heinz (thought it showed signs of life in its most recent earnings), and increasing willingness on Buffett’s part to consider share buybacks, all point to the the importance of moving that cash into investments that generate a return."
+
+https://www.cnbc.com/2019/11/01/even-obvious-way-for-buffett-to-solve-big-cash-problem-is-a-puzzle.html
+
+I can spend all day finding each and every article from the past 2-3 years but you understand my point.
+
+As stocks soared to all time highs, people wondered just as they did during the tech boom whether Buffett had lost his touch. Now Buffett is sitting on a 125+ Billion dollar mountain of cash just biding his time. He's poised more favorably than he could ever ask for, and prices are just getting more reasonable by the day.
+
+TLDR: When you see Buffett stacking cash, he's not an idiot. He's waiting for prices to become reasonable again, which only happens after a significant market decline.
+
+I'm not saying he's an oracle, but he's rarely wrong. If history is any indicator, Berkshire is going to reap some mighty rewards._END_OF_POST_PYSTOCK_ Why not leveraged market tracking index funds? If the broader market tracking index funds like SPY or VOO generally grow over time, why don't people  invest as much in leveraged ETFs like say the UDOW that would add to that growth more significantly over time? I was planning on diverting my money to a basic index fund and was thinking why not just put most of that in a leveraged index fund if I can absorb the greater losses and look at it over a long-term scenario?_END_OF_POST_PYSTOCK_ Are we entering a reflation period?? Earnings Yield (S&P500) Vs US10Y narrows to 230 bps. Multi year low.. Hi Reddit Investing community. 
+
+Some of the analysis coming out of Bloomberg suggest we are entering a reflation trade based on a steepening of the yield curve - US10Y rising above 1% on back of the Democratic election outcome. With this the 5Y5Y are rising - rising inflation expectations too. With some reports suggesting that as the gap between earnings yield (S&P 500) and bond yields (US10Y) continues to narrow it could put pressure on some of the expensive stocks. 
+
+I'm yet to be convinced because 1) sharpest contraction in history, 2) damage c-19 has done will take years, if not decades to fix - some jobs might be lost forever and retraining those people into different industries will take time. Hence actual GDP and potential GDP gap has widened. 3) pent up demand is not same as 'sustainable growth' - right? We might get a boost initially but things will fade away?
+
+Let me know what you think??_END_OF_POST_PYSTOCK_ Pent Up Demand: Debunking the Narrative (long post using data) We've heard countless times that there is going to be an immense wave of pent up demand that is going to cause a boom in the economy once we are fully vaccinated. I try to keep an eye on economic data reports that come through because if you know how to read them, they can provide a lot of insight that can cut through popular narratives.
+
+Recently, I've been noticing more and more data points that lead me to doubt the idea that we are going to see an immense wave of consumer demand leading to a new surge in the economy. That is 100% subject to change, so I'm just going off what I am seeing ***right now.*** These things are dynamic, and changes in policy and income (aka stimulus or mass-rehiring of workers) can completely affect consumer's ability to spend... at least for a period of time.
+
+[Courtesy of the IRS](https://www.irs.gov/newsroom/treasury-irs-deliver-89-point-5-million-economic-impact-payments-in-first-three-weeks-release-state-by-state-economic-impact-payment-figures), after the first stimulus check was sent, a total of $160.4 billion went to 89.5 million individuals. so how was this used? And what may this indicate for current and future demand?
+
+**So... Analyzing the Data...**
+
+# Personal Savings Rate Does Not Equate To Consumer Demand
+
+To start, it's important to understand the savings rate at both a personal level and a macro level.
+
+Lets take a minute to understand how the savings rate is generally defined (on a personal level).
+
+>A savings rate is the amount of money, expressed as a percentage or ratio, that a person deducts from his disposable personal income to set aside as a nest egg or for retirement.
+
+On an individual level, the most important thing to note here is that investing = savings. And in general, people don't tend to spend their investments in the near future, so savings that get allocated towards longer term investments typically will ***not*** count towards "pent up demand". For the individuals who choose to invest their money, they typically do so with the understanding that they do not have any needs or demands they can anticipate in the near future, and instead choose to save for the future via investment. This goes counter to the idea that savings are a precursor to spending. 
+
+On a macro level, when taken as a cross-section of a country as a whole, savings rates reflect aggregate savings, but this is highly skewed to the extremely wealthy. Savings rate naturally skews towards a wealthier subset of any society because lower income individuals need to spend $ on day-to-day items just to stay above water, whereas the wealthy have an excess of income relative to their individual demands, which means they tend to invest the excess $ since they only have so much they can spend it on (unless you're a baller who *needs* that 5th Yacht from their WSB calls).
+
+For example, read this excerpt from a study done on stimulus spending ([https://insight.kellogg.northwestern.edu/article/stimulus-checks-spending-data-2020-coronavirus-covid](https://insight.kellogg.northwestern.edu/article/stimulus-checks-spending-data-2020-coronavirus-covid))
+
+>Those in the lowest income group, who earned less than $1,000 per month, spent about 40 percent of the checks in the first ten days. That was twice as much as the highest income group (those making over $5,000 a month), who spent closer to 20 percent in that brief period. 
+
+**\*\*Key Takeaways on Savings Rate\*\***
+
+1. Savings rate tends to reflect investment more than cash saved for future discretionary needs.
+2. Savings rate skews towards wealthy individuals who generally do not account for a meaningful amount of consumer demand relative to their overall savings.
+3. In other words, higher savings is not by itself a good barometer for gauging pent-up demand.
+
+# Consumer Spending & Income In the Pandemic
+
+First off, [**lets take a look at real personal spending and real personal income**](https://fred.stlouisfed.org/graph/fredgraph.png?g=zGMK) *^((please do click the link to see the chart)**)*. We can all see the gigantic surge in income (via stimulus) and drop in spending (via lockdowns) that occurred in April 2020. This is the primary item that lead most to believe the idea that we'll have a surge of consumer spending once we're away from the pandemic via pent-up demand. It makes total sense, especially with the context of lockdowns which literally prevented people from spending their money on what they were originally planning to.
+
+From the federal reserve, here is a breakdown of how stimulus money was spent (from October). Read more at [https://libertystreeteconomics.newyorkfed.org/2020/10/how-have-households-used-their-stimulus-payments-and-how-would-they-spend-the-next.html](https://libertystreeteconomics.newyorkfed.org/2020/10/how-have-households-used-their-stimulus-payments-and-how-would-they-spend-the-next.html)
+
+&#x200B;
+
+||Average percent saved|Average percent spent on essentials|Average percent spent on non-essentials|Average percent donated|Average percent used to pay down debt|
+|:-|:-|:-|:-|:-|:-|
+|Percentage of total|36.4%|18.2%|7.7%|3.2%|34.5%|
+|$ value based on IRS 160 billion sent| 58.24 billion|29.1 billion|12.3 billion|5.1 billion|55.2 billion|
+
+My general theory is that the majority of that pent up demand has already been worn off, or was simply allocated elsewhere, and this money is not likely to cause an excessive surge in consumer spending when we're all vaccinated.
+
+Looking at the above table, lets consider how much of this $ could potentially represent savings that are waiting to be used as pent up demand vs. savings as investments. In all likelihood, there is a fraction of that 58.24 billion waiting to be spent upon reopening. The majority of it is likely going to be stuck in investments or kept in savings.
+
+On investment - note the below data point relative to the 89.5 million stimulus checks sent out. A huge portion of new trading accounts were opened relative to the amount of stimulus accounts sent - and that only represents one month, ignores those who already had trading accounts, and ignores the people who were not able to save $ from their stimulus check.
+
+>At E\*Trade Financial Corp. , investors opened roughly 260,500 retail accounts just in March, more than any full year on record. Newer rival Robinhood Markets Inc., maker of a wildly popular trading app, logged a record three million new accounts in the first quarter.
+
+Unfortunately, I can't dig up more precise data on how much of people's savings went to buying stocks and other financial products vs. being stashed in bank accounts for later use. With that said, clearly a shit ton of "savings" is what propped up markets in 2020 and caused the wild disparities in valuation of the financial markets vs. the real economy. 
+
+**\*\*Key Takeaways On Consumer Spending From Stimulus\*\***
+
+* Of the money from stimulus, the majority of excess savings was not saved for later use for when the pandemic is over.
+* Most of the excess savings rotated into investments, paying down debts, and "keeping the lights on". 
+* While there may be some excess $ saved for the pandemic being over, the wide majority of the excess money earned during covid lockdowns will not be used on pent up demand spending. 
+
+**The Great Consumer Spending Rotation of 2020**
+
+When consumers realized they couldn't go on their vacations or meet up with their friends at the local pub, they decided to spend their income in other ways instead of just stashing it in a bank account and letting it sit there to be later use for 2021's vacation or restaurant trips.
+
+Just like a sector rotation in the stock market, I think we got a gigantic sector rotation in consumer spending habits that will likely reverse a bit when the pandemic is over. Here is the evidence.
+
+To be 100% clear, I DO think there ***was*** pent up demand after the big lockdown, but the portion of the savings glut that was ***not*** allocated towards investments for the most part did not get saved for later use in 2021. It just got repurposed and spent on other items. Lets take a look under the hood at some of the data of this rotation. To start - [take a look at real personal consumption expenditures](https://fred.stlouisfed.org/series/PCEC96) as a baseline.  
+
+
+* [**Durable Goods Saw a Huge Surge in the Summer**](https://fred.stlouisfed.org/series/PCEDG)**:** This is part of why I say that there 100% was a lot of pent-up demand, but it simply has already been utilized. Relative to overall personal expenditures, people spent a ton of money on goods. Notably, this was dominated by auto purchases and other big purchases of physical items.
+   * [**Purchases of Food are Way Up:**](https://fred.stlouisfed.org/series/DFXARC1M027SBEA) I'm assuming restaurant visits do not count under this statistic, so this would explain a rotation from $ spent at restaurants to $ spent buying groceries instead. Basically a simple rotation / distortion that should eventually revert towards the baseline.
+   * [**Furniture & Home Improvement Products Surged Enormously:**](https://fred.stlouisfed.org/series/DHLCRC1Q027SBEA) Being in lockdown, people bought tons of new items for home-improvement due to spending more time in their homes. 
+   * [**Auto Purchases Went Through the Roof:**](https://fred.stlouisfed.org/series/DMOTRC1Q027SBEA) As mentioned, a lot of people used their stimulus $ to buy big ticket goods (homes, autos, etc). This was also encouraged strongly by lower interest rates.
+* [**Meanwhile, Services Lagged**](https://fred.stlouisfed.org/series/ND000350Q)**:** This shouldn't be too surprising since a lot of services account for the leisure sector of the economy that was hit hardest by lockdowns and continues to be affected.
+   * [**Healthcare Services are Down Overall:**](https://fred.stlouisfed.org/series/DHLCRC1Q027SBEA) Covid scared a lot of people away from getting medical care, so a lot of people stopped getting non-mandatory healthcare. Also, for a while, hospitals suspended non-essential services, preventing a lot of healthcare from being administered.
+   * [**Recreation Services Fell off a Cliff:**](https://fred.stlouisfed.org/series/DRCARC1Q027SBEA) Probably not a huge surprise here similar to restaurants.
+   * [**Food Service Got Hammered:**](https://fred.stlouisfed.org/series/DFSARC1Q027SBEA) This is probably the least surprising item on here for most people. Basically, restaurants got killed. 
+
+To be honest, most of this is pretty obvious. Many people have been aware that there were these huge shifts in consumer behavior, but despite this, I still see a ton of linear extrapolation of these trends into the distant future. There are some strong implications and considerations that need to be taken from this rotation with regard to the pent up demand narrative. 
+
+**\*\*For all the items that we have been anticipating pent-up demand, we also need to consider the whiplash effects from the other types of goods that saw excess demand pulled forward.\*\***
+
+* Most of the services that got killed during 2020 are not the type of goods that you would anticipate tons of excess demand coming out in 2021. 
+   * For example, if you didn't go on a vacation in 2020 due to Covid, that doesn't mean you're likely to take an extra vacation in 2021. 
+   * The full-year of avoiding restaurants may have a modest impact in people wanting to get out in 2021, but I don't think the rebound will make up for all the $ lost by any means. 
+   * People are not likely going to be going to ***excess*** sporting events, movies, or amusement parks in 2021 simply because they didn't go to these events in 2020. More likely, we'll just return close to the baseline of where we were previously.
+   * Healthcare services likely ***will*** see a surge in pent-up demand due to the necessity of healthcare overall. 
+* **Durable Goods Purchases Likely Brought Forward Future Demand.**
+   * If you're one of the many people who bought a car during 2020, odds are, you aren't going to purchase another car in 2021. This is a big deal to be honest - the amount of autos purchased far exceeded the well-discussed cash for clunkers program that was popular after the 08' financial crisis.
+   * While it's harder to say where demand will or won't be on this, I would take a guess that home-improvement type items will drop back to the baseline level or perhaps go even lower. This will show up as a big drop due to base effects year over year.
+   * Groceries and food purchases will likely start to rotate back towards being spent on the food service category.
+
+**\*\*Key Takeaways From the Great Consumer Rotation\*\***
+
+* There will likely be a slight amount of pent-up demand that comes out upon opening up, but just like when lockdowns began, there will likely be quite a few losers as a result of this in addition to the winners.
+* Pay attention to base effects and whether demand is likely to be carried forward. At least, if you're looking at earnings an profitability to determine the direction of a company, this is a good way to get a decent read on sector allocation. 
+* If you're staying super-long in one of the lockdown winner stocks that shot up 5x in the past year, I would take some serious consideration into at least rebalancing and not allowing your risk exposure to be stuck entirely in a sector that is going to have impossible earnings comps to beat.
+
+# Putting it All Together + Looking to The Future
+
+**So what are the actionable takeaways here? (Just sharing some of my personal opinions - take them FWIW**
+
+1. I don't really think that the idea of pent-up demand is going to be nearly as strong as some think, and in some instances, it will be the opposite since we're looking at excess demand pulled forward via stimulus and consumer rotation. This is 100% subject to change via new stimulus measures however. Regardless, as an example, I wouldn't want to be invested in the auto sector as we come further into 2020, especially the legacy automakers who can't see their stock rise simply off of narrative. On the other hand, there may be value looking into things like healthcare services.
+2. We did have a shit ton of excess savings, especially in the spring and summer of 2020. But most of those savings were either used, or went into paying down debt or investing in the future. While these are all good, none of these things indicate the idea that consumers have a glut of $ they're waiting to spend on post-covid consumption. I think there will be some savings & pent up demand, and people surely will want to spend money on the things they couldn't do in 2020. But I'm not sure if it would exceed the long term baseline levels and I think it'll only occur in select sectors.
+3. We are looking at some of the biggest economic whiplashes we've ever seen in markets as base effects come into play. The post-covid base-effect whiplashes likely won't be as big as the initial shocks, but I personally think they are going to catch many by surprise - especially because they aren't all going to be positive. Most of this likely won't start to become apparent until the 2nd half of 2021. The question is whether investors will care about these with such a stark detachment from having a care about present earnings right now.
+4. If people were hypothetically going to use a lot of that 36% chunk of savings from the past stimulus for consumption in 2021, they would likely have to liquidate a lot of $ from equity holdings. So any thought of the idea that making use of that big chunk of savings is going to be positive for equity markets may not be so sound. It all hinges on the misconceived notion that the savings rate is all just money people have sitting in bank accounts waiting to be spent. The reality is, most of that huge savings rate glut is the very thing that propped markets up throughout 2020. Remove that and markets probably start to deflate a bit.
+5. We are likely going to see more stimulus in the future with a dem majority now. While a lot of people don't like to talk politics on here (understandably), we're in a time where politics matter more than almost any other time to markets since ww2. More stimulus will possibly keep a lot of the effects going we've seen this year, although there IS a limit to this. The question of how that $ goes to consumers matters a lot - especially for markets. For example, continuing stimulus check spending will affect markets and the economy far differently than investing in a major infrastructure renewal program. 
+6. There still is no free lunch in markets, even if it may seem like it right now. Stimulus was 100% necessary, and will likely continue to be necessary to try to come out of the hole we're all in. With that said, if inflation rises and yields don't, inflation itself will cause a lot of problems in the economy. On the other hand, if yields rise higher than inflation itself, that will cause direct financial tightening. This is the main constraint on the ability to keep stimulating, and inflation doesn't necessarily need to go that high to cause problems in the economy. Remember that in 2018, interest rates at 3% forced the fed to lower their rates due to markets starting to throw fits and threatening recession, and that was a much less indebted and much healthier economy. The more indebted an economy is, the less it can tolerate increases in inflation before causing things to break (and subsequently reverting back to deflation). This is especially true when facing cost-push inflation which we are more likely to see vs. demand pull inflation.
+7. So long as stimulus and market support is on the table, I would expect volatile markets that can keep going up. There is a feedback loop in this belief structure that can keep markets going higher and provide a floor on selloffs. With that said, what I mention in point 6 is what will cause the clock to eventually strike midnight in my opinion, and markets ***may*** start to price this in somewhat in advance (whenever that is). With the new year just starting, I would suggest people take stock of their risk tolerance, goals, and time frame just to be aware of how they're positioned. Either way, I would personally expect intense periods of volatility both up and down followed by quiet grinding higher, frustrating people who are bearish.
+8. Looking through consumer spending data, we've more or less come back to the base already, which makes sense when looking at income and savings levels also going back to the baseline. Some of this of course is a result of the winter Covid surge. With that said, I do not think $600 stimulus checks are going to be enough to make a huge dent in consumer spending unlike previous stimulus packages, but they should at least help keep some of the lights on. 
+
+Thanks for reading if you made it this far - this took a while to put together, but I  at least had a good bit of the information in here already saved. I'll probably be slow to respond to this thread over the next day or two._END_OF_POST_PYSTOCK_ QuantumScape vs. Volkswagen - Valuation of subsidiaries or large intercorporate investments Hi everyone,
+
+in the light of the fast rise and fall of the QuantumScape stock (Battery Technology Start-Up) I would like to give some food for thought regarding the valuation of subsidiaries or large intercorporate investments.
+
+Volkswagen for example has a 20% stake in QuantumScape. Furthermore, Volkswagen has a Joint-Venture with QuantumScape. If the research of QuantumScape is successful and their battery technology is superior compared to the state of the art, then the Joint-Venture enables Volkswagen to be the first car comapny to utilize this superior technology via a 20 GWh facility according to the Joint-Venture agreement. This woul be positive for Volkswagen additional to the 20% stake in QuantumScape.
+
+The share price of the QuantumScape stock is directly correlated to the investors opinion about how promising the QuantumScape technology is (assuming rational actors). Logic would therefore suggest that if the share price of QuantumScape rises, then, ceteris paribus, the share price of Volkswagen should also rise.
+
+However, this has not happened. While the QuantumScape stock quadrupled, the Volkswagen stock remained fairly flat and Volkswagen also had no major news during the last few weeks so the ceteris paribus assumption is at least somewhat correct:
+
+[https://imgur.com/a/C5hPzfP](https://imgur.com/a/C5hPzfP)  
+
+
+This discrepancy would suggest that either QuantumScape was overvalued or Volkswagen was undervalued. However, the more interesting thought is that if a person was investing in QuantumScape because the person believed in the technology and their research, then the person should also have bought Volkswagen. This has not happened, which suggests that most of the investors which drove the stock higher were momentum or meme-investors and not investors which were grounded in fundamentals. Currently people often try to justify their investments with adventurous DCF models or TAM assumptions (so you tell me there is a chance ...) but in the end the current market definitely seems to be a momentum or meme market.
+
+Another potential arbitrage oppurtunity might exist in the combo: T-Mobile US vs. Deutsche Telekom. Deutsche Telekom is the parent company of T-Mobile US and has a 43.51% stake and 60.69% of the voting rights. While the T-Mobile US stock has risen substantially, the Deutsche Telekom stock remained fairly flat. However, this happened over a longer time period, so it could simply be that the investors value the non-US business of Deutsche Telekom lower than two years ago.
+
+Do you know of other such arbitrage opportunities? What are your thoughts? Regardless of the above-mentioned, I find Volkswagen and T-Mobile US/Deutsche Telekom very interesting as an investment._END_OF_POST_PYSTOCK_ Why Invest in Commodities? Hey guys, I was looking at Ray Dalio's all weather portfolio and I noticed that he has a portion of his portfolio that goes in to commodities. Since 2008, the price of commodities has absolutely crashed. I get that investing in commodities is supposed to guard against inflation, but in this case, did it?
+
+Furthermore, why invest in commodities at all? Why not invest in companies that produce the commodities. E.g. at the end of the day you can get exposure to oil by investing in Exxon. If you want gold exposure you can invest in Kirkland Lake gold, etc. If the price of the commodity is going to go up, presumably, so it the value of the company since that's what they produce.
+
+So, what's the point of commodities?_END_OF_POST_PYSTOCK_ Was posed this question in an interview - interested to hear more thoughts With TSLA at ATH and Elon Musk passing Jeff Bezos to become the wealthiest person in the world, why have other iconic automakers such as Ford been left behind? How/why was Tesla able to beat them in the electric space and what lessons can they take from TSLA's meteoric rise?_END_OF_POST_PYSTOCK_ My Watchlist For 1/11/2021 \*I use the 180D/4H Chart. The indicators I use is the RSI, Stochastic, Vortex, and 10-50-200EMA Lines.\*
+
+&#x200B;
+
+$ADC - Beautiful triangle and channel here. Higher lows as well which I love. Easy 5% play here at least. RSI is fair, but Stoch is low and Vortex is almost crossing.
+
+&#x200B;
+
+$AEP - Beautiful area of value here. 77$ is the best possible buy in though. All indicators say there will be a reversal soon.
+
+&#x200B;
+
+$BYND - Great channel play here, and a great value. Indicators say a reversal is coming but possibly a day or two out still.
+
+&#x200B;
+
+$COR - Great channel play, just showed some confirmation and now having first pullback. All indicators mean they have plenty of room to run still.
+
+&#x200B;
+
+$EBR - Beautiful ascending triangle here. In channel of value and RSI is fair. Stoch indicates pullback coming, and Vortex is very low.
+
+&#x200B;
+
+$ED - Great value, almost can't get better. Easy 10% for a full move here. Indicators show it should reverse and then small pullback.
+
+&#x200B;
+
+$FGEN - Great area of value as well. Small pullback but should go up from here. Indicators are fair at best, but price action is beautiful.
+
+&#x200B;
+
+$MDC - Great uptrend as well here. Small pullback with plenty of room to run here. At support as well. Indicators show reversal is coming.
+
+&#x200B;
+
+$MUX - Great small channel here, and up trending. Plenty of room to run up as well. Stoch and Vortex looks like a great reversal coming.
+
+&#x200B;
+
+$PTGX - Just hit channel and now up trending. May have a small pullback, then take off again. This is a great area of value and indicators are fair right now.
+
+&#x200B;
+
+$WDAY - Great channel up here, and just broke 200EMA. Indicators are fair but it is technically up trending so that makes sense._END_OF_POST_PYSTOCK_ Thoughts on an income mutual fund for secondary savings (after emergency fund is established)? It’s pretty clear that your emergency fund should be created first, stored in HYSA, MMA etc. But after that it gets hazy. Sure, long term investments can go into various index funds, individual stocks and what not. But what about the medium term, 2-5 year timeframe. 
+
+Income funds like SWLRX, FASIX, and VASIX seem like solid options. You will have the tax liability like you would with HYSA interest. You also have the chance for higher returns than current HYSA (something something past returns don’t guarantee future results). 
+
+For instance, SWLRX’s TTM is 2.07%, even with interest rates being nil the past ~10 months. Downside capture is only 18 and max drawdown is just north of 3.5%. 
+
+Thoughts?_END_OF_POST_PYSTOCK_ Sanity check on Z Correct me if I am wrong -
+
+Biden has talked about up to 15% first time home buyer credit.  In 2009, it was a set 8K. I think the 15% will create home demand. Here is where it gets interesting . 
+
+This time credit can be used when you purchase the house.  
+
+
+So two things - if someone you know is first time home buyer, now is the time.  The housing market was on fire, this is nuclear ☢️. Prices from 2009 have not recovered although everyone talks about bubble. This will just be a start of a new bubble unlike other 
+
+Second - buy Zillow.  The end!!_END_OF_POST_PYSTOCK_ Victoria's Secret parent L Brands offers upbeat EPS guidance after holiday sales beat its expectations [https://www.marketwatch.com/story/victorias-secret-parent-l-brands-offers-upbeat-eps-guidance-after-holiday-sales-beat-its-expectations-2021-01-07](https://www.marketwatch.com/story/victorias-secret-parent-l-brands-offers-upbeat-eps-guidance-after-holiday-sales-beat-its-expectations-2021-01-07)_END_OF_POST_PYSTOCK_ Thinking of investing all my capital into aapl I have 11 k and it is a pretty safe investment with good growth prospects over the long term. This is a hold and forget about for 5-10 years easily. What do we think? Would love the input from this community, and I think this has the potential to triple my money over the longer term timeline and eventually once I sell my position of PLTR and am able to break even i will be able to buy 100 shares and sell covered calls. AAPL is a fairly safe investment long term as well_END_OF_POST_PYSTOCK_ Tesla free cash flow - why does ARK predict a LOWER FCF yield number in their BULL case? 🤔 When reading ARK Invest's research paper on Tesla they also mention "free cash flow yield" with a 7,3% FCF yield in their bear case however with only a 4,9% FCF yield in their bull case.
+
+My question: why do they have a LOWER FCF yield number in their BULL case? Shouldn't it be the other way around as a higher free cash flow is normally considered to be better for a healthy company?
+
+Here the ARK research paper: [https://ark-invest.com/articles/analyst-research/tesla-price-target/](https://ark-invest.com/articles/analyst-research/tesla-price-target/) Just search for "free cash flow" in the article and you will find those numbers.
+
+For those who don't understand FCF yield: [https://www.investopedia.com/terms/f/freecashflowyield.asp](https://www.investopedia.com/terms/f/freecashflowyield.asp)_END_OF_POST_PYSTOCK_ Anyone else's alarm bells going off with China's future leverage over green industry? I'll just throw a few small statistics at you first
+
+China has the highest reserves of rare earth metals, 44 MT twice as the next country Brazil in [2019](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-reserves-country/#:~:text=%20Top%20Rare%20Earth%20Reserves%20by%20Country%20,but%20its%20reserves%20are%20lower%20at...%20More%20), largest producer of [Cadmium](https://mcgroup.co.uk/researches/cadmium), and the [edit: fourth] most reserves in [Lithium
+](https://investingnews.com/daily/resource-investing/battery-metals-investing/lithium-investing/lithium-reserves-country/#:~:text=1%20Chile.%20Chile%20was%20the%20second-biggest%20producer%20of,of%20reserves.%203%20Argentina.%20...%204%20China.%20)
+
+>"It is found that the maximum annual copper and silver demand up to 2050 equals 79.6% and 58.5% of China’s annual production in 2019. Similarly, the baseline scenario projects maximum annual demand of Tellurium and Indium corresponding to 598.1% and 161.8% of China’s annual production in 2019"
+
+https://www.sciencedirect.com/science/article/abs/pii/S0306261920315580
+
+We can see they dominate the materials market needed for solar, batteries and even wind (neodymium for the turbine generator).
+
+They also dominate the manufacturing of solar panels in the world
+
+https://en.wikipedia.org/wiki/List_of_photovoltaics_companies
+
+So with all this in mind, what implications could this have in the future growth potentials and volatility?_END_OF_POST_PYSTOCK_ Correlation between the VIX and S&P500 volume Hi all, I want to analyse the correlation between the VIX and the volume traded on the S&P500. My initial observations are that they are more closely related than the price of S&P500 price and the VIX (the correlations seem to be changing over time, whereas volume seems to be more consistent over time). Has anyone had a deeper look at this? Any tips on where I can find data for the two data ranges?_END_OF_POST_PYSTOCK_ Turbo Long (Tesla & Nio) Hello, I’m have already one year stocks in Nio and Tesla, but I want to obtain extra profit. Does someone can give me good advice with Turbo/ Sprinter/ Speeder Long? Like which bank is the best and with the lowest costs, I was thinking about Goldman Sachs? Tips and pitfalls welcome!
+
+Thanks in advance!
+Henri_END_OF_POST_PYSTOCK_ Nasdaq: TOPS- the price history for this stock has stumped me for years. It’s gone from millions per share to pennies. I’m not much of a fundamental analyst, so I don’t have answers. 
+
+Can someone explain the price history of this stock? Price was $518M per share in 2016, over the years has dropped to as low as pennies per share, currently at $1.42. At one point a few years back, I took a position and held for a bit with no gains, dumped it, and saw it double within days. 
+
+Is this worth taking a position today?_END_OF_POST_PYSTOCK_ What proportion of public companies have negative lifetime IRRs? Say I buy $10000 of shares in a random company at IPO and hold for 50 years or until bankruptcy, historically, how likely am I like to have been paid at least $10000 in dividends?
+
+Let’s limit ourselves to companies with market caps at IPO of at least $100m._END_OF_POST_PYSTOCK_ If currently hype and sentiment is driving price, will monitoring sentiment also help in predicting a downturn? Ive seen a lot of posts lately that we are in a stock market bubble, or at least that some sectors are overvalued. On the other hand some (strong) arguments we are not ([https://www.reddit.com/r/investing/comments/kpeffw/reasons\_we\_may\_not\_be\_in\_a\_bubble/](https://www.reddit.com/r/investing/comments/kpeffw/reasons_we_may_not_be_in_a_bubble/)). 
+
+Recently ive also been intrigued by Shillers Narrative economics (nice article here: [https://www.ft.com/content/5ba0adf6-ec3c-11e9-85f4-d00e5018f061](https://www.ft.com/content/5ba0adf6-ec3c-11e9-85f4-d00e5018f061)) and how narratives move prices. If this has some validity to it then monitoring sentiment could be interesting in helping to see which narrative is gaining momentum. Now Ive also found a webpage that monitors narratives (for example it shows amount of "bubble" related topics on financial websites ([https://www.alternative-analytics.eu/dashboard/narratives\_report.html](https://www.alternative-analytics.eu/dashboard/narratives_report.html)) which is helpful to monitor how certain narratives in financial markets evolve. There is also the fear and greed index ([https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)) but this isnt that topic specfic.
+
+Anyhow, long story short, how do you stand against a narrative driving price and are you using any (quantitative) sentiment indicators to get a feel for the market?_END_OF_POST_PYSTOCK_ Q1/Q2 predictions? So i know everyone’s tired of the bull/bear/bubble discussion, so I’d like to be a little more specific. What are your predictions for the market, individual sectors, or even individual stocks/assets during Q1/Q2 of this year?  
+
+Good/bad/flat/market/main street/economy/whatever, but it’s gotta be in first 6 months of 2021. 
+
+I’m curious as to how the investing sentiments with everyone actually break down into investment strategies and positioning for the short-term now that we’re a weekish into it. 
+
+Happy investing. May the gains be with you_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Is buying one stock of tesla a good idea? I’m pretty new to investing, and seeing how well tesla is doing nice been thinking of buying just one stock. That way, if it goes down I’ll lose a couple hundred bucks which isn’t too bad, but if it goes up multiple hundred percent I will make quite a bit of money. It’s just, a lot of people are saying it’s risky and it could go down any minute, but like it’s went up these last years sooo... maybe it’ll keep going up? My question is, is it  smart to buy a stock there?_END_OF_POST_PYSTOCK_ If crypto markets continue this pace we could likely see a major financial system collapse In case you haven't been watching.  Every shit coin with a ticker name is up +100% the past week.
+
+In the past 24hours coins like BTC, BCH, BSV, ETC, ETH, and essentially every other coin with a ticker is up +60% to 100% and on vertical launch trajectories still towards all time highs.
+
+Everyone is noticing and decisions are being made.  Billions of dollars has already left the markets to print new money in crypto.  If this run continues for another couple of weeks, expect much more wealth to depart and we can expect to see very anemic stock market behavior, the likes of which we already are seeing with the mid day sell-offs on green market days.   I also suspect the literal money printing of new wealth in crypto is going to have profound effects on the USD currency system.   Money entering crypto provides nothing tangible or reciprocal for the economic system as a whole - US Dollars go in and they don't come out.
+
+The recipe is a disaster as this gets more mainstream attention._END_OF_POST_PYSTOCK_ I cant seem to understand how options work Watched a couple youtube vids but can't seem to grasp it. Can someone give me an example say I want to by 1 contract of NIO options that expire Jan 2022. Where can I find what the prices are and how do I calculate when I'd be in the money and out of the money? Concrete example would help me understand this, and how ppl make or lose so much money through options._END_OF_POST_PYSTOCK_ How safe is $JSM? I hold some $JSM. There is a continuous talk of partial and/or full cancelation of the student debt in the US. How will it impact $JSM? Should I exit given the current plan to forgive student debt? Or will the hair cut will come from elsewhere?
+
+P.S. assume that student debt will be forgiven partially or fully._END_OF_POST_PYSTOCK_ Good Stock Screener Hi everyone. Since I'm a complete noobster in this discipline, I'm working through Steve Ballinger's Investing in Stocks the Complete Course on Udemy, and he starts using Yahoo Finance's Stock Screener, which seems to be the old version, which is much more powerful than the new one.
+
+Can anyone recommend me a good stock screener most similar to the old one by Yahoo Finance, preferably one that allows me to select categories such as "Large Blend" or "Large Growth" and one that has Performance Returns, Morningstar ratings and Total Expense Ratio selections?
+
+Thanks_END_OF_POST_PYSTOCK_ Cannabis ETF vs cannabis individual stock? I want to throw a grand into weed stocks for Biden federal legalization pump.. ETF or individual? I’m not going to pretend I know for sure what will happen, but I’m sure there will be some fomo/hype once real news breaks out about weed and law, I plan to just sell on a pump. Any thoughts or experience thanks_END_OF_POST_PYSTOCK_ clean energy stock I recently opened a vanguard account thinking about investing in clean energy ETF. However, I was not able to find any ETF/MF that had most of its holding in clean energy.
+
+Besides Tesla, which clean energy Stock/ETF/MF have you invested in or planning to invest in?_END_OF_POST_PYSTOCK_ Weed ETFs - MSOS vs MJ vs YOLO Im trying to decide between MSOS, YOLO and MJ  - ive looked at both and cant really get a grasp of picking one vs the other.
+
+&#x200B;
+
+I know MJ is more for CDN stocks - but now sure which way I should go with them
+
+Anyone can help shed some light on pros and cons of each would be much apprecaited_END_OF_POST_PYSTOCK_ Are these SPACs fine? I have been investing for a few months with some good returns, and recently started going in on some SPACs.
+
+PSTH (13%)
+IPOF (12%)
+*percentages are weights in my portfolio*
+
+I understand that the risk is that they can be shady and be bad investments once they do the thing, but the ones mentioned above are by people with decent reputations (Bill Ackman & Chamanth Palihapitiya)
+
+What are y’all thoughts on these specific SPACs?_END_OF_POST_PYSTOCK_ A Media Analysis from 2010-2013 on Stimulus, Debt, and Bubbles Since we're all talking about bubbles and debt, I took a look back to see how media sentiment played out following the Great Recession and the $2.8 trillion in stimulus. Below are linked screenshots of headlines and sentiments chronologically.
+
+Spoiler alert: By 2010 both S&P and TSX had gained significantly from their bottom but were still shy of pre-recession levels. In 2010 there was talk of overvaluation in certain sectors, but still positivity in the news. This continued until 2011, where the aforementioned Debt Crisis “hiccuped” the market. Fear and uncertainty persisted into 2012, but the market continued pushing forward. It is mainly in 2013 where we start to see more talk and certainty about bubbles. Contrast this to today, where the talk of bubbles has come not even one year post-bear market of Spring 2020.
+
+**2010: Bull vs. Bear**
+
+[2010 - America's Debt Crisis: 2.8 trillion](https://latecycle.files.wordpress.com/2021/01/6acf29fd-a3c5-4c51-acd3-8ef3f0004cc5.jpeg?w=668)
+
+[2010 - A Mid-Year Bull vs. Bear Investing Smackdown](https://latecycle.files.wordpress.com/2021/01/95cb3669-369b-42b6-8389-fc4390b7a736.jpeg?w=855)
+
+[2010 - US Equities are Clearly Undervalued](https://latecycle.files.wordpress.com/2021/01/62890cd4-81e5-47e1-a5a1-c62f257d16c4.jpeg?w=976)
+
+[2010 - All Your High Beta Stocks are Overvalued, Low Beta Stocks are Not](https://latecycle.files.wordpress.com/2021/01/9e467b80-969d-4b37-99cf-e6a817b842b1.jpeg?w=1024)
+
+[2010 - For Money Market Strategists, Equities are the Top Dog Again](https://latecycle.files.wordpress.com/2021/01/4f1e923c-c3cd-4c07-a76e-70658606d7f2.jpeg?w=905)
+
+[2010 - 10 Good Reasons to be Worried about the Stock Market in 2011](https://latecycle.files.wordpress.com/2021/01/fc0a90f4-0518-499d-b37f-9cd33c6f6ccc.jpeg?w=1024)
+
+**2011 : The Debt Crisis**
+
+[2011 - Stocks Plunge on Fears of Global Turmoil](https://latecycle.files.wordpress.com/2021/01/c7bed236-5eaa-4044-87f6-fbf002aa8bc6.jpeg?w=707)
+
+[2011 - The Mad Magazine Market](https://latecycle.files.wordpress.com/2021/01/eac8c993-c97a-488c-ae8f-8a6ba67b7ca8.jpeg?w=643)
+
+[2011 - Stocks got cheap this summer, but they could get cheaper](https://latecycle.files.wordpress.com/2021/01/d4b19699-9853-45e0-aa44-370a1aef055b.jpeg?w=627)
+
+[2011 - The new tech bubble](https://latecycle.files.wordpress.com/2021/01/a960c673-4a3a-4752-aaf1-44ccd5f401d9.jpeg?w=1024)
+
+**2012: Continued Uncertainty**
+
+[2012 - What last year's stock market says about 2012](https://latecycle.files.wordpress.com/2021/01/ac2b4c08-cba5-457d-babe-6321cc9737a4.jpeg?w=952)
+
+[2012 - Bull Market Enters Fourth Year](https://latecycle.files.wordpress.com/2021/01/33c54005-4193-4331-b582-6a038a260a21.jpeg?w=623)
+
+[2012 - Stocks Slammed as Dow Erases 2012 gains](https://latecycle.files.wordpress.com/2021/01/89900b3a-afa8-46d3-b1a4-18652e3ca490.jpeg?w=591)
+
+[2012 - It's October: Is the stock market crash-proof?](https://latecycle.files.wordpress.com/2021/01/8a42f5ce-0c3f-4e9b-a1a4-83849d7899eb.jpeg?w=963)
+
+[2012 - The Next Global Crash: Why you should fear the commodities bubble](https://latecycle.files.wordpress.com/2021/01/2e286b9a-6422-4b33-983f-e40c986f3a56.jpeg?w=1024)
+
+**2013: To bubble, or not to bubble?**
+
+[2013 - The Next Stock Market Crash: Why many pros think it has already begun](https://latecycle.files.wordpress.com/2021/01/1348e6a8-962c-4526-b669-28b18a48944c.jpeg?w=1024)
+
+[2013 - Boom or Bubble?](https://latecycle.files.wordpress.com/2021/01/52f3dabc-2fc6-494b-817b-4e1486909683.jpeg?w=829)
+
+[2013 - Is Fed inflating stock bubble?](https://latecycle.files.wordpress.com/2021/01/fe8373aa-7cce-4205-bf6b-0d816d419a2b.jpeg?w=1004)
+
+[2013 - As Market bubbles form, investors may want to take cover](https://latecycle.files.wordpress.com/2021/01/fcd19a4e-dfcf-42e7-80b9-0b28d5199811.jpeg?w=877)
+
+[2013 - The market is overcooked](https://latecycle.files.wordpress.com/2021/01/689ea213-cb2f-4370-880a-ece4d9e9aa1e.jpeg?w=941)
+
+[2013 - Why stocks are undoubtedly experiencing a massive bubble](https://latecycle.files.wordpress.com/2021/01/86f8f3c8-df0f-4107-beb3-4fdba3c63591.jpeg?w=610)
+
+[2013 - Nobel Prize economist warns of US financial bubble](https://latecycle.files.wordpress.com/2021/01/0f1902f3-ee09-43ba-ad60-82fd73e095da.jpeg?w=935)
+
+[2013 - The stock market is NOT about to crash, say way too many investors](https://latecycle.files.wordpress.com/2021/01/9d733502-4bef-4066-b4c9-00239fa00d74.jpeg?w=1024)
+
+&#x200B;
+
+What does this prove? Well, nothing really. But it gives us some insight into markets and narratives.
+
+The debt crisis was felt two years after the big stimulus packages, while investors were cautiously optimistic about the markets. But there was still a lot of negative sentiment the whole way through. 
+
+The market was clearly labelled a bubble by 2013 and heading into 2014, but that never came to fruition. Markets definitely "frothed" in 2016 onwards. What we saw in March 2020 was an unprecedented level of global stimulus, which has and will continue to have an upward effect on asset prices.
+
+Is it a bubble? Well, seems like people felt the stock market was in one or heading towards one in 2013/14. 
+
+A more likely possibility is the Debt Crisis pt.2, so stay tuned for that._END_OF_POST_PYSTOCK_ Swing Trading books Does anyone have any recommendations for someone just starting out with the stock market in general? I want to get into swing trading, I’d like to learn about what to look for when buying stocks (preferably, pictured charts) and I’d also like to see different strategies that I could use while trading. Thanks in advance!_END_OF_POST_PYSTOCK_ why is solar hype now viable when it crashed around 2011 (Solyndra)? I admit I don't follow the sector that well or am that knowledgable.  But I remember when Obama back in 2009 touted the company Solyndra as a positive example.  They went bankrupt in 2011.  Around that same era is when I remember solar hype reaching the same level as it has now, and how it was now cost efficient to the point to be mass adopted.
+
+Can anyone ELI5 on why now it's different and the solar story has more teeth to it?_END_OF_POST_PYSTOCK_ Excerpt From Security Analysis 6th Edition *Early in 2000, near the top of the market, Arthur J. Samberg, head of the well-regarded hedge fund Pequot Capital Management and a top-notch technology investor, shared his four favorite stocks with the Barron’s Roundtable. (They were Critical Path, Double Click, Kana Communications, and Message Media.) The Graham and Dodd who cautioned that “the notion that the desirability of a common stock was entirely independent of its price seems inherently absurd” would have blanched when Samberg said:*
+
+  
+*“I’ll give you no numbers. I’ll give you no prices. I am not going to tell you which ones are going to succeed or fail. I think they are all pretty good companies, and if you bought a package of these stocks over the next three to four years, you would do very well. . . . I hear this stuff all the time, about how it is a bubble, it’s ridiculous. If you just use the numbers to do this stuff, number one, you won’t buy them, which is probably a good thing for some people.* ***But you will never understand the amount of change that’s going on, and how much is still ahead of us.****"*_END_OF_POST_PYSTOCK_ What should I look for in a company's annual report? In *The Millionaire Teacher*, Hallam mentions that "business growth and stock growth is directly proportional." He talks about how stock prices should reflect the company's earnings, and that if there's a mismatch then the stock price will eventually catch up to the earnings (at least that was my overall understanding).
+
+I'm trying to read different companies' annual reports. I'm lost because I've never read one before and I don't know what to look for, and where. These reports are long and contain many technical terms that I've never learned.
+
+Can someone please condense this knowledge for me and tell me where I should be looking in a company's annual/financial report when I want to buy shares from that company? An example would help me a lot.
+
+Thanks._END_OF_POST_PYSTOCK_

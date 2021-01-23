@@ -1,0 +1,593 @@
+ Can you help me understand a prospectus item? I think this is a pretty general question re: ETFs or even just funds, although I happen to be looking at ARKG (Vanguard ETF similar):
+The “returns bef taxes” is ~35% (1 yr)
+The “return after taxes on distribution” is, say, 34.5% or an expected but small impact.
+BUT, next line is:
+
+Return After Taxes on Distributions and Sale of Fund Shares: 20.86% !!!!
+
+
+And, again, Vanguard shows a similar drastic decrease! 
+The huge decrease makes a S&P 500 index fund look like a better investment at something like 31.5%, but that seems unlikely.
+
+
+So, what gives? Where did the “sale of fund shares” money go? Is it just bookkeeping & we prospective fund holders are getting the returns some other way?? 
+
+As you can see, I’m lost!_END_OF_POST_PYSTOCK_ I want to invest Hello,
+
+Thanks to the USA government I received my $600 stimulus check. I wanted to know how can I invest some of that money so that I can make it grow in time or quickly. I’ve never been thought about investment and I’m 22 now learning about it because I want to better myself and not depend on check to check forever. Also if anyone knows what types of books I can read that can give me knowledge about money management and investing that will be great. I also want to become an real state investor and don’t know of any good books to read about it. 
+
+Thank you!_END_OF_POST_PYSTOCK_ Avoiding Buying at the Top I can’t help but think that every stock or fund I look at lately is at an all time high. Big feelings of  future buyer’s remorse for pulling the trigger on a lot of different overpriced possibilities. 
+
+That being said. I don’t want to get stuck holding my money and let it go stagnant.
+
+What sectors or industry segments haven’t peaked? What is on the upswing now that we are on the back end of the pandemic?_END_OF_POST_PYSTOCK_ 13 with 1 thousand dollars I’m 13 years old and I want to invest 1k to learn about investing and maybe making some money for college. My plan is to use 30-40 percent in ETF funds and indexes. Some that I have looked at are ICLN, ARKK, QQQ, or ARKG for a really long term investment. Please tell me how you feel about this. 
+
+ The other 60-70 percent I want to use to buy stocks. I still haven’t found any that I’m confident about but I will keep doing my research. 
+
+Please give me advise and tell me what you think of this plan._END_OF_POST_PYSTOCK_ What are post-pandemic stocks to watch? [The need for a damned good party ](https://on.ft.com/3rLjtGU) 
+I read this article about post-pandemic life and it got me thinking about which stocks could perform extremely good during these times, the same way some stocks performed extremely good during the pandemic.
+I have some ideas about stocks to watch in a post-pandemic world, but I am curious to see what you have to say, and more specifically why._END_OF_POST_PYSTOCK_ I built two sheets (with data retrieval scripts) to help monitor your portfolio & compare investments Sheet 1: https://docs.google.com/spreadsheets/d/1ofxrHbo3vqv5xHeU5kLFg_27gQGGib9tz3oku1exN6k/
+
+Sheet 2: https://docs.google.com/spreadsheets/d/1FXa4sQZ_IR_NrXmm7TBwZhGEuhH8k4rsstn_uqIjSoY/
+
+Hey all, I'm sharing two spreadsheet templates with data retrieval scripts to help monitor your stock portfolios and compare investments.   
+
+I recommend probably using these templates to build your own personalized sheets. You can copy formulas and such over. 
+
+As always, feedback kindly welcomed!
+
+Note: 
+Presently, the script in Sheet 2 that retrieves future dividend estimates, ex-dividend + payment dates, and NAVs only works for Canadian stocks and ETFs; you would either have to write your own script or enter these data in manually for non-Canadian investments. Dividend history should work for all dividend-paying tickers on Yahoo Finance._END_OF_POST_PYSTOCK_ Invest in NBA player PJ Washington here's a new one:
+
+you can invest in NBA player PJ Washington: https://wefunder.com/pj-washington
+
+it looks like you are getting preferred shares in a corp with 5% dividends backed by his endorsement money, but I didn't read it in too great of detail.
+
+I'm passing on this one, but maybe someone will find it interesting._END_OF_POST_PYSTOCK_ English Support on NordNet? Hey redditors!
+I've been using Robinhood for investing for a long time. I got a suggestion to try out an app called Nordnet instead. I am a US citizen and they are based out of Sweden, so the acxount creation is in swedish despite despite app being largely English. They have less restrictions on day trading but are slightly commissioned on each trade. Im trying to set up an account, but can't read it 😅
+Any way around this you all know of/do I need a Swedish ID to make an account?_END_OF_POST_PYSTOCK_ Help choosing my ETFs Hey guys I'm a pretty new investor, just started a month ago, up about 2k with a small initial investment of 5k, I've been moving most of my profits out of my robinhood and slowly building a schwab retirement account that I don't intend to touch for some decades, in this account, I'm focusing on dividends, tech, semiconductors and recently debating to invest in some ETFs for the long-term.
+
+I really love to invest in tech, robotics, AI, renewable etc.
+
+My choices (that I've found so far are ) MOON, HACK, BOTZ. If anybody has some insight on these or potentially some other ETFs that hover around these sectors I would be very grateful!
+
+&#x200B;
+
+TLDR: MOON, HACK, BOTZ or ???_END_OF_POST_PYSTOCK_ Following the herd? I keep seeing posts of the same companies/ETFs recommended on here: TSLA, ARKK, NIO, AAPL. I’m not sure if following the herd with everyone saying how easy it is to make money is a smart decision. I’m still a beginner investor, but will I be following the herd off the 2021 cliff?_END_OF_POST_PYSTOCK_ portfolios to watch portfolios to watch 
+
+Hey guys,
+
+are there any Portfolios you are constantly watching and study the changes it makes? (Like Ark e.g.)
+
+I think it is a good way to watch if your strategy is similar to some already succesful and rich traders. 
+
+Thanks in advance !_END_OF_POST_PYSTOCK_ How every asset class, currency and S&P 500 sector performed in 2020 https://www.visualcapitalist.com/how-every-asset-class-currency-and-sp-500-sector-performed-in-2020/
+
+Top 5 (full year performance)
+
+1. Silver +47%
+2. Gold +25%
+3. US small caps +19%
+4. US stocks +16%
+5. Emerging market stocks +15%
+
+Top 5 (from 2020 lows)
+
+1. Crude oil +184%
+2. Silver +127%
+3. US small caps +105%
+4. Commodities +87%
+5. Emerging market stocks +71%_END_OF_POST_PYSTOCK_ Updating my portfolio/savings plan for 2021 I started investing in January last year I've selected a fixed amount to go towards saving plans each month and once every three months I pick a special stock to invest my money in. This year I especially want to update my savings plan and add specific stocks and REITs.
+
+My current saving plan:
+
+200€ - X(IE)-MSCI WORLD 1C  
+100€ - AIS-AM.ID.MSCI EM SRI EOC  
+100€ - Gold  
+
+
+Now for this year, I wanted to add stocks and REITs with a focus on dividends. These are the positions I came up with so far:
+
+100€ - O  
+100€ - LTC  
+50€   - Omega Healthcare  
+50€   - Iron Mountain  
+50€   - AT&T  
+50€   - Cisco Systems  
+50€   - Kraft Heinz  
+50€   - WP Carey  
+50€   - IBM  
+50€   - GSK  
+50€   - BIP  
+50€   - Gilead  
+50€   - Abbview  
+
+
+Am I missing an obvious pick? 
+
+I'd also want to add ARK, but to do so I first have to open a US-based account somewhere._END_OF_POST_PYSTOCK_ Starting to write cash covered weekly puts with zero experience I am a complete noob but it seems like a good revenue generation technique with limited downside unless I somehow write puts for Enron or Worldcom. I will appreciate any advice from the more experienced people here. How to price the option? Is weekly the best? What happens if I get assigned? Margin? and so on. Happy new year._END_OF_POST_PYSTOCK_ 2021 Market and Economic Outlook [SPX Monthly Chart:](https://www.tradingview.com/chart/SPX/7rPzyt3E-SPX-Monthly-Risk-Reward-Less-Favorable/)
+
+* The market basically closed the year at ATH (3pts off) and is within a hair of 3855, which is the 138.2% Fib of the March low.
+* The rising monthly channel (shown above) shows that markets are stretched near resistance and already outside of their bollinger bands. The weekly band is at 3774.
+* While I believe there is room for upside into 2021, the risk/reward is **NOT** favorable here anymore. Sentiment is stretched and a correction would be welcomed with open arms.
+* I anticipate a 10-15% correction to start the year, which would align us with the rising 200dma near 3219. We ended the year in a tight range, and there is potential to carry into 3855 based on January 15 open interest and gamma positioning.
+
+Last few days I have been selling stocks and calls aggressively in anticipation of a correction. I am long TLT calls (flat) and SPY puts (down 37%).
+
+**Sentiment:**
+
+* The AAII Sentiment Survey is quite elevated near multi-year highs and shows overly bullish sentiment.
+* The Advisors Sentiment Report reports the views of over 120 independent investment newsletters (those not affiliated with brokerage houses or mutual funds) and reports the findings as the percentage of advisors that are bullish, those bearish and those that expect a correction. The current Bull to Bear spread is one of the highest in decades, yet another indication of frothy sentiment.
+* The NAAIM Exposure Index is currently at 89 and off some 100+ prints but remains elevated to the averages.
+* The BAML Fund Manager Survey shows the three most crowded trades are:  
+
+   * Long Tech via shares
+   * Short USD
+   * Long Bitcoin Spot via Perpetual Swaps
+   * Fund managers are "all-in" on leverage. This is evidenced by our DIX print on Thursday yet again showing dark pool buying.
+* Consumer Confidence deteriorated sharply in December, as the resurgence of COVID-19 "remains a drag on confidence.”
+* CEO Confidence, as tracked by the Bloomberg Consumer Comfort Index hit a two week low at 47. This is the sharpest drop in economic outlook since April.
+
+**Market Health:**
+
+* NYSE Cumulative Adv/Dec:  
+
+   * Actually pretty healthy right now. This is still well above all of its important moving averages and remains in an uptrend.
+* NYSE McClellan Oscillator:  
+
+   * Neutral currently.
+* NYSE Summation Index (NYSI):  
+
+   * Most commonly used by fund managers to find divergences. Above a short term 5/8 day exponential moving average is a buy signal. Below flashes a short term sell signal. This is *currently showing a sell signal.* However, sell signals in rallies tend to be early signals...
+* Moving Averages:  
+
+   * The 8/21-week EMA crossover has long been a favorite signal for momentum in individual names and also works with Indices. The 21-week EMA is important support for growth/momentum stocks. In general, you want to be long when the 8 week is above the 21 week and short when it is below with crossovers being key trend inflection signals. The 12-month moving average (MA) and monthly MACD are good longer-term risk management tools. The price action relative to the 200-week MA provides a good gauge for the health of the S&P 500’s secular trend. Pullbacks or corrections (aka cyclical bear markets) for the S&P 500 that hold above or near the rising 200-week MA are a secular bull market pattern. Pullbacks that decisively break the 200-week MA are a sign of a secular bear market. Most corrections on the S&P 500 during the 1950-1966 and 1980-2000 secular bull market held between the 100-week MA and the 200-week MA. The 2015-2016 S&P 500 pullback fit this secular bull market correction pattern. The secular bear market periods from 1929-1950, 1966-1980, and 2000-2013 saw sustained periods below these long-term moving averages. This means that the 200-week MA provides a good secular bull market risk management tool or stop loss. Using this history as a guide suggests that the Ichimoku monthly cloud is a good trailing secular bull market stop loss. History also suggests that a decisive move below the monthly cloud confirms a secular bear market for US equities. *Currently we are above all moving averages and this is a bullish signal.*
+
+**Economics:**
+
+* The common theme appears to be an expectation of a synchronized global growth in 2021.
+* The optimism on 2021 delivering a record year for corporate profit growth and strong GDP growth around the globe is very contingent on a successful vaccine rollout. The current surge of cases and hospitalizations in the US and Europe is resulting in further restrictions and lockdowns that will weigh on growth expectations, or at least push out pent-up demand. Consumers have led the recovery so far with a boost from fiscal stimulus but the key to a self-sustained recovery is a strong capex cycle which is seen kicking off in Q2 2021. The labor market will also be in focus after record low unemployment the pandemic saw the number jump to 14.7% in April, the highest since the Great Depression, but has recovered rapidly though losing some momentum as it finished the year near 6.5% unemployment and consensus expectations to reach 5% by the end of 2021, still far-off from the 3.5% pre-crisis rate.
+* The recovery has already started in 2H20 in the US & China while the European recovery has been more subdued. The driver of the strong 2021 recovery will be the full reopening of economies worldwide which makes a successful vaccine distribution critical. The US Dollar is closing 2020 weak and looks to have some structural issues with surging deficits, Fed’s intention to boost inflation, easy financial conditions, and expected economic and political improvements. The combination of easy monetary policy, a rebound in old economy industries and a global upswing in growth provides a healthy backdrop for 2021. The balance sheets of households, corporate and governments are expanding alongside the aggressive monetary policy and signs of inflation returning causing a rotation back to value and cyclical growth supported by a steepening yield curve.
+* GDP is seeing rising 6.4% globally in 2021 according to Morgan Stanley, the consensus is for 5.4% growth. In the US those numbers are 5.9% and 3.8% respectively.
+* Inflation would be the key risk into 2021 with it likely to start showing up in 2H21, and the risk being an overshoot could start a disruptive shift in Fed policy. Surging debt remains another concern, as a share of U.S. GDP, total debt has spiked near a record high and total nonfinancial debt has surged to new all-time highs. The rapid increase in government deficits is due to the combination of 1) the budget shortfall that already existed and was growing, plus 2) the deficit spending to fund the stimulus programs to date.
+* The other clear risk in 2021 is China where debt defaults are rising and could spark a move to credit tightening and a recession that would strangle the global recovery. The overall default rate is currently low but the percentage spike in debt/GDP was the highest since 2009 which could lead to policy tightening in 2021.
+
+**Market Valuation and Fundamentals:**
+
+* The NASDAQ continue to outperform in 2020 with a 45%+ YTD return compared to the S&P at +15% as major secular trends in technology continue to play out. The trend of rapid rotational moves also continue with growth often seeing selling pressure for a few days before quickly recovering and resuming the longer-term uptrends. Into 2021 earnings growth is expected to be a record though room for multiple expansion is minimal. A combination of improving economic conditions causing greater business and consumer confidence should drive strong earnings growth in 2021. Increased fiscal spending and a moderation of tariffs provide additional tailwinds. In 2020 many businesses shedded labor and transformed business models to higher productivity to offset the collapse in demand and low inventories with rebounding production point to margin expansion in 2021. The 2021 environment shapes up to be one of solid earnings growth, a return of buybacks and modest multiple contraction. The growth versus value debate is likely to continue but the low-rate environment continues to favor growth, but even more-so a greater preference for quality, companies with strong balance sheets, cash flow generation, and returns on capital should continue to outperform. We are seeing historically strong earnings revision ratios and a record percentage of stocks with dividend yields above the rate of the ten-year Treasury, both conducive to allocations to equities. Compared to bonds, equities can act as a hedge in case of inflation and, with a thorough selection process, can still offer returns closer to historical returns.
+* My forecasts for 2021 take into account consensus expectations, a bull case for a strong vaccine rollout, and a bear case for disruptions to the vaccine rollout and geopolicatical potential issues. I am assigning a 40% probability for the bull case, 40% for the base case, and 20% for the bear case to arrive at a S&P fair value of 3600 though 1H21. In 2H21 we start to look to 2022 estimates and feel we can approach $200 EPS with slight multiple contraction to 22X leaving upside potential to 4400 for year-end 2021.
+
+[https://imgur.com/a/QqPjfbU](https://imgur.com/a/QqPjfbU)
+
+* For 2021, the bottom-up EPS estimate (which reflects an aggregation of the median EPS estimates for CY 2021 for all of the companies in the index) is $169.20. For CY 2021, analysts are projecting earnings growth of 21.7% and revenue growth of 7.7%. The 6% trend growth rate since the 1930s would point to S&P 500 EPS getting back to trend levels of $187 in 2022. An optimistic vaccine scenario would see S&P 2022 EPS well above $200.
+
+[https://imgur.com/a/lLhmsb3](https://imgur.com/a/lLhmsb3)
+
+* The low rate environment impacts the multiple, and assuming the 10-year stays low, the Fed keeps rates at zero, and credit spreads stay firm, a valuation framework would put a trailing PE at 24X and forward at 21.5X for the current environment. The spread between the S&P dividend yield versus the corporate Baa bond yield is near historical highs and the ERP (Equity Risk Premium) is very high by many measures. Assuming the spread between the dividend yield and IG corporate yield goes back to 2012-19 levels, it would point to 30%- plus upside for S&P 500 valuations. Assuming some rise in rates as the spread narrows more from falling equity yields would point to 20%-plus upside. In 2021, policy support should remain in place to curtail risk aversion. Besides the risk of a credit crisis, concerns over a late-cycle overheating have been pushed further out due to the pandemic-induced recession and policy makers’ increased inflation tolerance. When comparing relative attractiveness across asset classes, which ultimately steers a substantial part of investment flows, equity markets continue to look quite attractive. Since the beginning of 2020, real bond yields in the USA have declined by over 100 basis points, outpacing the decline in earnings yields (inverse of the price-earnings ratio), thus supporting higher valuation multiples. Currently the difference between the earnings yield and the real bond yield as a measure for the equity risk premium (ERP) is higher than the long-term average, suggesting that equities offer an attractive excess return over bonds. Although lower interest rates support higher multiples due to the increase value of future earnings, a return to normal could push long-term interest rates higher and exert downward pressure on equity valuation multiples.
+
+[Sector Growth Rates](https://imgur.com/a/IJPIPWW)
+
+**Analyst 2021 Predictions:**
+
+* Morgan Stanley: $3900 - After a year of big swings in valuations, 2021 will be about who can deliver on earnings. 2020 was all about beta and understanding how equity markets trade in and around a recession that handed us the fattest pitch we’ve seen in a decade. 2021 will be much more about stock picking (alpha) and should favor those companies that can deliver earnings growth that isn’t already expected or priced. MSCO prefers companies with earnings growth most tied to re-openings and an economic recovery and also favors small caps. Financials are also preferred due to positive upside skew on rising rates and better credit; Materials and Industrials on demand rebound, earnings leverage and inflation protection; and Health Care given its GARP characteristics and re-rating potential with fading political overhangs.
+* Bank of America: $3800 - Stocks have already priced in much of the expected recovery in the economy and corporate profitability, leaving just slightly more upside heading into next year. Even as investors ride a wave of vaccine-related optimism, potential negative catalysts abound. The recovery is intact and the world likely reopens in the 2H, but a lot of optimism is priced in already on vaccine/recovery. Vaccine execution risk, delayed fiscal stimulus and longer lockdowns are risks. But a few themes support stocks: the S&P 500 dividend yield is 3x the 10-year yield, and S&P 500 dividends are set to increase in 2021. And unlike bond yields, earnings are nominal and participate in inflationary upside – where inflation risks may be running higher, given rampant money-printing and a potential post-vaccine spike in demand. BAML picks value stocks over growth, cyclicals over defensives and small caps over large caps, given each of these groups’ likelihoods to be disproportionately boosted by a post-virus economic recovery.
+* Goldman Sachs: $4300 - A vaccine is a more important development for the economy and markets than the prospective policies of a Biden presidency. The economic reopening coming alongside a vaccine, in tandem with a status quo policy environment cemented with a divided government, will help push the S&P 500 to 4,300 by year-end 2021 and then to 4,600 by the end of 2022. The forecast assumes that the Senate will remain under Republican control following the Georgia run-off elections in January, the economy will continue on a path toward a “V-shaped” recovery, corporate profits will rebound, Fed funds rate will hold near-zero and the yield curve will steepen while the 10-year Treasury yield climbs only modestly.
+* Deutsche Bank: $3950 - Much of 2020’s run-up in the stock market came with multiples expansion, as prices escalated despite a drop in earnings, as companies dealt with fallout due to the coronavirus pandemic. Next year, as the economy recovers and a vaccine allows for long-lasting re-openings, earnings growth will rebound and multiples will de-rate. The pattern of the equity market recovery, bottoming halfway through recession and recouping most of its losses before it’s over, has been typical but the continued run-up means valuations are high. In our reading, elevated multiples reflect increased participation of retail investors which we see as sustaining, but we expect the multiple to begin to de-rate. For 2021, a recovery in earnings — which essentially increases the denominator of the price-earnings ratio — should lower multiples. That said, an increase in companies’ payout ratios as dividends and buybacks return could at least partially offset this. A gradual correction of overvaluation argues for the current overvaluation of 5 multiple points to diminish but remain significant at 3.6 points, putting the end-2021 multiple at 20.5X.
+* Jefferies: $4200 - Improving prospects for a vaccine, easy lending conditions and broader participation among cyclical and value stocks will help propel the stock market higher in 2021. November’s historic stock market rally, led by cyclical and value stocks in the energy, financials and industrials sectors, reflected broadening equity strength beyond just big tech and software shares. That rotation is anticipated to continue into next year, helping push the broader market higher. Notwithstanding the second and third Covid-19 waves permeating the world, there is a palpable feeling that the global economy is resynchronizing with the household, corporate and government balance sheets expanding simultaneously alongside aggressive monetary policy. The much-maligned value and cyclical growth sectors are slowly making a comeback as inflation pressures begin to return. This rotation has been supported by a steepening in the yield curve and with growthier stocks trading sideways. Improved visibility towards a successful coronavirus vaccine, easier lending conditions, little evidence of deflation and a sentiment switch from growth to value will lift US bank shares through 2021. Rising global capacity utilization rates, firmer producer prices, improving world trade volume, booming housing/autos and a weak dollar are the perfect environment for the S&P 500 Industrials. The S&P 500 materials sector is blowing off in response to a weak dollar, higher commodity prices, an upswing in global manufacturing and a restocking cycle.
+* CSFB: $4050 - Our 2021 forecasts are designed to answer a simple question: what the future will (2022) look like in the future (end of 2021). From this perspective, we are forced to de-emphasize the near-term, focusing instead on the return to a more normal world. As we look toward 2022, the virus will be a fading memory, the economy robust, but decelerating, the yield curve steeper and volatility lower, and the rotation into cyclicals largely behind us. Since the stock market discounts future events, each of these prospects for further improvement down the line should translate into a higher S&P 500 as investors price in these events.
+* UBS: $4100 - The vaccine-related developments that drove stocks’ gains in November and early December have now been baked into market expectations, leaving vaccine distribution the next milestone for equity investors to consider in 2021. The key driver of U.S. equities will be the pace of vaccinations, similar to how shifts in mobility drove equities through the spring and summer. As people get vaccinated, they are likely to ‘normalize’ spending on areas impacted by COVID shortly thereafter. We see the rotation toward cyclical services spending and other COVID-hit areas as a key investment theme for 2021. UBS is overweight the consumer discretionary, industrials and energy sectors given that consumption and production will likely rebound next year. It downgraded materials and financials to Neutral. It is also Underweight consumer staples, utilities and REITs and Neutral on information technology, but overweight communication services and health care on still attractive growth relative to valuations. UBS maintained an upside case for the S&P 500 of 4,400, which would emerge in the case of higher-than-baseline growth against a backdrop of still-low interest rates. However, in a downside case, the S&P 500 could fall to 3,300, which would entail a weaker recovery and/or tighter financial conditions.
+* BMO Capital: $4200 - Heading into 2021, stocks are poised to keep reaping the benefits of the massive infusion of monetary support from the Federal Reserve, along with an anticipated additional round of fiscal stimulus. This constructive policy environment is likely to help push equities higher even as virus concerns linger for at least the first several months of the new year. Even with recent positive vaccine and treatment developments, the global pandemic and its unprecedented impact is unlikely to fade in coming months. As such, the massive fiscal and monetary response in the U.S. and around the world (also unprecedented) will likely remain in place to combat its negative economic impact for the foreseeable future. Such environments have historically supported continued stock market gains and we see no reason why 2021 will be any different. Aside from the global financial crisis, 2020 represented the swiftest quarter-over-quarter earnings collapse for the S&P 500 where index EPS plummeted nearly 50% during 1Q, thus, we anticipate that 2021 has the potential to be one of the best years ever in terms of earnings growth, something we believe will also help to push stock prices higher. We remain optimistic and expect another year of double-digit gains as the economy and society slowly transition back to normal.
+* Barclays: $4000 - Markets are right to be optimistic about the global economic outlook in 2021, with growth returning and inflation rising but staying below central bank targets. Projected global gross domestic product growth of 5.6% in 2021, rebounding from a 3.6% contraction this year, with most Western economies reaching so-called herd immunity from Covid-19 in the second and third quarters of the year. Forecasts reflected the recent slew of positive vaccine results with efficacy rates exceeding expectations, which point to a significant boost for growth in the second quarter of 2021. Barclays also suggested the inflation outlook would not indicate any unwinding of current unprecedented levels of central bank support. Labor markets are recovering, but we are still at very high unemployment, so there is undeniably a lot of slack in the system. That means that when it comes to core inflation and the underlying drivers, to wage costs etc., that was unlikely to happen in the short run, meaning even next year. It would take several years really to come back. While Barclays anticipates a gradual improvement in inflation, it will not be significant enough to cause central banks to consider tightening their accommodative monetary policy stances. We have an environment whereby growth comes back, inflation stays relatively muted, and you have central banks continuing to support the recovery, and tightening is still far out.
+* Oppenheimer: $4300 - The S&P 500 is likely to post another double-digit percentage gain in 2021 as the distribution of COVID-19 vaccines underpins a lasting economic recovery. This outcome is based on six key assumptions: First, that the public will expediently accept and receive COVID-19 vaccines and second, that equity investors will discount the success of the vaccines in reversing the disruptions brought on by the pandemic. Thirdly assumes that at least one of the two Senate seats in the Georgia runoff election will go to a Republican lawmaker, thereby retaining their control of the Senate and reducing (if not necessarily eliminating) the risk that the Biden administration will eradicate the corporate tax reform act of 2017. Fourth, the Federal Reserve will continue its low interest rate regime in tandem with accommodative monetary policy, and fifthly, that congressional lawmakers will step in with another round of fiscal stimulus by the first quarter of 2021 at the latest. Lastly, that investor appetite will continue to tilt toward “stocks that favor diversification and both growth and value segments of the market in a relatively low interest rate environment that favors equities, real assets and other asset classes over fixed income for intermediate and longer-term objectives. The vaccine rollout is arguably the most important in determining the trajectory of the S&P 500 next year. Ultimately the stock market is broadly dependent on economic growth to drive revenues and earnings across the sectors.
+* JP Morgan: $4400 - Investors are entering 2021 against a confluence of market-positive events, including improving prospects for widespread vaccinations and sustained economic reopening, gridlock in Washington and accommodative central bank policy. Given the COVID-19 crisis, vaccine distribution is likely the linchpin event. But even with widespread vaccine availability still months away, optimism over early vaccine efficacy data has already sparked a rally among stocks hardest-hit by the pandemic. The equity market is facing one of the best backdrops for sustained gains in years. After a prolonged period of elevated risks (global trade war, COVID-19 pandemic, U.S. election uncertainty, etc.), the outlook is significantly clearing with the business cycle expanding and risks diminishing. We expect a ‘market nirvana’ scenario for equities with the melt-up continuing into 1H21, driven by earnings recovery and multiple expansion. Much of next year’s stock market rise is likely to come at the beginning of the year, as lingering uncertainties over vaccine distribution, the results of the Georgia senate race and additional monetary and fiscal stimulus start to dissipate. While the broader backdrop should still remain constructive in the second half of next year, by then the market will have likely priced in close to a full recovery and investors may start to expect a gradual shift in central bank forward guidance away from the current exceptionally accommodative stance.
+* BTIG - $4000 - Global synchronized growth underpinned by central bank ease and a Washington which sees Election 2020’s decidedly mixed outcomes as a catalyst for cooperation (spend, it’s necessary) and centrist government (no tax hikes) results in a Redistribution of Wealth consistent with the 2003-06 synchronized reflation period where Value outperformed. Growth, Small Cap outperformed Large Cap, and International equities outperformed the S&P 500.
+
+**Gold:**
+
+* [Monthly](https://www.tradingview.com/chart/GLD/TUbcSBg2-GLD/)
+* Gold had a solid year in 2020 gaining more than 20% as a long base breakout that triggered in June 2019 continued to play out higher and reached its measured move objective while the rally briefly broke above 2011 highs before pulling back. If we look at Fibonacci extension targets of the 2011-2015 correction GLD has upside targets at $207 and $220. The 2018-2020 rally has Fibonacci retracement support levels at $162.5 and $152.5. Gold rallied in 2020 on economic uncertainty and a flight to safety and has pulled back in Q4 with the greater optimism for 2021 taking hold. On an allocation basis, Gold may be losing some of its luster as a store of value with the momentum seen in Bitcoin , although that has not been seen to this point with global gold ETF inflows topping a record in 2020 as a way to diversify portfolios and hedge against inflation. However, November saw the second largest outflow on record. In 2020 the lockdowns resulted in a 5% decline in global output, so the supply-side is expected to rebound in 2021. Gold prices should be supported by inflationary pressures, a deep fiscal deficit and a weaker USD. Goldman sees Gold reaching $2300 in 2021 as recovery from the coronavirus-related recession fuels higher inflation next year. Further fuel could be added from a recovery in demand from India and China._END_OF_POST_PYSTOCK_ Is there anything wrong with investing in multiple ETF’s? I am invested in multiple ETF’s. The ones I have invested in are VTI at $8k, VUG at $5k, ARKK at $400, ARKF at $400, VXUS at $2000. Am I doing something wrong and should I let go of some of them? 
+
+I also have 20 individual stocks that I am invested in at about $16k total. Please let me know._END_OF_POST_PYSTOCK_ ARK Daily Trades Information for Project Does anyone know where all of ARKs trade for a day can be found? I'm signed up for their daily email but it doesn't show all and I'm working on a project where having all of them would be very helpful. Preferably directly from ARK but if that's not possible then any know, trustworthy, 3rd parties with the data for free on a daily basis would work as well. Thanks for the tips!!_END_OF_POST_PYSTOCK_ Can anyone review/critique my potential investing idea (Main Street Capital Corporation) I am looking at potentially investing into a mid cap company called Main street capital corporation which helps develop companies by helping them with long term debt/equity capital. I see large potential growth in it. It's earnings have mostly rebounded, and it will probably keep on recovering, so I think the stock price will go up. Not only that, but it has an 8% dividend yield. Can anyone critique my decision or give my some advice, I'm a fairly inexperienced, so I need help.
+
+Disclaimer: This is not investing advice (Just saying to not get sued or something)_END_OF_POST_PYSTOCK_ Any recommendations for long, high-growth potential "futurism" investments? In interested in investing long-term in technologies like bioengineering, space infrastructure, gene editing, battery technologies, computational biology, etc. Anyone have a recommendation for earlier stage companies that you think have high growth potential? Or news sites / blogs to find out about upcoming IPOs in interesting "futurism" sectors?_END_OF_POST_PYSTOCK_ ETH My FA told me they would rather have me go to Vegas than invest in ETH. Hoping the majority of you would say “find a new guy”. 
+
+Missed out on BTC back in March and it still haunts me. Feeling comfortable with throwing 10-20K back in the market. Am I crazy for wanting to put it all in Ethereum?_END_OF_POST_PYSTOCK_ Motley Fool Service Sharing? Hey everyone Happy New year! This Doesn't look like I'm breaking any of the forum rules. I'm interested in sharing info in the motley fools Stock advisor and Rulebreakers stocks. I don't have enough capital to really benefit from having 3 of their services, so I figured there might be some other folks on the same boat. If it makes it easier, I'm willing to buy a new service and add it to my account and then split the cost of the service with you and then share the account but I understand that some people might not feel comfortable with that. Otherwise we can share some of their picks via Google drive links or whatsoever. I know the risks of doing this but I'm ok gambling with it.
+
+Anyhow I got the Everlasting stock service for 2 years ($99) and If anyone wants to split the other services I can get them for $45 for the stock advisor and $99 for the Rulebreakers. I get random discount emails for Stock advisor at $45 but I know I can get it for 99$ reliably for a year. I only feel comfortable sharing with 3-4 other people but I doubt there will be enough interest. If I get 3-4 people on this we can split all 3 services at a maximum $100-$75 each which is better than spending $300 individually.  Otherwise just sharing their picks sounds good to me!
+
+Cheers!_END_OF_POST_PYSTOCK_ What would be your list of 10 stocks for a portfolio for 2 kids aged 10 and 7)? Happy 2021 y’all! I’m looking to start a stock portfolio of 10 stocks for my two kids (10 and 7). I’m thinking VTI, ARKG, MCD, DIS, AAPL, MSFT, TGT, RBLX (when it is listed), V, and possibly NVDA. They will have input in this account so I’m picking stocks they would enjoy. What would be your list of 10?_END_OF_POST_PYSTOCK_ Broker for Norway's Oslo Stock Exchange? I want to buy a stock that is listed in Norway's Oslo Stock Exchange. Looking at the typical brokers that I know, etoro, robinhood, plus500, I did not see that stock listed (I don't think they include stocks in OSE).
+
+Any recommendations? I live in Europe in case that makes any difference. I'm seeking a broker with the lowest trading fees that I can find. I also want to trade that stock with leverage \~5x_END_OF_POST_PYSTOCK_ Long term sustainable ETFs? Hi everyone.
+
+I'm just getting my fiance into investing. She wants something passive, long term and most importantly she wants to invest in things like water, waste management, clean energy etc.
+
+Essentially industries which are solving the environmental and societal problems of the future. She only wants to put her money into companies which are solving these sorts of humanitarian problems.
+
+What do you guys think of ICLN/INRG and IH20 as long term prospects? Are there any other ETFs which fit her criteria that you could recommend as a long term hold?
+
+Thanks a lot!_END_OF_POST_PYSTOCK_ What's Next After Cryptocurrencies? I was too young to hop on the .com boom and I severely underestimated the potential of crypto. It feels like I missed the .com boom again. However, that is not to say that there aren't still plenty of gains to be made from investing in crypto businesses.
+
+Some of the most potentially disruptive ICOs launched in 2019 and 2020. Replace UberEats with a decentralized token to increase driver earnings, decrease restaurant costs and decrease customer fees? [Already done](https://icobench.com/ico/allsesame). 
+
+I'm curious what disruptive technologies people think haven't boomed yet but definitely will? For example, [Microsoft's AR](https://www.microsoft.com/en-us/hololens) and [headless software](https://www.alexa.com/)._END_OF_POST_PYSTOCK_ Small Investing gift for younger family members This may sound cheesy but I was thinking of gifting 100$ each to young family members (age range 17-26) with the stipulation that it goes into an investment account. Now I know 100$ isn’t a lot but I’m hoping it’ll make them more interested and intrigued in the topic. Since my husband and I use fidelity, we considered setting up a brokerage account and letting them pick an index fund so they have some involvement too. Now I realize that they can just easily withdraw the money but maybe if I open the door for a couple of them, one might walk through. Thoughts? Has anyone done this? Any advice is appreciated._END_OF_POST_PYSTOCK_ Opening trading account for expats in HK Hi all, I'm a Korean citizen working in HK. I am not holding a permanent ID in HK. I recently moved back to Korea temporarily to work remote given COVID. 
+
+I am interested in trading US stocks, preferably in HK. Would it still be possible for me to open a trading account & trade via brokerage/bank in HK when I am outside the city + using my old HK address which has expired (I no longer live there)? I am wondering if this is the right way.._END_OF_POST_PYSTOCK_ Is there a way to sell only the stock I purchased under 10 bucks not the ones I purchased at 14? So i bought ford a while back and never dumped it. Now its hovering at 9 and I was thinking about dumping all the sub 10 dollar stock and buying apple with it. Holding on to the 14 dollar stuff for when it goes higher so i wont feel the donkey kick as much.  I have around 50 shares of the sub 10. Is this a flawed way to approach this?_END_OF_POST_PYSTOCK_ Setting IRA Contribution Limits - Increases and Overall Allowable Limits What determines when an increase to the annual contribution limits for IRAs will happen? What determines how much the increase will be? What is preventing the limits from being drastically increased, to say $10k/year or even higher? When do you believe another increase to the contribution limits will happen? Based off of historical limits, we may be set at $6k a year for 2022 and potentially 2023 before another increase happens. 
+
+Also, what would happen if you maxed your ROTH IRA in January and then at some point during the year, got a pay increase that put you over the ROTH IRA income limits? Would it just mean for the following year you're unable to contribute to a ROTH? Or would be there be some tax ramification?
+
+&#x200B;
+
+[https://dqydj.com/historical-ira-contribution-limit/](https://dqydj.com/historical-ira-contribution-limit/)_END_OF_POST_PYSTOCK_ 25 April 2019: At the Tesla Autonomy Day event Musk expected Tesla to have thousands of Tesla vehicles providing driverless rides to people in an Uber-style taxi service by the end of 2020. Why hasn't this happened? https://arstechnica.com/cars/2019/04/teslas-autonomy-event-impressive-progress-with-an-unrealistic-timeline/ - article from 25 April 2019 summary of Tesla Autonomy Day event. Link to event [here](https://www.youtube.com/watch?t=4151&v=Ucp0TTmvqOE&feature=youtu.be).
+
+> Elon Musk's big message was that Tesla was close to reaching the holy grail of fully self-driving cars. Musk predicts that by the end of the year, Tesla's cars will be able to navigate both surface streets and freeways, allowing them to drive between any two points without human input.
+> 
+> At this point, the cars will be "feature complete," in Musk's terminology, but will still need a human driver to monitor the vehicle and intervene in the case of a malfunction. But Musk predicts it will only take about six more months for the software to become reliable enough to no longer require human supervision. By the end of 2020, Musk expects Tesla to have thousands of Tesla vehicles providing driverless rides to people in an Uber-style taxi service.
+> 
+> In other words, Musk seems to believe that once Tesla's cars become "feature complete" later this year, they will be 90 percent of the way to full autonomy. The big question is whether that's actually true—or whether it's only true in the Cargill sense.
+> 
+
+So why has this not materialised? Why doesn't anyone seem to care? When is it likely to materialise (if at all, of course)?_END_OF_POST_PYSTOCK_ US/CAD expat ready to get in the market. Ideas please. I'm in my late 30s married to non US/CAD partner with 2 young kids and one on the way.
+
+I make approximately 130k USD per year not including bonus which has been around 15 to 20k USD during the last 3 years including 2020 (very surprised). My SO makes approximately 72k per year from primary employment and also has a side small business that generates maybe 5 to 10k per year. 
+FYI Cost of living is extremely high in resident country but we try to save and are practical.
+
+We have a house in our resident country with a mortgage balance of 270k USD with mortgage interest of 3.5%.
+
+I have land in resident country valued at 150k USD with mortgage balance of 85K at 4.75 interest. 
+
+I have a house in Canada with mortgage balance of 485k CAD that my retired parents live in and my sibling and I pay the mortgage. House solely in my name alone.
+
+I have 50k USD liquid cash in foreign bank accounts (resident country and Canada) and 10K liquid cash in US accounts.
+
+My SO has 20K USD in mutual funds in resident country through a top 5 Caandian Bank. Growth funds. Bank will not allow me as US person to invest. SO also has approx 10K USD in liquid cash in resident country.
+
+I have a pension account in resident country with approx 55kusd however its poorly managed and not gaining returns. I have to contribute by law, but consider it a tax as I have no faith in it. My SO has about 100k usd in his pension fund, but as a gov employee does not have to contribute. His fund is better managed with small returns.
+
+I have life insurance, (whole, term and critical illness) combined at 360k usd. My SO has same combined at 480k usd.
+
+I have a USD amex with 25k balance, 15k was recently added in last 3 months to fund SO new business.
+
+I have USD student loan bal of 4k at 3.5%
+
+No car loans, no other credit card balances.
+
+I have very little in US social security and no 401k as my career took off when I left the states. Nothing in Canadian pension plans. Never worked in Canada left before adulthood but Canada is an option for retirement plans.
+
+I'm thinking of getting an interactive broker account for myself and my SO maybe separate accounts not sure which is best  for tax purposes. I file my US taxes each year and apply the earned income exclusion credit. Which in understand limits IRA options. 
+
+I want to start by investing 10k USD with a broker.
+
+Where do I go from here? What is best as a US expat? I know I have debt, but I want to invest while paying down debt at the same time. 
+
+Thanks in advance for any ideas or suggestions._END_OF_POST_PYSTOCK_ Understanding a stop-limit order So I'm looking to buy some crypto in short term. The exchange (Binance) offers a stop-limit order among other things, which I think is the right one for me but I'm having some trouble fully understanding it.  What I'd like to do is place an order for crypto X that's trading at say 22 cents right now, buy some when it drops to 20 or below and sell it all when it goes to 25 or above. 
+
+From the examples I've read this should be possible, though I'm still rather confused and would like to know for sure.
+
+&#x200B;
+
+Any advice is appreciated, thanks in advance_END_OF_POST_PYSTOCK_ A mystery called GSK... Anyone has any thoughts or knowledge/ good explanation on why a huge, profitable and solid company such as GSk (GlaxoSmithKline), that keeps on growing yearly (34b in revenue and 5b in earnings), has such a poor stock performance over the last 5 years?
+Something  doesn't add up. I don't get it. I would love to hear what you think. 
+Thanks and have a great 2021!_END_OF_POST_PYSTOCK_ How to learn more I'm currently trying to learn more and more about reading graphs and the financials I should pay attention in a company before investing on it. I find reading kinda boring sometimes so I was trying to find the best YouTube channels that could help me that way? Do you guys know any that could help me?_END_OF_POST_PYSTOCK_ Invest in european emission certificates? First of all: I realize I'm somewhat late to the party, but best day to invest is always yesterday - right?
+
+Starting 2021, the EU is starting to add "CO2-Tax" on fuels and other industries. Starting at 25$ right now, the "price goal" for one ton of CO2 is 55$ in 2025. Given the current developments, I think it's credible that the price is going to rise.
+
+I found a product (DR1WBM) which projects the price of one ton of CO2 1:1. What is your take on this? I'd invest around 15% of my current portfolio in this
+
+I DON'T want to discuss the ethics, morals or sense in CO2 trading or global warming in general here_END_OF_POST_PYSTOCK_ Languages in Investing, Finance and Forex Sorry if this may sound like a stupid question however I think it might be useful to know.
+
+So I’m continuously looking to improve my FX and investing knowledge and was thinking... While trading I always use English for the reports, news, fundamental analysis etc. I know English is the lingua franca but what are other important languages in finance, investing and FX? 
+
+I am looking to learn a second language and this could go hand in hand with trading._END_OF_POST_PYSTOCK_ Using simple moving averages for swing trades It's academically established that momentum investments (i.e. buying securities that are upward-trending in price, and vice-versa) consistently generate abnormal returns due to investor-irrationalities. Would this hold in the short-term through swing-trading based on SMAs?_END_OF_POST_PYSTOCK_ How to invest in BTC so late in the game I believe BTC has huge potential starting now, however i am so late in the game yet would like to invest especially using leverage. What would you recommend is a good way to join the game without risking too much? I have around 5-10K USD to play with._END_OF_POST_PYSTOCK_ How does an ETF like QQQJ increase in value? I bet this is a pretty dumb question to ask, but I think the answer I receive will also give me knowledge on the stock market itself.
+
+So, how does QQQJ increase in value? If they are invested in the 101-200th NASDAQ companies, is it because when the companies they hold raise in value and get into the top 100, they sell the shares with their profits and reinvest it into the next 101-200? How does this ETF make money if it's caps itself to 101-200? Is it also because as the stock market itself increases, the average value of the 101-200 increase as well? Are both of these theories correct and both together have a compounding effect?
+
+On this note, does an ETF like this pose a large risk? It seems to me that considering it follows the NASDAQ, it should still increase in price over time similarly to SPY with the S&P 500. If this is the case, what is stopping me from selling all my SPY shares and investing in this lower-cost ETF? Is it because the 101-200 is more volatile?
+
+Thanks in advance :)_END_OF_POST_PYSTOCK_ What's your advice on bank loans, short length and I get rid of the debt asap, or I opt for a longer duration so I don't feel the monthly loan ? This question is addressed to investors who use bank loans to buy real estate, that they intend to rent out.  I'm about to take a bank loan to invest in real estate (pure good debt), would it be better if I pay down the maximum and make the length short, or I keep my cash and choose small monthly payments?_END_OF_POST_PYSTOCK_ For your bond allocation, do you choose investment-grade or high yield bonds? I a lot of discussion regarding bond allocations of your portfolio making up a certain percentage (10%, 20%, 40% etc) of your portfolio. Are these usually in lower yield investment-grade bonds? Or is it OK (but more risky) to hold your 10% allocation in high yield "junk" bonds? I would likely be using a bond ETF._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Stocks: what sources of information and analysing tools do you use? I **manually extract directly from 10k's** into excel, along with consumer experience and company related news from Google Alerts.
+
+Do you use any websites or API's that show ratios/have 10k information/make forecasts?
+
+I'm interested in knowing alternative ways to do it and if other people use automated extraction mechanisms._END_OF_POST_PYSTOCK_ Target day fund vs making my own portfolio Are there any inherent advantages of owning my own portfolio of etfs and mutual funds in oppose to a target day fund? I am willing to spend some time researching and like the bit more control over my asset allocation.
+
+However, it is a hassle not being able to set up automatic payments on etfs like I can on mutual fund or target day fund.
+
+I am currently  thinking of doing a hybrid to get the best of both worlds (half of money in target day fund, half in my own mutual fund choices, I.e. Sp 500, schwab 1000, bond index, real estate)..... Is this a good idea?_END_OF_POST_PYSTOCK_ Anyone noticed insider selling on $WMT? The Walton families have been selling their shares constantly since November through just few days ago. Can't find an article that says the reason they are selling their own shares. Peter Lynch said insider buying is almost always good but insider selling might sending some not so good signals. Maybe they were planned sell but it worries me as an investor. Maybe it is related to recent opium law suit?_END_OF_POST_PYSTOCK_ RYCEY Stock After doing a lot of research which I advise you guys do, the current price at 1.58 seems like a great price to average down or buy in. It has decent resistance at this price range and with the flights slowly returning I can see a double or triple times gain in a year or two. I added another thousand shares today to my current 2000 shares and going to hold until 2022! LETS MAKE THIS BREAD!_END_OF_POST_PYSTOCK_ 18 Year Old with a Severe Case of FOMO? HELP PLEASE Hey guys. I know Reddit isn't the best place for advice, but I don't know where else to turn. I'll try and give as much background information as possible since that seems to be appreciated here (for good reason). Also, I understand that I am very fortunate and ahead of the game, so please spare me those comments.
+
+I just turned 18 and I have about $16k to my name from working, investing through a custodial account, and money from my grandparents. My parents are paying for my college along with the scholarships that I earned and I will major in either Mechanical Engineering or Electrical Engineering and potentially shoot for an employer sponsored MBA after that to get to a managerial position.
+
+Seeing my parents' situation (they didn't exactly start investing young and will likely not be able to retire until 65 or 70) I have always made it a priority to be financially responsible. It's also in my nature to not spend money, and I am a minimalist. I have taken 4 years of business classes at my high school (for what that's worth) and have followed the investing world, having skin in the game since age 13. Since then, I have had a mutual fund with my parents' financial advisor that underperformed the S&P and had commission fees, but I wasn't so keen on all of that back then and still managed to see profits in this long bull market. I just liquidated it.
+
+I set up a Roth IRA on my 18th birthday and am waiting for some checks to clear to my new bank account so I can make my $6k contribution for 2020 (the deadline is  in Apri 15, 2021 I think, but I will invest in January).  I was doing the math on going all in on FXAIX (0.015% expense ratio S&P 500 index fund) on the ~10% S&P returns with the $6k annual contribution and looking at the numbers. Even with other investments, which I will be sure to have (suggestions on the types of accounts to use besides Roth IRA appreciated, if there are any) it will take. let's just say a long time to retire (I might be wrong, but I can't really predict my salary, living expenses, and how much retirement will cost).
+
+However, everywhere I look I see people making life-changing investments. I get that it's a bull market, but whether it be TSLA or BTC, I can't help but compare what would be my measly 10% returns to their "I can retire now" returns. And seeing as snowboarding is my greatest passion, and it isn't exactly an old man's hobby, I evny that seriously. I get that this leads to emotional and return chasing investing, but it's got to be excruciating watching your portfolio grow slowly at your 9-5 while you have some Bitcoin kids driving around in Lambos, right? Even if I dabble into stock picking by researching fundamentals, my returns will not be THAT great, and would have to risk a large portion of my portfolio in order to realize them.
+
+I have been watching the price of BTC just because I found it interesting, and while I understand some of the fundamental technology, and probably understand it more than some of the people that got rich off of it, I don't have a deep understanding of it, and never invested. Now each day I watch the price climb I get frustrated, and I got very emotional watching this video for some reason:
+https://youtu.be/-ZqQNaNcDz4
+
+I also find myself watching clickbaity YouTube videos and even some of the ads, I know the ADS about basically ways to "get rich quick." The appeal is starting to crack me now that I am beginning to put my life in perspective.
+
+I know that this post has kind of been all over the place and really long, but I am kind of emotional about it (I am crying while writing this for some reason). I know that emotions are really bad for investment decisions, and I will only make them when I have a clear head and can think logically. I guess that I'm facing the fact that I don't really know how risk tolerant I am (not based on my age, but just personally)? Am I internalizing the debate between "S&P 500 INDEX FUNDS FOREVER, YOU CANT BEAT THE MARKET" and "TSLA CALLS, STOCKS ONLY GO UP, BUY HIGH SELL LOW LOL, BTC 🚀"? One certainly sounds more fun...
+
+I get that I know probably more than most 18 year olds about this stuff, but still recognize that I am a young and inexperienced teenager compared to most older people. Any advice appreciated._END_OF_POST_PYSTOCK_ 2020 Contributions Hello, I am currently roughly 1500 short from reaching the contribution limit for 2020 in my ROTH IRA, but it is technically now 2021. I have found conflicting results when trying to search and can't find a concrete answer. Am I allowed to contribute for 2020 before April 15,2021, or is the deadline January 1,2021?_END_OF_POST_PYSTOCK_ Question about RORACs, can the net income in the numerator be negative? Just a quick question. Thanks in advance!! I was wondering if in the numerator of the formula (Net Income / Risk-Weighed Assets) could be negative? Or do I turn it positive? I have just learned about RORACs, and was calculating one for $CHWY but their net income was negative this past year, do I make it positive? Again, thanks in advance!_END_OF_POST_PYSTOCK_ Will market index continue to rise indefinitely or will it reach an asymptotic limit? If we look back at the short term since the inception of things like Dow Jones industrial average or S&P 500 index, it has certainly risen since its inception until now. The question is, will these market index markers continue to increase indefinitely?
+
+For example, we may simply look at the past and make the assumption that Dow Jones will reach 900,000 in 35 years, which may or may not occur (because if that is the case, why wouldn't anyone simply dump as much money as possible into these indexes for an almost GUARANTEED long term return of gargantuan magnitude).
+
+If individual companies grow and bust but the market index only picks the strongest of players, what would it take for this indefinite increase to be not a reality? Are we talking about a financial crash that will remove the USA from the global financial stage or the US Dollar weakened to a degree where it will no longer hold significant meaning in the global currency sense? Similar to the crash experienced by Japan? Or perhaps a stagnation in discovery and invention where no further advancements are possible?_END_OF_POST_PYSTOCK_ What does "taxable account" refer to in this context? Fund 401(k)-type plans to the full employer match, if any.  
+
+Fully fund a Roth if your income is low enough that you are paying little or no income tax.  
+
+Once your income tax rate rises, fully fund a deductible IRA rather than the Roth.  
+
+Keep the Roth you started and just let it grow.  
+
+Finish funding the 401(k)-type plan to the max.  
+
+Consider funding a non-deductible IRA if your income is such that you cannot contribute to a deductible IRA or Roth IRA.  
+
+Fund your **taxable account** with any money left.  
+
+-- What does taxable account refer to?_END_OF_POST_PYSTOCK_ If you want to learn how to trade please DON’T listen to people who made all of their gains this year, they have no clue what theyre talking about I’m gonna be honest here
+
+I’ve seen SO many “Gurus” show up this year on Instagram, TikTok, YouTube and god knows what other platforms
+
+All claiming they made really great returns but just started trading this year....in March...literally at the bottom of the market.
+
+Please don’t listen to these guys
+
+People who’ve made all their money on one or two stocks from just throwing money at the literal bottom of the market don’t know what they’re talking about 
+
+I know this seems obvious but man I’ve seen so many, and just today I had my brother in law tell him his barber was giving him day trading advice
+
+To those asking: Read a book to learn, idk where you should start. 
+
+Wanna learn TA? @butimnotatrader on YouTube provides some crazy predictive stuff to the T -  https://youtube.com/channel/UCfsjoc_1Q9ue1pL0BpehqmQ
+
+Cue banks Confluence 2.0, teaches you about setting support and resistance, I think this is a paid video that got uploaded? - https://youtu.be/9X3tQcwE5hQ
+
+Macro economics? Some dude named Steve on YouTube where his wife makes him props (don’t know the channel name) he’s really good at explaining trickle down/up economics
+
+Don’t listen to Graham Stephen or meet Kevin, I don’t hate them, just...ugh. Clickbait.
+
+Other than that I have no clue where you should start. Everyone kinda sucks._END_OF_POST_PYSTOCK_ An observation As I discover more and further enjoy my 5 year  journey of systematic investing/occasional trading  using a combo of algorithms and intuition with quite some help from the Internet community,  I wanted to share an analogy for beginners and pros alike which helped me discover investment in a better way 
+
+Systematic investing is like sipping a cup of coffee, no matter how large the cup. You want to sip just about enough to get the right caffeine kick with every sip perhaps instead of infrequently gulping down a lot or sipping very little hoping for the elusive double caffeine kick,  happy new year folks._END_OF_POST_PYSTOCK_ How much do you weight fundamental analysis in options trading? New trader here. I have been learning about trend lines and moving averages, and they seem like pretty simple tools to use to figure out where a stock is going.  I was wondering how often options traders use these to establish positions, and how more fundamental analysis plays a part amidst these other tools. How important is it to know things like who is running the company, its assets/liabilities, etc? Thank you all and Happy New Year!_END_OF_POST_PYSTOCK_ I'm using a advisor for a chunk of cash. Considering pulling it and doing it myself. I like my guy but I'm just curious if I should just VTSAX and chill? I have around $300,000 with them. I haven't contributed any money to it in a long time. But I do feel like it should be performing a little bit better but I want to take a more active role and putting it into my own Vanguard account (Even with their antiquated and clunky app) seems better than the TD Ameritrade adviser client app. I can't see percentage gains and other functionality very well.
+
+ I guess I'm just asking why shouldn't I just do this myself rather than paying somebody else a 1% fee_END_OF_POST_PYSTOCK_ Let's reflect on our performance in 2020 *Happy New Year, folks! It's certainly been an interesting one.*
+
+*I thought it would be interesting to look back on how we did for the year and reflect on what went right and what didn't.*
+
+I'll go first. This year, my CAGR ended up around a tidy 30% (Personal RoR, although my TWRoR is similar). 
+
+I'm quite happy with my performance, given my relative inexperience (I've only been in this game for ~4 years, and this was my first year trading options). We'll see how much of it I'll have to give back in the next correction.
+
+**What did I do right?**
+
+Well, my core positions have been pretty consistent. ~15% of my portfolio is in semiconductors, mainly TSM, and the structural advantages, increasing applications, and large moat that this industry has continues to pay off. 
+
+My next largest sector is consumer discretional retail (AMZN, BABA, MELI, RTH, WMT), which saw a huge boost because of the lockdown. I am worried about seeing some pullback next year and shoppers return to their previous habits, but we'll handle that if/when it occurs.
+
+My biggest gains have been from well-timed purchases of smaller cap companies: BJRI, BLMN, M, JWN, DLTR, and AAL were all very kind to me.
+
+ARKK, ICLN, and QCLN have been good ways of getting exposure to areas where I don't have a strong point of view, but see potential for continued gains.
+
+I got into SPACs the last few months of the year. It's a relatively low-information market, and seems somewhat luck-based, but I have made some successful plays there as well.
+
+My decision in August to keep any funds not allocated to an active strategy or thesis in VTI and VTWO instead of in BND or as cash has paid off, due to low interest rates and asset inflation.
+
+**What was just OK?**
+
+My third largest sector is healthcare, which underperformed relative to the eyepopping gains in tech and retail. I'm alright with the opportunity cost there.
+
+I made a small investment into Bitcoin, which I sold at $19k after a 16% gain. I should have held (hedled?) - but I have trouble remaining confident in investments without a strong underlying value investing thesis.
+
+My luck with short-selling has been poor this year. My short positions in GSX and NKLA were pretty successful, but I lost a lot of money shorting FCPT, ACC, BLMN, and BJRI earlier in the year. On the other hand, the excellent performance of BJRI and BLMN meant I later turned them into (ultimately very profitable) long positions, which I likely wouldn't have discovered without the initial short thesis.
+
+There are so many astounding run-ups I knew about rather early on and missed out on: TSLA, MRNA, NIO, PLTR, QS. The hype around these tickers and the sky-high PE ratios scared me off, which might not be a good response in the current market regime. That said, my investing style has to fit my philosophy and psychology to work, so I'll remain disciplined in trying to find opportunities that match my approach.
+
+
+**What choices were mistakes?**
+
+I tried options this year. I began by paper trading options and lost a lot of (fake money). I then moved on the real-life option plays, and basically broke even. Even so, the stress is *unreal*. I understand how the option greeks and Black-Scholes works, but it still catches me by surprise when the price moves in my favor and my positions lose money anyway. The wide bid/ask spreads and crazy volatility is really hard to deal with, and a single options play starts to take up more space in my head than the rest of my portfolio. As a result, I often end up selling too soon. I don't think directional options plays are for me. I may try selling covered calls in the future.
+
+About 60% of the time I've tried to catch a falling knife this year, I've failed. OTGLY and SWI are two good examples. I'm still not sure how to deal with this.
+
+I suck at scalping - My attempts at day-trading SPXL and SPXS during March and April's high-volatility periods destroyed the subsequent 3 months of returns.
+
+**What did I learn?**
+
+Value investing is still alive and well in 2020 - you just need to understand how to look for opportunities and value growing companies.
+
+I need to respect the tax man: I didn't max out my 401k contribution this year because I wanted to amass some cash in order to eventually put a down payment on a property - I'm going to pay for that in April.
+
+I still don't know where the sweet spot is for leverage. I know options aren't it for me, but I can't help but feel that I could improve my returns by levering up on my high-conviction, low-volatility plays. I'll continue to explore this in 2021.
+
+Excited to see how you all did this year!_END_OF_POST_PYSTOCK_ Denison Mines Invested $1k into Denison Mines (DNN) and will be chipping in $100 each month for 5 years. I anticipate the 🚀‘s in 2025-2026 timeframe. Buying low now in the high quantities over time. How stupid or great is this? Will the risk and wait be worth it? Just share buying over time with the anticipation this gains some 🚀‘s. Opinions please and thank you
+
+I believe uranium will be on the demand soon and am playing this risk 😀_END_OF_POST_PYSTOCK_ Best Roth IRAs? Hey y'all I've had my Wealthfront Roth IRA for a little over a year now. Put $4k in in 2019 and $4.2k in this year. Currently looking at a 17.77% weighted return. I know it's roboadvising but as I am a college student I was pretty new to investing and Wealthfront seemed like a good idea at the time. Reconsidering to moving to a non-robo advisor in order to not have 0.25% taken from me lol. Thoughts? Would love recommendations on good Roth IRAs. Pls be real with me too, always looking to learn!_END_OF_POST_PYSTOCK_ what are some growth stocks and value stocks? what are some growth stocks and value stocks? can you give 5 examples for each? 
+
+i hear The Growth-> Value rotation is just beginning with new admin and janet
+
+what are some growth stocks and value stocks? can you give 5 examples for each? 
+
+i hear The Growth-> Value rotation is just beginning with new admin and janet_END_OF_POST_PYSTOCK_ Curious about gold mining stocks? I don’t know too much about it? Can someone help fill in some details.
+
+From what I understand, investing in a mining stock is investing in a company that mines gold, silver, among other metals. Why is this viewed by many as a good investment?
+
+I know the place gold and silver in finance, as a hedge to inflation, but what is the thinking investing in those companies exactly? The mining of these metals backs the company which in a way backs the stock? I need some clarity here.
+
+ Also can some give me a few names of mining companies/ stocks they’re familiar with? 
+
+Thanks in advance_END_OF_POST_PYSTOCK_ Covered calls to supplement dividends If you sell covered calls, and they expire, and you renew them by selling more covered calls, and keep selling more every time they expire, you can make a lot of extra money that way.  It's like getting a big bonus on your dividends.
+
+&#x200B;
+
+But I have a question about how that works.  When they expire, you can sell more covered calls the next day?  Or the same day?  What hour of the day?
+
+&#x200B;
+
+Also how do you know when you're getting a good price for them?_END_OF_POST_PYSTOCK_ SP500 PEG Ratios showing the market is overvalued? I started looking into PEG ratios (price/earnings to growth **ratio**) where a value over 1.0 suggests the asset is overvalued.
+
+Here is an interesting PDF that calculated several similar values, showing only the materials sector is undervalued, everything else is ridiculously expensive!
+
+Thoughts?
+
+[https://www.yardeni.com/pub/spearnrevalgrpeg.pdf](https://www.yardeni.com/pub/spearnrevalgrpeg.pdf)_END_OF_POST_PYSTOCK_ Opinions of ARK etfs I just saw the astronomical returns ARK etfs like ARKK and ARKG have done this year. As actively managed etfs, the fees are high, yet I feel the gains put them in a league of their own. As a non active investor, should I just put my money on this etf that significantly beats the S&P? Thoughts?_END_OF_POST_PYSTOCK_ 'There is still a painful void:' Greenwich's Ray Dalio opens up about loss of son >GREENWICH — The loss of his son in a crash nearly two weeks ago “triggered an enormous amount of pain and reflection,” Greenwich entrepreneur and philanthropist Ray Dalio said in a lengthy essay released Wednesday.
+
+>Devon Dalio, 42, was killed Dec. 17 after his Audi crashed into a Verizon store in the Riverside Commons shopping center in Greenwich and caught fire.
+
+>In the essay, published on Ray Dalio’s LinkedIn account, the billionaire hedge fund founder reflected on the 13 days since his son’s death.
+
+https://www.greenwichtime.com/local/article/There-is-still-a-painful-void-15837125.php_END_OF_POST_PYSTOCK_ Thinking of investing 50K I saved...need advice? Hey guys. 
+
+I finally paid off my student loans (30K USD). I was lucky to land a job out of graduation this year. I graduated in April 2020, and started working in May. My annual salary is around 80-85K. I just turned 25. 
+
+I have around 50K ready to be used. I’m thinking of keeping 5k for emergency fund reasons. 
+
+I was thinking of just putting in 45k spread across various ETFs in a roboadvisor. I’m a fairly new investor so I’m still learning.
+
+My friend on the other hand has made a lot of money with successful investments. He’s won big with Shopify, NVIDIA, Amazon, etc. Easily has over $300K now in assets. He kinda inspires me. Lol. He tells me that at the annual return rate of even 10% per year for ETF’s is nothing. Doesn’t excite him. But he told me I need to really do my research on individual stocks if I were to purchase them. 
+
+On the OTHER hand, I was just thinking why not just save up money and move out eventually? But the thing is... my lifestyle at this current moment doesn’t really call for a drastic move like moving out. I live at my dads and I don’t pay rent/food. I do feel like sometimes I’m missing out? But that feeling goes away.
+
+What do you guys think? Would love to hear advice._END_OF_POST_PYSTOCK_ Western Digital (WDC) rose 11.83% today. Anybody know why? One article mentions some bullish calls on the stock. But is that enough to make the stock rise by nearly 12% in one day. It just seems strange that it would rise so much based on so little.
+
+What other cases have you seen where stocks rose a lot for little or no apparent reason?_END_OF_POST_PYSTOCK_ Thoughts on Old School Value's stock tracking spreadsheet? I have been looking for an excel/google sheets based portfolio tracking system and came across Old School Value's [spreadsheet](https://www.oldschoolvalue.com/investment-tools/stock-tracking-spreadsheet/). Has anyone used it? I'm new to this so wanted to know if this is a secure way of maintaining an investment portfolio? Thank you!_END_OF_POST_PYSTOCK_ A video, web course, book etc on investing? Though this question may have been asked before, I know information could be updated etc in terms of who gives more clear content etc
+
+I see posts on other social media sites of people asking ‘what to invest in’ and I’ve replied by saying to do your own research etc. They usually don’t follow that and listen to people posting tickers etc.
+
+Was there a YouTube vid etc that helped in:
+
+(1) introduction to stock market introductions
+
+(2) How to invest/do your own research/what to look for?
+
+It could even be a book! 
+
+What is your top recommended source? Could even be something that worked for you
+
+Happy holidays and thank you!_END_OF_POST_PYSTOCK_ Dumb question about investing 1,000 dollars into VTI. So, let's say I invest 1,000 dollars into VTI and I get an annual rate of return of 10%. After 1 year, my investment becomes 1,100 dollars. 
+
+My question is, after another year and it appreciates another 10%, does it become 1,200 dollars or 1,210 dollars? Because fundamentally, I still just started with 1,000 dollars, right? so I don't really understand how the whole time in the market and exponential growth thing is supposed to work. When I watch videos on youtube, I'm led to believe that the answer should be 1,210 dollars but in my mind, I feel like it should be 1,200. 
+
+Might be a dumb question but any clarification is appreciated._END_OF_POST_PYSTOCK_ Hedging your portfolio Just out of curiosity, does anyone make moves to hedge their stock portfolio to prepare for potential crashes or downturn in the markets? Is it worth it for retail investors? Such as buying something benefits when the VIX spikes or S&P puts. Is hedging only worth it if your portfolio reaches $X amount? Would love some insights and if you could share 1) How much money you have in the markets and 2) what is your strategy for hedging if you do._END_OF_POST_PYSTOCK_ My personal analysis on Best Buy $BBY. I'm trying to get better at analyzing companies. Please let me know what you think of this! I REALLY do appreciate any and all input! Thank you. I originally posted this in another forum but I'm posting this here to get y'all's thoughts on this analysis. Please let me know what you think!
+
+Best Buy is a seriously undervalued stock at the moment. This is a fundamental investment idea and full disclosure I AM NOT A PROFESSIONAL TRADER.
+
+Alright let’s get down to it. 
+
+The below information is a comparison between the Nine Months Ending of November 2, 2019 and October 31, 2020. BBY pulled back from a 52 Week high of $124.89 to right around $99.79 today. This has happened despite a rather substantial increase in many metrics. These metrics are a culmination of both domestic and international stores. However, BBY is ceasing all operations in Mexico hopefully by early fiscal 2022. They will remain in Canada (which will now be their only international business segment). 
+
+· Retained earnings increased 23.2%
+
+· Diluted EPS increased from 2.96 to 3.74
+
+· Revenue increased from 1.3% to 6.6%
+
+· SG&A as % of Revenue DECREASED from 20.1% to 18.3%
+
+· Domestic online revenue grew roughly 174%
+
+​
+
+Below is a breakdown of their business segments and how their sales increased:
+
+· Computing and Mobile Phones: The 21.5% comparable sales gain was driven primarily by computing and tablets, partially offset by declines in mobile phones.
+
+· Consumer Electronics: The 21.1% comparable sales gain was driven primarily by home theater and digital imaging. 
+
+· Appliances: The 39.3% comparable sales gain was driven by large and small appliances.
+
+· Entertainment: The 17.5% comparable sales gain was driven primarily by gaming, virtual reality and drones, partially offset by declines in movies.
+
+· Services: The 12.7% comparable sales gain was primarily due to our warranty and support services.
+
+​
+
+Below is some general information about BBY and a few quotes from their latest quarterly report:
+
+General Info:
+
+· BBY increased ALL employees pay to a minimum of $15 an hour
+
+o This is huge because it is statistically proven that the amount of pay employees receive directly effects their performance, and therefore BBY’s performance.
+
+o I realize it’s not huge, but when you are struggling that is a huge deal
+
+· They issued $650 million in new notes due Oct 1, 2030 at 1.95%. They are using this to pay off $650 million debt coming due March 15, 2021 at 5.50% - Huge savings for them
+
+· They donated 40 million to their foundation to help reach their goal of 100 Teen Tech Centers
+
+o This helps underserved kids to have access to technology
+
+Quotes: Very important info here!
+
+· “On February 23, 2019, our Board of Directors authorized a $3.0 billion share repurchase program. There is no expiration date governing the period over which we can repurchase shares under the February 2019 authorization. On March 21, 2020, we announced the suspension of all share repurchases to conserve liquidity in light of COVID-19-related uncertainties. We resumed repurchases in the fourth quarter of fiscal 2021.” 
+
+o “As of October 31, 2020, $1.9 billion of the $3.0 billion share repurchase authorization was available.”
+
+· “Our better-than-expected sales resulted in significant operating income rate expansion and earnings growth of 33% over the same period last year.”
+
+------- And here is the best one -------
+
+· “Historically, we have generated a large proportion of our revenue and earnings in the fiscal fourth quarter, which includes the majority of the holiday shopping season in the U.S., Canada and Mexico.”
+
+o Their sales and revenue have increased substantially AND their MOST profitable quarter is yet to be reported. 
+
+​
+
+So, what does all this mean?
+
+The buybacks alone should increase the stock 5%. 
+
+They are raking in money hand over fist, despite their most profitable quarter not being reported. 
+
+They are getting the fuck out of Mexico (it wasn’t profitable this year and barely profitable in years prior)
+
+They took advantage of the current interest rates and are restructuring their debt, smart.
+
+They are investing in their employees by paying them more AND helping them with COVID related hardships
+
+TLDR:
+
+BBY has drastically increased their revenue due to a huge increase in sales while managing to actually reduce their costs as a % of revenue. Their most profitable quarter (4th quarter) is yet to be reported and I know they will perform. 
+
+
+ 
+
+Thanks for reading. Happy Holidays._END_OF_POST_PYSTOCK_ CMO vs RMBS Hey there. A doc I read states that CMOs are collateralized only by pass through MBSs, hence they are a repackaging of the repackaging. But as I understand it, that is not correct? I thought CMOs were time tranched RMBSs to spread prepayment risks backed by the mortgages itself or, but less often, RMBSs? 
+
+Thanks._END_OF_POST_PYSTOCK_ What happened to $TRNX Taronis Technologies? Yesterday I had 5 shares that went up 25,200% but it was untradable. Now I have 1 share that is down 99.9%. Anybody know what happened? 
+
+Also, if you try to research the company from Google links, they all are spam from law office links that claim to fraudulently give you a virus. Very strange. 
+
+Plus, this post wasn't long enough to post in stocks, so I'm trying to make it work on here, so I'm posting extra words. 
+
+$TRNX_END_OF_POST_PYSTOCK_ A Good Video on Tesla I know many here are knowledgeable enough to already know about the p/e ratio of Tesla and much of the other financial information related to this equity.
+
+I do think though that sometimes a video is able to "bring life" to the numbers or help convey a point.
+
+I stumbled upon this in another discussion and I thought I would share for the community:
+
+https://www.youtube.com/watch?v=Nz7hsHC2ORE&feature=youtu.be_END_OF_POST_PYSTOCK_ Not one post for NLY? Really? I'm just surprised that there's not ONE post here for Annaly Capital?  Wow.
+
+Well, now that you're here, if someone could explain to me how they can go for 6 years without changing their dividend?  Do they really pay out all their earnings, or can they buy/sell something to keep their dividends flat?
+
+I've been making good money off NLY since 2004.  "Making" might be a stretch as I paid $9.94, but I've been living well off the dividends for a couple years now.
+
+Now Zack's is saying it could double next year, which would surely make me happy, but I'd be happier if they just raise their dividends for the first time in a LOOONG time!
+
+Thanks, all!_END_OF_POST_PYSTOCK_

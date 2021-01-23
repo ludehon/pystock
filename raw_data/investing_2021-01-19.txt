@@ -1,0 +1,506 @@
+ Big investment opportunities in tech companies who adopt this business strategy Hi everyone,
+
+I work as a product manager at a large tech company and as part of my job it's important for me to understand major technology trends and strategies. I put this post together to outline a major new 'moat' strategy being used by some of the world's best SaaS companies. I've also highlighted some of the best related investment opportunities.
+
+If you found this post valuable and would like to read more please let me know. I'm thinking about writing like this more often if it's something people get value from. Thanks a lot
+
+# The Lock-Expand-Improve Strategy
+
+In 2016, Instagram launched their ‘Stories’ feature. Instagram Stories was an almost direct copy of Snapchat Stories (even copying the name). Whatever your opinion on such a move, it has most definitely paid off. By 2019, the daily active user count for Instagram stories was twice as high as Snapchat’s total DAU count.
+
+Building great software is still one of the most important things that software companies should be focused on. But it’s not enough. In a world where your best features can (and will) be copied, companies need to focus on building a strong economic moat around their business.
+
+First coined by Warren Buffett, an economic moat is a company’s ability to build and maintain a durable competitive advantage while protecting its long-term profits and market share.
+
+>“The most important thing \[is\] trying to find a business with a wide and long-lasting moat around it … protecting a terrific economic castle with an honest lord in charge of the castle,” - Buffett
+
+I believe that there are 3 ‘types’ of moats in particular that when built together by tech companies, will compound upon each other to create a hugely defensible business. This business strategy will be one of the most important strategies of the next 10 years. Companies who can successfully execute on this strategy will dominate their markets and deliver outsized returns to their investors.
+
+I call this moat strategy the **Lock-Expand-Improve** strategy.
+
+In this post, I’ll first briefly explain some of the traditional moats currently seen in tech companies. Then I’ll go into detail on the lock-expand-improve strategy. Finally, I’ll highlight a few tech companies that I think are best positioned to execute on this strategy and therefore make for great investment opportunities.
+
+## Traditional Business Moats
+
+* **Deep Technology/IP:** Sometimes, companies can build a massive economic moat by having deep technology that is at least 10 times better than the competition. Google’s search engine is the classic example of this. Google joined the search wars somewhat late but had a solution that was far better than Yahoo’s.
+* **Economies of Scale:** The bigger your are, the lower your costs will be due to having more operating leverage. This means that you can earn more money per customer (at the same price) or provide a cheaper solution than your smaller competitors. Software companies in general are great examples of economies of scale due to the almost zero additional cost of production involved in acquiring another customer.
+* **Network Effects:** Your product/service has network effects if its value increases as the number of people using it increases. Social networks and messaging products are classic examples of network effects. Network moats can be incredibly defensible. Why would I download a new messaging app when all of my friends are using WhatsApp?
+* **Brand Loyalty:** A strong brand can be a moat. Think Apple, Coca-Cola, Gucci. Instantly recognisable brands that have built huge businesses by cultivating brand loyalty amongst their customers.
+
+The above moats have built some of the biggest and most enduring tech companies in the world. Google, Amazon and Facebook all have one or more of those moats. But many of these moats can become shallow over time. For example, network effects have been key to Facebook’s success. The more users that use Facebook, the better Facebook becomes for each individual user (to an extent). However, Facebook’s network effects don’t stop users from adopting and using other social networks.
+
+Major platform shifts/trends can also make some moats a lot more shallow. The emergence of open-source software has made deep tech a far shallower moat in many instances.
+
+Today, for tech companies to build a truly durable competitive advantage they need more than one moat. These moats should also compound upon each other. The whole should be greater than the sum of its parts.
+
+Enter the lock-expand-improve moat strategy.
+
+## Lock-Expand-Improve
+
+Before explaining the lock-expand-improve strategy, it’s important to note that this strategy is focused on B2B/enterprise software companies. While aspects of this strategy could most likely be useful for companies in other industries/verticals, I’ll only be highlighting investment opportunities in the B2B/enterprise space.
+
+The most important thing to note about this strategy is that it is a compounding moat strategy. This means two things:
+
+1. Each step of the strategy must be in place for it to be successful.
+2. Each step builds upon the previous step to allow companies to build a stronger competitive advantage over time.
+
+While traditional moats allow companies to focus on protecting and improving their castle (business), these moats can get shallower over time. The lock-expand-improve strategy allows companies not only to to protect and improve their castles but also to ***dig a deeper and wider moat over time.***
+
+## Step 1: Lock-In
+
+The first two steps of this strategy are similar to the popular ‘land and expand’ strategy.
+
+The first step, lock-in (or high switching costs), involves making it very difficult for your customers to switch to a competitor. Here are some of the ways that software companies can achieve customer lock-in:
+
+1. **High sunk costs:** High sunk costs are a common feature of major ERP-style businesses such as ServiceNow or Oracle. Implementing these products can cost millions of dollars and take months to years. Once a customer has put that much time and effort into implementing your product, they will be far less likely to switch to a competitor.
+2. **Deep integrations:** If your product allows your customers to integrate with lots of other apps and data sources, it will be far harder for a company to switch to a competing product. They will not only have to replace your product but also replace all of the integrations that have been built up over time.
+3. **Business logic and workflows:** You can build customer lock-in by being the product in which a lot of customer information, logic and workflows are stored. A good example of this is Atlassian’s jira product. While the implementation costs for jira are low, a huge amount of organisational logic and process gets stored in jira over time, making it difficult to replace.
+
+## Step 2: Expand
+
+Once you have achieved customer lock-in, the next step is to expand into other product areas and use cases. The goal is to solve more problems and sell more relevant products to each individual customer.
+
+This multi-product strategy is a really powerful way of building a strong moat around your business. Even if the individual products are worse in isolation, the benefits of multi-product may far outweigh the negatives for customers.
+
+For example, a competitor may have built a sales analytics tool that is far better than Salesforce’s analytics product. But a large customer is not comparing both analytics tools in isolation. A large customer is comparing your analytics tool against the fact that they can also get their CRM, marketing and customer support software all from Salesforce. One contract. One vendor relationship. One login for employees.
+
+## Step 3: Improve with data
+
+Once a company has locked-in their customers and has expanded into new products, they can then begin collecting huge amounts of data about how their customers use their products.
+
+This final step of this strategy is the most important - Using customer data to provide tangible benefits to those customers and significantly improve their businesses. There are two main ways that data can be used to benefit customers:
+
+1. ***Focus on using the data from an individual customer to benefit that specific customer -*** Companies can use an individual customer’s data to provide actionable insights to that customer to allow them to improve their businesses. For example, People.ai uses ML to help companies uncover new revenue opportunities. Customer data can also be used to automate specific, repetitive tasks for customers. For example, UiPath (can’t wait for their IPO) provides RPA solutions to allow customers to automate repetitive tasks.
+2. ***Focus on using the data from all customers to benefit the entire customer ecosystem -*** Google is a great example of a company that uses a data network effect to their advantage. The more search data they collect from all searches, the more accurate they can make searches in the future. We are beginning to see some enterprise software companies move in this direction. For example, ServiceNow provides benchmarking data to customers to allow them to compare themselves against industry standards and improve their business from there.
+
+Artificial intelligence and machine learning have been buzzwords in the software world for quite a while. Up until now, we haven’t seen huge benefits from AI/ML strategies in b2b/enterprise software. I strongly believe that this is beginning to change. We are starting to see the big incumbents build or acquire meaningful data solutions (eg Salesforce acquiring Tableau). Companies that can leverage AI/ML to do meaningful and useful things with their customer’s data will have a huge advantage over their competition.
+
+## The Flywheel
+
+You can see how the lock-expand-improve strategy has such a compounding effect. By first locking in a customer, you can expand into new products, which allows you to then collect as much data as possible. Once you are collecting this data, you can then begin to use this data to provide big tangible benefits to your customers. These benefits mean your customers will be even less likely to switch to a competitor (lock-in) which will allow you to expand into even more products and collect even more data. The flywheel continues.
+
+That is what’s so powerful about this strategy - where many traditional moats get shallower over time, the flywheel effect makes this economic moat even deeper and wider over time.
+
+## Investment Opportunities
+
+*(\*\*\*Please note, that this post does not represent investment advice and these are just the companies that I'm excited about for my personal portfolio)*
+
+While there are many b2b/enterprise tech companies that have successfully executed on the first 2 steps of this strategy (lock and expand) and there are a number of companies placing a huge amount of focus on step 3 (improving with data), there are no companies who I feel have fully executed on this strategy in it’s entirety.
+
+From an investing perspective, the opportunity lies in identifying companies who are best positioned to (and would benefit most from) successful execute the lock-expand-improve strategy. Below are 3 such companies that I am incredibly bullish on.
+
+## Okta ($OKTA):
+
+Okta is an identity management company that provides identity services such as single sign on and user authentication. They are perfectly positioned to execute on the lock-expand-improve strategy.
+
+Okta has incredibly high lock-in properties. Once a product is managing your SSO, user authentication and provisioning services, it is not easy to replace. The switching costs are high both in terms of the amount of core business logic managed by the platform and the amount of integrations to other software products.
+
+Okta is successfully executing on the expansion aspect of this strategy too. They have moved into products such as API management and now have two major product areas; workforce identity management and customer identity management.
+
+I believe Okta has a huge opportunity to double down on their data initiatives and to truly start to help their customers to improve. They have already started doing so with their “Okta Insights” product which provides analytics and tailored recommendations to Okta customers. These products seem to be mostly focused on user security but imagine the further opportunities here - We are seeing an explosion in the number of SaaS products being used internally by companies. Okta is the single source of truth for companies to understand their SaaS usage, spend etc. Okta has a huge opportunity to leverage this information to help their customers choose the right tools, reduce unnecessary IT spend and much more.
+
+Okta is already the leader in the identity management space. If they continue to focus on their data strategy over the next few years then I firmly believe that the lock-expand-improve flywheel will begin turning and they will fully cement that position.
+
+## Twilio ($TWLO)
+
+Twilio provides communication APIs that allows companies to engage/communicate with customers over multiple channels such as SMS and Whatsapp.
+
+API products have very high lock-in characteristics. The more services that Twilio allows you to integrate with, the harder it becomes to switch to a competitor.
+
+Twilio is expanding into new product areas very successfully. They have expanded into new communications use cases such as video messaging and recently launched a programmable call centre product - Twilio Flex.
+
+What’s most interesting about Twilio is its data strategy. Up until 2020, they didn’t seem to have much of a data focus. But their recent acquisition of Segment looks set to change all that. Segment allows customers to make data-driven decisions around engineering and marketing., allowing them to improve their businesses over time. The Segment acquisition was a brilliant move. It makes Twilio’s position far more defensible. The flywheel effect could be very powerful here; Twilio already has high lock-in and is expanding aggressively, the Segment acquisition allows them to focus on helping their customers to improve their businesses through data.
+
+## Stripe
+
+Okay, I know - Stripe isn’t public. But I couldn’t help including them here. They look likely to go public in the few years and in my opinion are perfectly positioned to execute on the lock-expand-improve strategy.
+
+Stripe’s product has high lock-in properties, they are expanding aggressively into other product areas and have already built a very powerful data product - Stripe Radar which allows companies to detect and fight fraud.
+
+Stripe has all of the ingredients for a successful lock-expand-improve execution. Here’s hoping they go public sooner rather than later.
+
+&#x200B;
+
+&#x200B;
+
+If you liked this post lease let me know below. Are there any companies you think I should have added to the list?_END_OF_POST_PYSTOCK_ 3D Printing Sector on Fire! I haven't followed the 3D printing sector for long, so haven't been through previous run-up cycle, but right now there seems to be a ton of momentum. A couple of interesting recent events, Desktop Metal (DM) went public in December via a SPAC and is currently valued at \~5.5 billion. Back in 2018 they were the fastest startup to achieve unicorn status - [https://www.bizjournals.com/sanjose/news/2018/05/02/unicorn-startups-desktop-metal-grail-essential.html#g/433987/1](https://www.bizjournals.com/sanjose/news/2018/05/02/unicorn-startups-desktop-metal-grail-essential.html#g/433987/1)
+
+DM printers use binder jet technology that claims to be 100 times faster than traditional 3D printers. 
+
+The event that seemed to really set off the recent run-up was in early January 3D Systems (DDD) announced Q4 revenues would blow away previous forecasts and they had sold off some non-core software business and would retire their debt with the proceeds. This has resulted in DDD being up over 300% in the past couple of weeks. Now what is interesting to me is that 3D is not a new company, in fact it's quite mature having been founded decades ago and I believe has been a public company since the 90's as well.
+
+This has caused appreciation across the entire sector. ExOne (XONE) is another relatively mature 3D printer company that has binder jet printer technology similar to Desktop Metal but at a fraction of the valuation as even after a big run up this month of about 80% is is still just valued at < 400 million. It hit a 5 year high today. Full disclosure, I recently established a position in XONE.
+
+Looks like the previous sector runup was circa-2013 and then all came crashing down and remained level for years until recently. I assume the 3D printing sector ran up on hype back then and never materialized into concrete results. Desktop Metal even seems to play to this by stating they are an Additive Manufacturing 2.0 company and the rapid growth of additive manufacturing is occurring for real this time.
+
+So anyone following the 3D printing sector? Anyone around for the previous run in 2013 and have comparisons to what happened then to what is happening now?_END_OF_POST_PYSTOCK_ ICLN advice Hey all I’m currently up 179% on ICLN with a market value of 7k, personally unsure of what to do. I’m not sure if this kind of post is allowed here or not, but r/investing advice seemed dead. I see everyone moving on ICLN, and it seems like there could be a market correction could happen, but I’m in it with an average share price of 11 dollars. 
+Do I sell off now and hope for a correction to buy back or should I simply hold? Intended this as a long term investment._END_OF_POST_PYSTOCK_ Powerhouse Energy has an investor webinar on 21st Jan, 17:30GMT [Here is a link to the Webinar](https://voxmarkets.brand.live/c/powerhouse-energy-investor-webinar)
+
+I personally can't wait to ask a lot of questions about the future of PHE, who else is watching?
+
+&#x200B;
+
+The whole premise of PHE, licensing out it's DMG technology to convert Plastics to Hydrogen is fascinating IMO, it'll help with the UK's Hydrogen production and provide a way to make use of end of life plastics in an environmentally positive manner. 
+
+&#x200B;
+
+It is co-owning the first DMG uni in the Protos plant in NW England and they have a long pipeline of customers who want orders but won't want to be the first ones, now they will have the first unit operation by end of this year!_END_OF_POST_PYSTOCK_ What on earth is going on with the European Bank for Reconstruction and Development? I'm looking at a bond offering that was offered on Dec 1 2020, and matures on Dec 1 2021. Now, I'm finding this incredibly strange, because the coupon rate seems to be 75%, and the bond was offered at a discount, at 98.620. Now, I can't help but feel I'm seriously missing something here - what's the catch? I mean, this bond borrowed around 99 cents, and paying $1.75 within just a year. The offering was denominated in Argentinian Pesos, and I'm aware the country has a horrible reputation when it comes to sovereigns, but is this yield not a bit excessive?
+
+Then again, I could just be reading the S&P Capital IQ interface incorrectly. The ISIN is XS2265254834.
+
+Another reason I find these yields so crazy is that a few days ago, I'm pretty sure Greece sold bonds at a slight premium with no coupon, despite them also being a relatively risky investment._END_OF_POST_PYSTOCK_ INUV: Stock up +80% on bad news? Why? My stupid brain doesnt comprehend what is happening with this dumb ass penny stock.
+
+They have been bleeding money this year, they just closed an offering on a shit ton of new shares, obviously to fund operations cause they're losing money, yet the stock price exploded?
+
+Why would the stock price go up on the offering of new shares? Isnt that bad news? Or at best signal that there is bad shit going on internally and that they're low on cash?_END_OF_POST_PYSTOCK_ YELLEN SUMMARY TODAY. * Yellen again reiterates that the focus now is not on tax increases, but rather on relief programs tied to the pandemic.
+* Yellen says that technologies in **terrorist financing** change over time, and response also needs to change with it. She noted crypotcurrency as an area of concern for terrorist and criminal financing.
+* “I believe the future is likely to bring **low interest rates for a long time**,” she said, adding it is possible for rates to rise.
+* “I think we should take these risks very,very seriously. I think **climate change is an existential threat**.”
+* “I would be very pleased to take a look” at **issuing longer-term debt**, including a **50-year Treasury bond**, she says.
+* **Yellen goes on the offensive here over the question of the minimum wage**, saying the latest research shows only “minimal” job losses in states that raised their minimum wage levels.
+*  Grassley said he’s “closely examining” Biden’s $1.9 trillion stimulus plan. He says the plan doesn’t appear to be well targeted and says it’s **important to “focus efforts” on pandemic relief and not enact a “laundry list” of liberal reforms.**
+* This appears to be a stab at the plans inclusion of a $15 federal minimum wage in the plan.
+* She says there would be money for small business, grants to small entrepreneurs, eviction protections, nutrition assistance, paid leave -- all things to help minority communities.
+* To **not spend more on pandemic and economic relief would leave the economy worse off**, she said. She said without deficit financing this aid, the economy could have long run problems and “scarring.”
+* She says she is concerned that China is investing in electric vehicles and that most of the EV sales are projected to be in China in the coming years.
+* Yellen says that they would not seek to roll back the 2017 tax cuts “now” while the economy is still struggling.
+* Yellen says **the value of the dollar should be determined by markets, and the U.S. does not seek a weaker currency to gain a competitive advantage.**
+*  Some hedge funds have “dangerous levels of leverage,” Yellen says. 
+* Grassley says he’s told Yellen that **it would be a “big mistake” to raise taxes on individuals and businesses during a pandemic.**
+
+These are the most outstanding things that came to me for investing.
+
+***TL;DR MORE STIMULUS, MORE GREEN INVESTMENTS AND POLICIES AND COMPETING WITH CHINA, UPCOMING CRYPTO POLICIES, TAX CUTS ARE HERE TO STAY FOR THE PANDEMIC.***
+
+GOOD LUCK IN INVESTING. I HOPE YOUR AND MINE GREEN INVESTMENTS MOON!_END_OF_POST_PYSTOCK_ The Index-Fund Dilemma: An Empirical Study of the Lending-Voting Tradeoff  https://clsbluesky.law.columbia.edu/2021/01/19/the-index-fund-dilemma-an-empirical-study-of-the-lending-voting-tradeoff/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+cls-blue-sky-blog+%28CLS+Blue+Sky+Blog%29
+
+>The future of corporate stewardship – and therefore corporate governance – rests in the hands of a few large institutional investors.[1] Questions of whether these funds have the necessary incentives to pursue stewardship have set off an explosion of research by both legal scholars and economists alike. Some say that funds lack even the basic incentives to vote on value-enhancing corporate governance matters because, while even large benefits diffuse among investors, funds bear the totality of the upfront costs.[2] Others argue that funds – through their common ownership of nearly all public companies – have perverse incentives to encourage anti-competitive behavior.[3]
+
+>These questions are hard to answer empirically because fund incentives are not directly observable. But regulatory changes can provide an opportunity to observe how funds adjust their behavior in response, revealing a window into their incentives.
+
+>In a new paper, we look at exactly this: We examine funds’ incentives through an empirical study of the lending-voting tradeoff after the Securities and Exchange Commission’s 2019 guidance on funds’ fiduciary duties. The guidance departed from prior practice by encouraging funds to take into account “opportunity costs” of share lending when making their voting decisions. In the past, SEC staff guidance required that funds recall shares they loaned when material items were on the ballot to ensure that voting would occur.
+
+>We show that after the new guidance, funds dramatically increased share lending. Specifically, we show that for stocks with high index fund ownership – those having the strongest economic incentive to try to earn additional lending fees – the supply of shares on loan increases from 15.6 percent to 22.3 percent. Share supply increases by 3.8 percent, even for proxy fights.
+
+>More share lending means less voting – regardless of whether the shares are borrowed in the end. Because shares can be borrowed at-will from the lending agent or broker, and then voted by the ultimate holder as of the record date, shares put on loan do not carry voting instructions. Hence, shares made available for loan but not borrowed are not voted – making share lending a significant contributor to non-voting. By one estimate, in 2010 alone, 60 billion shares went unvoted, with 15 billion shares on loan.
+
+>With no fiduciary constraint on share lending, corporate elections can have surprising results. Most notably, in June of 2020, a proxy fight at GameStop surprised the investor and corporate community when activists with only 7.3 percent of shares won board seats despite opposition from large institutional investors that collectively owned around 40 percent of shares. This was possible because nearly 40 percent of GameStop shares (nearly all the shares held by institutions) were on loan, most of which were presumably borrowed by short sellers and other investors with goals contrary to the funds and similar long-term investors.
+
+>Our evidence supports the hypothesis that funds face a lending-voting dilemma, which speaks to their incentive problems.[4] While funds can in theory effectuate beneficial governance changes through cooperation and voting, each has strong private incentives to favor certain lending revenues over the uncertain and diffuse benefits of voting. Hence, the free-rider problem – made worse by the guidance – can lead to under-voting from a social welfare perspective.[5]
+
+>Low turnout by funds can have broad implications beyond governance. Today funds are beginning to lead the charge on environmental and social reforms. Indeed, recent research shows that funds can play an important role in identifying value-enhancing socially responsible investing (SRI) proposals and helping to increase overall shareholder welfare.[6] But public pronouncements will amount to nothing more than cheap talk if funds choose to lend rather than vote.
+
+>For those interested in fund stewardship the story does not end here. The Department of Labor has finalized rulemaking that would require pension funds to focus only on risk-adjusted financial returns in their investment and stewardship decisions. While the goal may be to protect investors from expropriation, the result may be to discourage voting on even widely accepted governance proposals such as separating the CEO and board chair positions when the implications for an individual company’s stock returns may be hard to predict.
+
+>As we have shown, funds already have strong incentives to favor lending over voting. Tipping the scales even further against voting, as the SEC and DOL have done, will likely drive funds away from participating in corporate elections – shielding management from accountability at the expense of shareholder welfare._END_OF_POST_PYSTOCK_ What does it mean to hold delisted stocks? Quite a while ago I bought Tiscali shares and never looked at them again. Turns out my stock has been delisted for a while now. I wonder what that actually means? I can still sell my shares and it is still being priced by my bank through-out the days. It actually went up the last couple of months.
+
+1)  How is it that a delisted stock is still priced, bought and sold everyday?
+
+2) What opportunties do delisted stocks provide?
+
+2) What dangers should I look out for?
+
+3) Should I dump the stock while I can, or should I hold on?_END_OF_POST_PYSTOCK_ Why Delta (DAL) is currently the best stock to invest? Currently, Delta Air Lines is $40. 
+
+Even in 2018, Delta was rigidly on $60 per share, so with an ordinary situation, it should be even more now. 
+
+What does an 'ordinary situation' mean? 
+
+No pandemic. Which means more flights. 
+
+It would be hard to predict the future before, but with Biden's administration and its promise to vaccinate 100 million people in the first 100 days, the situation should be stabilized pretty soon. 
+
+Even though earnings are still negative, there are linearly increasing after Q2-2020. So, even without external help, it's just a matter of time, since the situation gets closer to herd immunity.
+
+Besides ordinary flight, which is pandemic dependent, Delta got contracts with Amazon. So, their earnings will increase even in the case if a Covid-situation is still hard.
+
+Why Delta and not other carriers? (since they will be also positively impacted by vaccinations.) Because before that, they might get bankrupt.
+
+And Delta is the least probable for that. 
+
+Since... citing Robinhood's research report: "We think Delta is the strongest U.S.-based network carrier" 
+
+They have also increased its fair value to $43. While J.P. Morgan evaluated it as $48 per share._END_OF_POST_PYSTOCK_ $RIOT RIOT Blockchain - the largest Bitcoin miner (manufacturer) in the US, announced the receipt of 2,500 new Bitmain S19 Pro mining devices and will install them by the end of next week.
+
+By the end of October, it must receive another 28,100 mining devices. Nice!_END_OF_POST_PYSTOCK_ VBTLX - Bad year or am I missing something? New investor, just started earlier last year. I put $3000 in VBTLX back in July and, six months later, I am -$12 in the hole on this holding.
+
+Is this atypical? I thought the purpose of bond holdings were to smooth out investment gains with their low-risk, low-reward gains. If I am actually losing money with my bond holding (as in $ amount, not just inflation) then what is the point? IMO this seems low-risk, no-reward.  
+
+
+Was 2020 just an abnormal year for bond investments? Or should I pull out of VBTLX and find another bond holding?_END_OF_POST_PYSTOCK_ DCA into UPRO (3x leveraged SP500) and TMF (3x leveraged treasuries)? Let's get somethings out of the way, the following is true for me:
+
+* have faith in the SP500
+* 15+ yr time horizon
+* will use Roth IRA (or HSA if i'm feeling wild)
+* contributions made monthly
+
+Reading [this thread](https://www.bogleheads.org/forum/viewtopic.php?f=10&t=272007) got me thinking. Then it reminded me of [this book](https://www.amazon.com/Lifecycle-Investing-Audacious-Performance-Retirement/dp/B005X4I7ZI). tl;dr advocate leveraging as a young investor to 200% equities. Which got me thinking... how viable is 66/33 UPRO/TMF in order to attain a 200% equities portfolio?_END_OF_POST_PYSTOCK_ What is wallstreetbets on about with GME? I'm completely new to investing, not subbed to wsb but their gme thread hit the top of r/popular and I'm wondering what it means. Gamestop seems like the blockbuster of video games so I'm confused about how their stock is supposedly going to skyrocket all of a sudden. Sorry if this is not the appropriate place to ask._END_OF_POST_PYSTOCK_ 1Q2021 Chinese Economy Outlook: Return of De-Risking Focus Will Hurt Near-Term Growth The Chinese economy grew 2.3% in 2020. What's next in 2021?  This interesting outlook predict growth will slow down in Q1, and pick up steam in the second half as consumption improves.  In other words: 2021 growth will be a shallow V-shape. [https://macropolo.org/analysis/q12021-chinese-economy-macro-outlook/](https://macropolo.org/analysis/q12021-chinese-economy-macro-outlook/)_END_OF_POST_PYSTOCK_ Logitech LOGI Movement Has anyone picked up LOGI recently? I bought a share or 2 last week when I heard they had an earnings report on MLK day. I really think they are a solid/ promising company. Especially now with tons of people upgrading their workstations, buying webcams, and pc gaming. I was slightly disappointed with the movement right after open down about %1.50 right now. Patience is important, but was anyone else expecting a decent uptick today?
+
+
+https://www.google.com/amp/s/finance.yahoo.com/amphtml/news/logitech-q3-sales-grow-85-020000185.html
+
+Q3 2021 (reported Jan. 18th) 
+
+EPS
+Expected
+1.01
+Reported
+2.45
+Surprise
+141.86%
+
+Revenue (USD)
+Expected
+1.25B
+Reported
+1.67B
+Surprise
+33.90%_END_OF_POST_PYSTOCK_ kits eyeware ipo this week on the tsx this Vancouver based eye ware company is set to ipo this week on the tsx. there was a column about it on the globe and mail that caught my eye, and they were really selling it hard. should i be worried that its on the G&M, or does it not change anything? the company seems to be growing fast, and they have a good marketing team if they managed to get on the G&M, so they are doing something right. _END_OF_POST_PYSTOCK_ $SRNE $GEVO After the market opening you can keep an eye on:
+
+▪️ $ GEVO  - Lots of big institutions buying this stock up. It’s starting to get recognised much more widely. This will soon be reflected in the price. 
+
+▪️ $ SRNE -  These are some of the Top Institution’s and Mutual Funds investing in Sorrento. There is an abundance of information online for those willing to do their dd. Good luck.  
+
+
+Top Institutional Holders  
+
+
+Holder Shares Date Reported % Out Value  
+Blackrock Inc. 15,016,558 Sep 29, 2020 5.71% 167,434,621  
+State Street Corporation 11,708,587 Sep 29, 2020 4.45% 130,550,745  
+Vanguard Group, Inc. (The) 11,102,479 Sep 29, 2020 4.22% 123,792,640  
+Cormorant Asset Management, LP 6,000,000 Sep 29, 2020 2.28% 66,900,000  
+Geode Capital Management, LLC 3,134,150 Sep 29, 2020 1.19% 34,945,772  
+Morgan Stanley 2,742,494 Sep 29, 2020 1.04% 30,578,808  
+Northern Trust Corporation 2,655,065 Sep 29, 2020 1.01% 29,603,974  
+Charles Schwab Investment Management, Inc. 1,370,069 Sep 29, 2020 0.52% 15,276,269  
+Nuveen Asset Management 1,215,819 Sep 29, 2020 0.46% 13,556,381  
+Goldman Sachs Group, Inc. 1,171,552 Sep 29, 2020 0.45% 13,062,804_END_OF_POST_PYSTOCK_ General BEP vs. individual BEP When I buy stocks of the same company at different prices, my trading platform calculates one general BEP based on how many shares I bought at those different prices. But if I sell one stock, for example, it will will calculate my gain or loss based on the price that I originally bought it at, instead of the general BEP. What is the term for this and is it possible that my platform lets me change this so it's less confusing for me?_END_OF_POST_PYSTOCK_ Passive vs Active Fund Performance in Emerging Markets Hi all.
+
+Obviously we all know that passive funds tend to outperform active ones in US / developed markets over long periods of times.
+
+However, I have been seeing multiple claims that in emerging markets, active funds somehow have a tendency to outperform passive funds over a long period of time.
+
+Is there any research to back this up? And why does this happen? 
+
+Thanks in advance._END_OF_POST_PYSTOCK_ Thoughts on Dropbox and GoPro? I recently got a 2 free stock on stake with referral codes. I’m not an active investor but should I sell Dropbox and GoPro now or wait until their earnings report to set a stop loss order? Either way, I would like to sell the 2 to invest in a more stable ETF like VT._END_OF_POST_PYSTOCK_ What are the pros/cons of holding a stock after buyout? (WORK - Slack) So I had a small holding of Slack in one of my Rollovers and the news came in December of the Salesforce takeover. 
+
+Now I'm sitting on $5k in shares of WORK that are more or less static. The stock price essentially reflects the PPS of the deal and when it's finalized, shareholders get an equivalent value in Salesforce stock, yeah? 
+
+So what are the benefits of waiting out the conversation versus dumping them and getting into something riskier but possibly more profitable?_END_OF_POST_PYSTOCK_ When Investors Forget Fundamentals, the Market Is Broken New strategy of splitting shares down to 5$ to take advantage of this? Edited from "reverse split" duh.
+
+ /s
+
+https://www.wsj.com/articles/when-investors-forget-fundamentals-the-market-is-broken-11611055800
+
+*Stocks priced below $1 have performed the best, followed by those between $1 and $2, and so on up almost perfectly. The worst performers have share prices above $100. It looks remarkably like investors are treating a low-price share as an indicator that the stock is a bargain, and a higher price as a sign that it is worse value for money.*_END_OF_POST_PYSTOCK_ Which big pharma company is best for genom play? I know $CRSP but I don't think I could stomach those huge swings of small biotech companies. 
+
+Anyone have insight of which big pharma company is most innovating these days? I own some Glaxo Smith and Kline, read about their huge genomics department. Anyone else? 
+
+Oh and ARKG is not available at my region._END_OF_POST_PYSTOCK_ Is $DTIL (Precision BioSciences) the best genome editing stock to buy? Massive potential! 1- A cheap genome editing stock, marketcap of just 600 mil approx.
+
+2- They've had positive interim results from a clinical trial that shows effectiveness of their genome editing platform in the treatment of refractory Non-Hodgkins lymphoma. This is the lymphoma that doesn't respond to treatment, so positive results here are of great significance.
+
+3- They've just announced a collaboration with a multi-billion dollar pharma company (**Eli Lilly** ).
+
+Here's the collaboration details from a recent press release on their website: [https://investor.precisionbiosciences.com/news-releases/news-release-details/precision-biosciences-announces-closing-vivo-gene-editing](https://investor.precisionbiosciences.com/news-releases/news-release-details/precision-biosciences-announces-closing-vivo-gene-editing)
+
+Here's a video i made for more DD if you're interested: [https://youtu.be/h1IUGoqiwIc](https://youtu.be/h1IUGoqiwIc)_END_OF_POST_PYSTOCK_ The gaming industry and what's next.  
+
+I waited for the numbers from Logitech. They reported the figures from Q3 and it sounds something like this: sales increased by 85%, and the rest of the figures are from 190% upwards. I mean huge.
+
+Video game companies will make a lot of money and are very good investments for the future.
+
+The 3 companies to follow.
+
+▪️Electronic Arts - $ EA develops FIFA, NBA, Battlefield, Sims, Need for Speed ​​(Feb. 2 reports).
+
+▪️Activision Blizzard - $ ATVI develops Call of Duty, WoW, Diablo, Hearthstone (Feb 4 reports).
+
+▪️Take-Two Interactive - $ TTWO develops Grand Theft Auto, Red Dead (Feb 8 reports).
+
+Feel free to dm me if you have any questions._END_OF_POST_PYSTOCK_ AMD: Undervalued at $90 AMD is reporting their Q4 2020 results on the 26th. As a long-term investor and given all the events in the past months I believe AMD is still undervalued at $90. I’ve made a previous [post](https://www.reddit.com/r/AMD_Stock/comments/kwfxp7/amd_still_undervalued_at_95/) about this but there was some news last week which I incorporated in here is well.
+
+&#x200B;
+
+**Intel struggles**
+
+Last week Intel has announced that they will replace Bob Swan with Pat Gelsinger as their CEO. This has led to Intel stock going up 13% and AMD dropping 5-6%. Intel is trading above(!) above the stock price they were when they announced the delays in 7nm/5nm. I think this reaction is severely overdone. Note that Pat used to be CTO at Intel for many years and is not the fresh blood they need to turn this colossal company around. Also in the time he was CEO of VMware (since 2012) the stock only rose 60% which is not a great performance comparing it to competitors. Intel has already announced their Q4 ER will beat estimates but that was a given. The only thing that is relevant is their outlook, which is still going to be meager since a CEO impact the company over years time (see AMD themselves) . AMD popped 12% on Intel Q2 report when they first announced their delays. We could see something similar if Intel gives a weak guidance for the coming year(s)
+
+&#x200B;
+
+**AMD Q4 and FY**
+
+EPS Q4 consensus estimate is 0.47 with a range between 0.43 to 0.58. I believe revenue will be higher than expected, mainly due to the huge demand in the console market (PS5/Xbox) but also the PC/notebook market in general since half of the world was in (semi) lockdown for some parts of Q3/Q4. The main thing I am hoping for is that profit margin stays (roughly) the same at 44%, even though margins on consoles are very thin. If they manage to maintain a margin above 40%, EPS could end up 0.55, which would be a 360% increase with respect to Q4 2019 and 280% year on year. That would be very impressive, given the fact that AMD is considered to still be in their growth stage.
+
+&#x200B;
+
+**2021&2022 Outlook**
+
+But the main thing to look out for is the guidance for the coming years. Given the continuing lockdowns, the fact that all the market segments they are in (consoles/PC’s/laptops/servers) are booming and the fact that they have GPU’s that can go head to head with NVDA’s I think they could raise their outlook for the coming year as well as 2022. Especially when the Xilinx merger goes trough and they have an increased TAM (total Accessible Market). Estimated EPS for the coming years are 1.83 and 2.42 but with all the mentioned tailwinds EPS targets of 2.00+ and 2.75 are not crazy. This would imply P/E’s off 34 for 2022 which is lower than ASML’s for example (50). Hence a stock price of 105-115 is a fair target in the short term and 137,50-145 as a long-term target.
+
+&#x200B;
+
+**Booming Market**
+
+Finally, we have been in the biggest bull market in a long time, mainly driven by central bank money. Biden is planning a 2.8T stimulus package in the coming weeks. The rising tide has lifted all boats, leading to insane PE valuations across the markets (Lemonade trading at 150x FORWARD P/E for example). A forward PE of 34 for AMD is a way better bet in my opinion.
+
+&#x200B;
+
+Position:
+
+2750 shares, 5000 LT warrants, 200 29Jan’21 100Calls._END_OF_POST_PYSTOCK_ Is there a long running DAX index fund like QQQ for the Nasdaq? I am looking for the most popular DAX index fund that has been running for at least 21 years.
+
+I want to compare the DAX performance to the Nasdaq performance over different time periods.
+
+I could look at DAX and Nasdaq directly, but that would get hairy because of dividends reinvested / not reinvested and whatnot. I would prefer to compare assets that you could have actually been invested in over these time periods.
+
+Any ideas?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Stock buying platform Any suggestions for the best app to buy some stocks and hold for long term? I am living in Europe,Romania.DeGiro or Trading212 are good enough or are there problems i should watch out for.Just looking to buy right now and hold for long term without any inactivity fees or things like that.Also a question:
+What happens with my money if the platform I am using goes bankrupt?
+Thank you all in advance!_END_OF_POST_PYSTOCK_ Type of joint brokerage account that produces individual tax forms? I have a group of friends that have been insisting that I manage their portfolio for them. So far I have managed to avoid taking on this responsibility, however the pressure is persistent.
+
+I would like to know if there is a possibility of opening a Joint brokerage account with my friends where the following requirements are met.
+
+1. Percentages are calculated based on the amount of money they put in in individually.
+2. Tax forms are generated for each individual based on their portion of investment and profit/loss.
+3. If the percentages changes mid year, the profit/loss and taxes are adjusted from that point on-wards based on new percentages.
+
+Is there any broker that provides opening of this kind of account and such services?
+
+I understand that they can open an individual account and then give power of attorney, but that doesn't scale well. The issue with that setup is that the person still have to manage each account individually, and the money is split across multiple accounts. So instead of making just one trade I will have to do multiple almost identical trades in each of the accounts.
+
+Any suggestions on how to effectively manage this?_END_OF_POST_PYSTOCK_ Making your own index fund Hello I’m a pretty experienced investor and many or my friends and family want to follow the stocks/bonds that I invest in. I thought a way to fast track this would be to make my own index fund. I could have all of them invest in what I invested in and maybe even some people I don’t know have invest in it too. Also it sounds appealing to take a .2 percent cut of whatever is invested. Anyone know how one could go about making their own index fund? Please and thank you!_END_OF_POST_PYSTOCK_ Stocks for cannabis play? I am looking at investing in Altria. They own a 45% share in CRONOS, who has the #2 market share in Canada's smaller market. Altria is just such a huge company, I am not sure how much cannabis hype will affect them.  
+
+
+Do you think Altria are a good buy for this? What are some good positions to be in to anticipate American federal legalization of cannabis?_END_OF_POST_PYSTOCK_ Is there a source for current market capitalization by country or market type? Are there any websites that show what the current market capitalization of various markets around the world are, by country or preferably by market type (Developed, Emerging et cetera)?
+
+For instance, can you look up the same information that VT or ACWI or VXUS use to set their allocations? I know that you can look up that information about each ETF on Morningstar under the Portfolio tab, and that the ETFs are supposed to track their indexes fairly closely, but I'm wondering if there is a way to find the source information somehow._END_OF_POST_PYSTOCK_ Ceragon - $CRNT A rising 5G microcap, is up 53.97% from 4 key catalyst Ceragon Networks Ltd (Ceragon) is a wireless hauling specialist. They help operators and other service providers worldwide increase operational efficiency and enhance end customers’ quality of experience with innovative wireless backhaul and fronthaul solutions. Their customers include wireless service providers, public safety organizations, government agencies and utility companies. Ceragon deliver 5G & 4G, mission-critical multimedia services and other applications at high reliability and speed.
+
+Website: https://www.ceragon.com/
+
+4 Key Catalyst of the market price spike:
+
+- Deadnsyde, a popular Youtuber recommended this company, his due diligence is very thorough.
+
+https://youtu.be/X9lhcT7VYkA?t=136
+
+- Ark invest large holdings of CRNT through their IZRL passive indexed ETF. CRNT is positioned as the 2nd largest holding in IZRL
+
+https://ark-funds.com/wp-content/fundsiteliterature/holdings/ARK_ISRAEL_INNOVATIVE_TECHNOLOGY_ETF_IZRL_HOLDINGS.pdf
+
+- Jim Cramer recommended that it is time to buy 5G stocks. 
+
+https://www.youtube.com/watch?v=FrXFAKsIa4A
+
+- Caragon is accelerating their 5G technology roll outs and are very in touch with trend for the Network sector.
+
+https://www.youtube.com/watch?v=oW6uJYsTjBQ
+
+Backtracking to Q3 2020, According to the CRNT. The company has 3 pointers addressing that quarter's financial results:
+
+- Strong revenues, high gross margin and lower operating expenses generated $1.6 million in GAAP net profit despite COVID-19 constraints, as Ceragon benefited from ISP and 4G operator projects to increase network reach, capacity and speed
+
+- COVID-19-related uncertainty continued to impact Ceragon’s performance, especially in Latin America
+
+- Continued progress in multiple large operator 5G network processes, moving from design wins to proof of concepts and purchase orders with initial low-volume shipments, in preparation for potential highvolume orders in second half of 2021
+
+Q3 2020 CRNT Financial Results: https://www.ceragon.com/hubfs/CRNT_Q3_2020_Earnings_Final.pdf
+
+Other researched Materials:
+
+Q3 Financial review: https://www.ceragon.com/hubfs/CRNT_Q3_2020_Financial_Metrics.pdf
+
+Past Webcasts: https://www.ceragon.com/investors/webcasts
+
+SEO trend: https://trends.google.com/trends/explore?date=now%207-d&q=ceragon
+
+CRNT SEC annual report: https://www.sec.gov/Archives/edgar/data/1119769/000117891320000976/zk2024166.htm
+
+(I picked this news after market closing on 16 Jan 2021 on Saturday. I spent the weekend researching it and I believe CRNT has positioned themselves very strategically for a small company and will be able to compete well with their network and 5G plans ahead for the long term. I believe this company do well in 2021. I have not picked up any shares yet. It's on my watchlist)_END_OF_POST_PYSTOCK_ If you had to pick just one of the "mega-cap" tech stocks to own - which do you buy? Obviously if you own an index fund you don't have to make this decision, more power to you. For those preferring a more concentrated portfolio style, I think this is an interesting question - because these are all great companies, but naturally one must be better than the others.
+
+If you had to pick just one of the mega-caps, which do you buy today?
+
+My personal thoughts:
+
+- Facebook. I see potential competition to their network, but the balance sheet is a fortress and valuation has been pushed down a bit due to general public hatred. A contrarian pick. (B)
+
+- Apple. In my opinion the valuation of this has run away farther ahead of its earnings relative to the others, making it the least attractive of the bunch for me. (C-)
+
+- Amazon. Doing amazing things, looking at the last several quarters their earnings seem to be accelerating - however the p/e is higher than all the rest. (A-)
+
+- Microsoft. The sleeper choice, solid valuation in addition to growth. Not flashy but a money printer. (A)
+
+- Google. My perception is that they're slipping - taking lots of high risk/high payoff bets that don't appear to be paying off yet. Feels potentially contrarian but I'm not wildly excited. (C)?
+
+- Bonus: Mastercard/Visa. Secular trend away from cash makes these seem like long term great picks, in spite of fin-tech disruptors. Not cheap valuations though. I favor MA over V for efficient use of capital. (B+)
+
+Just my opinions of course. Your thoughts?_END_OF_POST_PYSTOCK_ Which is easier: (1) Making $1M from $1, or (2) Making $1B from $1M? After some internal back and forth, I think it would be easier to make $1M from $1.
+
+Here's why:
+
+(1) Leaving aside systemic external issues, I believe anyone can get to a 6-figure income within 5-10 years in the right fields (in the US). For argument's sake though, let's take the median family income ($68,703), and invest 15% of the income per year. I will also assume a rate of return of 10% (passive low fee equity index fund). After 25 years this person will be a millionaire. $859 invested monthly and a 10% return year over year.
+
+(2) People say "it takes money to make money", but even the best institutional investors rarely make more than 15% per year on their money. $1M invested at 15% rate of return would become $1B in 47 years. Would never have to invest anything else more than the initial $1M to reach $1B by then end of a working career.
+
+(1) In the first example, let's assume that the person starting at $1 could somehow achieve a rate of return of 15% for 47 years...he would have over $75M (investing $859 monthly the whole time)
+
+So in summary, (1) this person could generate a maximum of $75M, and (2) this person could generate $999M in the same amount of time. (2) is nearly 13X the amount that (1) will make with the same investing parameters.
+
+I can see why people say, "The rich get richer..."_END_OF_POST_PYSTOCK_ Long term investing, why not go with UPRO instead of SPY? Since it 3x the returns... I have made SPY (broad S&P 500) a large part of my portfolio for long term investing, but is there any reason not to go with a leveraged ETF like UPRO instead? It's leveraged 3x, so whatever the S&P does long term, this fund \*should\* do 3x that. I figure as long as I believe the S&P will continue to grow long term, this fund should absolutely crush the regular SPY. This is money I am investing for 10 - 20 years from now. 
+
+UPRO is from ProShares and if you are not familiar it's a way to buy a leveraged form of an investment.  Sometimes 2x or 3x of a particular index, and you can buy short or long positions as well. I was trying to purchase through Vanguard but they do not allow leveraged investments like UPRO, so I am going to start a Schwab account for this investment strategy. 
+
+Over the past 10 years UPRO has returned roughly 1,100% while SPY has returned 192%, so it's not exactly 3x, it actually ended up being more like 5x. The way I understand leveraged investments is it's not exactly a 3x factor, it could be higher or lower depending on some other factors. 
+
+I'm just trying to wrap my head around it and see if there's anything I'm missing or if this is a solid long term play. Any of you had any experience with leveraged assets like this? Or UPRO in particular?
+
+So far the only real downside I see is that if I want to take it out during a down market, it could be costly, but that's about it._END_OF_POST_PYSTOCK_ Are high P/E Ratios not actually a concern when earnings are only down temporarily? Many are concerned about the high P/E Ratio of the market, but I don't think it's as concerning as it seems. Earnings are temporarily down due to covid, which results in a higher ratio, but assuming the economy opens up after enough people have been vaccinated, earnings should go way up as people stop saving and start spending. Savings rates are at an all time high, but I think we all know that will end once things open up again. Most consumers who have saved more in the past year will be eager to spend more once they're comfortable doing so. Isn't it safe to assume earnings will go up when savings rates drop?
+
+The S&P's highest P/E Ratio occurred in early 2009, which was literally the best time to buy stocks in our lifetimes thus far._END_OF_POST_PYSTOCK_ Are international markets performance today indicative of how the US market will perform tomorrow? This may be a stupid question, but thought I'd ask anyways: 
+
+Since the American markets were closed today, is today's performance of index funds that trade on international exchanges (TSX) that have US holdings indicative of the performance of similar indexes tomorrow on the NYSE? 
+
+I have a large holding in PBW and QCLN which dropped on Friday, and it looks like renewables' performance on the international markets today had a slight uptick today. Therefore, I was wondering if perhaps today would be a good time to buy in on those indexes._END_OF_POST_PYSTOCK_ Airline consolidations JETS ETF The airline ETF known as JETS has holdings of many of the airlines. Major airlines being the major holdings, LUV, DAL, AAL, UAL and so on. 
+
+What would happen to the ETF if airlines consolidate? Say 2 existing holding companies consolidate where 1 no longer exists. It's not like the acquiring airline's value will just increase by the acquired company's value. Does the ETF take a hit? 
+
+I want some exposure to airlines and I'm considering the ETF vs picking certain airlines. It seems the majority of the ETF holdings are in the airlines I would be picking anyways. The ETF is trading at \~$22 and was \~$30 a year ago. It dropped below $15 in March and has been flat over last 3 months. 
+
+I personally look forward to flying somewhere once this is all done and I can't imagine airline travel doesn't get back to 100% of what it was before.
+
+What are your thoughts?_END_OF_POST_PYSTOCK_ Looking for thoughts about investing subscriptions such as Motley Fool. Looking for insight on motley fool or similar companies.
+
+I’ve gotten into investing and options over the last 8 months but always been fascinated with the stock market since I was little. Motley Fool has been a name i’ve seen for a while and most of the things I have read have been pretty solid in relation to them. I have been really enjoying the motley podcast and they have some really good insight but their advertising tactics seem really aggressive and any online posts/reviews about them are VERY scripted and sponsored so I am really having a hard time trusting them. I have a friend who is in an options group and he says that it has made him a ton of money and he vouches for the group a bunch but it costs like $80 a month which is super expensive IMO. I normally get all my stock picks/news/investment advice off of this sub, options,yahoo finance, bloomberg, and WSB of course! It has done me pretty well and honestly the only losses i’ve taken is when the fomo hits and I’ve bought because of hype. I’ve learned my lesson on that front and always do my own DD but i’ve been thinking about some of these paid subscriptions with analysts and big payrolls because they’ve gotta be somewhat good to have made it this far right?
+
+The question stands, Are these paid subscriptions such as motley fool and value line worth it? Has anyone had success with paid stock picks or options groups? 
+
+Please do not send me PMs with your shitty discord or money scheme. I’m asking about established, well known companies. 
+Thank you._END_OF_POST_PYSTOCK_ EV charging station installation in Condo buildings - looking for a company to invest in Hi guys,
+
+With the undeniable increase of EV cars and the need for charging station installation in condo buildings, I'm wondering if anyone in the group is aware of any companies who are early adapters.
+
+&#x200B;
+
+I think this will be something in high demand in the next 5 years.
+
+&#x200B;
+
+Any info would be much appreciated.
+
+&#x200B;
+
+Thanks_END_OF_POST_PYSTOCK_ Swing trading small account Would it be worth it to swing trade a single share. For example buying one stock of APPL or F and then selling it for a small profit like 1 percent or 2 and continuing to build in the aspect or is that even a actual thing to do? Any advice would be appreciated. I’ve recently started investing on my own as apposed to dumping money into my 457 from nationwide and letting them control my investments._END_OF_POST_PYSTOCK_ Is VGT with VTI redundant?  Is having VGT, Vanguard's information technology ETF, on top of having VTI redundant? I am looking to find other funds to invest in since I am already invested in VXUS and VNQ to diversify. VGT seems like potentially (much) higher growth with added risk. Any other funds people would recommend instead?_END_OF_POST_PYSTOCK_ How does Quantitative easing money make its way to the stock market, cryptos etc? Many say that the asset prices will continue to grow as long as we are in a low interest environment supplanted by QE. Ive read about QE and what it does is to buy debt of various kinds from financial institutions (i.e. banks), and then banks will lend that money to people. As I understand it, this money will make its way to people if they will get loans (property, consumer etc). So how does this QE money flow to the stock market and other assets? Do people actually borrow money from banks now to use for stock purchases? I haven't heard someone borrowing money to use for stock investing, except for margins but I don't think its that big to inflate asset prices by this much._END_OF_POST_PYSTOCK_

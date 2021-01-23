@@ -1,0 +1,382 @@
+ So, what speculative investments are you guys favoring right now as we move into 2021? Most of my investments are in Vanguard index funds (praise be to the VTSAX), but I'm thinking about dipping my toes into some riskier ventures, be they stocks, ETFs, crypto, or whatever!  Couldn't hurt, right?  I'm young with no debt, no kids, no major expenses.  Might as well try to make some dosh, yeah?
+
+So, what do you guys have planned?  Any big moves you plan on making in 2021 compared to last year?_END_OF_POST_PYSTOCK_ Lessons From The Tech Bubble - (Courtesy of @corry_wang) I came across this thread on twitter and thought it was a fantastic view on a lot of things from the 90's dotcom bubble. For reference, [please refer to the Twitter thread here](https://twitter.com/corry_wang/status/1345192541545766915) which has some fantastic notes and charts that I did not paste into the transcript below.
+
+Since there have been so many comparisons recently discussing tech froth, I think this is a wonderful share, especially for the majority of people here who were not investors during that time period. Definitely sheds a lot of light on some popular market cliches that misconstrue that period (IE, "you can only recognize a bubble in hindsight").  I do not know or follow this person, but still thought this was worth sharing as I came across it.
+
+**Lessons:** 
+
+Lessons From The Tech Bubble:  Last year, I spent my winter holiday reading hundreds of pages of equity research from the 1999/2000 era, to try to understand what it was like investing during the bubble  A few people recently asked me for my takeaways. 
+
+Here they are - Every document hereon comes from my former employer Bernstein Research's internal research archive, which extend back to 1994  Unfortunately, they're not available to the public (even Bernstein's client website cuts off at 2003), but happy to give more details if necessary (see twitter thread for graphic documents).
+
+**LESSON #1**: Everybody knew it was a bubble  Unfortunately, the quip "it's not a bubble if everyone says it is" just isn't true  Investors were comparing the internet sector to tulip mania as early as mid-98. Bernstein held an entire conference on it in June 99! 
+
+**LESSON #2:** Calling bubbles is easy, making money is hard  In truth, the hard part about the tech bubble wasn't noticing it. The hard part was timing it  Our equity strategist tried in January 99... he was off by 14 months (and another 30 point gap in value vs growth) 
+
+**LESSON #3:** Nobody knew the bubble popped until months after it did  Nobody noticed in March 2000 when it finally popped. Our equity strategist (who bet his career on it!) didn't catch on until June 
+
+**LESSON #4:** "Tech" bubble was a misnomer... it was really a large cap growth bubble  See the valuation table below, 1 year before the top  Yes, Microsoft traded at 70x earnings. But Coca Cola was 43x. Pfizer was 92x. Every stock here was a disaster over the next 10 years... 
+
+**LESSON #5:** Most large cap tech stocks in the bubble had real businesses with strong fundamentals  The internet stocks were a sideshow. In 2000, the software sector had a $1 trillion market cap, 20% net margins, 20% annual growth  The problem? It was trading at 16x sales 
+
+**LESSON #6:** Fundamentals follow price, not vice versa  The bubble popped in Q1 2000. Fundamentals didn't decelerate until Q4 2000.   It was reflexivity at work. Lower stock prices = less capex spend = less revenue growth = lower stock prices. A vicious cycle 
+
+What's the takeaway here?   Be humble.  For bears, it's easy to call a bubble. Anybody can do that. Timing is the hard part  For bulls, it's easy to point to the fundamentals. Historical investors weren't dumb. The hard part is matching fundamentals with price..._END_OF_POST_PYSTOCK_ With the Sri-Lankan Rupee getting weaker where can we put savings so they don't lose value? First of all, I'm not sure if this is the correct subreddit for this type of question but not really sure about what other subreddit this could be posted on.
+
+My family and myself are from Sri-Lanka and the Lankan Rupee seems to be getting weaker and weaker in the last 2 years or so.
+
+My parents have a little over $32,000 in savings (at current exchange rate) which they have collected for a long time and kept in fixed deposits. With the renewal date of the FD coming soon I was just looking to get some advice on where they could put the money instead of as Rupees in a bank account?
+
+The obvious ones are gold, stocks and property / land. I don't think they would be interested in buying gold because even though in the long term it goes up it looks like it might be stressful to see the price fluctuate so much on a day to day basis but if it's a good enough investment I'm sure that they could be convinced. I was also told that now might not be the best time to buy.
+
+Property / land seems good but which one to choose? Buy a couple of perches in the suburbs or buy a small house that we could rent? With houses, would it be better to buy an already built house or actually buy some land and build your own house on it?
+
+With stocks I assume that the local market is not the best place if one is worried about the currency getting weaker right? but how do Sri-Lankans get access to things like foreign ETFs' ?
+
+What are some other things other than the above 3 that my parents could invest in?
+
+Just wanted to see what everyone here thinks and get some basic advice. It's scary and sad to see that the money that people work hard for is losing it's value._END_OF_POST_PYSTOCK_ Could Tech be a bubble? Ok, so I have been trading for about a year now, I am starting college this coming winter and I plan on getting a degree in Finance. Anyways, I’m gonna come right out and say that I am starting to think that Tech is in a bubble... and here’s why (summary is at the bottom of post):
+
+Market Makers:
+Ok, so for a while I was doing some option trading, which meant that I spent A LOT of time trying to figure it out in all its complexity. So, when a person buys a Call option (an option to buy at today’s Price later), they have to be paired up with a person who bought a Put Option (sell later at today’s price), and who does that? The Market Maker. Because the Market Maker can’t always pair the Call and Put individuals together, they must hedge that possibility of having to fill the order themselves by buying stocks of what the Options are being done on (majority of Options falling on the Tech Industry). This means if there are major Option plays on a specific company (my example being Tesla), there is also a major buying up of stock from the Market Makers who are hedging against the options that they must pair. 
+
+Why is this Important:
+One word... Pandemic. Those who used to be betting on sports have no where to possible bet... except for the stock market. And that specifically may not be the fundamental reason why Option trading is up around 50% this year, but it is a part of that increase. 
+
+How would this Bubble Pop:
+It’s allllll hinging on people’s outlook on technology, and if people lose all their money to options. If there is a major drop in Option trading, then there should also be a major drop in stocks held by said Market Makers. If everyone (or those who are on the partial meme of Tesla) decides that it’s to risky, and they dump their stocks as well, it will cause a complete melt down on the tech company or companies that have been having such a influx of Options and Bullish sentiment based stock buying. 
+
+Now for me, I have gained a heft 45% growth this year... however that is all due to stocks in Tech. So the question becomes for me is when do you hop off the gravy train of tech... or if you just try to ride it out and see what happens (which is probably what I’ll end up doing).
+
+Summary:
+The large amount of Option Trading in stocks has created a Tech bubble because of how much the Market Makers have to buy of said companies who are having large options trades. There is also a huge amount of bullish sentiment which also makes people hop onto the gravy train of tech, and if this sentiment leaves, people will not only lose money in stock and options, but the money makers will drop their stocks aswell which can lead to a sudden drop and spiral down in prices. 
+
+P.S.
+Any criticism on my logic I will gladly take, Investment is a constant state of learning and I don’t believe I’ll ever know enough to be satisfied.
+
+https://www.google.com/amp/s/www.cnbc.com/amp/2020/12/04/pandemic-induced-options-trading-craze-shows-no-signs-of-slowing-down.html_END_OF_POST_PYSTOCK_ NYSE to delist 3 Chinese telecom companies [Article link here](https://www3.nhk.or.jp/nhkworld/en/news/20210103_02/)
+
+> The New York Stock Exchange says it will start the process of delisting three major Chinese telecommunications firms to comply with an executive order by President Donald Trump.  The stock exchange announced that shares in China Telecom, China Mobile, and China Unicom will be suspended from trading by January 11.   
+>  
+> The order signed by the president in November prohibits American investments in Chinese firms linked to the People's Liberation Army.  China's Commerce Ministry said in a statement on Saturday that the use of state power to suppress Chinese firms does not comply with market rules.  It noted that China will take necessary countermeasures to resolutely safeguard the legitimate rights and interests of its companies._END_OF_POST_PYSTOCK_ OPK is off to a good start this year Based on how people are definitely wanting this whole lockdown and etc. to be over, cities will most likely open back up baby steps at a time. But in order to do that, they have to make sure people don't have the virus when they go out to public events. So here comes OPKO heath Inc to help ease things. 
+
+In New York city, they are going to let the Buffalo Bills play again, and they will allow people to come see the games in person on one condition. Included in their tickets, they have to get tested which will be conducted by OPKO and its labs. So therefore OPKO will be off to a good start. Plus the stock is worth $4/share and financially doing great.
+
+https://www.google.com/amp/s/www.bloomberg.com/amp/news/articles/2020-12-31/-bills-mafia-girds-for-opko-covid-test-to-attend-nfl-playoffs_END_OF_POST_PYSTOCK_ Question regarding shareholders of record I am reading the Apple annual 10-K, and noticed in the report that there are "22,797 shareholders of record" as of 10/16/2020.  However, there are 17,001,802,000 shares of stock outstanding; if we count retail investors that only own a couple of shares each as separate shareholders of record, then there must be a few very large shareholders that own millions of shares.  Am I understanding this right?
+
+I had thought that a shareholder of record represents an individual, but that 22,797 number seems ridiculously low.  Are there really only 22,797 separate owners of Apple stock?  Or does that number include institutions that manage mutual funds on behalf of retail investors?
+
+This might be a basic question, but it never occurred to me that such a large company could be owned by so few people.  I appreciate any insight, and thank you in advance :)_END_OF_POST_PYSTOCK_ BABA is presenting itself as the first and best opportunity to buy growth tech low in 2021. BABA is a great chance to buy growth near a 52 week low price. I loaded at the trigger price of 219$ and I’m already up 7%. China isn’t out to destroy BABA, anymore than the US government isn’t out to destroy Google.
+
+The fact is that attempting to regulate big tech is not new. The USA, Europe and China are all trying to regulate Big Tech. We’ve seen this with the DOJ and the European Union announcing litigation against Google, Amazon, Apple and Facebook during the same month.
+
+Countries know the importance of big tech as state champions...
+
+[The Chinese government isn't out to destroy Alibaba, says Truist Securities' Youssef Squali](https://www.cnbc.com/video/2020/12/29/the-chinese-government-isnt-out-to-destroy-alibaba-says-truist-securities-youssef-squali.html)_END_OF_POST_PYSTOCK_ Tesla Delivers 499,550 Vehicles in 2020, Just Shy of Target https://www.bloomberg.com/news/articles/2021-01-02/tesla-delivers-499-550-electric-cars-in-2020-just-shy-of-target?srnd=premium
+
+As the title and the article says - Tesla delivered ~180k cars in q4 and were just shy of 500k delivered cars for 2020. 
+
+Without exerting my bias, I'm wondering how you guys are interpreting this?_END_OF_POST_PYSTOCK_ How to explain Vanguard Short-Term Treasury ETF (VGSH)'s 1-year return is 3.12%, but T-bill's average is 0.34%? **0**) for VGSH:
+
+Expense ratio is 0.05%
+
+30 day SEC yield as of 12/30/2020: 0.09%
+
+Average annual returns (1-year 3.12%, 3-year: 2.71%, 5-year: 1.85%)
+
+Portfolio composition: 99.7% US government + 0.3% Baa
+
+**1**) treasure bill's 4-week coupon equivalent right now is 0.08%, which seem to match "30 day SEC yield as of 12/30/2020: 0.09%"
+
+**2**) t-bill's 2020 average is 0.34% (derived from :[https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=billRatesYear&year=2020](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=billRatesYear&year=2020)), and it doesn't match this fund's Average annual returns (1-year 3.12%). Did I miss anything?_END_OF_POST_PYSTOCK_ Who is buying and selling stocks Market participants can notice a dangerous trend over the past 2 months. **The riskier an asset is and the less intrinsic value it has, the better the asset has performed since November.** Moreover, this “wall of money” is not infinite, and is flowing into assets with smaller market caps.
+
+1) Bitcoin
+
+2) IPOs
+
+3) Russell 2000
+
+4) NASDAQ 100
+
+5) Emerging Market Equities
+
+6) S&P 500
+
+ What times we live in.... 
+
+\*(Source: Troy Bombardia from [bullmarkets.co](https://www.bullmarkets.co/market-report-who-is-buying-and-selling-stocks/))_END_OF_POST_PYSTOCK_ Pricing everything as if they are the next AMZN (TSLA story) One of the things that amazes me currently in this market is that, it feels like we are trying to justify every new coming hot tech/growth company as if they are the next AMZN in their field. I think one of the delusions people are having lately is that they look at what people projected for AMZN 5-10-15 years ago and compare that to what actually happened.
+
+While it is true that AMZN exceeded any sort of expectation by a huge margin (and did this consistently, year over year) it feels to me that we are taking perhaps one of the most unique success stories ever and then extrapolate that to others, thinking that as if those sort of growth and expectations are in fact more common and easy to achieve than not, regardless of the industry the subject company is operating in.
+
+I could discuss this for a number of stocks, I wanted to open discussion for TSLA. As we all know, TSLA stock went up almost 8 fold in the last year. Today, it is common occurrence in the market that analysts are justifying these price levels and state why TSLA is just more than a car company. This argument obviously has its own merits, but aren't we little ahead ourselves and already attribute *from today,* all those things that could potentially be achieved and bake it into the price?
+
+If we went back in in time, we could probably say AMZN was more than just a book company, but could we really say that they would have almost monopolistic power in most of the areas they operated in? Could we really say back in 2008 that AMZN would emerge the market leader in something like for instance Cloud? Or, did these things happen and then we realized how great AMZN became, *after the fact.* It feels like this was much easier to do in hindsight. But what if AMZN is truly that one outlier, anomaly, in the history of stock markets in terms of sustained growth and market power?
+
+Isn't this what we are trying to do with TSLA here? I do think Elon is one of the greatest minds of our time and can achieve far beyond any other has achieved so I am not comparing Bezos or any other with Elon here. But what I am trying to say is that, just thinking TSLA as a company, aren't we already saying today that they already have monopolistic power in EV cars, autonomous driving, solar-energy trade, underground tunnels, robotaxis, etc. - you name it, as if they are already there and waiting to be switched on? It's as if we have already attributed everything we could imagine could happen and already announced TSLA as the winner.
+
+Now this is the theory side of things. **How about financial side of things?**
+
+I don't want to approach this from a car sales point of view, but I will make certain comments.
+
+But what if we applied AMZN's growth trajectory into TSLA, without focusing too much on car sales, and just see what growth and valuation that would lead us? If TSLA is just more than a car company, what other example could serve best in terms of growth, thinking from an array of products and technological advantage perspective?
+
+So I did a quick and dirty DCF calculation. In there, my starting point is the first year when AMZN hit $24 billion in revenue, which is 2009. TSLA achieved it's $24 billion in 2019, so from there onwards I am applying AMZN's growth trajectory for the following 10-11 years. Then, growth is gradually reduced in going into the terminal year. What this means is TSLA will be roughly $900 billion revenue generating company by year 20 (2040). From a car sales perspective, I can't really project how many cars it could sell in 20 years, but lets say it is 10 million cars. (I think GS said 15 million). Toyota in 2019 sold around this number I believe so with all the competition that will happen in this space, I think this is by no means and under-estimation. In 2019, TSLA sold roughly 367,500 cars and for a total revenue of $19.2 billion (excluding regulatory credits). On average this equates to $52k per car. In 20 years, car prices will be higher than what they are today obviously, but there will be competition and economies of scale to bring the price down. This one is hard to assume but let's say it grows 1.0% - 1.5% per year with long term inflation, again not necessarily higher because of these offsetting factors. If they do indeed sell 10+ million cars, this is roughly $600-650 billion from cars.
+
+This leaves you with another $200-250 billion or so for other things, whatever you want to attribute this for - AI, robotaxies, insurance, and so on. Now this figure is a future value, so from today's perspective (using a discount rate of 8% used in my DCF below) that's roughly $60 billion (revenue). This is again a huge number, as it is almost another Facebook, 2x Coca-Cola etc., or half of GM/Toyota type business from revenue generating capability, again, from *today's perspective - none of which has already happened.*
+
+Once again I want to point out that my revenue projections are not driven by bottoms-up car sales, rather, I am using simply AMZN trajectory in terms of growth, then try to attribute the resulting final revenue figure into parts, obviously majority being from car sales, and the rest from whatever you can think of. (Simply because we don't know what AI/Robos/Insurance/Transportation businesses can generate from revenue/profitability/market share perspective and more importantly what the competition in those areas can be). If you think TSLA can grow even more than AMZN, then I just want to remind you that you won't easily justify 40-50% revenue growth rates once you're in the 50+ billion zone, which is the point of the argument. AMZN, still achieved those growth rates when it had 100+ or 200+ billion, which is what we are already assuming here.
+
+So in the stock price we have baked in, from a revenue perspective, a car business that will sell at least 10+ million cars (this number can obviously be higher but even 10 million will be big market share),  and other businesses that are worth, today, more than most companies you can think of.
+
+Now this is the growth side of things. How about margins?
+
+We know TSLA generated a last twelve months EBITDA margin of 14% as of Q3 2020. While margins from car manufacturing is certainly improving, most of this margin is actually attributed to sales of regulatory credits, which are by definition almost 100% profit. And so in reality, the margins are much lower, maybe around low single digits between 1-5%. Now this is important because even with all this revenue growth (and if you disagree with me and think it will even be higher), you still need to achieve big margins on your business. I mean really really good margins, we are talking about 15-25% each year. Interestingly, AMZN, while growing its top line crazily over the years and becoming a behemoth as it is today, always lacked in terms of their margins. That goes without saying they are a tech company that typically exhibit great returns on capital. So the point is they had to sacrifice their margins to be able to achieve this growth and this is an important point.
+
+In my DCF, I am extremely generous. I kept TSLA's EBITDA margins at 15% for the next 3 years, bumped to 17.5%, 20.0%, then to finally 25.0% every 3 years in going forward. Once again these regulatory credits will not be there forever so those margins are extremely optimistic at this point. They might indeed achieve 25% margins in 10 years or so but it won't be this smooth.
+
+With these two major factors, other items in the DCF are not super important. The discount rate is 8.0%, which I believe is reasonable, NWC and Capex assumptions are in line with what they are today and I don't think they would necessarily go down (if not go up). I just want to mention that you may completely disagree with some of the assumptions I outlined above. The point however is no matter what sort of DCF you come up with, you will end up either with lower or slight higher value for TSLA, using very, very aggressive assumptions for 10+ years. So the point and question is around the **margin of safety** here.
+
+It seems I can't directly post pictures so here is the link for the DCF:
+
+[https://ibb.co/mSHDcBh](https://ibb.co/mSHDcBh)
+
+You might wonder, well your price is even higher than what it is today so why did you write this.
+
+Once again my whole point in the argument was that the margin of error in TSLA's stock price right now is non-existent, because we've already treated it the next AMZN, gave the best margins possible, attributed big bucks on its other stuff. I think my DCF is still in the unreasonable side, but I wanted to point this out that even a s*light change in trajectory would mean a totally different path and stock price for TSLA.*
+
+So the question is, are we ahead of ourselves with TSLA? This could also apply to others as well, this so called growth companies. It is as if we are pricing everything today and think that they have already achieved incredible market share in everything they touched and it's only a matter of time that these revenue/profits are realized. Are we taking one anomaly and applying this rationale for every other great company under the name of "it's tech"? Elon is great and TSLA will be great. But the business model may not just allow them to be the next AMZN, regardless of technology or improvement.
+
+One final comment I will make is related to autonomous driving and data TSLA is collecting. While it is for certain that this data gives TSLA an incredible power in developing this technology, I see couple of issues with this as it relates to future of this thing.
+
+Companies such as Facebook are big not because of their software, but because of the network effects they exhibit. And because of those network effects they become larger and larger and are able to collect more data, which creates an incredibly profitable cycle for them as they can monetize that data right away. Data for TSLA here only matters in developing that technology. Monetization however, is another story.
+
+What I am not entirely sure with all this AI story is that if it needs to continuously get updated for use, then how do regulators/companies determine the older version was safe to use to begin with. What I understand is that AI is something that needs to get constantly updated based on data, challenge here is that you are carrying people's lives here (as opposed to targeting ads) so there needs to be an infliction point where the full autonomous driving AI software should be at a point where it is certainly 100% safe to use. Because if it is not, then the technology fails until it reaches to that point. If it does reach out to that point, then how difficult is it going to be for others to get to that point or use similar technology if what you need is to get from point A to B safely.
+
+Besides there is the price factor in as well. Let's say TSLA is the only one who can do this. If autonomous driving is too expensive, then how much will people pay for it? Say if the car is 50k and you have to pay extra 50k on top of that - would you do this? Would this have a cannibalization effect? Or if it is monthly subscription fees, would you go on to pay this forever? How significant will the cost be in 20 years from now when others presumably also start providing some sort of service.
+
+On the other hand, if it is not expensive and only a fraction of the car price, then how are you going to achieve these growth levels with that data and technology to begin with. It is one thing to have a great technology, another to monetize it. They might license it for sure, but then you lose all that power right away. So the question then becomes, will it be a niche product or commodity at the end of the day - either of which will not allow you to have incredible returns.
+
+What are your thoughts?_END_OF_POST_PYSTOCK_ Where to start getting a self-education on international (primarily EU - US) financial & legal corporate operating patterns? I have to start by exemplifying the things I want to learn about because I don't yet have even the language to ask my questions more specifically.
+
+Example 1. Stocks for, let's say, Coca-Cola are listed at multiple exchanges across the world. Meanwhile, Coca-Cola exists both as a global entity with HQ registered in US and - the tricky part - as a collection of corporations each based in a different country, which may or may not be called Coca-Cola. For example there may be Coca-Cola Germany whose role and relationship to Coca-Cola US might seem obvious but there might also be Helenic Drinks Greece which plays the same role as Coca-Cola Germany but for Greece, Bulgaria & Romania.
+
+Interesting questions I want to clarify:
+
+- When you buy Coca-Cola stocks on the, let's say, Istanbul Stock exchange, what are you actually getting in relation to this slew of legal entities all related to Coca-Cola US?
+- What is the relationship between Coca-Cola stocks sold in US and those sold in other countries?
+- Considering how Helenic Drinks from my example is a Greek company, how exactly does Coca-Cola US maintain executive and board control over this company? How is Coca-Cola's IP licensed to Helenic Drinks so that the latter can act in front of the public at large as if it's no different from Coca-Cola US? In what way could Coca-Cola US lose control over Helenic Drinks?
+
+I want to learn the main international legal aspects that keep the collection of Coca-Cola corporations acting as a whole. I'm aware one can spend a lifetime becoming a pro in this domain but what I'm after is just critically important knowledge that an investor/entrepreneur should know. I know for practically-certain that certain international treaties regulating ownership across borders of both physical & intellectual property rule this domain. This is why investors from US (as an example) don't go pouring money into countries with whom US doesn't have such treaties. Where do I even start learning about this?
+
+Example 2. I'm an Eastern European (Romanian) and looking to establish a Romanian (i.e. in the EU) company whose only valuable asset will be IP. Because this company will operate on a very narrow market niche, I need to be careful from the get go about how I'm going to protect said IP.
+
+Where do I start learning about how you register trademarks, patents & write licensing agreements that are reasonably enforceable across borders when you are a small company? The "reasonable" part is extremely important here because there is no way a startup like mine could afford - for years - a lawsuit against a predatory company from US. So I need to be smart about my moves, make sure I'm in the right and strike, if needed, when I'll have the resources to do so.
+
+---
+
+So, where do I start learning about these issues that regulate how investors/entrepreneurs operate across borders?_END_OF_POST_PYSTOCK_ Is Inflation Near? The Post-Pandemic Era, Interest Rates, and the Markets 2020 was the bonanza of all years. As the real economy crumbled, stocks and, for that matter, asset prices in general spiked. The dollar has dropped considerably, and, as Fed Chairman Powell has stated repeatedly, it is full speed ahead for continued and massive market support.
+
+However, I see dark clouds on the horizon. A lot of this is dependent on one variable: inflation. Whether it occurs sooner rather than later is  likely determined by how the federal government acts in the coming months. If, and this is a big if, the $2k check legislation is passed, I see the inflationary period occurring much sooner, potentially within the 2nd quarter. Whenever inflation starts to rear its head, I become much more pessimistic about the markets and asset prices. In the short term, if an inflationary period occurs, it will likely cause a further spike in asset prices. However, as markets settle down, we could see markets digest a dangerous reality, for them at least.  Inflation is the ultimate enemy of these markets. It would likely occur as a result of a robust bounce-back in the real economy. Unemployment would continue to drop, and, as a result, the Fed would suddenly face a very different reality.
+
+I believe that the market top will occur when investors see the Fed changing course. This will likely occur before the Fed even begins to talk about slowing/ending stimulus measures in the future.
+
+Similarly to how shocking the increase in asset prices has been this year, I see a similarly-paced drop when such a reality occurs. This change will be most painful in the extremely speculative companies like Spotify, DoorDash, SnapChat, and Tesla. These companies do not produce significant profits and likely will not be able to do so for years to come (if they are able to turn the high-profit corner at all).
+
+Alright, at this point, I think I've written enough. Does anyone have thoughts on this thought process and the likelihood of such events occurring. Furthermore, whether you think this scenario is likely, in the case such events occur (i.e. inflation rises faster than expected and the Fed is forced to move up its date to decrease stimulus measures), how will the markets react? Will the high flyers give up most of their gains?_END_OF_POST_PYSTOCK_ FIVG - Defiance 5G Next Gen Connectivity ETF Good morning all! 
+As the title suggests, I am looking into investing in the FIVG - Defiance 5G Next Gen Connectivity ETF. 
+Here’s is [one link to it](https://www.defianceetfs.com/FIVG)
+Here is another [article](https://money.usnews.com/funds/etfs/communications/defiance-5g-next-gen-connectivity-etf/fivg)
+
+I am relatively new to the world of investing and trading and began buying into a fund in 2016 which I have, since March, sent into a mainly offshore fund.  
+
+I am young and still studying at university to I’m not afraid to risk a little as the money I invest is not my “bread and milk” money but rather surplus savings etcetera. Although I am open to something longer term should it present itself. 
+
+If you have any other top picks and personal favourites - please feel free to drop a link in the comments! 
+
+All tips appreciated!
+
+PS. I am trading on EasyEquities_END_OF_POST_PYSTOCK_ If I knew which companies will join S&P 500 in near future could I make money? So if I understand correctly each quarter S&P 500 is rebalanced. Some stocks may join, some stocks may be kicked out.
+
+Many people and pension funds just blindly invest into S&P 500 no matter what because they don't have time to pick stocks. So a company joining the index should have an immediate effect on the demand without a corresponding change in supply leading to a sharp increase in the price.
+
+So if I could somehow predict who is going to be in S&P 500 I could preemptively buy their stock and sell immediately after the quarterly rebalancing? Or is the market already saturated with people doing exactly the same?_END_OF_POST_PYSTOCK_ 😱 In preparation of LOST DECADE or few... how do we NOT LOSE everything? I'm no investing expert, but I listened to those who are and here are some conclusions (please correct me where I'm wrong).
+
+- With current frothy market valuations we have less expected future returns from the market. That's just maths. (The higher the asset is valued, the less future return you can expect from it)
+
+- In recent interview **Charlie Munger** says next decade we will be getting **lower returns**. **Ray Dalio** shared similar view.
+
+- If **hyperinflation** happens (unlikely, but some conspiracy theorists do claim it can be the case) stocks might rise against USD, but purchasing power will fall, so stock investors will still be left behind.
+
+- Investing in speculative SPACS, TSLA valuations, TikTok/Youtube investing channels, Robbinghood WSB gamblers, margin traders: all symptoms of an ecstatic market. Could go on for a few years still, but overall these are signs or overheated market.
+
+Lost decades have happened before and surely will happen again and time is about right. (What would magically make this time different?) 
+
+But how do we **PROTECT** ourselves against this and even **THRIVE** during a lost decade?
+
+I assume we have no ability to time the market (good for you if you have).
+
+One conclusion is **DIVERSIFICATION**.
+
+But apart from a **diversified total world stock index**, where can we put our money?
+
+- **Bonds?** The yields are low and if yields are increased bond indices will fall.
+
+- **Real estate?** Yes, real estate will indeed keep up with inflation, but it is not that easy to purchase for average investor, not liquid and also has risks like increased taxes, amortisation, upkeep, geopolitical risk for people living in potential warzones, etc...
+
+- **Gold?** Not an income producing asset. Maybe 5% of portfolio?
+
+- **Bitcoin.** Also not an income producing asset, but makes more sense than gold. But again, normally you would invest 5% MAX in something so speculative.
+
+- **Cash?** Will be eaten up by inflation. Pretty much losing money by doing nothing.
+
+- **Value stocks?** Probably the answer, since historically statistically value stocks have returned more than growth stocks (yes it sounds like a paradox, but statistics prove it). Relevant video: https://www.youtube.com/watch?v=UZnVt_CvL3k
+
+- Here is **THE PROBLEM** if you want to invest in value stocks. You have to have ability to pick them. But why go through all the learning if you can just outsource it to Warren Buffett and buy Berkshire Hathaway?
+
+One reason might be that you have **advantage** over Berkshire Hathaway by being able to pick value stocks in **smaller market cap markets** which are inaccessible to BRK due to their size.
+
+Problem is  - due to **information abundance** value investing strategies are **public information** and therefore already **priced in** at least partially. As a value investor in 2020 you have less chances of outperforming the market compared to value investor in 1950s. Any dude in slums of India can watch Sven Carlin, read intelligent investor and decide to become a value investor, so there are serious doubts that average, common investor from reddit will be able to outperform.
+
+There are a few more reasons to consider Berkshire: by Warren Buffett and Charlie Munger passing away in next decade most people assume Berkshire will suffer, but in fact, I think the **OPPOSITE** will happen: **Berkshire will PUMP**.
+
+Because markets do **the opposite** of what normies think will happen.
+
+Warren Buffett dies -> Berkshire repurchase their stock -> normies realise that the Berkshire can function very well without WB and that his knowledge has been fully passed on to those in charge -> normies rush into Berkshire. Berkshire outperforms S&P during next decade.
+
+Realistic or stupid?
+
+**TL:DR version:** Value stocks historically return more than growth stocks and since lately value has been lagging behind and since we are bad stock pickers, shouldn't we just buy Berkshire Hathaway?
+
+What am I missing? What other options do normal investors have? I'm not talking about billionaires who can buy sports teams and so on, but normal people on reddit._END_OF_POST_PYSTOCK_ A potential winner for 2021 Clean energy fuels(CLNE)is one of the leading provider of CNG and LNG fuels.It’s partners with chevron, Total and now BP. Clean Energy is contracted by the New York MTA, New York Sanitation, UPS, FedX and other companies in the United States and Canada.
+
+Infrastructure in place to dominate once hydrogen fuel becomes a useful product. (My opinion)_END_OF_POST_PYSTOCK_ 🚨🚨ALERT🚨🚨 weBuLL accounts Unfortunately, I have been short many stocks since 2018 with weBuLL. Late 2019, I noticed a htb tag next to my short shares. I contacted weBuLL and they said would not be charged a htb fee. Over time, a htb borrow tag has popped up on many of the stocks I'm short. I just noticed that they charged a htb fee for the first time in one year after emailing me and saying they do not charge htb fees because they are a free trading platform. Just thought you guys should know. I'm waiting on a response._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ When are treasuries the right move? I spent a lot of today learning about some less popular investment vehicles, and treasuries seem interesting. you basically lend the government money but make no money from interest in a low interest rate environment, since they match the fed interest rate pretty close. So, what I am seeing is basically:  
+    
+- getting a payment directly from federal government means you are protected from bank failure (helpful in 1929, not so much now)  
+  
+- they probably wont match inflation if the inflationary scenario plays out, but they could be slightly better than holding cash if a severe deflationary scenario plays out
+  
+- I definely don't see it as beating gold or btc for next few years.  
+  
+This is all based on google searches and youtube videos, so please, if anyone knows any other use case to support buying treasuries in the near future, I would love to hear it_END_OF_POST_PYSTOCK_ Why Prosus NV stock (Euronext Amsterdam: PRX), almost 1/3rd owner of Tencent is a hidden gem Prosus NV is a holding company mostly and a spinoff from South African holdings giant Nasper. And Prosus holds some companies that are poised to grow.
+
+[Its portfolio. You must see this before reading further. And this image is all the information you need really to value the company.](https://imgur.com/a/ebv3sV6)
+
+**The extreme discount**
+
+So, let's do some maths. Prosus holds around 31% stake in Tencent maybe(I haven't checked recently if anything changed, but it shouldn't). So, Prosus's stake of Tencent is higher than $216B+ even after the sell-off from the Alibaba chinamama news cycle.
+
+Yet the market is valuing Prosus stock at around $175B+. Now, Prosus's other holdings like Delivery Hero, PayU etc is surely not of negative value? Analysts put a valuation of around $30B for a collection of Prosus' e-commerce portfolio. But who knows.
+
+I mean if all of them IPOed in this hot market, I can't even predict what their valuations will be. Analysts 
+
+Management knows that this stock is being underpriced for stockholders and that's why they were almost forced to issue a buyback worth $5B just like the holdings company Berkshire Hathway (which is also a good way to own AAPL).
+
+**Bull case**
+
+1. But if anything, I see ALMOST all of Prosus's holdings growing significantly in the upcoming 10 years. I have done some extensive DD on some of their holdings(not all, I repeat). And I am extremely bullish on this holdings company because I think the management gets what sort of investments work in the 21st century. It's kinda like buying Ark ETFs with a margin of safety. Or kinda like buying a modern version of Berkshire Hathway. Whichever analogy fits your way.
+2. Prosus is also quite heavily invested in China and India. I guess you know what that means.
+
+[A starting point for further research on this company. (pdf)](https://www.prosus.com/getattachment/Investors/Overview/Naspers-and-Prosus-results-call-presentation_Sept2020.pdf.aspx?lang=en-US)
+
+3.  Prosus is still not included in most of the European ETFs(where most investments go), when or IF   
+it gets included, the discount between its book value and market value would probably decrease.
+
+4. Almost no retail investor knows about Prosus. Spreading the pieces of information would definitely help increase its stock price. lol.
+
+5. It's being said by some peeps(or shills) that the Euro and Yuan would gain against the Dollar for the next two-three years. Dollar has already declined a lot. *I am not sure if the dollar really would decline further but when enough people start to believe something that something may eventually become the reality; remember that OG mama printer Janet is coming to the office.* So, this stock could be a good way to hedge returns.
+
+   6. Prosus' management is not insane like Softbank's management. Sure, they are also not as conservative as Berkshire. But if they were, they would have missed all the boats. They are somewhat middle in the risk spectrum between Berkshire and Softbank, which is my ideal management, really. Your cup of coffee may vary.
+
+*Risks:*
+
+1. I accept it. Prosus NV is currently just a roundabout way of buying Tencent holdings(which also partly owns JD, Mairuan etc) instead of buying it from the Hong Kong market. Sure, some of their holdings can keep on growing exponentially and indeed they will. But *right now,* Prosus is just owning Tencent. So if you hate Tencent (or China), avoid Prosus, by all means.
+2. The bull case number 5 could actually turn into a bear case if the narrative surrounding the dollar changes.
+3. The [holdings company discount](https://www.investopedia.com/terms/c/conglomeratediscount.asp) could continue to widen or remain high for lack of enthusiasm, market float etc._END_OF_POST_PYSTOCK_ FLTMX - Boring municipal bonds, but useful in a portfolio? Quick question: Has anyone used FLTMX as a bond asset in their portfolio?  I am asking for a family member who has retired, and is looking for a lower risk investment that yields better than the 0.5-0.6%APY in a “high yield” savings account. 
+
+From what I have read about FLTMX, the annual yield rate is 4.53% (as of this writing), and its beta is at 0.92.  
+
+This seems like a pretty good play to gain a little bit of annual income while reducing investment risk for someone who has already retired,  but I thought I would check here to see if anyone has any additional inputs or alternate suggestions. Note: there are other riskier/aggressive components to this portfolio like VTI, VXUS._END_OF_POST_PYSTOCK_ Little Compass Pathways PR Found this little article posted today if anyone is interested in checking it out, apparently Big pharma is starting to show interest as well so 2021 should be a crazy year for these company’s .
+
+https://seekingalpha.com/article/4396901-psilocybin-will-change-mental-health-compass-pathways-be-forefront_END_OF_POST_PYSTOCK_ Does the purchase of options have any affect on the price of the underlying security? Let’s say for example that 100,000 people all bought CALL options for AMZN stock that calls for AMZN to be at $4000 a share in March of this year. 
+
+Does the mass purchase of these options actually affect the value of the underlying stock?
+
+If so how? And by what mechanism is the price driven by that?
+
+To me it seems like it’s just 100,000 people making a prediction but that they could all be completely off and the price is unaffected._END_OF_POST_PYSTOCK_ RLH Corporation Announces Agreement to be Acquired by Sonesta International Hotels for $3.50 Per Share in Cash; Transaction Valued at Approximately $90 Million [https://www.yahoo.com/now/rlh-corporation-announces-agreement-acquired-015900970.html](https://www.yahoo.com/now/rlh-corporation-announces-agreement-acquired-015900970.html)  
+
+
+I found this company months ago and decided to pass on it. The company isn't exactly the strongest one (in their 10-K they mentioned as a risk factor that their executive leadership doesn't have a lot of training in this field so they may make some mistakes). They're being bought out at a heavy discount to their book value. Out of the past 10 years only 4 of those years had positive net income and FCF wasn't exactly stellar either. But I can't imagine acquisitions are always done sensibly. The hotel industry may be seeing consolidation now so they can compete better in the coming years after COVID and trying to make back lost revenue. Was anybody holding $RLH? The stock shot up almost 30% yesterday on the news._END_OF_POST_PYSTOCK_ Fundamental question about growth stocks Hey guys! I am rather familiar with the entire stock sector,have read plenty of books and been in the market for a couple years now.I would say I have a rather decent grasp on things but there is one elusive topic that I can't seem to wrap my brain around. Simply asked : Why do people even bother buying growth stocks (don't get me wrong,I do it myself :D)
+
+Now hear me out.This is not supposed to be a fundamental debate between growth and value investing. To me its more about the logic behind it that I seem to have a hard time with. Investing in Value stocks that tend to have some dividend payouts makes total sense to me.You expect the company to make good profit and by the dividend payouts you recieve part of said profit.Easy to understand.
+
+Now to our growth stocks.I understand that "you don't buy a stock to the price its worth right now but to the price of what you expect it to be worth on the future" etc.
+But what does that even mean?What's my benefit? Take any company, fuck let's say tesla or Amazon or whatever company doesn't pay out dividends. Now Amazon makes x billion amount of money a year in profit.Great. Little old me buys a share because I expect them to make more profit on the future which should cause my share price to rise. But why does it? Let's say I bought it for 100 Coins and they earn 500 coins profit a year (literally doesn't matter, numbers are placeholders).now they grow to earn 1000 coins profit a year.good for them.But why does the stock price rise?There is zero benefit for me. The only thing that changed is that the company has more money to do whatever they want to with. None of the money reaches me at any point. So why does the price rise?
+
+I understand that it rises because more people want to buy the stock.but why do they? In my head it seems like a self created demand that says "you want to have a stock and you want to have it more when the company makes more"even though it makes 0 difference to the retail investors how much the company makes a year,unless they pay out dividends. Kinda like...if everyone all of a sudden decides"hmmm we don't like Amazon stocks anymore we just won't buy it,but we will still use the shit out of their services" then Amazon would continue to make billions and billions, yet the share price would fall since there is no incentive to buy the share.
+
+I understand this is very theoretical and it's super hard to put my thoughts into writing here... I hope one of the smart people of r/investing gets my "thought process" and we can maybe spark a cool conversation
+
+Thanks and have a great new year!_END_OF_POST_PYSTOCK_ Words from my G-Gdad 1) Always keep 18 months of expenses on hand.
+
+2) Never spend more than 2 times what you make in a year on a house.  
+
+3) Never buy a stock that you're willing to sell.     
+
+The man was born in 1891.  He worked for Marathon Oil in Findlay Ohio, before the war and after.  He was the wisest man I have ever had the privilege of speaking to.  He lived through...the Spanish Flu, WW1 (were he fought as a Marine), the Great Depression, WW2 and the Red Scare.     
+
+
+He taught me that the freedom of a man is measured by his distance from the bank.  He told me a couple of truths that I'll share with you._END_OF_POST_PYSTOCK_ Passive income vs. Capital gains? (CANADIANS) Which is better? I understand one may be better tailored depending on your personal needs. 
+
+Im asking this question on behalf of the general public which would be long term investors.
+
+Since im canadian we will assume all canadian laws and regulations apply (tax etc)
+
+Would it be better to say own an ETF like ZSP.TO providing a yield YTD of 13.75% with a 0.08 MER. or to own blue chip high dividend yielding companies like TD, BNS, CM, RY, BMO, FTS, BCE, TRP, SRU.UN with money in each sector giving finance and real estate the greatest capitals...followed by communication/utilities/energy (arranged how i like my risk to be). Just spitting out numbers here these companies are still way undervalued so there are capital gains to be made here. However on an annual basis you can look to make on average 6-7% return (when these stocks are not on discount like now) which includes both dividend and capital gains. Less tax you may have a 5% gain. 
+
+Now you may say that it is a no brainer you would pick a 12% return after tax (assuming you sell) but the difference here is that the S&P has a much higher PE ratio than the TSX. I dont want to market to enter a correction with all my money in one ETF suffering and providing no income. I see having the high dividend yielding stocks would provide more safety than simply tracking the S&P 500. Atleast if prices crashed, it would provide with a dividend payment till things got back on track. 
+
+If it helps to answer my question im young (22) and have over 6 figs invested into individually picked stocks currently up 19.75%. For only starting to learn all of this stuff in march i think im doing pretty good! Im learning the more you touch your investments the worse i perform lol. Staying away from short term volatility playing is the best option for most traders. 
+
+I want to know if i want to make tons of money (obviously) is it best to go for ETFs or dividend stocks? This invested money will be put away for LONG. I plan on adding 6K to my TFSA, 6K to my RRSP and 12K to my margin account per year. 
+
+
+Thanks. GLTA._END_OF_POST_PYSTOCK_ Fundrise So I have been thinking about diversification into real estate but still have pretty low capital (sub 10k) so I dont have enough to really get into real estate quite yet.
+
+But I have been seeing quite a bit about Fundrise and was just curious people opinions on it and if I should stick a few thousand into it and slowly add to it over time like I do my long term dividend portfolio.
+
+Side note I am 20 and mainly invest in dividend stocks like KO, SPHP, O, Etc. So your opinion on that would be cool too, do own 100 shares of NNDM though so not a total stickler for growth just perfer dividends.
+
+Anyways your thoughts and opinions would be appreciated, thank you!_END_OF_POST_PYSTOCK_ How to invest in clean energy companies with Prudential? Hi,
+
+Portfolio with Prudential. I’m trying to invest in clean energy but it doesn’t seem like they have any mutual funds centered on the companies in TAN, ICLN, PBW, ACES is. Clean energy companies on Prudential funds are limited to utilities funds or real estate funds which (after looking at the portfolio holdings) most of the allocation is not actually in clean energy.
+
+Any chance I can invest in better companies? Am I able to invest in TAN through Prudential?_END_OF_POST_PYSTOCK_ Selling mutual funds If I place an order to sell all my mutual funds this weekend will I get the close price NAV of the funds at the end of trading Monday or Tuesday? Wondering if I place the Order mid day Monday if it will still give me the NAV for Monday or it moves it to the next day._END_OF_POST_PYSTOCK_ WYY - Short squeeze incoming 
+Time for Short Squeeze
+
+If you want to see a stock that got government contracts get shorted to all hell (to the tune of institutional Investors hitting 250%? Go look at Widepoint (wyy) any positive news is going to send it FLYING with this low float. Granted, the volume has been on the low side, and there is no options chain yet, but with even the slightest uptick in volume, this could fly, forcing the ridiculous amount of shorters to cover. For reference, GME institutional ownership is 145%._END_OF_POST_PYSTOCK_ Brokers for US expats? Hey guys, so as a us Citizen living in Germany the only broker i could use was EToro. after terrible spread fees and horrible costumer service i am deciding to find another Borker. All my Research has led me to interactive broker but I have a small account (1k) and I understand that IBKR requires a minimum of 10k, correct? so I am now looking for cheap fee broker that allows US citizens living abroad. thanks in advance!_END_OF_POST_PYSTOCK_ Update on Chinese delisting of $CHU, $CHL, $CEO...it also affects any ETF's holding these! $FXI, $ASHR, +more **The list is currently composed of 10 companies**, but reporters are only focusing on telecom, here is the full list:
+
+[https://www.tdameritrade.com/retail-en\_us/resources/pdf/TDA101484.pdf](https://www.tdameritrade.com/retail-en_us/resources/pdf/TDA101484.pdf)
+
+**It will also include ETF's unless they unload their holdings in banned stocks:**
+
+"NYSE said it would suspend trading in securities issued by China Mobile, China Telecom and China Unicom by Jan. 11. NYSE said it would also halt trading in closed-end funds and in exchange-traded products listed on its NYSE Arca exchange if they hold banned stocks."
+
+[https://www.wsj.com/articles/nyse-to-delist-chinas-major-telecommunications-operators-11609498750?mod=hp\_lead\_pos4](https://www.wsj.com/articles/nyse-to-delist-chinas-major-telecommunications-operators-11609498750?mod=hp_lead_pos4)_END_OF_POST_PYSTOCK_ UAL & CCL What are y’all’s thoughts on investing in United Airlines and Carnival? Both stocks are still trading 50% from 52 week highs before the pandemic. My thinking is once the vaccine gains momentum and the pandemic starts to fade, everybody is going to want to travel because we have all been couped up for over a year. Everyone will be itching to travel and take vacations once it is safe. Obviously we don’t know when the pandemic will fade. I’m thinking it will take another year, year and a half before things get back to normal. I think with a 3 year investment horizon these two stocks will be back up to pre-pandemic prices. Thoughts?_END_OF_POST_PYSTOCK_ Fully paid lending program I came across a program called fully paid lending program. If I understand it correctly if enrolled in this program I can lend my stocks to the broker who pay me at the end of the month based on a certain interest rate. Is this correct? 
+
+Are there any drawbacks? how do I enroll in this program on robin hood and are there any requirements like minimum number of stocks? What are the interest rates? On average how much is the monthly payout? Where can I find more information about this program?_END_OF_POST_PYSTOCK_ What to do with a small rollover IRA? So I started a job back in January, and it was the first job where I was making enough that I could contribute to my retirement plan. Well I got let go of that job in November, and rolled the small amount I had in that account into a fidelity rollover IRA (about $2000). I'm starting my new job next week, and there I'll be contributing to a roth 401k and be enrolled in a ESOP, so I have a plan going forward. But I'm not sure what I should do with this rollover account. It's small enough that I could pay the taxes and convert it to a roth account and maybe just periodically contribute some extra money I have. Or I've considered just paying the penalty to cash it out and putting it towards paying off my student loan, which I could probably be free of within 6 months if I did that. Any ideas of what I should do? Is it weird to have a roth IRA on top of a workplace retirement account?_END_OF_POST_PYSTOCK_

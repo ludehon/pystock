@@ -1,0 +1,854 @@
+ Share Price Movement Question If a stock price closes at 50 dollars after extended hours trading on friday, and I have a limit order to buy at 55 at pre-market open, is it possible for the price to be beyond my 55 dollar limit at open?
+
+My guy tells me no, bc no more trading has taken place, and that my order should immediately execute at 50 dollars. 
+
+Is this incorrect ?_END_OF_POST_PYSTOCK_ Questions about when and how to exercise options I understand the basic concepts of options (covered/naked, put/sell) but I have questions about when or how to exercise the options.
+
+Let's say.. I buy 1 contract (100 shares) today ,call, XYZ, strike price @40, 5/20. The premium is $100 total. Today XYS is selling at $8 per share.
+
+1.My understanding with American options, they can be exercised at any time BEFORE the expiration date. Say the stock reaches 40 on 2/28. Can I exercise it on 2/28? I've read that we should wait until the expiration date. Why? What would be the advantage of this?
+
+2.I read too that most people don't even buy the stocks but rather re-sell the options. How does this work? Same example.. the stock reaches 40 on 02/28. does the expiration date change? since I'm reselling it? am I reselling for the same premium?
+
+ANy help would be appreciated_END_OF_POST_PYSTOCK_ How are index funds viable for the long term? The general idea of how to make money with stocks is if the value of the stock increases correct? I have a share in VTI which essentially encapsulates the entire stock market, and I believe the basic idea of index funds is investing and leaving it alone then letting it grow for the long term, but thats under the assumption the market will keep growing right? What if the economy goes through fluctuations as it always does, and my etf returns to the price I bought it at after years of growth? Is the value of a stock the only tool that allows me to make money, or is that when capital gains and dividends come in, or is there a compounded interest rate like with a savings account._END_OF_POST_PYSTOCK_ Day Trading & Pattern Day Trading. I’ve been getting my feet wet for a week and I am now on Webull & Robin Hood with several hundred invested. I’ve been doing my DD, becoming more confident in how to approach finding and researching companies I’d like to invest in. I have a typical margin account, and cannot do more than 3 trades in 5 business days. I have the time to invest in this, and money can be put it in but I do not have $25k laying around. Are there other brokers that are legitimate and will help you start for less? Is it possible, or do I need to traffic a family member to get these funds up? Thank you in advance._END_OF_POST_PYSTOCK_ Autonomous Vehicles - Navya Hi guys, first post here !  I don't really know why I'm stressed but whatever.. (not a native english speaker so bear with me).
+
+As many of you, I'd like to be part of the AV hype that is currently happening everywhere as any company in this area is actively researched by investors.
+
+I came across a small (100m € market cap) company called Navya from France. It appears that they're kind of the leaders in their domain but their market cap is so small compared to the big US stocks (i.e. Waymo). 
+
+Have you guys heard about it ? Any thoughts ? How can the leader of the market weight 50 times less than its competitors ?
+
+I feel it is too good to be true, or maybe I found out a gold nugget ?!
+
+Looking forward to hearing from you guys !_END_OF_POST_PYSTOCK_ ADVICE/HELP: How do I step-up at my job (Only Buy-Side/Hedge Fund help please) I recently got upgraded from Intern to Analyst covering TMT Equity Research at a Hedge Fund covering Global Equities. I directly work with a PM, and I have a call tomorrow with him to workout how I can step-up to better assist him given my new position. My work previously (as an intern) consisted of doing research with multiple sell-side research portals and then generating 20-30min presentations giving him the whole scope and an operation recommendation (buy, sell, pair trade, etc.). 
+
+If anyone has gone through this or has been a buy-side analyst please share me any advice that has helped you! I am always keen to improve! Thank you!_END_OF_POST_PYSTOCK_ FCEL, Gas & Oil There have been headlines that president-elect Joe Biden has said he will remove the Keystone XL pipeline. Does this mean that FCEL will go up, my theory is that since now the United States will outsource oil from the Middle East gas & oil prices will go crazy high. If so, this means huge returns. If you put $3000 in FCEL, you could get a return of $189,000 if FCEL goes to $1,000. I would love to hear your opinions on the matter and if it is a wonderful investment!_END_OF_POST_PYSTOCK_ China's Soft Power and ADR's I've seen a few posts about ADRs recently talking about how all chinese stocks (NIO BABA TENCENT) are based in the Cayman Islands and no one's really buying stock in these chinese companies and that China has no need to uphold these agreements - As a disclaimer, before I go on, I was to say I do own stock in NIO and BABA as well as AMZN, AAPL and a few other small AI companies.
+
+While many of you may be technically correct about ADRs, it fundamentally ignores the foreign policy climate of almost all countries and more specifically ignores the way China's foreign policy is being conducted right now - I'm not an expert and you should of course do your own DD but what I've noticed from all these posts is that they are all ignoring the idea of Soft Power.
+
+**Lets define what soft and hard power are**: I've taken these definitions from wikipedia, because they're concise and as always wikipedia is well referenced (damn teachers!)
+
+Soft power: In politics (and particularly in international politics), soft power is the ability to attract and co-opt, rather than coerce (contrast hard power). In other words, soft power involves shaping the preferences of others through appeal and attraction - Foreign Aid is an excellent example of the use of Soft Power
+
+Hard Power: Hard power is the use of military and economic means to influence the behavior or interests of other political bodies. This form of political power is often aggressive (coercion), and is most immediately effective when imposed by one political body upon another of lesser military and/or economic power
+
+**Why is this important?:**
+
+While China is on its way to becoming a global superpower its not there yet, there are more economically reliable countries (US) and countries with more functional military might (Russia and US) - I say functional here because military might isn't just man power and number of soldiers.
+
+China uses hard power when it comes to domestic policy, through the use of censorship, coercion of officials, imprisonment of dissidents and so on and so forth. ([https://www.amnesty.org/en/countries/asia-and-the-pacific/china/report-china/](https://www.amnesty.org/en/countries/asia-and-the-pacific/china/report-china/))
+
+However, they've also learnt from the collapse of the USSR which collapsed in part due their international and economic isolation among other factors ([https://www.britannica.com/story/why-did-the-soviet-union-collapse](https://www.britannica.com/story/why-did-the-soviet-union-collapse)) - Now China doesn't want that to happen and to ensure it doesn't, it's followed an interesting hybridisation of communism and capitalism where private companies are closely linked to the government but are allowed to compete and have private ownership. However this has meant that chinese companies and by extension China as a country has to be attractive to outside investors and that's where soft power comes in.
+
+Throughout the pandemic and even before China has been trying to expand its soft power further in the hope of eventually leveraging itself into the world's leading super power. Case and point is the Free trade agreement it signed with 14 other asia-pacific countries creating an even larger free market than the eu (16% vs 22%) ([https://www.theguardian.com/business/2020/nov/15/china-and-14-asia-pacific-countries-agree-historic-free-trade-deal](https://www.theguardian.com/business/2020/nov/15/china-and-14-asia-pacific-countries-agree-historic-free-trade-deal)). While this gives it more economic power, it also gives china great headlines!
+
+This isn't the only way China is trying to garner a better image of itself and therefore more soft power - For a long time, China has been and is commonly viewed as one of the largest polluters in the world ([https://ge.usembassy.gov/chinas-air-pollution-harms-its-citizens-and-the-world/#:\~:text=The%20People's%20Republic%20of%20China,health%20and%20the%20world's%20economy](https://ge.usembassy.gov/chinas-air-pollution-harms-its-citizens-and-the-world/#:~:text=The%20People's%20Republic%20of%20China,health%20and%20the%20world's%20economy).), pollution that has been killing around a million of its citizens a year - so to not only improve their citizens lives (though how much of the main motivation that is I'm very skeptical) but to also capture the ongoing trend of renewable energy becoming the dominant energy market in the next decade or two, China has been pouring money into clean energy initiatives, so they not only capture a significant slice of an upcoming dominant market but they are also able to position themselves as the clean energy capital of the world.
+
+Let's be clear though, the current pandemic has affected their soft power and reduced it massively which leads onto the crux of my argument.
+
+**How Soft power relates to ADRs and Stocks?**
+
+For China to successfully follow through with their plans (leveraging soft power into economic might - the tried and tested american way to an extent - except america had WW2 and the Marshall plan to reach this point sidenote: I know that's massively reductive and there's a lot of other factors involved in america becoming a superpower including a shit load of hard power i.e. nuclear bombs and military might) they require investment not just from domestic sources but foreign sources otherwise they gain no soft power. So how does this relate the ADRs:
+
+If China and Chinese companies were to renege on their agreements with these shell companies, it would lead to major banks, hedge funds and entire countries to disinvest from the chinese economy - a counterpoint I can imagine in the comments may be that it's technically not a reneging because the these chinese companies and chinese law doesn't state that you can own shares but the optics of it certainly are. Every major newspaper would be covering it, people who have invested would be using their soft power (their vote) to push for harder line on china and so would banks who would be disinvesting by their droves from chinese ADRs. I know I wouldn't be buying anything from China again because the risk is too high and that would be the most dangerous thing for the chinese government. They are trying and have until now succeeded in creating an image of a stable thriving economy
+
+Disinvestment may sound sensationalist and to an extent I would agree it may be but the most recent example is BABA stock - The disappearance of Jack Ma not only lead to a massive drop in BABA stock but countless headlines about how dangerous it is to invest in Chinese companies - and while I'm sure Jack Ma when he returns will have to change to adapt to his potentially curbed reality, the chinese government will have also realised that they'll need to adapt to ensure that they don't lose the soft power they've spent over 40 years cultivating ( look up Deng Xiaoping's China reform and opening-up policy).
+
+And to address comments that I'm sure will say China can be self sufficient without any foreign investments - I'm sure they can but that path has until now lead to ruin for other countries, the primary example being the USSR and a less prominent example being North Korea. The chinese government is ruthless, efficient and they're certainly not stupid.
+
+Of course if anyone thinks I'm wrong, please let me know - I also understand that the BABA example is more nuanced than how far I've gone into it because of Jack Ma's Ant group going onto central bank turf but the logic behind the point stands.
+
+**TLDR: China would lose their soft power, banks and people would disinvest in China if they didn't honor their ADR agreements and would set China onto the path of future economic ruin and upheaval - I could be wrong though**
+
+Edit: Hong Kong is an interesting counterpoint to my argument, but I would say that to a certain extent, Banks knew HK would be bought under the CCP and still think they can make money there - also Hong Kong massively damaged Chinese Soft power and if there had been a better president I think the effect would have been huge but there wasn't and the markets are over it - if ADRs aren't honoured, then Banks and hedge funds would lose money and I think that that's their bottom line and a red line for them - I could be wrong though_END_OF_POST_PYSTOCK_ 1933 Securities Act Restriction I'm having trouble decoding this restriction on some shares i recently acquired through a merger. I exercised some incentive offered shares a few years ago, and now via a merger I have shares in a different company but they're all under this restriction. From the internet I can't seem to understand if there's action needed on my part. Anyone have experience with this?_END_OF_POST_PYSTOCK_ Doubts about the 'summer surge' in spending Many posts on here are using a 'summer surge' in spending to justify equity pricing, and I am wondering if that is over bought/if the market has priced in unrealistic perfection.
+
+#1 Virus re-emergence risk
+- new variants continue to form like E484k which might possibly lower vaccine effectiveness
+- virus can still possibly be circulated by vaccinated people
+-Key question: how likely is it the virus is completely not an issue due to vaccines come June?
+
+#2 Human Psychology
+- it doesn't matter if the virus situation is better, what matters is people THINK it's better and FEEL comfortable going out and about and spending again
+- I personally know multiple boomers who say they aren't comfortable going to a restaurant or football game until society is 70 to 80% vaccinated. Do we really think we will get there? There are a lot of anti vaxxers and conspiracy nuts out there. 
+- Key question: Will people who do go out spend that much more than in last years to compensate for those who are still scared, lost jobs, etc? What level of spending or GDP growth do need need to see to 'keep the party going's?
+
+Open to thoughts/critiques!_END_OF_POST_PYSTOCK_ SPAC Warrants way Below Common Share Question PLEASE!! 1) Hello my friends.  Would someone be kind enough to help me out.   I'm trying to understand and avoid a SPAC warrant disaster.  2 Questions:  If the Warrant price is noticeably below common share price after adding the 11.50 to warrant price...isn't this a GUARANTEE to make money after merge?  I have SBE warrants at 17.37 adding the 11.50 to get a common share equals 28 dollars plus.  SBE Common is over $41.00 !!  So do I NOT have huge profit built in upon merger? I learned they can't call the warrants for 30 days (over18.00 rule), but does that play into this situation or will my warrants be basically worthless in this scenario after merger?
+
+2) along the same lines..is it pointless to buy warrants when the pre-merger common price is already above 18.00?    Thank you so much for helping!   Ken, New York_END_OF_POST_PYSTOCK_ Why is it assumed that Index Funds returns will always be positive/steady over the long term? What protects them? In the Dow Jones Industrial Average, for example:
+
+Why is the share price of all the companies that enter it/are already in it assumed to be constantly increasing?
+
+Is a large part of the assumption driven by the constant encouragement of passive investing in IRAs/Index funds/employer based 401k’s which constantly invests in these companies thereby increasing their stock price?
+
+Seeing as many companies in the DJIA are said to be overvalued at the moment, I was wondering what truly gives passive investor’s peace of mind._END_OF_POST_PYSTOCK_ Full DD Summary on my Favourite Play Here’s my complete DD on my favorite play right now, HTBX. HTBX is a preclinical bio flush with cash. I’m going to give a basic background on the company, go over financials, go through the upcoming catalysts, include an expected value model on one of the drugs, and with all this seemingly good information, why it’s still so undervalued. 
+
+If you enjoy the post, please upvote! Took me a while to put together.
+
+
+**GP96**
+
+To understand heat, you have to understand gp96. The cellular heat shock protein gp96 is very versatile molecule. It has long been known for its ability to induce immunity against antigens from the cell from which it came.
+
+Gp96 serves as a:
+
+· Potent mucosal immune memory inducer
+
+· It Chaperones antigens (pathogens or tumor) to the immune system
+
+· Activates B cell response and drives antigen-specific CD4 and CD8 T cell activation
+
+Essentially, the gp96 heat shock protein is a warning system developed by humans over hundreds of thousands of years. It is released into the cell upon cell death and warns the body of its containing antigens. It has a wide range of applications for infectious diseases & different types of cancer.
+
+**Snapshot of Current Situation**
+
+· 113m cash as of December 9,2020
+
+· Avg cash burn rate \~20m/yr
+
+· No debt
+
+· 145M market cap
+
+· 22.83M OS
+
+**Upcoming Catalysts**
+
+**1.**  **HS-110**
+
+Phase 2 completion of its Non-Small Cell Lung Cancer (NSCLC) cell therapy treatment, HS-110.
+
+HS-110 is Heat’s first biologic product candidate in a series of proprietary *ImPACT*® based immunotherapies designed to stimulate a patient’s own T-cells to destroy cancer.
+
+From the company website:
+
+· Using our gp96 platform, the company has developed HS-110 as a treatment for patients with non-small cell lung cancer.
+
+· HS-110 is an off-the-shelf cell-based therapy. Our scientists have genetically engineered HS-110 to secrete a wide range of cancer testis antigens chaperoned by gp96 proteins.
+
+· In clinical trials, HS-110 demonstrated a broad activation of T-cell mediated immune response in cancer patients.
+
+· Our HS-110 Phase 2, multicenter clinical trial is evaluating the safety and efficacy of HS-110 in combination with Bristol-Myers Squibb’s checkpoint inhibitor, nivolumab (Opdivo®) or Merck’s checkpoint inhibitor, pembrolizumab (Keytruda®). The enrollment for this trial has completed with approximately 120 patients.
+
+**Keytruda**  
+**Company**: Merck & Co.  
+**Used for**: Melanoma, non-small cell lung cancer, head and neck squamous cell cancer, Hodgkin lymphoma, large B-cell lymphoma, urothelial carcinoma, microsatellite instability-high cancer, gastric cancer, esophageal cancer, cervical cancer, hepatocellular carcinoma, Merkel cell carcinoma, renal cell carcinoma, endometrial carcinoma  
+**2019 sales**: $11.1 billion
+
+**Opdivo**  
+**Company**: Bristol Myers Squibb  
+**2019 sales**: $8.06 billion  
+**Projected 2026 sales**: $11.62 billion  
+**Projected CAGR**: +5%  
+**Used for**: melanoma, non-small cell lung cancer, small cell lung cancer, kidney cancer, Hodgkin lymphoma, head and neck cancer, bladder cancer, colorectal cancer, liver cancer, esophageal cancer
+
+As you can see, HS-110 is being used in combination with Keytruda and Opdivo which are already the two best in class therapies available. They make over 20 Billion combined in revenue per year. Heat has reported in its midpoint data (posted on the company investor slide deck on their website), a significantly better survival rate when using either of these with HS-110. They also stated they are seeking a “Potential strategy to accelerate clinical development”. Given the data, it could be accepted under FDA’s “breakthrough therapy” designation for FDA fast tracking. Regardless, if this gets to phase 3, its almost a certainty it will be acquired by Bristol Myers Squibb or Merck for the IP rights.
+
+The estimated preliminary completion date for HS-110 phase 2 was December 2020, expecting updates most likely this quarter, at the latest by the end of the first half of this year.
+
+**2.**  **HS-130**
+
+A cell therapy treatment for advanced solid tumour patients
+
+Summary: This is an open-label, non-controlled, first-in-human Phase I study of HS-130 and HS-110 in patients with advanced solid tumors refractory to, or ineligible for, Standard of Care.
+
+Seven dose levels will be explored in escalating doses. For each dose level, patients will receive combination HS-130 and HS-110 via intradermal injections once every 14 days. The Dose Limiting Toxicity (DLT) window of observation will include the first 28 days of treatment. In the absence of progressive disease or unacceptable toxicity, patients will continue to receive combination treatment every two weeks until disease progression, death, patient's withdrawal of consent, Investigator decision to discontinue treatment, or intolerable toxicity, whichever occurs first.
+
+The estimated preliminary completion date for HS-130 phase 1 was November 2020, expecting updates most likely this quarter.
+
+**3.**  **COVID-19 Vaccine**
+
+Funny enough, with the stimulus talks going as poorly as they were throughout the second half of 2020, I thought the covid vax was off the table.
+
+Now, Biden’s new 1.9 T stimulus is adding 160 Billion for testing and new vaccine development.
+
+The vaccine’s out now are a bandaid. They only provide temporary immunity(could be less than a year). Heat Biologics’ COVID-19 vaccine program focuses on engineering multiple protein regions of the virus into their gp96 platform. Such design has the potential of generating long-term immune responses and may confer immunity to different coronaviruses. So, it can give long term cellular induced immunity and protect against mutations. Do some research on Covid-19 and T cells (As mentioned at the start, one of GP96’s main effects is activation of CD4 and CD8 killer t cells).
+
+Heat’s vaccine is targeted on the niche market of the most at risk populations. It’s the only company solely focusing on this market from my experience.
+
+“Our COVID-19 vaccine is being designed to generate T-cells to support those who are most at risk and need an extra immune boost, including the elderly and those with co-morbidities.”
+
+Heat stated they don’t want to use any of their own capital on this and will solely advance the program if they receive funding. With the importance being placed on wave 2 vaccines, this could receive funding which boosted a lot of companies values in the summer during the big funding round.
+
+**HS-110 PV Model**
+
+Expected value breakdown of HS-110. I learned this modelling technique from a professor I had that was a preclinical bio VC. It’s a present value market estimation technique that definitely requires estimation and has subjective elements, but is the best way there is to model these products.
+
+To give a brief background of the model, biotechs are valued based on the aggregated potential market value of each of the products in their pipeline discounted by the probability it makes it through each of the 3 phases.
+
+For example, the empirical probability used in valuation models that a company makes it though phase 2 is 37% and that it makes it through phase 3 are about 50%.
+
+So with that being said, “The global non-small cell lung cancer (NSCLC) therapeutics market size was valued at USD 16,011.7 Million in 2018 and is projected to reach USD 43,713.1 Million by the end of 2026, exhibiting a CAGR of 13.4% in the forecast period (2019-2026).”
+
+Say HS-110 is going into market in 2022, the expected value of the market is expected to be 26B based on its CAGR. So in a 26B target market that HTBX will be disrupting we can say it will VERY conservatively give a 2B increase to its value(big estimation here but bear with me). Then discounting that by 50% (phase 3 completion probability) and another 37.6% (for phase 2 completion probability) means just HS-110 is conservatively worth 376M to Heat in 2022. Discounting 2 years at the CAGR of the industry growth, HS-110 is worth about 292M (12.79$/share) to Heat right now. Adding the current cash/equivalents on hand of 113M to that, HTBX’s current SP would be 17.74(a 180% premium above the current SP of 6.34).
+
+**Why is the stock price so undervalued right now?**
+
+The company pumped out a 150M shelf and diluted since a massive pump in July to the covid sector. It created a lot of bagholders. In December a 7-1 reverse split was preemptively carried out the day after it was announced. For months Sabby management was taking huge short positions causing daily 30-40% avg short interest. Sabby announced they closed all positions at HTBX a few weeks ago. Another 250M shelf offering is open, and isn’t intended to be used until needed.
+
+All of this was a necessary evil for funding and value creation. The CEO Jeff wolf has an experience of creating value for companies then selling them for huge premiums. During the sector pump in the summer other execs sold their shares on the pumps, Jeff, and the other Heat execs have not disposed of any shares. Jeff actually received in late July 2M options for heat stock at split adjusted $14.49/share. He’s continued to increase his stake since. A new CFO was hired last week with two incentive clauses, he’ll get a bonus if heat closes above a 500M market cap for 15 days straight or is acquired for 125% premium or more.
+
+I still urge you to do more DD on the company, there’s a lot more to discover, but I truly believe this could be a massive runner over the coming weeks, and especially by the end of the quarter/first half of the year as it completes its upcoming catalysts. I’ve never been more confident on a company being undervalued._END_OF_POST_PYSTOCK_ [DD] Uranium: Coiled spring or just Nuclear decay? There have been multiple threads posted to Reddit recently touting the potential that the Uranium industry has over the next few years. Specifically, /u/3stmotivation has done a terrific job with his(?) due diligence regarding the industry. If you had bought in to any of his recommendations back in June after reading his thread in /r/Undervalued here: [The undervalued case for uranium companies](https://www.reddit.com/r/Undervalued/comments/gz833b/the_undervalued_case_for_uranium_companies/), then you likely would've been up 27% on the large cap Cameco(CCJ), 128% on Denison(DNN), and 155% on Energy Fuels(UUUU). He is not the only one expecting Uranium to make huge gains, however, but I would like to use his work as a case study so that we can get an idea of what to expect for the industry. Just as a note, I decided to largely leave fundamentals of the companies and technical analysis out of this post. I can provide info about how I feel about them as well, but decided to put them on hold for now.
+
+**What is the purpose of this post?**
+
+Simple. When I read these posts about the Uranium industry having the potential to explode in the near future, I *rarely* came across reasons as to why it *wouldn't* skyrocket. Before buying in, I decided to dive deeper into reactive core to see what I could come up with.
+
+**The current situation, summed up:**
+
+If you haven't read through Uranium investment material, I'll sum it up now. The lack of supply does not meet the current and 10 year expected demand. Because of this, the biggest producers are buying from the spot market because it's cheaper to do that than to re-open their facilities for new production. It's predicted that when spot prices hit $50+, these companies can get back to work and make great earnings while doing so. 
+
+I'd like to be clear here... This is not untrue. Contracts will likely be renewed over the next couple years, starting now, driving prices up. 
+
+**Uranium voices say we'll have a repeat of sky high prices during '07 and/or '11.**
+
+Remember Fukushima? The Japanese Nuclear disaster in 2011 that shut down many facilities, driving Uranium supply up and prices back down? An important piece to the puzzle of investing in a company is public perception and there is no difference when it comes to commodities. For this exercise however, I frankly don't care what the public's perception is. The *reality* is that Nuclear power is safer and reduces carbon more effectively than every other way we produce power. Nuclear power is only getting **safer** because of these kinds of disasters. Regulations are incredibly strict when it comes to Nuclear power because of the implications, bringing my first point into focus...
+
+**Uranium *can't* be competitive.**
+
+Industries that are forced to comply with significant safety standards set by government regulations cannot adapt quickly to a changing economy. With that said, the companies that have survived this sector are well suited to withstand the regulations they're forced to deal with. But mooning? That's out of the equation.
+
+**Renewable Energy is the future/can't power the entire grid.**
+
+Renewable energy can't power the entire grid and it's not our only future. The reality is that our future is made up of Renewables, Nuclear, Fossil Fuels, and a healthy balance of other energy sources. Why is this the case? Many reasons. Fossil fuels will run out and harm the environment, renewables aren't as productive or reliable and take up a lot of space at the same time, and Nuclear is damn expensive and takes forever to get running. Let's look at this last point...
+
+**Nuclear is expensive and takes *forever* to get running.**
+
+It costs *billions* of dollars to get a new Nuclear facility up and running. Natural gas takes a fraction of the cost. Nuclear, while turning a profit at a better rate and with less carbon output than Natural Gas, also takes *at least a half decade* to even be built. Out pacing a Natural Gas facility's profitability doesn't begin until nearly a decade *after* a Nuclear facility is built. And that's *without* further technological improvements of Natural Gas facilities bringing costs down further. Who exactly has 10-15 years and billions of dollars to spend on an endeavor that will likely need heavily regulated maintenance and repairs shortly after profitability outpaces its competitors? 
+
+**Not politicians, that's for sure.**  
+
+The billion dollar price tag for Nuclear can only be covered by 1 purse, the political purse. Let me ask you this, how many high level representatives can you name that have been in positions of power for 15 years? The way you advance in politics is by winning and you have a short time frame to do that. Investing yourself in legislation that pumps up Nuclear energy, against horrible public perception, will not net you the quick wins needed to continue moving up the ladder. No one wants a part of this like they do Renewables or even Natural Gas.
+
+**So is Uranium actually worth investing in?**
+
+The short answer? It *could* be, but only for the intermediate term. 3STmotivation specifically mentions a horizon over the next few years and how important it is to keep an eye on spot prices and the industry when we get a few years down the road. Based on what I've learned during my research, this is not a long term play until *significant* improvements are made for Nuclear.
+
+**What about for the intermediate term?**
+
+During the bull run from mid 2010 to the beginning of 2011, CCJ, DNN, and UUUU shot up about 65%, 150%, and nearly 500% respectively. Unfortunately, over the following 6 month time frame, they lost basically all of those gains and have been in decline for the 10 years since. Fukushima played its part with reassuring the public that Nuclear was dangerous and may have been a catalyst for this meltdown, but the continual decline in value is evident. These are huge gains, no doubt, but be understanding of the industry as a whole and how the market reacts before buying in.
+
+**Final thoughts:**
+
+I ultimately decided ***not*** to buy into Uranium. I think the industry is Undervalued for a reason, ie. valued appropriately. My investment strategy does not include investing or trading commodities so it was easier to pass on this, but that is not to say money cannot be made here. I simply don't believe this to be a long term play and the short/intermediate term is too volatile, difficult to fully grasp, and risky for most investors. 3STmotivation provided great analysis of the industry and the companies that are probably best equipped to benefit from the upcoming catalysts, so I thank him for encouraging my research. 
+
+
+Remember, not everything affordable is worth buying._END_OF_POST_PYSTOCK_ ARKX holdings unveiled? not sure if i'm late but ARK already runs a space ETF in Japan that likely has very similar holdings to what ARKX will have. see holdings and insights in the tweet
+
+source: some guy on twitter
+
+[https://twitter.com/FPTXYZ/status/1350096696433377283](https://twitter.com/FPTXYZ/status/1350096696433377283)_END_OF_POST_PYSTOCK_ TESLA DELIVERS MODEL Y IN CHINA !!!!!!!! PRICE TARGET? Hi guys, today Tesla delivers model y cars in china.. what does this mean for the stock ? Also will help the stock price go up before earnings? Whats your input? I would like to know how do you guys feel about this? I think tomorrow Tesla will go up because of this news , let me know what you guys think_END_OF_POST_PYSTOCK_ Why does bitcoin bulls always mention inflation when in reality inflation is at historic lows? In the bitcoin community you get the sense that we're printing too many dollars but if you look at the data, we've actually been at historically healthy and low inflation for years.
+
+Do you think bitcoin bulls know this and they're just speaking in hypotheticals, or do you think they're misinformed?
+
+https://imgur.com/BmZ5JLF
+
+There is also talk of the benefits of a finite money supply. This of course makes all the sense in the world at first! However, we already tried this as a society with the gold standard and quickly decided it was untenable in 50 years or so (mid 1800s to WW1) due to deflationary fiscal panics. I don't the the main issues we had with the gold standard were associated with how hard it is to transport, but more to do with it's finite nature. Global fiscal policy is complex and even though no one may truly understand it, I think it deserves more thought than bitcoin bulls have applied before throwing it aside.
+
+Interesting excerpt from wiki gold standard article:
+
+*The economist Allan H. Meltzer of Carnegie Mellon University was known for refuting Ron Paul's advocacy of the gold standard from the 1970s onward. He sometimes summarized his opposition by stating simply, "[W]e don’t have the gold standard. It’s not because we don’t know about the gold standard, it’s because we do."[67]*_END_OF_POST_PYSTOCK_ The Analyst Score Update - Tracking Whether Analysts Are Good And Finding An Edge Hey Everyone! I am back with The Analyst Score today. I've posted about this score a couple of times on Reddit, but I've been having troubles gathering the needed data. Well, I got access to some new data, so it's back. 
+
+I love this score because in the past it has shown great, market beating returns, while holding what I'd consider some great companies. Of course, the nature of the score and the data means that I cannot backtest, so I have no idea how this will eventually perform in a bear market. 
+
+# How It Works
+
+I monitor the day-to-day changes in analyst recommendations for *almost* every stock. Why? Well because I wanted to know how analysts perform as a collective. The answer, it seems, is quite well. 
+
+I store all of the analyst recommendations and then once a month bundle all the changes up together, weight all the companies against each other, and give them a letter grade (A+ through F). The stocks you'll see mentioned throughout this post are A+ rated stocks. To be an A+ rated stock, a company must have only had buy recommendations by at least five "good" (according to my model) analysts. 
+
+# How Has The Score Performed?
+
+Stocks meeting the top criteria in July 2020 have returned more than 70% since then (as a basket). Stocks in the November run (my last run) have performed admirably too. All A+ rated stocks have returned 18.48%, while narrowing things down to larger firms (say over $2B) **have returned 22.55%. The market (S&P 500) during the same period has returned just 3.82%.** A link to the November data is below \[0\]. 
+
+Trying out different variants, I've looked at having higher-quality analysts only, and I've looked at different sectors. Health Technology, for example had just two companies score A+ that had market caps in excess of $5B (for safety of principal). **Those two companies have returned 32% and 68% since 11/24 when the score was run.** 
+
+Another variant, only using stocks covered by 10 analysts is where I've settled though for a trial run in a Public trading account. **There were 14 companies covered by 10 analysts in November and they have returned 22.56% since then.** 
+
+# What Makes Up Your Portfolio?
+
+Today, there are 17 and I've already made the investments via Public and will continue to update here on Reddit, and on my YouTube channel. 
+
+Here are the 17 stocks that I invested in:
+
+* Microsoft Corporation
+* Enbridge Inc
+* Equinix Inc
+* Global Payments Inc
+* HCA Healthcare Inc
+* ConocoPhillips
+* RingCentral Inc
+* Phillips 66
+* D. R. Horton Inc
+* Gaming and Leisure Properties Inc
+* Signature Bank
+* Builders FirstSource, Inc.
+* Lumentum Holdings Inc
+* Maravai Lifesciences Holdings Inc
+* Chart Industries, Inc.
+* Arena Pharmaceuticals, Inc.
+* Immunovant Inc
+
+Each month I will add new A+ stocks, and sell stocks that have dropped to B or below. Stock buys are for 5% of the portfolio. 
+
+The portfolio can be seen on the brokerage app Public, but I'm not certain I am allowed to link there in this subreddit. 
+
+# Where Can I See The Data?
+
+I put the A+ companies up on Google Sheets. Google Sheets are a bit fickle, especially if something happens to the company (acquired etc.), but they work for quickly conveying the information. 
+
+Above, I promised the end of November / December data and that can be found here 
+
+\[0\] [https://docs.google.com/spreadsheets/d/1OwlopOmSpdul\_rtoDJ0B2Oov2nPbInHVIF\_UQI6iMKw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1OwlopOmSpdul_rtoDJ0B2Oov2nPbInHVIF_UQI6iMKw/edit?usp=sharing)
+
+The current data (A+ rated stocks today) is here: [https://docs.google.com/spreadsheets/d/1jEGkmtRhjAMY106V283poSXvtI\_yImy8C9ZFOOZOUlk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jEGkmtRhjAMY106V283poSXvtI_yImy8C9ZFOOZOUlk/edit?usp=sharing)
+
+&#x200B;
+
+I am happy to answer any questions about the score, or any of my other scores if you've seen my other work. As with all the data I post, **this score is not the holy-grail,** it's probably not even a grail, honestly. For me it's another tool in the arsenal for finding great stocks._END_OF_POST_PYSTOCK_ Late to the game but it’s time to sell AT&T Have some AT&T (T) in my retirement fund. It hasn’t been my best investment but steadily pays a small dividend so I leave it there telling myself I’m more diversified or something. Well today I’ve finally decided it’s time to get off that wagon and sell.
+
+Recently switched our family plan from AT&T to T Mobile to save some money. When we closed our AT&T account we ended up with a balance. How do they refund this? I’ll just leave this here... https://i.imgur.com/e0x9fsz.jpg - they sent us a prepaid mastercard. Yes, end the suspense, it’s for 1 cent. So wasteful. I can’t even just deposit it without more headache than it’s worth. Dumb stuff like this is why the dinosaurs died._END_OF_POST_PYSTOCK_ Right now, the Shiller S&P ratio for the S&P 500 is 34.5 -- more than double its historic average. >According to the The Shiller price-to-earnings (P/E) ratio is a P/E ratio based on the average inflation-adjusted earnings from the previous 10 years. Over 150 years of history, the Shiller P/E ratio for the S&P 500 has a mean (average) of 16.8 and a median of 15.8. Right now, the Shiller S&P ratio for the S&P 500 is 34.5 -- more than double its historic average. [Source](https://www.fool.com/amp/investing/2021/01/18/the-stock-markets-telltale-crash-signal-is-back/) 
+
+
+&nbsp;
+
+>When looking back, there have only been five times in history where the S&P 500 has maintained a move above a P/E of 30: 
+
+
+&nbsp;
+
+**1929:** After the Black Tuesday crash, the iconic Dow Jones Industrial Average (DJINDICES:^DJI) went on to lose approximately 89% of its value.
+
+&nbsp;
+
+**1997-2000:** Before the dot-com bubble burst, the Shiller P/E ratio for the S&P 500 hit an all-time high of 44.2. Nearly half the value of the S&P 500 was wiped away after the dot-com bubble burst, with the Nasdaq Composite (NASDAQINDEX:^IXIC) hit even harder.
+Q3 
+
+&nbsp;
+
+**2018:** Throughout much of the third quarter of 2018, the Shiller P/E ratio sat above 30. This was followed by a fourth quarter swoon that saw the S&P 500 lose as much as 19.8%.
+
+&nbsp;
+
+**Q4 2019/Q1 2020:** Prior to the coronavirus crash in the first quarter of 2020, the Shiller P/E ratio had, again, crossed above 30. The S&P 500 lost 34% in 33 calendar days during the COVID-19 chaos of February and March.
+
+&nbsp;
+
+**Q3 2020-Current:** To be determined.
+
+&nbsp;
+
+
+>Historically, when the Shiller P/E ratio for the S&P 500 gets above 30, bad things happen._END_OF_POST_PYSTOCK_ Bloomberg investments Hello everybody! First of all, thank you for all your help and support. Because of this page I am up 6% in my first two weeks of investing, I am aware this is not a normal average, but it is nice to start off positive. 
+
+Logically, stocks that Bloomberg invests in, take a massive increase just because his name is attached to it. Does anybody know where to find his new investments? I just want to be early for once when a stock rises. Is there a site where he posts his new investments?
+
+Thank you all for your help and I am eternally grateful for pushing me to invest at a young age!_END_OF_POST_PYSTOCK_ Are we heading towards a true liquidity trap? If the stock market stagnates or starts to fall. What can the government and FED really do to stop us from getting caught in a liquidity trap? Interest rates at 0, so lowering them below 0 won't stimulate the economy any more. Injecting money into the system only works if people spend them and if we look at the savings rate right now people are already starting to save heavily.
+
+The question is. Are we actually in the beginning of a liquidity trap? If not, why not ? If yes, why? Other opinions?_END_OF_POST_PYSTOCK_ Trajectory for FuelCell Energy (NASDAQ: FCEL) With oil and coal on the decline (Biden intends to crack down on the Keystone XL Pipeline), also with an incoming earnings report, investors believe there will be a sudden spike in **FuelCell Energy**'s share price, as it dropped from $20 to $15 last week. It once long ago went from $12 to $6 and went up to $15 or $17 a week later. JP Morgan doesn't know what's going on, despite their downgrade of it. **FCEL** is now debt-free from Orion._END_OF_POST_PYSTOCK_ QCLN vs ICLN vs PBW Hello everyone!
+
+I currently hold QCLN & ICLN. Both have done very well in the last 12 month. 
+
+Between the two of them, I feel they’re too heavy on TSLA(QCLN), NIO(QCLN) & PLUG(ICLN) weightings. 
+
+I highly doubt these 3 stocks will continue their all-time high streaks in 2021. 
+
+PBW seems well balanced, has performed on par or better than ICLN & QCLN and has a combined TSLA + NIO + PLUG weighting of under 7%. 
+
+If you were in my position, holding both QCLN & ICLN + Considering there is a strong chance TSLA, NIO & PLUG stocks will see a correction in 2021, Would you sell ICLN & QCLN and move to PBW?_END_OF_POST_PYSTOCK_ Why are long term treasury yield currently increasing, while short term yields stay the same? https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/TextView.aspx?data=yieldYear&year=2021
+
+I guess it's obvious why short term rates are near zero - to try and stimulate the economy, so the question is why are long term yields on the rise. Is it a simple lack of demand for long term treasury debt, meaning they have to increase the yield to sell those bonds?
+
+If the difference between short and long term yields continues to widen, who is going to buy the short term debt?_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ What sectors do you believe will overpreform in 2021? Will growth, healthcare, and tech continue its big bull run, or will we switch to more traditional sectors?
+
+Do you think as the bull run continues and the economy recovers we will see performance in value and small-cap stocks? Or perhaps long depressed sectors like energy and financials?
+
+Small-caps have underperformed the S&P 500 since the end of 2018. The price growth gap between S&P 500 Growth and S&P 500 Value was at its highest in history this past August and is currently, even after some stock rotation, as wide as it was in Dec. 1999, before dotcom crash. 
+
+The S&P 500′s 12-month price-to-earnings ratio is at a premium of 45% to its 20-year average.
+
+Technology, even for all of its gains, is hard to bet against. Some things will not return to way they were before, and we will see multiple expansion in big tech names as technology plays an even bigger role in our lives. 
+
+What about international markets? Where do you see things going there? Over the last three years, the S&P 500 has outperformed the S&P developed international and emerging market indices. The last time those international markets outperformed the U.S. large-cap index was 2017. 
+
+Where’s your money going for the year?
+
+I plan to revisit this thread in January 2022 and seeing how well predictions pan out._END_OF_POST_PYSTOCK_ SPAC share price after merger Hi everyone!
+
+My Question: How is the price of the new company determined after SPAC merger materializes?
+
+Example: I bought 100 shares of NGA at price of 25$. SPAC listing price was 10$. Lion Electrics is a private company. New ticker symbol after merger will be LEV (Lion Electric Vehicles). How is the listing price of the new company determined when it goes public? Is it the last close price of the NGA or is it calculated differently?
+
+I tried looking this up on the internet but didn't find any example that would answer my question. 
+
+[https://finance.yahoo.com/quote/NGA](https://finance.yahoo.com/quote/NGA)
+
+&#x200B;
+
+Thanks_END_OF_POST_PYSTOCK_ Options Trading Part IV (Leveraging Margins and Long-Term Options to Amplify Returns)  
+
+Hello investors,
+
+So far, we have talked about the following trading plans for executing options trades. I'll quickly go over them below to ensure that everyone is on the same page. I want to be sure we are aware of the reasons why we are buying certain types of options and the mechanics of realizing profits from them.
+
+**Options Trading Part I (Which Options to Buy)** **- 11/16/2020**
+
+[https://www.reddit.com/r/Midasinvestors/comments/jvivvt/options\_trading\_part\_i\_which\_options\_to\_buy/](https://www.reddit.com/r/Midasinvestors/comments/jvivvt/options_trading_part_i_which_options_to_buy/)
+
+This post basically explains the concept of getting the maximum convexity on your return profile, which is a fancy way of saying getting the best returns for a unit of risk you are taking.
+
+For instance, if you are betting a $100 on a company, you might as well do it using options because you could potentially get higher returns for a little more, if not the same, amount of risk you are taking.
+
+You want to play a game where you will receive $300 for every $100 you bet, 3:1 payout ratio, not $100 for every $100 you bet, 1:1 payout ratio, which is the case for owning shares in a company.
+
+Name of the game, purchase options with the best risk/reward scenarios.
+
+(To determine the payout profile, almost all brokers offer the calculations to show what happens to the value of the option if stock price goes down by 30% or up by 30%.)
+
+**Options Trading Part II (When to Exit or Rollover Positions) - 11/28/2020**
+
+[https://www.reddit.com/r/Midasinvestors/comments/k2ylur/options\_trading\_part\_ii\_when\_to\_exit\_or\_rollover/](https://www.reddit.com/r/Midasinvestors/comments/k2ylur/options_trading_part_ii_when_to_exit_or_rollover/)
+
+The next post explains when to close out your positions. Again, it goes off the idea of understanding your risk/reward for every position that you have and either existing your positions or rollover them based on how the situation has changed.
+
+For example, if you purchased an OTM call option expiring in 12 months and 4 months later, you're already in-the-money with 4x your initial investment in unrealized capital gains.
+
+At this point, your payout profile will look much worse than when you first entered the trade, meaning for every $1 upward movement in the stock price, you will gain $10 and a $1 downward movement in the stock price will decrease the value of your options by roughly $10, resulting in a 1:1 payout profile, which is almost the same as owning shares in a company as we discussed above.
+
+Therefore, you need to answer the following question:
+
+* Are you bullish or bearish on the stock in the next 8 months (the remaining life of the option)? Will there be external market forces that could hurt the stock's performance?
+
+If the answer is bullish, then I would say either keep the options or rollover into more OTM option.
+
+You would **keep the options** if you think the stock will still **appreciate in the next 8 months but the upward movement won't be anywhere explosive**, so you're essentially owning shares in the company at this point.
+
+You would rollover into **more OTM options at the same expiration date** when **you're still feeling very bullish on the company in the next 8 months and think that the stock could rise another 30% so you want the best payout profile**. This also limits your risk by cutting down the weight of this option in your overall portfolio.
+
+**Options Trading Part III (Fighting the Theta Decay) - 12/13/2020**
+
+[https://www.reddit.com/r/Midasinvestors/comments/kcpzpq/options\_trading\_part\_iii\_fighting\_the\_theta\_decay/](https://www.reddit.com/r/Midasinvestors/comments/kcpzpq/options_trading_part_iii_fighting_the_theta_decay/)
+
+Lastly, this post was about how theta plays a role in calculating your returns.
+
+It basically says that shorter period options are risky considering how much more theta decay plays a role compared to the intermediate and longer period options.
+
+Please see the summary below:
+
+**1) Invest in the best risk/reward option terms.**
+
+**2) Manage your risks by either keeping your options position or rolling them over and limiting your exposure, assuming you're still bullish on the stock.**
+
+**3) Be aware of the risks of theta decay when buying short-term (3-6 months) options.**
+
+Which brings me to the topic for today's post: **Leveraging Margins and Long-Term Options to Amplify Returns**.
+
+I believe that the optimal strategy to invest in a company that you believe in is to buy LEAPS on the company's stock.
+
+(LEAPS are "long-term equity anticipation securities", another fancy word for long-term options.)
+
+Why? Because it has the three key characteristics we are looking for:
+
+**1) Best risk/reward option terms.**
+
+**2) Easier to manage risks.**
+
+**3) Lower theta decay risks.**
+
+I'll go into the details of why LEAPS are suitable for our purposes.
+
+**1) Best risk/reward option terms.**
+
+The reason why LEAPS offer the best risk/reward scenarios, in my opinion, is that it gives you two things: 1) time to play out your thesis and 2) self-discipline.
+
+1. It gives you sufficient time to play out your thesis. Say you buy LEAPS on a company thinking that its next year's earnings will crush the estimates due to the amount of pricing power that the company has or the success of their international expansion plans.
+
+On catalysts like these, you need more time for the stock to play true to the company's financial performance.
+
+For instance, you bought Thor Industries, a recreational vehicle manufacturer, thinking that people will go for outdoor camping more due to COVID. What if Trump came out and said that the US will raise tariffs on aluminum, a key component of RVs? This will temporarily depress the stock price and if you had short-term options, you will likely realize losses.
+
+If you had bought 2-year option, however, the stock would be given enough time to recover and actually rise above your entry point given that the tariffs news fades away and Thor Industries reports earnings that crushes the consensus estimates.
+
+The key aspect to remember is the leverage involved in an option.
+
+Leverage is when you put $100 to bet on a company but you actually get $1000 exposure, meaning you get 10x the exposure.
+
+When you buy an option, you pay $1k in options premium to buy 1 call option contract on NIO to get $2800 of stock exposure ($56 stock price \*100 shares \* 50% delta) because each options contract is in units of 100 shares of the underlying stock.
+
+(Delta is the sensitivity of the option price movement given $1 change in the underlying stock price. If Delta is 50% and the stock increases $1, your option price will increase by 50%.)
+
+The point I wanted to make is that options in general provide you a leverage, which amplifies your return.
+
+Therefore, for the amount of risk you are taking (the hefty premium paid for longer-dated options) against the reward you are receiving (the stock appreciation amplified by leverage), LEAPS offer good opportunities.
+
+2) LEAPS also offer self-discipline.
+
+By incentivizing you to hold on to your LEAPS when the market panics and the stock sells off, it allows you to be more disciplined, which is a key factor in a successful investing as I alluded to here.
+
+[https://www.reddit.com/r/Midasinvestors/comments/kpfx3h/investing\_philosophy\_part\_iii\_can\_you\_actually/](https://www.reddit.com/r/Midasinvestors/comments/kpfx3h/investing_philosophy_part_iii_can_you_actually/)
+
+And of course, people will be more incentivized to hold onto their options to benefit from long-term capital gains tax.
+
+**2) Easier to manage risks.**
+
+LEAPS are easier to manage risks because you know the amount of money you're risking to lose and you know what your returns will look like in different scenarios because it's a relatively same payout profile as owning shares but magnified due to leverage.
+
+More importantly, it's easier to keep track of their performances as we have less complex trades, compared to say a box spread trade that requires more complex strategy.
+
+**3) Lower theta decay risks.**
+
+Longer options have lower impact from the theta decay. For instance, a 2-year option price will decline by only 10% if the stock price stays the same after 5 months, whereas an 8-month option price will decline by 30-40% if the stock price stays the same after 5 months.
+
+I also sell naked put options on a short-term basis to benefit from the theta decay but since it limits the upside potential, I tend to express my view on a company through LEAPS.
+
+The situations where I will sell naked put options is when I think the stock is overvalued and want a chance to buy the shares at a lower price but still want to collect some income if the stock price appreciates in the short-term.
+
+For instance, a 4-week $350 OTM put option on Costco was trading at $4 premium and the underlying stock closed at $361 on 1/15/2021.
+
+If I thought COST was overvalued, I would want to sell this put option and collect $4 premium. If the stock declines to $345, I am more than happy to cover my put options by buying shares at $350, a price lower than $361 on 1/15/2021.
+
+**Sell puts at the lowest price when you want to buy a stock. When price goes down, you can purchase the stock. This is a bullish view.**
+
+And since I firmly believe that Costco won't fall by 20-30% given the low volatility of the stock, I'm also not worried about losing lots of money when the stock goes down.
+
+**Alternatively, sell call option at exercise price where you think the stock will max out at. This is when you already own the stock and you want to cash out at a certain price point.**
+
+This is all to say that theta decay risks are lower for LEAPS and if you want a step ahead, you could potentially sell put options in the short-term to collect income. And btw, this is also a strategy that Warren Buffett uses all the time.
+
+To summarize, LEAPS offer a way to both limit our risks and amplify our returns, while also gaining the tax advantage.
+
+I wanted to also mention using margins in this post since we discussed the concept of leverage.
+
+I am all in favor of using margins and if managed properly, it can be a great way to gain advantage as an individual investor.
+
+Every single hedge fund and private equity uses some type of leverage, whether in the form of futures, margins, or options, to magnify their returns.
+
+If you were receiving 10% return on a very diversified, safe portfolio in a year, I believe margins will offer a way to magnify that return while limiting risks.
+
+Say $100k is invested across 50 very safe, low volatility stocks and you borrow $100k on margin to invest $200k total. What are the chances of your entire portfolio going down by 50%? Aka $100k and losing all your money?
+
+Not to encourage you to take so much risk but adding margins while properly managing risks is a great way to enhance your performance.
+
+Thanks for reading everyone and as always, please feel free to suggest any topic you want to discuss!
+
+Cheers._END_OF_POST_PYSTOCK_ Can someone make a good case on why I should invest outside of the USA? As far as I can tell, a nearly 100% USA based equity portfolio is the best, US total market has quadrupled since 2010 while indices like the Nikkei 225 or S&P/TSX 60 has been flat or even red since the 1990s (before dividends). With rare exceptions like the Nifty 50 or Taiwan's index, most foreign indexes seems to have similar returns to bonds with far more volatility. Why should I invest outside of the USA just for the sake of peace of mind, knowing I'm not reliant on a single country?_END_OF_POST_PYSTOCK_ Hypothetical Question about Elon Musks recent stock mistake So I was just wondering, after the thing that happened with Elon musk when people bought the wrong stock
+
+
+Hypothetically, would it work if someone hacked into his Instagram account with the plan to tweet about a tiny company (like one that’s at $0.02) with the intention of buying a ton of it (like $1000 worth of stocks) before tweeting about the company on the famous persons Twitter account with the intention to sell it after it blew up 
+
+And since it comes from someone like Elon musk, people would buy it and the price would go up a bunch and then whoever bought it could sell it after they made a fortune off it ?
+
+This is totally hypothetical I have no intention of acting it out me and my friends were just discussing the situation that happened with Elon musk and that idea popped up_END_OF_POST_PYSTOCK_ Growth & value while dividend investing, my answer to the improbable. My investment strategy is centered around companies that have room to grow and still pay an above average dividend.
+
+This basically means I spend a little too much time every 5-6 months on average scanning the NYSE directory for companies that fit the bill. But as an upside I've come out with some winners. 
+
+My current holdings are:
+
+Acco brands ($ACCO), Arbor Realty trust ($ABR), Store capital group ($STOR), York Water Company ($YORW), Verizon communications ($VZ), and Hannon Armstrong Sustainable infrastructure Capital Inc ($HASI).
+
+Though most of these companies have experienced significant growth over the past year, what hasn't? 
+At the end of the it doesn't change the dividend payout of more than one percent across the board and in the riskier one i.e. $ABR they have a payout of about 8% by the end of each year. So I see it as a necessary risk, which makes a nice segway to the next topic; how to choose a company?
+
+My criteria do not individually bar one company from ending up on the list but are all yes or no questions and when three or more of them are no, the stock does not end up on my list.
+
+Is the company more than 30 years old?
+
+Is the operating margin above 5%?
+
+Is debt to assets below 25%?
+
+Has income and revenue grown over past five years?
+
+Has their stock fallen more than 8% in the past 365 days?
+
+Has the stock seen more than a 5% change in the past month (no means yes for this one in that it is a good thing)?
+
+This last one counts for everything though.
+______________________________________________
+Do I believe in this company/ understand their business model?
+______________________________________________
+Feel free to add your own but that's the general theme without including the ones that are politically motivated._END_OF_POST_PYSTOCK_ LONG TERM GOLD It is not about stimulus, vaccines and elections, as many believe. It is about a simple math. Economy is terrible. How can they keep it going after everything that happened in last decades of debt and covid on top? By devalating USD and causing inflation . If they stop, crash in stock market is coming. If not, hyperinflation is coming. Maybe even both of those. What will they chose, USD or stocks, or none of them? Nobody knows. 
+
+If they save stocks, inflation is coming - good for gold . If they save USD, stock market will crash and investors will sell stocks and rush in safe heaven - gold . Whatever happens, gold is going much higher. Same applies with silver , just with higher potential and volatility . Bitcoin? Not sure. If people stop trusting governments and banks, yes to Bitcoin . But this is unlikely to happen anytime soon. Gold is going up, absolutely nothing else is possible.
+
+Three reasons why gold may go up in the short to ATH .
+
+1. Dems may win the senate which guarantees further stimulus and inflation ;
+2. January has been a notorious bullish month for gold (8/9 last years up, as banks adjust their portfolios);
+3. Gold just broke out of a corrective pattern (3 months) from its previous bull run, and have the momentum to continue. Just may 2 cents.
+
+CHART: [https://www.tradingview.com/chart/XAUUSD/FHNc8oKa-LONG-TERM-GOLD/](https://www.tradingview.com/chart/XAUUSD/FHNc8oKa-LONG-TERM-GOLD/)_END_OF_POST_PYSTOCK_ If you were supposed to make 10 percent on 250K, but in the safest manner possible, how would you invest it? So, let's say that I have 250k sitting in a bank. Earning basically nothing. Inflation is like 4 percent. So, every year it sits in there, it's losing around 4 percent of it's value, and it will be even worse with all this stimulus money coming in, making everything less valuable. Anyways, if you're trying to counter this, and you really want to make 10 percent on that 250K (annually), what's the safest way to do it?
+
+Bonus Question.. Would it be easier if the amount was 500K? (What I mean is, as your amounts get higher and higher, and you're willing to not see that money for a full year, but you want your 10 percent on top of the balance, does it get easier to get 10 percent? Like if somebody had 2 million, could get they get 10 percent even easier with less risk?)_END_OF_POST_PYSTOCK_ PSTH potential powderkeg technical setup Here's my take, and why I'm YOLO all in on PSTH....  Pershing Square Tontine Holdings is the largest special acquisition company to date, created by Bill Ackman, it trades on NYSE, it closed AH at 29.85$.  It has 2 years to get a deal done, it IPO'd at 20$ a share, if a deal does not get done, holders of common shares get 20$ a share paid back to them at the end of the 2 years. Which means, the downside risk is limited to 20$ a share no matter what because it is backed by 5 billion dollars.  
+
+
+
+
+
+
+
+it IPO'd 21-JUL-2020, it has until 21-JUL-2022 to get a deal done, otherwise holders of common shares get 20$ per share. 
+
+
+-  Bill  was quoted in the fall saying "In terms of timing, what we said at the time of the IPO is we said it would take us, we thought about six months to identify a target that we would be in a position to hopefully announce a deal by sometime in Q1, and then close the transaction in the ordinary course thereafter. Nothing that we have experienced to date, suggests that we won't meet our expect timeframe."  
+
+
+-  "We had more than 12 billion$ of demand for the offering when we stopped marketing the IPO on the second day of the road show". 
+
+
+-  "We used the excess demand for the pershing square tontine holdings IPO to curate a shareholder list that would be the envy of any public company. We selected investors for their reputation as long term, value added owners."
+
+
+- list of institutional investors they curated can be found on the nasdaq website.  https://www.nasdaq.com/market-activity/stocks/psth/institutional-holdings The private company maintains majority interest, and voting rights. They essentially give up nothing, and get a huge cash injection.  There are only so many companies on this list that even qualify in terms of size.
+
+
+
+-  If the timing quote  is to be believed, it would put the announcement of a LOI (Letter of intent) for a target sometime in Q1, the general consensus expects an announcement sometime between mid jan - mid feb, most likely after the inauguration to avoid trumptards doing something like storming the capitol again and and scaring the market. 
+
+
+merger criteria: https://pstontine.com/acquisition-criteria/
+
+
+-  Simple, Predictable, and free-cash-flow-generative
+-  Formidable barriers to entry
+-  Limited exposure to extrinsic factors that we cannot control
+-  Strong balance sheet
+-  Minimal capital markets dependency
+-  Large capitalization
+-  Attractive valuation
+-  Exceptional management and governance
+
+
+
+
+The key takeaway there is, formidable barrier to entry. They are looking for a titan, they are big game hunting. 
+
+
+
+They have 5 billion in the warchest, and are able to go up to 7 billion
+
+
+
+-  Kevin O'leary is in big on this https://www.benzinga.com/news/20/12/18735011/why-kevin-oleary-is-betting-on-bill-ackmans-pershing-square-tontine-spac
+
+
+-  There are rumors that buffet could be a pipe investor, he has a large position hidden that eventually has to be released with a 13f filing, this is all speculation but check out this video https://www.youtube.com/watch?t=970&v=FhOzaN7uI_s&feature=youtu.be   "What I can tell you is, we met a very diverse base of investors, we got one of the largest orders through one of the firms, for a great, long only, very well regarded asset manager" 
+
+
+This is all speculation, but it still sounds spicy. 
+
+
+
+
+There have been a lot of special acquisition company's lately that have done really well, Chamath has had some incredibly profitable IPOs, but check out this chart for QS https://finance.yahoo.com/quote/QS/  They 13 bagged, and they are just some shitty EV battery play.... 
+
+
+
+
+
+Now here is where things get SPICY!!!!!!!!!!! Two parts, Part 1: The Tontine structure (last man standing gets everything), and 
+
+
+part 2: upward pressure through incentives, the atom bomb of technical plays. 
+
+
+
+***Part 1***:  Here is the prospectus https://www.sec.gov/Archives/edgar/data/1811882/000119312520175042/d930055ds1.htm
+
+
+For everyone who owns a common share , after merger they receive 2/9ths of a warrant, so 2 warrants at 23$ strike for every 9 shares.  This is where things get absolutely fucked though..... 
+
+
+
+The prospectus on page 5 states : "**We believe our ability to complete our initial business combination will be enhanced by how we have structured this offering.**
+
+
+**First, our distributable Tontine redeemable warrants provide our public stockholders with an incentive not to redeem their shares of Class A common stock in connection with our initial business combination. We will issue a fixed pool of 33,333,333 distributable Tontine redeemable warrants (assuming no exercise of the underwriters’ over-allotment option); holders who choose to redeem their shares will lose the right to receive any such warrants. Public stockholders who choose not to redeem their shares of Class A common stock will share in this fixed pool with other non-redeeming holders (on a pro-rata basis), and will receive the additional warrants that were effectively surrendered by redeeming holders. As a result, public stockholders who do not redeem their shares will receive at least two-ninths of a distributable Tontine redeemable warrant per share they hold, and a proportionally greater amount as other holders elect to redeem. We believe this structure will likely lead to a lower level of redemptions, and therefore, we will likely have more funds available for our initial business combination**."
+
+
+This means, if you sell your shares between the LOI (Letter of intent, the company they are merging with), and the actual merger, you FORFEIT your 2/9ths of a warrant per share, and the shares forfeited get added to a pool, and get given to those that held during this period. The MINIMUM is set at 2 warrants for every 9 shares, but it will be higher than that based on how many people sell shares during the tontine period before the merger date.
+
+
+
+
+
+***PART 2***: The potential spicy atom bomb....
+
+
+ Roughly 70% is held by instutitional investors, that are locked in.  With 200 million shares, that leaves roughly 60 million shares in the float for plebs like us. 
+
+
+Of those 60 million shares, a large group are going to want to hold through until merger to redeem their warrants at 23$, the HIGHER the SP goes, the MORE those warrants are worth, which INCREASES their resolve to hold so they can cash in. People will be selling shares in this time period, and ADDING to the total warrant pool, making people want to hold even more. 
+
+
+This reduces the float dramatically. The crazier it gets, the more people will be forced to hold for the warrants. The MORE people sell, the MORE warrants people that hold will get to collect, it could end up being 4/9ths or even higher. Making them want to hold EVEN MORE. The longer they hold out, the more warrants they get from people who forfeited by selling shares in this time period.... 
+
+
+
+If it ends up being a sexy target, like stripe, bloomberg, starlink, anything that generates hype, everyone and their moms, their dogs, and the mailman will want in.... Except....  There could be as little as 20 million shares even available for trading, on a mega hype stock.  If this happens, fundamental be damned, and it could be a technical wet dream. 
+
+
+
+Tilray (A canadian pot company) had a technical stratosphere run in 2018, it IPO'd at roughly 20$ a share, and hit 300 USD. There were only 17 million shares in the float, the higher it went the more people piled in, and it was pure insanity. https://www.investopedia.com/investing/tilray-shares-halted-5-times-wild-trading-day/    "On Wednesday, Tilray's stock gapped up sharply to open at $233.58 a share from Tuesday's $154.98 close. The stock hit an intraday peak at precisely $300 a share late in the trading day"
+
+
+
+
+
+Risks:  
+
+
+-  Bill doesn't get a deal done
+-  The stock collapses, and hits a hard limit of 20$ a share (about 30% loss from today's stock price). 
+
+
+There are risks with everything, but the set up based on the tontine structure alone could end up being one of the craziest technical plays of 2021 based on the limited float alone, AND the incentive to hold until merger with the tontine structure, this setup has never been done before in a SPAC, and this is THE LARGEST SPAC TO DATE. 
+
+
+
+
+Current position: 59 calls, december 2021 expiry, 35$ strike.  
+
+
+
+Edit: Formatting
+
+
+2nd edit: 2nd edit: I interpreted the prospectus incorrectly, shoutout to u/eddiepaperhands for clarifying.
+
+
+“We will provide the holders of the shares of Class A common stock issued in this offering (whom we refer to as our “public stockholders”) with the opportunity to have all or a portion of such shares of Class A common stock redeemed upon the completion of our initial business combination at a per-share price, payable in cash, equal to the aggregate amount then on deposit in the trust account described below as of five business days prior to the consummation of our initial business combination, including interest earned on the funds held in the trust account and not previously released to us to pay our taxes, divided by the number of then outstanding shares of Class A common stock that were sold as part of the units in this offering, subject to the limitations described herein.”
+
+
+
+Still bullish AF though :)_END_OF_POST_PYSTOCK_ Investing in empty land close (2.5 miles) to Interstate & Downtown Hello,
+
+I'm exploring my options to invest in real estate - empty land. The plot is close to the downtown and the County's library. Schools are in 6-7 range since this is an upcoming locality. I have never invested in land before and would like to know:
+
+1/ Is it worth investing in land? Current price is around $280K for 7000 SFT. I know I can buy a house itself at that range and rent it out, but I'm looking for a maintenance free/ less option yet good ROI
+
+2/ What are some of the taxations to consider ?
+
+3/ Assuming the price in this area goes up in the next 10 years, would it be worth buying and selling it in the next 10 years?
+
+What am I missing here or what are the things to keep in mind if I'm buying a property like this ?_END_OF_POST_PYSTOCK_ New to trading want to improve my knowledge Hi I am a 31 (m) married with some extra money to trade living in the northeast US. I am trying to learn more about trading, but I am very ignorant about this world. Any reading, podcast, websites, people to follow that you can suggest would be much appreciated._END_OF_POST_PYSTOCK_ VFIAX vs FXIAX Which is better for A) retirement accounts (i.e. IRA,401k) and B) post-tax non-retirement accounts?
+
+FXIAX has lower expense ratio, but I’ve heard vanguard (VFIAX) has patented method of eliminating any tax efficiency concerns.
+
+So is the answer, A) FXIAX and B) VFIAX / doesn’t matter?
+
+
+Edit: great forum discussing exactly this here: https://www.bogleheads.org/forum/viewtopic.php?t=293547
+
+Consensus seems to be for tax advantaged  accounts, there’s virtually no difference (~300 difference per 10,000 invested over 10 years), and for taxable accounts, vanguard is clear winner._END_OF_POST_PYSTOCK_ Investing Extra Money Hi All,
+
+Pretty new to investing in general in terms of doing it myself.  Currently maxing out my HSA, Roth IRA and 401k, and contributing to a whole life insurance policy.  Have a HYSA that I feel has too much in it with the low rate it now has.  Looking to move about 75k (would still leave 100k in the HYSA) of it to a taxable account which I recently opened on vanguard.
+
+I am fairly tolerant to risk as I am 33, single, and no major debt.  Not looking to touch this account if all possible, looking for growth.  I invested about 15k of this last week in the account to VTWAX.  My question now is, what should I do with the remaining 60k?  Put it all into VTWAX, or look into some other index funds?  Others I was looking at are VITAX, VFIAX, VSMAX, etc.  Would prefer they are not ETFs as I want to automate putting in about 125 dollars a week (500 a month) going forward into this account.  Want to be pretty hands off with this as much as possible.
+
+Any thoughts on the path forward I should take?_END_OF_POST_PYSTOCK_ ETFs Hello All,
+I’m looking to invest 50k. At first I was going to hire a advisor at Fidelity but I don’t want to pay the 1.35% management fee for a bunch of mutual fund that hold their own fees. I’m in my mid 30”s so I’m guessing my 75% in stock and 25% in bonds. 
+
+I’m leaning towards ETF’s. Any suggestions?_END_OF_POST_PYSTOCK_ What free website do you recommend for fundamental analysis / stocts&ETF screening? I am new to investing and trying to learn more.  
+
+I found [Finviz.com](https://Finviz.com) pretty cool with a lot of numbers already calculated for me (not sure if this is enough).
+
+I also found [wallstreetzen.com](https://wallstreetzen.com) to be pretty cool.  It is like a fundamental analysis for a dummy like myself.
+
+What are your thoughts on those sites?  Any recommended websites for a good fundamental analysis for beginners?
+
+I've seen people using Seeking Alpha also but I believe it is not free._END_OF_POST_PYSTOCK_ Where could I check my calculations for the fundamental analysis? Hello, im rather new to stocks/investing and recently I tried calculating some metrics for the fundamental analysis, such as the P/E ratio or the Return On Equity. But, because im also very new to reading these balance sheets or financial statements, im not so sure whether I picked the right numbers and wanted to ask if there is such thing as a place where you could ,,discuss" your results or just see if you did it correctly? 
+
+Another question: How important is using data out of the same quarter? Maybe thats a dumb question, but for this one I used most financial data from the Q3 2020 report, while stuff like the market cap were from like today. Is that a big problem and if it is, would the perfect time for an fundamental analysis be right after the reports release?
+
+I hope you can help me out!_END_OF_POST_PYSTOCK_ Barbell Investing This is a thread to discuss Taleb’s barbell investing idea, introduced in Chapter 13 of “The Black Swan.”
+
+I’m   going to quote Taleb’s description of the strategy here, which I    believe is ok because he blatantly and purposefully makes all his  books   freely available via online pdf.
+
+*“If  you know that you are  vulnerable to prediction errors, and  if you  accept that most “risk  measures” are flawed, because of the  Black Swan,  then your strategy is  to be as hyperconservative*  
+*and   hyperaggressive as you can be instead  of being mildly aggressive or   conservative. Instead of putting your  money in “medium risk”   investments (how do you know it is medium risk?  by listening to   tenure-seeking “experts”?), you need to put a portion,  say 85 to 90   percent, in extremely safe instruments, like Treasury  bills—as safe a   class of instruments as you can manage to find on this  planet. The   remaining 10 to 15 percent you put in extremely speculative  bets, as   leveraged as possible (like options), preferably venture  capital-style   portfolios. That way you do not depend on errors of risk  management;  no  Black Swan can hurt you at all, beyond your “floor,” the  nest egg  that  you have in maximally safe investments.”*
+
+This  is  in no way a suggestion that any of us should invest in a  strategy  like  this. This is a thread to discuss specific, practical,   hypothetical  components that an investor in this type of strategy could   use to  construct their barbell.
+
+Personally, I’m more interested in publicly traded investments than private equity.
+
+I don’t have many ideas to share, but here are a few.
+
+**Positive Black Swans**
+
+Bitcoin   – TBH I just sold all of my bitcoin. But I still think of  this as an   area with possibly unlimited upside. I also \*like\* the idea  of others   piling into the trade using stocks like RIOT and bidding up  the price of   blockchain-related ETPs way above NAV. The next time we  see a slew of   “I-told-you-so” Bitcoin articles about all those silly  tulip chasers,   I’ll be levering up through instruments like these  rather than buying   BTC itself, since I’m not a believer anyway. Are  there any ways to get   direct leveraged exposure to BTC?
+
+Call  Options – I am an  options noob recently trying to educate  myself. My  problem with call  options is that when they are most useful  (after big  market declines),  they are also most expensive. If this is  a  misconception, I would like  to clear it up. Can anyone recommend  good  resources to learn options  trading? I’m not sure if I should take  a  class at my local business  school, read some books (which ones?),  learn  through websites (which  ones?), or all of the above.
+
+Hedge  Fund Copycat – Just last  year I put a small amount into gold  mining  penny stocks highlighted on a  series of YT videos by Crescat  Capital. I  don’t really believe any of  their story, but I think the  fact that  they are telling it increases the  probability of these penny  stocks  doing well. One of them is up over  600% since I bought so  that’s cool. I  haven’t used this strategy with  anything else. Anyone  else have ideas  for this strategy?
+
+How else can we get exposure to positive black swans in our barbell strategy?
+
+**Negative Black Swans**
+
+USD   – USD losing its status as world reserve currency would be a   tremendous  black swan. At first thought, it seems like there are lots   of direct  leveraged trades to short USD via the FOREX exchange (e.g.   just go long  EURUSD). But on second thought, if all currencies lose   against whatever  the new reserve currency will be, then it may not be   quite so easy to  pick relative winners among the losers. What else can   we do to get  exposure to this event in a barbell?
+
+Put  Options – Again,  total noob options trader here. I love the  irony of  puts in that they  are cheapest when they are most useful and  valuable.  How beautiful is  that. I get the math behind simple hedging  strategies  using SPX puts,  but what if you want to seek greater  profits in your  barbell? How do you  identify a real turd to maximize  the potential  payout of your puts? I  know, that’s a big question. Any  books (or  anything else?) that you  would recommend on the subject? I  know that’s  like asking the industry of short sellers to reveal their  secrets, but  hey it doesn’t hurt to ask.
+
+What other strategies should we stick on the negative side of our barbell? And how?_END_OF_POST_PYSTOCK_ What are the expected returns of active investing ETFs? Passive investing etf like VOO tracks the snp500 index and uses that as a benchmark.  I dont think active investing ETFs have benchmark since it isnt tracking anything. For example based on the website  
+
+*ARKK is an actively managed ETF that seeks long-term growth of capital by investing under normal circumstances primarily (at least 65% of its assets) in domestic and foreign equity securities of companies that are relevant to the Fund’s investment theme of disruptive innovation.*
+
+ Does it mean i should not pin high expectations on it ? Could there be possibility that the returns for a particular year be lower than snp500 ?_END_OF_POST_PYSTOCK_ Boglehead I need a capital distribution (per %investors) graph Bogleheads  
+I'm trying to make a very explicit argument for market illiterate people, demonstrating that a few people have the a heavy weight in the market (and since the market average is between capital and not people, you have a few people have above market returns and a lot have below market returns)  
+
+
+But I cannot string the right words to find it at google. Ideally something like top 5%inv have 50%mkt cap.,  the next 10%inv have 25%mkt cap. ...._END_OF_POST_PYSTOCK_ Investment Strategies if you Anticipate a Weakening USD / Potential Market Drop? Hi All,
+
+This is just a thought exercise. Not here trying to argue w/ people whether or not it will happen. But lets just say, for example, a friend has very high conviction the USD will decline relative to other currencies and there may be a potential large drop in the US stock market, how would you approach your portfolio knowing this information?
+
+So far here is what I got for my portfolio if you anticipate something like this happening:
+
+\-Emerging Market Value (TLTE)
+
+\-Global Energy Producers (FILL)
+
+\-Crude Oil Stocks (OIL/USO/BNO)
+
+\-Gold ETFs, Silver ETFs (hard physical assets also, but I am too lazy to store them at my apartment so going to go with ETFs)
+
+\-Small Cap Value Stocks (US / non-US, preferably non-US obviously)
+
+\-Gold and Silver Miners
+
+\-Developed ex-US Value stocks
+
+\-International Index Funds
+
+\-Crypto (BTC/Ethereum)
+
+\-Agricultural commodities ETFs
+
+If somebody has VERY HIGH CONVICTION they can always:
+
+\-Short the SPY or short the QQQ (very risky obviously)
+
+is there anything else that I am missing?
+
+Trying to pick other people's brain and figure out what else I could to do to hedge against the USD declining.
+
+&#x200B;
+
+Thanks in advance!!_END_OF_POST_PYSTOCK_ How should I help my mom invest 20,000-30,000? My mom has 20,000 to 30,000. I don’t know how much she’s has in the bank the the moment but it is between that. She wants to save a 20% down payment on a house. She ideally wants to buy in a year or two. What would be the best way to invest this money? We are looking for something with stable growth_END_OF_POST_PYSTOCK_ What happens if a SPAC buys a really bad company? I am led to believe that a SPAC rarely trades below the initial price of $10 because shareholders are guaranteed that money back in the event that the SPAC decides not to acquire a company.
+
+My question is, what happens if the SPAC announces that they will acquire a really bad company, and everyone is rushing to sell it. In that case, won't it fall well below 10?
+
+Let's assume in this hypothetical that the shareholders vote to acquire said company as well, so you know for sure the acquisition will go through, hence why everyone wants to get rid of it._END_OF_POST_PYSTOCK_
