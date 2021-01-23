@@ -25,3 +25,6 @@ Vizualize top discussed stocks in terminal.
 
 ### python scrap_all.py
 Download data from the last 1000 reddit posts. Store raw files, detect missing dates, and clean raw data to wf folder.
+
+### Unit tests
+pytest -q tests.py

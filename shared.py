@@ -1,6 +1,14 @@
+#Import the correct library according to the OS.
+import os
+
 import re
 import glob
 from datetime import datetime, timezone
+
+if (os.name == "nt"):
+    FOLDER_SEPARATOR = "\\"
+else:
+    FOLDER_SEPARATOR = "/"
 
 DATA_FOLDER = "wf5_full_name/"
 RESSOURCES_FOLTER = "ressources/"
