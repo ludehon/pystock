@@ -199,7 +199,7 @@ class wordFreq:
         files = glob.glob(DATA_FOLDER + "*json")
         files.sort(key=os.path.getmtime)
         for file in files:
-            date = file.split("/")[1].split("_")[0]
+            date = file.split(shared.FOLDER_SEPARATOR)[1].split("_")[0]
             dates.append(date)
             freq = json.load(open(file))
             freq = {
