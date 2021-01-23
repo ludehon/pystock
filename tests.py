@@ -8,7 +8,7 @@ class Tester:
         content = "these are english words apple aapl  TESLA, pltr: "
         wf.addWords(content)
         assert(len(wf.count.keys()) == 3)
-        assert(wf.count["apple"] == 1)
-        assert(wf.count["tesla"] == 1)
-        assert(wf.count["palantir"] == 1)
+        assert(wf.count["aapl"] == 1)
+        assert(wf.count["tsla"] == 1)
+        assert(wf.count["pltr"] == 1)
         

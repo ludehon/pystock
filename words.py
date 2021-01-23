@@ -64,15 +64,13 @@ class wordFreq:
         df["Symbol"] = df["Symbol"].str.lower()
         df["Name"] = df["Name"].str.lower()
         df["First_Name"] = df.Name.str.split().str[0]
-
-        # first_Name_map = df[["Name", "First_Name"]].set_index("Name").to_dict()["First_Name"]
-        # ticker_map = df[["Symbol", "First_Name"]].set_index("Symbol").to_dict()["First_Name"]
+        # only keep first name if length > 4, otherwise short company first name can be mistaken with ticker
+        df['First_Name'] = np.where(df['First_Name'].str.len()>4, df['First_Name'], df['Name'])
 
         # TODO : test new display
         # create dict name-> full, ticker->full
         first_Name_map = df[["Symbol", "First_Name"]].set_index("First_Name").to_dict()["Symbol"]
         ticker_map = df[["Symbol", "Name"]].set_index("Name").to_dict()["Symbol"]
-
         fusion = {**ticker_map, **first_Name_map}
         self.nameMap = {**self.nameMap, **fusion}
 
