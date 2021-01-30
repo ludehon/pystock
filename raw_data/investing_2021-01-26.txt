@@ -1,0 +1,956 @@
+ Need help finding good REITs  What are some heavily oversold REITs with a pretty good dividend that has a 2 to 3x upside to previous post covid highs. Personally I was wondering if there are any REITs with high volume, relatively stable(before covid), and a dividend yield 5 percent or above. Added bonus if I can sell covered calls on it to make even more passive income. Also if there are ETFs that are really oversold rn please suggest._END_OF_POST_PYSTOCK_ How come tradingeconomics and macrotrends have different figures? I'm looking at macrotrends.net and tradingeconomics.com
+
+To look at the Earnings per share of Kirkland lake gold
+
+Trading economics is recording 0.08 EPS for Q2 2020
+
+Whereas macrotrends is reporting 0.54 EPS for the same quarter
+
+Does anyone know if I'm reading this wrong or if one of these sources is just bad?_END_OF_POST_PYSTOCK_ What is a good alpha for a Long/Short Tech portfolio? I am a hedge fund analyst and I had to maintain a simulation portfolio since I came in in early june (can’t handle real money yet).
+
+Excluding after-hours today (I have MSFT), I ended today with a 43.6% return. In the same period, the Nasdaq Comp. yielded 38.8%, and the NDX 37.3%. This means an Alpha of 4.8% vs Comp., 6.3% vs NDX.
+
+My main goals were finding good picks with some relatively “unknown/not that popular” and having volatility at a minimum (on avg. around 2-3%). The simulation (investopedia) started with 100K. 
+
+Is this good for a first-time simulation portfolio/active portfolio management?
+
+I know it isn’t real money and that is a downside since the emotional factor isn’t the same.
+
+Any tips to enhance this return will be greatly appreciated too!_END_OF_POST_PYSTOCK_ MSFT blows away Q2 expectations +5% after hours.
+
+- **Revenue**: $43.1 billion versus $40.2 billion expected
+- **Earnings per share**: $2.03 versus $1.64 expected
+- **Intelligent Cloud**: $14.68 versus $13.76 billion expected
+- **More Personal Computing**: $15.12 versus $13.55 billion expected_END_OF_POST_PYSTOCK_ what happens if stock opens higher than the sell limit set the day before? say you have some shares of a stock at $10 and you decide to set a sell limit order at $16. If the stock opens at $20 the next morning, do your shares sell at $20 or at $16?
+
+also, does it matter what broker it is? i.e. Fidelity , etrade, td ameritrade, robinhood?
+
+can you cancel sell limit order before the market opens or before the sell limit gets triggered?_END_OF_POST_PYSTOCK_ Free Excel Spreadsheet (how to setup a simple data record and track your massive gains) I really wanted to automate calculations for options trading, and track realized gains. I found out that you can use the online excel without paying for premium and store up to 5GB to OneDrive. I took the shopping list template, which already has a Sum(x) box at the top, and modified the list to have 3 lines (line 1: buy, line 2: sell, line 3: profit/loss) and an empty space before the next list began. To get profit in line 3, just drag over the boxes with the buy and sell prices in line 1 and line 2 and press Autosum (Looks like a "E" on the top right).
+
+It's important to have uniform spacing so that your sum calculation can take from boxes that are predictable. In my case its C column, every 4 rows. So my Sum(x) looks like Sum(C4 + C8 + C12...)
+
+I'm by no means an expert in fact I feel a bit of pride just by managing to successfully leverage excel for once in my life. (I use Excel daily at work.)
+
+Hope this helps someone, happy investing! *\*Flies back to WSB\**_END_OF_POST_PYSTOCK_ AMD smashes EPS and revenue estimates *― Quarterly revenue of $3.24B up 53% year-over-year; Full year revenue of $9.76B up 45%;* *quarterly and full year net income more than doubled from prior year ―*
+
+AMD smashed its 4th quarter EPS and revenue consensus. EPS turned out way higher due to a tax benefit.
+
+Revenue: $3.24 billion (+53% yoy) vs. $3.02 expected
+
+Diluted EPS: $1.45 (+867%) vs. $0.47 expected
+
+Net Income: $1.781 billion (+948%)
+
+Source: [https://ir.amd.com/news-events/press-releases/detail/988/amd-reports-fourth-quarter-and-full-year-2020-financial](https://ir.amd.com/news-events/press-releases/detail/988/amd-reports-fourth-quarter-and-full-year-2020-financial)_END_OF_POST_PYSTOCK_ $DNN/$DML.TO - The world's lowest cost Uranium mine in the Athabasca Basin  **Macro Thesis for Uranium:** [https://www.reddit.com/r/pennystocks/comments/kwpx24/the\_macro\_business\_case\_for\_uranium/](https://www.reddit.com/r/pennystocks/comments/kwpx24/the_macro_business_case_for_uranium/)
+
+**Stock:** Denison Mines Corporation  
+**Ticker (Share price):** DNN ($0.69 USD), DML.TO ($0.86 CAD)  
+**Market Cap:** $685M
+
+**Overview**
+
+Denison  is a Uranium junior with assets in the famous Athabasca basin in  Northern Saskatchewan. Their flagship asset is the 90% stake that they own in their Wheeler River project which they believe will be one of the  uranium mines which will be first to come online in the new cycle. The  Wheeler River project boasts some incredibly low OPEX costs and all-in  costs for the project. The Wheeler river project contains two extremely  high-grade uranium deposits (Phoenix and Gryphon) which combined hold  estimated U308 reserves of 109.4M pounds.
+
+**Management**
+
+CEO:  David Cates was appointed as CEO of Denison in 2015 and is a director  at other Uranium companies such as Goviex and SkyHarbour Resources. I’m  torn on him as CEO. I really like what he is trying to do with ISR  mining but at the same time I think he could have had much better timing  with some of his previous financing rounds. I think the expensive  financing is likely over at this point so his success/failure will  likely hinge on whether or not ISR mining becomes successful.
+
+**ISR Mining (IN SITU RECOVERY MINING)**
+
+Part  of the sell of Denison is the question as to whether or not they can be  successful with their ISR mining methodology in order to realize the  low opex and total costs that they have currently laid out. If this were  to be built it would be the first ISR mine in Canada to reach the  execution phase. 50% of the world’s Uranium production currently comes  from ISR production and for Denison it is now in the testing phase and  getting Canadian regulators on board. ISR has been used in the US and  around the world.
+
+At a high level,  ISR mining involves pumping a solution down into the uranium orebody,  dissolving the uranium, and pumping it back up with minimal CAPEX  expenditures. Once it is pumped up the Uranium is removed from the  pregnant solution and then transported for processing. There are videos  online available if you are a geologist at heart.
+
+What  Denison is claiming is that they are introducing a “contained”  methodology of ISR mining. What this means is that the solution they  pump into the ground to get the Uranium will be contained to prevent the  contamination of the surrounding environment. The contamination is  usually the biggest issue regulators have with ISR mining. **Denison  is essentially proposing a mining methodology that is at the intersect  of extremely low capex, extremely environmentally friendly, and  extremely large margins.**
+
+**Financials**
+
+As of Q3, Denison has $7M of cash on hand along with $11M of working  capital. Their Q3 revenues were $3M, which is down 21% YoY primarily due  to the timing of processing at McClean Lake mill. Their net loss per  share was ($0.01) for Q3. The McLean lake mill is one of the world’s  largest uranium processing facilities and is currently processing ore  from the Cigar Lake mine that is owned by Cameco. Cameco has shut down  Cigar Lake twice this year due to COVID 19 concerns so you can imagine  that would have an impact on Denison’s operating results.
+
+From a pure uranium perspective, in Q3 Denison sold 26,004 pounds of U308 at an average price of $32.76.
+
+For  the Phoenix deposit, Denison estimates that their all-in cost is $8/lb  of U308. With the current spot-price at $30 you can certainly see the  appeal in that cost. Most producers do not have the cost basis to be  successful at $30 and need $40-$60 in order to profitably mine their  Uranium. With the Uranium spot price expected to increase to align with  the average majority’s incentive price, you can quickly see where the  appeal for Denison mines comes into play. Phoenix has about 60M lbs of  the 109M pounds in the Wheeler River deposit so if you expect the spot  price to double (which people are rarely questioning at the moment)  you’re looking at >$3B of uranium at just Phoenix and slightly  smaller amounts at the Gryphon deposit. If it triples? Well, you can do  the math. The takeaway here is that they would be profitable even at  today’s prices and that is not true for 99% of mines. Denison was 15x  higher than today’s stock price during the last Uranium bull-run.
+
+**What could go wrong?**
+
+Permitting.  Exploration and mining all require permits in order to be able to  execute properly. As with other companies in the Athabasca Basin there  is a Native Canadian population with which the land is shared and who  need to be consulted. A good uranium company will work collaboratively  with these stakeholders and not in spite of them. It is always a  possibility they may oppose/block any actions.
+
+ISR:  ISR mining still needs to be approved by Canadian regulators. There is a  possibility that the regulators come back and are not ok with this  methodology and that would have a significant impact on Denison’s  Phoenix deposit.
+
+As always please do your own DD and happy to answer any questions. If people get some value from this then I'll keep posting._END_OF_POST_PYSTOCK_ help between investing in a stock which company is a subsidary or the stock of the company that owns it Nextera Energy Inc or their subsidary Nextera Energy Partners. The latter has a higher dividend yield and seems to me that their growth should follow each other so then Nextera Energy Partners should be the logical choice then with the higher dividend?
+
+&#x200B;
+
+Porsche SE or Volkswagen. Investing in one of them because I believe in Volkswagens future. I am simply wondering if better to just go with Porsch SE since they have a higher dividend and I believe majority of their revenue is dependent on Volkswagen so their growth pretty much follows Volkwagen AG.
+
+&#x200B;
+
+Brookfield Reneweable Partners LP or Brookfield Renewable Corp. Dont understand the difference but the former has a higher dividend._END_OF_POST_PYSTOCK_ Circuit breaker behavior in stock Hi I have a question about the concept of circuit breaker. For those who aren’t, here is  a [link about it.](https://en.wikipedia.org/wiki/Trading_curb). 
+
+In the event of the price going up a lot in a volatile day (like gamestop lately), you often see it plumet quite a bit then going back up. What exactly drives the price of the stock down once a circuit breaker has been triggered? 
+
+Is it artificially brought down by the institutional investors or is it something else?
+
+Thanks_END_OF_POST_PYSTOCK_ AMC Short squeeze!? A lot of the people in my trading community are telling me that AMC is going to be the next gamestop. They’re citing the high volume, the good news, pre pandemic prices, the short float and the fact that after game stop is finished alot of the same people might pour into AMC. I’m usually against these kinds of high risk trades, but seeing how gamestop went crazy a mere 1% of my portfolio could lead to really big gains. To me I think this risk/reward is pretty good especially since the market has been treating me (us) well. What do you think? Should I hop on this short squeeze train and ride the market? Worst case scenario I lose a very limited amount of money. Best case scenario, I stick the middle finger to the big guys as one of the little guys. Even without the short squeeze AMD could probably make it to 7 or 8._END_OF_POST_PYSTOCK_ Ford P/E... -296 ish From what I have found, Ford has made some good moves as of late. But it also has what I feel is an insane P/E that was around 296 when I looked last night. Can someone with more market knowledge than me explain why this could be, and whether #F has always been like this for this ticker and not something that might make a bit of a correction?_END_OF_POST_PYSTOCK_ Wall Street Journal New Article about Reddit Investing - "BlackBerry, AMC and Other Reddit YOLO Favorites That Aren’t GameStop" # BlackBerry, AMC and Other Reddit YOLO Favorites That Aren’t GameStop
+
+## A frenzy from online traders is sending shares of some companies soaring
+
+On Reddit forums, ordinary investors are swapping stock tips. 
+
+It isn’t just GameStop.
+
+Shares of the Texas-based videogame retailer [surged as much as 145%](https://www.wsj.com/articles/gamestop-shares-surge-toward-fresh-record-ahead-of-opening-bell-11611579224?mod=article_inline) on Monday alone, before giving up most of their gains to end up only 18%. But GameStop Corp. is far from alone in going vertical this year.
+
+Everything from a hydrogen battery maker to a struggling movie-theater chain have rocketed in the past few weeks. Behind the swings, many see ordinary investors, stuck at home in the pandemic, swapping tips and hatching trading strategies on online forums like Reddit’s WallStreetBets—[often buying things Wall Street has bet against](https://www.wsj.com/articles/short-bets-pummel-hot-hedge-fund-melvin-capital-11611349217?mod=article_inline). Many [tout their long-shot wagers](https://www.wsj.com/articles/the-day-trading-barbarians-at-the-gate-wont-sack-wall-street-11611660505?mod=article_inline) with the expression “YOLO,” or, “You only live once.”
+
+Here’s a look at what else has their attention:
+
+[**AMC Entertainment Holdings**](https://www.wsj.com/market-data/quotes/AMC) [AMC **8.71%** ](https://www.wsj.com/market-data/quotes/AMC?mod=chiclets)**Inc**.
+
+Shares of the movie-theater operator have risen more than 30% this week after the company [announced a $917 million financing deal](https://www.wsj.com/articles/amc-nets-917-million-in-financing-to-ward-off-bankruptcy-11611574504?mod=article_inline) to avoid filing for bankruptcy. But day traders’ enthusiasm for the company had already allowed it to sell millions of dollars’ worth of shares last year, helping raise much needed cash.
+
+[**BlackBerry**](https://www.wsj.com/market-data/quotes/BB) **Ltd.** [BB **1.50%**](https://www.wsj.com/market-data/quotes/BB?mod=chiclets)
+
+Security software and service provider BlackBerry is another stock with a notable short position finding support online from individual investors. Shares have climbed around 25% this week, leaving many analysts scratching their heads. The company said Monday it wasn’t aware of any material developments or change in its business that would account for the recent jump.
+
+[**NIO**](https://www.wsj.com/market-data/quotes/NIO) **Inc.** [NIO **-0.43%**](https://www.wsj.com/market-data/quotes/NIO?mod=chiclets)
+
+The Chinese electric-vehicle maker [has received enduring interest](https://www.wsj.com/articles/tiktok-and-discord-are-the-new-wall-street-trading-desks-11610361004) from individual traders on social media platforms including Discord and Reddit, sending shares of its ADR up more than 1,000% in the past 12 months. NIO now ranks among the world’s [top five auto makers](https://www.wsj.com/articles/the-rise-and-falland-rise-againof-chinese-ev-startup-nio-11606732206?mod=article_inline), with a market capitalization around $96 billion. The company [delivered 43,728 vehicles](https://www.globenewswire.com/news-release/2021/01/03/2152248/0/en/NIO-Inc-Provides-December-Fourth-Quarter-and-Full-Year-2020-Delivery-Update.html) in total last year. That compares to around 449,000 deliveries by [Tesla](https://www.wsj.com/market-data/quotes/TSLA) Inc., [TSLA **0.40%** ](https://www.wsj.com/market-data/quotes/TSLA?mod=chiclets)and more than 9 million from [Volkswagen](https://www.wsj.com/market-data/quotes/XE/XETR/VOW) AG .
+
+[**Palantir Technologies**](https://www.wsj.com/market-data/quotes/PLTR) **Inc.** [PLTR **-1.27%**](https://www.wsj.com/market-data/quotes/PLTR?mod=chiclets)
+
+Data-analytics firm Palantir Technologies’ shares have soared over 260% since the company [went public back in September](https://www.wsj.com/articles/palantir-asana-direct-listing-ipo-11601479305?mod=article_inline), making it one of last year’s best performing stock offerings. The company has also become a favorite of individual investors posting online, who like it because of the [exposure to big data and government contracts](https://www.wsj.com/articles/palantir-boosts-its-full-year-revenue-outlook-11605220457?mod=article_inline). Later today, Palantir will show off the latest developments in its software to the public for the first time ever, a move some analysts expect to have positive ramifications for the stock.
+
+[**Plug Power**](https://www.wsj.com/market-data/quotes/PLUG)**,** [PLUG **10.82%** ](https://www.wsj.com/market-data/quotes/PLUG?mod=chiclets)**Inc.**
+
+Shares of hydrogen battery maker Plug Power have gained more than 370% in the past three months, powered by investors eager to [cash in on the green economy](https://www.wsj.com/articles/major-energy-companies-bet-big-on-hydrogen-11603392160?mod=article_inline). Individual investors online lauded Plug Power as the next big thing after South Korea-based [SK Holdings](https://www.wsj.com/market-data/quotes/KR/XKRX/034730) Co. invested $1.5 billion in the company earlier this month. Others are less optimistic, with hedge funds including Kerrisdale Capital Management betting against the stock, saying hydrogen batteries [face numerous challenges](https://www.wsj.com/articles/is-hydrogen-the-new-wonder-fuel-11593170272?mod=article_inline) including efficiency and safety.
+
+[**Bed Bath & Beyond**](https://www.wsj.com/market-data/quotes/BBBY) **Inc.** [BBBY **18.42%**](https://www.wsj.com/market-data/quotes/BBBY?mod=chiclets)
+
+Shares surged as much as 50% Monday before paring gains and are now up around 70% in 2021, even after the home-goods retailer this month [reported third-quarter earnings](https://www.wsj.com/articles/bed-bath-beyond-posts-quarterly-sales-decline-despite-digital-pickup-11610043338?mod=article_inline) per share of 8 cents, short of the 19 cents analysts expected, along with a 5% drop in revenue from the same period last year. Online traders point to an early 2020 change in management and the fact that the company is buying back shares as signs that the share price will continue to increase._END_OF_POST_PYSTOCK_ Rule #1 Investing Companies Found ? If anyone's read Rule #1 by Phil Town, I'm curious if y'all have found companies that match the financial requirements he set, and are at the proper value? (For those who don't know, the company has to have an average ROIC of at least 10%, and growth for EPS, Equity, Revenue, and FCF have to be at least 10% for the last 10 years).  I've seen Amazon and iRobot, but I'm looking for more.
+
+If anyone else has any more they've found, let me know I want to look at them!_END_OF_POST_PYSTOCK_ ATAC Ever heard of ATAC? Probably not. However, I believe this SPAC will prove to be a lucrative investment with limited to no downside. 
+
+After thorough research concerning SPACs (Special Purpose Acquisition Companies) and the unique merger between Owl Rock Capital Partners and Dyal Capital Partners (a subsidiary of Neuberger Berman), I have concluded that this opportunity classifies as a standard “Dhando investment” (for those of us that know Mohnish Pabrai); the limited downside of Blue Owl Capital (the newly merged company) becoming publicly-traded via ATAC (the SPAC enabling this transaction) is substantially offset by the attractive and likely upside of this investment. Moreover, due to my appealing buy-in price of $10.39, there is limited liability as I will explain later on. 
+
+However, in the case of any purchase, an investor must both assess and limit his/her downside. Through implementing and focusing my decisions on Warren Buffett’s two rules, I have done significant research into SPACs as a whole and their potential downside. Coming to the conclusion that if the deal was to fall through or I deemed the prospects to be unappealing, I am protected through a redeemable purchase price of $10 a share + Interest. Therefore, my investment is limited to around $0.34 per share assuming a conservative $0.05 interest payment. However, I believe that I have done a successful job hedging that loss due to my research.
+
+In regard to a SPAC, one of or if not the most important factor is management. As in any stock, management plays a significant role in the success of a company. However, there is more dependency on management in a SPAC than in any other business due to the Sponsor’s responsibility to (1) acquire a company, and (2) successfully merge. After performing my due diligence I have concluded that Tom Wasserman - with about 30 years of experience in alternative asset management, direct lending, and capital solutions - is extremely qualified to be the Sponsor of such an endeavor. Furthermore, HPS Investment Partners has publicly expressed their support, with over 13 years of experience and $67 billion of AUM. Not only does HPS Investments bring talent/insight to the newly emerged company but they have vouched for ATAC as a viable sponsor for such a merger due to the company’s experience in a similar field. The management of Owl Rock Capital, Dyal Capital, and Neuberger Berman - with principals bringing an average of 18 years of experience - has confirmed that all companies have unanimously agreed to the merger. The likelihood of a successful merger is high and consequently has eliminated the outstanding risk of a SPAC concerning their ability to find a company to bring public. 
+
+As with any investment, investors should take the time to understand the industry in which they are investing in. After a plethora of time, I believe I have a substantial grasp of credit and alternative asset management. With the knowledge I have acquired, the post-merger market cap of about $12.5 billion and 1.25 billion shares issued dictates that there will be an initial per-share price of $10. With that said, after evaluating SPACs as a whole, Owl Rock Capital, Dyal Capital Partners, and ATAC individually, I have come to the conclusion (after reviewing their pro forma financial statements) that Blue Owl will initially earn about $0.25 cents per share with a conservative 18% growth → leading to a conservative price of $12 per share. Blue Owl Capital has reassured my evaluation through various actions that they have taken. For instance, management has issued warrants and founder warrants to the public and Sponsor respectively at a pro forma value of about $14.29, only furthering my belief that the share price will go behind $14.  Further, management has illustrated their internal belief by providing incentives of issuing more equity with a raise in equity price. For example, 100,000,000 shares of Class E common stock will be issued if the stock price was to stay above $15 for a limited period of time. Additionally, Blue Owl Capital has underscored the fact that their P/E ratio will be higher than their industry due to appealing prospects such as immediate growth, doubling AUM, lowering costs, widening profit margins, attaining a larger customer reach, acquiring the backing of various institutional investors, a recovering economy, higher earning power (a business' ability to generate profits over the long haul, assuming all current operational conditions generally remain constant), and an already established monopoly by Owl Rock being the second-largest BDC in the country.
+
+As a futuristic outlook, I believe the rising interest rates on loans through a recovering economy will play in favor of Blue Owl’s direct lending and alternative asset management. Specifically, the leveraged loans towards unfavorable candidates that may struggle to get a loan as the economy recovers and credit begins to tighten. Blue Owl’s potential and likelihood to deem profitable to me has only grown after assessing Owl Rock’s competitors such as Monroe Capital and Stellus Capital Management through a simplistic view. These competitors are priced at about $8.50 per share and $10 per share with $7 billion and $1.6 billion of AUM respectively. Creating market caps of $180 million and $202 million. Without any further research into the outstanding shares and possible dilution associated with these firms, the large values assigned to Blue Owl concerning AUM and Market Cap will likely generate a view of a monopolistic company and further push them towards a larger market share. Ultimately driving the price higher._END_OF_POST_PYSTOCK_ Why is Lumen Technologies(LUMN) Stock popping off today? Up over 7% I wrote a lot of bullish posts about it months ago, so I understand the value, but what happened today to boost its valuation? I hear they got a 911 contract with Nebraska, but the contract is only like $1.6 Million per year, which is negligible compared to their earnings. So why is it rallying so much?
+
+edit: now over 12%, rallying insanely fast the past few minutes
+
+edit: up 20%, trading halted
+
+edit 3: up 31%
+
+edit: 4. Down to $13.92(still up a lot) and halted for 3rd time
+
+edit 5: Peaked at around $15.10, then tanked down to $13.20 in the span of just a few minutes, then ended the day at 14.59. Up to about $15 in after hours trading. 
+
+I exited almost my entire position, mostly around $15. That was way too stressful_END_OF_POST_PYSTOCK_ Water Futures By now we're all well aware that there are multiple Water-related ETF's on the market, and a water shortage is probably somewhere in our future. Knowing what we know about water possibly becoming the next "liquid-gold" and going to become more valuable (with de-purification technologies going to boom), where do you recommend investing?_END_OF_POST_PYSTOCK_ Is the performance of this frontier markets fund as abysmal as I think it is? is there any reason to hold it instead of opting to an ETF or something? what are the alternatives? This is the fund - it seems to go lower than ref when things go badly and again trailing when things go well, but maybe I am misreading something. 
+
+&#x200B;
+
+[https://www.franklintempleton.lu/investor/products/performance/12904/BC/templeton-frontier-markets-fund](https://www.franklintempleton.lu/investor/products/performance/12904/BC/templeton-frontier-markets-fund)_END_OF_POST_PYSTOCK_ Where are traditional investments heading with Fed money printing? Hey gang, 
+
+I wanted to get people's input on the future of our traditional investment engines outside of 401(k).  Where will our IRA's (Roth and Trad) and our Individual Brokerage accounts be in 5,10,20 years?  
+
+I'm currently maxing my Roth IRA and funding an individual account with $300-$500/month or as much as I can swing that month.  My concern is the USD value plummeting with the constant printing of money by the Feds...wasn't it something like $5T last year? 
+
+What other alternatives do you see being profitable in the event that the value of the dollar keeps dropping.  
+
+In the spirit of honesty, I do hold a little bit of my portfolio in cryptocurrency, but am not quite to the point of pulling the "All In" trigger with that one...not yet. 
+
+&#x200B;
+
+Thanks for the input, I'm curious to see what others thoughts and reasoning by why it's a good idea to keep cruising the traditional route vs. looking at alternatives in the near future._END_OF_POST_PYSTOCK_ Gamestop Big Picture: The Short Singularity *Disclaimer: I am not a financial advisor. This entire post represents my personal views and opinions, and should not be taken as financial advice (or advice of any kind whatsoever). I encourage you to do your own research, take anything I write with a grain of salt, and hold me accountable for any mistakes you may catch.*
+
+There are numerous posts on this sub and others diving into the technical guts behind some of the recent moves behind GME, so I will keep it high level for everyone scratching their heads wondering what's going on.
+
+There has been much talk on CNBC and in other financial media calling what's happening in GME a distortion of the market and an unjustifiable departure from the fundamentals. That is undeniably true. That being said, the distortion is not what's playing out now, but rather what happened about 1.5 years ago when short interest in GME first began to approach (and later exceed) 100% of the available float.
+
+Short selling is usually a tool that aids in price discovery, but like most market mechanisms, at the extremes things get more complicated.
+
+Short sellers, having borrowed shares, are guaranteed (indeed obligated) future buyers of the stock. They put themselves in that position on the thesis that there are reasons to expect the stock price to go down, such that when they buy the shares back they can return what they borrowed at a lower price and pocket the difference. As such, as short interest grows, there is a short term downard push on the price (the initial sale of the borrowed shares), but also future upside pull on the stock price as a natural result, kind of like gravity, but pulling the price upward. Normally that pressure is so slight and subtle that short interest in and of itself should not be a mover of the stock price.
+
+That being said, a common rule of thumb is that you should start to concern yourself with that pressure when short interest crosses the threshold of between 20% and 25% of the effective float (shares actually available to trade). At that level and above, the pressure starts to become noticeable, kind of like the moon causing currents and tides.
+
+GME short interest was recently **140%** of the float. In recent days, short interest has actually continued to accumulate (I'll explain why later).
+
+There is, in effect, a critical mass of short interest hanging over GME's price exerting not subtle pull, but face-ripping force like the gravity of a black hole. A short singularity, if you will.
+
+Previous short squeeze case studies such as VW or KBIO were all about someone engineering a way for effective float to evaporate, suddenly leaving what was previously a relatively reasonable aggregate short interest position in a world of hurt. This is the first time where we're seeing a situation play out where it wasn't someone engineering a shrinkage of effective float, but large market-moving players simply blowing up the short interest to the point where it simply overtook effective float by a large margin. Why would they do that? Because they expected GME to declare bankruptcy in the very near term so that returning borrowed shares costs $0, as the shares are worthless at that point. Also, an arguably intentional side-effect of this massive artificial sell-side pressure on the stock is that it becomes more difficult for GME to obtain any kind of financing to avoid bankruptcy, making it, in theory, a self-fulfilling prophecy. GME, however, did not go bankrupt for reasons that are well explained by other posters.
+
+In order to close their positions and limit their exposure (which remains theoretically infinite otherwise), short interest holders need to collectively buy back more shares than are available on the market, and especially since GME is no longer at risk of imminent bankruptcy, that buying action would push the price into a parabolic upward move, likely forcing brokers to liquidate short interest-holding accounts across the board on the way to buy shares at any price to cover their otherwise infinite liability exposure (and that forced covering will push the price further upward into a feedback loop--like crossing the event horizon of the black hole in our analogy).
+
+So what is happening now, and where do we go from here?
+
+Right now, short-side interests are desperately trying to drive the price down. There has been an across-the-board media blitz to try to scare investors away from GME. But there is really only one way to drive price down directly, and that is selling. In fact, given that most of the large holders of GME long positions are simply sitting on their shares, it means selling. even. more. shares. short.
+
+Even as price has been grinding upward, and liquidity has been evaporating, short sellers, who have lost billions mark-to-market currently (my guess is on the order of $10bn by the end of trading today), can only keep selling, piling on even more exposure and losses, staving off oblivion hour by hour, minute by minute.
+
+GME might also decide to issue more shares to recapitalize its business on the back of the elevated share price, but it is unlikely they could issue enough shares to change the overall trajectory of the stock at this point (especially not given their fiduciary responsibility to current stock holders). It might, however, run the clock out a little while longer.
+
+At this point it looks like there will either be some type of external market intervention by regulators (though I can't see any reason for them to step in myself), or we will soon see what happens when short positions representing \~$8bn in current mark-to-market liability goes parabolic.
+
+\*edited for grammar\*
+
+*edit*
+Please keep discussion to helping everyone understand what’s happening, which is the point of this post, not giving advice or telling people to take actions!_END_OF_POST_PYSTOCK_ Palatin Stock - Unable to purchase in December 2020 QUESTIONS WERE ANSWERED BY ETRADE TODAY - SEE BELOW COMMENT. [https://www.reddit.com/r/investing/comments/l5ksh0/palatin\_stock\_unable\_to\_purchase\_in\_december\_2020/gkvd9s1?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/investing/comments/l5ksh0/palatin_stock_unable_to_purchase_in_december_2020/gkvd9s1?utm_source=share&utm_medium=web2x&context=3)
+
+Etrade will not give me an answer as to why I was prevented from buying more Palatin stock in December 2020.
+
+This was their customer service response:
+
+Currently, all orders on Palatin Technologies Inc (PTN) require that instructions be provided over a recorded line. Reasons for such a requirement vary but may be due to a reorganization or other corporate action that has not been fully disclosed.
+
+\_\_\_\_\_\_
+
+I finally got through today after 53 minutes on hold and the representative said he would reach out to another team. The other team said they are not allowed to tell me why.
+
+Today I was able to purchase more shares, of course after missing the huge upswing since december. This is strike two etrade...
+
+Does anyone know what was up with Etrade or Palatin not allowing me to buy in December 2020?_END_OF_POST_PYSTOCK_ BB - Can someone who actually knows what BB is doing respond? Noob here with very low understanding of technology. But bitten by YOLO and following BB discussions. Can someone help out with below?
+
+1. Why is BB's revenue decreasing year on year or quarter on quarter despite so many government business wins?
+2. I am under impression that security is crowded field. Is BB so good at end point management/security and miles ahead of the competition that competition doesn't matter to its prospects?
+3. Is QNX revenue from automobiles a recurring thing or one time and less than $10? If one time and majority of 175 mn vehicles being non-connected, they don't mean much for direct future revenues.
+4. BB IVY is still under development and expected to start deploying in 2023 that at net revenue (post AWS share) of $10-11. So meaningful revenues are likely to start in 2025 and there is a huge execution risk between now and 2023.
+5. How to go about valuing BB, is price to sales good measure? If yes, what shall be a reasonable number?
+
+Thanks :)  
+
+
+Edit: As suggested by u/bannercoin I just went and asked couple of these questions in other subreddits. [here](https://www.reddit.com/r/cybersecurity/comments/l6527t/ama_series_security_consultant/) and [here](https://www.reddit.com/r/AskNetsec/comments/l685k1/isblackberry_suite_of_uem_cylance_and_qnx_way/). And I or anyone I know IRL have no position in GME, just massive amount of regret for missing the rally. _END_OF_POST_PYSTOCK_ LGVW SPAC will trade as "BLFY" starting Feb 18, 2021 >Butterfly Network, Inc. ("Butterfly"), an innovative digital health company that is working to enable universal access to superior medical imaging, has named **Dr. Todd M. Fruchterman, M.D., Ph.D., as President and Chief Executive Officer, effective February 1st, in advance of the closing of its announced business combination with Longview Acquisition Corp. ("Longview", NYSE: LGVW, LGVW.U, LGVW WS). Dr. Fruchterman joins Butterfly after nearly ten years at 3M Company ("3M"),** where he most recently served as President and General Manager of 3M's Medical Solutions Division, managing a $4.8 billion global business with above-market growth. Previously, Dr. Fruchterman spent five years as EVP at Kinetic Concepts, Inc. ("KCI"), before which he served in key roles at Johnson & Johnson, Schering-Plough, and Response Genetics. At 3M and KCI, Dr. Fruchterman also served as both Chief Technology Officer and Chief Medical Officer. Most recently, he was Group President, Reliability Solutions at Flex.  
+>  
+>Longview has scheduled its Special Meeting of Stockholders for 8:00 a.m., New York Time, on Friday, February 12, 2021, for Longview's stockholders to approve the business combination and the election of the 7 nominated Directors to the Board of Directors of the combined company. Subject to stockholder approval and satisfaction or waiver of the other closing conditions to the business combination, the business combination is expected to close on the same day. Trading in the combined company's Class A Common Stock on the New York Stock Exchange (NYSE) is expected to begin on **Tuesday, February 16th, under the ticker "BFLY".**
+
+[https://www.streetinsider.com/dr/news.php?id=17858810](https://www.streetinsider.com/dr/news.php?id=17858810)
+
+&#x200B;
+
+Cathie Ark had been buying shares of this SPAC daily for a few weeks straight as part of her ARKG funds. Backed by Bill Gates as well, the company can be positioned to be a good competitor in the industry with its unique subscription process, wearables, and future in-home use devices for telemedicine. They are expecting to bring in revenue close to $340 million by 2024. Expected EBITDA and Cash Flow turn positive in 2024 after significant investment phase. They are assuming  over $500 million of cash1 to drive the Company through its investment phase and to expected positive cash flow.
+
+[https://manual.butterflynetwork.com/Butterfly+Network+JPM.pdf](https://manual.butterflynetwork.com/Butterfly+Network+JPM.pdf)
+
+Additionally, I read lot of different discussions throughout different subreddits on  the topic based on users who are physicians, there seems to be two sides regarding this company. Some doctors who believe that the product is a major disrupter technology in the field while others believe the competition offers better products.
+
+Here is one of the DD done by a redditor based on product opinion from physicians.
+
+[https://www.reddit.com/r/SPACs/comments/kkxan3/lgvw\_feedback\_from\_various\_constituencies/](https://www.reddit.com/r/SPACs/comments/kkxan3/lgvw_feedback_from_various_constituencies/)
+
+Also, a while back, a redditor wrote a bullish case for LGVW in this subbreddit.
+
+[https://www.reddit.com/r/investing/comments/k3tokt/lgvw\_butterfly\_network\_room\_for\_a\_bullish\_case/](https://www.reddit.com/r/investing/comments/k3tokt/lgvw_butterfly_network_room_for_a_bullish_case/)
+
+Overall, after looking at the demonstration videos, researching reviews, and looking at the moves Cathy Woods is making, I believe Butterfly Inc can be a solid company with a sizeable profit. I currently own 70 shares and plan on buying more in the next few weeks.
+
+Any thoughts/opinions?_END_OF_POST_PYSTOCK_ I wanted to share Matt Levine's discussion on Market Manipulation and GME, it's a good laymen's explanation of the legal ambiguities in securities law Do me, and everyone else a favor and read the entire thing before commenting.  There's a significant trend on this sub of people just commenting bullshit based on what they think a post might say before reading it.  There's a lot of explanation and context here so take your time if you're looking to learn. 
+
+
+Just a straight copy/paste from his newsletter today: 
+
+If a lot of people on Reddit band together to drive the price of a stock higher, is that illegal? I have been asked that question a lot recently, and I want to be clear that:
+
+1.	I don’t know, and
+
+2.	If I did know, I wouldn’t tell you, because I do not give legal advice in this newsletter, and I particularly do not give legal advice that people on Reddit might read while pumping up stocks.
+
+
+
+That said I suppose we should talk about the question in general and extremely not-legal-advice terms. I guess my answer would be that it might be illegal in all sorts of ways, but it is not obviously illegal, and if the U.S. Securities and Exchange Commission were to go after WallStreetBets for this stuff they will be breaking new ground and going beyond their previous cases. I do not want to say “this stuff is all fine,” but I will say I am not all that bothered by it.
+
+There are two main things that are illegal. One is “securities fraud.” This basically means lying about a stock. The other is “market manipulation.” Nobody knows what this means. Legally, it means something like:
+
+>To effect, alone or with 1 or more other persons, a series of transactions in any security … creating actual or apparent active trading in such security, or raising or depressing the price of such security, for the purpose of inducing the purchase or sale of such security by others.
+
+So if you buy stock with the purpose of pushing the price up so that other people will buy it, that’s market manipulation. If you buy stock hoping that the price will go up because other people buy it, that’s not market manipulation; that’s just normal. Those things are not so different. There is a “traditional four-part test for manipulation that has developed in case law”: 
+
+
+1.	I buy some GameStop stock.
+
+2.	I put out rumors—in my subscription newsletter, on Reddit, in fake press releases, whatever—about some catalyst for the stock to go up. “Hey I hear from an inside source that GameStop just got an exclusive contract to supply downloadable video games in Tesla cars,” etc.
+
+3.	People see these rumors, believe them and buy GameStop stock, pushing the price up.
+
+4.	I sell the stock to them at the higher prices.
+
+
+So consider the general concept of a “pump-and-dump” scheme. The most classic pump-and-dump goes like this:
+
+1) I buy some GameStop stock.
+
+
+2) I put out rumors—in my subscription newsletter, on Reddit, in fake press releases, whatever—about some catalyst for the stock to go up. “Hey I hear from an inside source that GameStop just got an exclusive contract to supply downloadable video games in Tesla cars,” etc.
+
+
+3) People see these rumors, believe them and buy GameStop stock, pushing the price up.
+
+
+4) I sell the stock to them at the higher prices.
+
+This is very straightforwardly illegal and the SEC goes after this stuff all the time, alleging securities fraud. Lying about stocks. Here is the SEC’s “Investor Alert: Social Media and Investing -- Stock Rumors,” which pretty much defines a pump-and-dump this way:
+
+>For example, in a “pump-and-dump” scheme, promoters “pump” up the stock price by spreading positive rumors that incite a buying frenzy and they quickly “dump” their own shares before the hype ends. Typically, after the promoters profit from their sales, the stock price drops and the remaining investors lose money.
+
+There are variations. The SEC has gone after forms of dishonesty that aren’t quite lying about the stock. For instance, if you are a widely followed stock promoter with a subscription tip newsletter, and you email tips to your subscribers and then sell your stock to them while saying that you’re buying, that seems dishonest, and the SEC will go after you. Or if you are a promoter or research firm and you put out positive research about a company, but you don’t disclose that the company paid you to put out the research, that is also bad. 
+
+Now, I think you could do a pump-and-dump without any actual lying. For instance:
+
+
+1.	I email subscribers to my expensive private newsletter saying “hey let’s pump GameStop.”
+
+2.	We all buy GameStop, knowing that we’re just doing it for the pump, with no real or fake catalyst for the stock to go up.
+
+3.	It goes up, because we bought a lot of it. 
+
+4.	Other people, innocents and high-frequency trading algorithms, see it go up on heavy volume and think “hey this is a good stock, we should buy it.” They buy it, pushing the price up.
+
+5.	We sell the stock to them at the higher prices.
+
+
+In this version, I have not lied about a stock. On the other hand, I have effected transactions in the stock to create trading activity and raise the price, for the purpose of inducing people to buy it. Seems like market manipulation, “painting the tape” or something. The SEC goes after stuff like this occasionally.
+
+I think that in modern markets you could even do a bit better than that and have a completely honest pump-and-dump:
+
+1.	I show up on Reddit and say “hey let’s pump GameStop.”
+
+2.	We all buy GameStop, knowing that we’re just doing it for the pump, with no real or fake catalyst for the stock to go up.
+
+3.	It goes up, because we bought a lot of it. 
+
+4.	Other people see us doing this, read my Reddit post, know we are pumping the stock, and also buy it, because we seem to be having fun, and they like fun too.
+
+5.	Eventually some of us get bored and start selling and the price collapses.
+
+
+The point here is that it is at least theoretically possible that no one buys stock for any reason other than “hey it’s a fun pump.” That is, no one is deceived about the fundamentals (there’s no fake news about the company), and also no one is deceived about the technicals. No one says “huh this stock is up on a lot of good buying pressure, I should buy some”; everyone who buys says “hey this stock is up because it’s being pumped, and if I get in now I might still get out before it collapses, and that’ll be fun.” It is “respect the pump” as a quasi-mystical mantra.
+
+I bet the SEC would say that’s market manipulation, but I am not so sure. I suppose we did our trading “for the purpose of inducing the purchase or sale of such security by others,” but not by deceiving them about what’s going on. “Join us in a fun game of chicken,” was our basic message here. Did we try “to create or effect a price or price trend that does not reflect legitimate forces of supply and demand”? Who’s to say what’s “legitimate”? Surely the price did not reflect expectations about future cash flows, but just as surely the price reflected supply and demand: We all wanted to own it because we were having fun, so the price went up. 
+
+Anyway, the actual GameStop situation. I suppose it’s possible that someone on Reddit has posted fake rumors about GameStop’s business, but I haven’t seen any. The posts I’ve seen about GameStop have been either (1) substance-free “GME to $1,000” stuff or (2) arguments based on publicly available information plus personal opinion and guesses about the future. They might be wrong or exaggerated or misstated, but it’s not, like, core fraud.
+
+Is it manipulation? Well, there is not a lot of deception here. No one is buying GameStop stock because they think to themselves “boy this stock is going up a lot on heavy volume, must be a bunch of big institutions who see fundamental value here.” There is absolutely wall-to-wall coverage of GameStop in financial media, and it pretty much all says “lol those crazy redditors, pushing up the stock for no reason.” So at worst this is a sort of honest pump, people banding together to do it for the lolz and hoping they can get out before it collapses. 
+
+I’m not even convinced it’s that though. The stock closed Friday at its all-time high. Roaring Kitty was up $11 million. Everyone came back on Monday and did it again. My model here—and I should emphasize this is purely a guess—is that the people most identified with the GameStop trade on Reddit, at this point, are much more interested in securing their legendary status on Reddit than they are in taking profits at the expense of whoever came in later. 
+
+You could have other miscellaneous theories about words like “collusion” and “short squeezes.” Is it illegal for people to band together to all buy stock at the same time? “If institutional investors had an internet site or chat where they arguably cajoled each other or coordinated to buy stock to move the price higher,” one reader asked me by email, “wouldn’t that be stock manipulation and wouldn’t the SEC get involved?” 
+
+Well, a while back there were reports that the SEC was looking into hedge fund “idea dinners,” where hedge funds get together to pitch each other on their third-best ideas. 1  That sounds like institutional investors having a chat where they cajole each other to buy stock in a coordinated way. But the SEC wasn’t concerned about market manipulation. The SEC was concerned that the hedge funds might be a “group” under the securities laws, if they teamed up to own more than 5% of the stock, and that they hadn’t made the necessary group disclosures. This is less of a concern for small retail investors, just because they are less likely to get above 5% of the company. 2  Also it doesn’t seem like the idea-dinner probe went anywhere. Telling your friends that you like a stock and they should buy it is, more or less, fine.
+
+Or is a short squeeze illegal? One popular topic on WallStreetBets is recalling stock borrow. Kochkodin’s article describes one call to action in April 2020:
+
+>The final all-caps sentence imploring GameStop owners to call their brokers and tell them to not lend them short opened a new theater to wage war against short-sellers.
+
+>It’s a little known fact, and one that you wouldn’t expect to learn on a Reddit message board, that a stockholder can request that shares they own outright not be lent out to short-sellers.
+
+If everyone bands together to recall stock borrow, there will be fewer shares available for short sellers, and the short sellers will be forced to cover their bets by buying stock, pushing the price up more. Is that illegal? Is it illegal to make borrow impossible with the goal of messing with short sellers?
+
+The SEC might think so, actually. In 2012, it brought charges against Phil Falcone and Harbinger Capital Partners LLC for, among other things, having “conducted an illegal ‘short squeeze’ to manipulate bond prices.” I confess I do not understand why the SEC thought a short squeeze was illegal, or what they think the fraud was, but the Falcone short squeeze is one of my all-time favorite financial stories and I advise you to read the complaint for humor and inspiration. Quick summary: Falcone owned some bonds of a company called MAAX Holdings Inc. “After hearing rumors that a Wall Street financial services firm was shorting the MAAX bonds and also encouraging its customers to do the same, Falcone decided to seek revenge.” So he bought all the MAAX bonds. Then he bought more: Short sellers would borrow MAAX bonds (presumably from him), and then sell them to him, so that he ended up with “22 million more bonds than MAAX had ever issued.” Then he stopped lending them out, forcing the short sellers to buy bonds to cover their shorts. But there were no bonds to be bought, since he owned them all (and more). At some point an executive from the “Wall Street firm” called up Falcone to talk about the situation, and even in the SEC’s dry language you can tell that it was one of the greatest conversations in all of Wall Street history:
+
+>At some point, the conversation turned to the trading in the MAAX bonds. The senior officer asked Falcone how the Wall Street firm might satisfy its obligation to Harbinger. Falcone stated that the Wall Street firm should just keep bidding for the bonds. Falcone acknowledged that the Wall Street firm would suffer some losses doing so, but told the senior officer and the others that sometimes you are just on the wrong side of a trade.
+
+>In the course of this discussion, Falcone stated that he knew that the short position in the MAAX zips had created a “long” position in excess of the issue size. When the senior officer asked how he could possibly know this, Falcone stated that he was working the position himself and that he (i.e., Harbinger) had acquired approximately 190 million bonds. The senior officer and the other the Wall Street firm personnel were stunned.
+
+“Just keep bidding for the bonds,” “sometimes you are just on the wrong side of a trade,” I love it so much.
+
+Where were we? Oh, right, GameStop. I suppose a really coordinated successful effort to squeeze borrow might count as market manipulation, at least in the SEC’s view, but I’m not sure how serious this effort was. In any case it hasn’t worked. “Despite a punishing two weeks and relentless chat-room taunting, GameStop Corp. haters are showing no signs of surrender,” Bloomberg reported yesterday; short interest has barely budged, and there are still shares available to borrow.
+
+I don’t know. Taking a step back: Should the SEC care about all of this? On the one hand, I do not see a whole lot of deception in this GameStop situation. The SEC’s core concerns, about people lying about stocks and tricking the innocent, don’t seem especially implicated here; everyone is having reasonably informed and consensual fun. 
+
+On the other hand it is all pretty dumb? Like if you are a securities regulator, you can think of your job narrowly as preventing people from lying about stocks, or more broadly as encouraging capital formation and fostering confidence in markets and moving markets toward efficiency and perfection. And, you know, this is the opposite of that. A popular conclusion from the GameStop story is “well I guess the stock market is nonsense now,” and I’m not sure that conclusion is wrong. Seems like the sort of thing the SEC wouldn’t like. But what can they do about it?
+
+Here's the full article, there's a bunch of linked sources where he adds resources on previous occurrences or other court cases/SEC actions, but I'm way too lazy to edit all of those links in: https://www.bloomberg.com/opinion/articles/2021-01-26/will-wallstreetbets-face-sec-scrutiny-after-gamestop-rally_END_OF_POST_PYSTOCK_ Question about volume graph Hopefully green day, I have a question about this application or website I have seen floating around the web and was wondering if anyone knew what it was called. It shows like the 50 most traded stocks for the day by volume and then it shows the ticker or name and price. there’s no physical charting just all the boxes. If you think you know please comment. Cheers_END_OF_POST_PYSTOCK_ Global Recession - S&P 500 Hey, first of all I'm not an expert and just want to start a discussion about this. I couldn't find a thread about this, so I just quickly make one.
+
+Index Funds, especially the S&P 500 which indexes the Top 500 companies in the US. It's going up since like 50+ years, and now we have covid.
+
+Which started in early 2020 and is still ongoing.
+
+Do you believe the S&P 500 will be going down OR stagnate in the coming 5-15 years?_END_OF_POST_PYSTOCK_ Is the time for $MU? I followed the stock since a few years and the complaint I usually got was that it is a cyclical stock. DDR5 is coming and the company cycle looks to be starting. You can see it very clearly here:
+
+https://www.macrotrends.net/stocks/charts/MU/micron-technology/ebitda
+
+I am a PC enthusiast and see all components rising in prince in madness and the only components with reasonable prices are RAM sticks. When everybody need DDR5 we will see...
+
+The big problem I see in the company is that they make a lot of money and have a reasonable P/E, not like other companies which a brighter future losing money and having no P/E (/s)
+
+On top of that, wsb hasn't boarded it yet.
+
+Thoughts?_END_OF_POST_PYSTOCK_ Why are people investing in Disney these days? They're clearly prioritizing politics over profits at this point. They'll milk old franchises for all they're worth while also hiring hack writers who force political messages and themes into the properties. Now they're apparently removing their old movies from the children's section of their streaming services. Not to mention the parks aren't exactly full, what with the governments' reposes to the virus. Is there something I'm missing here?_END_OF_POST_PYSTOCK_ Amateur Roth IRA Question I opened up a Roth IRA account last year after landing my first job out of college and have been contributing $500 per month.
+
+I researched online and always see that one can withdraw their contributions without any tax or penalties but I wanted to see if I understand this right in the event I need to withdraw.
+
+Example, I deposited $100 and that investment is now $200. I sell for a profit but only withdraw the $100 I originally contributed. Is there any sort of reporting I need to do when filing taxes?
+
+Ps: Just an average new grad that is trying to invest regularly and hope not to withdraw anytime soon but this just was on my mind_END_OF_POST_PYSTOCK_ REIT Rebound? First post here, so be gentle. As we all know the residential real estate market is absolutely on fire. That being said, MITT and IVR are my 2 personal favorites to weather the storm and bounce back. They are extremely undervalued because they've maintained a constant revenue stream, and they continue to pay dividends even at these low prices. As I type this they've moved about 10-30% because I think people are taking notice. I believe this to be a relatively safe long term play with huge potential reward!_END_OF_POST_PYSTOCK_ Beliefs about the future? Honest opinions please. I have a feeling that within my life time electric cars will become larger aspects of our everyday lives, possibly the dominant mode of transportation even. Of course, nobody can be certain about anything and I have no evidence other than the trends of popularity we have seen in the last few years. Does anyone have evidence for or against this position? I am not locked in to any system of belief and I try to base my opinions on observable evidence. If you have any holdings in electric vehicles, please share if you are comfortable. If not, why?_END_OF_POST_PYSTOCK_ Are there any regulations or laws regarding a market maker taking a financial interest in a fund? [Yesterday it was revealed](https://www.wsj.com/articles/citadel-point72-to-invest-2-75-billion-into-melvin-capital-management-11611604340) that Citadel LLC and Point72 are investing $2.75 billion in Melvin Capital Management, who have lost 30% or about $3.75 billion this year so far from their short positions.
+
+I'm early into my finance journey so I was googling around and found that Citadel LLC is a fund by itself, but also a financial services company. So it is a "market maker" and a hedge fund.... I thought this was kind of odd, and questioned it's legality. 
+
+And now Citadel is taking a multibillion dollar financial interest in a different fund that has a huge risky position (as the market stands today). Isn't this a colossal conflict of interest? If the market maker has a multibillion dollar interest in a stock going one way or the other, surely the SEC looks very closely at this from now on?_END_OF_POST_PYSTOCK_ Is Visa still worth the buy? I usually have give a stock a full year of patience before I consider docking it. I only have 5 shares of Visa but I've made a whopping 4.93% on this stock in the past year, or below market average.
+
+The stock is actually down from $205 to $201.65 in the past year. It's gone from $195.15 to $201.65 in the past 6 months. It had a nice run-up in early January (to $220.25) but gave it all back.
+
+In other words, it's stuck. Is this still worth keeping my money in or should I switch to some other relatively safe but better runway stock (thinking Bank of Montreal or Vornado atm)?_END_OF_POST_PYSTOCK_ Possible market crash hedge: What is your opinion Flow Traders NV AMS: FLOW   
+
+I’m looking to hedge my portfolio for a possible market crash in the near future. Flow traders profit from high volatility. Since flow traders IPO their stock price always went up when the market went down. What do you guys think about this way of hedging? I would love to hear about your save-heavens in an event of a market crash. 
+
+I like this option more than putting my money in bonds(very low yield) and/or gold. Because the upside potential is a bit higher. 
+
+Of course I have no idea when and or the market will crash, but I’m just looking to de-risk my portfolio a bit._END_OF_POST_PYSTOCK_ Kraig Biocraft (KBLB) commercial deal Kraig  Biocraft announced a commercial deal for spyder silk apparel. At .17/  share I'm willing to take a shot. Stock moved a couple cents after the  announcement today.
+
+[http://www.globenewswire.com/news-release/2021/01/26/2164141/0/en/Kraig-Biocraft-Laboratories-and-MtheMovement-by-Kings-Group-sign-Exclusive-Purchase-and-Sales-Agreement-for-up-to-potentially-40-million.html](http://www.globenewswire.com/news-release/2021/01/26/2164141/0/en/Kraig-Biocraft-Laboratories-and-MtheMovement-by-Kings-Group-sign-Exclusive-Purchase-and-Sales-Agreement-for-up-to-potentially-40-million.html)_END_OF_POST_PYSTOCK_ The big whales in the room... Vanguard, BlackRock and State Street Hello Reddit Community - 
+
+In the past decade investors have poured trillions (I'm guessing) into index funds and trackers run by Van, BR and SS. They collectively have around $16-20 trillion under management (quick Google search) and I think their combined stake in SPX has grown from 5% in 1998 to 21% in 2017 (correct me if I am wrong - again simple Google search) Not sure what it is now.. my guess is it's probably higher. 
+
+Have these insto's morphed into a stealth monopoly?  How much influence can they have on the company profit and price if they have a huge slice of it - talking about from a governance and shareholder influence perspective? 
+
+Another question - these tackers and ETFs offered by these insto's are bloody easy to trade and cheap to buy. As long as Mr Joe gets paid at the end of each month, has a savings account for stocks Mr Joe can tell the broker to continue buying BlackRock SPX each month - no questioned asked. Does valuation almost become irrelevant in the market? And the whole game is momentum and flow? Assuming passive is a huge part of the market - maybe one of the largest driving forces? 
+
+Thank you all - and particularly interested in the latter point I made.._END_OF_POST_PYSTOCK_ Twitter acquires subscription newsletter startup Revue (Substack competitor); up ~6% Revue is a platform for independent writers to monetize their content using a subscription model, a la Substack. 
+
+See https://www.reuters.com/article/revue-ma-twitter-idUSL4N2K12NC for more details. 
+
+This is interesting in that it signals Twitter is willing to go after the subscription revenue market. Twitter has long relied on ads / promoted posts for its revenue, but a feature of Twitter is it has some comedians / journalists / editorial writers  / etc. that are popular and have been on the platform a long time, with many dedicated followers. If it can monetize those content creators by making a subscription service (like Patreon or Twitch) there may be demand. Not sure though; a big part of the appeal of Twitter is it’s free, and also the user base is finicky. But content creator subscriptions have been shown to work for other sites.
+
+Twitter has a lot of users and if it can leverage a small subscription out of some percentage of them that may be significant revenue wise._END_OF_POST_PYSTOCK_ World’s largest money manager says sustainable investing surge to continue, pushes for more disclosure BlackRock CEO Larry Fink said Tuesday in his annual letter to CEOs that the “tectonic shift” toward sustainability-focused companies is accelerating in the wake of the coronavirus pandemic.
+“More and more people do understand that climate risk is investment risk. ...When finance really understands a problem, we take that future problem and bring it forward,” the head of the world’s largest asset manager said on “Squawk Box.”
+BlackRock is asking companies to disclose how their business model will be compatible with a net-zero economy. What do you think about these key points? Article here: https://www.cnbc.com/2021/01/26/blackrock-calls-for-climate-change-disclosure-expects-sustainable-investing-to-continue.html_END_OF_POST_PYSTOCK_ Short volume website Is there a free website which I can use to track short volume or percentage per stock?
+
+I keep reading that GME short volume is 140% but I can’t find anything from google and most of the websites have a fee to pay. I want to know so that I can try to Avoid stocks that are being shorted. Because I see a lot of stocks Nokia, blackberry and some other just shooting up. 
+
+GME has opened interested me bunch of areas regarding stocks like short volume percentage, gamma squeeze so trying to find a place where I can get this information for free._END_OF_POST_PYSTOCK_ Why Old Money short sells GME at 83% borrowing costs? My reasoning is No way they can make a profit with such high borrowing costs. Even if they win price-wise, interests will eat their profits.
+
+Plus, if 140% of all shares are sold (70m shares in shorts), then at some point there will be buying orders of 70m shares to close that position. Hence, upward preassure on the price.
+
+Any thoughts?
+Cheers_END_OF_POST_PYSTOCK_ $1,000,000 to invest, been holding cash for so long... HOW COULD THIS BE BETTER??! Look to grow slow and steady and hold less than 10 holdings, while not checking on it every single day... thoughts on this set up?
+
+\- VTI: 25%
+
+\- VOO: 25%
+
+\- QQQJ: 25%
+
+\- ARK (G, W, F, K, Q): 25% total, 5% in each
+
+Thoughts? How would you do this differently?_END_OF_POST_PYSTOCK_ $BAVA - Bavarian Nordic. Vaccine research at University of Copenhagen offers longer and better protection. Not yet approved. $BAVA - Bavarian Nordic. Vaccine research at University of Copenhagen offers longer and better protection from said researched vaccine. Bavarian Nordic is due to take over production once approved for use on humans.
+
+The researched vaccine is a type of vaccine that usually takes 10 years to develop, but the University has been able to make it in record time. It is not another mRNA vaccine as Moderna and Pfizer has been able to develop, but instead creating empty shells of the virus, allowing the body to better figure out how to fight the virus.
+
+Source is in Danish, I recommend using chrome's translation function: [https://stiften.dk/artikel/jagten-p%C3%A5-en-dansk-vaccine-forts%C3%A6tter-den-kan-noget-andet-og-noget-bedre](https://stiften.dk/artikel/jagten-p%C3%A5-en-dansk-vaccine-forts%C3%A6tter-den-kan-noget-andet-og-noget-bedre)
+
+\-Yes I know it's an article from 15 days ago, but it doesn't change the fact the vaccine isn't approved yet, but when it does my bet is that this type of vaccine will be in higher demand than the other mRNA ones, simply due to the effectivity._END_OF_POST_PYSTOCK_ Undervalued Weed Play CLVR  Got some DD for you  Clever Leaves (CLVR)  is a weed producer and they supply some big names like cgc. Its going to moon because
+
+  \-Cost to produce is 20C per gram, 
+
+\-Canada producers like acb is 1.20 per gram  -2nd Biggest cultivation footprint 
+
+ \-GMP Certified 
+
+ \-Currently under 250M Market Cap  
+
+ACB over 1.5Bn MC  
+
+CGC over 12Bn MC 
+
+ APHA over 3.5BN MC  
+
+This is the weeder that's gonna fucking moon. If you play weed, you gotta have this shit in your account  I have a large positions in both options and warrents, this shit is the future of weed production_END_OF_POST_PYSTOCK_ Is CXW a Value Trap? The stock is down for almost every timeframe. Earnings and P/B are excellent. I saw they had a right down of assets, so maybe the current price reflects expectation of more write downs, but why then has the stock been moving down for so long? Was their dividend payout ratio over 100% (dividends have now apparently been suspended). Are people expecting private prisons to eventually be eliminated?_END_OF_POST_PYSTOCK_ DD- CorePoint Lodging (CPLG) 1. This stock is currently trading at $7. The hotel chain asset value is in the $20s... That’s 3x returns!
+2. Michael Burry (who owned GME before it gained the popularity it has on WSB) owned this too. 
+3. This is a covid recovery play. They’re selling off hotels at premiums far greater than they are currently on book at. In turn they will end up owning their best 105 hotels with no debt. A market cap of 400m where the hotels are worth 3x that
+4. We have the covid vaccine, we will recover and travel will start to pick back up again. With the above in mind, CPLG has tremendous potential_END_OF_POST_PYSTOCK_ ELI5: How is massive shorting of a stock any different than a pump and dump scheme besides the direction of the momentum? So from what I understand, pump and dump is when you inflate a stocks price by coordinating a demand that by normal means does not exist to give a stock an upwards trajection that it should not have, and then selling high once other people are in on it.
+
+And what most of these hedge funds did was to short stocks that were priced fairly to dip them into lows they should not have been in the first place to profit by covering their positions at low prices.
+
+How are these 2 things different in any way besides one targeting the bulls and the other targeting the bears?_END_OF_POST_PYSTOCK_ Morphosys AG (MOR), German Biotech Your views on Morphosys AG (MOR) a German Biotech company (remember Pfizer's vaccine is actually developed by a German company BioNtech)?  They got their FDA approval for a blood cancer treatment, their EU approval is just pending. PE at 50. Working on tumor treatments and active in China too. Would you invest? Interested in hearing your views as I am inclined to invest into them._END_OF_POST_PYSTOCK_ Free Resources for Investors - For Research  
+
+One of the most challenging things when engaging with the world of  investments and finance is to learn how to deal with the overwhelming  amount of information that’s out there.
+
+Knowing what to read can save you a lot of time and provide you with  the right insights to get closer to a more robust analysis of various  investment opportunities.
+
+[Here are a few useful blogs and newsletters](https://power-of-ideas.com/2020/12/22/10-free-blogs-newsletters-and-podcasts-for-investors/) that I’ve curated over the past 5 years to help you with the process of sifting through information  :). 
+
+Enjoy!_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Is a short squeeze still possible for GME? I know a lot of people on wsb are saying they're holding for the short squeeze. But wouldn't have all the institutional investors who shorted GME already have covered their position now?
+
+My assumption would be if regular investors are still able to buy now wouldn't that mean that institutional investors would also be able to cover their short now (and presumably they would try to avoid any squeeze). Or is it just a question of volume?_END_OF_POST_PYSTOCK_ Stock to Invest in 1/26/2021 and Long Hold Hello I’m new to the whole scene and recently got started by investing in Mara,BTC and GME. You guys got any recommendations as to what I should invest it tomorrow aka today or long hold ? I’ve got good results from Mara and Gamestop and recently reading this and other Reddit forms got me really interested into investing, inspiring off you guys any help would be appreciated and of course All replies are appreciated!_END_OF_POST_PYSTOCK_ SPAC Question CCIV and Lucid Motors Hi, I have a question that I wasn't able to find the answer online.
+Say that I buy stock of CCIV because I believe the deal with lucid motors will go forward. 
+What could happen in 10years?
+Cciv is the same has owning stock of lucid motors, or cciv can sell Lucid motors at a later date? Therefore reducing my exposure/hanging me to dry.
+I just want to confirm if this purchase is the same as a long term investment.
+Thanks_END_OF_POST_PYSTOCK_ How to invest around Joe Manchin: Most powerful man in United States? Joe Manchin is a moderate Democrat generally regarded as the most powerful person in the 50/50 Senate. He is the swing vote that's needed for most of Biden's green policies and infrastructure plans. [Key facts](https://en.wikipedia.org/wiki/Joe_Manchin#Political_positions):
+
+* He represents West Virginia and is a strong proponent of WV's coal interest. He is against the Paris Climate Accords.
+* Manchin is the ranking member of Senate Energy and Natural Resources Committee. He also serves on Appropriations.
+* Natural gas is one of the fastest growing industries in WV.
+* Munchin is a strong proponent of wireless broadband in rural areas.
+
+What else do you know about Manchin and what stocks should we buy that promotes "green" coal, natural gas, and broadband accessibility in rural areas?_END_OF_POST_PYSTOCK_ which paid or free services you subscribe to? hey! just want to see what people use to gather their investment related info, and see if i can benefit from some new info source that i'm not aware of.
+
+feel free to mention something that someone has already mentioned, just to gauge interests. thanks! :)_END_OF_POST_PYSTOCK_ Would a trailing stop work on GME after it peaks or is there a chance there are *no buyers* for shares? Would a trailing stop work on GME after it peaks or is there a chance there are *no buyers* for shares?
+
+Holding of course but just curious. Is the trail stop limit could be hit, but it won't sell for that price or even close?
+
+I vaguely recall someone saying this but don't quite understand it._END_OF_POST_PYSTOCK_ Interest rates at zero means that it's highly likely that the economy's prospect of growth is zero or less than zero If interest rates have to be set at zero to stimulate growth, that means that investors aren't willing to pay a single dollar in interest for their investments. Short term, this means what everyone thinks, that money is free and investments will shoot up.
+
+Longer term, it's a sign of zero growth and when the market reaches it's true value with such low interest rates - the forward growth will be zero or negative. Really what these interst rates mean is that we cant even get an investor to pay a 2 % per year to invest in the future of several countries.
+
+Think about it. Isn't that pretty messed up? People here will now say that with zero interest rates, the roof for markets is infinite - that is correct. But if interest rates go up to even 0,1 % with an infinite valuation - even that tiny raise could lead to a huge crash.
+
+So the question is. Why are so few willing to pay to borrow money to invest in Americas (and several other countries) future? Because the future outlook is awful, just awful. Sooner or later this realization will hit people and the markets will react.
+
+It also means that inflation isn't coming. More likely if my assumptions are correct, fall of asset prices is the first step, then delation of money and then we hit inflation. Why? Because if the prospects for growth is zero and stocks go up. As soon as the interest rate rises, stocks go down. People sell stocks, stocks go down even more. People won't spend money, leads to deflation. Then people realize that commodities and other things are getting more and more expensive and harder to come by, that leads to inflation. Problem here is that there is no guarantee that stocks will go with that inflation, rather we could have a terrible situation with inflation of money, lower stock prices and higher prices of living.
+
+Am I wrong?_END_OF_POST_PYSTOCK_ Is there a way to set an order to buy when a stock price goes above a certain amount? I work nights and sleep all day, so if a stock I like dips and suddenly takes off, I'd like to set a buy price above the dip.
+Of course, the price could stall or drop, in which case I dont want to buy. But if the price skyrockets during the day, I'd like to buy at just above the dip / stall price.
+
+How can I automate this?_END_OF_POST_PYSTOCK_ My Bullish take on BB long term 
+Position:194 shares at $19.28
+
+
+Disclaimer: I started trading this January and my views are purely informational and I do not condone anyone making financial/trading decisions based on this post. Do your DD before you trade. This is a bullish take on BB and may have some holes in it.
+
+
+
+So I have been watching BB for a while now and feel the company is undervalued. Forgive me as I have not made a DD post before, I failed English in high school, and I am typing this up on my phone.
+
+
+BB originally caught my attention because it struck me that it survived being primarily a phone company and shifted its business to its cyber security and other software. I Put it on my watch list to swing it a little bit and recently sold 140 shares at $11.
+
+
+Seeing the price go up and the volume I decided I would jump back in since the trend analysis looked pretty good. Bought in at 19.28 and it almost immediately crashed, I suspect likely due to the pullback the whole market had this morning with stimulus talks being delayed.
+
+
+Canada Halts trading today due to the volatility followed by BB making a statement in response basically saying idk why investors are buying up the stock we haven’t made any announcements 
+Trading resumes and the price rises back up beyond open in AH, closing at nearly 20 dollars.
+
+THEN as you have already probably seen, BB announces partnership with Baidu - coincidence? Probably not, investors probably coaxed that information out of them and they likely didn’t want to get caught in some insider trading schenangians. 
+
+Speculation for tomorrow: BB Will open strong and meet or exceed the 40% growth of today since it just got that huge news. Baidu is Chinese google, and they partnered with BB since they need a operating system platform to mass produce their maps software in autonomous/ev vehicles with their partner GAC. Now this is a lot of China talk but BB is headquartered in CANADA which is much friendlier in regards to trade than the U.S.
+
+
+A little bit of information about GAC, they are a Chinese automotive giant that has came to the United States National Automobile Dealers association expos begging for investors, however has not had much success since the last 4 years have not been good for U.S. and China Trade.
+
+
+The LONG game: Once our new administration warms up to China after those in charge of trade take their cuts, (and they will because history repeats itself, but right now the bear case would be that Biden is not looking to change tariffs on China, playing tough until he gets some leverage is what I think is really going on) GAC will have lots of opportunity to start putting their vehicles on our roads. 
+GAC is the highest rated car brand in China so it may have a chance in the United States if it plays its cards right, which means we could have Blackberry powered Autonomous EVs on our streets in the next 5 years. 
+
+This company has a lot of value in our up and coming future of Electric and Autonomous vehicles.
+
+I am too new to this to speculate on where this stock should be valued at, but here are some resources where I got my information so you can decide for yourself:
+
+https://www.reuters.com/article/us-blackberry-stocks-idUSKBN29U28L
+
+
+https://www.autodeal.com.ph/articles/car-features/10-things-you-need-know-about-gac-motor
+
+
+https://www.google.com/amp/s/finance.yahoo.com/amphtml/news/blackberry-expands-partnership-baidu-power-020000067.html
+
+
+https://apnews.com/article/joe-biden-donald-trump-technology-beijing-global-trade-22f525e41676d4e6abf96f3ca9255d15_END_OF_POST_PYSTOCK_ Beginner questions, what do I start? Would it be worth investing in Tesla today? Or would it be smarter to start with a different brand? How long with it take to make money perhaps investing in Tesla at 10g? How high is the risk? Or, how do people calculate risk? I don't want to lose my savings, but it feels dumb to let it sit around.
+
+Secondly, what app do people use for this? Typically I'll see graph apps but no idea what they are. Forgive my ignorance. Sorry for all my beginner questions here if this is a more skilled subreddit. Appreciate all!
+
+Edit: are you able to sell your stocks immediately back? Or do you have to wait for people to actually buy your stock?_END_OF_POST_PYSTOCK_ Just a gentle reminder to all This crazy market we see today is nothing new. Speculations, euphoria, hype, "prodigy" investors.... It has happened and will continue to happen for as long as the stock markets exist. 
+
+However, no matter the market conditions, the fundamentals and logic behind investing should not change. Here is a little quote from the timeless "the intelligent investor" book.
+
+>*An investor calculates what a stock is worth, based on the value of its businesses. A speculator gambles that a stock will go up in price because somebody else will pay even more for it. As Graham once put it, investors judge “the market price by established standards of value,” while speculators “base \[their\] standards of value upon the market price.” For a speculator, the incessant stream of stock quotes is like oxygen; cut it off and he dies. For an investor, what Graham called “quotational” values matter much less. Graham urges you to invest only if you would be comfortable owning a stock even if you had no way of knowing its daily share price.*
+
+To all fellow investors, have fun and invest smartly.
+
+
+EDIT: 
+
+Getting a lot of flak from some users because apparently it seems as though I’m implying that traditional value investing is the only true way.
+
+This is not my point. There is a wide spectrum between speculation and investing. There is skilled speculation as there is skilled investing. Likewise, there is unskilled speculation and unskilled investing. 
+
+My reminder to all is simple.
+
+If the speed limit is 100km/h and you so decide to drive at 300km/h, my reminder is please know that you are speeding, be careful at the bends, have both hands on the steering wheel, wear your seatbelt and keep your eyes extra wide. Is driving at 300km/h necessarily bad, if you were a skilled Formula 1 driver? Probably not. It is, however, incredibly dangerous if you just came out of driving school. That is my point. Too many investors these days are speeding because everyone else is, thinking they are driving safely. Without any precautions, plans or skill, your risk of crashing and burning is incredibly high. Right now, we are on a straight road and I don’t know how far the straight road extends, but when it gets bumpy and winding, how sure are you that the same speed that is getting you to your destination quicker, isn’t going to be the same speed that kills you?_END_OF_POST_PYSTOCK_ Winners in the retail REIT space? There's all this gloom about the retail apocalypse, however, I  doubt that retail will go completely away as demand for physical store will always be present. I'm currently looking at the REITS in the net lease sector to invest in. This is what I have on my current list : ADC , NNN and WPC. 
+
+ADC: extremely high quality tenants which means somewhat of a downside protection during an economic downturn. However, less bargaining power for management when negotiating or extending a lease
+
+NNN: Similar in quality as compared to O realty but has potentially higher capital appreciation and a higher yield. (Debating if I should even add this company into my portfolio)
+
+WPC : International exposure with warehouse and storage in it's company pipeline. Extremely diversified 
+
+What do you guys think?_END_OF_POST_PYSTOCK_ Why would Gamestop (GME) succeed in selling games online? Gamestop's business model back in the days was to sell games in brick and mortar shops. This worked well for Microsoft, Sony, and Nintendo because they didn't have to deal with running a retail business; it was cost effective to just give a cut to GME. The gaming console companies were effectively paying Gamestop for the service of running stores to sell their games. In the digital world however, why would someone buy games from Gamestop when they could just buy it on the Playstation Store or the Nintendo eShop? I don't know a single person who buys iOS apps outside the Apple App Store. I don't know a single person who buys Android apps outside the Play Store.
+
+What's Gamestop's moat here? Why wouldn't Microsoft, Sony and Nintendo cut out the middle man that's Gamestop? If someone can seriously address these concerns, I'll put in 100k into GME shares and join the squeeze with a screenshot._END_OF_POST_PYSTOCK_ Why is there a lack of quality stock research for retail investors Hi everyone,
+
+I don't know if this is the right place to post this, but here goes. 
+
+For a little background I work as a hedge fund analyst, so researching stocks is essentially what I do on a daily basis. The discrepancy between the research and resources an institution has in comparison to a retail investor is astounding, and I was hoping I could narrow this gap. Looking around there doesn't seem to be a quality service that offers quality stock research with unbias analysis for the everyday investor. There are things like Morningstar and Zacks but they are either expensive or terrible (talking about Zacks). So I wanted to ask the community would you be willing to pay for a service that can provide high-quality research on stocks with a unbias view. Rather than paying for a subscription and not using 90% of the offered resources the investor can simply request a report for a specific stock and will only be charged for that report. Therefore you can pay for only what you want. 
+
+My thought is I would get together a group of my hedge fund buddies who love equity research as much as an I do and we would do the analysis on a per request basis to start off. 
+
+Let me know what you guys think? Is it something people on this forum would actually pay or am I just over-analyzing the situation?_END_OF_POST_PYSTOCK_ Question: Incurring taxes now for better returns later Hi all, I'm relatively new to investing and have a general question about the implications of selling a stock in order to then buy another with the proceeds.
+
+So, to be exact I was planning to sell shares of VFIAX in order to buy VOOG with the proceeds (and by all means I welcome better suggestions). This is money I expect to leave for at least a couple years and I welcome extra volatility for better gains since I don't expect to really need it in the near future. My question is, is there a way to figure out how long I would have to let the VOOG shares grow in order for it to make up for the 15% tax I'll be accruing on the VFIAX sale? My rough math with the numbers I used showed that I'd be taxed \~$340 on the sale and then I'd be gaining an extra \~$60/year if I were to make an extra 2% with VOOG (conservative estimate). The way my simple mind sees this is that I'd need to let it sit for 5-6 years before the extra gains made up for the taxes on the sale.
+
+I feel like I'm missing something or not taking something into account. Let's just say I'm not a math whiz. Can you let me know if my logic here is sound, or if not can you set me straight?
+
+Thanks in advance!_END_OF_POST_PYSTOCK_ What kind of order am I trying to place? I have a stock that I want to purchase between two prices:
+
+1. If the stock goes over .80, I want to place a market buy.
+2. If the stock goes to my target price of .55, I want to place a market buy.
+
+&#x200B;
+
+I'm doing this because I don't want to miss out on getting in on this stock, but want to wait for a potentially low price.
+
+&#x200B;
+
+Thanks in advance._END_OF_POST_PYSTOCK_ Question regarding certificated shares Hi! I recently learned that a late uncle of mine left me some dividend-paying shares on a platform called Computershare. So I logged onto the platform and found that they are marked as "certificated." I'm wondering what this means... Does this mean that I should have some sort've stock certificate that represents these shares?
+
+My dad was the one in custody of the account until now, and he doesn't know of any stock certificates left to me. Am I SOL if we can't find any certificates?_END_OF_POST_PYSTOCK_ What tools/methods do you guys use to understand a company? I want to figure out how to go in depth into a company’s business model and understand the founders vision before I become a co-owner. Are there any websites or something that you guys use to get a good understand or deep analysis without too much sifting through useless information?_END_OF_POST_PYSTOCK_ Is there any website that shows the average earnings beat of S&P companies? I've found sources that have the percentage of S&P companies that have beat earnings estimates but I can't find any sources that show the average earnings beat of S&P companies (for example: "this earnings season, the average S&P company has beat earnings by 28%).
+
+ 
+
+Can anyone help me out?
+
+ 
+
+Thanks_END_OF_POST_PYSTOCK_ What if this was not a bubble - but a price correction? What if this is the new standard? 
+
+What if with COVID, people realized they had a lot of unused money laying around and they decided to invest it in stock, bitcoin, gold and even collectibles (pokémon, magic and figures have seen huge spikes on extra-rare items).
+
+Of course, there is the side of people getting free checks and the government money printing. However, people who were getting free money were not the people who have a lot of buying power.
+
+People with buying power became those who substituted money from transport to benefitting from tax relief for their romote work (electricity, internet, etc).
+
+I can only see a crash happening when COVID is over and everything reopens (I thought this would've already happened but look at where we are now). Then again, would people start selling off their stock/investments to go to the restaurant or to the bar?_END_OF_POST_PYSTOCK_ Journey to $1 Million - January 25th, 2021 Today my account is up $4,500, or 0.6%. Most of my tech holdings pulled back after hours. Still, I am beating the S&P by a lot. I expect this earnings week will be huge. [https://preview.redd.it/gclmoxl9bld61.png?width=833&format=png&auto=webp&s=75b14e805d3da00f9f70495c7b3de3f6073808e1](https://preview.redd.it/gclmoxl9bld61.png?width=833&format=png&auto=webp&s=75b14e805d3da00f9f70495c7b3de3f6073808e1)
+
+&#x200B;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**My picks from yesterday:**
+
+$AAPL- +2.7%
+
+$TSLA- +4%
+
+$DIS- -0.52% (approaching buy zone)
+
+$F- -2% (approaching buy zone)
+
+$BB- +38%
+
+$GME- +30%
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+I was not surprised when I saw $BB and $GME start taking off like Falcon Heavy on the launchpad. Count down to the opening bell, and then blast off! $GME pumped up $159 before running out of rocket fuel. Let's take a dive at some other big gainers that you might want to get in on some action, and that I'll be adding to my watchlist.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**ADDITIONS TO WATCHLIST**
+
+**$SOLO** \- SOLO graced my buy zone today, barely, and immediately bounced back up. This is still going to be a hot EV stock that I believe will have no problems getting to $11 next EV bull cycle. Specifically I like this company because it is a cheap stock that beginners with low account balances can sell covered calls with. If you believe in the EV industry, and don't mind holding this mid-long term, it is a good choice with decent premiums.
+
+* Target Price: $11
+* Entry: <$7.50
+* Risk: 4
+* Timeframe: 1-2 months
+
+[https://preview.redd.it/7u7vwmlfbld61.png?width=833&format=png&auto=webp&s=f8469be9655278f024ff8ce6cd5fa4a8ae25f521](https://preview.redd.it/7u7vwmlfbld61.png?width=833&format=png&auto=webp&s=f8469be9655278f024ff8ce6cd5fa4a8ae25f521)
+
+&#x200B;
+
+ 
+
+**$CC IV** \- Churchill Capital Investment holdings that is rumored to merge with Lucid Motors. This is a risky play if you just buy naked calls, therefore I recommend buy the rumor, sell to fools. Premiums for covered calls are high right now as this stock is gaining a lot of online attention and hype. If you can afford $2500 for 100 shares, you'd be a to profit off the rising premiums. Be aware that if the merger falls through, share prices will fall to $10.
+
+* Target Price: $37
+* Entry: <$25
+* Risk: 5
+* Timeframe: 3-6 weeks
+
+ [https://preview.redd.it/a530cp1hbld61.png?width=833&format=png&auto=webp&s=4a45b087eaf90133893d1e8790c31152dbc3c7db](https://preview.redd.it/a530cp1hbld61.png?width=833&format=png&auto=webp&s=4a45b087eaf90133893d1e8790c31152dbc3c7db)
+
+&#x200B;
+
+ 
+
+**$AMC** \- AMC is in the headlines now and is up 35% today including after market. In fact, it opened above the 180 MA for the first time since late November. The entertainment company raised $917 million in equity and debt capital to stave off bankruptcy. It has doubled in the past few trading days. Wait for the gap to be filled, if it will at all, and get comfortable in a cheaper position. This one could be the next huge gainer. I would personally sell covered calls, or short term OTM option that isn't heavy on the capital.
+
+* Target Price: $7
+* Entry: <$3.80
+* Risk: 4.5
+* Timeframe: 1-3 months
+
+[https://preview.redd.it/9w7nsjfibld61.png?width=833&format=png&auto=webp&s=53314f0b60d1a9ee80d531d4d0a00d938057ded4](https://preview.redd.it/9w7nsjfibld61.png?width=833&format=png&auto=webp&s=53314f0b60d1a9ee80d531d4d0a00d938057ded4)
+
+&#x200B;
+
+ 
+
+**$REGI** \- Renewable Energy Group is a company that is focused on providing cleaner, low carbon intensity products and services. Anything clean energy or renewable energy is a yes for me and lately this one is a little overlooked by some clean energy ETFs. Currently my Technical Analysis shows a strong trend that REGI has formed. I won't be in any rush to buy this and will wait for it to hit my trendline again. After it does, I expect a movement towards $125. I'd save capital and go with mid to long term calls.
+
+* Target Price: $125
+* Entry: $90
+* Risk: 3
+* Timeframe: 3-5 months
+
+[https://preview.redd.it/tkel73zjbld61.png?width=833&format=png&auto=webp&s=b1f8ec5d644ce9744c4272385b5b3eacd3382c88](https://preview.redd.it/tkel73zjbld61.png?width=833&format=png&auto=webp&s=b1f8ec5d644ce9744c4272385b5b3eacd3382c88)
+
+&#x200B;
+
+ 
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Note: Risk (1 out of 5) is my opinion of how risky the stock and these plays are; 1 being the lowest and 5 is the highest.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Disclaimer: The comments opinions and analysis expressed herein are for informational and educational purpose only and should not be considered as individual advice or recommendations._END_OF_POST_PYSTOCK_ Can an investor make money (through buying the shares) off a stock which is being shorted? And how does the short make the stock go down in the long term? Lets say as an investor, you find a stock which is shorted. The number of shares shorted is almost the same as, or even more than the float. The share price has declined over time steadily. 
+
+However, you believe in the company and can't see any huge problems with it. Is it simply a case of investing there and then and waiting long? Because in 3 or 6 months, that stock will have to go up? If this is the case, does this mean short sellers can short sell a stock over several months, and if so, how? I thought shorts were short term positions? Wouldn't they lose money every time they go through the cycle, becuase when they buy the stock again at a lower price, it should get pushed up? Look at GME as the example, it's been in slow decline for 6-8 months, and has only changed when investors have all piled in at once to drive the demand up. Or is it a case of investing when you think the shorts will re-buy, thus 'piggybacking' onto their purchases and getting on the price climb associated with their short?
+
+With the above being said (and assumed correct), how are the shorts continually able to make a stock go down? If a stock is shorted at $20, and it drops to $15 and the short makes the $5 profit, doesn't the stock then go back up when they buy it back? 
+
+Again, lets take the GME example, how are the shorts able to make it continually go down over the course of several months and not see it rise, and it needs thousands of investors to dump all their cash in at once to cause a Gamma squeeze before it goes up? 
+
+The shorts must be making it go down, otherwise they wouldnt be shorting it, right?_END_OF_POST_PYSTOCK_ SPCE Okay so currently the three highest shorted stocks are: GME, SPCE, and AMC.
+
+Now unlike GME, SPCE has a TON of legitimate potential. They're vying to become the future of fast long-distance transportation, and are one of the most future oriented companies. Now that said they're still an extremely risky play, but they're no where near as risky as GME is. 
+
+Could SPCE be ripe for a short-squeeze? 
+
+What do you guys think of this play? 
+
+\-  This is not investment advice. You can do whatever you want with your own money._END_OF_POST_PYSTOCK_ Why do institutions continue to allow shorting? This is no doubt about GME, but arent investment institutions like, fidelity, schwab, etc absorbing a bunch of risk by allowing short selling to continue? Shouldn't they stop short selling rentals?
+
+How do these Institutions hedge this risk of a short squeeze? It seems like Interactive Brokers hedges their risk through the stock enhancement program._END_OF_POST_PYSTOCK_ Werner Invests in TuSimple to Spur Autonomous Trucking It is intended to demonstrate, among other things, Werner’s focus on the growth and deployment of automated driving systems, the regulations required for increased safety, reduced carbon emissions and eventual industry adoption, according to the Omaha, Neb.-based company.
+TuSimple is focused on improving truck safety and fuel efficiency through its SAE Level 4 technology, in which the vehicle can travel without driver input or backup assistance, at least within specific areas and conditions.
+
+
+“Our customers are experiencing continued business transformation, one that requires immediate fulfillment, industry leading service and safety and a greater desire for solutions that further their business and the sustainability of our planet,” Werner CEO Derek Leathers said in a press release.
+At the same time, staying current with emerging technologies helps improve drivers’ lives, keeps them safer, provides drivers with “best-in-class equipment and helps them achieve long-term careers in the trucking industry,” he added.
+In related news, TuSimple announced it added to its executive advisory board Schneider CEO Mark Rourke. Motor carrier and logistics company Schneider took a “nominal investment” in TuSimple and will provide a test fleet as it, too, shapes the future of autonomous trucking.
+
+In recent years, Green Bay, Wis.-based Schneider has invested in advanced driver assistance systems (ADAS) such as collision mitigation and adaptive cruise control, which are the foundation of autonomous vehicle technology. 
+Schneider ranks No. 5 on the Transport Topics Top 100 list of the largest for-hire carriers in North America. It ranks No. 18 on the Transport Topics Top 50 list of the largest logistics companies.
+Werner's investment in TuSimple followed Werner’s announcement in May of Werner EDGE, an initiative that promotes technology-rich driver solutions — including machine learning to improve critical event management, cloud-based breakdown management and tablet-based telematics.
+Werner Enterprises ranks No. 16 on the for-hire TT100 and No. 17 on the logistics Top 50.
+
+
+Meanwhile, TuSimple, which has offices in San Diego and China, added other partnerships over the past year.
+In September, TuSimple and Traton Group, Volkswagen AG’s heavy-truck unit, announced a partnership to develop SAE Level 4 self-driving trucks, calling it a first in Europe. Traton also took a minority stake in TuSimple.
+In July, TuSimple and truck and engine maker Navistar International Corp. announced a strategic partnership to co-develop SAE Level 4 self-driving trucks targeted for production by 2024.
+
+
+
+In November, the boards of directors at Traton and Navistar approved a definitive agreement to merge as part of a transaction valued at $3.7 billion.
+TuSimple President Cheng Lu told Transport Topics at the time of its announcement with Navistar: “What we are doing is designing, basically a new truck. The brains, what the body looks like, where you put the sensors, how you get the power. They’re not just buying a component from us. So you can imagine the amount of work that takes. It is something we have to be very selective about in terms of partnerships.”
+
+
+
+
+
+
+
+https://www.ttnews.com/articles/werner-invests-tusimple-spur-autonomous-trucking_END_OF_POST_PYSTOCK_ What exactly is barcoding? Can someone take a look at Zomedica (ZOM) and explain what the significance of the “barcoding” is?
+This phenomena doesn’t necessarily concern me but I would like to learn what is going on here and how is someone benefiting from the price going up and down by a cent. I’ve heard that sabby llc has something to do with it._END_OF_POST_PYSTOCK_ Best alternative to recurring investments for fractional stocks Best alternative to recurring investments for fractional stocks
+
+Best alternative to recurring investments for fractional stocks? I currently use Robinhood and stash.
+
+I don’t mind the monthly charge as long as I can set up and recursive buy and schedule it on a weekly basis. 
+
+Please note - Robinhood is good. But I would like to explore a few more alternatives_END_OF_POST_PYSTOCK_ Would Different Index Funds/ETFs Tracking U.S. Market Count as Wash Sale? Let's say you have an investor who holds all of their investments in VSTAX. The market crashes later this year and they want to realize a large capital loss to offset other investments.
+
+They sell VSTAX and buy VTI the next morning. Both of these indexes track the broad U.S. market. I don't know if they hold the exact same share weighting, but they may. The point is, they both track the same market but are different investment products and behave differently. 
+
+Would this qualify as a wash sale? The guidance on this is very unclear._END_OF_POST_PYSTOCK_ Forex/Commodities trading question (I hope this is the right sub for this)
+
+So, I'm kinda new to economics/finance but I'm trying to learn about a bunch of things and there is something that perplexes me. 
+
+I see people making lots of money with many different stocks of various companies, whether they actually buy the shares or stock options and the same goes for stock CFDs so my question is why do people invest in things like oil or gold or USD-EUR when their price remains mostly the same or only has a small fluctuations over time?
+
+Is it because it's a "safe investment" and it's about not losing money rather than try to making more of it or am I missing something?_END_OF_POST_PYSTOCK_ For the more “seasoned” investors: How will the large influx of new stock traders/investors affect the market and in turn market strategy? I’ve read a few articles about how the influx of new investors will cause more market volatility and how a lot of new investors are looking to stocks less than $5/share. I’m sure there are a lot of other things this influx will change/cause. 
+
+What might be other changes that may happen?  Do you expect this to be long term or short term?
+
+How would these criteria change your market strategy for the long and short term?_END_OF_POST_PYSTOCK_ Why did I invest in battery recycling: Neometals Reasons why:
+- EV battery recycling market expected to grow 10x
+- inflationary env. with rising commodity prices years ahead
+- small cap, with promising set of projects and patents
+- pure play just for recycling
+- targeting EU markets as this will be the biggest EV market_END_OF_POST_PYSTOCK_ How do ETFs/Index funds rebalance stocks? Obviously each ETF and Index has a certain % that is set to each stock. Is this a set % that rebalances based on a change in price? If so, how often does this happen. I doubt they would be selling instantly on a gain for rebalances. This is probably a simple answer, but it's just something I was wondering._END_OF_POST_PYSTOCK_ LAZR good or no? Give me some insight pls What it says up there. Trying to assess if that company is long or short term goal for me. Can't seem to get a good read on this company. What potential do you see in this company? I know elon shitted on this company but tbh I think he might be having a meltdown..._END_OF_POST_PYSTOCK_ Why is the stock market booming during corona and its impact on the economy? Hello all, 
+As said in the title, I am trying to understand the current situation of the economy. I am a beginner to investing and fairly inexperienced.
+Can some of you experts help me?
+I am very eager to read your comments and learn.
+Kind regards,
+Me_END_OF_POST_PYSTOCK_ If I set a buy order for X amount of GME stocks now that the market is closed, will it get fulfilled by the time it opens tomorrow? New investor with disposable income willing to risk a bit of my money on this "gamble". I missed the launch of the GME rocket - only noticed it today and since I'm brazilian, I didn't get fast  access to home brokers that would let me create an account quickly enough before the market closed.  With that being said, I managed to find a good and fast platform and all should be set now.
+
+My question is:  if I set a buy order for 10 GME stocks at $77 (closing price), will I  fulfill that order once the market is open again? If not, does it depend  on speculation and whatever the price will be at opening decides it (just as it closed at around $60 on friday and opened at $80 today)? And lastly,  would you guess the market will open at a higher cost and keep going up  or should I wait and try to buy the stocks at <$77?_END_OF_POST_PYSTOCK_ Wealthsimple? Too good to be true? Hey guys I have come seeking your wisdom. My fiance and I are fairly new to investing. My friends use qtrade and TD's investment platform. but they pay heavy fees for trading. My curiosity lays in wealthsimple as they boast $0 trading fees. Is there fees I am not seeing that I am going to get hit on? Have you had any issues with wealthsimple? Let me know! Cheers_END_OF_POST_PYSTOCK_ Big MAC Take a look at Macerich (MAC)
+88 percent of float is short
+High end mall owner and town center 
+Unfairly beaten by shorts during the pandemic before the pandemic was paying 3.00 a share dividend 
+Coming out of the pandemic as the malls open this should surge through the short interest
+This could be weeks to cover 
+Real assets , real company 
+It should get back to 50 Plus 
+Even way above that if a real squeeze starts 
+With a small float this could be a triple bagger and_END_OF_POST_PYSTOCK_ Options; Buy to open , sell to close Hello, 
+
+Trying to understand options as I am new to them.
+
+Bought my first call on a stock expiring on Friday ( buy to open )
+
+Call did not expire on Friday when market opened.
+
+Bought a "sell to close" for same stock to close position.
+
+&#x200B;
+
+I have to close my positions every week? I thought they expire? 
+
+I know they expire worthless but do I still have to close the position? ( extra trading charge )_END_OF_POST_PYSTOCK_ Can someone explain this Dupont exchange offer? Looks like Dupont is spinning off their Nutrition & Biosciences (N&B) division, and shareholders have the option of exchanging their Dupont shares for N&B shares at the rate of $100 of Dupont for $107.53 of N&B. N&B shares will then be exchanged 1-1 for shares of International Flavors & Fragrances (IFF). So IFF is buying Duponts N&B division?
+
+
+At first glance it seems like this is free money. But then there is some language that you aren't guaranteed the full amount if too many people elect to take the exchange offer? And I could end up with shares worth less than before if we do?
+
+
+I'm not sure what to do. I don't fully understand what happens if I do nothing, or what happens if I take the offer. Any help appreciated.
+
+I copied my brokerages notice below for reference.
+
+--------------------
+"
+ Offer terms
+
+Latest Update:01/05/2021 2:18 PM ET
+CUTOFF DATE: 01/28/2021 7:00 PM ET
+EXPIRATION DATE: 01/29/2021 3:00 PM ET
+WITHDRAWAL DATE: 01/28/2021
+
+DuPont de Nemours, Incorporated is offering to exchange all of the outstanding 
+shares of Nutrition & Biosciences, Incorporated (N&B) Common Stock, for shares 
+of DuPont Incorporated Common Stock, at a final exchange ratio to be           
+determined. The offer will be subject to proration.                            
+                                                                               
+The exchange offer is designed to provide shareholders an opportunity to       
+exchange their shares of DuPont Common Stock for shares of N&B Common Stock,   
+which will convert into shares of IFF Common Stock at a 7% discount to the     
+per-share value of IFF common stock.                                           
+                                                                               
+For each $100 of DuPont Common Stock accepted in the exchange offer, you will  
+receive approximately $107.53 of N&B Common Stock, subject to an upper limit of
+0.7180 shares of N&B Common Stock per share of DuPont Common Stock.            
+                                                                               
+Upper Limit: If the Upper Limit is in effect, you may receive less than $107.53
+of N&B stock for each $100 of DuPont stock. Based on the average DuPont price  
+and average IFF price you could receive much less. The exchange offer does not 
+provide for a lower limit or minimum exchange ratio.                           
+                                                                               
+If the upper limit is in effect, then the exchange ratio will be fixed at that 
+limit, and you will receive 0.7180 shares of N&B Common Stock per share of     
+DuPont Common Stock.                                                           
+                                                                               
+IMPORTANT: Immediately following consummation of the exchange offer (and, if   
+necessary, the spin-off), Neptune Merger Sub I, Incorporated, a wholly owned   
+subsidiary of IFF will merge with and into N&B, whereby the separate corporate 
+existence of Neptune Merger Sub I, Inc. will cease and N&B will continue as the
+surviving company, and a wholly owned subsidiary of IFF. In the Merger, each   
+share of N&B Common Stock will be converted into one share of IFF Common Stock 
+common stock. Accordingly, shares of N&B common stock will not be transferred  
+to participants in the exchange offer: such participants will instead receive  
+shares of IFF Common Stock in the Merger. No trading market currently exists or
+for shares of IFF Common Stock.                                                
+                                                                               
+The final calculated per-share value of DuPont Common Stock and N&B Common     
+Stock for the purposes of calculating the exchange ratio will be equal to:     
+                                                                               
+  1. With respect to DuPont Common Stock, the simple arithmetic average of the 
+     daily volume-weighted average prices ("VWAP") of DuPont Common Stock on   
+     the New York Stock Exchange (the "NYSE") for each of three consecutive    
+     trading days ending on and including the third trading day preceding the  
+     expiration date of the exchange offer period (the "Valuation Dates"), as  
+     reported by Bloomberd L.P. through the Price and Volume Dashboard for     
+     "AQR."                                                                    
+  2. With respect to N&B Common Stock, the simple arithmetic average of the    
+     daily VWAP of IFF Common Stock on NYSE for each of the Valuation Dates,   
+     as reported by Bloomberg L.P. through the Price and Volume Dashboard for  
+     "AQR."                                                                    
+                                                                               
+The final exchange rate will be announced in a press release to be issued 11:59
+p.m., New York City time, on January 27, 2021, unless the offer is extended or 
+terminated. It will be based on the per share values determined by the average 
+of the daily volume-weighted average prices (VWAPS) for DuPont and N&B for the 
+three consecutive trading days ending on and including the second trading day  
+preceding the expiration date of the exchange offer, currently expected to be  
+01/26/2021, 01/27/2021 and 01/28/2021.                                         
+                                                                               
+The final exchange ratio, when announced, and a daily indicative exchange ratio
+are available at:                                                              
+                                                                               
+www.dupontexchangeoffer.com                                                    
+                                                                               
+Holders are encouraged to monitor the above website for up to date indicative  
+exchange ratios and supporting offer documents, including the "Question and    
+Answer" section of the Prospectus beginning on the 9th page.                   
+                                                                               
+ODD-LOTS: Please note that this offer has an odd lot preference. Holders of 99 
+shares or less will be accepted in full prior to proration. A holder's entire  
+position must be tendered to qualify for this preference.                      
+                                                                               
+CONDITIONS: DuPont is not required to complete the exchange offer unless       
+various conditions are satisfied or, where permissible, waived, before the     
+expiration of the exchange offer, including that the shares of IFF common stock
+to be issued in the Merger have been authorized for listing on the NYSE.       
+                                                                               
+FRACTIONAL SHARES: fractional shares of IFF common stock will not be           
+distributed in the exchange offer: instead, you will receive cash in lieu of   
+fractional shares.                                                             
+                                                                               
+The offering documents are scheduled to be sent to you if you held these shares
+as of the close of business on 12/28/2020.
+"_END_OF_POST_PYSTOCK_ MAC-88 percent of float short!! Can be as strong as gme 
+High end/most exclusive mall and town center owner 
+Was a 50 plus dollar stock with a 3.00 dividend
+Was overrun by shorts in the pandemic
+The short interest would take weeks to cover 
+Simon property tried to buy at 95 a share three years ago
+Tremendous asset value 
+Time to go for a BIG MAC_END_OF_POST_PYSTOCK_ Prospects of Intel going foward I'm currently interested in opening up a small position in Intel. However, it is a highly debated stock and I would like to hear corresponding arguments coming from Bull and Bear.
+
+Intel currently has a revenue of $80 billion which is bigger than Nvidia and AMD combined. The delays in production of newly advanced nodes is beginning to hurt Intel. Intel currently announced a new CEO to change the management around and hopefully get things back onto track. This , however,  will take several quarter if not longer to implement. But Intel still has growth story in it's' datacenter and MobileEye division. What do you think of Intel as a turn around play?_END_OF_POST_PYSTOCK_ What are some of the best cash cows value companies right now? I'm currently looking to invest into cash cow companies that have a high and sustainable FCF yield with some sort of growth story. Currently I have CVS, INTC, IRM on my watchlist. I was thinking of adding IBM onto the list as well but I'm not sure how sustainable FCF would be in the future with stagnant business prospects  looking forward. Suggestions and comments?_END_OF_POST_PYSTOCK_ Should I get shares in NOK or BB? Both are doing pretty well, and are being pumped by WSB. I'd post this on WSB, but they make you wait a month before you can post. Also, Is it better to buy when the market is closed, or buy after the market opens when it dips? I looked at a graph for BB and as soon as it opens it's really high, and then it dips. Thanks._END_OF_POST_PYSTOCK_ Beware the fed model Thought I would share this analysis with r/investing.
+
+Markets have gone up stunningly fast one thing mentioned by commentators is that interest rates are super low. In fact, interest rates and valuations typically move in opposite directions.
+
+But that doesn’t mean you SHOULD invest when interest rates are low. 
+
+A regression of long term interest rates and 10 year S&P 500 return observations finds that you’re more likely to have better returns when interest rates are higher (https://ibb.co/LCNCqxd)_END_OF_POST_PYSTOCK_ If I put in an order for a stock well after market close (weekend) and stock goes up before open my order will not be fulfilled at that original price correct? Are there any exceptions to this, say from aside, buying something on another market like in Europe?  Is there a way to buy an option at the current listed market price?  Or as a pleb am I at the mercy of my main (NYSE) markets opening?
+
+I'm curious OFC because I made the mistake of ordering something after market and ended up buying a premium much more than I would have liked, thankfully just invested peanuts._END_OF_POST_PYSTOCK_ Egalitarian Investing? I have been searching the web and I came across a website named Launchpool. According to its description:
+
+Egalitarian Investing
+
+**Launchpool** believe all project stakeholders are as important as each other. Investment funds and communities should work side by side on projects, on the same terms, towards the same goals.
+
+**Launchpool** harnesses their strengths, and aligns their incentives, so that the sum is greater than its constituent parts
+
+This seems to be a great and promising idea in investing. Has anyone of you considered joining their community? I need your thoughts about this. Thank you!_END_OF_POST_PYSTOCK_ Opinions on renewable energy Hi guys. What is your opinion on the renewable energy trend? Do you think it will keep going or are we going to experience something like the IT-bubble again? Renewable energy is the future but at the same time it has spiked incredibly fast in last year. Just looking to open up some discussion_END_OF_POST_PYSTOCK_

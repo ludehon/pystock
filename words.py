@@ -217,6 +217,7 @@ class wordFreq:
         if(len(toLookAt) > 0):
             df = df[toLookAt]
         df = smoothDF(df)
+        print(df)
         ax = df.plot.line()
         ax.set_title("Word trend by day " + str(size) + "/")
         ax.set_ylabel("occurence")

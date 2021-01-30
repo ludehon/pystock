@@ -1,0 +1,1345 @@
+ A brand new account just sent me a DM and asked me to share the next secret trade that we wanna push... Mods, is there a way to report these kind of new accounts? This was the whole message:
+
+"Hi, it might sound stupid, but I have a question for you.
+I am aware of how trading works and I have heard at the news about what happened with GameStop.
+My question is: I want to get involved in this as well, I know how to do it, but when do we find out what's the next company who has short big bets against it so we can buy shares? Should I follow the new posts on this wallstreetbets channel?
+If you could please let me know what should I follow so I can buy shares in the next one, if you know what I mean.
+Thanks"_END_OF_POST_PYSTOCK_ 30 Seconds From Triggering Market Nuclear Bomb I'm glad this place has quieted down enough for some actual DD written by a monkey with a keyboard and Adderall.  
+
+Disclaimer: I am that monkey.  Let me explain to you what happened, play by play.  I will give you illiterates who hate reading a spoiler up front: 
+
+__We were within approximately 30 seconds of triggering a nuclear bomb that would have blown up the market.__ Do I have your attention?  Here goes:
+
+1.	⁠Yesterday, new call option strike prices were added all the way up to $570.  Do I have to go over gamma squeezes again?  Really?  We've been over this: when deep out-of-the-money call options start being gobbled up and the price starts moving towards being in-the-money, the call writers have to hedge their risk of having their sold calls exercised, typically by buying stock.  This creates upwards pressure on the market.  We've been seeing these movements all week.
+2.	⁠Yesterday after market, you probably saw that coordinated effort to drive the price down and spook retail investors into a mass sell-off.  It didn't work.
+3.	⁠Last night, Robinhood sent out a message to users: you could no longer enter into new options.  You could exercise them if you had the collateral (money in the account) to do so.  Very interesting and the first sign of pants-shitting fear.
+4.	⁠Today, the market opened very strong.  It opened so strong that we were looking at a self-perpetuating gamma squeeze all the way up way past $570.
+5.	⁠At approximately 9:58 am, the stock had reached $468 in a parabolic move.
+6.	⁠Two minutes earlier, at 9:56 am, Robinhood tweeted that they were not allowing users to buy GME stock, but they would allow selling.
+7.	⁠The trend instantly halted and started a collapse downwards, before picking up a bit, especially after some retail was allowed back in.
+
+Okay, now that you are clear on the facts, understand this: The market ran out of liquidity today, or was threatening to get close enough that they killed it.  What does that mean?  It means they ran out of shares and/or capital. They wouldn't let you buy new shares because we were burning through all the shares on the market.  
+
+__I saw an unsubstantiated post from a user ([u/zshub](https://www.reddit.com/r/wallstreetbets/comments/l7bpf5/30_seconds_from_triggering_market_nuclear_bomb/gl5vgof/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf&amp;context=3)) who said a market sell order executed at $2600 for him.  Also, someone else for over [$5,000](https://www.reddit.com/r/wallstreetbets/comments/l7em07/coworker_had_a_limit_executed_of_a_little_over/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) per share. Do you get the severity of the situation, if that's true?__ It means the buying was getting to the point where it was just about to put INFINITE pressure on the price of the shares.  It means virtually any ask was getting bid.
+
+How do you get infinite upwards pressure?  A gamma squeeze triggering the mother of all short squeezes, just like we predicted.  The call writers need shares to hedge.  Retail is still buying more.  The short sellers need over 100% of the float back.  Add these together.  There were more shares needed than existed on the open market.  That's what a liquidity crisis is.
+
+[Listen to this ](https://youtu.be/7RH4XKP55fM)to this remarkable (if infuriating) interview where the chairman of Interactive Brokers admits that they didn't have the capital to pay out the winners (us), so they took their ball and went home.  DO YOU GRASP HOW INSANE IT IS THAT HE SAID THEY NEEDED TO SHUT DOWN BUY ORDERS TO "PROTECT THE MARKET"? Hello!  He's not talking about the market for GME shares.  He's talking about the entire market!  The New York Stock Exchange.  The NASDAQ.  All that.
+
+Remember the movie Snowpiercer?  Do you remember that scene where the lower class people realize the soldiers who oppress them have no bullets?  Go to the 1:00 minute mark of this link: https://www.youtube.com/watch?v=EH1EtiOhr6o
+
+It kick starts a full blown rebellion.  They have no bullets.  It's the exact same in this market:  No capital.  No shares.  Infinite losses inbound.
+
+__TL;DR: For all you who will just skip to the bottom to ask, "Do I get my tendies now?" the answer is this: they NEED NEED NEED your shares.  Do you get that?  HOLD.  Like the guy in the movie, scream, "They're out of bullets!" and create a stampede.  That's how we win.__
+
+They needed your shares so badly that they literally risked PRISON TIME to get them.  They tried robbing you, and I'm not even exaggerating.  They were within 30 seconds of all being wiped out today.
+
+Credit: u/PlayFree_Bird_END_OF_POST_PYSTOCK_ New York Attorney-General “reviewing” Robinhood blocking the buying of GME _END_OF_POST_PYSTOCK_ RH review that aged like milk. Also they appear to have a high rating in the App Store... _END_OF_POST_PYSTOCK_ To the soon-to-be millionaires: I encourage you to reflect on the situation ahead, before the inevitable windfall comes and alters your mind. Some might call this manifesting, but I call it hedging against the lottery-curse. (I’m not even going to tell you to hold or not, because it’s so painfully obvious what to do...🚀)
+
+Many of us are about to witness the greatest redistribution of wealth in modern history by the end of this quarter, or as soon as end of next week. Many of us will benefit. Many of us will become millionaires.
+
+Before the bills (and taxes) get paid, the luxuries get bought...before the strippers test negative for COVID... take a look across your spheres of influence. 
+
+I’m not saying to start throwing fun coupons at people (seriously, you probably shouldn’t tell anyone of your gains). But there’s probably family members, friends, coworkers, or neighbors in your community that have/are suffering deeply from the pandemic, just as you have. They’ve been carrying on, business as usual, rolling with the punches. Corporate America and the Government hasn’t been looking out for the hard-working folks. Maybe you can, at least for a moment.
+
+There’s so many ways to uplift those around you or your community. It could be a financial donation to a charity or community initiative, but maybe not. Hell, the extra time that comes with your early retirement could be spent just checking in on people in your community...see how their doing, connect them others, bake them a fucking cake...be a good human to other humans. 
+
+The pandemic has hurt a lot of people, financially, physically, and mentally. 
+
+It’s one thing to YOLO your life savings and beat the system. 
+
+It’s another thing to YOLO your time and energy to alleviate the damage caused by system. 
+
+
+
+...
+
+
+Then back to business as usual; $ELY in Q2. 🚀🚀🚀⛳️🏌️‍♂️
+
+Edit: I hope Gabe Plotkin is my caddie.
+
+Edit 2: Seriously, don’t risk $ you don’t have plz. Debt sucks.
+
+Positions: 
+GME shares @ $28, 4/16 $30c
+
+ELY shares @ $27 2/19 $30c
+
+(Not financial advice. Invest at your own risk. Scared money doesn’t make money)_END_OF_POST_PYSTOCK_ Remember Who They Are TL/DR: [blacklist & whitelist](https://docs.google.com/spreadsheets/d/1eDXff5R8Njgk8ygNxyjamHS6brUxK7VsRCcmeNzn0lM/edit?usp=sharing)
+
+I know there's a list going around of who currently (at least throughout the trading day) allows trades, and that's a huge help! Moving forward though, I think it's very important we remember where these companies stood. A few hours ago I [made a post](https://www.reddit.com/r/wallstreetbets/comments/l784j2/it_doesnt_matter_who_ends_their_restrictions_on/?utm_source=share&utm_medium=web2x&context=3) arguing that we need to record who restricted trading *at any point during the trading day*. After that post got some good feedback (thanks everyone who commented) I went ahead and made a [preliminary google doc sheet listing these companies](https://docs.google.com/spreadsheets/d/1eDXff5R8Njgk8ygNxyjamHS6brUxK7VsRCcmeNzn0lM/edit?usp=sharing). By request, I'm making the post so more people could have the chance to see the link.
+
+If you'd like to have companies added to it, please leave a comment in the cell you believe it should fall under. I'll check this from now through at least the weekend and make updates._END_OF_POST_PYSTOCK_ Milton Friedman - Enemies of the Free Market | A Tale as Old as Time _END_OF_POST_PYSTOCK_ PA Attorney General Josh Shapiro sides with WSB _END_OF_POST_PYSTOCK_ Bullish thesis for Taiwan Semiconductors Manufacturing Semiconductor demand is off the charts right now. TSM is getting more orders than they can fill.
+
+One of the concerns with foundries, from a fundamental perspective, is the potential that the high capital costs with expansion can cause the foundries to be underutilized during periods of dormancy in demand. Which historically may have been true, but as we surge forward as a society technologically, semiconductor demand will only increase and increase and increase with time...computing demands, graphics, autos, IoT, everything...TSM has a wide lead with HUGE barriers to entry with foundries.
+
+Bullish checklist:
+
+1. Incredible demand for semiconductors, unlikely to dwindle soon.
+
+2. Monopoly on market share (54%) / world leading production capacity.
+
+3. partnerships with the best fabless firms, apple, amd, nvda, etc.
+
+4. industry leading in technological advancements - ahead of the game on 7nm, 5nm, 3nm, and 2nm r&d
+
+5. not significant antitrust risk as they focus purely on manufacture of semiconductors and have not been trying to buy out other biz
+
+The main risks imo are below:
+
+1. geopolitical risk, literally getting caught in a war/raid between china/us in the semiconductor arms race. & 
+
+2. intellectual property theft. Something that I don't think would fatal to them considering the barriers to entry with semis.
+
+https://www.scmp.com/tech/innovation/article/3118183/tsmc-gears-mass-production-3-nanometre-chips-high-end-computers-and
+
+https://www.reuters.com/article/us-tsmc-autos/tsmc-expediting-auto-products-amid-chip-shortage-idUSKBN29X03F
+
+https://www.ft.com/content/13094950-fb45-4686-9ef9-8199c674b90d
+
+Links for your own research. Position: TSM shares + 7/16/21 145c_END_OF_POST_PYSTOCK_ Most Useless Ad of All Time - GME _END_OF_POST_PYSTOCK_ Statement from Robinhood on their absolute fuckery 
+An update on market conditions
+
+Hi Retard,
+
+It’s been a tough day, and we’re grateful to you for being a Robinhood customer. In light of the extraordinary market conditions this week, we temporarily limited buying for certain securities this morning. Starting tomorrow, we plan to allow limited buys of these securities. We’ll continue to monitor the situation and may make adjustments as needed. 
+This was a temporary decision made to best continue serving you, and was not an easy one to make. We know it’s led to frustration and confusion, and wanted to provide some clarity.
+
+As a brokerage firm, we have many financial requirements, including SEC net capital obligations and clearinghouse deposits. Some of these requirements fluctuate based on volatility in the markets and can be substantial in the current environment. These requirements exist to protect investors and the markets and we take our responsibilities to comply with them seriously, including through the measures we have taken today.
+
+To be clear, this decision was not made on the direction of any market maker we route to or other market participants.
+The past year in particular has shown us that the financial markets are for everyone—not just institutional investors and hedge funds. We’ve seen a new generation enter the market, and they’re sparking conversations about what it means to be an investor. We stand in support of you, our customers. Democratizing finance for all means giving more people access, not less.
+
+We’ll keep monitoring market conditions and will update this Help Center article with the latest changes. We also published a blog post regarding today’s events.
+
+Thank you again for being a Robinhood customer. We’re so grateful for your support.
+
+Sincerely,
+
+The Robinhood Team_END_OF_POST_PYSTOCK_ Gabe Plotkin Discusses Bouncing Back From Failure _END_OF_POST_PYSTOCK_ Not sure if anyone posted this here, but yikes _END_OF_POST_PYSTOCK_ Foxx is saying that what Reddit is doing is illegal and that Robinhood is only doing what it is to avoid an investigation. [Of course it'd be Fox](https://www.google.com/amp/s/www.foxbusiness.com/markets/robinhood-lawsuits-gamestop-amc-restrictions.amp) The "illegal touting" from Reddit is why Robinhood closed the stocks he says. Last I checked, anyone can just leave the subreddit if they feel like they are being pestered, so where is the touting here? Fox trying to defend this actions is disgusting, and even if what they said was true, you aren't allowed to break the law to avoid an investigation for you breaking the law.
+
+Edit: Changed the link to make the formatting work. Also, it could just be the reporter from the video saying it, but it's still a crock of shit._END_OF_POST_PYSTOCK_ I will be buying $GME shares tomorrow with the intent to hold them forever, and I hope you do to. I've had many proud moments within this community but this current moment will forever be my proudest. By identifying a blatant inefficiency within the market, you all have exposed a corrupt financial system for the entire world to see. And it was all done in a non-violent, civil, and legal manner.
+
+Unfortunately, we will be the ones who face the consequences. I am not disillusioned, I do believe we will ultimately lose this battle because it is banks, hedges, firms, politicans, billionaires, and corrupt regulatory organizations that we are up against. Tomorrow as a personal protest, I will be buying shares of GME that I plan on holding until the day I die. My hope is that many around the world will join me, and this will not only push $GME up to $5,000 a share, but also forever turn $GME into an international symbol of what can be accomplished when the little investor gets tired of being fucked. You did good autists, you did good. 
+
+$GME 5000C 01/29_END_OF_POST_PYSTOCK_ Saying we should have known the risks is disingenuous Saying we knew the risks is disingenuous. 
+
+When buying a stock you shouldn’t have to anticipate a clearly co-ordinated worldwide effort to block the buying of GME and other stocks on all brokerages. 
+
+I’m in the U.K. and tried to buy on, trading 212, Revolut, Hargreaves Lansdown and eToro, none of them would allow me to buy. 
+This was clearly arranged, how can we be expected to believe that they all just decided to do it at the same time independently. 
+(Revolut have since allowed me to buy, but only after the price had gone rapidly down) 
+And the fact this wasn’t just in the U.K. and the platforms I was trying to use, the fact that buys were blocked across the globe shows me that it was a concerted effort to drive the price down; clearly it was decided that if no-one can buy then the market will just build up sell orders. 
+
+It’s changing the rules whilst the game is in play and so totally ridiculous to claim that it was a risk we should have been aware of when buying. 
+If it’s a risk we’re supposed to be aware of then how can anyone have faith in that system. 
+
+The scary part about this is it was not done in secret, nor has any real noteworthy attempt to hide what’s been done taken place. 
+
+It’s out in the open, as if they don’t care that we all know they have done this. 
+I think that’s almost the worst part about it all. When their behind the scenes underhand methods didn’t work, they just came out in the open and did it in front of everyone, acting as though they are immune to any repercussions. 
+
+I don’t have any faith that they will face any real repercussions from their actions. 
+
+So I feel it is up to the people in the markets to act so they feel the repercussions. 
+
+Certainly buying shares like GME where possible now could help in the short term. 
+Decentralised exchanges might be a good way to go in the longer term. 
+
+I have no doubt many might disagree but the weird internet coins or the blocks and chains foundations could help in some way pull control out of their hands and back into the masses. Although no doubt they would find ways to take as much of it back. 
+
+I did start writing this as a small reply, and just to this post, but I think I will copy it and put it up in other places. I hope anyone who might be see this again doesn’t mind. 
+
+I knew the risks when buying these shares, but this wasn’t a risk I believe I should have had to consider._END_OF_POST_PYSTOCK_ ATTACK ON MELVIN (Full vid w/ audio in comments) _END_OF_POST_PYSTOCK_ To Melvin Capital, CNBC, Boomers, Point72 and cramer, you want to know how we get our tendies? _END_OF_POST_PYSTOCK_ List of Brokerage Firms that are engaging in market manipulation Alright folks, let's be honest with ourselves here. What we DON'T KNOW is how everything is going to play out over the coming days/weeks. What we DO KNOW is that there are brokerages actively engaging in market manipulation, right now, today. 
+
+I don't know about you, but I'm tired of being the one who pays the price for their bullshit. When the dust has settled, and all is said and done, I don't want to work with a brokerage that actively chose to fuck over their client base. 
+
+So, let's get a list going...
+
+During this epic short squeeze, if your brokerage has restricted your ability to buy or sell stock in any publicly traded company using your own money (not on margin, because that's their money) - post the name of the brokerage AND the ticker for the stock you were not able to buy/sell. Based on your posts we can make a list of "Brokerages to Avoid" (or transfer out of).
+
+@Mods - I know you've been tasked with a lot over these last couple of weeks. If a thread like this already exists, feel free to delete this post.
+
+Edit:
+Here's the start of the list. Comments are coming in faster than I can keep up with, but I'll be updating the list over the coming hours/days/etc...
+
+**Restrictions**
+
+* Robinhood ($AAL, $AMC, $BB, $BBBY, $CTRM, $EXPR, $GME, $KOSS, $NAKD, $NOK, $SNDL, $TR, $TRVG)
+* Trading 212 ($AMC, $GME)
+* Etrade ($AMC, $GME)
+* Ally Bank ($GME, $AMC, $GTC)
+* IBRK ($GME, any others??)
+
+**No Restrictions (yet...)**
+
+* Fidelity
+* Vanguard (?? can anyone confirm)_END_OF_POST_PYSTOCK_ Exercised 1600 shares and made a 🌈🐻 bend over for $350k. I liked the options, but i really like the stock. 🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ $GME $AMC to the moon. Also, RobinHood sucks. _END_OF_POST_PYSTOCK_ DIAMOND HAND TO VICTORY! _END_OF_POST_PYSTOCK_ I think they just made us more mad. How many of you are buying as soon as it opens back up? _END_OF_POST_PYSTOCK_ Don’t let them win. This is popping off even on the local news. This represents something now, even to people who don’t invest. Don’t let the bots and hedgefund boys club on CNBC deter you. We caught them overplaying their hand and now they want to call time out? Hell no.
+
+We can beat them. Y’all have actually held hard enough to keep it afloat. Special props to the 💎🐳 in here. Keep making a statement with your actions. I don’t have much but I’m willing to watch it drop to 0 before I give up. 
+
+Big or small, let’s 💎🤚
+
+Let’s beat them at their own game. Proud of y’all 🚀_END_OF_POST_PYSTOCK_ Robinhood to allow limited buys starting Friday (tomorrow) Screenshot of WSJ article: https://i.imgur.com/VtL8PS7.jpg and the article itself: https://www.wsj.com/livecoverage/stock-market-gamestop-amc/card/nijNL7lMi2VTzHDkm9HX
+
+Robinhood posted in their blog [here](https://blog.robinhood.com/news/2021/1/28/an-update-on-market-volatility) - it's a bunch of BS, they could've circumvented by just blocking margin purchases. Instead they chose to solely allow sells. In spite of their "Let the people trade" schtick, in crunch time we learned that we're their product, and the institutions are their customers. Volatility has never prevented them from offering cryptocurrency.
+
+"Limited buys" is even worse, since it makes it seem like the stock is underperforming, while producing the illusion that there isn't a reason it should be. Last I looked, that is textbook manipulation, especially for a broker to be controlling the price, direction and volatility of a stock.
+
+Game plan, buy $GME, $AMC or everything else on a broker that is NOT Robinhood or WeBull. Cashapp (like Venmo and has instant deposits) or Fidelity (1-2 business days to transfer funds - so Tuesday 👎) is intuitive, large and disassociated enough from these hedge funds and didn't limit or block these trades entirely today.
+
+TL;DR 🚀🚀🚀🚀🚀🚀🚀🚀🚀_END_OF_POST_PYSTOCK_ Let’s Make This Saturday, 1/30, GME Gets Tendies Day. Reposting this comment for u/Abaird10 since they don’t have enough karma to post and I think it’s an awesome idea. I myself have got 333 shares in GME. To the moon 🚀
+
+GME GETS TENDIES DAY - 1/30
+
+THIS SATURDAY AT A GAMESTOP NEAR YOU
+
+Markets are closed and your wife is out with her boyfriend. YOU SHOULD BE AT A GAMESTOP. BRING 1 FRIEND. SPEND $50 EACH AT YOUR LOCAL GAMESTOP. BUY WHATEVER HELPS YOU SIT ON YOUR 💎 🙌 FILLED WITH GME SHARES FOR THE FORESEEABLE FUTURE.
+
+Those paper hands will grow into little baby diamonds when pictures of every GameStop nationwide COMPLETELY SOLD OUT OF INVENTORY shows up on the 6 o’clock evening news. DOES THAT LOOK LIKE A COMPANY THAT DESERVES 240% SHORT INTEREST?
+
+This does multiple things:
+
+1.	⁠Reinforces that WE LIKE THIS STOCK
+2.	⁠Gives back to the company that enabled this movement, literally adding to their bottom line.
+3.	⁠Breaks down the short thesis
+4.	⁠Weakens the hedge funds thinking that they can outlast us
+5.	⁠Turns this “bubble” into a solid concrete foundation for 🚀🚀🚀
+
+The BEST part about all this: 1/30 is literally the last day of their 2020 fiscal year. I can’t do math but 4.6 million degenerates x $50 = a lot of tendies for GME’s next financial statement.
+
+Completely unrelated: Used game inventory has the highest margins which go straight to the bottom line. Spyro = 🚀🚀🚀
+
+SET AN ALARM - MARK YOUR CALENDARS - MAKE THIS GO VIRAL
+
+GameStop Saturday hours: Noon - 8pm
+
+Disclaimer: I’ve barely slept in 4 days, have no idea what I’m doing and should probably get out of the house this weekend.
+
+2nd disclaimer: I’ve lurked for 9 years without a single post or comment. This movement FINALLY made me feel something. Pls go EZ it’s my first time.
+
+Pos: 100 shares at $90 and buying more
+
+🚀🚀🚀🚀🚀GME🚀🚀🚀🚀🚀🚀🚀_END_OF_POST_PYSTOCK_ THE NUMBERS BEHIND A POSSIBLE SQUEEZE TOMORROW Not even counting that Gamestop is currently at $261 in the aftermarket, at the closing price of $193.60, there are **roughly** 40,000 call contracts expiring in the money tomorrow. Anyone currently holding those contracts will execute tomorrow which translates to shorts HAVING TO BUY 4 million shares of Gamestop on Friday. Gamestop only has a total of 46 million shares available to trade and a large percentage of that is being held by us retail investors and other entities (IDK how many shares exactly maybe someone could help on that). This translates to a relatively large percentage of the tradeable shares having to be bought tomorrow and the potential start of a short squeeze.
+
+&#x200B;
+
+Bottom Line: As long as the price of GME stays above $193 tomorrow, shorts will HAVE TO buy 4 million shares of GME. The only thing that could prevent this is manipulation.
+
+&#x200B;
+
+TL;DR - If the current price holds, lots of buying will have to happen on Friday no matter what. This could trigger a potential squeeze starting tomorrow.
+
+&#x200B;
+
+&#x200B;
+
+All numbers pulled from:
+
+[https://finance.yahoo.com/quote/GME/key-statistics/](https://finance.yahoo.com/quote/GME/key-statistics/)
+
+[https://finance.yahoo.com/quote/GME/options/](https://finance.yahoo.com/quote/GME/options/) 
+
+&#x200B;
+
+  
+Don't sue me, I am not a financial advisor. Trade at YOUR OWN RISK and DO YOUR OWN RESEARCH.
+
+&#x200B;
+
+\-🚀  🚀  🚀_END_OF_POST_PYSTOCK_ NVAX clinical trial data 🚀 🌙 NVAX is way up in after hours upon reports of ~90% efficacy. Congrats to all who bought calls and shares. 
+
+This is the first protein based vaccine showing phase III data. The release looks good. 89% effective overall, yet only 50% effective in Phase Iiish study in South Africa implying reduced efficacy against S African variant. It is 85.6% effective against UK strain. 
+
+This is good news for increasing the vaccine supply worldwide. It is troubling news for the state of the pandemic. The S African and Brazil variants sharing the E484 mutation have the potential for antigenic escape. This means they may be able to cause reinfection in some people previously infected with the Wuhan variant. The vaccines may become less effective as they continue to mutate. 
+
+It’s becoming reasonable to expect that we will need booster vaccines for the new variants at some point. MRNA vaccines (Moderna & Pfizer)  can more quickly be adapted to these variants than a protein vaccine like NVAX. 
+
+I would also keep my eye on a vaccine from City of Hope that codes for expression of both spike and nucleocapsid  proteins. I believe it’s in phase II trials. This bivalent vaccine offers a good chance of resisting antigenic escape by new variants. 
+ 
+This is an all out race to vaccinate as many people as possible before the virus mutates too much. We need as many vaccine doses as we can get so I’m optimistic that UK regulators will approve NVAX on their strong data. 
+
+Overall, I’m long MRNA due to better supply chain logistics and ability to quickly adapt to new variants by creating a booster or V2 formulation that encodes for multiple spike variants to protect against emerging strains. 
+
+I anticipate further travel restrictions globally as the danger of these mutants becomes more clear.  
+
+Remember that MRNA 🚀 🌙 on phase III data but declined on FDA emergency authorization. 
+
+Positions: MRNA and NVAX shares.
+
+Not a financial advisor, just a smooth 🧠 🦍 using his wife’s boyfriend’s trading account._END_OF_POST_PYSTOCK_ What if noone sells for 1 month? Hear me out 1 min.
+
+1 - If nobody sells, this can practically go on forever. ( with 5.2 mil retards, we have some chance combined with the group psychology of the diamond hands )
+
+2 - If we think long term ( as in 1 month ), can't it theoretically go up to 1 million per share? 10 million? 100 million?
+
+**What if we uno reverse card** and reverse the 2008 play?
+
+What if instead of thinking %500, %1000 gains, we think of %10000000 gains?
+
+**What is stopping us from holding it forever and creating the greatest re-distribution of wealth in human history?**
+
+&#x200B;
+
+I know, in game theory, the other one bails out and he gets out for free meanwhile the other one takes 10 years in prison ( taking profit vs diamond hands ). But the game theory, the economic theory, THE WHOLE FINANCIAL SYSTEM is set up upon the "homo economicus, the always logically behaving human". And I think that's why we've had massive success, because the GME play is completely against what the wall street fund managers studied from their textbooks on their Harvard MBA.
+
+( well they shorted %130 so it's basically market correction )
+
+&#x200B;
+
+I know we will do jokes in the comments, but we must really think about it, this can spark a revolution, for real for real for real. And will grant us the volume for the future.
+
+&#x200B;
+
+Thank you, looking forward to your ideas.
+
+&#x200B;
+
+**TLDR: If nobody sells, it goes to infinity per share, greatest wealth distribution in history. I'm a retard.**
+
+&#x200B;
+
+**Last Note: Hey SEC boi. We like the stock.**
+
+&#x200B;
+
+**very last edit** : this is no form of financial advice. i like the stock and none of this should be regarded as a form of direction. its just a brainstorm. i'm a regular retard from turkey. thank you america._END_OF_POST_PYSTOCK_ Never been so happy about a 50% loss, and never cared less. Idgaf if u all drive GME back to $3, my kids are inheriting these 60 shares as a keepsake, and a badge of fucking honor. Its principal for me. _END_OF_POST_PYSTOCK_ Possible way Melvin, Capital, Point72 come out of this fine and possible make money while triggering another recession. Business Management guy with a very smooth brain here.  
+
+TL:DR some stuff happens maybe 
+
+**So what was today?**
+
+
+Today was them(Melvin, Capital, Point72) pulling all the tricks in the book and winging some new ones to weasel out. So how did they do it? 
+
+
+**Step one**: Let it ride a little bit. It was in national news yesterday and everyone was talking about. Let some more retail come in and buy some shares at a high price. 
+
+**Step two**: prevent buying from the popular and visible E-trading platforms. 
+
+**Step Three**: Short ladder and sells shares to each at low prices. Induce a panic sell and short ladder the rest of the day. Paperhands who just bought panic and sell. 
+
+**Step Four**: Lower exposure. Dump as many short as you can onto other smaller hedges not in the club(especially the ones that mimic their positions). Buy calls and shares. Remember guys they are not the only ones with a short position. The might have had a less significant position themselves. 
+
+**Step Five**: Release Robinhood buy restrictions and let the retail apes storm in. The other hedges short now how to cover, the squeeze happens. Recover your money back and even make a tidy profit. 
+
+
+
+Possible repercussions:
+
+Other **smaller** **hedges** and who ever bought this position now liquidate stocks, go insolvent, and fail. DOW SPY tank as result of sell off and Melvin, Capital, Point 72 take their share of the carcass. 
+
+(Corporate Government Union)Pensions, 401ks, and whatever hoped on the bus goes down with the ship(the small hedges they’ve invested in) too and burn value. 
+
+And you’ll hear the talking heads parrot “Reddit caused a recession” over and over again. 
+
+Except it’s the same group of dumbasses that caused the last. 
+
+
+
+
+Position: 50 @ 24.44 
+GME 🚀🚀🚀🚀🚀🚀🚀
+
+
+
+Edit: ok 3 comments and I need to clarify. **THE SQEEZE WILL SQUOZE** its just not these 3 firms at the end of the shitstick._END_OF_POST_PYSTOCK_ The narrative It is amazing that the actual narrative on CNBC etc is that a group of retail investors making money off stocks that were shorted at ridiculous levels is a problem.  
+
+Somehow the hedge fund guys involved in things like insider trading and tweet-based market manipulation on stocks they themselves are shorting (hurting regular folks invested in those same stocks time and time again) are the victims of an angry mob. 
+
+These people who short at ridiculous and leveraged levels trying to make a company go out of business and its workers be unemployed during a pandemic — these folks need protection by brokerages and by trading halts every time a stock starts to rise because of demand.  
+
+These guys with $300 million salaries per year are the unfortunate victims.  
+
+Or maybe we just need protection because we are stupid and cannot understand how the market works.  We might get hurt and need protection for our own best interest.   
+
+To be honest I think the thing that best  demonstrates we know how the market works is that we are not at all surprised by the absurdity that happened today_END_OF_POST_PYSTOCK_ Ticker Ban Resource Thread Like myself, I imagine many of you are livid at the blatant, coordinated market manipulation we witnessed today.
+
+Just as a community we have a voice, as citizens we do also.
+
+I encourage all of you to contact your representatives, file complaints with the SEC, and stay abreast of the pending class action lawsuit.  
+
+It may also be prudent to contact the investor relations departments of the companies with banned tickers to file a complaint.
+
+These actions were an egregious breach of the public trust in the markets, and those who colluded to enact them must be held accountable.
+
+Below are a list of links that will allow you to contact the appropriate parties:
+
+SEC complaint form:  [https://www.sec.gov/oiea/Complaint.html](https://www.sec.gov/oiea/Complaint.html)
+
+State Representatives: [https://www.house.gov/representatives](https://www.house.gov/representatives)
+
+House Financial Services Committee: [https://www.house.gov/committees](https://www.house.gov/committees)
+
+Class Action Lawsuit: 
+
+[https://www.courtlistener.com/recap/gov.uscourts.nysd.553175/gov.uscourts.nysd.553175.1.0.pdf](https://www.courtlistener.com/recap/gov.uscourts.nysd.553175/gov.uscourts.nysd.553175.1.0.pdf)
+
+Investor Relations:
+
+GME: [https://news.gamestop.com/home](https://news.gamestop.com/home)
+
+BB: [https://www.blackberry.com/us/en/company/investors](https://www.blackberry.com/us/en/company/investors)
+
+AMC: [https://investor.amctheatres.com/corporate-overview/default.aspx](https://investor.amctheatres.com/corporate-overview/default.aspx)
+
+BBBY: [http://investors.bestbuy.com/investor-relations/overview/default.aspx](http://investors.bestbuy.com/investor-relations/overview/default.aspx)
+
+EXPR: [https://investors.express.com/home/default.aspx](https://investors.express.com/home/default.aspx)
+
+KOSS: [https://investors.koss.com/investor-relations](https://investors.koss.com/investor-relations)
+
+NAKD: [https://ir.nakedbrands.com](https://ir.nakedbrands.com)
+
+NOK: [https://www.nokia.com/about-us/investors/](https://www.nokia.com/about-us/investors/)
+
+AAL: https://americanairlines.gcs-web.com/investor-relations
+
+# POWER TO THE PLAYERS!!!!!!!_END_OF_POST_PYSTOCK_ Need to squeeze GME if you want AMC, NOK, BB, BBBY, etc to reap the rewards. It’s the gate that’ll allow the rest in. I know everyone wants to get in on the next GME, but you guys have to realize GME is the only one with such insane levels of SI. The original DD for GME has always been its growth potential and Ryan Daddy Cohen, SI and the squeeze was just the extra icing for when we took off. 
+
+If you guys really want your AMC, BB, or whatever to moon, GME needs your full focus to break the price walls these shorters are putting up. Shilling other stocks just for the “squeeze” is  pointless when the main lead hasnt even shown the results yet. 
+
+Hold your shares and dont let go, but focus on Gamestop first because we love the stock, stock price doesnt matter, one GME going up 30% youll make same as if 10 AMC shares went up 30%, the capital you spent will always be 30% increase. 
+
+Tldr; hold all your other shares but we Love Gamestop, and that love will eventually spill to the others. 
+
+Positions: GME 4 250CFeb05, 2k BB shares, 800Nok shares. Going to buy more GME only tmr. 🚀🚀🚀🚀💎🤚_END_OF_POST_PYSTOCK_ Sequoia Denies Allegations _END_OF_POST_PYSTOCK_ Today the populous saw how the sausage is made, and inside you’ve put our hopes and dreams. Welcome to The Jungle. You’re fucked. Steven Cohen, CNBC, Melvin, Citadel, and all of your corrupt pedophile fucking friends.
+
+Read this assholes:
+
+#FUCK YOU
+
+You have no idea who you’ve awakened now. There are no bulls and bears anymore, only fucking **L I O N S**.
+
+The entire world has seen how fucking evil you people are.
+
+Congrats, you’ve made some fiat paper by dining on the fruits of our labor for decades, and throwing us the few bones you’ve licked clean.
+
+Your corruption and gluttony has been noted.
+
+Bulls make money.
+
+Bears make money.
+
+Pigs get slaughtered._END_OF_POST_PYSTOCK_ 1/29/21 - THE BATTLE FOR VALHALLA - GAMMA/INFINITY SQUEEZE Dear autist army,
+
+I know most of you cannot read so I will keep it short and sweet, and I will include a TL;CR at the bottom. I am not a financial advisor, so do what you will with this information.
+
+I am proud of every last one of you who have diamond handed until now. I really am. You are all good soldiers.
+
+Tomorrow is where we hold them! Tomorrow is where we fight!
+
+https://preview.redd.it/utpecmsxh5e61.jpg?width=320&format=pjpg&auto=webp&s=bcb3c1ba8e5ad343b233ac62da9353392bfb85da
+
+Tomorrow will go down in the history books as the "**GREAT BATTLE FOR VALHALLA**" in this Infinity War. Here is why:
+
+Similar to last week (although last week set a record in financial history where every GME call strike closed itm), **A LARGE PROPORTION OF CALL STRIKES WILL BE EXPIRING IN THE MONEY TOMORROW, 1/29/21. WE WILL SEE A GAMMA SQUEEZE LIKE LAST FRIDAY THAT WILL PUSH THIS PAST THE ATH WE SAW THIS MORNING.** I believe this could be the catalyst for the infinity squeeze. If you are a newly minted autist and you don't know what this means, it means that WE RIDE TO VALHALLA **TOMORROW!** Also, see the TL;CR below.
+
+Additionally, because of the insane national and celebrity (Elon, Ja Rule, Kanye) attention GME has received, I suspect that whales will enter the fray tomorrow with big money just to stick it to Melvin, et al.
+
+It is obvious that Citadel and Melvin coordinated their short attack with Robinhood at a time when most of us retards were powerless to buy (according to Robinhood they will allow "limited buys" tomorrow whatever the fuck that means). But do not fret my fellow tards, stay strong. They may have won the battle, but they have not won the infinity war!
+
+Today scared off a lot of paper handed autists. If this is you, I can understand why you got scared like you do when your wife's boyfriend scolds you for leaving the refrigerator opened, or for forgetting to clean the litter box. That said, I must respectfully refuse to call you one of us. You are no member of this autist army.
+
+If you are a diamond handed retard, and you have followed orders, I salute you!
+
+Kiss your wives, their boyfriends, and your children tonight, because tomorrow we go to battle.
+
+**TL;CR**: G M E 👨‍🚀💎🙌🏻🚀🚀🚀 --> 🌈🐻🔫
+
+**Positions:**
+
+https://preview.redd.it/joiwe4kzh5e61.jpg?width=1284&format=pjpg&auto=webp&s=08eb4260ec5758f9e5e80f0a32f38d0691878fbc_END_OF_POST_PYSTOCK_ People we need to archive all the data , all the pictures of forced closes for a lawsuit!!! GME 🚀 🚀 🚀 🚀 🚀 So all the articles on news, videos , forced closes, trading platforms shot down, market manipulation, unable to buy more,...  and not just in the US, but also in Europe and Asia. Because ( for example me, from Europe) yesterday i couldn't buy more shares!! Trading was going on but they just said that the trade was not possible to made. All this we can give to our friends and their lawyers in the US to help them make a good case. 
+
+This is pure market manipulation, and many boomers would say that this is the game and we can't do anything about it( this is why the world looks like this) but we should be different and smack them when they do bad things ( maybe somebody is doing this already, but not sure) . Retards everywhere unite, this fight is just starting and HOLD!!!!!    GME    🚀 🚀 🚀 🚀 🚀 🚀 🚀 
+
+### 
+
+###_END_OF_POST_PYSTOCK_ Were you blocked from trading AMC, GME - they are filing class action - see how to at the link [https://www.newsfilecorp.com/release/73102](https://www.newsfilecorp.com/release/73102)
+
+&#x200B;
+
+Levi & Korsinsky, LLP, National Class Action Law Firm, Announces  Class Action Investigation Against Robinhood and Other Brokers on  Behalf of Investors of AMC and Other Stocks Who Were Prevented from  Trading
+
+New York, New York--(Newsfile Corp. - January 28, 2021) -  Levi &  Korsinsky, LLP, a national securities law firm that has recovered  hundreds of millions of dollars for investors, announces that it has  commenced an investigation of Robinhood and other popular retail trading  platforms on behalf of investors who invested or were prevented from  investing in AMC and other stocks pursuant to trading bans on these  stocks.
+
+On January 28, 2021, customers of Robinhood and other  popular trading platforms claimed that they were being blocked from  purchasing shares of 
+
+AMC Entertainment Holdings, Inc. (NYSE: AMC) and other securities that are being heavily shorted by institutional investors.  
+
+Recently,  retail investors have turned the tables on Wall Street by buying up  stocks heavily shorted by hedge funds such as Melvin Capital, causing  increased volatility and short-squeeze losses to these institutional  investors.  However, on January 28th, Robinhood announced  that retail investors could no longer purchase certain stocks and raised  margin requirements for certain securities.
+
+The inability to  trade shares has sparked outrage across social media, as users took to  Twitter to vent their frustrations, stating:
+
+"You can no longer buy GameStop stock on Robinhood. Ditto Nokia, AMC, and all the other stocks that had been shorted."
+
+Another said: "The free market is only free until rich people lose money."
+
+In  response to these actions, Dave Portnoy, the founder of the sports and  pop culture blog Barstool Sports, released a series of tweets  questioning Robinhood's integrity and agenda. He called for retail  investors not to close their positions. 
+
+On January 28, AMC was down 60% amid the Robinhood restrictions.
+
+To learn more about this investigation and your rights if you believe you have suffered losses, **go to**: [https://www.zlk.com/pslra-1/amc-retail-brokers-class-action-information-request-form](https://www.zlk.com/pslra-1/amc-retail-brokers-class-action-information-request-form)
+
+Levi  & Korsinsky is a nationally recognized firm with offices in New  York, Connecticut, California, and Washington D.C. The firm's attorneys  have extensive expertise in prosecuting securities litigation involving  financial fraud, representing investors throughout the nation in  securities lawsuits and have **recovered hundreds of millions of dollars for aggrieved shareholders**.  For more information, please feel free to contact any of the attorneys  listed below. Attorney advertising. Prior results do not guarantee  similar outcomes.
+
+**CONTACT:**
+
+Levi & Korsinsky, LLP  
+Joseph E. Levi, Esq.  
+[jlevi@levikorsinsky.com](mailto:jlevi@levikorsinsky.com)  
+55 Broadway, 10th Floor  
+New York, NY 10006  
+Tel: (212) 363-7500_END_OF_POST_PYSTOCK_ Nice _END_OF_POST_PYSTOCK_ 💎💎💎 HE IS OUR LEADER 💎 💎💎 _END_OF_POST_PYSTOCK_ When Robbin’ Hood IPO’s... NOBODY BUY THAT SHIT!! We don’t like that stock. Sure they’ve facilitated the process of us weaponizing our autism over the past few years, but clearly their heads are too far up the asses of the hedgies and what they have done cannot be swept under the rug this time. Those sleezebags in suits call themselves “Robinhood”, but in reality are no better than the rest of them. They have been planning an IPO for quite some time now, which would be quite profitable for their company. I’d hate to see Robin fucking  Hood DD’s and shills, after they tried so hard to bring us down, so the gears in autistic brain started turning. What if there was a way for us to rain on their parade? My smooth brain is running out of more words to say so I’ll stop here.
+
+TLDR: Hey Robinhood, That’s 
+ a nice IPO you got planned. It’d be a shame if 5 million weaponized autists collectively fucked it over. 
+
+Obligatory Fuck Melvin Fuck Robinhood Fuck Citadel
+
+Obligatory 🚀🚀🚀🚀🚀
+
+Edit: I don’t think shorting it would be a good idea though, imagine if the suits pulled a short squeeze on Robinhood off on us. We need to collectively think of a better way.
+
+Edit 2: Didn’t expect Awards. Use it to buy fractional shares tomorrow instead. We ride at dawn_END_OF_POST_PYSTOCK_ Co-founder of Robinhood said what? GME 🚀 🌙 and he and his app to Jail _END_OF_POST_PYSTOCK_ 12 Years Ago The World Was Bankrupted, While Wallstreet Celebrated With Champagne &#x200B;
+
+https://preview.redd.it/nge19g2ah5e61.png?width=391&format=png&auto=webp&s=1d6e9fa2a96fd1afab081c9ae05ad0f6d8bd1e83_END_OF_POST_PYSTOCK_ JOSH SHAPIRO, Attorney General of Pennsylvania, is showing his support on Twitter!!!! 🚀🚀 _END_OF_POST_PYSTOCK_ Just wanted to say I’m proud of y’all I first joined wallstreetbets almost 5 years ago when I first got into Reddit. It was a smallish sub still where everyone was hoping for a yAtCh and FD’s were becoming the new normal. I have lurked this sub often most of the time for a good laugh and others for some pretty stellar DD. 
+
+In this moment though, you guys have really impressed me. You are coming together to say “fuck you” to the big boys that have done nothing but fuck our dads with no lube, and as someone who is a hybrid alternative currency nut/autist, I feel more love and connection to this sub than ever before. 
+
+I love you f**s._END_OF_POST_PYSTOCK_ If you've been on sub for a while now, and have been around long enough to have followed the GME play from the very start, take a moment and marvel at what this has turned into. It's no longer just a hilariously risky YOLO limited to a handful of idiots here and over on stocktwits, but a showdown between retail and institutionals that has taken global center stage.
+
+I remember first hearing mentions of GMEs short interest back in March of last year but like everyone else, I was too preoccupied with SPY options, MSFT 200c, and the infamous quad-witching fiasco (Wonder how many people were wiped out that day).
+
+Only in July did I really begin paying serious attention to the GME talk, but never did I imagine that this would culminate in a historic moment led by a sub full of foul-mouthed gambling addicts.
+
+We've really outdone ourselves here. /r/stocks, /r/dividends and /r/investing may be better at portfolio sizing and actually knowing what risk management is, but they're nowhere nearly as wonderful.
+
+EDIT: Obligatory  GME 🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀 _END_OF_POST_PYSTOCK_ APE. STRONG. TOGETHER. Tree company worth 10 banana. 
+Rich apes think tree company only worth 2 banana. Rich apes bet many banana that value of tree company go down to 2 banana. Regular apes buy lots and lots of tree company from
+jungle. Tree company become worth 50 banana. Rich apes lose money because because tree company no worth 2 banana. Regular apes make lots of banana. Rich apes friend give them lots of banana to live and begin buy tree company to make up for bad bet. Tree company become worth 100 banana. Regular apes make lots and lots more banana. Next day rich apes friend tell jungle no longer sell tree company to regular apes. Rich apes bet banana tree company worth less banana. Regular apes lose banana because no possible to buy more. Rich apes make banana because tree company become worth lots less. Regular apes mad that jungle prefer rich apes and jungle make them lose money._END_OF_POST_PYSTOCK_ A dark part WallStreetBets history, and why it's important for you to know and remember tl;dr on tl;dr: Founder bad, greedy, got banned for being greedy. Being greedy again with new spotlight on the sub. 
+
+tl;dr, in 2020 the original founder (after being gone for years and did nothing to contribute to the sub), along with a couple of mods, attempted to monetize the sub for personal gains. Users and other mods fought back. Hundreds of users got mass banned for speaking out, mods who spoke out got removed as mods. With some help from users, mods found precedent of another sub creator getting banned for trying to monetize a sub and sent plea to Reddit admins. Reddit admins banned offenders and gave sub back to the good mods. 
+
+u/SpeaksInBooleans (RIP) investigated the circumstance of the events and made video exposing the offenders:
+
+[Part 1](https://www.youtube.com/watch?v=caoF3jH7yG4)
+
+[Part 2](https://www.youtube.com/watch?v=OIFI7YzmAVI)
+
+[Part 3](https://www.youtube.com/watch?v=UcgvEVyzFlE)
+
+[Part 4](https://www.youtube.com/watch?v=4oaA2MP1WD4)
+
+[Part 5](https://www.youtube.com/watch?v=ecmL9UOINH0)
+
+[Part 6](https://www.youtube.com/watch?v=5CUqskfiRIE)
+
+[Mega thread after the victory](https://www.reddit.com/r/wallstreetbets/comments/fx5zwf/ladies_and_gentlemen_we_got_him/) for reference. 
+
+It's important to know/remember this now, because the same person that got exiled for being a tyrant is doing a media circus, trying to ride the current spotlight for personal gain, again. Hey CNN and WSJ, stop interviewing that dipshit. The sub has always been about its people, and what you guys wanted to do (as retarded as you are). No single person speaks for the sub and controls its destiny. It is in good hands with u/zjz aka u/SwineFluPandemic
+
+Edit: He is spreading complete lies about the sub and the mods that got him removed:
+
+>	Despite being its founder, Rogozinski was kicked out of the forum in April for trying to eliminate the hate speech plaguing the community.
+
+>“There were a handful of mods who were straight up white supremacists,” he said.
+
+>“I have really thick skin and people can say whatever they want to me, but at some point there’s a moral standpoint — like with my kids, I don’t want them to think, ‘Well, they can say whatever they want about you,’” he told the paper._END_OF_POST_PYSTOCK_ Where do we go? A post on our choices and options in a post-robberhood world. Alternatives and other platforms. Let’s migrate to different apps. #So, the shittertons at robberhood decided to ban AMC, GME, &amp;amp; BB and save their hedge fund buddies while fucking you guys, their original clients.
+
+Well, you know what? Fuck ‘em. We are bigger than any hedge fund and we are more than 5 million retail investors and growing. If robberhood wants to steal from the poor and give to the rich, we don’t have to be complicit. We don’t have to use their service, and we won’t. Fuck robberhood.
+
+Schwabby and TD ameritrade aren’t valid options anymore, so who’s left?
+
+_________________________________________________________________________________
+
+#Here is a list of the platforms we can migrate to.
+(Please tell me if any of these don’t work or there are banned tickers, I’m just listing what I’ve found so far.)
+
+• [Public](https://public.com) | a robberhood-like trading app with a beautiful design and clean UI. Offers free stock, and has expanded benefits right now because they are trying to attract customers. They're even offering to cover the transfer fees. They must really want that market share. It’s also centered around social features, so you can invest and make posts about your stocks, and there are comments. Go spread the retardation.
+
+• [ally](https://ally.com) | just a regular trading app. Not special, but it’s from the finance startup Ally. Works with existing banks, and actually adheres to ally’s principles of facilitating economic mobility and democratizing finance. A lot of purple and white themes in this app. No commissions, and fast transfers. The same app I use, been a member for 2 years, no complaints. Also, they have dark mode. WARNING: ally only allows limit orders for meme stocks. you can still buy though.
+
+• [WealthSimple](https://wealthsimple.com) | A simple, minimalistic app with both saving and trading products. Has very nice shading, and pastel orange and turquoise colors. Bold font, and a very user friendly app.
+
+• [SoFi Invest](https://sofi.com/invest/active/) | an investment app from SoFi, the guys who paid for that one football stadium. Charts and personalized graphs of your investment earnings. Supports both cr\*pto and stonks, so you can trade everything all in one place.
+
+• [WeBull](https://webull.com) | an app owned by Chinese Fumi Technology. I heard they unbanned the meme stocks, please tell me if I’m wrong. Hopefully I’m not.
+
+• [M1](https://www.m1finance.com/) | A Chicago-based trading app filled with cool (blue and green and shit) color palettes, and many charts and metrics to track your trading performance. EDIT: unfortunately i've just been told M1 does not support daytrading, they only have set windows for trading every day. suggested by u/WalkerTejasRanger, contact him/her/them for a free $30 link.
+
+• [Stake](https://hellostake.com/) | An  app for trading American-based securities, and high contrast black on white themes. Designed for foreigners, use this my Asian &amp; European friends. They even help autofill out American tax forms for reporting income from trades. (W8-BEN) suggested by u/mitchqqis, contact him/her/them if you need help. 
+
+• [Etrade](https://us.etrade/a/home) | EDIT: Etrade has banned memes, make sure you tell them to fuck themselves :)
+
+• [Fidelity](https://fidelity.com) | I still can’t get over the fact that they are based in Boston (eww).... but they haven’t banned us yet.
+
+• [Vanguard](https://investor.vanguard.com) | they haven’t banned any of our tickers. Good enough.
+
+• [Wells Fargo](https://www.wellsfargo.com/investing) | the most boomer app of them all. suggested by u/adam2222
+
+_________________________________________________________________________________
+
+EDIT: added more choices (M1, Stake, &amp; WF), at spaces 6, 7, and 11 respectively. go check them out.
+
+#EDIT 2: I want to see what all of you guys are switching to. comment your new platform below.
+
+#EDIT 3: if you're feeling generous, you can also send me donations.
+
+This is my cr*pto wallet:
+
+**0x86c4e867c9E5b72872a505d2ae1F24312E3b73c8**
+
+You can send me any coin you want, but I prefer ether/ethereum (ETH)
+
+#EDIT 4: Manifesto written below. I got pissed and I felt like ranting.
+_________________________________________________________________________________
+
+#we have many choices, these are just 7 of our numerous options. While robberhood is out fucking us and bailing their hedge buddies, we’ll be switching.
+
+If any of these ban our tickers, please comment and I will correct this post. You can also tell us what platform you’re using, or what supports meme stonks.
+
+
+**buy the dip. Keep fighting our fight.**
+
+#fuck robberhood. Make the switch.
+
+#LETS KEEP FIGHTING! DONT SURRENDER NOW! HOLD THE LINE! There is nothing these institutions can do to stop us. They cannot lock us out, sell our shares, or grow their short. They know they are losing. That’s why they are launching a media offensive in CNBC. Their only option left is to make us lose hope. They have played every option they have, they have resorted to morally wrong and illegal tactics. They have sold our shares without our permission. They are manipulating the market to save a corporation at the expense of millions of real humans. They have no problem crushing you and your future if it means another fucking dollar in their pocket. For too long, they have profited and gambled with our economy. In 2008 they threw millions into poverty, and in 2020 they lined their pockets while people were evicted from their homes. There is a reason why we fight. The invisible hand WILL NOT control us. This is the biggest financial event since 2008. All we have to do to beat them is hold our shares. They working class will seize control. We are on the verge of changing the fucking world.
+
+**So you know what? Fuck them.**_END_OF_POST_PYSTOCK_ RH email to users about tomorrow  
+
+An update on market conditions
+
+Hi Kitsapdad,
+
+It’s been a tough day, and we’re grateful to you for being a Robinhood customer. In light of the extraordinary market conditions this week, we temporarily limited buying for [**certain securities**](https://robinhood.com/us/en/support/articles/changes-due-to-recent-market-volatility/) this morning. **Starting tomorrow, we plan to allow limited buys of these securities. We’ll continue to monitor the situation and may make adjustments as needed.** This was a temporary decision made to best continue serving you, and was not an easy one to make. We know it’s led to frustration and confusion, and wanted to provide some clarity.As a brokerage firm, we have many financial requirements, including SEC net capital obligations and clearinghouse deposits. Some of these requirements fluctuate based on volatility in the markets and can be substantial in the current environment. These requirements exist to protect investors and the markets and we take our responsibilities to comply with them seriously, including through the measures we have taken today.To be clear, this decision was not made on the direction of any market maker we route to or other market participants.The past year in particular has shown us that the financial markets are for everyone—not just institutional investors and hedge funds. We’ve seen a new generation enter the market, and they’re sparking conversations about what it means to be an investor. **We stand in support of you, our customers**. Democratizing finance for all means giving more people access, not less.We’ll keep monitoring market conditions and will update this [**Help Center article**](https://robinhood.com/us/en/support/articles/changes-due-to-recent-market-volatility/) with the latest changes. We also published a [**blog post**](https://blog.robinhood.com/news/2021/1/28/an-update-on-market-volatility) regarding today’s events.Thank you again for being a Robinhood customer. We’re so grateful for your support.Sincerely,  
+The Robinhood Team_END_OF_POST_PYSTOCK_ 💎💎💎HOOOOOLLLLLLDDDD! MEAT IS STILL ON THE MENU BOYS. 💎💎💎 _END_OF_POST_PYSTOCK_ CNBC is reporting that Robin hood is seeking lines of Credit from JPM and Goldman Sachs. (Turn on the TV) I don't really know what this means, other than if they have an Algorithm that takes positions against their customers they could in theory be blown up by GME.  I know that they are able to get fractional payoffs from timing trades?
+
+I'm not really sure if we know their positions or we have a way of finding it out. I'm not involved in GME because of the lock out, but this seems really serious if they were betting against their clients? wouldn't this be illegal as they do have a fiduciary responsibility when offering their products online?
+
+Feel free to call me stupid. My wife's boyfriend does all the time.  I can't find an article on it but this has happened before in march2020, so maybe its \*\* NOT \*\* (edit)related to yesterdays fall out.
+
+I guess this is pure speculation._END_OF_POST_PYSTOCK_ How today went, at least from where I was sitting today! $GME TO THE MOON!!💎💎💎🚀🚀🚀 _END_OF_POST_PYSTOCK_ ORWELL WOULD BE PROUD HOLD LADS HOLD🚀🛸⬆️👾👾👾 _END_OF_POST_PYSTOCK_ Were sorry...MEME stocks open tomorrow _END_OF_POST_PYSTOCK_ Please Help Me Understand What Happened Today (Multiple Orders Rejected by NYSE, Costing Me Tens of Thousands) **To preface this, yes I know the correct thing to do would have been to just hold, but that should not be the point of this post.**
+
+TL;DR at the bottom.
+
+I had one Jan 29 20c option I've been holding since GME was somewhere around 18, and I originally planned to exercise (and I wish I followed my plan).
+
+Today at market open, I got too nervous about the impending market manipulation and tried to sell.
+
+**1st Order:** Sell for 310 limit (30k profit on a $300 investment) while there was a bid for 318 and the stock was at 320 (no halt, this was right after open).
+
+**Order Rejected**
+
+Stock started rising again and I was kinda glad the order didn't go through, even though it seemed really fishy. 
+
+I later learned through my broker that the rejection code from NYSE basically meant my limit was "too aggressive" and that's why it was rejected. **WTF**
+
+**2nd Order:** 1200 Limit, fuck it.
+
+**Order open/accepted** 
+
+In regards to the rejection justification for the first order: *top kek*
+
+Stock starts free falling.
+
+Mind starts racing.
+
+> Selling at 1200 would have been life changing directly.
+
+> Selling at 300 would allow for some great investments into myself that could be life changing down the line.
+
+> Selling at 100 would be a very nice profit still, even if it was just at 400 a few minutes ago, but who the fuck knows what kinda shady ass shit is going on behind the scenes at the moment while most US retail investors are basically shut out except for selling.
+
+Stock hits ~100 and halts again.
+
+**3rd Order:** Sell at 103 limit (matching a current bid).
+
+**Order Executed**
+
+Halt ends, stock shoots up. Hole in stomach and panic sets in once again, but in the other direction. Realize I've made a huge mistake.
+
+**4th Order**: Buy at 120 limit (matching a current ask).
+
+**Order Rejected**
+
+**5th Order**: Buy at 140 limit (matching a current ask).
+
+**Order Rejected**
+
+**4th Order**: Buy at 160 limit (matching a current ask).
+
+**Order Rejected**
+
+The contract is now too expensive for me.
+
+That was it.
+
+**Now, I made a 10k profit from a $300 investment and I don't want to bitch about that.** I'll be happy about it soon enough once I'm less emotional about what could have been.
+
+**But: What the everloving fuck happened to my orders?**
+
+I've never had an order be rejected before, just maybe not filled if my limits were off.
+
+Just so happens the only order that went through today was the worst one I made and all the others (realistic ones) got rejected, so I'm indeed salty especially the 310 sale in the morning didn't go through, as that basically cost me $20k, $10k if I held. If I thought I could sue the NYSE I would...
+
+So, can anyone explain to me what happened here so I can know what to expect and act accordingly if I'm ever in a similar situation again?
+
+Thanks and godspeed to all of you who are still in this game. I hope GME surpasses my moonshot 1200 order and makes you all as rich as it will make the shorters poor.
+
+**TL;DR: NYSE rejected lots of my orders, including a sell order at market prices while trading was not halted - for completely bs reasons given ("order limit too aggressive"). What gives and what do?**_END_OF_POST_PYSTOCK_ NVAX RESULTS FINALLY NVAX has finally released results:
+
+~95% efficacy on old COVID strain
+
+~85% efficacy on U.K. strain
+
+~49.9 percent efficacy on South African strain. 
+
+They are the only company to have actual efficacy data in real people on the the SA and U.K. strain. Moderna and Pfizer only have lab test results (I think). 
+
+This means all vaccines are on an equal footing. 
+
+NVAX should move up as the market realized it is equivalent to Moderna and Pfizer. 
+
+Positions 02/19 130c 02/05 150c. 
+
+To the moon baby!
+
+Edit: for those who feel the fomo, I sold 20 01/29 150c today at 2pm to roll out to a later date. Cheated myself out of 40k gains. Life is bittersweet._END_OF_POST_PYSTOCK_ On principle I will hold till I’m bag holding at the other end. What happened today really struck a cord. I wasn’t allowed to buy but I could sell. That made it a one way street of potential selling with no opportunity to buy. I really do not care if the price goes up or it goes down, I am simply not selling. I will hold it through the gamma squeeze and then the real squeeze. And when these shorts are frantically buying at the top to cover and beg others to sell I will still refuse to part with my shares. I have a full time job so have no problem engaging in activism haha.
+
+Blessed are the meek and I wish you all good fortune._END_OF_POST_PYSTOCK_ They'll have to pry them from our diamond hands _END_OF_POST_PYSTOCK_ Weird Price Action today. (shorts covering?)  Randomly looked up the ticker a few minutes ago, anyone else notice this? I definitely don't recall a spike to $500 around 2 o'clock. Were the shorts able to cover their positions today? (obviously it being only a 100% price increase and the low volume they have come nowhere near fully exiting, but still)
+
+And also why don't other sources show this spike today? (I.E. the IOS stocks app shows the price was around $237 at 2:10 PM EST) 
+
+https://preview.redd.it/aturszejd5e61.png?width=673&format=png&auto=webp&s=8adb5e8435a85d3c1887536a8aaff4ffdbd4b582_END_OF_POST_PYSTOCK_ Guy From S3 Partners. Hold Strong 💎 🙌 _END_OF_POST_PYSTOCK_ YOU HEARD THE MAN DON'T GET SCARED NOW. _END_OF_POST_PYSTOCK_ People are fleeing Robinhood. now they are lack of enough cash reserve ... move your money out of the Robinhood account now before it is too late! _END_OF_POST_PYSTOCK_ Robinhood Is Said to Draw on Bank Credit Lines Amid Tumult _END_OF_POST_PYSTOCK_ FORCED Liquidations **This is most likely brokers forcefully liquidating some of who you bought on margin**. The price graph here was oscillating constantly between market price and prices 25% lower at 193.60:
+
+https://preview.redd.it/d96s603ce5e61.png?width=1920&format=png&auto=webp&s=c417af24d8982042779026bb9825e660ab4d3e21
+
+Notice the mix of fills on the order flow between market price and 193.60. Even when you put in a Market order, brokers must fill within a reasonable amount of the market price. But the same rules don't apply to liquidation. The broker is allowed to sell for MUCH lower in case of liquidation.
+
+Basically, those of you buying on margin are getting screwed. The Fed requires margin accounts to maintain 50% equity overnight. The hedge funds knew if they could close the price lower for even 1 day, it would force many of you who bought on margin out of your positions, and that brokers would be forced to liquidate to meet overnight equity requirements. STOP BUYING ON MARGIN.
+
+To clarify: Buying "On Margin" means you're borrowing funds from the broker to buy stock. It does not mean "trading in a Margin account". You can still have a margin account, just don't buy more in stocks than you have cash for. Brokers have a LOT of latitude about doing what they want with the securities you buy on margin.
+
+If someone is on this guy's chat, please direct him to this post because he was confused by this. It's not a glitch, it's "working as intended"._END_OF_POST_PYSTOCK_ VIDEO: The Reddit Revolution, GameStop and Melvin Capital _END_OF_POST_PYSTOCK_ WARNING: Possible strategy the hedge funds are doing to recover from losses! As you guys have already heard from several reports, Citadel (the hedgefund that bailed out melvin capital for 2.5 billion dollars) and Robinhood have ties with each other. What they did this morning was they planned for Robinhood and other brokers to prevent retail investors from buying GME and other reddit memestocks knowing that would kill a lot of momentum. Before disabling the buy button for GME on platforms like Robinhood, they heavily shorted the stock when it was at its peak of around 500 and when the stock came crashing down back into the 100s, that was when they bought back the shares and earned back some of the losses. 
+
+Right as the market closed at 4, they released the news that starting tomorrow retail investors will be allowed to buy GME and other memestocks again therefore causing the prices of these stocks to go up again. As momentum comes back and the prices surge to higher levels again, I'm willing to bet my left nut that they will short it again and then do some unethical shady shit to kill the momentum again to recover further from their previous losses. What shady shit might they do? I do not know, but its going to be something on the level of what happened today. They will keep on rinsing and repeating this strategy till they make back most of their losses. 
+
+Now what can we retards do to counteract their strategy you may ask? SIMPLE!! When the momentum killer news comes out again YOU HOLD AND DO NOT PANIC SELL!!! Otherwise you will be selling your shares cheap to them for them to cover their short positions!! I am not a financial advisor but that is how i see it logically speaking._END_OF_POST_PYSTOCK_ WE 🚀 LIKE 🚀 THE 🚀 STOCK - LET'S GET THIS PARTY GOING - Jim Cramer Vengaboys Remix _END_OF_POST_PYSTOCK_ Oops. #DeactivateRobinhood _END_OF_POST_PYSTOCK_ DO NOT SPORTS GAMBLE TONIGHT - HERE IS WHY!!! Think about the millions of dollars that will flow into DraftKings tonight. Now think about all that money going into other things, like GME AMC etc.
+
+&#x200B;
+
+Most bettors will lose anyway. Might as well put it into a sound investment. More inflow = more buying = higher price. 
+
+&#x200B;
+
+Take that 20$ you were gonna lose on NHL and buy 2 shares of AMC. It's for a good cause.
+
+&#x200B;
+
+(This is not financial advice, I am not a financial advisor, I am a complete dumbass so do not listen to me)_END_OF_POST_PYSTOCK_ "An update on market conditions" from Robinhood I just received It’s been a tough day, and we’re grateful to you for being a Robinhood customer. In light of the extraordinary market conditions this week, we temporarily limited buying for certain securities this morning. Starting tomorrow, we plan to allow limited buys of these securities. We’ll continue to monitor the situation and may make adjustments as needed.  
+This was a temporary decision made to best continue serving you, and was not an easy one to make. We know it’s led to frustration and confusion, and wanted to provide some clarity. 
+As a brokerage firm, we have many financial requirements, including SEC net capital obligations and clearinghouse deposits. Some of these requirements fluctuate based on volatility in the markets and can be substantial in the current environment. These requirements exist to protect investors and the markets and we take our responsibilities to comply with them seriously, including through the measures we have taken today. 
+To be clear, this decision was not made on the direction of any market maker we route to or other market participants. 
+The past year in particular has shown us that the financial markets are for everyone—not just institutional investors and hedge funds. We’ve seen a new generation enter the market, and they’re sparking conversations about what it means to be an investor. We stand in support of you, our customers. Democratizing finance for all means giving more people access, not less. 
+We’ll keep monitoring market conditions and will update this Help Center article with the latest changes. We also published a blog post regarding today’s events. 
+Thank you again for being a Robinhood customer. We’re so grateful for your support. 
+Sincerely,
+The Robinhood Team 
+
+
+
+Enjoy the lawsuit, can't wait to obtain tendies tomorrow, GME 🚀🚀 🚀🚀 💎 HANDS BOYS_END_OF_POST_PYSTOCK_ The One Stonk. An ode to u/DeepFuckingValue by Zed. _END_OF_POST_PYSTOCK_ Preparing for the possibility of a 1/29 squeeze - the importance of a solid sell wall, holding the line, and avoiding prisoners' dilemma cascading sell offs. Alright boys and girls we've made it to a pretty critical stage here. Tomorrow we face the possibility of a massive squeeze fueled by short coverage and the inevitable gamma squeeze that will come from thousands of call contracts being exercised. Some things to note - MMs buy 95% of the underlying shares represented by call contracts to hedge each time they're bought; as we've seen in the past few days, in this case MMs are almost the same 'group' as the shorts. This throws a wrench in things that I don't know how to interpret. Anyone? They worked together today to lock us out, tank the price, and make a 100 million dollar short sale while liquidating massive share quantities at a price so low it margin called anyone holding that many shares on margin in the first place. We can expect buy lockouts and other bullshit but the gamma squeeze remains **inevitable**. The gamma squeeze will not necessarily lead to or indicate the short squeeze happening, no one knows. It seems like the most important thing each investor has to prepare for on their own is an exit strategy for call contracts expiring tomorrow (regardless of squeeze height) and shares (in the case of the actual squeeze happening) if that investor wants to sell.
+
+As has been explained here a few times now, shorts need our shares - period. Tomorrow they will buy shares and they will buy contracts to convert into shares. They must meet the prices we set - again, period. Hypothetically, if every single person that is HOLDING shares set the sell limit to 10K (which RH now prevents as an 'aggressive' limit), then shorts would have no option but to pay that price if they want to cover OR - and this is important - they CAN WAIT FOR HOLDERS TO DEFECT AND SELL EARLY, UNDERCUTTING THE SELL WALL. The **prisoners' dilemma** describes the problem of achieving maximal collective outcomes in situations where individual self-interest comes into play. In the event of a squeeze, all holders will be faced with the question of when to sell. Even if a sell wall was established by 95% of holders at 1K, if 5% of holders create sell orders at 500, the shorts will purchase all of those, and then someone holding at 1K (in the original 95%) says 'fuck, I don't want to miss out' and lowers their price to 600. Let's say 5% of that group holding at 1K does that. Now 90% of the holders are still at 1K but 10% of all shares have now been sold at or below 600. This would cascade and bring the price down.
+
+We are NOT a hedge fund or a hive mind and there is no way to ensure we all sell at the same time and I am not telling anybody when to sell. This is all entirely hypothetical. I'm not encouraging a specific price point 🤷‍♂️ I'm merely describing a predicament we face - a market phenomenon, perhaps. Right now if you look at the GME order book, the sell 'wall' looks like a staircase, moving upwards at a pretty natural slope. That kind of sell wall will not produce the optimal collective outcome in terms of sale price in the case of a squeeze. In that scenario, the actual sale prices would likely never reach the top. What **would** produce the optimal group outcome is a true sell wall, where limit orders are **FLAT** until a **massive Kingdom of the Fucking North Wall** at a single price. Thoughts? I personally just love the fucking stock. Play with the bull you get the fucking horns.
+
+EDIT: [https://imgur.com/gallery/wLMohne](https://imgur.com/gallery/wLMohne) this is the current sell staircase versus a sell wall. NONE of this post is financial advice. I'm just a retard drawing in my notes app.
+
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+PS: All $350 and up market buy autists (yes that includes you saints who smashed the ye button at 10am today and bought at $470) - we're coming for you. No man or woman left behind on this moon mission. 😈
+
+TLDR; POWER TO THE PLAYERS 🕹
+
+APES TOGETHER STRONG 🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍
+
+$342 AH as of now (7:07pm EST) I KNOW YOU LIKE THAT YOU DIRTY MOTHERFUCKERS CAUSE I KNOW I DO
+ 
+PS 2: Thanks for the awards 🥰 I just want us to all take maximum Ws_END_OF_POST_PYSTOCK_ AMCX, AMC's Class A Shares are increasing in short interest after today's trading halt on AMC. After today's halt on AMC, I looked at AMCX and I have no doubt that some of you autists were already jumping on it as soon as you heard you couldn't buy AMC. Which is pretty autistic, but I clearly am just as autistic. 
+
+Regardless, at closing, I decided to take a look at AMCX again and saw that the short interest was higher in the Class A shares than it was in the main ticker. See attached image on historical short interest for AMCX. 
+
+I'm not suggesting anything, what you make of this is entirely your decision, but I would get my diamond hands ready. 
+
+&#x200B;
+
+ [Imgur: The magic of the Internet](https://imgur.com/a/lFNJzYC)_END_OF_POST_PYSTOCK_ Old Tommy admits he's trying to fuck you to save hedge fund - CNBC's Interactive Brokers' Thomas Peterffy interview _END_OF_POST_PYSTOCK_ $SLV - $104,000 YOLO 09/30 $29 CALLS. Short Squeeze LET'S GO! &#x200B;
+
+Here's some DD posts, just to show I'm not really that retarded... Just a average Joe soldier doing his part.
+
+&#x200B;
+
+1. [https://www.reddit.com/r/wallstreetbets/comments/l68ill/the\_biggest\_short\_squeeze\_in\_the\_world\_slv\_silver/](https://www.reddit.com/r/wallstreetbets/comments/l68ill/the_biggest_short_squeeze_in_the_world_slv_silver/)
+2. [https://www.reddit.com/r/wallstreetbets/comments/l6novm/the\_real\_dd\_on\_slv\_the\_worlds\_biggest\_short/](https://www.reddit.com/r/wallstreetbets/comments/l6novm/the_real_dd_on_slv_the_worlds_biggest_short/)
+
+&#x200B;
+
+https://preview.redd.it/p8y3w0l4e5e61.png?width=604&format=png&auto=webp&s=625db63cc819c3f5805723b038d01e745868c95f_END_OF_POST_PYSTOCK_ TD American trade manipulation MY STORY So I have a 10 GME stock position. I was fortunate enough to buy when it was $18. Today I was going to sell a few to cover some bills ( I know I should hold, but I needed the money). I only tried to sell one at a time. Funny thing is that TD would cancel my limit order. Never happened before. 
+
+This was when the stock was just above 300$. So I set the sale to "market" (Don't do this normally). It went thru! Took longer than normal. but what was odd it was higher than the last ask. (I always check before I do anything like this.) I thought, "hmmm lets try again" So I sold 1 more. This time the price was plummeting on no volume. This one went thru at around 260. The stock was at 190. Ok maybe I lucked out here. Weird. That was until I checked the bid/ask to buy a few minutes later. Here is what I saw. 
+
+https://imgur.com/gallery/kESKJnM
+
+So in the red square the last sale was 126$ that was on the book (this is the outstanding sales being offered) The next "buy" was 48$ ?!?!?!?! At the time the stock was at 160$ That is a huge gap. But what REALLY caught my eye was the ask. 2000$ ?????
+
+My theory: The hedge funds got the retail brokers to lock retail traders out today so they could "readjust their positions". Then the hedge fund guys BOUGHT THE ENTIRE ORDER BOOK from 48 to 2k. Any orders outstanding NO MATTER THE PRICE was gobbled up. They were THAT desperate. 
+
+I have been trading off and on since the tech boom. Even worked at a few funds. I have NEVER seen anything like this. If someone with more experience can explain this to me, I would appreciate it. I just don't see it as anything other than massive collusion to manipulate a stock.
+
+This isn't investment advice. So go fuck yourself SEC. I am a rare megaretard._END_OF_POST_PYSTOCK_ We couldn't get them today, so let's get them tomorrow! HOLD AND BUY YOU ONLY LOSE MONEY IF YOU SELL! _END_OF_POST_PYSTOCK_ Beware of False Idols. As I scroll through twitter, I see a troubling trend. I see people who think they can speak for us. I see people who think they understand us. I see people who think they are one of us. They are the people who sell their names for the means of attention. They are just like Wall Street but more deceptive in their greed because they do not have the power to openly fuck us. Do not let the attention whores monopolize the moment.
+
+We don't have a leader. We can have a hero ie: Deepfuckingvalue, but we DON'T have a leader. We don't need a leader. Don't fall for the tricks of the con-man. There is ALWAYS an ulterior motive. This thing is built on each other. Certain individuals will try to make it about them. 🚀_END_OF_POST_PYSTOCK_ Congress will hold hearings on what RH and IB today. This escalated quickly. Hopefully real reform happens. _END_OF_POST_PYSTOCK_ With DIAMOND💎 HANDS 🙌 we can carry GME TO THE MOON🚀🚀🚀🚀🚀🚀🚀 [link with sound in comments] _END_OF_POST_PYSTOCK_ Wall Street Bets, Gamestop, and The End of Capitalism _END_OF_POST_PYSTOCK_ We will win (Watch till end) _END_OF_POST_PYSTOCK_ Stop Using Robin Hood you NUTTSRS its interests are not yours Stop using Robin Hood. Their terms of service would be chucked out the window covered in shit by any major fund offering them.
+
+There are of course other no commission companies available. However, would you trust a free plumber? A free electrician? What's in it for them?
+
+RH has used people for a long time. They are just another data factory. If their buyers say fuck off then you are done.
+
+A company with trading outages gets no attention from real money. This sub should ban RH. I have no skin in the game so I only look to ensure people are empowered to make the best or wrongest decisions. It loses people more money than the tiny commission you might otherwise pay.
+
+It crashes. Makes odd decisions and has zero transparency over its finances. After the last fortnight I could see people being abused by RH and its clear interests and set up.
+
+Stop using RH. Any positions on RH? Move. Ditch them. Stop posting their basic pretty fucking graphs._END_OF_POST_PYSTOCK_ Limited? Just buy _END_OF_POST_PYSTOCK_ White House Press Secretary Jen Psaki Asked About New Treasury Secretary Janet Yellen Being Paid $810,000 From Citadel In Speaking Fees _END_OF_POST_PYSTOCK_ Mic drop _END_OF_POST_PYSTOCK_ They will do anything to get our sexy GME and AMC shares. Do not let them. We caught them with their hands stuck up their own asses. Moonshot incoming. 🍿 🚀 _END_OF_POST_PYSTOCK_ Am I the only retard that notices a giant spike for the day in Google finances graph around 2:05 EST and missing from the Robinhood graph below for GME today? _END_OF_POST_PYSTOCK_ RH to allow "limited" buys on Friday for GME and others... guess we have to "limited" buy everything and launch this 🚀🚀🚀 _END_OF_POST_PYSTOCK_ Give them NO respect. _END_OF_POST_PYSTOCK_ Remember to gather and keep any and all evidence of market manipulation! Now that many brokers seem to have tried to manipulate the market, the idea of class action lawsuits has arisen here. If one of your brokers tried to manipulate the market (or so you think) make sure to use screenshots and the like to gather evidence. You might think that testimony or someone else’s screenshots will be enough, but more evidence can make a case like this easier! So remember to find the evidence and store it! There are people creating meeting places to discuss the lawsuit and gather evidence - dont send it all to me I wouldn’t know what to do with it. 
+
+
+
+And friendly reminder: this game is not over, GME has to more than double in value before the end. So HOLD!
+
+💎🤲 boys and girls.
+
+
+
+Disclaimer: I am not a legal or financial expert, this is all just my speculation, estimation and/or opinion._END_OF_POST_PYSTOCK_ Meet Kevin Kept me from losing my shit today... holding strong! _END_OF_POST_PYSTOCK_ Robinhood Is Said to Draw on Credit Lines From Banks Amid Tumult _END_OF_POST_PYSTOCK_ Why brokers re opened trading Edit: not financial advice, long GME, I am retard etc 
+
+Trading is being reopened for many brokers today. While it appears it is because of public backlash it’s actually because the big money has already accomplished their goal. 
+
+It’s alleged that Apex was what was preventing the buying of certain securities. Namely meme stocks like GME and AMC. The purpose of this was to shake out retail and reduce volume. With the reduction of volume when this happened institutions performed a short ladder attack on very little volume. This is thus dropped the price like they wouldn’t be able to with normal trading volume.
+
+After the price collapsed triggering stop losses from inexperienced investors. Institutions bought up all the shares being sold to close out there most toxic shorts and to reduce risk as much as possible in their portfolios. Since everyone was unable to buy except institutions they slowly covered their asses throughout the rest of the day. 
+
+So now when this pops off institutions will now be bag holding as hard as they would have been. In addition to the fact they probably restructured their positions to make some gains on the way back up, to reduce their losses. They are still being fucked though, just a difference of a truck vs. a semi up the ass 
+
+TLDR: blocking stock buying was an attack to save institutions asses, and it doesn’t matter if we can buy now that they have done what they needed too.
+
+
+Edit:2 squeeze is not over, this is just getting started, 5k price target made this [post](https://www.reddit.com/r/wallstreetbets/comments/l6zaly/why_gme_is_going_to_moon_to_the_moon_and_you/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)  last night on why you should still be long GME and Monday will likely be a blood bath for Melvin and Co_END_OF_POST_PYSTOCK_ To the people who are scared of missing the GME 'squeeze', you will know when it happens. (AKA GME ENDGAME) A lot of comments that I read, people are scared that they will 'miss' the GME squeeze. Let me tell you about the Volkswagen Squeeze that happened in 2008. On 28th Oct  2008, Volkswagen stock opened at 500 Euros. The stock hit an ATH of 1005 Euros during the day and closed at 945 Euros. This means that you will certainly know when the squeeze begins.
+
+Now the question is how high can the squeeze go? That, no one here knows for sure because the times have changed and it can easily reach maybe 2k$ or 5k$? Who knows? You can sell the stock at the squeeze (When the price massively goes up) at the price you are comfortable with when the squeeze happens. Do not worry, the squeeze will not last for like 5 or 10 seconds as we saw with the example from Volkswagen above (Which lasted a whole day). 
+
+Also, many people are thinking to sell on Friday or Monday? Do not sell unless there is a squeeze or do not lose hope if the stock does not moon 🚀 on Monday opening. It will come and it will be beautiful. Alas, if u/DeepFuckingValue held the stock for months and is waiting for the squeeze, then who are we paper handed 📰👐 people to sell early ? Diamond hands only 💎👐. Cheers!
+
+Information on the Volkswagen article: [https://www.sciencedirect.com/science/article/pii/S0927538X16300075](https://www.sciencedirect.com/science/article/pii/S0927538X16300075)
+
+&#x200B;
+
+P.S: This is not financial advice, I am holding GME because I like GameStop and I like Games!_END_OF_POST_PYSTOCK_ Jail. Video link in comments. _END_OF_POST_PYSTOCK_ Does anyone know what this candle pattern is? And what causes it? _END_OF_POST_PYSTOCK_ MAKE THE LOWEST ASK $5,000 _END_OF_POST_PYSTOCK_ NEW ROBINHOOD EMAIL ABOUT NOT HAVING US TRADE TODAY _END_OF_POST_PYSTOCK_ Should Robinhood founders but charged with securities fraud for the actions that they did today? _END_OF_POST_PYSTOCK_ This is the beginning. The Manifesto For A Financial Revolution Congratulations to all of you for bringing the biggest shakeup to Wallstreet in years. This sub now has the attention of the President. Books will be written about you and courses will be taught on what you've done. 
+
+But it's not over yet.
+
+This sub has not only shown that it won't take any more bullshit from short sellers. But that it's ready to take them head-on. This is the beginning of so much more. A chance to finally fundamentally reform Wallstreet. 
+
+Remember, after the 2008 financial crisis how these large institutional investors were bailed out? Sure a lot of them paid the money back, but what consolation was that to the millions that lost their homes and livelihoods because of their reckless actions? Right now these short-sellers are trying to put brick and mortar businesses [out of commission](https://twitter.com/tyler/status/1354795558272180224?s=20) because they can't legally operate during the pandemic. 
+
+I know these guys, the uber-rich. I worked for them for 1.5 years. I have stories you wouldn't believe. I can tell you though, this is how they make more money. These institutional funds aren't tailored to be accessed for people like you or me. They're supposed to be for very wealthy people who never even earned their money to let it sit and earn more money. The market is just for them, not us. That's why they're trying to regulate you and cast the light away from themselves. That's why they're trying to block you from accessing stocks so they can shore up their positions. They think the rules don't apply to them.
+
+That was until you marvellous souls tanked a hedge fund that deserved it. And you can keep doing more. You can be the change you want to be. Finally, make the institutional WallStreet investors like Leon Cooperman or Jim Chanos figure out that if they don't reform and keep screwing everyone around that they'll reap what they sow.  We don't have to allow big funds getting bailed out, not learning their lessons and then screwing over everyone else. 
+
+I don't know what will happen will $GME, I do know that you must all stand tall and be ready one day to flex your muscle again to find out these injustices and do something about it. Keep pushing until short trading is banned or significantly reformed and then some. You have on your side the most anti-Wallstreet government in history that is chomping to make reforms. 
+
+This isn't an anti-wealth crusade. This is about creating more meaningful wealth for everyone through capitalism which means fairer markets. Fundamentally it's about stopping cronyism
+
+Make your voice heard and fundamentally change things forever. Stand strong and be proud.  And a better WallStreet is yours. 
+
+Burn it all down. Let the Phoenix rise._END_OF_POST_PYSTOCK_ Marketwatch thinks we should buy ETFs with GME in it to get in on the action LMAO _END_OF_POST_PYSTOCK_ Robinhood $GME Call Options Shenanigans - Anyone Else? Tl;dr - Robinhood’s inconsistent, arbitrary and capricious changing of policies and unilateral actions on my account turned a very small, profitable options bet on $GME which should have paid out a couple $k into a $15k loss, all completely without my knowledge, consent, or action on my part.
+
+Note: I am an experienced options trader (15+ years), have worked at a hedge fund, have worked at the worlds largest private equity firm, and now work in venture capital. You savants are as legit as most of these hedge fund jebronies any day of the week. 
+
+Obligatory: currently holding 400 $GME shares. Will buy 20 more ASAP, obviously. Bought in starting at $35 and still buying more (mostly holding shares in Schwab now bc f’k RH). HOLD. THE. LINE!!! 💎 🙌  🚀 🚀 🚀 🚀 🚀 
+
+
+
+
+Anyway, I’ve experienced some serious shenanigans from Robinhood today that I think goes beyond just their no trading $GME lunacy. Want to see if anyone else got screwed in a similar way and discuss how to get Robinhood to fix this. 
+
+Back when $GME was at $35, I made a small bet on GME by purchasing 1/29 $49 $50 long call spreads. This means that I bought $49 calls and sold $50 calls, all on one trade ticket (as a spread). If the stock were to close above $50 at expiration or exercise, I should net the difference of $100 per spread. This trade cost me a measly $15 per spread, which should have been the maximum possible loss. I poured most of my $ into buying shares, obviously, but I couldn’t resist placing a couple small options trades just for fun. 
+
+Because of Robinhood’s arbitrary policy changes, this small options trade (which was deeply in the money) was transformed into a massive loss. Here’s how:
+
+At like 4am today, Robinhood “assigned” my short call options, meaning it forced my account to sell 100s of GameStop shares at $50/share. This would normally be a welcome event given my call spread was deeply in the money. I should have been able to exercise my long call options to simultaneously buy 100 shares per contract at $49/share (on most brokerage platforms, this would happen automatically), immediately netting the difference as a realized gain (so a $100 gain per contract). I of course tried to immediate exercise my $49 calls. Instead, Robinhood had removed my ability to exercise my $49 call options (presumably due to it restricting all buying of the stock). So in essence, it forced me to sell shares at $50 but refused me my right to buy shares at $49. This would already be a problem, but then it got much worse. 
+
+After to the forced sale of shares at $50 due to option assignment and inability to exercise my $49 options, my account ended up with a net short position in $GME! In no world did I want to be short $GME!!!! Then, without my knowledge or consent, Robinhood automatically sold other securities in my account and used the proceeds to buy-back $GME stock to close out the short position. Furthermore, their automatic buy (which again, I was not notified of nor did I consent to) placed a limit buy order at $426/share at market open, which was $161/share higher than the stock’s opening price! Naturally, the trade executed right away and instead of executing at the then current market price, it bought 100s of shares at $426 each! Again, this is instead of automatically exercising or allowing me to exercise the call option I already held in my account giving me the right to purchase shares at $49.
+
+Finally, like many others, I was not able to purchase the stock when I wanted to today. I had limit buy orders at $200 outstanding! Wtf!
+
+There is no reason why call spread, purchased for $15 and in the money at anything &gt;$50/share, should have resulted in a $15k loss. 
+
+As a sophisticated investor who understands the math and the contractual rights and obligations of options contracts, it is absolutely unconscionable and should be impossible what Robinhood unilaterally and arbitrarily did in my account.
+
+Recap: RH auto-forced my acct to sell 100s of shares to someone at $50 and then forced me to buy them back at $426 (ending up with 0 $GME shares)... all while I had plenty of call options to cover this and not letting me execute!!!
+
+Conclusion: RH super shady. Buying $GME with everything I’ve got in Schwab. 💎 🙌 🌙 🚀 🚀
+
+Edit: thanks for the flair, and great call u/kstorm88 you're right! This pretty much nails it. https://youtu.be/4T2GmGSNvaMthis_END_OF_POST_PYSTOCK_ We won, but not without a cost. Robinhood is lifting the restrictions https://blog.robinhood.com/news/2021/1/28/an-update-on-market-volatility
+
+We did it boys. But this was a despicable and disgusting move that has had rumors of coming directly from the White House. If this experience wasn’t eye opening for you, if you do not now see just how fucking dirty they can play, then you’ve had your eyes closed and your ears shut. Trading will resume on robinhood at market open, but this move will not go unpunished. The class action needs to go through, the people must make these types of blatant manipulation (and gaslighting) *cough* Steven Cohen Twitter* *cough cough* come with a 0 tolerance policy from the users. I will still be moving my funds out of robinhood as soon as I cash out of GME and my other stocks. The show goes on boys. We won.
+
+Edit/ [A lot of people asking so here’s the link to the Robinhood employee insider info ](https://www.reddit.com/r/ClassActionRobinHood/comments/l723kf/robinhood_insider_information/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)_END_OF_POST_PYSTOCK_ WSB getting ready for war _END_OF_POST_PYSTOCK_ Jon Stewart just joined twitter and he likes the stock! _END_OF_POST_PYSTOCK_ What Brokerage should I be trading through if not Robinhood? Are there any not linked to Apex clearing that didn't fuck us today?
+
+&#x200B;
+
+Edit: Looks like Fidelity is the answer, even e-trade had stopped some trades. Thanks, guys._END_OF_POST_PYSTOCK_ Hmm... wonder why they had to do that _END_OF_POST_PYSTOCK_ Robinhood Is Said to Draw on Credit Lines From Banks Amid Tumult _END_OF_POST_PYSTOCK_ Holding Strong 💎🙏 _END_OF_POST_PYSTOCK_ I wasn’t aware we all got together to save companies affected by COVID. 🤦🏻‍♂️ Their radio broadcast earlier was also full of lies. I expect this shit from CNBC but not NPR. _END_OF_POST_PYSTOCK_ GME GANG- WISDOM FROM ONE APE TO ALL! Alright my beautiful 🦍 listen up.
+
+Firstly, well done on holding today. I know it can be scary and doesn't feel like a win (down $40k personally, I know alot of you have more and i'm proud to serve with you) but the strength, autism and resilience we showed today was incredible. BUT THE WAR ISN'T OVER! They are just turned on the heat.
+
+My dad (not elon, my silverback fathers name was Harambe) used to tell me: "The test of a man/🦍 isn't how he behaves when things are going well, rather how he preserves when they aren't." Today, we got drilled more than once by some of the dirtiest, illegal tactics that i've ever seen. And still, WE HELD.
+
+**I always find it helpful to take the positives out of a negative situation. So here is my list of APES UNIFIED STRONG TOGETHER IS SCARING MANIPULATORS (AUTISM APES)**
+
+1. We are at closing bell $200, last Thursday around $40ish. Thats 500% increase since then, not too shabby considering most of us couldn't buy today and the scumbags had their way.
+2. We know that these hedge fund manipulative bastards have increased (yes, *INCREASED) their short positions* and going to have to close some margin calls tomorrow. We knew they weren't going to play fair. We knew that the media was going to portray us in this light. Millions of shares through options will need to be executed. Tomorrow, it might get even more bloody out there but we must hold and buy every god damn dip (if we can).
+3. The U.S Senate is meeting on todays events this evening. Also, if any hedge fund/Robinhood puppet/SEC is reading this post, I want you to think about your pathetic excuse for not letting us trade today as "$GME is just too Volatile" and look at it today when retail investors/apes could not partake. THANK GOD IT WAS SO SMOOTH, NO VOLATILITY AT ALL. VERY CLEAN. VERY LEGAL...
+
+BUT, lets get something straight. **TODAY THE WORLD** took notice of what is really happening. Some day in 2030, when we are all roaming together in the jungle throwing poo at one another and beating our chests in our teslas, they will make a documentary of the real PLANET OF THE APES, and this will be the opening scene. Apes in Zoo's from Berlin, Sydney and Hong Kong were calling me via their 🍌 phones asking me what was happening.
+
+**MOST IMPORTANTLY: Todays events have now unified Republicans and Democrats. I can't read but someone told me that Donald Trump Jr, AOC, Mark Cuban, Ted Cruz, Dave Portnoy, Chamath, Jordan MOTHER FUCKING Belford & Ja Rule & God damn Kramer were all on our side! Less than 3 weeks ago there was almost a god damn civil war and now they are all ON OUR SIDE.**
+
+If someone would have told me that the list above (an all time having a beer with list), were all strongly in agreement on a major issue in America one month ago, I would have slapped them in the face with my shoe and told them I am autistic, not a retard.
+
+Now, the cream of the crop is our SWEET SWEET DADDY ELON is defending his gang of apes and letting the world know of the corruption of the shorts. For those who can indeed read and are new here, if I were a betting chimp on Elon vs Shorts (The richest daddy in the world vs analyst/wall street gurus) I would throw all my banana's and money on him if it wasn't already in $GME.
+
+My point here is that unified, we cannot be beat but individually we will be crushed. Our lord and Savior u/Deepfuckingvalue is still Diamond handing, and so can you. The GOAT took $14m to the dome and is ready for tomorrow. To quote Batman aka Christian Bale aka Dr Michael Burry "The night is darkest before dawn" (or something idk i'm an ape with a keyboard)
+
+THE ROAD AHEAD WILL BE BUMPY, BUT YOU WILL BE REWARDED FOR BUYING AND HOLDING $GME. THIS IS OUR MOMENT. DO NOT FEAR.
+
+APES.TOGETHER.STRONG
+
+PS: This isn't financial advice. If you hedge fund lurkers can't figure that out (literally talking about throwing poo) then maybe we aren't the retards after all.
+
+&#x200B;
+
+EDIT 1: The zookeeper had just put me back in my cage and gave me 50 🍌 to munch on for using full sentences. Then, Joe came back and told me people were asking positions or ban so he took 20 🍌 away from me. Firstly, fuck you and secondly 310 shares and adding more tomorrow AM. Now let me pick my nose, fling poo and eat my banana's in peace to prepare for battle tomorrow my 🦍. _END_OF_POST_PYSTOCK_ Now which retard did this? _END_OF_POST_PYSTOCK_ $AG gain today. Just the beginning, Silver has a long way to go. Watch out JP Morgan _END_OF_POST_PYSTOCK_ You are all being outsmarted bigly. Don't let them fight out of the corner, snap out of it and pin them again. Don't let the hype get to you, we're barely making a dent in Wall St. Indices are up today, everything is going according to plan for them.
+
+You think this is WSB vs Melvin? It's not. This is Navalny vs Putin, we're all just along for the ride. It's not like all the rich people in the world were shorting GameStop and then America's working class became the only buyers on the market. Ryan Cohen isn't working class. Plenty of money was long on GME from the start. 
+
+You think you've never seen reddit and the internet so united on something? During the Obama presidency all social media platforms including reddit did a blackout one day to protest for net neutrality. Was that so ineffective you completely forgot about it? 2 Presidents later, are your internet connections reliable or does YouTube still magically work better than all other video sharing sites?
+
+Robinhood's CEO couldn't care less about this lawsuit, in fact he's probably in on it. The description of Robinhood's offenses in that filing document had the grammar of an Indian scammer and it's not normal for the lawsuit to have been filed this quickly. The class action lawsuit is just something the colluders are doing to distract everyone from filing real lawsuits. This way the colluders won't have to pay a dime, they'll just have to steal from Robinhood's investors to pay some token sum, and it's not like they mind stealing. 
+
+There's a big market correction coming and brokers are going to be scrutinized for it. Before today, that scrutiny would have included questions of why basic risk mitigation methods brokers have used in the past were not used here. By staging a big heist and framing it as risk mitigation, they make risk mitigation seem entirely fake and make sure nobody will care about any questions of why brokers left clients to swim or drown. I'm not saying I would necessarily want them to interfere with the trades of clients to save them from losses when the big crash happens, letting people think and act for themselves seems good to me, but it's still very dumb to let the brokers shut down the whole conversation.
+
+It's not like this means your broker will stop using fake risk prevention as an excuse to steal from you. It just means nobody will ever ask why they don't do *actual* risk prevention, and in the eyes of dumbass regulators they'll get to play an angle of "poor me, when I do risk prevention they accuse me of stealing, I guess I shouldn't even try to help them." 
+
+You think everyone's just gonna switch to a good broker and everything's gonna be ok? There is no good broker. Paying commission creates a house advantage directly. Paying no commission creates a house advantage indirectly by making it financially sustainable to freely manipulate the trades of users without any consequences. There is no legitimate broker who will just let a poor person buy and sell whatever stock or option contract they want whenever they want and collect the majority of their own gains. The stock market is owned by rich people, the brokerages are owned by rich people, they don't want you to win, what makes you think they'll let you? 
+
+The wealthy and the intelligent are in a race to kill each other. The wealthy are not willing to let intelligent people live and intelligent people are not willing to let the wealthy kill them so the wealthy are trying to wipe out everyone who's not on their side fast enough to stop smart people from taking their wealth and smart people are trying to take away their wealth fast enough to stop them from killing everyone. Last year's new culling method was covid, the next year's will be a famine. Many people will be starving to death. Many of those will be in the utter hell of knowing they would have been ok if they hadn't been outsmarted by the rulers and robbed via stock market manipulation and psychological warfare. I can't save all of you but I hope this post saves somebody from losing the psychological war.
+
+If you can be smart enough to learn from this situation you can probably beat all this market manipulation and avoid being one of the ones to starve. Stay aware of your risks moving forward and design your trades to eliminate those risks. Design your trades to leave the ruling class with no options. Don't let one side use you against the other side in the ruling class' competition for hierarchichal supremacy, play both sides against each other as appropriate and use their game against them to benefit yourselves. Don't sell GME too early and give all your money to one side but don't sell GME too late and give all your money to the other side either. If enough of us are smart we can back all of them further into their corner and make them regret today. If too many of us are lemmings, well, everyone's chances get a lot worse in this big rat race._END_OF_POST_PYSTOCK_ You were the chosen one! It was said that you would destroy the billionaire elites, not join them. Bring balance to wallstreet! _END_OF_POST_PYSTOCK_ Hello again, my GME Bulls, while we have some downtime. Let me inform you where GME stands and the impact going forward. Hello GME Bulls, new and old. Since my last post, we've grown over 3,000,000+ in connoisseurs of fine idiotic posts. I welcome you all My Brothers in arms. Today has been a bloody day. Fuck this system that has brought many a good soldier down, and left our soldiers stranded behind the $400 enemy lines. Fear not we are coming back for you very soon.
+
+&#x200B;
+
+In my previous post,  [Found here](https://www.reddit.com/r/wallstreetbets/comments/l0hj69/gme_negative_float_the_most_bullish_misunderstood/), that somehow managed to get picked up by Vice and the New York Times. (what the fuck were they thinking posting my retarded ramblings?) I want to reiterate something important now that things have finally shifted in the upwards direction. We know from Ortex data, their estimates, which seem to have some accuracy, that EOD Wed Jan 27th 51 Million shares are still sold short. This is now less than the Outstanding shares held within the vaults of institutions/Board of Directors, but it is a net benefit for you all the diamond hands. See, what happens when a short position is started, they create a synthetic share that is then passed around in the market. More than likely, the share that you own is a synthetic share. When a short seller closes out their position, a.k.a buys back a share from the open market that synthetic share is going back to the rightful owner, and that share no longer exists. Poof. Gone.  What does that mean for you, the courageous, defying-all-odds diamond hander? all those synthetic shares start to dry up, so the supply dries up. When supply dries up, but there is still an overwhelming demand to buy those shares back, economics 101 says the price goes up.
+
+&#x200B;
+
+There has definitely been a wrench in the plan with cutting out the retail buyer, about roughly 30-50% of the buying volume, as seen today with a total trading volume of 54 million shares, vs the astounding 100m+ volume we have been having because, now you and I cannot amass more shares.  As long as we hold our shares like we have been doing through thick and thin, that synthetic float dries up. Consistently we've been over 100%+ of float due to those synth shares just disappearing, which is going to make things even more volatile going forward. bigger ups and downs, but there will be a tipping point where either we go too high and finally take profits, or we go too low and panic sell. I know which one I'd rather see transferring into my bank account, and on the headlines. I stand here, with my collection of shares, to make a stand. A stand for everyone that doesn't have access to these big fish tools, that allows them to act the victim when their own greed caused their downfall.
+
+&#x200B;
+
+TL,DR: Fuck you, you dont get one this time._END_OF_POST_PYSTOCK_ Buy GME with cash I'm just going to let Robinhood's statement do the talking:  
+
+
+> **Amid this week’s extraordinary circumstances in the market, we made a** **tough** **decision today to temporarily limit buying for certain securities.** As a brokerage firm, we have many financial requirements, including SEC net capital obligations and clearinghouse deposits. Some of these requirements fluctuate based on volatility in the markets and can be substantial in the current environment. These requirements exist to protect investors and the markets and we take our responsibilities to comply with them seriously, including through the measures we have taken today. 
+
+When you buy on margin it increase their obligations and risk.  So don't give them that excuse.  Don't use margin.  Buy it with your own money.  Tell your friends and family.  Yes it will be a wild ride and many people will lose their investment.  It will be worth it to see wall street puke in the big squeeze._END_OF_POST_PYSTOCK_ NVAX releases awesome positive phase 3 data -$NVAX to the moon [https://ir.novavax.com/news-releases/news-release-details/novavax-covid-19-vaccine-demonstrates-893-efficacy-uk-phase-3](https://ir.novavax.com/news-releases/news-release-details/novavax-covid-19-vaccine-demonstrates-893-efficacy-uk-phase-3)  (\~89% overall efficacy of trial)
+
+95.6 % efficacy NVAX vs WT covid19 strain ( Moderna -94%, BioNTech/Pfizer -95%)
+
+First company to report data on UK strain -85.6% efficacy
+
+SA strain efficacy drops to 60%
+
+Safety -  Slightly better than mRNA vaccines and protein vaccination around for a long time
+
+TLDR - The first vaccine to demonstrably show it works against multiple strains and maybe the best in class._END_OF_POST_PYSTOCK_ Anybody with some brains out there....? Why does my Fidelity chart/order book keep showing these random sells for ~$193, even though the depth chart has orders at asking price? I have been seeing this for the last 2.5 days. Seems super suspect, but it may just be a glitch... _END_OF_POST_PYSTOCK_ More good news for $BB _END_OF_POST_PYSTOCK_ Robinhood fearful - now going to allow limited quantity purchases tomorrow for $GME $BB $NOK $AMC _END_OF_POST_PYSTOCK_ Email I recieved from Robinhood Hi Jason,
+
+It’s been a tough day, and we’re grateful to you for being a Robinhood customer. In light of the extraordinary market conditions this week, we temporarily limited buying for certain securities this morning. Starting tomorrow, we plan to allow limited buys of these securities. We’ll continue to monitor the situation and may make adjustments as needed. 
+
+This was a temporary decision made to best continue serving you, and was not an easy one to make. We know it’s led to frustration and confusion, and wanted to provide some clarity.
+
+As a brokerage firm, we have many financial requirements, including SEC net capital obligations and clearinghouse deposits. Some of these requirements fluctuate based on volatility in the markets and can be substantial in the current environment. These requirements exist to protect investors and the markets and we take our responsibilities to comply with them seriously, including through the measures we have taken today.
+
+To be clear, this decision was not made on the direction of any market maker we route to or other market participants.
+
+The past year in particular has shown us that the financial markets are for everyone—not just institutional investors and hedge funds. We’ve seen a new generation enter the market, and they’re sparking conversations about what it means to be an investor. We stand in support of you, our customers. Democratizing finance for all means giving more people access, not less.
+
+We’ll keep monitoring market conditions and will update this Help Center article with the latest changes. We also published a blog post regarding today’s events.
+
+Thank you again for being a Robinhood customer. We’re so grateful for your support.
+
+Sincerely,
+The Robinhood Team_END_OF_POST_PYSTOCK_ STONKSTORY - Spent a portion of the day making THIS and HOLDING! Don't back down! (Vid too long for Reddit, so I had to divide it up- sorry) _END_OF_POST_PYSTOCK_ The email from Robin Hood for others to see... Hi J,
+It’s been a tough day, and we’re grateful to you for being a Robinhood customer. In light of the extraordinary market conditions this week, we temporarily limited buying for certain securities this morning. Starting tomorrow, we plan to allow limited buys of these securities. We’ll continue to monitor the situation and may make adjustments as needed. 
+This was a temporary decision made to best continue serving you, and was not an easy one to make. We know it’s led to frustration and confusion, and wanted to provide some clarity.
+As a brokerage firm, we have many financial requirements, including SEC net capital obligations and clearinghouse deposits. Some of these requirements fluctuate based on volatility in the markets and can be substantial in the current environment. These requirements exist to protect investors and the markets and we take our responsibilities to comply with them seriously, including through the measures we have taken today.
+To be clear, this decision was not made on the direction of any market maker we route to or other market participants.
+The past year in particular has shown us that the financial markets are for everyone—not just institutional investors and hedge funds. We’ve seen a new generation enter the market, and they’re sparking conversations about what it means to be an investor. We stand in support of you, our customers. Democratizing finance for all means giving more people access, not less.
+We’ll keep monitoring market conditions and will update this Help Center article with the latest changes. We also published a blog post regarding today’s events.
+Thank you again for being a Robinhood customer. We’re so grateful for your support.
+Sincerely,
+The Robinhood Team_END_OF_POST_PYSTOCK_ IBKR chairman said that regulators / brokers agreed that restrictions on trading because they believed the short squeeze would *KEEP GOING AND GOING", so they had to "STOP THE LOSSES" - Jim Bianco _END_OF_POST_PYSTOCK_ All in tomorrow. The collusion on the other side is absurd to point where true lessons need to be taught to these people. _END_OF_POST_PYSTOCK_ What if Daddy Musk bought out GME? Some implications and calculations inside. Ok so hear me out, I’m just thinking out loud here. What if TSLA bought out GME at 420.69? TSLA can finance the deal in all-stock with a $29 billion price tag.
+
+Why do this?
+
+1. TSLA would have to find some synergies with GME. Maybe use their retail locations as information centers for selling their cars.
+2. He can spin this off as a publicity move to “bail-out” the little guy and take a [stand](https://www.reddit.com/r/wallstreetbets/comments/l783ec/if_papa_musk_is_for_us_who_can_be_against_us_im/?utm_source=share&utm_medium=web2x&context=3) against blatant market manipulation. Remember, S Elon’s C.
+3. $29b is just 3.6% of TSLA market cap. That means even if it was worth nothing, it would only be a 3.6% drop in stock price after they announce that deal._END_OF_POST_PYSTOCK_ Power to the Players! _END_OF_POST_PYSTOCK_ Robinhood to enable *Limited* trading on GME/BB tomorrow - someone tell me if I should buy more now? _END_OF_POST_PYSTOCK_ GME, AMC, BB, NOK, NAKD, AMC AND MORE WILL BE AVAILABLE FOR "LIMITED BUYS" TOMORROW ON ROBINHOOD! THEY ARE FEELING THE PRESSURE!! &#x200B;
+
+https://preview.redd.it/mw63th1095e61.jpg?width=1242&format=pjpg&auto=webp&s=4baa0916695dac1c09ff876564584efa9e60ddce
+
+https://preview.redd.it/bqem4dfl85e61.png?width=1242&format=png&auto=webp&s=c8c719acc81ded68fe5fa4c794564d4a003039f8_END_OF_POST_PYSTOCK_ The squeeze is back on folks! Buy like your life depends on it!🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ LET’S FUCKING GO!!! $GME $AMC $BB BUT REALLY ONLY $GME _END_OF_POST_PYSTOCK_ It runs very deep, my friends. _END_OF_POST_PYSTOCK_ This isn’t market manipulation Alright listen up fellow gamers, I have a very easy explanation for the recent news about this GameStop situation being “market manipulation” from “Reddit chatboards”
+
+It seems that the general demographic of Reddit is a bunch of computer nerd freaks who love gaming. Am I wrong? That’s the truth. DFV is a true geek, one of the greatest value investors the world has ever seen and it’s fucked that he will not get any credit for his in depth analysis. I mean look at his YT channel. He has been streaming for hours on end for past 6 months. 
+
+DFV realized that GameStop was being shorted into fucking bankruptcy. This is important, because REDDIT is a bunch of GAMER FREAKS who love GameStop. Why would we let a giant hedge fund drive this stock into bankruptcy? We love to game?????? It’s not market manipulation its value investing for a company that WE LOVE. 
+
+
+I don’t hold any positions, but I have loved every second of this frenzy. DFV is a king and I hope the boomer reporters and hedge fund managers actually take out their fuckin notebooks for once because this is the new market. POWER TO THE PLAYERS
+
+Edit: not financial advice. Make your own decisions_END_OF_POST_PYSTOCK_ The Swamp is back in full force _END_OF_POST_PYSTOCK_ IF YOU WANT TO TRANSFER TO ANOTHER TRADING APP, PLEASE READ!! DO NOT TRANSFER YOUR ACCOUNT IF MOVING TO A NEW BROKER. Open a new account on a different broker and fund it. If you transfer your account, it could be up to 15 days before you are even able to sell your transferred securities. RH will lock your account during the transfer. I transferred two weeks ago and still don't have access to the cash in my account and can't transfer it out.
+
+Make sure people know this!
+
+Obviously not financial advice but a warning that you can be locked out of your account and unable to continue trading.
+
+EDIT 1: Some of you guys have pointed out that getting the money from your RH accounts will take a few days, which is true and while you do that you might miss very important dates of 🚀🚀🚀 GME._END_OF_POST_PYSTOCK_ 30k CRSR Calls YOLO _END_OF_POST_PYSTOCK_ 2021->2020 _END_OF_POST_PYSTOCK_ SEC Justifying their decision to ignore blatant market manipulation, and investigate retail investors _END_OF_POST_PYSTOCK_ How the US market seems no different from the Chinese reality after today - foreign retail investor perspective. I have traded, invested and YOLO gambled for 10 years now, this is my 11th.
+
+I have little funds, I'm not the most successful one, my risk profile is literally ADHD (diagnosis in hand), but I have my ups and my downs. Overall, I've made more money than I've lost so I consider my journey worthwhile - not just for my finances, but also for my personal education.
+
+My WSB account only equates 15% of my net worth, 80% is in index funds and 5% in penny stocks.
+
+I early on decided to trade primarily in US markets, simply because of 2 things: world reserve currency status and trading volume compared to other stock markets.
+
+That being said, after today my confidence in the US markets is heavily eroded. As a Norwegian retail investor, the blatant class warfare market manipulation carried out by various broker-dealers today is in principle no different than the Communist Party of China appropriating wealth and equity from individuals and companies alike, especially foreign investors.
+
+In China, it's the political elite that enriches themselves by outright stealing from the plebeians and commoners, dressing it up in fancy political ideology talk.
+
+In the USA, it's the capitalist elite that enriches themselves by outright stealing from the plebeians and commoners, dressing it up in fancy economical ideology talk.
+
+If this doesn't lead to any real repercussions for the criminal scum at the top (much like 2008), I'm not going to feel nearly as confident placing my funds into US markets in the future. While Scandinavian markets offer laughable volume by comparison, I feel much safer trusting that my funds won't be outright stolen from me.
+
+Wonder what happens if that erosion of trust in the American financial system starts spreading to more than just one stupid YOLOer on WSB.
+
+Your elite class is playing with fire, just my 2 cents.
+
+I've filed complaints with SEC over this, first time ever that I've even had to contact any US regulatory agencies in my life.
+
+$3,500\~ overall loss today on a 7 month long hold on $NOK, allegedly to protect me.
+
+You know who else in American history demanded protection money? The mob._END_OF_POST_PYSTOCK_ Then we shall trade in the shade. _END_OF_POST_PYSTOCK_ Guess who's pissed off and circling the wagons?? _END_OF_POST_PYSTOCK_ EVEN THE PORN SITES ARE WITH US!!!🚀🚀🚀 _END_OF_POST_PYSTOCK_ What are you going to do about it? For some of you OGs, you’ll remember at the start of Wuflu, SPY and the market was taking a shit. Robinhood and some other brokerages shut their users out of trading. Did anything change from a year ago? Fuck no.
+
+The market is rigged against us, collusion, backdoor dealings, corrupt assholes, but how can fellow retards make an impact? Choose a financial institution that supports you, place your hard earned motherfucking tendies in a broker that doesn’t fuck with your investment, use Credit Unions (because fuck the big banks), contact your politicians.
+
+Can we individually sue these assholes into oblivion by submitting small claims court cases? What if we were to organize a boiler plate small claims lawsuit we could copy and submit? 
+
+Individually, we are strong, but together, we are unstoppable. 
+
+Now, what are you going to do about it?_END_OF_POST_PYSTOCK_ Apparently it’s only ok when the 1% do it. _END_OF_POST_PYSTOCK_ ROBINHOOD TO ALLOW LIMITED PURCHASING OF "CERTAIN SECURITIES" TOMORROW EMAIL TEXT: 
+
+>It’s been a tough day, and we’re grateful to you for being a Robinhood customer. In light of the extraordinary market conditions this week, we temporarily limited buying for certain securities this morning. Starting tomorrow, we plan to allow limited buys of **these securities**. https://robinhood.com/us/en/support/articles/changes-due-to-recent-market-volatility/
+
+>We’ll continue to monitor the situation and may make adjustments as needed.  
+
+
+>This was a temporary decision made to best continue serving you, and was not an easy one to make. We know it’s led to frustration and confusion, and wanted to provide some clarity. 
+As a brokerage firm, we have many financial requirements, including SEC net capital obligations and clearinghouse deposits. Some of these requirements fluctuate based on volatility in the markets and can be substantial in the current environment. These requirements exist to protect investors and the markets and we take our responsibilities to comply with them seriously, including through the measures we have taken today. 
+To be clear, this decision was not made on the direction of any market maker we route to or other market participants. 
+
+
+>The past year in particular has shown us that the financial markets are for everyone—not just institutional investors and hedge funds. We’ve seen a new generation enter the market, and they’re sparking conversations about what it means to be an investor. We stand in support of you, our customers. Democratizing finance for all means giving more people access, not less. 
+We’ll keep monitoring market conditions and will update this Help Center article with the latest changes. We also published a blog post regarding today’s events. 
+Thank you again for being a Robinhood customer. We’re so grateful for your support.
+
+
+
+EDIT:
+
+***I don't use R-wordHood and neither should you. Get a real brokerage. These guys are the [Newton](https://en.wikipedia.org/wiki/Apple_Newton) of brokerage. All they did is make everyone realize that getting charged so much per transaction is ridiculous, and every respectable brokerage has already caught up***_END_OF_POST_PYSTOCK_ Don't move a muscle. _END_OF_POST_PYSTOCK_ BREAKING: Robinhood to open buys (likely non-margin) tomorrow for GME and other restricted securities - TO THE MOON 🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ How fucked am I? GME 200C 1/29 held on ROBINHOOD Posistions 4 200c and 2 320c both 1/29 held on Robinhood. They sent an email saying they're more likely to auto sell my contracts tomorrow, worst part is I can't buy GME with the money they sell them for because THEY BLOCK GME BUYING AS YOU ALL KNOW! Are my calls screwed compared to what they could have been? I'm opening fidelity and dumping all the money I would have got from RH's autoselling into Gamestop, draining all the other money I was keeping on the sidelines as I was already heavily into GME with these calls._END_OF_POST_PYSTOCK_ Robinhood update _END_OF_POST_PYSTOCK_ Coward less Boarding Station for our rocket Ships? As the unofficial mafia of the business world tirelessly attempts to take us down, they've pocketed a bunch of goons (RH, TDA, WEBULL, ETC) all in efforts to silence us for their own missed rocket ship.
+
+Are there any clients (boarding stations) that are willing to standup and get that recognition for allowing it users to buy and sell stocks on equal playing grounds?
+
+Can we pincer attack them with a combo of holding the line (buying more too) and using a client willing to be different; willing to allow autists to remain autists, retards to be retards?  
+
+Although it's not the dev's fault, I'm ready to leave a lovely review of the RH client and many others.  Won't stop, can't stop!  Lets goooooooooooooooo!_END_OF_POST_PYSTOCK_ Don’t stop holding, men! 🎮🛑🚀🌑 _END_OF_POST_PYSTOCK_ APES STRONG TOGETHER, YOU MAGNIFICANT PEOPLE WE HELD OUT! TIME TO GO TO SPACE _END_OF_POST_PYSTOCK_ Noob from the UK here and have multiple questions regarding whats going on with the shutting down of Buying as an Option. So I'm a total noob and have been following this for the past 2 days. I bought 10 shares of AMC at 16.something because I like the stock and really like movies and was quite angry when I found I could not buy anymore if I wanted to from Trading212. So here are the questions.
+
+&#x200B;
+
+1. What can I do about this on a political level? I saw lots of people saying to contact your local congressperson but I'm not sure how it works in my country, I am scottish.
+2. What are my other options? I looked into a bunch of other ones but apparently they all are blocking buys OR are blocked in my country. I looked up Fedility but it asks me to make payments up-front?
+3. What can i do on a legal level? Is there any class action lawsuit I can join in against Trading212?
+
+&#x200B;
+
+Also sorry for no GME, im a nervous/anxious sort :L_END_OF_POST_PYSTOCK_ Protest Outside Robinhood Headquarters _END_OF_POST_PYSTOCK_ RobinHood Insider Alleges White House Pressured Company To Close Gamestop Trades – Lawsuit Filed _END_OF_POST_PYSTOCK_ IMPORTANT! READ THIS! I think they did us a fucking FAVOR! I think they did us a fucking FAVOR!
+
+I just realized something. Spend all day livid because of brokers stopping us from buying but it just dawned on me that they might actually have done us a FAVOR! Here's why...
+
+Remember the gamma squeeze last week? If I understand it correctly, the reason it happened was because the stock price was above all the available call strikes ON EXPIRY DAY. Remember that part.
+
+So this week, they added new strikes every day because the price kept going up past the strikes -- BUT THERE'S NO GAMMA SQUEEZE BECAUSE IT HAS TO HAPPEN ON EXPIRY DAY! So each day, the price would be above all strikes and they would just add new strikes for the next day.
+
+But today, they won't because the trading price is too low to justify.
+
+Which means.... tomorrow, if the price is over 570, there will be another gamma squeeze!!!
+
+$1000 tomorrow! To the fucking mooooooooooooooooooon! 🚀🚀🚀_END_OF_POST_PYSTOCK_ I’m so proud of you all. _END_OF_POST_PYSTOCK_ Alpaca markets re-enabling trading for GME etc So they are a very small brokerage, but Alpaca markets disabled trading on GME and others (I got the notification at 1:25 PM), then I guess re-enabled again (4PM today).
+
+[disabling](https://ibb.co/yq5pqzD)
+[enabling](https://ibb.co/zRRb1xD)
+
+Alpaca [previously used](https://forum.alpaca.markets/t/general-question/2308) Apex Clearing, but say they now use "Electronic Transaction Clearing". Robinhood [uses Apex clearing](https://robinhood.com/us/en/support/articles/common-tax-questions/).
+
+It's possible Alpaca was trying to "protect" its users, but I wonder if one of their partners was applying pressure to them to go sell-only for these stocks to help a friendly hedge fund._END_OF_POST_PYSTOCK_ If RH wants me to sell, then I will - $4206.9 or bust _END_OF_POST_PYSTOCK_ Wall Street is out of bullets. They tried to short the stock into oblivion. 
+
+We saw. We bought. We held. 
+
+They hemorrhaged funds and bailed each other out. 
+
+We laughed and bought more.
+
+They manipulated the stock down with short ladders and doubling down on their short interest. 
+
+We bought the dips and began to squeeze. 
+
+They convinced our platforms to block us from buying, even forced some to sell. 
+
+We said fuck robinhood et all, rode the wave, and bought and held with platforms that support the people (shoutout fidelity). 
+
+What else have they left to do? The brokers who still allow free trading wouldn’t dare face the same backlash robinhood and others have received. Hedge funds can keep doubling down on their shorts and try to manipulate their stock but they know we’ll hold. The day of reckoning is upon us, the battle has just begun, and they’re already out of bullets. This is a fight for the people now, stand strong brothers. 
+
+Not financial advice, take your own risks._END_OF_POST_PYSTOCK_ NVAX just announced their Interim results! Incredible news, we have a 3rd vaccine that is on par with Pfizer and Moderna in terms of efficacy. Novavax vaccine shown to have 89.3% efficacy in their UK Phase 3 trials.:
+
+https://twitter.com/Novavax/status/1354899348413415425
+
+This is incredible news not just for the stock but in term of the Covid situation. They are right in line with the other two major vaccines in terms of efficacy.
+
+What's really important here is that the Novavax Vaccine is fundamentally different than the mRNA based ones produced by Pfizer and Moderna. 
+
+This is amazing news. Shout out to u/Upstairs_Speech for his incredible DD. 
+
+Edit: 
+
+UP 20% after hours, this thing is going to run in the next few weeks._END_OF_POST_PYSTOCK_ Citadel claims 'Citadel Securities has not instructed or otherwise caused any brokerage firm to stop, suspend or limit trading or otherwise refuse to do business' _END_OF_POST_PYSTOCK_ In with 50. _END_OF_POST_PYSTOCK_ Explanation for the issues today Webull and many of the other platforms use Apex Clearing Corporation, which chose to not allow buying of GME and AMC.
+
+Robinhood clears its own trades, they are 100% the devil and did this of their own accord.
+
+You may have used CashApp or Revolut, which were working fine for most people. These two use a company called DriveWealth. 
+
+Apex clearing corporation and Robinhood are both very strongly linked to Citadel. DriveWealth on the other hand, does not seem to have any strong link. Hmm._END_OF_POST_PYSTOCK_ TOO LATE, SELLOUTS. _END_OF_POST_PYSTOCK_ Some information about a stock I like I really like GME. Like a lot. What I dont like is people thinking some sort of squeeze is DEFININTELY happening TOMORROW. That's not a guarantee and I'm not sure when that narrative started or if its a bot wave trying to get people to settle for less.
+
+&#x200B;
+
+Please consider visiting :  [http://isthesqueezesquoze.com/](http://isthesqueezesquoze.com/)  for more information.
+
+&#x200B;
+
+I for one, really like this stock and I am holding forever.
+
+Obviously this isn't financial advice because I am not capable of rational thought
+
+&#x200B;
+
+ 🚀🚀🚀🚀🚀🚀🚀🚀 _END_OF_POST_PYSTOCK_ Do you realize what today means? With the announcement by Senator Feinstein that there will be committee hearings about the short-selling on GME that got these rich, golden spoons in big no-no trouble:
+
+Wallstreetbets is going to Congress.  
+
+We will hear financial "experts" talk about this sub, as we have been hearing them on the news for several days now, but in the people's house. Realize what this subreddit is, what it's for, and understand everyone is watching.
+
+We like the stock._END_OF_POST_PYSTOCK_ RH allowing limited buying of GME _END_OF_POST_PYSTOCK_ [VIDEO] Called E*TRADE - they stopped taking open orders on GME,AMC _END_OF_POST_PYSTOCK_ Today Wasn’t The First Lesson. Today was a shock to many of you newcomers, but if you’ve been a member of this sub before, it shouldn’t be a shock.
+
+Robinhood sucks. If you were buying puts during the crash in March 2020, you’d know this. Outages and cancelled orders everywhere. If you stayed on Robinhood after that, honestly, that’s your own fault.
+
+CNBC sucks. If you watched Bill Ackman yell about the sky falling in March 2020 right after he loaded up on shorts and made hundreds of millions after CNBC viewers listened to him and sold everything, you’d know this. If you care even a little bit about staying up to date about financial news, you would spend the chump change it costs to get a Bloomberg News subscription.
+
+None of this is new. If this is your first time, heed the warnings and ditch RH and CNBC - they aren’t on your side.
+
+(I own $TSLA AND $GME positions, no options like a boomer)_END_OF_POST_PYSTOCK_ If you want to get back at your broker and have free-time don't join a class action. Once someone files a class action lawsuit you can dig up their complaint with a little bit of googling, copy it pretty much word for word then file suit at your local court.  Your broker will then be stuck with the choice of spending thousands in legal fees to send an attorney to your pleb county to defend them or just settling.  Even better; if they don't show up you get the default judgement (whatever amount you claimed in damages initially.  
+
+
+Note:  In most counties the limit for small claims is 10k
+
+Edit: Damn this blew up fast; If you want updates on the status of some of these class actions AttorneyTom on YouTube is doing a whole series on it. Once upon a time I was a paralegal so my experience actually arguing cases is limited to small claims._END_OF_POST_PYSTOCK_ BE FUCKING CAREFUL if your are moving your shit off Robinhood, the process can take over a week and your account will be frozen in the meantime. Seeing a shit ton of comments about people deleting Robinhood and moving over to another broker. I use RH also and they will never get another cent out of me EVER, but you need to be aware that transferring your portfolio is NOT an instant process.  And they will freeze your account (no buying or selling ANYTHING) until the process is 100% complete
+
+
+The process involves your new broker sending a request to RH requesting to move your portfolio over. When RH gets that request they will IMMEDIATELY freeze your account entirely.  You won’t be able to do anything through RH anymore.  
+
+
+The process will normally take 3-5 business days but I’m sure with all the insanity going on it’s likely to take considerably longer.  
+
+
+
+I’m not a financial advisor but in my opinion you are sadly stuck with your current broker until the GME situation is over, if you are planning on being involved in it._END_OF_POST_PYSTOCK_ Billionaire Point72 hedge fund boss and MLB owner defiant after GameStop loss and says he’s ‘trying to make a living’ _END_OF_POST_PYSTOCK_ Yo what the fuck. Jamie, you are nobody. Gtfo _END_OF_POST_PYSTOCK_ Scott Melker is one of us! _END_OF_POST_PYSTOCK_ IM not selling FUCK em ! 🚀 🚀 _END_OF_POST_PYSTOCK_ Here Is An Updated List of Where You Can Buy GME. Stay Strong and Hold Until Melvin Closed Positions and Buys Your Shares. 🚀🚀 🚀 🚀 (Final Version) _END_OF_POST_PYSTOCK_ Caught someone selling $155 million of GME. The Squeeze has not been Squoze I was watching orderflow and I caught an institutional seller. Sold over 800k shares (about $155 million) and it was probably adding to a short position. The squeeze has not been squoze yet. Hang on everyone.
+
+[ThinkOrSwim Orders](https://preview.redd.it/o79thooa35e61.png?width=253&format=png&auto=webp&s=bb89c3d58cf7604eeeb78c698acc8b71ed7233bd)
+
+Tons of small share sells came in before this, it might have been a ladder attack to establish downward momentum before a big short. I can't imagine shorting a stock that already dropped $300 in a day, but these institutions are out for blood. Keep up the good fight.
+
+Up to date info: [http://isthesqueezesquoze.com/](http://isthesqueezesquoze.com/) (not my website)
+
+Positions: $GME average $248_END_OF_POST_PYSTOCK_ LG leaving the smart phone market could be an opportunity for other phone makers previously left behind by the smartphone era _END_OF_POST_PYSTOCK_ Economics of RH + IBKR re Mark Cubans post Mark Cuban made a fair point... Or at least a serious question raised
+
+I'm in New Zealand so I watch from great vast oceans-distance at the war going on right now and I applaud each of my fellow autists for their efforts. I've been educating a few close friends here that have come to me asking questions about this goings on, as I've been trading for 13 years now. 
+
+I'm on IBKRs, not RH as I can't get it outside of US, so there's my position on it before I go further.
+
+In this event of HUGE market swings, what IS the realistic scenario if every single diamond hand cashed up for HUGE gains and rushed the withdrawals department for their dues?
+
+Can these companies actually hold on with their heads above water in this case?
+
+Yes funds "are held in client trust accounts" and "segregated" 
+
+But it's clear citadel run the show. So...... If they stop orders, isn't this a huge finger pointing towards their actual liquidity also? 
+
+Ok now some 🔥🔥🔥🔥🚀🚀🚀🚀🚀🚀🚀 for measure.
+
+Love you all x_END_OF_POST_PYSTOCK_ 💎 🙌 All The Way _END_OF_POST_PYSTOCK_ PSA: IF YOU WANT TO BUY MORE $GME, MIGRATE TO THE FOLLOWING BROKERAGES (FOR THICK BOIS AND CANNUCKS) NOTE: THERE HAVE BEEN REPORTS OF RH SELLING PEOPLE'S POSITIONS THAT ARE ON MARGIN. IF YOU BOUGHT $GME WITH MARGIN ON RH, BE WARY. NOT FINANCIAL ADVICE.
+
+
+**I WILL KEEP THIS LIST UPDATED BY THE MINUTE ALMOST, SO PLEASE UPVOTE FOR VISIBILITY**
+======================================
+**I'VE ADDED INFO FOR OUR WORLDWIDE FRIENDOS**
+======================================
+
+REPLY TO THIS THREAD WITH UPDATES, AS I'M CONSTANTLY (MAYBE TOO MUCH FOR MY OWN HEALTH) CHECKING.
+======================================
+
+
+**FOR THE UNITED STATES 🚀:**
+
+~~E TRADE~~  (RIP THEY HALTED $GME TRADING)
+
+WEBULL (PEOPLE REPORTING THAT THIS IS DEAD BUT, I HAVE HEARD REPORTS OF PEOPLE BUYING SMALL POSITIONS 1-10 SHARES BEFORE MARKET CLOSE 1/28. STILL ALIVE FOR THOSE LOOKING TO BUY UNDER WEBULL BUY LIMIT FOR $GME)
+
+TRADESTATION
+
+ALLY INVEST (PROCEED WITH CAUTION. REPORTED CONSTANT OUTAGES)
+
+AJ BELL
+
+FIDELITY
+
+VANGUARD
+
+SCHWAB
+
+DOUGH
+
+SOFI
+
+CHASE
+
+PUBLIC
+
+
+
+
+**FOR OUR CANADIANS 🚀:**
+
+TD WEB.BROKER (CA)
+
+WEALTHSIMPLE
+
+RBC DIRECT INVESTING
+
+SCOTIA iTRADE
+
+CIBC
+
+
+
+
+**FOR OUR UK/EUROPE RENOBS🚀** 
+
+
+FREETRADE PLUS
+
+SCALABLE CAPITAL
+
+HARGREAVES LANDSDOWNE
+
+AJ BELL
+
+IG
+
+REVOLUT
+
+
+
+
+**FOR OUR SWEDES WHO FUCK🚀**
+
+
+NORDNET
+
+AVANZA
+
+SAXOTRADERGO
+
+SWEDBANKS
+
+
+
+**FOR OUR ESPANOL FRIJOLES🚀**
+
+NINETYNINE
+
+**FOR OUR NEW ZEALANDERS🚀**
+
+SHARESIES
+
+====================
+
+**WHAT I'M PERSONALLY DOING** 🚀🚀🚀🚀🚀
+
+I AM A COMPLETE REgARD, DO NOT LISTEN TO ME. BUT IF YOU ARE LOST AND WANT SOME GUIDANCE FROM SOMEBODY WHO'S GOOGLED A COUPLE TERMS IN HIS DEGENERACY OF A LIFE, **THEN LISTEN THE FUCK UP. NOT FINANCIAL ADVICE.**
+
+I HAVE $GME STOCK ON ROBINHOOD (BOUGHT WITH CASH, NOT MARGIN). **I AM NOT SELLING THIS POSITION.**
+
+I WANT TO BUY THE DIP, SO I MADE A TD AMERITRADE ACCOUNT. **MY ACCOUNT WAS ALREADY VERIFIED WITH MY IDENTITY AND SSN, WHATNOT.**
+
+**TD AMERITRADE, IF YOUR ACCOUNT IS ALREADY VERIFIED, GIVES INSTANT FUNDING IF YOU DO AN ACH TRANSFER**
+
+I BOUGHT THE DIP TODAY (1/28/21) @ $200 PER $GME SHARE. 🚀 🚀 🚀 🚀
+
+I ALSO BOUGHT THE $BB DIP TODAY (1/28/21) @ $15. 🚀 🚀 🚀 🚀
+
+
+**I AM A COMPLETE REgARD. BUT I HAVE NEVER BEEN SO CONFIDENT. IF I GO TITS UP, MY BALLS WILL NOT LEAVE THE POSITION THEY WERE ALREADY AT BECAUSE THE WEIGHT HAS THEM ALREADY TOUCHING THE FLOOR🚀🚀🚀🚀🚀**
+
+
+====================
+
+SAY IT WITH ME.
+
+FUCK ROBINHOOD💎🙌 FUCK ROBINHOOD💎🙌FUCK ROBINHOOD💎🙌
+
+**THEY CAN SLOW US DOWN BUT THEY CAN'T STOP US. IT'S OURS TO BUY. THE FREE MARKET IS THE TRUE ARBITER OF PRICE.** 🚀🚀🚀🚀🚀🚀 
+
+**WE LIKE THE STOCK, NOTHING MORE, NOTHING LESS.** 🚀🚀🚀🚀🚀
+
+
+**THIS IS A DISCUSSION THREAD, FEEL FREE TO SHARE INFORMATION WITH OTHERS REGARDING WHERE TO TRADE $GME IN A COMPLETELY UNORGANIZED, DECENTRALIZED FASHION**
+
+
+** THE $BB DIP LOOKS PRETTY NICE RIGHT NOW, NOT FINANCIAL ADVICE THOUGH  🚀🚀🚀🚀🚀 **_END_OF_POST_PYSTOCK_ ONE OF US _END_OF_POST_PYSTOCK_ 🚀🚀🚀🚀 NOK DOUBLE DOWN 🚀🚀🚀 NOK NOK? WHOS THERE? WSB FOR THE FUCKING TENDIES - Earnings on 4th! If my calls i sold get called away tmrw I’M doubling the fuck down! LFG ! I also bought 70 more in my IRA(disclosure i am not a financial advisor I’m just a retard)! _END_OF_POST_PYSTOCK_
