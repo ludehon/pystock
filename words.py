@@ -11,6 +11,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 import shared
+from View import Displayer
 
 DATA_FOLDER = shared.DATA_FOLDER
 RESSOURCES_FOLTER = shared.RESSOURCES_FOLTER
@@ -19,31 +20,6 @@ RESSOURCES_FOLTER = shared.RESSOURCES_FOLTER
 def clean_string(content):
     content = content.translate(str.maketrans("", "", string.punctuation))
     return content
-
-
-# rate = {0, 1}, data = list
-
-def lowPassFilter(data, rate):
-    tmp_data = data[0]
-    filter_data = []
-    filter_data.append(tmp_data)
-    for i in range(1, len(data)):
-        tmp_data = tmp_data * rate + data[i] * (1.0 - rate)
-        filter_data.append(tmp_data)
-    return filter_data
-
-
-def smoothDF(df):
-    # nans = np.where(np.empty_like(df.values), np.nan, np.nan)
-    # data = np.hstack([nans, df.values]).reshape(-1, df.shape[1])
-    # df = pd.DataFrame(data, columns=df.columns)
-    # df = df.interpolate(method='spline', order=1)
-    for col in df:
-        li = df[col].to_list()
-        li = lowPassFilter(li, 0.8)
-        df[col] = li
-    return df
-
 
 class wordFreq:
     
@@ -216,12 +192,7 @@ class wordFreq:
         df = df.drop(toExclude, axis=1)
         if(len(toLookAt) > 0):
             df = df[toLookAt]
-        df = smoothDF(df)
-        print(df)
-        ax = df.plot.line()
-        ax.set_title("Word trend by day " + str(size) + "/")
-        ax.set_ylabel("occurence")
-        plt.show()
+        Displayer.displayData(df)
 
     # remove unecessary columns and words
     # fileName : str
