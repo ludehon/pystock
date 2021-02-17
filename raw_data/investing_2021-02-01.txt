@@ -1,0 +1,477 @@
+ New to investing; trying to make sense of Tesla, and general question about P/E Hi all,
+
+I'm fairly new to investing. I'm reading some recommended materials; reading A Random Walk Through Wall Street and listening to The Intelligent Investor. I've started trying to read through some earnings reports to learn a bit about the space and how to do my own research.
+
+Some stocks of interest to me are the auto stocks; Toyota and Tesla to be precise.
+
+My understanding is that the P/E is the price over earnings. This number doesn't seem to be handed out per stock. Some seem to automatically calculate it? How is this done? For instance if I google "Tesla stock" I get the P/E value of 1318. 
+
+If I google ATT (T) I don't get a P/E value, which I assume means I need to calculate it myself from their earnings reports?
+
+Also, playing with the numbers and trying to figure out how Tesla (a $730B market cap company) stands up next to Toyota (A $227B market cap company) I came up with the following:
+
+    $835 / earnings = 1318.42
+    earnings = $835/1318, which would be $0.63 per share (TSLA)
+
+This is interesting to me. Because if we do the same for Toyota:
+
+    $140.49 / earnings = 14.56
+    earnings = $140.49 / 14.56 = $9.65 earnings per share (TM)
+
+More interestingly, if I try and apply the PE of TSLA to Toyota, I get the following:
+
+    1318 = price / $9.65 earnings per share
+    1318 * $9.65 = price
+    price = $12718.7
+
+This would bring Toyota's market cap to $20.6T, which I think we probably all agree would be ridiculous?
+
+The more interesting thing is I took Toyota's P/E and applied it to TSLA
+
+    14.56 = price / $0.63 earnings per share
+    price = $9.17
+
+This would bring Tesla's market cap to $8.7B if my math is right. 
+
+I guess the point of my post is to ask, what gives? Are PE values in excess of 1000 for large-cap companies ever justified? Speculatively, is this sustainable? Who is this value coming from? 
+
+I'm far enough in the books I mentioned to understand that growth is an important part of the equation when valuing a company, but I'm really trying to make sense of this. In general everything in my logical being tells me Tesla's stock is way, way overvalued, but everything in my gut is telling me "It doesn't matter" and that it's going to continue rocketing, because when I'm out on the road, I see Teslas. My coworker making $70k a year? Tesla Model 3 Driver. My boss making a few hundred thousand a year (I'm a software engineer)? Tesla Model S Driver. My wife making a few hundred thousand a year? Tesla Model X driver. 
+
+Toyota on the other hand has a lot more market share on overall cars. More people objectively drive Toyotas at the time of this posting. Even though Tesla's are becoming more common, and they seem to be "affordable" if you go with a Model 3, there are more Prius on the road at this point, I believe.
+
+Some general questions:
+
+* I have felt like I missed the bag on TSLA a few times. At what point does the market stop tolerating this? Isn't the idea on a growth stock that eventually the P/E will balance out? It doesn't feel like that will ever be the case on Tesla. Does this mean the future of a "successful" TSLA would eventually see a Tesla valued at a few trillion with a <= 100 P/E ratio (which I still feel is high)?
+* "Who" are the investors who have propelled Tesla as such? Most people I talk to about Tesla in general talk about how they can't afford to buy stocks at $300+ a share. Most individuals I know go the Random Walk route and invest in the S&P, which I suppose "indirectly" invests into TSLA. I suppose I mean to ask, are these primarily retail investors, or hedge funds?
+* Are there any previous Tesla's in history I'm missing? A Random Walk brings up the South Sea Company, and the Tulip Bulb Craze. I'm only 33, so I'm a bit curious if there's been anything like this before in that: Tesla IS successful, and it trades very high. Has anything in this situation "failed" before?
+
+Pardon my ignorance on these topics. I am genuinely trying to learn some of the psychology behind this and would greatly appreciate others' 2 cents on the topic. I know Tesla as a stock is probably a controversial topic, so I tried to provide as much "math" as I could to back up what I'm saying. Also, if I'm wrong, or not seeing the overall picture, please enlighten me. I'm here to learn._END_OF_POST_PYSTOCK_ Is Robinhood raising billions of cash a worrying sign? Latest from [Reuters](https://www.reuters.com/article/us-retail-investing-robinhood-debt-exclu/exclusive-robinhood-explores-raising-more-debt-to-fulfill-reddit-fueled-order-frenzy-sources-idUSKBN2A13HG) is they are looking for another $1bn on-top of the $3.4bn raised in the last few days. 
+
+If the YOLO trades go wrong and Robinhood is left holding the can, are we in for some nasty volatility?_END_OF_POST_PYSTOCK_ Learning about Options Strategies (New to options) Recently I started reading about options. I have been investing in shares for only a year now and wanted to broaden my horizon. I wanted to ask you about a potential strategy I read in the Stocks for Dummies book. This is purely hypothetical, I am not planning to trade in options yet until I fully understand it. I am aware of the risks, so I will not be doing this anytime soon.
+
+I currently have 100 shares of a stock, let’s call it ABC. I bought these at 2,40 a piece some time ago. Currently the price is at 2,60, and I expect it to rise towards 2,70 next month. Would it make sense to sell/write a call option at 3,00? I will receive 0.03/share in “interest?” (Dont know the english word but I think you get what I mean)
+
+Scenario 1: It reaches 3,00, the one who bought my call option will exercise it and I sell my shares for 3,00 each, which I am satisfied with. I also pocket the  “interest”. 
+
+Scenario 2: It stays between 2,70 and 3,00. I pocket the “interest” and keep my shares.
+
+Scenario 3: The price falls below 2,70. I still keep the interest, but my shares are worth less.
+
+Scenario 4: the price drops to 0. I lose all my money.
+
+The stock in question is very stable and I dont expect it to plummet at all. Would such a strategy make sense or am I missing something completely? All feedback/criticism is welcome.
+
+EDIT: Should I have posted this somewhere else?_END_OF_POST_PYSTOCK_ Apple vs SP 500 Hey all,
+
+Newish investor here...my whole life I have seen people say it is hard to beat the SP500 over time, and that even Warren can't do it, but then I see a stock like Apple (over the past 20 years especially) and think, why couldn't/hasn't a stock like Apple beat it?
+
+&#x200B;
+
+If you look at apples Returns in the past 20 years (even 25) it seems like if you're willing to wait 5 years there is a VERY LOW chance you're not making a shit load of money. Sure you can say pre 1998 there was some red years in there, but that was also before the iphone, ipads, and the tech boom...what am I missing here? I am not talking 100k, I am just sayin, if I have 5-7k I can invest...I could put in the SP and watch it double every decade....orrrrrr I could put it in apple and watch it quadruple? Obviously with a risk of one stock, you never know...but I guess my point of this is why does everyone say you can't beat the SP? Is that looking at 100 years of data, or what?_END_OF_POST_PYSTOCK_ Thoughts on NYCB???  I would love to get people's opinions on New York Community Bancorp (NYSE: NYCB). The company recently reported earning of $1.02 for 2020. It's currently trading around $10.50 a share, so a 10.5 PE ratio and a dividend yield around 6.5%. Book value is $13.66 and tangible book of $8.43. There's only a 4% short position, so this isn't a squeeze target, its just a bank that's actually making money. I've had this stock for a while and recently bought more at these prices. Should I buy more?_END_OF_POST_PYSTOCK_ Is My Assessment of Nvidia Correct? (Bullish) I think Nvidia is a good investment right now. They have been going sideways for a few months now, even though the 3000 series GPU's are still selling out instantly at nearly all retailers.
+
+In addition, they have reported record revenue for the past two quarters. Their final earnings report for 2021 is set to release on the 11th of this month, and looking at the availability of the 3000 series GPUs I think it will follow the trend.
+
+Although Nvidia stock is as high as it has ever been, I think that it is still slightly undervalued by at least 10%, and at most 25%. 
+
+Do you think this is a good assessment? Is there information I am missing?_END_OF_POST_PYSTOCK_ US Steel(X) - context, records and tarrifs Hi Everyone,
+
+I wanted to give a quick shout out to US X Steel (Ticker X) with some links as context for why I’m bullish on the stock (I manage two portfolios for family members and have them in each around 30k @ 11ish and 18ish for a overall buy-in at 15.65)
+
+I first saw mention of US X / Steel Industry either Investing or WSB. I was convinced at the time, had them buy in at 11, and was pleased enough with results to go further in, and in under < 2 months we’re up ~17% and at one point they were up near ~40% (stock hit 24ish not long ago).
+
+Here’s why I think US X Steel has room for lots of growth: I believe it can hit the 40s this year.
+
+Most recent relevant news 
+They just (2 days ago) released their most recent earnings for Q4: “Barring one-time items, adjusted loss per share was 27 cents compared with a loss of 64 cents in the prior-year quarter. The figure was narrower than the Zacks Consensus Estimate of a loss of 71 cents”
+
+
+https://finance.yahoo.com/news/u-steel-x-beats-earnings-114311872.html
+
+The Biden administration seems likely to maintain the tariffs on steel (25%), and in fact a few extra tariffs are set to kick in on Feb 8th.
+
+Steel is hovering around all-time highs at one of the popular indexes “HRC” @1080ish. Previous highs of HRC were in 2008 when the company (X) traded in the 170s before an extremely sharp crash in 2008 and collapse of construction / the economy in general. Because of the tariffs, not to mention the prospect of a Biden infrastructure plan, which Bernie seems quite passionate on pushing into fruition…I think there are a lot of reasons to be bullish on steel in general. It seems there is both an overall optimism in the market and a lot of pent up demand from automakers, appliances and other uses of steel such that, combined with the tariffs…are perfect conditions.
+US X finished full acquiring a plant called “Big River” which uses an “Electric Arc Forge” which uses electricity to efficiently melt steel. These are a newer, greener technology and the steel produced is in demand due to 1) helping companies meet carbon sustainability targets and 2) there are a variety of new steel formulations that X has developed - they upgraded their portfolio from 11 to 14 steel types. EAF (electric arc furnaces) are more efficient and also more agile, they can be more quickly fired up and winded down to more closely match demand and not have wasted capacity during downturns.
+
+https://www.cnbc.com/2020/12/02/biden-tells-nyt-columnist-he-wont-immediately-remove-trumps-tariffs-on-china.html
+https://www.strtrade.com/trade-news-resources/tariff-actions-resources/section-232-tariffs-on-steel-aluminum
+
+Let me know if you have any questions. I have kept up with broader steel industry including world supply / demand projections for upcoming years and paid a lot of attention to X for about 3 months now._END_OF_POST_PYSTOCK_ Question about Target Retirement Portfolios and Ticker info Hi guys,
+
+I know everybody is super obsessed with what is going on with gme, amc, nok, bb and yada yada yada right now so I was hoping to gain some insight into a nagging question of mine that I can't really find too much info on.  I may answer my own question while writing this so bear with me.
+
+I've been looking at stashing some money into some target retirement funds.  Looking at ticker info it seems like for the most part, these funds stay in relatively the same price range throughout their histories.  (JHROX, VTIVX, FFFGX, SWYHX)  Vanguard's 2045 TR fund and the Schwab SWYHX are the only ones that seems to have an upwards trajectory.  Now I'm pretty sure they keep it low by distributions and dividends on these funds (?), but why are their prices kept so low instead of letting the fund build?  How am I supposed to see and compare overall gains and average yearly yields (and make a decision of which fund to invest) in these different portfolios when their distributions and share prices are all over the place?
+
+Thanks for any info!_END_OF_POST_PYSTOCK_ LMT: A Deep Dive Edit 1: More ARKQ buying today (~50k shares). Thank you everyone for the positive feedback and discussion! 
+
+Bottom Line Up Front (BLUF) or TL;DR for the non-military types:
+
+LMT is a good target if you want to literally go to the moon, and my PT is $690.26 in two years (more than 2x from current levels). Justification and some possible trade ideas are listed below, just CTRL-F “Trade Ideas”. I hope you guys enjoy this work and would appreciate any discussion or feedback. I hope to catch you in the comments.
+
+Team,
+
+We interrupt today’s regularly scheduled short squeeze coverage to discuss a traditionally boring stock, LMT (Lockheed Martin), with significant upside potential. To be clear, this is NOT a short squeeze target like many reddit posts are keying on. I hope that this piece sparks discussion, but if you are just looking for short squeeze content, all I have to say is BUY, HOLD, and GODSPEED.
+
+The source of inspiration for me writing this piece is threefold; first, retail investors are winning, and I believe that we will continue to win if we continue to identify opportunities in the market. In my view, the stock market has always been a place for the public to shine a light on areas of innovation that real Americans are excited about and proud to be a part of. Online communities have stolen the loudspeaker from hedge fund managers and returned it to decentralized online democracies that quickly and proudly shift their weight behind ideas they believe in. In GME’s case, it was a blatant smear campaign to destroy a struggling business. I think that we should continue this campaign by identifying opportunities in the market and running with them. It may sound overly idealistic, but if reddit can take on the hedge funds, I non-ironically believe that we can quite literally take good companies researching space technology to the moon. I think LMT may be one of several stocks to help get us there.
+
+Second, a video where the Secretary of State of Massachusetts argues that internet boards are full of a bunch of unsophisticated, thoughtless traders really ticked me off. This piece is designed to show that ‘the little guy’ is ready to get into the weeds, understand business plans, and outpace analysts that think companies like Tesla are overvalued by comparing them to Toyota. That is a big reason that I settled on an old, large, slow growth company to do a deep-dive on, and try my best to show some of the abysmal predictive analysis major ‘research firms’ do on even some of the most heavily covered stocks. LMT is making moves, and the suits on wall street are 10 steps behind. At the time of writing this piece, Analyst Estimates range from 330-460 (what an insane range).
+
+Third, and most importantly, I am in the US military, and I think that it is fun to go deep into the financials of the defense sector. I think that it helps me understand the long-term growth plans of the DoD, and I think that I attack these deep-dives with a perspective that a lot of these finance-from-day-one cats do not understand. Even if no one ever looks at this work, I think that taking the time to write pieces like this makes me a better Soldier, and I will continue to do it in my spare time when I am feeling inspired. I wrote a piece on Raytheon Technologies (Ticker: RTX) 6 months ago, and I think it was well-received. I was most convicted about RTX in the defense sector, but I have since shifted to believing LMT is the leader in the defense space. I am long both, though. If this inspires anyone else to do similar research on other companies, or sparks discussion in the community, that is just a bonus. Special shout-out to the folks that read more than just the TL;DR, but if you do just read the TL;DR, I love you too!
+
+Now let us get into it:
+
+**Leadership**
+
+I generally like to invest in companies that are led by people that seem to have integrity. Jim Taiclet took the reins at LMT in June of last year. While on active duty, he served as a C-141B Starlifter pilot (a retired LMT Aircraft). After getting out he went to work for the American Tower Corporation (Ticker: AMT). His first day at American Tower was September 10, 2001. The following day, AMT lost 13 employees in the World Trade Center attack. He stayed with the company, despite it being decimated by market uncertainty in the wake of 9/11. He was appointed CEO of the very same company in 2004. Over a 16 year tenure as CEO of AMT the company market cap 20x’d. He left his position as CEO of AMT in March of last year, and the stock stagnated since his departure, currently trading at roughly the same market cap as to when he left.
+
+Jim Taiclet was also appointed to be the chairman of the board this week, replacing the previous CEO. Why is it relevant that the CEO came from a massive telecommunications company?
+
+Rightfully, Taiclet’s focus for LMT is bringing military technology into the modern era. He wants LMT to be a first mover in the military 5G space, military application of AI space, the… space space, and the hypersonic glide vehicle (HGV) space. These areas are revolutionary for the boomer defense sector. We will discuss this in more detail later when we cover the company’s P/E multiple and why it is absolute nonsense.
+
+It is not a surprise to me that they brought Taiclet on during the pandemic. He led AMT through adversity before, and LMT’s positioning during the pandemic is tremendous relative to the rest of the sector, thanks in large part to some strong strategic moves and good investments by current and past leadership. I think that Taiclet is the right CEO for the job.
+
+In addition to the new CEO, the new Secretary of Defense, Secretary Lloyd Austin, has strong ties to the defense sector. He was formerly a board member for RTX. He is absolutely above reproach, and a true leader of character, but I bring this up not to suggest that he will inappropriately serve in the best interest of defense contractors, but to suggest that he speaks the language of these companies effectively. I do not anticipate that the current administration poses as significant of a risk to the defense sector as many analysts seem to believe. This will be expanded in the headwinds section below.
+
+**SPACE**
+
+Cathie Wood and the ARK Invest team brought a lot of attention to the space sector when the ARKX, The ARK Space Exploration ETF, Form N-1A was officially filed through the SEC. More recently, ARK Invest published their Big Ideas 2021 Annual Report and dedicated an entire 7-page chapter to Orbital Aerospace, a new disruptive innovation platform that the ARK Team is investigating. This may have helped energize wall street to re-look their portfolios and their investments in space technology, but it was certainly not the first catalyst that pushed the defense industry in the direction of winning the *new* space race.
+
+In June 2018, then President Trump announced at the annual National Space Council that “it is not enough to merely have an American presence in space, we must have American dominance in space. So important. Therefore, I am hereby directing the Department of Defense (DoD) and Pentagon to immediately begin the process necessary to establish a Space Force as the sixth branch of the Armed Forces". Historically, Department of Defense space assets were under the control of the Air Force. By creating a separate branch of service for the United States Space Force (USSF), the DoD would allocate a Chairman of Space Operations on the Joint Chiefs of Staff and clearly define the budget for space operations dedicated directly to the USSF. At present, this budget is funneled from the USAF’s budget. The process was formalized in December of 2019, and the DoD has appropriated \~$15B to the USSF in their first full year of existence according to the FY21 budget.
+
+Among the 77 spacecraft that are controlled by the USSF, 29 of them are Lockheed Martin GPS satellites, 6 of them are Lockheed Martin Space-Based Infrared Systems (SBIRS), and LMT had a hand in creating and/or manufacturing for several of the other USSF efforts. The Next Generation Overhead Persistent Infrared Missile Warning Satellites (also known as Next-Gen OPIR) were contracted out to both Northrup Grumman (Ticker: NOC) and LMT. LMT’s contract is currently set at $4.9B, NOC’s contract is set at $2.37B.
+
+Tangentially related to the discussion of space is the discussion of hypersonic glide vehicles (HGVs). HGVs have exoatmospheric and atmospheric implications, but I think that their technology is extremely important to driving margins down for both space exploration and terrestrial point-to-point travel. LMT is leading the charge for military HGV research. They hold contracts with the Navy, Air Force, and Army to develop HGVs and hypersonic precision fires. The priority for HGV technology accelerated significantly when Russia launched their Avangard HGV in December of 2019. Improving the technology for HGVs is a critical next-step in maintaining US hegemony, but also maintaining leadership in both terrestrial and exoatmospheric travel.
+
+**LARGE SCALE COMBAT OPERATIONS (LSCO)**
+
+The DoD transitioning to Large-Scale Combat Operations (LSCO) as the military’s strategic focus. This is a move away from an emphasis on Counter-Insurgency operations. LSCO requires effective multi-domain operations (MDO), which means effective and integrated strategies regarding land, sea, air, space, and cyberspace. To have effective MDO, the DoD is seeking systems that both expand capabilities against peer threats and increase the ability to track enemy units and communicate internally. This requires a modernizing military strategy that relies heavily on air, missile, and sensor modernization. Put simply, the DoD has decided to start preparing for peer or near-peer adversaries (China, Russia, Iran, North Korea) rather than insurgencies. For this reason, I believe that increased Chinese and Russian tensions are, unfortunate as it may be, a boon to the defense industry. This is particularly true in the missiles/fires and space industry, as peer-to-peer conflicts are won by leveraging technological advantages.
+
+There are too many projects to cover in detail, but some important military technologies that LMT is focusing on to support LSCO include directed energy weapons (lasers) to address enemy drone technology, machine learning / artificial intelligence (most applications fall under LMT’s classified budget, but it is easy to imagine the applications of AI in a military context), and 5G to increase battlefield connectivity. These projects are all nested within the DoD’s LSCO strategy, and position LMT as the leader in emergent military tech. NOC is the other major contractor making a heavy push in the modernization direction, but winners win, and I think a better CEO, balance sheet, and larger market cap make LMT the clear winner for aiding the DoD in a transition toward LSCO.
+
+**SECTOR COMPARISON (BACKLOG)**
+
+The discussion of LSCO transitions well into the discussion of defense contractor backlogs. Massive defense contracts are not filled overnight, so examining order backlogs is a relatively reliable way to gauge the interest of the DoD in a defense contractor’s existing or emerging products. For my sector comparison, I am using the top 6 holdings of the iShares U.S. Aerospace & Defense ETF (Ticker: ITA). I hate this ETF, and ETFs like it (DFEN) because of their massively outsized exposure to aerospace, and undersized allocation to companies like LMT. LMT is only 18% smaller than Boeing (Ticker: BA) but is only 30.4% of the exposure of BA (18.46% of the fund is BA, only 5.62% of the fund is LMT). Funds of this category are just BA / RTX hacks. I suggest building your own pie on a site like M1 Finance (although they are implicated in the trade restriction BS… please be advised of that… hoping other brokerages that are above board will offer similar UIs like the pie design… just wanted to be clear there) if you are interested in the defense sector.
+
+The top 6 holdings of ITA are:
+
+Boeing Company (Ticker: BA, MKT CAP $110B) at 18.46%
+
+Raytheon Technologies (Ticker: RTX, MKT CAP $101B) at 17.84%
+
+Lockheed Martin (Ticker: LMT, MKT CAP $90B) at 5.62%
+
+General Dynamics Corporation (Ticker: GD, MKT CAP $42B) 4.78%
+
+Teledyne Technologies Incorporated (Ticker: TDY, MKT CAP $13B) at 4.74%
+
+Northrop Grumman Corporation (Ticker: NOC, MKT CAP $48B) at 4.64%
+
+As a brief aside, please look at the breakdowns of ETFs before buying them. The fact that ITA has more exposure to TDY than NOC and L3Harris is wild. Make sector ETFs balanced how you want them to be balanced and it will be more engaging, and you will likely outperform. I digress.
+
+Backlogs for defense companies can easily be pulled from their quarterly reports. Here are the current backlogs in the same order as before, followed by a percentage of their backlog to their current market cap. All numbers are pulled from January earning reports unless otherwise noted with an \* because they are still pending.
+
+**Boeing Company** backlog (Commercial: $282B, Defense: $61B, Foreign Military Sales (FMS, categorized by BA as ‘Global’): 21B, Total Backlog 364B): BA’s backlog to market cap is a ratio of 3.32, which is strong, but most of that backlog comes from the commercial, not the defense side. Airlines have been getting decimated, I am personally not interested in having much of my backlog exposed to commercial pressures when trying to invest in a defense play. Without commercial exposure, their defense only backlog ratio is .748. This is extremely low. I understand that this does not do BA justice, but I am keying in on defense exposure, and I am left thoroughly unsatisfied by that ratio. Also, we have seen several canceled contracts already on the commercial side.
+
+**Raytheon Technologies** backlog (Defense backlog for all 4 subdivisions: 67.3B): Raytheon only published a defense backlog in this quarter’s report. That is further evidence to me that the commercial aerospace side of the house is getting hammered. They have a relatively week backlog to market cap as well, putting them at a ratio of .664, worse off than the BA defense backlog.
+
+**Lockheed Martin** backlog (Total Backlog: $147B): This backlog blows our first two defense backlogs out of the water with a current market cap to backlog ratio of 1.63.
+
+**General Dynamics Corporation** backlog (Total Backlog: $89.5B, $11.6B is primarily business jets, but it is difficult to determine how much of their aerospace business is commercial): Solid 2.13 ratio, still great 1.85 if you do not consider their aerospace business. The curveball here for me is that GD published a consolidated operating profit of $4.1B including commercial aerospace, whereas LMT published a consolidated operating profit of $9.1B. This makes the LMT ratio of profit/market cap slightly in favor of LMT without accounting for the GD commercial aerospace exposure. This research surprised me; I may like GD more than I originally assumed I would. Still prefer LMT.
+
+**Teledyne Technologies Incorporated** backlog (Found in the earnings transcript, $1.7B): This stock is not quite in the same league as the other major contractors. This is an odd curveball that a lot of the defense ETFs seem to have too much exposure to. They have a weak backlog, but they are a smaller growing company. I am not interested in this at all. It has a backlog ratio of .129.
+
+**Northrop Grumman Corporation** backlog ($81B): Strong numbers here. I see NOC and LMT as the two front-runners in the defense sector. I like LMT more because I like their exposure to AI, 5G, and HGVs more than NOC, but I think this is a great alternative to LMT if you like the defense sector. Has a ratio of 1.69, slightly edging out LMT on this metric. LMT edges out NOC on margins by \~.9%, though, which has significant implications when considering the depth of the LMT backlog.
+
+The winners here are LMT, GD, and NOC. BA is attractive if you think anyone will have enough money to buy new planes. BA and RTX are both getting hammered by commercial aerospace exposure right now and are much more positioned as recovery plays. That said, LMT and NOC both make money now, and will regardless of the impact of the pandemic. LMT is growing at a slightly faster rate than NOC. Both are profit machines, but I like LMT’s product portfolio and leadership a lot more.
+
+**FREE CASH FLOW**
+
+Despite the pandemic, LMT had the free cash flow to be able to pay a $2.60 per share dividend. This maintains their \~3% yearly dividend rate. They had a free cash flow of $6.4B. They spent $3.9 of that in share repurchases and dividend payouts. That leaves 40% of that cash to continue to strengthen one of the most stalwart balance sheets outside of big tech on the street. Having this free cash flow allowed them to purchase Aerojet Rocketdyne for $4.4B in December. They seem flexible and willing to expand and take advantage of their relative position during the pandemic. This is a stock that has little downside risk and significant upside potential. It is always reassuring to me to know that at the end of the day, a company is using its profit to continue to grow.
+
+**HEADWINDS**
+
+**New Administration** – This is more of an unknown than a headwind. The Obama Administration was not light on military spending, and the newly appointed SecDef is unlikely to shy away from modernizing the force. Military defense budgets may get lost in the political shuffle, but nothing right now suggests that defense budgets are on the chopping block.
+
+**Macroeconomic pressure** – The markets are tumultuous in the wake of GME. Hedgies are shaking in their boots, and scared money weighed on markets the past week. If scared money continues to exert pressure on the broader equity markets, all boomer stocks are likely weighed down by slumping markets.
+
+**Non-meme Status** – The stocks that are impervious to macroeconomic pressures in the above paragraph are the stonks that we, the people, have decided to support. From GME to IPOE, there is a slew of stonks that are watching and laughing from the green zone as the broader markets slip deeper into the red zone. Unless sentiment about LMT changes, I see no evidence that LMT will remain unaffected by a broader economic downturn (despite showing growth YoY during a pandemic).
+
+**TAILWINDS**
+
+**Aerojet Rocketdyne to the Moon** – Cathie Wood opened up a $39mil position in LMT a few weeks ago, and this was near the announcement of ARKX. The big ideas 2021 article focuses heavily on satellite technology, deep learning, and HGVs. I think that the AR acquisition suggests that vertical integration is a priority for LMT. They even fielded a question in their earnings call about whether they were concerned about being perceived as a monopoly. Their answer was spot on—the USFG and DoD have a vested interest in the success of defense companies. Why would they discourage a defense contractor from vertical integration to optimize margins?
+
+**International Tensions** – SolarWinds has escalated US-Russia tensions. President Biden wants to look tough on China. LSCO is a DoD-wide priority.
+
+**5G.Mil** – We still do not have a lot of fidelity on what this looks like, but the military would benefit in a lot of ways if we had world-wide access to the rapid transfer of encrypted data. Many units still rely on Vietnam-era technology signal technology with abysmal data rates. There are a lot of implications if the code can be cracked to win a DoD 5G contract.
+
+**TRADE IDEAS**
+
+**Price Target:** LMT is currently at a P/E of \~14. Verizon has roughly the same. LMT’s 5-year P/E ratio average is \~17. NOC is currently at a P/E of \~20. TSLA has a P/E Ratio of 1339 (disappointingly not 1337). P/E is a useless metric because no one seems to care about it. My point is that LMT makes a lot of money, and other companies that are valued at much higher multiples do not make any money at all. LMT’s P/E ratio is that of a boomer stock that has no growth potential. LMT’s P/E is exactly in line with the Aerospace and Defense Industry P/E ratio standard. LMT’s new CEO is pushing the industry in a new direction. I will arbitrarily choose a P/E ratio of 30, because it is half of the software industry average, and it is a nice round number. Plus, stock values are speculative and nonsense anyway.
+
+Share price today: $321.82
+
+Share price based on LMT average 5-year P/E: $384.08 (I see this as a short term PT, reversion to the mean)
+
+Share price with a P/E of 30: $690.26
+
+**Buy and Hold:** Simple. Doesn’t take much thought. Come back in a year or two and be happy with your tendies (and a few dividends to boot).
+
+**LEAPS Call Debit Spread (Based on last trade prices):** Buy $375 C 20 JAN 23 for $26.5, Sell $450 C 20 JAN 23 for $12. Total Cost $14.5 for a spread width of $75. Max gain 517% per spread. Higher risk strategy.
+
+**LEAPS**: Buy $500 C 20 JAN 23 for $7.20. Very high-risk strat. If the price target is hit within two years, these would be in the money $183 per contract for a gain of 2500%. This is the casino strat.
+
+**SOURCES**
+
+[https://www.lockheedmartin.com/en-us/news/features/2020/james-taiclet-from-military-pilot-to-successful-ceo.html](https://www.lockheedmartin.com/en-us/news/features/2020/james-taiclet-from-military-pilot-to-successful-ceo.html)
+
+[https://www.warren.senate.gov/newsroom/press-releases/in-response-to-senator-warrens-questions-secretary-of-defense-nominee-general-lloyd-austin-commits-to-recusing-himself-from-raytheon-decisions-for-four-years](https://www.warren.senate.gov/newsroom/press-releases/in-response-to-senator-warrens-questions-secretary-of-defense-nominee-general-lloyd-austin-commits-to-recusing-himself-from-raytheon-decisions-for-four-years)
+
+[https://news.lockheedmartin.com/2019-08-30-Lockheed-Martins-Expertise-in-Hypersonic-Flight-Wins-New-Army-Work](https://news.lockheedmartin.com/2019-08-30-Lockheed-Martins-Expertise-in-Hypersonic-Flight-Wins-New-Army-Work)
+
+[https://www.lockheedmartin.com/en-us/capabilities/hypersonics.html](https://www.lockheedmartin.com/en-us/capabilities/hypersonics.html)
+
+[https://research.ark-invest.com/hubfs/1\_Download\_Files\_ARK-Invest/White\_Papers/ARK%E2%80%93Invest\_BigIdeas\_2021.pdf?hsCtaTracking=4e1a031b-7ed7-4fb2-929c-072267eda5fc%7Cee55057a-bc7b-441e-8b96-452ec1efe34c](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK%E2%80%93Invest_BigIdeas_2021.pdf?hsCtaTracking=4e1a031b-7ed7-4fb2-929c-072267eda5fc%7Cee55057a-bc7b-441e-8b96-452ec1efe34c)
+
+[https://www.deseret.com/2018/6/19/20647309/twitter-reacts-to-trump-s-call-for-a-space-force](https://www.deseret.com/2018/6/19/20647309/twitter-reacts-to-trump-s-call-for-a-space-force)
+
+[https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2021/fy2021\_Budget\_Request\_Overview\_Book.pdf](https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2021/fy2021_Budget_Request_Overview_Book.pdf)
+
+[https://www.airforcemag.com/lockheed-receives-up-to-4-9-billion-for-next-gen-opir-satellites/](https://www.airforcemag.com/lockheed-receives-up-to-4-9-billion-for-next-gen-opir-satellites/)
+
+[https://spacenews.com/northrop-grumman-gets-2-3-billion-space-force-contract-to-develop-missile-warning-satellites/](https://spacenews.com/northrop-grumman-gets-2-3-billion-space-force-contract-to-develop-missile-warning-satellites/)
+
+[https://www.lockheedmartin.com/en-us/capabilities/directed-energy/laser-weapon-systems.html](https://www.lockheedmartin.com/en-us/capabilities/directed-energy/laser-weapon-systems.html)
+
+[https://emerj.com/ai-sector-overviews/lockheed-martins-ai-applications-for-the-military/](https://emerj.com/ai-sector-overviews/lockheed-martins-ai-applications-for-the-military/)
+
+[https://www.defenseone.com/business/2020/07/new-ceo-wants-lockheed-become-5g-player/167072/](https://www.defenseone.com/business/2020/07/new-ceo-wants-lockheed-become-5g-player/167072/)
+
+[https://www.wsj.com/articles/defense-firms-expect-higher-spending-11548783988](https://www.wsj.com/articles/defense-firms-expect-higher-spending-11548783988)
+
+[https://www.etf.com/ITA#efficiency](https://www.etf.com/ITA#efficiency)
+
+[https://s2.q4cdn.com/661678649/files/doc\_financials/2020/q4/4Q20-Presentation.pdf](https://s2.q4cdn.com/661678649/files/doc_financials/2020/q4/4Q20-Presentation.pdf)
+
+[https://investors.rtx.com/static-files/dfd94ff7-4cca-4540-bc4b-4e3ba92fc646](https://investors.rtx.com/static-files/dfd94ff7-4cca-4540-bc4b-4e3ba92fc646)
+
+[https://investors.lockheedmartin.com/static-files/64e5aa03-9023-423a-8908-2aae8c7015ac](https://investors.lockheedmartin.com/static-files/64e5aa03-9023-423a-8908-2aae8c7015ac)
+
+[https://s22.q4cdn.com/891946778/files/doc\_financials/2020/q4/GD\_4Q20\_Earnings\_Highlights-Outlook-Final.pdf](https://s22.q4cdn.com/891946778/files/doc_financials/2020/q4/GD_4Q20_Earnings_Highlights-Outlook-Final.pdf)
+
+[https://www.fool.com/earnings/call-transcripts/2021/01/27/teledyne-technologies-inc-tdy-q4-2020-earnings-cal/](https://www.fool.com/earnings/call-transcripts/2021/01/27/teledyne-technologies-inc-tdy-q4-2020-earnings-cal/)
+
+[https://investor.northropgrumman.com/static-files/6e6e117f-f656-4c68-ba7f-3dc53c2dd13a](https://investor.northropgrumman.com/static-files/6e6e117f-f656-4c68-ba7f-3dc53c2dd13a)_END_OF_POST_PYSTOCK_ Beyond the Hype - Stocks Poised for Big Gains What an exciting time for the individual investor. Here are my favorite ideas for 2021:
+
+1. Mimedx MDXG - Beaten down biotech company is a giant in the making. Best in class advanced wound care products processed from donated placental tissue. AmnioFix Injectable products for the treatment of knee osteoarthritis and other musculoskeletal conditions undergoing advanced clinical trials with great promise for a multi-billion dollar total addressable market. Great new BOD including Sarepta Board Chair, former Medtronics CEO, and numerous other all-stars. Currently trading at huge discount to future potential. Activist hedge fund owns 8% of the company and believes fair value is $31, which is 3.5X current valuation.
+
+2. Exact Sciences EXAS - Soon to be global leader in early cancer detection and diagnostics. Maker of Cologuard Test (poop in a box) for early detection of colon cancer. Liverguard test for hepatocellular carcinoma to be released 1st half 2021. Just purchased Thrive Early Detection to create a pan cancer early detection blood test. Yuge potential and Cathie Wood/ARK Investment favorite.
+
+3.  Amarin AMRN.  Beaten down Irish maker of prescription Vascepa which has been spiking recently due to positive regulatory developments in China and EU.  Drug has shown huge potential in ability to reduce risk of cardiovascular events and even to treat Covid-19, given the amazing anti-inflammatory properties of Icosapent Ethyl. Positive clinical trial news and patent litigation developments are big short term catalysts.
+
+4. ProShares Ultra Silver AGQ - If the tards unite behind Silver this leveraged 2X silver ETF could fly. Silver has been heavily manipulated by the Hunt Brothers and others throughout the years and could be ripe for gains given worldwide money printing by Central Banks and recent dollar weakness.
+
+5. Aphria APHA - This is an arbitrage play. Aphria merging with Tilray and APHA shareholders will receive .8381 shares of TLRY. Tilray closed Friday at $18.10 which would imply an APHA valuation of $15.16. But APHA closed Friday at $12.18, a huge discount. Just bought Sweetwater Brewery in Atlanta for future THC drink distribution in USA. Biden to legalize weed. Great Mgt. Big potential._END_OF_POST_PYSTOCK_ Virgin Galactic Test Flight Incoming!! " Preparation is underway for a rocket-powered test flight of SpaceShipTwo Unity from Spaceport America, New Mexico. The flight window will open on Feb 13th with opportunities to fly throughout the month, pending weather conditions and technical readiness.  "
+
+[https://twitter.com/virgingalactic/status/1356200406586716167](https://twitter.com/virgingalactic/status/1356200406586716167)_END_OF_POST_PYSTOCK_ Time to go long on AMD? I missed last year's incredible bull run in a lot of tech. I played the options market more and held cash. Now I'm looking for decent value holds. AMD's most recent earnings blowout has me pretty exciting that they're living up to the hype. As far as I can see their P/E was basically cut in half after their report last week. That, plus the fact that their stock has been dropping ever since makes me think this is an excellent dip to buy. 
+
+Any thoughts or comments are appreciated. Just wanna discuss what everyone else thinks._END_OF_POST_PYSTOCK_ Strong fundamentals for a turnaround case Hi everyone,
+
+I'd like to draw your attention to SIG plc, a medium sized company in the United Kingdom. They trade in FTSE All Shares. SIG ticker is SHI.
+
+The company has a long history, many thousands of employees, nearly 500 branches in the UK and other European countries.
+
+SIG has very strong fundamentals and the potential to deliver a Multibagger, starting from March 2021, when they will release their final year results for 2020 and give a positive trading statement forward.
+
+\--> SIG is currently at 29p. Last year they were about 130p (1.3 british pounds). Upside here is huge.
+
+[https://www.google.com/search?q=sig+share&rlz=1C1CHBF\_en-GBGB844GB844&oq=sig+share&aqs=chrome..69i57j69i60l3.4783j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=sig+share&rlz=1C1CHBF_en-GBGB844GB844&oq=sig+share&aqs=chrome..69i57j69i60l3.4783j0j7&sourceid=chrome&ie=UTF-8)
+
+\--> The company had profitability issues in the past but now they're ready to return to where they were in terms of profit. Many positive developments here. The company changed their board/CEO, recapitalised, changed their approach in doing business (significantly more customer focussed) and are generally on the Up.
+
+\--> Subsequently, they've re-opened branches due to high demand for their products and even acquired small companies in their field.
+
+\--> H2 revenues are up 4% compared to last year. Much better than expected revenue overall for 2020. 18% up! [https://www.lse.co.uk/rns/SHI/full-year-trading-update-jx3545tukauwagx.html](https://www.lse.co.uk/rns/SHI/full-year-trading-update-jx3545tukauwagx.html)
+
+\--> A lot of cash in the bank. 233m is a lot for this capitalisation (please read above link).
+
+\--> Net debt only about 5m. Very little for such a business (please read above link).
+
+\--> Restructuring completed.
+
+\--> In the last period of 2020 they even started to claw back market share (please read above link).
+
+\--> They expect profitability to return in 2021 (and the share will go a long way or even higher to where it was).
+
+\--> SIG is owned 72% by institutions such as pension funds, JP Morgan, Goldman Sachs, IKO and more. The biggest shareholder is CD&R. These last ones are experts in turnaround businesses and they jumped in Summer of 2020. They invested over 100m to buy this company and they expect it to deliver a multibagger for them.
+
+These are all "smart money" and they know where they invest. I estimate that the average price they paid is over 60p (depending on when they bought).
+
+\--> JP Morgan and others are shorting SIG plc. JPM alone owns 5% of the shares and they've suppressed the price. If we all invest here, we can force many shorters buy back in a hurry. We can make money out of them for once.
+
+All the above are honest information. I've been doing research on this company for nearly a year now. Please contact me if you have any question.
+
+The professor_END_OF_POST_PYSTOCK_ Taiwan Semiconductor Manufacturing I have been mulling over getting a position into Taiwan Semiconductor Manufacturing Co for the past week. It has had a nice little correction in the last couple weeks. I feel like the world is dangerously dependent on them and as EV boom continues the demand for semiconductors is only going to increase. 
+
+Then, I just happened to stumble upon the HSBC MSCI Taiwan UCITS ETF. It is 32% exposure to TSM and 5% each to couple of other solid Taiwanese companies like Media Tek and Hon Hai. It also has ~3% in United Microelectronics Corp which is another solid company! 
+
+I feel like the ETF would be a better choice than going for a single stock in TSM. Does anyone else have a position in either of the two or care to share their two cents?
+
+Thanks!_END_OF_POST_PYSTOCK_ Concerns over evolving practices in corporate accounting. Ok, so Enron got everyone in trouble by doing "too much of a good thing" which was to book future revenues in current quarters even though the work nor revenue was actually generated. Only problem was, everyone was doing this, it was a common practice. Accounting practices were changed with the revenue recognition principle.
+
+But, now I'm noticing (from another Redditor's comment) there is a new practice of selling Warrants (future stock options) to companies that provide current revenue in the form of orders. In addition to the already widespread practice of adding "Goodwill" to assets, which in my opinion is what the stock market is supposed to do by pricing in consumer sentiment, it feels like there is a possible accounting bubble growing. One pushed by large companies.
+
+I don't see how selling warrants to a company for current revenue isn't the same thing as booking discounted treasury stock sales as operational revenue. If this becomes common practice and the market takes a downturn, wouldn't this lead to a massive liquidity crisis in corporate America?
+
+How can I go about looking to see if these Warrant agreements exist, are they required to disclose such fiscal arrangements with vendors/suppliers? Would be interested in matching up any changes in Goodwill with the amount of future stock revenue from warrants, or finding other ways these larger corporations book these as expenses and assets._END_OF_POST_PYSTOCK_ How to hedge? Looking to explore strategies + simple actionable advice Hi there! I am primarily a buy+ hold value and dividend stock 'investor' with a smallish portfolio. I've doubled my portfolio now and would like to look at hedging against bubbles/corrections/more pandemics. What vehicles are available to do so, and how would.i get started? Right now I see there are some highly levered indexes that track opposite the market, but maybe better for day trading? Also maybe I could buy long term Puts? I've read a few articles but nothing is feeling quite right but I want to limit my risk somehow. Any advice is appreciated. Ideally I would invest x% into a buy and hold fund that has appropriate opposite & muliplied tracking to the market._END_OF_POST_PYSTOCK_ Emotional involvement has never been this high, please understand the risk involved. First of all, I can't wait to be berated in the comments. 
+
+I'm gonna be blunt, I have seen a whole lot of dumb shit over the last week.  A lot more than normal.  And compounding all of that is an unprecedented amount of legitimate emotional involvement here.  So let me get started by saying outright that people getting emotionally involved with trading stocks always lose.  Short, long, whatever.  It doesn't matter if you're a 19 year old throwing in your life savings or Bill fucking Ackman not being able to admit he was wrong with Herbalife.  Letting your emotions be a major factor in trading is a fantastic way to lose money. 
+
+And a whole lot of you are really emotionally involved with this GME, AMC, whatever.
+
+To the point: I am not making a buy/sell/hold/whatever recommendation.  I have no special insight in to what's happening with GME or whatever else.  What I can tell you is that it is for sure not worth $300.
+
+So let's dispel one quick thing: this is not David vs Goliath.  It also isn't the little man vs hedge funds or WSB vs big finance.  It might have started out that way, but if you only read one thing [read this](https://www.bloomberg.com/opinion/articles/2021-01-29/reddit-traders-on-robinhood-are-on-both-sides-of-gamestop): 
+
+>Many of the big retail brokerages, including Robinhood, route a lot of their customer orders to Citadel Securities, so it ends up seeing a large percentage of retail trades in U.S. stocks. It can see if retail traders are mostly buying or mostly selling or mostly pretty balanced. You might expect—I certainly expected—to see that retail traders were buying more than they were selling this week. The stock seemed to be rocketing up on frenzied retail sentiment, and the posters on WallStreetBets were all claiming that they would never sell and keep buying until it hit $1,000.
+
+>But here’s what Citadel Securities’ retail flow looked like in GameStop this week: 1
+
+>[Graphic here](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9SnRzR8AM1c/v0/800x-1.png)
+
+
+>Retail investors were net buyers on Monday but net sellers for the rest of the week (through yesterday), and all in all quite balanced: About 49.8% of retail orders (that Citadel Securities saw) were to buy, and 50.2% were to sell.
+
+>What do you make of that? One reading would be: “Retail investors on Reddit might have started the GameStop rally, but they’re not piling into this stock now, and the price action this week is coming from professionals.” Or as one Twitter user put it, “past the retail ignition, the rocket ship was mostly intra-fast money warfare.”
+
+
+
+So, just to be clear about this, there is massive institutional money on both sides of this trade, and retail is a toddler sitting at the world series of poker.  
+
+**Understand that melvin does not need to cover in the way a retail trader needs to cover**.  
+You, and everyone else, have no idea what Melvin's position looks like, and they can reorganize and exit a position before you ever knew it happened.  You don't know how hedged they are, you don't know what their collateral looks like, and you don't know if they've covered and restructured a short at last week's prices.  You simply don't know.  You only know what's been presented in the news, which is almost certainly bullshit.  
+
+This thing could come to an end as fast as it started and you won't know what happened for weeks.  You might go take a shit at 1pm today and come back to GME trading at $16 because Ken Griffin got on CNBC and announced they restructured their short at an average price of $200, and were happy to sit on it.  Make no mistake, you'll get kicked in the nuts and have your ball taken away faster than you can comprehend.    
+
+**Emotions**
+The problem with this whole "strike back at wall street" narrative is that lots of you are getting really worked up over this trade.  Losing money sucks, but losing money and feeling like you got shit on by the big guy is going to hurt.  This isn't a moral crusade to them, it's 25 billion dollars.  So if you're out here putting money and emotions on the line that you can't afford to lose there won't be a happy ending. 
+
+Want to fight the good fight against wall street? Write your congressman, Tweet AOC or Ted Cruz, get you a fucking picket sign and go wave it around on the streeet.  But dropping money on GME that you need in life ain't gonna change anything except your net worth.
+
+TLDR: 
+
+1) know and understand who is playing this game.  And that they have access to tools, leverage, and markets that you do not.  You're playing Le Chiffre at Casino Royale right now, you might think you're James Bond but there's a good chance that you're just the fat dude in the corner. 
+
+2) Short squeezes end fast.  As fast as they started.  If you're new to trading then understand buying GME at this price can mean all of your money will evaporate before you had time to make a TikTock about it.
+
+3) Get your emotions out of play here.  This whole nonsense political narrative is only going to cause you to make trading mistakes.  Can't handle that?  then maybe it's not a good idea to sit at this table.  
+
+Lastly, if you really just can't get yourself out of the whole "fight the hedge funds" nonsense, at least understand that you're spending money that you likely won't get back.  If that's worth it to you then have at it.  But don't fool yourself  in to thinking otherwise.
+
+**E: Completely unrelated**: I hate reddit awards, reddit doesn't need your money.  Go buy like a hundredth of a share of VTI or something._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Markets Look Like They’re in a Bubble. What Do Investors Do Now? WSJ Article Below! What is everyone's thought on this?  Ever since the markets recovered from the crash in March, I find all stocks are overpriced but I don't know if this means that we're in bubble. Could just mean investors are optimistic? 
+
+Article starts here:
+
+Markets Look Like They’re in a Bubble. What Do Investors Do Now?
+
+For once, everyone seems to agree: Much of the market looks like it’s in a bubble.
+
+Shares of unprofitable companies like GameStop Corp. GME 67.87% and AMC Entertainment Holdings Inc. AMC 53.65% are rising at a breakneck pace, propelled by a growing army of individual investors. Options activity is surging, bitcoin prices are near records and businesses are rushing to opportunistically sell stock through a flurry of initial public offerings, listings of blank-check companies and follow-on share sales.
+
+To many, valuations look stretched as they hover at levels similar to the highflying days of 2000. That said, high valuations alone don’t necessarily mean the rally is near its end, investors say. History has shown that markets have often been able to climb far longer than thought possible, be it the dot-com boom in the late 1990s or the dizzying rise in Japanese stocks in the 1980s.
+
+And recently, the broader stock market has been on the decline. The S&P 500 dropped 3.3% last week, though it remains up 66% from its March low. The bubblelike behavior there has mostly been contained to a handful of individual stocks, not larger indexes.
+
+Single-Stock Bubbles
+
+Fast-moving stocks such as GameStop, AMC Entertainment Holdings and BlackBerry have raised concerns of excessive exuberance in pockets of the market, while the S&P 500 largely remains unchanged.
+
+An even bigger issue arguing against a marketwide bubble is simple math. With interest rates at rock bottom and further stimulus on the table, many investors are being handsomely rewarded by putting their money into riskier, higher-yielding assets. What’s more, in many cases earnings have held up or been robust, despite a global pandemic.
+
+That combination of factors has helped push investor optimism. Bullishness on stocks among money managers is at a three-year high, according to a recent Bank of America survey of 194 money managers who oversee $561 billion in assets. Meanwhile, the average share of cash in portfolios—typically a safeguard against market turmoil—is at the lowest level since May 2013.
+
+Nonetheless, investors are trying to identify what could cause bubbles among individual stocks to pop and whether any of the bursts will spread to the wider market. Next week, investors will get a look at fresh data on the manufacturing sector, earnings from Amazon.com Inc. AMZN -0.97% and Google parent Alphabet Inc. GOOG -1.47% and the January employment report.
+
+“You know, this one has checked off all the boxes from a history book,” said Jeremy Grantham, co-founder of Boston money manager Grantham, Mayo, Van Otterloo & Co., who predicted the market crashes of 2000 and 2008. Mr. Grantham has been calling the current market overheated since last year.
+
+But even he concedes the timing of a market top is difficult.
+
+“We know each bubble is a little bit different and, with the help of new trading platforms and the internet, it could set more records,” he said.
+
+Mr. Grantham isn’t alone in his worries. Nearly 90% of some 627 market professionals think some financial markets are in a bubble, according to a recent Deutsche Bank survey. Meanwhile, Google searches for the term “stock market bubble” reached an all-time high in January.
+
+Jerry Braakman, chief investment officer of First American Trust, says his company, concerned about stretched valuations in the U.S., has been gradually shifting more money into stocks elsewhere.
+
+Lately, “the market has not been correlated to the macro picture,” he said.
+
+New Year Anxieties
+
+Google searches for 'stock market bubble' reached an all-time high in January.
+
+While the moves of some stocks and assets have been jarring, analysts and investors say they aren’t surprised by the freewheeling, speculative activity in the financial markets.
+
+A super-accommodative Federal Reserve, low interest rates and, more recently, optimism on the coronavirus vaccine and economy have underpinned much of the buying by investors during the past 11 months. Many Americans built up their savings during the pandemic—and stand to gain even more if Congress follows through on another stimulus package. And the prospect of low returns in most other assets has driven investors to buy stocks more aggressively.
+
+Add to that, more individual investors are trading than ever before. Those investors threw their weight around last year by shocking Wall Street veterans with a rash of irrational stock picks, including Hertz Global Holdings Inc., HTZGQ 7.36% which spiked nearly 900% from its low to its high in the wake of filing for bankruptcy protection.
+
+This year’s encores have been even more stunning. On Wednesday alone, 24.5 billion shares and 57.1 million options contracts changed hands, a record driven by individual investors, according to Rich Repetto, a managing director in Piper Sandler & Co. GameStop shares more than doubled that day, briefly giving shares of the beleaguered videogame retailer a more than 1,700% gain since the year’s start.
+
+“This is merely one example of what’s becoming dozens of dozens,” Mr. Grantham said. Other retail darlings include AMC, which jumped more than 300% Wednesday, and BlackBerry Ltd. , whose stock the same day notched its biggest gain in more than 17 years.
+
+The Blank-Check Boom Poses Pitfalls for Investors
+
+The Blank-Check Boom Poses Pitfalls for Investors
+
+Private companies are flooding to special-purpose acquisition companies, or SPACs, to bypass the traditional IPO process and gain a public listing. WSJ explains why some critics say investing in these so-called blank-check companies isn’t worth the risk. Illustration: Zoë Soriano/WSJ
+
+Companies are rushing to get in on the action.
+
+Companies have raised $13.4 billion through 24 IPOs so far this year, a 300% jump in listings from the same period last year, according to Renaissance Capital data. Blank-check companies continued to flood the market, with 91 gathering about $25 billion, nearly a third of the value raised throughout all of last year, according to SPACinsider.com. And there have been 111 offerings of additional shares by U.S.-listed companies, doubling the number from the same period a year earlier, Dealogic data show.
+
+Usually, such frenzied activity would lead big money managers to pull back from stocks. But many argue that shares of GameStop, AMC and other highflying stocks represent their own bubbles—and don’t pose a threat to the entire financial ecosystem. Analysts at Goldman Sachs Group Inc. GS -1.40% say the run-up in unprofitable stocks, which they say make up about 5% of the overall market, poses little risk of contagion.
+
+“These stocks don’t make up the bulk of the stock market,” said Samantha McLemore, a portfolio manager at $3.5 billion money-manager Miller Value Partners. “There are so many areas of the market that we’re finding attractively valued.”
+
+At first glance, investors’ go-to for measuring valuations, price-to-earnings ratios, suggests the market looks expensive.
+
+The S&P 500 currently trades at 22 times projected earnings during the next 12 months, not far off from the 25 times the index traded at in 2000, just before the dot-com crash, according to FactSet.
+
+But that’s only part of the picture. That level looks less concerning once low interest rates and earnings, which are expected to grow, are factored in, several investors and analysts said.
+
+One simple explanation for why investors haven’t pulled back more?
+
+“We’ve seen it in the past—if you think you have a bubble and sell too soon, that can be a very costly trade,” said Mr. Braakman of First American Trust.
+
+[https://www.wsj.com/articles/markets-look-like-theyre-in-a-bubble-what-do-investors-do-now-11612089001?mod=hp\_lead\_pos3](https://www.wsj.com/articles/markets-look-like-theyre-in-a-bubble-what-do-investors-do-now-11612089001?mod=hp_lead_pos3)_END_OF_POST_PYSTOCK_ Containership Boom Ongoing **BUY: $NMCI $NMM $DAC $ZIM**
+
+Rates for containerships (the ships which carry thousands of the 20-40’ boxes you see on railroads and trucks) have been going ballistic the past 4-5 months, but the stock reactions have been mixed.
+
+Link to containership rates: [https://harpex.harperpetersen.com/harpexVP.do](https://harpex.harperpetersen.com/harpexVP.do)
+
+I’m currently long about every name possible in the sector including $NMCI which I’ve owned for a bit over a year and doubled down hard into last summer at $0.70-$0.80.
+
+Even after the huge surge in the stock price, the enterprise value to EBITDA valuation metric has barely moved since cash flows are being net debts down rapidly while 2021 projected EBITDA has nearly tripled.
+
+Containerships aren’t like tankers and dry bulk vessels which normally just get 60-80 *day* voyages. These ships are typically contracted for 1-2 or even 3+ years. So when we talk about 2021 EBITDA, they’ve already locked in about 80% of it and over 50% of 2022 rates.
+
+I’ve covered the shipping sector extensively on Seeking Alpha for nearly 10 years and am also on Twitter (@mintzmyer). I figured I’d open up a conversation here and see if anyone is interested in the sector. $NMCI still trades for an unbelievable P/E of under 2x.
+
+Nick First (@allthingsventured on Twitter) has recently written a new article on Navios Partners with his own financial projections:
+
+[Article on Navios Maritime Partners](https://seekingalpha.com/article/4402328-new-navios-partners-favorite-play-for-supercycle)
+
+I believe we’re just getting started here. For my disclosure, I’m long nearly every name in the space- $ATCO $CMRE $CPLP $DAC $MPCC (Oslo) $NMCI $NMM (they own most of $NMCI) and mostly recently: $ZIM.
+
+I have about 10% of my wealth in $NMCI/$NMM. Average basis in NMCI is in the very low $1s after buying a lot this summer at 70-80c._END_OF_POST_PYSTOCK_ FedEx $FDX - Reason behind weakness? FedEx stock has been weak since early December (circa 20% weaker Vs highs).  Their last earnings didn't read too badly and they appear to be heavily involved in vaccine distribution. Do people think the weakness in the stock is linked to logistics / parcel delivery sector generally or something specific to FDX? I don't live in the US so have less anecdotal data to go by. Thanks._END_OF_POST_PYSTOCK_

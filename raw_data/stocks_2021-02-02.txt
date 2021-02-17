@@ -1,0 +1,287 @@
+ Blackberry DD Disclaimer: I am not a financial advisor and this is all my own opinion. I hold ~4k shares of bb and started buying at ~4$ with an overall average cost of ~12$.
+
+One thing that really annoyed me during this whole GME saga is somehow BB became a meme stock and the target of a "short squeeze" (SI is like 8%) with people piling on OTM calls and weeklys saying it's going to triple in a month. BB is a solid long term hold that's misvalued by the broad market.
+
+Valuation
+
+BB is currently valued at about 6.5B market cap as of closing Feb 2 2021. For a software company valued at 6.5B in today's market you would think it does like 100M a year in sales. Nope, BB is actually about a billion with 475M in annual recurring revenue with 26% y/y growth. Similar companies such as Okta and Crwd are currently at ~36B and 49B respectively. Those companies have better growth numbers but neither are profitable and should not justify an 8x price premium. Just taking annual recurring revenue assuming most of it is the software segment which grows at 26% y/y at 20 p/s alone gives ~10b value (50% upside from today's price).
+
+Current business and future business
+
+BB has not sold a phone in like 5 years. It has completely phased itself out into a pure software company. It's main lines of business are software for cars (QNX) and cybersecurity for enterprises and government (9/10 top automakers, 9/10 largest global banks, 18/20 G20 governments) all of which are relatively recession proof and once integrated hard to replace. QNX has the highest security certification from the international stadard for functional safety of electrical systems for road vehicles (ISO 26262) that not even Tesla has. They also have Canada's largest patent portfolio at over 38k. I feel all of this points to a diverse business that can withstand economic downturns supported by clients with effectively infinite money (printer go brrr).
+
+Blackberry and AWS
+
+The big news in recent months was the announcement of BB IVY a partnership with AWS. IVY is a cloud based big data platform for cars. People say tesla is not a car company but a data company due to all the data they gather. When all other car companies want to gather their own data IVY comes in. If they're already on QNX i'd imagine the integration will be seamless. The possibilites are endless as cars gather more and more data (engine, transmission, brakes, wind wipers etc).
+
+Financials
+
+BB is cashflow positive for the last 3 full years with more cash than debt, there is no risk of bankrupcy despite this fear for the last 5 or so years. The company it self targets a healthy gross margin of 80-85% and operating income of 20-25%. Current FCF is 1% but since they're in a growth phase I don't see that as a problem.
+
+Leadership
+
+CEO John Chen is an experienced leader with a technology background as a design engineer. He turned around Cybase from a 362 million dollar low to a 5.8B dollar in 12 years. He joined BB in 2013 and has received much praise for the turn around. He's currently signed on until atleast 2023 (hopefully until IVY is out and running) and has stock bonuses should the stock hit various levels between 16-30/share.
+
+Future and risks
+
+BB as a stock seem to have some bad press due being seen as a WSB meme stock. I'm personally hoping it holds support at 11-13 for a few months and trade sideways until WSB moves on to something else so it can grow organically. There's not much news on guidance regarding IVY and it is not scheduled to release until 2023 and development costs may eat into short term numbers. Although institution ownership has increased from 49% to 65% in recent months so there optimism from big money.
+
+At BB's own margin goals with revenues of 2b/3b/4b would equate to net profites of 500m/750m/1b. If growth is around 20% a 40 p/e is very reasonable which gives a market cap of 20b-40b. If a revenue growth cycle hits above expectations this could be even higher. I see a price of around 5b market cap as the floor and I don't see any reason it should go lower especially as car sales recover as we move past covid.
+
+sources: BB investor presentation and official balance sheets._END_OF_POST_PYSTOCK_ Cannabis question about the ETF “Y o l o cannabis etf”, apparently I can’t use the actual ticker symbol lol. Embarrassing. Anyway is a selectively managed cannabis worldwide etf fund. Will the hype for 2021 and US legalization pay off? I believe this is one of the potential opportunities for huge gains this year. What am I not thinking about?_END_OF_POST_PYSTOCK_ Dividend stocks for us "boomer" investors Following the dip in almost everything on Thursday-Friday, i figured it would only be temporary and would resolve on monday. It kinda did, but now i say most things are back to normal for the most part. Im referring mainly to ETF's and Index funds by the way. 
+
+Moving on to the meat and potatoes, not all of us are...well, in order to not get removed, traders of the physical location where one can buy and sell disks of code for fun or watch movies with a name close to a TV station. I myself mainly invest in dividend paying ETF's or index funds. Anyone else? 
+
+My largest positions are in TAN and VTI. I have a smaller stake in SCHD. Slow grower, but nice dividend. I also have some of PBD. Slow grower but has potential with the Biden administration. 
+
+Im looking to expand a bit, as TAN pays a tiny dividend and so does PBD. What dividend paying ETF's or index funds do you all have or recommend?
+
+Edit: this is the best subreddit community ever_END_OF_POST_PYSTOCK_ Stock version of binance platform in the EU? Hi all, being new to stock I'm having trouble finding the right platform in the EU/NL
+Most apps lack limit /stop loss settings and decent charts.
+
+Does anyone have a suggestion of a good platform with proper mobile app that has the depth and width of binance ?
+
+Thanks!_END_OF_POST_PYSTOCK_ Can someone please explain to me the discrepancy between these 2 brokerage's prices? I've included some pictures Hey fellas, I took a position yesterday on AG and felt pretty good at the end of the day. Well long behold I wake up and RH and Fidelity were showing me different prices, I assume this was due to after-market trading (still need to research this more). My main question is why did both of these apps display different stock prices?
+
+Fidelity was showing me the price at close the day before, and then 9:30 hits and BAM it plummets.
+
+RH was showing me more of a real-time update during the after-market trades.
+
+Do I need to enable after-market trading with fidelity? Or is Fidelity a boomer app that isn't as intuitive and up-to-date as RH. I'm looking to eventually leave RH so I'm looking for something that offers similar features that they do. Thanks.
+
+Fidelity app: https://i.imgur.com/5K0eXh9.png
+
+RH: https://i.imgur.com/UbiRo4V.png_END_OF_POST_PYSTOCK_ In July, 2007, several companies tried to sue the DTCC over delivery failures related to naked short selling, is there hope this time? A quick check on the DTCC [Wikipedia](https://en.wikipedia.org/wiki/Depository_Trust_%26_Clearing_Corporation) showed me that this whole stock fiasco is not something unprecedented. The very same thing  with the naked short selling was happening in 2007. The SEC didn't do anything. The Senate didn't do anything. What is different this time? Is there any hope for the individual investor?_END_OF_POST_PYSTOCK_ Carnival Plc (CCL - LSE) - Expectations after Corona Hi,
+New here, hope I following the rules. If not, sorry & please delete.
+
+Carnival Plc on the London Stock exchange is a cruise ship operator. Since around 2015 the share price was always higher than £3,000.
+
+Obviously with Corona that took a nose dive (it about £1,000 now). If they don't go bankrupt before everything re-opens, would it be reasonable to expect the share price to go back up to pre-corona levels? (obviously not immediately, but long term).
+
+For the rule about open positions, i have none in this. it is well above what I would be comfortable in buying even one of. 
+
+Was more a curiousity question. I guess it also applies to other cruise operators (and maybe airlines / tourism industry), not this one specifically.
+
+thanks
+Mike_END_OF_POST_PYSTOCK_ Some dumb questions about options brokers may have had besides halting buying  This is assuming everything they've said publicly is true
+
+1. Could they had halted a bunch of other highly volatile stocks that weren't the meme stocks? Like even if it had to be 700 other stocks, would this have cleared liquidity so people could still buy the meme stocks?
+2. Could they have shut off margin on the meme stocks completely? IE - If you were to sell a share of GME, it would take 2-3 trading days for the money to show in your account?
+3. What if they just said fuck it, we'll take the SEC fines and we'll figure out how to balance everything later, we gonna let the people buy! Would this have been technically possible? Would the clearing house have just cut RH off if they did this?
+4. Would it be reasonable to expect them to know about this possibility a couple of trading days before it happened? Could they have warned customers that if a certain level of volatility is reached, it's possible that they may be forced by their clearing house to halt buying?_END_OF_POST_PYSTOCK_ Just wondering about BB leaps Been investing since last summer, aiming for a reasonable balanced portfolio, have 400$ per month to put in. 30k in equity so far. Seems to be going well enough, mostly in FANG.
+I got lucky with GME, and have an additional 15k now I’m willing to play a little riskier with. 
+I don’t know a whole lot, trying to cut through the BS and hype and make reasonable decisions. 
+I’m wondering about 2022/2023 BB leaps 20$ strike. 
+I’m basing this on the DD surrounding their patents, settlements, Amazon partnership, and the bonus the CEO gets for stock price. 
+
+Is that a reasonable investment idea? I’ve never bought leaps before._END_OF_POST_PYSTOCK_ Advice on Brokerage (Non-GME related) Hi all,
+
+I am new into the stock market/investing game and looking for advice. While I know that the previous weeks fiasco had turned many off of recommending RH I am looking for a new brokerage service to go to. I know that Fidelity is a big one but due to CS issues in the past I’m not going back to doing business with them. So my question is are there any recommended alternatives. I was told I can have multiple brokers and was recommended to have both Vanguard and WeBull. Is that a good idea? Or are there better options. I’m both Looking for long term as well as some light trading and maybe delving into options once I’ve saved more. 
+
+Any advice is appreciated. Thank you all!_END_OF_POST_PYSTOCK_ Short selling question Hey guys! 
+With all the hype with short selling and hedge funds I have a question.
+So a short seller borrows shares and bets that the stock price will go down to buy back cheaper and make a profit by that. But as the person who holds the shares why would I lend them to the hedge fund when I know that my shares will loose value after the hedge fund played with it?_END_OF_POST_PYSTOCK_ What is the best place to buy forergn stock for a US citizen? I am interested in buying stock in a Sweden. I tried setting up an internaxx account, but it wouldn't let me select United States as my Country. And I keep looking and hearing many things. 
+
+I am just looking to buy stock as an investor that loves the company and believes in it. I believe it will succeed, so a typical broker doesn't seem necessary to me because I know what I plan to do with it, just looking for the best/easiest service. Thank you so much to any answer you amazing people._END_OF_POST_PYSTOCK_ Stocks that have the potential to double I'm trying to rebuild my watchlist after being distracted with all this craze over the last few weeks. I'm curious, what are some stocks you guys think have the potential to double over the next few months._END_OF_POST_PYSTOCK_ Best Sector ETF’s with Medium Risk? Hey all! I’m hoping to invest in something a little more stable because I seem to be absolutely terrible at picking out my own singular stocks at this point. 
+
+I have started looking at some Sector ETF’s (Tech, Pharma, Marijuana, Renewable Energy, etc), but there are a ton of options! I am hoping to find something that is medium risk, but has the possibility for some larger gains due to the current political climate and technology advances. 
+
+Does anyone have any suggestions on some medium risk, high potential ETF’s to invest in for 2021?_END_OF_POST_PYSTOCK_ Who or what determines or sets the exact stock prices that i see on my screen? At IPO an initial price is set by who? The market place, investment banks? What happens after when it goes to the trading market, who/what determines the price? We have the number of shares, market cap and initial price. Supply and demand will change the stock price. There is a price on my screen, but what calculated that price i see?
+
+Is it a formula, algorithm or software that determines the price? If so, who owns it? Is it public information?
+
+Is it an average from brokers?
+
+It seems pretty important to me that this happens transparent._END_OF_POST_PYSTOCK_ Question that I just started pondering This just popped into my mind and i don't really have an answer for myself. Do you think that the events of the last week helped, hurt, or had no real influence for the medium/long term on the companies that were involved? 
+
+Honestly, I'm not sure. I like to think that awareness has helped and that we'll have more retail investors and maybe someone with cash has new eyes for something but I'm a little worried that the hype may have also done some damage. Or, in a few months it's back to business as normal._END_OF_POST_PYSTOCK_ What is the ETF/Fund that investors use to measure strength of the market? So I can not think of the name and it came up on a course I was taking and I can not remember the name of the ticker. But essentially this ETF or Index Fund does well and goes up when the S&P500 does bad, especially during a correction or crash and vice versa._END_OF_POST_PYSTOCK_ Investing for my toddler. Hey, I'm kind of new to investing, I started during the covid dip, and I'm recently got the idea of investing my daughter money to so she can have a nice jumpstart when joining the adult world.
+
+She's 2yo now and I've been trying to convince family to give her cash for holidays and birthdays instead of cheap crappy toys that will just end up in the trash or donated, it's not been a very successful campaign on my part. 
+
+My original intention was to just keep it in savings for her but recently thought instead of letting it just sit, let it grow in some long term investments. I've made a pie for her on my M1 account and it's quite diverse and consists of companies like tesla, ford, 3M, snapchat, a couple of M1's expert pies, and some bonds.
+
+My questions are, is it ethical to invest my her money? If so, what are some companies I should look into for a 15-20 year investment? And what sorts of things should I watch out for in the event of another 2008 recession to prevent losing her money?_END_OF_POST_PYSTOCK_ GME taught me the importance of being independent I started investing right when I turned 18 in the summer of 2020. I'm talking index funds and ETFs, the boring but good stuff. Ended 2020 with a 34% return thanks to the raging bull market which made me pour even more money into it. I bought into the GME hype at $34 dollars but eventually dca'd my way to a solid $64 average cost. I got caught up in the bullish GME echo chamber that [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) now is - I was just lucky to get in and out early compared to others.
+
+As WSB's member count went through the roof, more and more users commented price targets and abusing people into not selling. By going to these users' history, a lot - and I mean A LOT - had comments from 2 days ago along the lines of "where to buy stocks?". It just made the echo chamber even clearer. These people, who had no idea, were commenting advice and about the future of GME. I'm a beginner too but I wouldn't even think of pretending like I have a clue. The quote “If shoe shine boys are giving stock tips, then it's time to get out of the market" have always stuck with me, but I never put much credibility into it, until now.
+
+I eventually dca'd my way out at an average cost of $206 after reading about the conspiracy theories regarding why the reported 53% short interest was false. Maybe it is false and maybe these hedge have pulled off a great move in suppressing this % without actually covering in order to mislead investors, but I would never bet on that. Took $3.1k profit which was cool, but this whole situation has made me realize the importance of being independent.
+
+It has motivated me to actually learn how to read a balance sheet, do my own due diligence and come to my own conclusions - not depend on others. Reddit, Seeking Alpha and Twitter are great resources to take inspiration from, but I'll never invest through someone else's thesis again even though it worked out this time. The only thing that separates me from the guy who bought at $400 is that I picked up on the information earlier. We were both "promised" $1000, which I always saw as ridiculous but hey, "everyone is spamming it so it must be true". No, that echo chamber mentality is dangerous and a lot of people have lost a lot of money as a product of it. You never know who's on the other side spamming their thesis. Might be Warren Buffet or a guy who downloaded \*insert controversial broker here\* 2 days ago - I won't blindly follow their advice either way._END_OF_POST_PYSTOCK_ stay away from daytrading stocks like GME i got early on the GME train and made about 5K in profits. over the past few days i saw my profits crash to about 3k.. i  had the amazing idea to try to make up my losses by daytrading GME.
+
+&#x200B;
+
+my first brilliant move was selling everything in the opener at 82$ because everything seemed to crash. after that i bought back in at 92. sold at 100 for a profit. bought back in at 110 because it seemed to recover again. sold 2500€ worth of nvidia shares to inject into 20 gme shares @ 150. then it all went down and i sold at 107.
+
+&#x200B;
+
+&#x200B;
+
+net profit : 250€
+
+&#x200B;
+
+&#x200B;
+
+tldr : daytrading stocks is gambling. i bought at the top like 3 times and sold at the bottom like 3 times.
+
+&#x200B;
+
+daytrading has only cost me so far. when gme went from 100 to 400 i  sold a few times inbetween and always ended up buying back in when it was at the top.
+
+&#x200B;
+
+&#x200B;
+
+stay away from it. don't think u can read a curve, don't think u know here it's going. you don't!
+
+&#x200B;
+
+i'm lucky that  i didn't lose any money in the end. but if i wasn't so lucky with my trades the first days i probably would have lost about half the money i invested into the stockmarket..._END_OF_POST_PYSTOCK_ Alphabet beats expectations but GCP a loss leader * **Earnings:** $22.30 per share, adjusted, vs., $15.90 per share as expected by analysts, according to Refinitiv.
+* **Revenue:** $56.90 billion, vs. $53.13 billion as expected by analysts, according to Refinitiv.
+* **Google Cloud:** $3.83 billion, vs. $3.81 billion as expected by analysts, according to StreetAccount.
+* **YouTube ads:** $6.89 billion, vs. $6.11 billion as expected by analysts, according to StreetAccount.
+* **Traffic acquisition costs (TAC):** $10.47 billion, vs. $9.32 billion as expected by analysts, according to StreetAccount.
+
+This is the first time we've seen GCP broken out.  GCP lost $5.61 billion during the full year, and $1.24 billion during Q4, showing that the business is still in investment mode. By way of contrast, Amazon’s cloud business earned an operating profit of $13.53 billion last year and $3.56 billion last quarter.
+
+I'm taking this to be a loss leader.  Cloud for me is the future, all the companies I work with are investing in Cloud, but interestingly none I work with are in GCP, it's really AWS by a long margin to Azure.
+
+Otherwise, I like everything I'm seeing with GOOG.  I'm long and will hold, but I really want to see GCP improve._END_OF_POST_PYSTOCK_ Does my portfolio needs to include stable companies? Talking about the big ones, Google, Apple, Tesla, Microsoft, Amazon etc...
+
+Or if I were just to focus on companies that I like and feel like they can go up like AMD, CRSR even BB (excluding memes its a good long term) 
+
+Is it bad to not have the big stable companies in your portfolio? 
+
+I also want to focus on green stocks as well for the next few years_END_OF_POST_PYSTOCK_ Democrats vow to legalize marijuana... How do YOU expect this to impact marijuana ETFs? This post has some news and isn't about the most popular topics atm; the purpose is for discussion and a cleanse from the stocks that shall not be named.
+
+This IS about that drug that makes movies and games even better, and can help address growing mental health crisis... And Democrats are pledging to address and legalize marijuana this congressional session. https://www.independent.co.uk/news/world/americas/us-politics/cannabis-legalisation-chuck-schumer-democrat-b1796397.html
+
+It's gonna be a gigantic market within a few years, IMO. Getting a bunch of lab coats pitching all sorts of THC products (billboards, youtube videos, word of mouth) will legitimize it for people of almost every walk of life.
+
+For those of you who aren't aware, there are marijuana ETFs out there, many are priced with plenty of room for growth (especially with legalization - everybody and their conservative mom will want legal weed, even if they don't talk about it at church). That's as much DD as I'll do, I don't know enough to do more, and I'm pretty sure that there are enough variables involved that even good DD will involve lots of guesswork. If anyone wants to take a stab at a proper DD, I'll be one of the first to read and appreciate it. 
+
+3 MJ $30 Call, Jan 20, 2023_END_OF_POST_PYSTOCK_ Trying to understand DTC/Fed relationship. On the DTC website they say, "DTC is a member of the U.S. Federal Reserve System..." and from what I gather they work as a title company for equities. 
+
+If DTC raises collateral for a specific stock ticker, even as volume and price go down, would that decision reflect the strategic outlook of the Fed more or less? 
+
+Trading outlets are going to be damaged by what was a rather arbitrary decision, but I can see how DTC intervened to protect systemic health. If hedge funds and institutional investment crap out, despite the reason, that would cause real tangible problems for the Fed money system, right?_END_OF_POST_PYSTOCK_ whats your research workflow? Hello, Ive been investing for a little over a year but want to be more independent, what's a decent workflow when looking for new investments? for example, if I want to invest in clean energy, where do I start? how to narrow down options etc, as right now I feel like I'm shooting into the dark when looking to invest in something new. I want to do the work, just feel a bit inefficent._END_OF_POST_PYSTOCK_ Robinhood IPO - Where do they go from here? Not discussing the meme stocks but more so the future of Robinhood.
+
+They're supposed to launch an IPO? Do you think it'll still happen? Do you think they're done? 
+
+Not an expert but I think they'll ride this out just like FB with its bad reputation and constant negative news._END_OF_POST_PYSTOCK_ Water ETF - Which witch is which Im looking at investing in water. ETF's give a solid balance to the sector; gives you access to the tools, companies and water supply of certain markets. 
+
+Im looking at PHO and CGW. 
+
+What do people think on the potential of water and where it's going? Specifically within the ETF range_END_OF_POST_PYSTOCK_ What do the different places to buy have to do with the stocks value? Lets say, I theoretically would want to buy NOK. Since im based in europe, my bank would charge me a hefty extra for buying NYSE NOK instead of HEL NOK. Now, what does that have to do with the stock? Is it still worth the same, does it follow the same pattern as the other place? 
+I know this is probably kind of a dumb question, but im a bloody beginner wanting to get into stocks :)
+Have a great day,
+Max_END_OF_POST_PYSTOCK_ Amazon reports first $100 billion quarter following holiday and pandemic shopping surge https://www.cnbc.com/2021/02/02/amazon-amzn-earnings-q4-2020.html
+
+Earnings: $14.09 vs $7.23 per share forecast by Refinitiv
+
+Revenue: $125.56 billion vs $119.7 billion forecast by Refinitiv
+
+Amazon delivered its largest quarter by revenue of all time Tuesday at $125.56 billion in its earning report for the fourth quarter of 2020.
+
+Amazon announced on Tuesday that AWS CEO Andy Jassy will replace Jeff Bezos as CEO during the third quarter of this year. Bezos will transition to executive chair of Amazon’s board.
+
+Bezos announced his decision to step down in the earnings release and in a memo to employees, noting that he will focus on “new products and early initiatives” in his new role._END_OF_POST_PYSTOCK_ Is AMC done? Need some advice from some more "rounded" individuals. I yolod on AMC last week at a pretty high price, and lowered my avg cost by buying dips. Is there actually any hope?? Starting to believe its all hype_END_OF_POST_PYSTOCK_ Jeff Bezos to step down as Amazon CEO, Andy Jassy to take over in Q3 Jeff Bezos practically seems to be the Amazon brand; this is a major step for all parties involved.
+
+Andy Jassy seems to espouse many of the same ideas as Bezos with similar ambitions and such, so I think this transition may be more similar to Steve Jobs -> Tim Cook rather than Bill Gates -> Steve Ballmer
+
+As the head of AWS, I definitely believe Amazon will become expressly techno-centric versus retail centric.
+
+https://www.cnbc.com/2021/02/02/jeff-bezos-to-step-down-as-amazon-ceo-andy-jassy-to-take-over-in-q3.html?__source=androidappshare_END_OF_POST_PYSTOCK_ Impossible to find long term charts for global indices...?? I've been looking for a while for long term (interactive?) charts for most global indices, but all seem to be incomplete or don't have certain indices available at all. This seems crazy to me as this should be basic data?!
+
+The charts in TWS (interactive brokers) itself are also terrible, many indices only go back some years, or start right after 2008.
+
+Does anyone know a place where these charts would be available? It doesn't have to be 50 year old charts, but at least around 2000 or so would be great._END_OF_POST_PYSTOCK_ Fitbit Cash Settlement Cash Settlement situation with Fitbit. I have a $8 call that was expiring on 5/21/21 moved to 2/19/21 cause of the cash settlement. Is only giving me the option to exercise and it also says Cash Component $735. Any help would appreciated.  I paid 0.08 for the call. Should I exercise or let it expire?_END_OF_POST_PYSTOCK_ PIGGLY WIGGLY and the NYSE saving the shorts there is a lot of misinformation out there at the moment.
+silver was the big one yesterday but today, the news reel is mainly focussed on “thank heavens it’s all over”
+
+I read this story today though about NYSE GIVING traders more time to cover their shorts?
+
+“
+PIGGLY WIGGLY PUNISHMENT
+A U.S. grocer named Clarence Saunders, owner of the Piggly Wiggly store chain, was undone by a short squeeze he created in 1922 to punish those betting against his company.
+Using borrowed money, Saunders accumulated large amounts of Piggly Wiggly stock, more than tripling its price. But the New York stock exchange suspended trading in the stock and granted traders more time to cover their positions.
+“
+
+What’s the opinion amongst us here that this will likely happen?
+
+i got into this without understanding what’s happening; i just like the stock._END_OF_POST_PYSTOCK_ What you should learn from the meme mania How is it going my homies
+
+I [made this post on investing](https://reddit.com/r/investing/comments/l8yi83/common_misconceptions_about_markets/)  a few days ago explaining all of the QAnon fantasies and why the top could already be behind us. Some people listened, processed information and asked questions. Some called me a person working for Melvin and hedge funds.
+
+It’s all in the past, but if you got burned on GME or other meme stocks, here are few things you should learn about the markets and trading these bubbles.
+
+1. Set a price at which you will exit and take profit. Don’t look at what happens next, and never rebuy  if the price continues growing. Likewise, set a stop loss at which you will exit no matter what. 
+
+2. Never, and I mean never put in more than you can afford to lose, or even lose sleep over. I have a pretty decent portfolio, and I only put in 0.5% of it in the play. I don’t give a shit about that money, but I still took profit and got a 250% ROI. Easiest cash I’ve ever made, easier than blowing a fat dude in the back alley behind a strip bar.
+Anyway.
+
+3. If you hear about shit on the news. It’s probably not a good time to enter. There is a reason why some early people made money on the play. They understood mechanics of what was driving the increase in price. Many of them didn’t even expect a short squeeze, they just like the fundamentals. Likewise, if your 80 year old grannie (say hi to her from me) calls you and asks you about this magical company called GameStonk, sell that shit right away. 
+
+4. Always double and triple check information posted on forums and don’t take it for a truth even if it has a lot of upvotes. The amount of misinformation I saw on WSB over the past week with 100 thousand upvotes makes me want to vomit.
+
+5. Stock trading is not a team activity. It’s not us vs them. It’s a fucking free for all, and people will drop their bags on you if they see their unrealized gain turn into an unrealized loss. You want to make money? Do your research, and be the first one on the train. Don’t jump on the train when it is speeding and going off the rails.
+
+6. If you don’t understand how something works, learn about it. Again, the amount of conspiracy theories that I read about ladder attacks and this grand illuminati conspiracy is driving me nuts. Always use the Occam’s razor, meaning if there is a simple explanation to the situation, it is probably right. There is no need to build out this conspiracy theory for something you don’t understand, it does not help anyone.
+
+7. You will get FOMO and you will get confirmation bias. Everybody does, but learning how to battle it is crucial. Look, my dad was a fucking casino gambler in his 30s playing blackjack and losing money, and I have the same traits. Does it mean I need to be the same? No, and I always remember my genes when trading. It is not an excuse to use when you lose money.
+
+8. Realize that situations like this are extremely rare, and if you expect to make 300% gain in 3 days, I have some bad fucking news for you, markets don’t work like this.
+
+9. Finance gets complicated real fast. Yes, on the surface it’s just buying and selling. I have been studying this shit for 5 years, and I still don’t know a lot of things. There are reasons why even some of the smartest people still lose money. Shit, Newton was burned on a South Sea bubble. Yes, that guy who discovered gravity lost money just any of us. 
+
+10. One bad trade does not define you. As long as you learn, and don’t repeat the same shit again, you are golden. There are plenty of ways to make money on the markets, be it value investing, selling options or setting up butterfly spreads. 
+
+TL;DR: Be smart, not dumb._END_OF_POST_PYSTOCK_ Was Robinhood doomed the moment GME became a meme stock? What else could they have done? A lot of people are mad at Robinhood for halting the buying of GME which killed momentum which is understandable.
+
+But from reading the explanation here, it's not because hedge funds told them to stop but because they didn't have the collateral to place the buy orders.
+
+https://www.reddit.com/r/investing/comments/l7t4pg/an_explanation_of_why_robinhoodapp_nonnefariously/
+
+So they had to draw from their credit lines and/or borrow money to stay afloat.
+
+Seems like a disproportionate amount of GME buying was on Robinhood plus the influx of newbie users compared to other trading platforms caused them to have to do this.
+
+The CEO tried to deny there was any liquidity issues because of fear of harming their IPO or causing a panic with their users withdrawing money.
+
+From my understanding they were between a rock and a hard place, damned if you do and damned if you don't.
+
+And it was likely the reason GME was able to go so high is because of the ease of use of Robinhood allowing anyone to just invest instantly.
+
+So Robinhood was screwed either way.  
+* WSB/Reddit pumped up GME because of Robinhood
+* Robinhood overwhelmed with GME orders and did not have collateral, either halt trading or go bankrupt
+* Decide to halt trading, piss off WSB/Reddit
+* Borrow money but can't disclose liquidity issue or harm IPO / cause panic for RH users_END_OF_POST_PYSTOCK_ Question about trailing stops while negative? So say I buy a stock st $100 and it drops to $90. I then put a trailing stop loss at the $90 price for 15%. If the stock continues to fall, will the trailing stop loss trigger 15% below the $90 or will it only come into effect only after it surpasses the $100, meaning I'm in the positive?
+
+I'm sure it's a stupid question and I'm sure the answer is it'll trigger below the $90 if it drops but want to make sure._END_OF_POST_PYSTOCK_ TIN number for stocks Hey guys
+
+I am international student in States, and when I was high school, I took a dual enrollment course from some local college. After an year, which is today I received a 1098-T form from them which had my TIN number and federal identification number and other details. So, my question is can I use the TIN number to open account stock trading apps?_END_OF_POST_PYSTOCK_ $TRIT & $FSR swing trades, TRIT a possible 100% runner Has a double bottom at $6.50 and started making higher highs and higher lows look at the chart and it’s potential to shoot up to $15.00 in a day
+
+$FSR also take a look at the possibility of a swing from $14.50 to $17.50 then $20 then $23!_END_OF_POST_PYSTOCK_ Thoughts on potential of "AgTech" companies such as AppHarvest (APPH)? Just as a disclosure I have minimal stock trading experience and was hoping to see what everyone's thoughts were on this one. I personally think US agriculture may be a growing field given the “keeping things in the US” attitude that appears to be gaining momentum during the pandemic. On a initial glance I like [AppHarvest](https://www.appharvest.com/) (APPH) for the long term given their plan to make sustainable food with large greenhouses in the US. I think they have tremendous growth potential over the next few years as they finish further greenhouses and increase production and given how far they have come over a relatively short period since they launched and with many experienced members joining their board from other sectors. Also the sustainability aspect is a plus for me as well. 
+
+What do you guys think?_END_OF_POST_PYSTOCK_ You guys have seriously got to jump on Upstart. UPST launched their IPO not long ago and came in around the $44 mark. They’re up to $77/share right now. Too late to join? Not even close!
+
+Machine-learning, AI, etc are all the future and infusing them into business and finance is and has been the trend for a long time. You can look at how AI has revolutionized or aided any sector - be it dating apps, weather modeling/forecasting, or now lending decisions. That’s right, Upstart - founded by a few ex-Google cloud execs - uses AI to aid banks in making lending decisions. Not only can AI do it more efficiently than humans but they can do it more fairly, and far more optimally than humans can. 
+
+
+AI and tech are and will remain hot for the rest of our time. This is the way. While $77/share might be too hot to touch for some, a pullback soon seems imminent but I would Not wait too long as I see this stock being one of the giants in the next few years. I don’t see why this stock won’t be worth an excess of $250/share within 4 years._END_OF_POST_PYSTOCK_ Here is my story and what I learned from the AMC bubble I'm posting this here because this sub is way more civilized than r/WSB, and I feel like someone will get something from it instead of it being spammed with gorilla emojis etc...
+
+I invested (or gambled I should say) $2000 into AMC at $14, money that I thought I was ready to lose. Honestly, it was exhausting.
+
+I'm not regretting my loss because I did learn a lot about investing and the stock market, for that I'm grateful. I'll never buy into hyped stock ever again. I'm glad I got out before I lost it all.
+
+"If the stock reached the news, you're late" I heard this today and I completely agree after going through all this. Maybe my loss might not be a lot of money to you but we are all in different boats.
+
+Please do not fall into the hype. Most of these people spamming "HOLD" either don't own any stock or they can afford to lose the money.
+
+I look forward to browse this subreddit for more educational information, but I learned that you always need to do your own research.
+
+This is not advice and I just wanted to tell my story as a complete noob in the investing world._END_OF_POST_PYSTOCK_ Are we in a bubble right now? I have spare cash right now and I'm looking at stock like AAPL, MSFT, JNJ and many others. They are all priced so high, some almost as high as they've ever been. 
+
+I don't know if I should wait for it to drop in price or is that just not realistic. I'm scared I'll regret buying now because I'm worried it will start to trend downwards at some point. 
+
+Should I just bite the bullet and buy now? It would be great to hear your opinions. I am still new to investing, but I'm looking to make long term investments._END_OF_POST_PYSTOCK_

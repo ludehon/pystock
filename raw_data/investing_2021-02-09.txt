@@ -1,0 +1,952 @@
+ United (UAL) call options pricing 
+For this example, I’m using UAL and looking at options expiring Jan 2023.
+
+A strike price of $50 costs $12. So that means I would buy it if I’m expecting the share to be greater than $62, correct? If it’s lower than $62, I lose all of my initial investment.
+
+For the same option, a strike price of $20 costs $27.30. If I’m expecting the share to increase to $62, why wouldn’t I buy the strike of $20 instead of strike of $50? If the share goes to $62 as I expect, at strike $50 I break even, but at strike $20 I profit $1470.  In fact I would break even at any price over $47.30, right?_END_OF_POST_PYSTOCK_ Artificial intelligence meets agriculture, IPO First post, so please direct me if I do things wrong.
+
+
+Farmer's Edge Inc just filed for Initial public offering (https://www.bloomberg.com/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada)
+
+Farmers Edge employs technology to collect and analyze local weather, soil moisture and satellite data to help farmers improve crop efficiencies and yields. Chief Executive Officer Wade Barnes co-founded the firm in 2005 and it has since expanded operations across Canada’s Prairie provinces and abroad, with offices in the U.S., Australia, Russia, Brazil and Ukraine.
+
+I would like any information you guys drum up as im just learning about this and usually am comfortable with the SPAC setup. I always read good info and wanted to add._END_OF_POST_PYSTOCK_ Clean Energy / Energy Storage Investment Hello r/investing.  I am looking to make an investment, and wanted to collect your insights.
+
+I am particularly interested in diversifying into the clean energy sector.  The fact that I have not seen anything pointing towards the optimum method of generating clean / renewable energy at this point in time makes me want to focus less on the energy generation method itself, but something more diversified, common, and required between all forms of energy as a whole: **the storage of energy.**
+
+Are there any solid energy storage ETFs that you could suggest I look into?  I would prefer US company-centric ETFs if possible.
+
+Note: I am relatively new to this sector, so I won't claim to be an expert.  If I am not considering something in my assumptions, please feel free to share your insights and let me know.  Specifically, if I am off the mark regarding the energy generation methods (wind, solar, etc.) let me know.
+
+(Also) note: I do feel as though we are due for a market correction relatively soon.  On top of that I do think there are some companies that have good products / services, but are overvalued currently (Tesla, for example).  I'd be open to discuss one-off stocks that could be good values if the price is right as well.  Once again, let me know your thoughts._END_OF_POST_PYSTOCK_ ($ALAC) SPAC taking SolarMax public is close to releasing investor presentation Alberton Acquisition Corporation ($ALAC) is days away to releasing its investor presentation (IP) before the merger vote.
+
+ALAC is a spac that announced in October it would merge with SolarMax, a solar installer in california and china. [https://www.solarmaxtech.com/past-projects/?map](https://www.solarmaxtech.com/past-projects/?map)
+
+I'm not going to lie, even I have questions about the long-term plans for this company. Do your own DD on that and read the SEC docs. I personally think the run on this stock when the IP is dropped will resolve many of those issues.
+
+The CFO recently responded to an email on feb 9 saying the IP should be coming in a few days. [https://imgur.com/a/Di1PvUv](https://imgur.com/a/Di1PvUv). Float is low at 1.44 million.
+
+I don't think ALAC ran when it first announced the merger, b/c there were missing details (i.e. date of merger, no IP, etc). This IP will solidify that this is happening and I believe will be liked by retail investors (retail likes renewables).
+
+GLTA
+
+Disclaimer: I'm invested in this stock. I'm just sharing what I think to be a good pick for a multi-day trading swing. Its currently trading between mid-13s and 14._END_OF_POST_PYSTOCK_ Sell or Hold Cannabis Stocks I bought like 2-4 shares each of 6 cannabis  stocks in July and August 2019 just to get a taste of the movement and comfortable with investing. One APHA total return is over 200% because they are planning a merger with Tilray and with the presidency making it more promising to be legalized or decriminalized federally. I have another down CannTrust at -85.53 total return. Lol I’m confused if holding either of these would be smart or to sell at this point.
+
+Here are break downs of others:
+
+CGC +31%
+IGC   +64%
+YCBD +39%
+OGI   -26%
+
+New at investing so please be nice.
+
+
+Edit: THANKS GUYS. I sold my profiting stocks when APHA reached 300% total return and the others were close to 75 - 100% I’m glad I slept on it lol_END_OF_POST_PYSTOCK_ I believe we are in a bubble [I need to vent...] Seriously, I need to vent a bit.
+
+I considered some companies out there to be overvalued last year, but they've doubled, tripled, or even grew ten-fold in value in the past year. Why are they trading at 100x their top line?! Some companies are burning money like never before, have a smaller revenue than before, and are firing people left and right, but they still grew 700%. wtf. Take SPWR as an example, or LMND. I walk past the LMND offices every day, I met Shai Wininger in person. I'm not going to rant about that specific company, but the market is disconnected from reality. LMND has 80M in revenue, burns money, doesn't grow, but tripled in value in 6 months. Why??
+
+Half of the stock charts that I'm looking at seem normal and then in 2020 they shoot up like never before. You can let a 5 year old pick any 5 stocks and it would have netted you a 30% return on average, easy!
+
+What's happening? This is unprecedented.
+
+I need someone to prove me wrong, or at least provide me with some rationale as to what is happening.
+
+With all of that said, I'm still investing big on margin, but I'm strongly considering changing my portfolio to things that I believe are more solid, and jump out of the 10x bandwagons. I made insane gains last year, but this party can't go on forever and it needs to come down to earth._END_OF_POST_PYSTOCK_ FMS - undervalued COVID play on kidney care dialysis company Open to feedback and counter arguments. 
+
+**Starting Point**
+
+- Researchers are warning that COVID19 will accelerate the global growth of patients with Chronic Kidney Disease (CKD) over a long period of time. That’s because the disease damages the kidney’s much in the same way it damages the lungs. The exact number of patients who will develop CKD after contracting COVID is unknown but could be as high as 8% of total patients (combining 25% of AKI occurrences in [NIH study](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7598516/) with 35% prevalence of [Mt. Sinai study](https://www.mountsinai.org/about/newsroom/2020/mount-sinai-researchers-warn-increase-in-chronic-kidney-disease-linked-to-covid19-pr)).  Regardless of the exact figures, even when considering increased mortality of COVID for patients with preexisting CKD, let’s move forward with the premise that COVID will increase the growth of CKD patients globally.
+
+**TAM**
+
+- According to [Fortune Business Insights](https://www.fortunebusinessinsights.com/dialysis-market-102367), “The global dialysis market size was $90.33 billion in 2019 and is projected to reach USD 177.56 billion by 2027, exhibiting a CAGR of 7.7% during the forecast period.”
+
+- A quick google search will produce many equivalent sources. You’ll also see that COVID-aside the TAM for CKD was already projected to grow at astonishing rates globally due to increased prevalence of diabetes resulting in part from the spread unhealthy western diets and an increased sedentary lifestyle. But for the purposes of this post, let’s use the forecast from FBI above.
+
+**The Investment**
+- Fresenius Medical Care [FMS] - This German-based company is one of the world’s leading providers of products and services for people with kidney failure.
+
+**The Catalyst**
+- Overreaction to a recent news release introduces opportunity for value play: 
+- On February 01, FMS issued a [press release](https://www.freseniusmedicalcare.com/en/news/preliminary-announcement-2021targets/) stating that, “accelerated COVID-19 related excess mortality of dialysis patients and continued related higher direct costs [will] negatively affect 2021 business development.” More specifically, “Based on the currently available information and status of analysis, revenue growth of up to mid-single digits and assumes net income before potential restructuring measures to decline by up to 25 percent.”
+ 
+- In summary, they are being hit hard in the short term by COVID. CKD patients are dying at much higher rates than the baseline, and they have significantly higher operating costs due to precautionary measures. However, these are temporary setbacks. Remember, the research suggests that COVID will **increase** the number of CKD patients over time **even when considering the increased mortality rate.** FMS concludes, “Fresenius Medical Care’s mid-term targets until 2025 as defined in October 2020, remain unchanged.”
+ 
+- The share price dropped from roughly $42 to about $34 or approximately 20%. I argue that the market is overreacting to the short-term impact of COVID on FMS and thus presenting a long term opportunity.
+ 
+**Basic Financial Picture**
+ 
+- First, a review of their financial situation suggests steady and stable growth across the past several years. Nothing really grabs my attention. They have health cash flow. Manageable debt. Revenue growth. Stable margins. I’ll paste some of the basic numbers below and then dive into my projections.
+ 
+FMS basic financial numbers (in millions) 
+ 
+In millions | 2019 | 2018 | 2017 | 2016 | 2015
+:-- | :-- | :-- | :-- | :-- | :-- 
+Revenue | 19573 | 19541 | 20100 | 17910 | 16737
+Net Income | 1343 | 2340 | 1446 | 1243 | 1029
+EPS | 2.22 | 3.81 | 2.35 | 2.03 | 1.69
+Cash on Hand | 1128 | 2533 | 1105 | 747 | 549
+Total Assets | 36886 | 30992 | 27155 | 26933 | 25365
+Total Liabilities | 22072 | 15754 | 14916 | 15476 | 14869
+Net Cash Flow | -1274 | 1378 | 304 | 197 | -84
+Free Cash Flow per Share | 0.65 | -0.45 | 0.64 | 0.16 | 0.13
+Debt/Equity Ratio | 0.68 | 0.58 | 0.68 | 0.74 | 0.82
+Net Profit Margin | 6.86 | 11.98 | 7.2 | 6.94 | 6.15
+Return on Investment | 7.31 | 12.4 | 9.35 | 8.3 | 7.16
+ 
+**My Napkin Math**
+- Let’s calculate global market share that FMS captured for treatment of CKD patients in 2019. (17.48B EURO X 1.12 USD) / 90.33 TAM) = 21.6%.
+- Net income 2019 was $1.34B
+- Assuming market share is stable, projected to 2027, 21.6% of the $177.56 billion TAM is $38.35 billion revenue.
+- Median net profit margin going back through 2018 – 7.5%
+- Applying this median net profit margin to the 2027 revenue estimate gives us a net income 2027 estimate of $2.88B. Which means you could conservatively say that FMS net income will double by 2027.
+- Current price is 34.21 with P/E ratio of 12.59
+- Median P/E ratio over the past 10 years is 17.6.
+- Let’s assume current P/E ratio is maintained. That puts 2027 price target at $73.52.
+- Let’s assume return to median P/E ratio of 17.6. That puts 2027 price target at $102.77
+- Let’s assume high P/E ratio of 23.96 that occurred in 2016. That puts 2027 price target at $139.90
+- **That’s a potential 114% - 308% gain over 6 years** on share price alone. Pretty good considering FMS really only needs to scale their current operations enough to maintain their market share and margin. That’s a fairly low bar for a company that is at the top of the field and growing. And to put icing on the cake, they have a growing dividend which current sits at a ~2% yield.
+
+**Headwinds**
+- While researchers think COVID19 will increase the number of CKD patients over a long period of time, it’s also apparent that patients with pre-existing kidney disorders have a higher COVID19 mortality rate than their peers without kidney disease. That means that demand might suffer in the short-term for companies who are currently providing dialysis services. Furthermore, as with many businesses, there are increased COVID19-related costs for kidney care providers – especially those who specialize in outpatient kidney care clinics as opposed to at home services as they need to take extra precaution with PPE and immune compromised patients.
+- The largest headwind in my opinion is the movement from dialysis clinics to home dialysis. FMS primarily providers in clinic dialysis services and our model falls apart if FMS loses market share. However, FMS is well aware of the transformation to home dialysis, as this is not a new development, and they are shifting their business model to provide more of these services. Moreover, the initiative to move to home dialysis, while aggressive, has been ongoing since the Obama years and FMS revenue has not seen a dramatic hit. Still, to decrease this risk, I’m hedging against FMS’s failure to adapt by also going long on OM, a young company that produces the best home dialysis machines on the market.  
+ 
+**Other companies**
+- Onset Medical [OM] – Mentioned above. Disruptive tech. New company. Sky high valuation but useful as a hedge against FMS losing market share.
+- Davita Kidney Care [DVA] – FMS’s largest US competitor. I consider them a strong long-term investment as well, as they are moving to home dialysis model faster and they have a slightly better reputation than FMS in terms of quality, but their valuation is much higher at the moment._END_OF_POST_PYSTOCK_ What to do with GWPH Option and Jazz Acquisition Looking for some advice on my $GWPH option now that it has been acquired by Jazz Pharm. I have an option 5/21 $90c and wondering if I should exercise or not. I am finding it hard to understand if it’s worth while me holding as Jazz is paying $200 stock if the acquisition goes through. My first thought is to exercise and get out in case deal falls through and price goes down but hoping for some brighter minds to explain my options. I also own a good amount of shares so would it be best to hold or sell those as well with stock price currently above the $200 they are going to pay out? Appreciate the info in advance. 
+
+TL;DR: Have $GWPH 5/21 90c and wondering if I should exercise with Jazz Pharm acquisition._END_OF_POST_PYSTOCK_ Day trading with Interactive bankers platform I am just getting started with day trading and I got the paper account of Interactive brokers. I tried a trade where i bought around 500 shares and then tried to sell it for a bit higher. 
+
+The buying trade was executed but when i placed the order to sell at market price, the order didn’t execute and just stood in the queue. The price even went higher than the selling price i had added but still the order wasn’t executed. 
+
+Can anyone suggest why that happened?
+Also is Interactive brokers a good platform for day trading or should I be using some other platform? 
+
+Thank you for your help!_END_OF_POST_PYSTOCK_ Instead of investing in EV companies... Investing in commodities needed to produce EV Seems there are a lot deep value investor who are thoroughly convinced that commodities and energy will make a gigantic comeback. 
+
+A lot of them are most bullish on the uranium sector. It looks like many uranium companies already 4-5X'd from their 6 month lows. And looking at the entire chart of various uranium companies, that's still a blip in the radar compared to how huge the uranium bull run was back in 2007.
+
+Anyways aside from uranium has anyone else researched other commodities? For example nickel, graphite, cobalt and so on needed to build EV and what the potential gains are from that?
+
+It seems like this community usually just talks about tech stocks, or companies that people claim are "already overpriced" (TSLA, plug, nio etc...)._END_OF_POST_PYSTOCK_ $APHA to $TLRY Conversion Sup,
+
+It’s been posted in here plenty of times regarding the APHA - TLRY merger that when the merger goes through, one APHA share will be converted to .8381 TLRY shares. My question is... will we see the prices of APHA and TLRY naturally come close to this .8381 conversion rate closer to the deal? Currently .8381 of TLRY would come out to $35.49, and APHA is trading at $23.45.
+
+Will we likely see some natural or manipulated movement close to this price ratio, either in APHA rising or TLRY falling? Seems like this can’t just be a free money glitch, no? If anyone has experience with similar deals in the past insight would be appreciated!_END_OF_POST_PYSTOCK_ PRNT, 3D Printing Could Be The Best Industry To Invest In For The Decade 3D printing has not been integrated much into our society at this point, but at some point I think that 3D printing will be such an integral part of manufacturing and life itself. We're just now seeing the capabilities of 3D printing entire buildings. Once the process is fully developed It can replace a large portion of current construction companies.
+
+Some of the videos we see of commercial 3D printing stuff is pretty impressive, just imagine that technology fully developed 10-20 years from now. PRNT had provided some of the best returns out of any ETF, and even has been outperforming all the ARK's lately. What are your thoughts on 3D printing and PRNT specifically?_END_OF_POST_PYSTOCK_ DD: Lately I've been looking at SKT - 58% short interest, micro cap, good stock on the mend. Tanger Factory Outlets just re-initiated their dividend at a 5% rate. So, they have a profit coming in again.
+
+&#x200B;
+
+Foot traffic is back to 90% of 2019 levels.
+
+&#x200B;
+
+They have $1B market cap and 58% short interest.
+
+&#x200B;
+
+A new CEO just took over last month.
+
+&#x200B;
+
+In the retail apocalypse, it's the discount brick and morters who are going to survive. Ross and TJX are both on fire. This should be no different.
+
+&#x200B;
+
+Some of their main tenants are Coach, Kenneth Cole, Hugo Boss, Ralph Lauren - all great stores. I know I LOVE shopping at those places.
+
+&#x200B;
+
+This just seems like a perfect short squeeze scenario if you ask me.
+
+&#x200B;
+
+Of course, you need to do your own due diligence though._END_OF_POST_PYSTOCK_ After spending the weekend looking at marijuana stocks I've picked my top dog: Cresco Labs CRLBF After spending the weekend looking at marijuana stocks to get into before Dems make it legal nationally CRLBF gets my seal of approval. 
+
+1. They sell a ton of gummies and edibles. I don't think legalizing weed is going to drastically change the number of people that smoke it or how they get it. But most people in states that it is not legal in will get to enjoy edibles that were previously unavailable to them. Also edibles are easy to scale up the manufacturer and distribution of.
+
+2. Cresco is an American company. I think believe that the Canadian companies don't have as much potential for growth as American ones do. Just my opinion.
+
+3. Cresco is the nation's largest wholesale distributor. This will be huge when every Tom, Dick and Joe starts opening cannabis shops like starbucks. 
+
+4. They are virtically intergraded. This makes them more nimble and gives them the ability to change fast when the time comes. 
+
+All marijuana stocks are going to go up. I'd be interested in some discussion about some lesser known small caps._END_OF_POST_PYSTOCK_ Tesla’s made more money in FCF rather than OCF? I Hi there, I’m a newb trying to understand how Tesla makes their income.
+
+I just read Tesla IR Report for Q4 2020 and saw that Q4-2020 Tesla have Net Income of 296 Million USD (OCF / Cashflows From Operating Activities).While Proceeds from issuances of common stock in public offerings, net issuance cost is 4987 Million USD (FCF / Cashflow From Financing Activities).
+
+Does this tell us that Tesla is actually made more money from selling stock issuance/right-share rather than operating profit? And i’ve also see an upward trend(2020 splits normalized) that Tesla’s share count & cashflow from issuance of common stocks (FCF) increasing YoY since 2017 — 2016-ish. I dont have any problem with stock issuance because its up to their management to decide whats best , but does this means Tesla actually raised more money selling shares rather than cars?
+
+Feel free to correct me if im wrong or missed something.
+
+
+Source : 
+
+https://ir.tesla.com (Q4 , Page 30)
+
+https://seekingalpha.com/symbol/TSLA/cash-flow-statement
+
+https://finance.yahoo.com/quote/TSLA/cash-flow?p=TSLA_END_OF_POST_PYSTOCK_ LI - LI Autos stands out from the competition LI  - Li Auto Inc is one of the market leaders in Chinas fast growing EV electric and autonomous vehicle sector, LI is a top tier producer of electric SUV vehicles (or EV new-energy vehicles)
+
+The companies future looks bright as they are planning to broaden the vehicle types that they offer increasing their customer base, building the brand and capturing more of the vast Chinese market, with this in mind LI have announced that they are accelerating plans to ramp up production
+
+LI is broadening its customer base, aggressively growing its service and retail locations to cover major population centers, the company has ambitious goals - carrying out extensive R&D and partnering with the likes of NVIDIA ("the world's leading artificial intelligence computing company") with the goal of achieving full range of autonomous driving in its next generation of vehicles, a potentially extremely lucrative market
+
+What makes LI stand out from the competition?  
+
+Li offers an advanced product than those offered by its nearest competitors for instance the Li One SUV, one of their most popular models,  includes a small gasoline engine that is used to recharge its batteries, allowing for longer trips (one of the main drawbacks in other EV models given Chinas huge landmass and road network), Li Auto is the first company to successfully commercialize extended-range EV electric vehicles in China
+
+In January its deliveries increased by a massive 356% yr on yr, 500m in revenue for 2020 Q4 alone,
+
+2.74Bcash in the bank with only 311m debt (source seekingalpha) gives the company a solid fianancial base
+
+I believe LI has a lot more upward potential 
+
+&#x200B;
+
+&#x200B;
+
+(The above is only my opinion, I recommend you do your own DD)_END_OF_POST_PYSTOCK_ Second Quarter Results: 6 months into the /r/investing underrated stock survey and the average return was 72% (37% as a portfolio) Building on a previous post ([http://redd.it/i2thge/](http://redd.it/i2thge/)) asking the community to pick underrated stocks, there was interest in seeing the quarterly performance of everyone's picks
+
+The first quarter can be seen here: [http://redd.it/jti14m/](http://redd.it/jti14m/)
+
+For this quarter, the key takeaways are as follows:
+
+* Overall average return of 72.2% (driven by the GME pick)
+* If you invested equally in each stock, returns would have been 41.9%, or if you bought one of each stock, returns would have been 37.5%
+* 86% of the 254 picks have shown a positive return, with 80% greater than 10% return and 20% greater than 100% return
+* Highest returning pick: Gamestock (GME) at 1342% flagged by  /u/EmployerOfTheMonth, to which they stated *"If it goes up, people will think I'm some sort genius for going against the crowd, if it goes down, people will just mindly brush me off as a moron for actually thinking this was underrated"*
+* If you invested in the top 5 most upvoted stocks (NET, CRSP, STNE, NVDA, NOK), you would have seen an average return of 62%
+* If you invested in the top 5 most controversial stocks (TSLA, WD, AMD, LMND, UBER), you would have seen a return of 93%
+* If you had invested equally in the stocks with greater than 10% return in the first 30 days, your total return would be 53.1%
+
+In graphical format, you can also see the results here: [https://i.imgur.com/CzEYTxv.png](https://i.imgur.com/CzEYTxv.png)
+
+# For those who keep asking for another round of tracking underrated stocks, I'll add a comment below to collect new picks to monitor.  Happy to update you on a similar cadence.
+
+As a reminder, please do not interpret results seen here as an endorsement of the investing prowess of the community. Invest at your own risk.
+
+For reference, below is a table of the current stocks sorted by performance
+
+|**Symbol**|**Company**|**Delta**|**Provided by**|
+|:-|:-|:-|:-|
+|**GME**|GameStop Corp.|1342%|/u/EmployerOfTheMonth|
+|**FCEL**|FuelCell Energy Inc|885%|/u/i-kno-nothing, /u/dewaser|
+|**EH**|EHang Holdings Ltd - ADR|703%|/u/TheEUR0PEAN|
+|**AYTU**|Aytu Bioscience Inc|502%|/u/Bkzkilla2, /u/beefy-ambulance, /u/subaruveganguy22|
+|**PLUG**|Plug Power Inc|487%|/u/lukwas_|
+|**DQ**|Daqo New Energy Corp|365%|/u/stonk_daddy|
+|**NIO**|Nio Inc - ADR|340%|/u/makesalotofmoney, /u/Carrera_GT, /u/Charlie Brown364|
+|**APHA**|Aphria Inc|325%|/u/Aprhria, /u/Bdghablig|
+|**APPS**|Digital Turbine Inc|303%|/u/toop4|
+|**SPWR**|SunPower Corporation|282%|/u/Hadouukken|
+|**NTLA**|Intellia Therapeutics Inc|273%|/u/earthmoonsun|
+|**UAVS**|Ageagle Aerial Systems Inc|268%|/u/fishkillr|
+|**GBTC**|Grayscale Bitcoin Trust (Btc)|250%|/u/asherlevi|
+|**JMIA**|Jumia Technologies AG - ADR|218%|/u/Jerund, /u/souptrades, /u/7YearOldCodPlayer, /u/CharlieBrown364, /u/fortnitehead|
+|**TSLA**|Tesla Inc|197%|/u/Skurinator, /u/goldcakes, /u/redmars1234, /u/Drortmeyer2017|
+|**ALTO**|Pacific Ethanol|187%|/u/adamtejot|
+|**BB**|BlackBerry Ltd|184%|/u/mh1t, /u/EthosPathosLegos|
+|**XPEL**|Xpel Inc|183%|/u/Bkazzle|
+|**SOLO**|Electrameccanica Vehicles Corp|178%|/u/IHaveUsernameBlock|
+|**ENPH**|Enphase Energy Inc|172%|/u/deGoblin|
+|**TCNNF**|Trulieve Cannabis Corp|163%|/u/grphelps1, /u/Cucumber_Cooling|
+|**KLR**|Kaleyra Inc|161%|/u/souptrades|
+|**BABYF**|Else Nutrition Holdings Inc|156%|/u/PringlesAreUs|
+|**TPIC**|TPI Composites Inc|155%|/u/polwas|
+|**ALNOV**|Novacyt SA|149%|/u/Snoopmatt|
+|**CRLBF**|Cresco Labs Inc|148%|/u/UncleSlippyFist|
+|**PENN**|Penn National Gaming, Inc|147%|/u/Calpool|
+|**PLNHF**|Planet 13 Holdings Inc|145%|/u/MMatter1|
+|**TUP**|Tupperware Brands Corporation|145%|/u/Scumbaggedfriends|
+|**WKHS**|Workhorse Group Inc|140%|/u/VisionsDB|
+|**CSIQ**|Canadian Solar Inc.|135%|/u/MrMineHeads, vvv561|
+|**SITM**|SiTime Corp|135%|/u/drbh_|
+|**TAN**|Invesco Solar ETF|132%|/u/z74al|
+|**CDLX**|Cardlytics Inc|129%|/u/whossayn, /u/YarManYak|
+|**PINS**|Pinterest Inc|128%|/u/EthanPhan|
+|**NET**|Cloudflare Inc|127%|/u/thereisnospoongeek, /u/olliemacg, /u/Boots2243|
+|**CVAC**|CureVac|126%|/u/Tangerinho|
+|**INMD**|Inmode Ltd|119%|/u/meta-cognizant, /u/craneman813|
+|**SIX**|Six Flags Entertainment Corp|119%|/u/EthosPathosLegos|
+|**AXON**|Axon Enterprise|117%|/u/ansofteng|
+|**MAXR**|Maxar Technologies Inc|113%|/u/Borne2Run|
+|**GM**|General Motors Company|113%|/u/Buttershine_Beta|
+|**INSP**|Inspire Medical Systems Inc|113%|/u/JPINFV2|
+|**PTON**|Peloton Interactive Inc|112%|/u/loosetingles|
+|**LMND**|Lemonade Inc|112%|/u/br1ghtness, /u/skkreet, /u/hahadumblloyd|
+|**VIAC**|CBS Corporation Common Stock|108%|/u/1987supertramp|
+|**XBC**|Xebec Adsorption Inc.|107%|/u/Mug_of_coffee|
+|**AIR**|AAR Corp.|106%|/u/paulo92834|
+|**SE**|Sea Ltd|104%|/u/scatterblodded, /u/tradeintel828384839, /u/thug_funnie, /u/Meymo|
+|**RDFN**|Redfin Corp|103%|/u/shreddit47|
+|**EDIT**|Editas Medicine Inc|101%|/u/earthmoonsun|
+|**CVM**|CEL-SCI Corporation|100%|/u/Golden_Pineapple|
+|**TSE:WELL**|WELL Health Technologies Corp|100%|/u/Unlucky-Prize, /u/IcemanVish|
+|**PMCB**|Pharmacyte Biotech Inc|100%|/u/DillieTheSquid|
+|**COTY**|Coty Inc|99%|/u/NhatNguyen2112|
+|**ICLN**|iShares Global Clean Energy ETF|98%|/u/drheman25Q|
+|**AUMN**|Golden Minerals Co|95%|/u/YEEEEEAAAAA|
+|**ALLY**|Ally Financial Inc|95%|/u/jcurtis44|
+|**VNRX**|VolitionRX Ltd|94%|/u/RiDDDiK1337|
+|**RIGL**|Rigel Pharmaceuticals, Inc.|91%|/u/Gay_Demons|
+|**IAC**|IAC/Interactivecorp|89%|/u/dvdmovie1|
+|**TXG**|10X Genomics Inc|89%|/u/Unlucky-Prize|
+|**TA**|Travelcenters of America Inc|89%|/u/jk_tilt|
+|**RVP**|Retractable Technologies, Inc.|89%|/u/EmreCanPuns|
+|**CRSP**|Crispr Therapeutics AG|88%|/u/emtvaikkajoku|
+|**PD**|Pagerduty Inc|88%|/u/throthrowth|
+|**IIPR**|Innovative Industrial Properties Inc|88%|/u/Dalis_Ktm|
+|**NCR**|NCR Corporation|87%|/u/IAMBEOWULFF, /u/fistymonkey1337|
+|**BL**|Blackline Inc|87%|/u/veebeew|
+|**RMCF**|Rocky Mountain Chocolate Factory, Inc.|84%|/u/howtoreadspaghetti|
+|**ELVT**|Elevate Credit Inc|84%|/u/ScoreFuture|
+|**SAVE**|Spirit Airlines Incorporated|84%|/u/Matous_Palecek|
+|**UTZ**|Utz Brands Inc|84%|/u/RIC_FLAIR-WOOO|
+|**RNLSY**|Renault ADR|82%|/u/jw8700|
+|**RAZFF**|Razer Inc|82%|/u/ThatOneRedditBro|
+|**DKNG**|Draftkings Inc|82%|/u/boomshalock|
+|**STNE**|StoneCo Ltd|81%|/u/GromGrommeta|
+|**Uber**|Uber Technologies Inc|80%|/u/DukeBD2021|
+|**FLR**|Fluor Corp|80%|/u/lost_searching|
+|**NVTA**|InVitae Corp|79%|/u/emtvaikkajoku, /u/CrackHeadRodeo|
+|**SQ**|Square Inc|77%|/u/cuti95, /u/ConstructivePlayer, /u/Lfastrsx, /u/jercky, /u/CharlieBrown364|
+|**PRLB**|Proto Labs Inc|74%|/u/JEesSs|
+|**TTD**|Trade Desk Inc|73%|/u/all_hail_hypno, /u/Kay312010|
+|**MU**|Micron Technology, Inc.|72%|/u/Wexoch|
+|**ETSY**|Etsy Inc|72%|/u/PeskyShart|
+|**NUAN**|Nuance Communications Inc.|71%|/u/IwantmyMTZ|
+|**HEAR**|Turtle Beach Corp|69%|/u/chancsc11|
+|**WD**|Walker & Dunlop, Inc.|69%|/u/TBSchemer|
+|**MAC**|Macerich Co|69%|/u/skvettlappen|
+|**TTCF**|Tattooed Chef Inc|67%|/u/Mug_of_coffee|
+|**PRPL**|Purple Innovation Inc|66%|/u/jloy88, /u/CharlieBrown364, /u/RemiMartin|
+|**TSM**|Taiwan Semiconductor Mfg. Co. Ltd.|66%|/u/Paks_12345, /u/sogladatwork, /u/BlissfulThinkr|
+|**RAMPF**|Polaris Infrastructure Inc|66%|/u/CaptainCanuck93|
+|**RUN**|Sunrun Inc|64%|/u/FactualNeutronStar|
+|**INSG**|Inseego Corp|63%|/u/esoccer141414|
+|**TAAL**|Taal Distributed Information Techs Inc|62%|/u/AwesomeMathUse|
+|**MX**|Magnachip Semiconductor Corp|61%|/u/samtony234|
+|**TWLO**|Twilio Inc|60%|/u/MarconianRex|
+|**RAD**|Rite Aid Corporation|59%|/u/ManagerMilkshake|
+|**MELI**|Mercadolibre Inc|59%|/u/pontoumporcento|
+|**LDL**|Lydall, Inc.|59%|/u/Henisockle|
+|**EZJ**|ProShares Ultra MSCI Japan ETF|57%|/u/Necessary_Club_6714|
+|**LOGI**|Logitech International SA|56%|/u/CharlieBrown364|
+|**OTIC**|Otonomy Inc|54%|/u/Unlucky-Prize|
+|**ASML**|ASML Holding NV|54%|/u/EthosPathosLegos, /u/earthmoonsun|
+|**DS**|Drive Shack Inc|52%|/u/Bobjenkins97|
+|**NYSE:PSTH**|Pershing Square Tontine Holdings Ord Shs Class A|52%|/u/5_yr_lurker|
+|**SBSW**|Sibanye Stillwater Ltd|52%|/u/marqui4me|
+|**SEDG**|Solaredge Technologies Inc|51%|/u/m4r1vs|
+|**ESRT**|Empire State Realty Trust Inc|51%|/u/silverpaw1786|
+|**YETI**|Yeti Holdings Inc|50%|/u/boomwhackers|
+|**GAN**|Gan Ltd|50%|/u/emcdeezy22|
+|**TDOC**|Teladoc Health Inc|50%|/u/staniel_diverson, /u/Raybay192, /u/Drifter 1996, /u/moveitover|
+|**ALXN**|Alexion Pharmaceuticals, Inc.|50%|/u/fisk47|
+|**WORK**|Slack Technologies Inc|49%|/u/AntwanDixon_|
+|**BPY**|Brookfield Property Partners LP Unit|49%|/u/Onarco|
+|**MDWD**|Mediwound Ltd|48%|/u/blueblade408|
+|**BTU**|Peabody Energy Corporation|48%|/u/aviatoraway1|
+|**MS**|Morgan Stanley|47%|/u/wrs97|
+|**TGT**|Target Corporation|47%|/u/Kosher-Bacon|
+|**SDGR**|Schrodinger Inc|47%|/u/TipasaNuptials, /u/asianmarysue, /u/RattleGoreBitcoin|
+|**CYBR**|Cyberark Software Ltd|46%|/u/Kevenam|
+|**DIS**|Walt Disney Co|46%|/u/jadenmc2189, /u/biz_student|
+|**NYMT**|New York Mortgage Trust Inc|46%|/u/ToKeepAndToHoldForev|
+|**FLIR**|FLIR Systems, Inc.|46%|/u/*zerokarma*|
+|**SNE**|Sony Corp|44%|/u/drorhac|
+|**TMDX**|TransMedics Group Inc|44%|/u/DropoutEngy|
+|**AVLR**|Avalara Inc|44%|/u/nomdeplume_alias|
+|**BLU**|BELLUS Health Inc|43%|/u/NhatNguyen2112|
+|**URW**|Unibail-Rodamco-Westfield SE|43%|/u/eams66|
+|**TEAM**|Atlassian Corporation PLC|43%|/u/shadowrckts|
+|**CCJ**|Cameco Corp|42%|/u/jh4962772, /u/Commandobolt, /u/3STmotivation|
+|**JPM**|JPMorgan Chase & Co.|41%|/u/wrs97|
+|**WIZZ**|Wizz Air Holdings PLC|41%|/u/Matous_Palecek|
+|**FSLY**|Fastly Inc|41%|/u/AwesomeMathUse|
+|**VHC**|VirnetX Holding Corporation|40%|/u/vyts18|
+|**SAM**|Boston Beer Company Inc|39%|/u/Top_Island|
+|**SDC**|SmileDirectClub Inc|39%|/u/meeni131|
+|**GFL**|GFL Environmental Inc|39%|/u/lenadunhamsbutthole|
+|**NPSNY**|Naspers Limited|38%|/u/Demandredz|
+|**TSE:AC**|Air Canada|38%|/u/priamXus|
+|**MTCH**|Match Group Inc|37%|/u/BallinLikeImKobe24|
+|**HERO**|Global X Video Games & Esports ETF|37%|/u/sgtyzi|
+|**NOW**|ServiceNow Inc|36%|/u/cookingboy|
+|**OKTA**|Okta Inc|35%|/u/Bcr731|
+|**DRNA**|Dicerna Pharmaceuticals Inc|34%|/u/earthmoonsun|
+|**SLP**|Simulations Plus, Inc.|34%|/u/hellohi3|
+|**WFC**|Wells Fargo & Co|33%|/u/yehdhbdjdjd|
+|**GNUS**|Genius Brands International Inc|32%|/u/due11|
+|**CDW**|CDW common stock|31%|/u/plorfu|
+|**TAP**|Molson Coors Beverage Co Class B|31%|/u/howtoreadspaghetti|
+|**CIBR**|First Trust NASDAQ Cybersecurity ETF|29%|/u/komoggmu321|
+|**BFIT**|Global X Health & Wellness Thematic ETF|29%|/u/Venhuizer|
+|**NVDA**|NVIDIA Corporation|29%|/u/TBSchemer, friedtea15|
+|**TD**|Toronto-Dominion Bank|29%|/u/robbierox123|
+|**BYND**|Beyond Meat Inc|29%|/u/Kreisensalat, /u/*Flipside*|
+|**SPOT**|Spotify Technology SA|28%|/u/_Hard4Jesus|
+|**HR.UN**|H&R Real Estate Investment Trust|28%|/u/CaptainCanuck93|
+|**SHOP**|Shopify Inc|28%|/u/AwesomeMathUse|
+|**BAM**|Brookfield Asset Management Inc|28%|/u/duongroi, /u/Avaronah|
+|**CYDY**|CytoDyn Inc|27%|/u/dufmum|
+|**BAC**|Bank of America Corp|27%|/u/oobydoobydoobydoo, /u/wrs97|
+|**OLED**|Universal Display Corporation|26%|/u/niknikniknikniknik1|
+|**TJX**|TJX Companies Inc|26%|/u/princess-smartypants|
+|**STO:TIGO-SDB**|Millicom International Cellular SA(SWE)|26%|/u/joseph460|
+|**DNNGY**|Orsted A S Unsponsored ADR|25%|/u/BrentfordFC21|
+|**ESNT**|Essent Group Ltd|25%|/u/veggie-man|
+|**OTCMKTS:PRXXF**|Paradox Interactive AB (publ)|23%|/u/I_worship_odin|
+|**AAPL**|Apple Inc|23%|/u/tcldstnvdw|
+|**INTC**|Intel Corporation|23%|/u/ionlypwn, /u/TitanCrasher54, /u/niknikniknikniknik1|
+|**VLO**|Valero Energy Corporation|23%|/u/chickenandcheesefart|
+|**NEWR**|New Relic Inc|23%|/u/Dalis_Ktm|
+|**WAB**|Westinghouse Air Brake Technologies Corp|23%|/u/warman506|
+|**ATVI**|Activision Blizzard, Inc.|23%|/u/Mondanivalo|
+|**NVR**|NVR, Inc.|22%|/u/Linnake|
+|**ARCC**|Ares Capital Corporation|22%|/u/ThemChecks|
+|**NATH**|Nathan's Famous, Inc.|22%|/u/howtoreadspaghetti|
+|**DOCU**|Docusign Inc|22%|/u/h3ku, /u/Teach-101|
+|**TRVN**|Trevena Inc|21%|/u/pacosteles|
+|**VTSAX**|Vanguard Total Stock Market Index Fund Admiral Shares|21%|/u/WackyBeachJustice|
+|**FSR**|Fisker Inc|21%|/u/bigsexy12|
+|**OXB**|Oxford BioMedica plc|20%|/u/arabidopsis|
+|**IMKTA**|Ingles Markets, Incorporated|20%|/u/kimjungoon|
+|**RTX**|Raytheon Technologies Corp|18%|/u/anon2019L|
+|**CHGG**|Chegg Inc|17%|/u/Boots2243|
+|**HZNP**|Horizon Therapeutics PLC|16%|/u/thesearchforanswer|
+|**VTR**|Ventas, Inc.|16%|/u/Unlucky-Prize|
+|**MMX**|Maverix Metals Inc|15%|/u/AwesomeMathUse|
+|**BBY**|Best Buy Co Inc|15%|/u/1madeamistake|
+|**SRNE**|Sorrento Therapeutics Inc|14%|/u/DowJonesLocker|
+|**OTCMKTS:GMWKF**|Games Workshop Group PLC|14%|/u/MAUSECOP, /u/Thenattylimit|
+|**HELE**|Helen of Troy Limited|14%|/u/aa341|
+|**MSFT**|Microsoft Corporation|14%|/u/TBSchemer|
+|**VEEV**|Veeva Systems Inc|14%|/u/JohnSpartans|
+|**BRK.B**|Berkshire Hathaway Inc. Class B|13%|/u/Jeroen_Jrn, /u/Cuza|
+|**CVS**|CVS Health Corp|12%|/u/handsomeandsmart_|
+|**ISRG**|Intuitive Surgical, Inc.|12%|/u/swalloforswallo|
+|**AYX**|Alteryx Inc|12%|/u/Kme2|
+|**TWOU**|2U Inc|12%|/u/DickDaddy|
+|**EW**|Edwards Lifesciences Corp|12%|/u/TheTubbyOlive|
+|**WMT**|Walmart Inc|12%|/u/anthonyjh21|
+|**NYT**|New York Times Co|11%|/u/jonhuang|
+|**HKMPF**|Hikma Pharmaceuticals Plc|10%|/u/Marvins-Room|
+|**MMMB**|Mamamancini's Holdings Inc|9%|/u/Jayesslee|
+|**AWK**|American Water Works Company Inc|8%|/u/InfamousLegato|
+|**LON:KEFI**|KEFI Gold and Copper Plc|8%|/u/Scipio-Africannabis-|
+|**AMD**|Advanced Micro Devices, Inc.|8%|/u/ArneGo, /u/apqwer, /u/LoveOfProfit|
+|**ZAGG**|Zagg Inc|8%|/u/ni_shi_shei|
+|**TRU**|TransUnion|7%|/u/AndyCircus|
+|**BEP**|Brookfield Renewable Partners LP|7%|/u/YourPineapplePunch|
+|**TSE:FAF**|Fire & Flower Holdings Corp|6%|/u/tobcar|
+|**SWCH**|Switch Inc|4%|/u/gce1010|
+|**ACMR**|ACM Research Inc|4%|/u/moveitover|
+|**BABA**|Alibaba Group Holding Ltd - ADR|4%|/u/helio987, /u/ScreeMart, /u/Necessary_Club_6714|
+|**LZAGY**|Lonza Group ADR|3%|/u/Fuck512|
+|**VMW**|VMware, Inc.|3%|/u/kingbrow2020|
+|**PLD**|Prologis Inc|2%|/u/ImPinkSnail|
+|**MO**|Altria Group Inc|2%|/u/ARGENT_UM_PUR, /u/gm14202|
+|**ZTS**|Zoetis Inc|1%|/u/BearBearChooey|
+|**JBSS**|John B. Sanfilippo & Son, Inc.|\-1%|/u/chris011186|
+|**OPK**|Opko Health Inc.|\-1%|/u/CS1026|
+|**HII**|Huntington Ingalls Industries Inc|\-2%|/u/howtoreadspaghetti|
+|**GILD**|Gilead Sciences, Inc.|\-2%|/u/Leroy--Brown|
+|**TNDM**|Tandem Diabetes Care Inc|\-3%|/u/liao24|
+|**O**|Realty Income Corp|\-3%|/u/bushysmalls|
+|**BAH**|Booz Allen Hamilton Holding Corporation|\-3%|/u/i_smel_hookers|
+|**LON:AAZ**|Anglo Asian Mining|\-4%|/u/krenaldi1|
+|**CCI**|Crown Castle International Corp|\-4%|/u/jkgator|
+|**KR**|Kroger Co|\-6%|/u/bxkrish|
+|**EQIX**|Equinix Inc|\-6%|/u/gce1010|
+|**NSRGY**|Nestle ADR|\-7%|/u/suburban_robot|
+|**DXCM**|DexCom, Inc.|\-8%|/u/InformalAid|
+|**GPL**|Great Panther Mining Ltd|\-9%|/u/Tony0x01|
+|**OTCMKTS:MMTRS**|Mills Music Trust Unit|\-9%|/u/ARGENT_UM_PUR|
+|**AMT**|American Tower Corp|\-10%|/u/editviewgo|
+|**FNMA**|Federal National Mortgage Association|\-10%|/u/figbuilding, /u/onkel_axel|
+|**PAF**|Pan African Resources plc|\-11%|/u/Fruity_Pineapple|
+|**FFMGF**|First Mining Gold Corp|\-12%|/u/RecCenterBall|
+|**NOK**|Nokia Oyj|\-14%|/u/perfectriot, /u/LiabilityFree|
+|**TSE:GCM**|Gran Colombia Gold Corp|\-15%|/u/Linnake|
+|**TQQQ**|ProShares UltraPro QQQ|\-15%|/u/iggy555, /u/Guiterrezjm6|
+|**AGRA**|Agraflora Organics International Inc|\-20%|/u/spreeshark|
+|**FNV**|Franco Nevada Corp|\-20%|/u/AwesomeMathUse|
+|**WTRH**|Waitr Holdings Inc|\-24%|/u/exstaticj|
+|**KL**|Kirkland Lake Gold Ltd|\-25%|/u/New_username_|
+|**LLNW**|Limelight Networks, Inc.|\-26%|/u/cyberdex, /u/thug_funnie|
+|**IMMNOV**|Immunovia AB (publ)|\-29%|/u/jennyther|
+|**BBAR**|Banco Bbva Argentina SA|\-29%|/u/GAV17|
+|**ALT**|Altimmune Inc|\-30%|/u/Spes-Caritas|
+|**OTGLY**|CD Projekt 4 ADR Representing Ord Shs|\-32%|/u/Thtb|
+|**IBIO**|Ibio Inc|\-36%|/u/PrairieDogger69|
+|**PTOTF**|Patriot One Technologies Inc|\-40%|/u/DanReynolds|
+|**BCLI**|Brainstorm Cell Therapeutics Inc|\-43%|/u/BigSexyTolo|
+|**SHLO**|Shiloh Industries|\-94%|/u/brainbroked|
+
+&#x200B;
+
+For those also interested, there was a stock picking survey back in October of 2018.  That overall portfolio is up 58% with an average return of 138% (driven by the triple digit gains in Enpahse and Tesla).  You can see the original picks in my history; happy to provide an update on that one if there is interest._END_OF_POST_PYSTOCK_ Advanced Pairs Trading Lecture Videos Found the playlist for the Advanced Pairs Trading lecture series.
+
+[https://www.youtube.com/playlist?list=PLfv9eTYgatm3oz8uq8G17-50ed\_s-n5ds](https://www.youtube.com/playlist?list=PLfv9eTYgatm3oz8uq8G17-50ed_s-n5ds)
+
+It covers the various approaches to pairs trading with the addition of some new insights.
+
+1. Distance Approach
+2. Advanced measures of codependence
+3. Cointegration Approach
+4. Copula (basic + advanced vine copula trading strategy)
+5. Machine Learning for pairs selection
+6. Sparse mean reverting portfolios
+7. Avellaneda and Lee's PCA approach
+8. Optimal trading rules via OU model_END_OF_POST_PYSTOCK_ Interactive Brokers: I don't understand the "Equity with Loan Value/Settled Cash" sections. I have deposited a total of £700 into my IBKR account, and purchased some shares. Two days later, and my portfolio is now worth £725. Yet both my "Equity with Loan Value" and "Settled Cash" sections of my account are showing up as -£388. Can you guys explain to me what this is? Why, if I could sell all my shares right now for a small profit, are these sections showing up in the negative?
+
+As a further question; I am receiving a notification saying this -
+
+"Margin cushion: 2.78% remaining"
+
+What does this mean? Again, I am relatively inexperienced, so apologies if this is all simple stuff. Thanks in advance to any of you who can shed some light on this for me.
+
+Edit: I think I may have worked it out. I forgot to mention, I sold shares yesterday for $533, which comes to roughly £390. Am I right in thinking that this takes a few days to settle?_END_OF_POST_PYSTOCK_ Here's why I think $CRSR does not already have the earnings surprise priced in $CRSR is announcing their Q4 earnings tomorrow in Pre-Market. Yes, I know, its coming off a bull run so must be ready for the 2021 IV crush right?
+
+I don't think so.
+
+As someone said better than I last week TL;DR... Corsair has already teased their full 2020 earnings in a prospectus a couple of weeks ago on 1/21. We already know they're ending with an incredible year. Better yet, the institutional traders have their heads in the sand on it. [https://ir.corsair.com/static-files/22acfc88-2f42-4b16-8bbb-099323323f33](https://ir.corsair.com/static-files/22acfc88-2f42-4b16-8bbb-099323323f33)
+
+Since that announcement, the stock has increased **27%**. Earnings surprise must be priced in right? I doubt it
+
+Looking at LOGI, the closest competitor. We saw a big dip starting 1/15 (day before earnings announcement), and on 1/18, day of ER). Standard 2021 post-earnings IV crush.... Right before it ran to ATH 2 weeks later.
+
+Now looking at CRSR vs Logi movements [https://imgur.com/Bf1gVZB](https://imgur.com/Bf1gVZB) CRSR had a big drop around the same time too. But why? They didnt' release earnings. No major news. No IV crush?
+
+**On 1/13/21, Corsair dropped from the sky, on the same day $G M E started its short squeeze and jumped 57% in a day.**
+
+Maybe a coincidence. Or maybe the 1/13 squeeze wasn't a price correction, it was direct a reaction to the squeeze and overall market pullback. Hedge funds moving money around.
+
+ Oh yea, guess who owns 2% of the outstanding float of CRSR? The kings of Squeeze themselves, Citadel [https://imgur.com/xlQNZy](https://imgur.com/xlQNZyJ) 
+
+Then price began to recover to normal, until 1/27 and they announced a secondary PO.... price drops again.
+
+And THEN we run to $46-$47...27% gain from the post-drop low of $36.
+
+**BUT, we are only 7% up from the recent high trading averages of $41, and still 9% below the ATH.**
+
+This doesn't sound like its overpriced at all. Sounds like the recent high IVs are result of the price normalization, not over-buying.
+
+**TL;DR:** I think the IV crush or post-earnings selloff is going to be mild, and a precursor to a very fast bounce-back bull run to ATHs_END_OF_POST_PYSTOCK_ Lordstown Motors Potential Growth Lordstown Motors (RIDE) is an EV manufacturer based in Ohio with a massive facility and some real upside potential. Think high risk/ high reward.
+
+It's been well documented on here that their ~~preorders~~ *non-binding contracts* are exceeding 100k, they have relationships with LG, GM, Workhorse, and Camping World, and are still targeting a September release to be the first to market EV truck. They are working on 57 prototypes now for beta that are scheduled to be completed in March, so as of now seem to be on schedule.
+
+Lordstown has over a 4.5b market cap as a company with $0 in revenue, which is both incredible and incredibly expensive, but the upside potential is certainly there for a high risk opportunity.
+
+##The Numbers:
+First, trying to determine the value of an EV company in 2021 is difficult. Using a revenue run rate multiple is the simplest to get an approximation of potential value. 
+
+**Tesla**
+
+- 2021 Revenue *high estimate* **56.47b**
+
+- Current Market Cap **818.43b**
+
+- Revenue Multiple **14.49**
+
+
+
+**Nio**
+
+- 2021 Revenue *high estimate* **5.79b**
+
+- Current Market Cap **92.09b**
+
+- Revenue Multiple **15.91**
+
+For Lordstown, we have to make assumptions. Lordstown's initial production projections are as follows:
+
+- 2021 - 2k (reaffirmed by the CEO in a 2/6 interview)
+
+- 2022 - 32k
+
+- 2023 - 65k
+
+Assuming 32000 trucks is obtainable, all trucks are sold at base level ($52500), and there are no other revenue sources (so excluding potential service revenue and Workhorse revenue for simplicity), this brings revenue to 1.68b in 2022. If we give Lordstown a similar 14x revenue run rate multiple, that brings the market cap to approximately 23.5b q1 2022. That's an upside potential of approximately **5x its current valuation.**
+
+Of course this is all dependent on actually producing real units on the timeframe outlined, which is why it is certainly a high-risk investment. 
+
+A couple other notes:
+Lordstown is in the final stages of possibly receiving a government loan that CEO Steve Burns said was unnecessary to hit their estimates, but would be able to speed up their production schedule. It will be interesting to see if there is any more information on this when they report earnings this month.
+
+2 of their first prototypes caught fire. The most recent apparently had a battery problem. I'm definitely interested to see if they release any sort of statement regarding it._END_OF_POST_PYSTOCK_ An attempt at calculating the optimal frequency to invest into a passive portfolio (save on brokerage) I am a pretty passive investor (my portfolio is just ETFs that track various market indices). I always wondered how often should I invest my paychecks - if I invested every time I got them I would pay a lot of brokerage, but if I put them in a savings account and waited too long for them too accumulate, I would miss out on returns.
+
+I realised yesterday that I could actually calculate an optimal frequency if the following conditions hold:
+
+* You have a set amount from each paycheck that you'd invest
+* You have a passive porfolio (ETFs that track the market with pretty predictable returns)
+* You plan to invest over a relatively long period
+
+I essentially optimised the present value of the investments into perpetuity (discounting at the portfolio rate of return). Here is a write-up I made explaining it: [https://www.dropbox.com/s/wn2poe83f1zgokd/returns.pdf?dl=0](https://www.dropbox.com/s/wn2poe83f1zgokd/returns.pdf?dl=0)
+
+For anyone looking to apply this, I made a simple spreadsheet that calculates and gives you an optimal frequency based on values you input: [https://www.dropbox.com/s/xpo9euskdac3a87/Calculator.xlsx?dl=0](https://www.dropbox.com/s/xpo9euskdac3a87/Calculator.xlsx?dl=0)
+
+Any feedback is appreciated!_END_OF_POST_PYSTOCK_ Microsoft $MSFT stock looking bullish and may have a possible surprise announcement soon! Last year, in 2020 MSFT had a strong rally of 43% to record highs for the year.
+
+The earnings released on January 26th show MSFT beat earnings and revenue expectations for the eighth straight quarter as reported on the last earnings report about two weeks ago. Earnings of $2.03 per share easily topped expectations by 39 cents, while revenue of $43.08 billion grew almost 17% year over year and beat estimates by more than $2.8 billion.
+
+Since the release of this earnings report, the stock value has been uncharacteristically quiet and only hovering around the $242 range.
+
+This made me investigate what’s going on and I discovered over 12 Microsoft executives acquired common stocks as recently reported on February 1st with the SEC Form 4 filings. I calculated 1,348,758 common stock shares that were acquired by Microsoft leadership in the last month.
+
+This potentially means MSFT will be releasing some big news in the near future. Potentially even as early as the next couple of weeks and I believe it will be either an M&A, a new technology product, or a large government contract to make all these executives acquire common stocks at the all-time high price.
+
+I picked up 500 call options as I’m conservatively estimating their stocks might increase over $250 in the next two weeks.
+
+Another thing to note is ARK Investment Management LLC reported a 30.67% increase in their ownership of MSFT / Microsoft Corp about three months ago. ARK does a lot better investigating potential disruptive technologies so they might have been previewed to some knowledge that helped them decide to increase their position that much.
+
+This is not financial advice and just my opinions. Please do your own DD before making any financial investments. Also please share your thoughts and insights on this as I am also thinking about buying some long-term shares tomorrow depending on what others mention or discovered.
+
+EDIT: I replaced the word "bought" with "aquired" to reflect the verbiage of the SEC Form 4 filings. Apparently acquired could mean they were awarded, exercised options, or other means. I also removed the word "insider"._END_OF_POST_PYSTOCK_ Keeping cash for buying opportunities during market downturns I heard from a couple of colleagues that they like to keep about $10k or more in extra cash/savings for “downtimes” or “market corrections”. Example: March/April 2020, they invested $10k instead of the normal $1k that they normally would. Is this a mistake (waiting for a downturn)? Or is it better to increase the monthly dollar cost averaging amount invested and only keep in cash what you actually need in regular savings? Does keeping cash like that hurt you overtime (i.e opportunity cost of keeping cash)? Advice is appreciated! Also, side note, what is a healthy amount to keep in savings/cash for a rainy day (in terms of either salary or expenses) in your opinion?_END_OF_POST_PYSTOCK_ What is a structure/entity for personal money management not in a personal investing account I'm trying to move to a more tax-efficient setup for my investing. 
+
+Currently I'm trading in a personal investing account with TD, but capital gains tax is seriously impeding the growth of my account, especially because most of my trades are short term.
+
+So I've been looking for a structure that will let me trade with little or none capital gains tax, and instead tax distributions.
+
+The most similar thing I can think of is an IRA, where there is no capital gains tax but distributions are taxed as income when you take them. Unfortunately, unlike an IRA, I want to be able to take distributions at any time without penalty, only tax (instead of 59.5 yrs old) and I also want to be able to contribute any amount. 
+
+There are also similarities to a hedge fund, but setting up a hedge fund is overkill because I'm not looking to raise outside capital or handle money that isn't my own.
+
+Besides a hedge fund, I've looked at private equity and family offices but none fit the bill. Maybe I've overlooked something but I've hit a dead end and unfortunately, I don't know what I don't know, so I'm not even sure what I've missed. 
+
+Any help would be great, thanks.
+
+(United States, less than 10 Million in assets, looking to trade stock and options for public companies)_END_OF_POST_PYSTOCK_ Need some advice on how and what I should invest my money I just graduated a couple months ago, so I'm new to this long-term investing thing. I learned a lot about options trading and stuff over quarantine and made about a 100% return this year on a couple thousand dollars from trading spreads and covered calls/secured puts. However, I think that's not the "right" way to invest my money right? So I have a couple questions:
+
+1. Should I invest my money in ETFs or individual stocks? Obviously the likes of SPY and QQQ are really safe long term bets, but over the past couple years especially, tech is outgrowing those ETFs by a non-trivial amount. So I was thinking about putting some money in ETFs, some money in tech stocks, and some money in sectors that I believe will grow in 2020's (electric car, renewable energy, etc). Is this a viable breakdown? If so, about what percentage of my portfolio each of those three "categories" should be?
+2. I work at a tech company and I get RSUs. Should I keep my company RSU and hold for over a year so that it becomes long term capital gains or should I immediately sell and proceed with whatever strategy is the answer for question 1?
+3. Should I invest in high-dividend ETFs and companies? I do want to eventually retire and live on dividends, but aren't dividends taxed higher and contribute to a slower stock growth? As someone who's starting at ground zero, what's a good percentage breakdown between high dividend and high growth stocks?
+
+Thanks!_END_OF_POST_PYSTOCK_ $VXRT is a vaccine play that might be worth the risk Vaxart is a vaccine company working on creating a COVID vaccine that can be ingested orally in the form of a pill (vs. a typical vaccine injected through a syringe). There are some obvious benefits of rolling out vaccine in pill forms (i.e. can be stored in room temperature, ease of transportation, cheaper cost to produce). Unlike Pfizer's vaccine that has to be store at negative 70 degree Celsius, Vaxart's vaccine has some clear distribution advantages especially in third world countries.
+
+Last week the company announced its Phase 1 trial results and absolutely blundered their PR, which sent the stock down like 60%. It's recovered a little bit today but I believe the company's ability to properly convey the difference between their oral vaccine vs. other syringe delivered vaccines really is leading the company's share price to reflect a stock price that's currently underappreciated by laymen investors (like myself). 
+
+For some more detailed science behind what's happening and the recent PR blunder, take a look here: [https://seekingalpha.com/article/4403369-vaxart-stock-drop-following-phase-1-data-for-oral-covidminus-19-vaccine-is-buying-opportunity](https://seekingalpha.com/article/4403369-vaxart-stock-drop-following-phase-1-data-for-oral-covidminus-19-vaccine-is-buying-opportunity)
+
+Take a look and let me know what you think!_END_OF_POST_PYSTOCK_ Investing for a sibling of legal age What is the best way to invest for a sibling?
+
+Facts:
+* sibling is of legal age
+* sibling doesn’t make enough money to even consider investing, but makes ends meet.
+* sibling is married to someone who would bleed their savings dry if it existed
+
+I initially considered investing with a trust account because it would absolve me of the tax burden when rebalancing the portfolio. I’m just worried that she may fall onto hard times before my death in which case I’d like to present her with some of the cash by liquidating as needed.
+
+I’ve also contemplated letting her sign up for the account that I would fund and set up automatic investments through m1. My only issue is there’s no way to stop her (or her SO) from liquidating when ever they want to go fishing or buy a 36 pack. It also leaves my bank account wide open to them. Even if she were to hide it from him, they’d receive tax documents once a year for it.
+
+My other option is to just open a secondary account and treat the investments as my own, eat the tax, and do what I want with the money when I want. Including not giving them a dime if they somehow turn their life style around.
+
+Am I missing anything?_END_OF_POST_PYSTOCK_ InMode - Profit off Human Vanity Profit off Human Vanity. The vanity of human wishes.  
+InMode offers cutting edge medical devices for minimally-invasive & non-invasive procedures  
+
+
+InMode (INMD)  
+Tonight they will announce the next financial release, based on 3Q 2020 we have:  
+
+
+Income Growth:  
+\+49% revenue growth Y/Y (3Q 2020 vs 3Q 2019), and that is during covid. Expecting a much stronger growth after vaccine roll out this year.  
+Very Profitable:  
+High Gross margin of 87.06% and Profit margin of 39.11% and ROE of 28.56%  
+Industry Backdrop:  
+Constant year on year growth in demand for medical aesthetics procedures globally. It has just entered China market.   
+
+
+My previous records (You can search my threads created)  
+Silvergate (Bought at $74, now $143) Gain +93.2%
+
+Lets go onboard the next starship guys!_END_OF_POST_PYSTOCK_ 21 Years Old - 35K to 126K EOY MISSION ***INTRODUCTION***
+
+I have never been exposed to the markets until quarantine of last November. I had taken economics back in high school and paper traded, but I had never taken it seriously until now. Now, I see the power of investing and want to tackle the market with a larger capital with the goal of gaining 1% daily. From what I've heard, growing 1% daily is not as easy as it seems, but I feel that with the recent consistent growth of the market, now is a better time than any other. With my 35K, I will work to grow it into a six figure account in one year.
+
+&#x200B;
+
+***THE MATH***
+
+1% a day of initial 35K totals to $350/day
+
+$350/day x 5 days ≈ $1750/week
+
+$1750/week x 52 weeks ≈ $91,000 EOY
+
+Total capital EOY: 35K + 91K ≈ $126K
+
+&#x200B;
+
+***THE STRATEGY***
+
+Diversify investments throughout fundamentally good stocks and ride the trains on hyped stocks from time to time. Additionally, pay attention to growing sectors such as EV. 
+
+&#x200B;
+
+***CURRENT POSITIONS***
+
+* **$BB**
+* **$BNGO**
+* **$CLOV**
+* **$NIO**
+* **$NNDM**
+* **$PLTR**
+* **$TSLA**
+* **$UWMC**
+* **$VERU**
+
+&#x200B;
+
+***CONCLUSION***
+
+Please let me know what you guys think of this goal of mine, I'd greatly appreciate any feedback or advice._END_OF_POST_PYSTOCK_ Look at These today: ZOM, ADAG (IPO), GNW, and GNUS...  
+
+Good Evening Folks,
+
+ZOM had some great numbers today, reaching 2.91 during the day trading. the after hours press release regarding the sale of about $25.0 Million Bought Deal Offering of Common Shares to Wainwright & Co., LLC under which the underwriter has agreed to purchase on a firm commitment basis 13,157,895 common shares of Zomedica, at a price to the public of $1.90 per share appeaered to stir a brief panic and share price dropped in the after hours to about the 2.25 range before rebounding. AT the time I write this is as recouped most of its loss and is holding its own at about 2.53/share in the after hours market.
+
+[Zomedica Corp. Announces $25.0 Million Bought Deal Offering of Common Shares - World News Report - EIN Presswire (einnews.com)](https://world.einnews.com/pr_news/535344817/zomedica-corp-announces-25-0-million-bought-deal-offering-of-common-shares)
+
+I've posted several times about ZOM and my feelings that this stock will go after its March 31 debut of its Truforma veterinary diagnostic system (see below)
+
+[https://www.fool.com/investing/2021/02/05/why-zomedica-stock-surged-today/](https://www.fool.com/investing/2021/02/05/why-zomedica-stock-surged-today/)
+
+[https://investorplace.com/2021/02/zom-stock-is-less-speculative-than-you-might-think/](https://investorplace.com/2021/02/zom-stock-is-less-speculative-than-you-might-think/)
+
+[https://investorplace.com/2021/02/1-is-just-the-first-stop-in-a-long-journey-for-zom-stock/](https://investorplace.com/2021/02/1-is-just-the-first-stop-in-a-long-journey-for-zom-stock/)
+
+In fairness, here is the only negative piece I can find on ZOM:  
+[https://investorplace.com/2021/02/zom-stock-high-risk-trade-long-term-investment/](https://investorplace.com/2021/02/zom-stock-high-risk-trade-long-term-investment/)
+
+Some appear worried that this share purchase will dilute the market. I on the other hand see this 25.0 million stock buy as a positive reinforcement that ZOM will indeed pan out long term. Again, this is a long term hold opportunity not a short term thing. At last check I think they were only shorted like 10% or so so definitely not a short squeeze opportunity from where I stand.
+
+A couple other stocks I will be pushing up share numbers on this week include Genworth Financials (GNW) who has dug themselves out of debt despite the delayed merger with a debt to equity ratio of .23 and beat analyst estimates for 3rg qtr by about .16 per share. This is NOT a rocket stock by any means..a slow grower...but I firmly believe it will continue to see a marked increase after its 4th qtr earnings statement slated for February 17.
+
+[Genworth Financial (NYSE:GNW) Shares Up 8.8% - American Banking News](https://www.americanbankingnews.com/2021/02/01/genworth-financial-nysegnw-shares-up-8-8.html)
+
+[GNW Price Target, Analyst Ratings and Predictions (Genworth Financial) (marketbeat.com)](https://www.marketbeat.com/stocks/NYSE/GNW/price-target/)
+
+[How to trade Genworth Financial $GNW With Risk Controls - MarketWatch](https://www.marketwatch.com/press-release/how-to-trade-genworth-financial-gnw-with-risk-controls-2021-01-20)
+
+Now to the "riskiest bet" of the week so far: GNUS. Genius Brands: Despite some bad press pointing to their stock dilution in 2020 and their "burning through cash" as it prepares for its ramp up of Kartoon Channel line up the stock continues to grow why? I firmly believe their debut this spring of Stan Lee's Super Hero's Kindergarten will take off (hello??? STAN LEE..and ARNOLD) along with their recent acquisition of Chizcomm may give them the extra marketing tools they need to make this enterprise work.
+
+[UPDATE - Genius Brands International Delivers Exclusive Sneak Peek for New Animated Series, “Stan Lee’s Superhero Kindergarten,” with Introduction by Star and Co-Executive Producer, Arnold Schwarzenegger (yahoo.com)](https://finance.yahoo.com/news/genius-brands-international-delivers-exclusive-161400100.html?.tsrc=rss)
+
+[Genius Brands International Completes Strategic Acquisition of ChizComm Ltd. and ChizComm Beacon Media (yahoo.com)](https://finance.yahoo.com/news/genius-brands-international-completes-strategic-141500472.html?.tsrc=rss)
+
+Lastly, I am looking at grabbing some Adagene (ADAG) today (2/9) as its IPO debuts. Again, no risk no gain here but their recent collaboration with Exelixis (EXEL) to Develop Novel Masked Antibody-Drug Conjugate Therapies with Improved Safety and Efficacy Profiles on February 1 may be enough to pop the stock. It has several Cancer related treatments in the pipeline, two in the Phase 1b/ II stage.
+
+[https://www.adagene.com/](https://www.adagene.com/)
+
+[https://finance.yahoo.com/news/exelixis-adagene-enter-collaboration-license-130000901.html](https://finance.yahoo.com/news/exelixis-adagene-enter-collaboration-license-130000901.html)
+
+[EXEL 23.81 0.64 2.76% : Exelixis, Inc. - Yahoo Finance](https://finance.yahoo.com/news/exelixis-exel-report-q4-earnings-150103824.html)
+
+OK folks...all for today. Not a stock expert, just airing my thoughts...comments always welcome._END_OF_POST_PYSTOCK_ Trying to invest in the Nasdaq via a mutual fund (not an ETF). Here's a breakdown of the ways to do this and how hard it is. Any input would be appreciated. It might seem weird, but there a some reasons that some people prefer index mutual funds (which trade once daily) over index ETFs which trade intraday. Here are some. This isn't an argument that mutual funds are better than ETFs, just some of the differences. ETFs are great too.
+
+1.  Easier automatic investing through certain brokerages. 
+2.  Behavioral advantages (for some): impulses to get in and out of the market are easier to overcome because the fund only trades once per day. You have until 4pm to modify any existing orders. Whatever order is inputted at 4pm on a given day is what happens. It's not as if you freak out at market open you can sell everything. 
+3.  Fits nicer and more cleanly into a fund that has other mutual funds in it (like VTSAX). You see your daily returns *all at once* when the mutual funds settle for the price, as opposed to seeing the ETF changes by themselves during the day and then the total average at night. This again helps with behavior. If the S&P is up 1% on a given day but the Nasdaq is up .25% you see the gains averaged out and it gives your more perspective on what is actually happening. Not a huge deal, but it something. 
+
+Anyways, it turns out that it's really difficult to invest in the Nasdaq Composite or Nasdaq 100 via a mutual fund. That is, *unless I'm missing something*. Here are the options: 
+
+1. FNCMX (Fidelity) - Only for Fidelity users
+1. USNQX - seems like the best one. But 0.48% Fee and $50 transaction fee through a lot of brokers
+1. OTPIX - Fee is 1.56% which is ridiculous 
+1. NASDX - Fee is 0.70% pretty steep 
+1. RYHOX- Fee is 1.63% which is ridiculous 
+
+If we compare USNQX (the best option, I think) with QQQ unfortuately the .48% destroys a lot of your gains over the long run. It cuts down on 50% of the gains on your original investment if held for 20 years. Evidence (expand the time scale at the bottom to 20 years): https://stockcharts.com/freecharts/perf.php?USNQX%2C%20qqq
+
+
+--
+
+
+Is this the state of things? Are there really this few options for passive nasdaq funds that aren't ETFs? I'm surprised by this. There are thousands of S&P mutual funds with under 0.5% fee. But for the nasdaq (i.e., if you want less exposure to banks and more to technology) the opportunities aren't great for mutual fund fans. 
+
+Am I missing anything here? I imagine I am? Anyone in a similar position? How do you deal with it? Hopefully this post can help people with a similar question now or in the future.
+
+--
+
+
+TDLR: it seems impossible to invest in one of the most attractive indexes of the 21-century via a mutual fund with low fees. Is this right? This seems bizarre._END_OF_POST_PYSTOCK_ Investing lessons for my daughter Hello,
+I am working on teaching my daughter about investing and the market in a very general sense. She has some money and wants to purchase just one or two stock shares. She is very interested in Tesla as well as Space X and any company that may be involved in space exploration and alternative energy. I was wondering if any of you had a suggestion of a supporting company of Tesla or some space/alternative energy companies that have a moderate stock price. She prefers the companies have an ethical background. She isn't looking to get rich, just help make the earth a better place. She has $60. I greatly appreciate your time and consideration._END_OF_POST_PYSTOCK_ LivePerson (LPSN): Automating Customer Interaction and Service  
+
+**LivePerson (NASDAQ: LPSN)**
+
+Making life easier for consumers and brands across the globe through intelligent conversation AI.
+
+**Company Overview**
+
+LivePerson (“LPSN”) is an American online messaging and solutions company established in 1995 and headquartered in New York City.
+
+Beginning with the invention of live chat on consumer websites in 1995 by founder and CEO Robert LoCascio, LivePerson changed the way that consumers connect with their favorite online brands. In 2018 LivePerson laid out their new vision for AI-powered conversations that will pave the way for brands to provide quick and excellent customer experiences. 
+
+LPSN IPO’d at around $8 in April 2000 and had seen a disappointing return in share price until investors started to catch on in early 2017. Today, LPSN is trading at an all-time high $70 and sporting a $4.52 billion market cap.
+
+In 2020, LivePerson was named to Fast Companies annual list of the World’s Most Innovative Companies. An award that honors businesses making the most profound impacts on both industry and culture in today’s very fast changing business landscape. As of 2020 LivePerson technology has powered over 1 billion brand-to-consumer conversations to over 18,000 customers.
+
+*Conversational AI*
+
+To get a better sense of how their conversation AI functions click the link below:
+
+[LivePerson Conversational AI: Introduction - YouTube](https://www.youtube.com/watch?v=MQMhjEYTqAU)
+
+**Business Fundamentals**
+
+**Company Financials**
+
+In their most recent Q3’20 earnings, LivePerson recorded a revenue increase of 26% year over year (“y/y”) from Q3’19 with $94.8 million in revenue. As a result, the company raised its revenue guidance for full year 2020 to a range of $362.5 million to $364.5 million (up from $357.0 million to $361.0 million). Adjusted EBITDA was $15.1 million and generated a multi-year high profit margin of 16%. As they approach their Q4’20 earnings, LPSN entered the quarter with strong momentum given increased platform conversation volumes, record contract signings, and a revenue rate well beyond previous estimates. Additionally, the company raised 2020 adjusted EBITDA of $29.0 million to $31.0 million, up from prior guidance of $16 million to $19.0 million.
+
+**Revenue streams and products**
+
+LivePerson operates as a SAS model to medium and large size commercial businesses including the likes of Home Depot, Virgin Atlantic, Delta Airlines, IBM, HSBC, and T-Mobile.
+
+LPSN uses an open platform model that allows their technology to be implemented with user-friendly messaging apps including WhatsApp, Facebook Messenger, SMS, WeChat and more. As more businesses continue to transition their interactions to messaging, this will help grow and improve the machine learning of their conversational AI that will unlock new customer insights and potential use cases for brands.
+
+*Intent Manager* uses LPSN’s NLU engine to identify the intents of customer inquiries to operate and inform critical business decisions.
+
+*Conversation Builder* uses a point-and-click interface that limits the options for customers but makes it easy to build bots that can automate these interactions.
+
+*Conversation Manager* allows enterprises to organize and manage all customer interactions by consolidating everything into a single view. This also includes an agent assist that will suggest to the best content or bot to handle customer intent. These recommendations are presented directly in the conversation flow to expedite responses.
+
+**Industry and competitive landscape**
+
+**Total addressable market**
+
+LivePerson estimates the current total addressable market to be $60 billion, however this is likely to continue growing higher as many opportunities are largely unrealized.
+
+Existing vertical opportunities include Financial services, consumer retail, utilities, telecommunications, travel and hospitality, media, technology, real estate, and education.
+
+Their new vertical opportunities for 2020 and beyond include but are not limited to healthcare, government, non-profits, manufacturing, wholesale, and professional services.
+
+It really is difficult to think of a consumer facing industry that will not require some sort of conversational AI in order to maximize cost and efficiency, especially as more businesses make the switch to digital commerce. A Forrestor study that was commissioned by LivePerson found that only a third of business enterprises believe they can react to consumer needs in real-time.
+
+**Growth strategy**
+
+The leadership team at LivePerson is very focused on an organic growth strategy and increasing their operating leverage. The CEO LaCascio went as far to say that “There will be a trillion dollar company in this space (conversation AI) and I want it to be us.” Through heavy investments in their AI technology and algorithms, LPSN is creating leverage over their competitors to create and implement a superior product. In 2018, Alex Spinelli joined LPSN as the Chief Technology Officer after previously serving as head of the Alexa OS for Amazon. With him he recruited over 200 AI developers set on creating and improving a comprehensive roadmap for all their AI services.
+
+The total addressable market for LivePerson is not limited to any one industry but recently they have capitalized on the digitalization of our economy as a result of the Covid-19 Pandemic. Historically, LPSN has targeted their business towards large call centers for banks or telecommunication customers as part of their strategy but the pandemic has created new opportunities for them. Back in May of 2020 the CEO made his stance clear that the pandemic has ushered in the “Death of the call center”. In March 2020, the volume of LivePerson’s chat feature 10x’d with their existing customers. Especially during the height of the pandemic most people in America can relate to the idea of being put on hold by their bank, utility service, healthcare provider, etc. LPSN can implement their conversational AI technology into these sectors to create quick and effective customer solutions. Besides, who doesn’t like texting more than calling someone.
+
+In the retail sector, LPSN has been closing deals with new and existing customers in the retail sector to provide curbside pick-up through their AI messaging. Additionally, they have developed technology that allows you to scan a QR code on an in-store item using a smart-phone and have an AI-conversation about the products even after you have left the store.
+
+**Awards and Recognition**
+
+LivePerson was named to Fast Companies annual list of the World’s Most Innovative Companies.
+
+LivePerson’s Maven conversational AI platform won “Best AI-based Solution for Customer Service.” from AI Breakthrough, which recognizes top companies, technologies, and products in the global artificial intelligence market.
+
+LSP received Frost & Sullivan’s Customer Value Leadership Award for conversational AI in financial services.
+
+**Conclusion**
+
+The stock is currently trading at an all-time high but this is a potential long-term investment that should reward it’s investors as the inevitable implementation of AI becomes more prevalent in our society. The technology is not perfect by any means but it will continually get better as more and more businesses implement their services. Looking into the future I would just ask myself what will be the future of customer interaction, call centers or bot technology?
+
+Thanks for reading, let me know your thoughts or criticisms.
+
+Seacow
+
+Disclaimer: I am not a registered investment advisor, and I am long on LPSN._END_OF_POST_PYSTOCK_ Homebuilders seem like a good value As a value investor, I look for growth at a reasonable price. Many homebuilders are selling right now at p/e valuations of 7-12. Sales growth and debt reduction have been strong several years in a row. This year is expected to be another hot housing year, both for new homes and real estate pricing. (While not every city is having a hot housing market, the markets for entry-level family homes in states like TX, AZ, FL, CO, GA are predicted to have excellent growth for at least a few more years.)
+
+Why is this sector not talked about more often?
+
+Some examples include DHI, MTH, GRBK, which are large, mid, and small cap, respectively._END_OF_POST_PYSTOCK_ My 401K has terrible investment options I've been investing with my personal savings that is above my "rainy day" fund for the last couple of years, and have put together a nice return (save the bump from March 2020).  My 401K at work is through Ameritas.  Seems like nice people, but their investing options seem to be terrible.  There are about 25 mutual fund options, none of which appear to do better than the indexes that they mostly follow.  
+
+First off, I'm not leaving my job, and I will continue to max out my employer match (3%/6%), and will instead invest the other 4% that I had been putting into my 401K into likely a standard IRA.
+
+I see lots of advice on how to rollover my 401K to an IRA, but I have yet to find any advice on how to rollover a 401K to an IRA when I haven't left my job.  I have sent in an email to Amertias, but looks like I probably won't hear back until 2-3 days.  
+
+Any thoughts/suggestions/gotchas that I should be looking at?_END_OF_POST_PYSTOCK_ Benzinga circulating the idea that GE should buy PLUG or FCEL Benzinga recently ran a poll where they asked if GE should buy both, one or none of the two clean energy providers PLUG, FCEL.
+
+Poll results aside I’m curious to know what everyone thinks what would happen if GE were to make such a move and buy PLUG.
+
+I own a significant amount of shares in both. Unfortunately GE has done very poorly for me and I continue to hold at a 50% loss. On the other hand with all of the clean energy craze going on, my PLUG shares have skyrocketed by over 800 percent.
+
+Assuming GE were to buy PLUG, would you get out of PLUG and invest in GE, vice versa, or get out of both?
+
+I’m not asking for financial advice, just curious to see how others feel on the hypothetical._END_OF_POST_PYSTOCK_ NeonMind BioSciences Inc: An Intriguing Take on an Overwhelming Epidemic  
+
+While Psychedelics are still in their infancy in terms of legalization in Canada, few companies are starting to emerge onto the Stock Market that have the potential to grow exponentially and be recognized as potential big players in the emerging psychedelic market in Canada. One company in particular has been gaining traction, NeonMind BioSciences Inc, with a recent article portraying their goals on CTV News & how they interestingly plan to tackle obesity, an epidemic which according to StatCan affects 26.8% of Canadians over the age of 18 (Most recent statistic dated 2018) & 36.5% of Americans (according to healthline.com).
+
+**Media Coverage:**
+
+A recent article published by CTV News Vancouver details NeonMind, & how they are conducting a preclinical trial using psylocibin to treat obesity at the University of British Columbia.
+
+According to CTV News Vancouver, NeonMind is working with Dr. C. Laird Birmingham, a psychiatry professor at UBC, who’s main expertise includes eating disorders. CTV News interviewed Dr. Birmingham about the trails, to which he states:
+
+“Most people lose weight, but they rarely maintain. Psilocybin has the potential to serve as a new and different tool to help people lose weight and maintain their weight loss by changing their neural pathways."
+
+The overall goal of the trails taking place at UBC is to examine whether psychedelics like psilocybin are capable of changing unconscious responses to emotional situations that can trigger addictions, including food-related addictions. Previous research from UBC has shown that controlled use of psylocibin can be successful in treating other mental disorders such as PTSD, and with the growing push to legalize medical mushrooms in Canada, now is the time to invest in a promising company like NeonMind.
+
+**Strong Points:**
+
+These milestones have already been achieved by the company (as claimed by their website):
+
+* "We have signed a restricted drug supply agreement with Psygen Labs Inc. for psilocybin supply through an agent for our preclinical trial, direct supply for our potential clinical trials, and for potential commercial launch of a drug product to aid weight loss."
+* "On October 7, 2020, Health Canada granted approval to Dr. Alasdair Barr to possess psilocybin to carry out our preclinical trial, and the trial officially started in November 2020."
+
+**Future Milestones:**
+
+According to their website, NeonMind states that:
+
+* "We expect to have enough information from our preclinical trial to apply for our planned Phase 2 Human Clinical Trial in the Spring of 2021."
+* "We have filed 5 U.S. provisional patents to protect our intellectual property related to the administration of psychedelic substances to aid in weight loss, treat obesity and its complications, reduce food cravings, treat compulsive eating disorders and alter the diets of individuals."
+
+**Team:**
+
+***Scientific:***
+
+\-**Dr. William Panenka, MD (Chair, Scientific Advisory Board)**
+
+\~Dually boarded Neurologist & Psychiatrist & Canadian Institute of Health Research funded academic faculty member at UBC.
+
+\~Completed a post doctoral fellowship at UBC & Harvard
+
+\~Maintains a research Program in brain injury, mental health & addictions
+
+\~Authored over 30 publication in the last 5 years.
+
+\-**Dr. Carl Laird Birmingham, MD, BSC, MHSC, FRCPC, FACP, ABIM, FAED**
+
+\~Specialist in Internal Medicine, an Epidemiologist & Biostatistician, and a Professor of Psychiatry at UBC.
+
+\~Expert in the treatment & study of eating and weight disorders and extensive experience in the design of clinical trials for treatments for eating disorders.
+
+***Management & Board***:
+
+\-**Robert Tessarolo, BA**
+
+\~Over 25 years of experience in pharmaceuticals
+
+\~Former President, CEO & Director of Mind Medicine Inc.
+
+\~Former President & CEO of Cipher Pharmaceuticals Inc.
+
+\~Led the integration of major M&A transactions, including the acquisitions of several billion dollar companies at Watson Pharmaceuticals.
+
+\-**Jeff B. Smith, MBA**
+
+\~Over 30 years of general management experience.
+
+\~Previously the Global Chief Transformation Officer at Johnson & Johnson
+
+So, with a strong team behind them, positive clinical trials in Canada, future prospects of entering the U.S. market and a stock price of just 25 cents CAD a share (as of February 8, 2021) , now is definitely a smart time to buy into this company.
+
+***Sources & More Information:***
+
+CTV News Vancouver Article:
+
+[https://bc.ctvnews.ca/magic-mushrooms-for-eating-disorders-drug-company-running-trials-at-b-c-university-1.5292442](https://bc.ctvnews.ca/magic-mushrooms-for-eating-disorders-drug-company-running-trials-at-b-c-university-1.5292442)
+
+NeonMind Website:
+
+[https://neonmindbiosciences.com/](https://neonmindbiosciences.com/)
+
+$NEON on Yahoo Finance:
+
+[https://ca.finance.yahoo.com/quote/NEON.CN/](https://ca.finance.yahoo.com/quote/NEON.CN/)_END_OF_POST_PYSTOCK_

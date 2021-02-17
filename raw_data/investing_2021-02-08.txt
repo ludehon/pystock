@@ -1,0 +1,1291 @@
+ The Bull Case for ABNB (DD) *Preface*: My first time posting DD - hope it's interesting. Very open to constructive feedback. It is very long :)
+
+&#x200B;
+
+## Summary
+
+ABNB is on the pricey side for what it is today - a booking company that will likely recover well from the pandemic - but it is underpriced for what the company should be - a major disruptor to all sectors related to travel and hospitality. With good growth rates today (>30%) and a massive pool of potential total addressable market (TAM) to enter (flights, actual hotels, cars, long-term rentals, ancillary hospitality services) they should be able to build on this for years to come. 
+
+I have a very long-term mindset here - invest for what they’re going to be in ten years, not two. I will probably wait until mid-June to buy in as insiders should start being able to trade around then and many of them will want to get some cash in exchange for their hard work in the years prior to IPO.
+
+## My Vision
+
+You want to take a vacation from the US to Paris for a week with your SO. You request the time off at work, and hop on your go-to service for going somewhere that you don’t live - ABNB. You book your flight on “Air BNB Airlines” - you get free checked bags, early seat choices, and a discount on the ticket price because you’re part of the ABNB membership program. You arrive at the airport in Paris and turn your phone back on - ABNB recognizes you’ve landed and schedules your rideshare to the cool apartment you’ve booked for the week. You collect your luggage and head to the car, once inside you decide that you’re feeling a little tired from the trip - you open the ABNB app and pre-order a bottle of red wine and a nice dinner - which is waiting for you when you’re dropped off. You eat dinner, open the app once more to book a bike tour of the city for the next day, and get a great night sleep after a hassle free day of travel.
+
+## Markets & Strategies
+
+Key markets I think ABNB can and should expand into in addition to continuing to expand their core businesses with bookings and experiences.
+
+**Flights & Rail**
+
+ABNB needs to get into flights, and likely into rail in certain markets (EU). The clearest way to enter is with their current “as a booking service” model. A bigger, bolder play would be to acquire or merge with a global airline. Airlines are struggling, but bundling it with a strong company with more diversified revenue streams is a much better play than trying to make the margins work on flights alone. Further, if the travel offering can be a part of an attractive, recurring revenue offering from ABNB it should not only allow the company to monetize well but to also return shareholder value at a higher rate (recurring revenues tend to have higher multiples).
+
+**Rideshare**
+
+A meaningful chunk of ridesharing is done to/from airports, and while in a city that you don’t live in. Pain points include not knowing which service will have the best rate (typically a longer ride to/from an airport than in-city), and not understanding local regulations and services. ABNB can approach this from a number of directions, the easiest is to act as the ‘booking agent’ for ride services, soliciting bids and then redirecting the user into the appropriate app (ideally with some of the flow completed). Don’t think ride sharing services would do something like this? Google Maps on mobile already does for Uber and Lyft - this service can be extended to a deeper integration that covers those services as well as local services around the world.
+
+**Same-hour delivery**
+
+I see two main cases for fast-delivery services: food and essentials. Food is fairly obvious here - can we get food to where we’re staying at the same time we arrive from the airport? Can we get breakfast or lunch delivered the next day? Essentials seems like a no-brainer as well - forgot to pack toothpaste? No problem. Hungover in the morning from drinking too much wine? Get ibuprofen quickly. Similar to rideshare the easiest entrypoint here is as an intermediary service. Though you could see a world where services like rideshare and same-hour delivery are fast-growing segments for ABNB and they start taking them in-house.
+
+**Membership Model**
+
+The core of my plan if I were the ABNB CEO (hint: I’m not) would be to build out businesses around a recurring subscription model. There are two sides to this: individual, and enterprise. 
+
+Individual memberships should offer discounts on services, addons/perks, and a reward program. The discount part is pretty self-explanatory. Flat discounts on products, probably additional bundled discounts for multiple services. Perks can be things like an extra checked bag when you fly through ABNB. The reward program is easy - you can already establish a hotel-style reward program and layer in other benefits as you expand into other industries.
+
+Enterprise is a big space - a lot of companies will still be paying for employees to travel in the future. Locking in big corporations with a membership that gives them prime pricing on flights, hospitality, etc. will yield big, consistent revenues - and make Travel & Expenses (T&E) easier for companies. Imagine being able to manage your entire T&E budget outside “client dinners” via ABNB because they cover flights, hospitality, food, and transportation - huge.
+
+## Numbers
+
+I’m not going to obsess over every single detail or get into super fine-grained detailed estimations. I’m going to do some back-of-the-envelope calculations to get an estimate of how much headroom there is for ABNB. ABNB’s TTM revenue is 3.63B, with a market cap of 115.87B which is about 32B of value for every 1B of revenue. 
+
+**Flights & Rail**
+
+In 2019 the US airline industry accounted for 838 billion in revenue ([source](https://www.statista.com/statistics/278372/revenue-of-commercial-airlines-worldwide/)). It’s expected to be 459B in 2021 as the country recovers from Coronavirus. I’m going to be what I think is conservative and say it returns to 2019 levels in the next 5-10 years but does not grow past it. So let’s say the total addressable market (TAM) here is 459B (US) + 25% for being able to internationalize \~ 575B - I think this is a pretty conservative estimate.
+
+**Rideshare**
+
+Estimated to be 218B by 2025 in the US (source). Let’s use the same 25% addition from above for internationalizing \~275B.
+
+**Fast Delivery**
+
+I think the comp here is food delivery. This is expected to be about 470B by 2025 in the US (source). We’ll add 25% for internationalization and 10% for other deliveries \~635B
+
+**Membership Model**
+
+I don’t think this adds TAM. I think this adds stability and an improved multiple on revenue. 
+
+**Total**
+
+My plan outlined above, assuming estimated growth with conservative multiples leads to 1.485T in additional TAM for ABNB to address. If they can address 10% of that TAM they would have 148.5B in additional annual revenues. 
+
+## Upside
+
+We’ve got a lot of estimates at this point (unfortunately none of us can actually predict the future) but I feel they’re on the conservative side. Let’s lay out a few potential cases…
+
+**Conservative**: ABNB addresses 5% of the market above at ⅛  the revenue multiple they currently have on their stock. This would add 7.425B in annual revenue, ¼ of the current revenue multiple is 4 so we would add 29.7B in value for a total of 145.57B (\~25% growth).
+
+**Base Case**: ABNB addresses 10% of the market above at ¼  the revenue multiple they currently have on their stock. This would add 14.85B in annual revenue, ¼ of the current revenue multiple is 8 so we would add 118.8B in value for a total of 234.67B (\~102.5% growth).
+
+**Bull Case**: ABNB addresses 15% of the market above at ½ the revenue multiple they currently have on their stock. This would add 22.275B in annual revenue, ½  of the current revenue multiple is 16 so we would add 356.5B in value for a total of 481.37B (\~301% growth).
+
+## Closing
+
+ABNB is very overpriced for what it is today, but if you assume the multiple will average down and believe some of the bull case presented will happen - the upside is tremendous. If they are able to internationalize better than my baked in estimate, the upside is even higher. 
+
+It’s not a risk-free investment however, we don’t know what if any of this ABNB will do, we don’t know when, and we don’t know how successful they will be. 
+
+*My current opinion*: wait until it’s been on the market because some folks who have been underpaid for years (they couldn’t sell any of their options) compared to peers will want to cash in a bit. We should see a dip from this insider selling (Mid-June if it’s a standard 6 month window) which should make for an attractive entrypoint for a many-year position._END_OF_POST_PYSTOCK_ SND - Highly Undervalued & Profitable Came across this stock during my research:
+
+SND - Smart Sand Inc. They sell sand... LOL. Not only for fracking, but for other industrial uses and to other countries around the world.
+
+Revenue and Income has been increasing almost exponentially for 5 years according to the financials. They made a Net Income (Profit) of $36M in 2020 (during the pandemic), the highest in 5 years. Their Market Cap is $90M, so this income level is pretty ridiculous.
+
+Current Price: $2.35
+
+**Book Value Price: $8.00 (estimated)**
+
+**Outstanding Shares: 39 Million**
+
+**Float: 22 Million**
+
+According to my research, the book value based on accounting of assets/liabilities, etc, this stock is valued at nearly $8.00. So at a current price of $2.35, you are literally buying $1.00 of company for $0.29. This is *exceedingly* undervalued for a highly profitable company.
+
+This $8.00 price target is simply the intrinsic value (a bare minimum price target), we are not even factoring in the low float and a realistic stock price, which is typically much more than book value for profitable companies. 3x bagger just to the book value. Realistically 10x-20x bagger if people knew about this stock and the price went to normal.
+
+The other good thing going for it is the are gradually buying back their shares, so the outstanding share count has been slowly decreasing these past few years. I don't see that happen too often. Stock is up 15% today. Who wants to make a ton of money quickly? Tell people about this stock and try to buy in before anyone else knows about it.
+
+DISCLAIMER: I bought nearly 50,000 shares today, got in cheap before letting everyone else know about it. Using the same research methods, I came across another stock called ENKS before anyone knew about it, but it looked "too good to be true", had the same good financials. It was $0.05/share at the time, was going to go all-in, I hesitated too long and now it's $2.00... I'm not making the same mistake this time around with SND. I am a "Value Investor", so I only invest in the safest, profitable, undervalued stocks.
+
+SO THERE YOU HAVE IT!_END_OF_POST_PYSTOCK_ Coursera, Palantir, Other pre-IPO tech Play - SSSS I wanted to share my current best trade at hand with you.
+
+SuRo (SSSS), formerly GSV Capital, is an internally managed BDC that invests in pre-IPO tech companies. The company had some ups and downs throughout the years, partially due to some questionable positions due to prior eccentric management, but it has completely restructured itself over the last 18 months.
+
+The latest [press-release](https://investors.surocap.com/news-releases/news-release-details/suro-capital-corp-announces-adjustment-conversion-rate-3) puts NAV at $15.00 which is basically where it's trading today. Its portfolio is concentrated, with their top 3 positions making up \~60% of their investments and their top 5 positions making up \~71%.
+
+Now, here is the juicy part - current holdings:
+
+**Palantir**. The press release is from early Jan, and the Palantir stock really took off since then. That directly translates into increase to NAV. I think the only reason they didn't sell all of it following the direct listing are the trading lock-ups. SSSS carried it on their books at \~$8.70/share at the end of Q3. This worked out nicely for the company.
+
+**Coursera**. They have been long-term investments in Coursera and carry it on the books on a blended valuation that's around $2.4B per last financing round. Coursera is now trading at private markets at double of that. The company is [rumored](https://www.bloomberg.com/news/articles/2020-12-04/online-education-firm-coursera-is-said-to-weigh-2021-ipo?sref=PkLAOmit) to go public in the next few months - with the current IPO crazy I wouldn't be surprise if the valuation comes in at north of $5.5B followed by a 30%+ IPO pop.
+
+**Course Hero**. Course Hero is another edtech company that had a solid business from day one. Per [Tech Crunch](https://techcrunch.com/2020/08/26/course-hero-a-profitable-edtech-unicorn-raises-rare-cash/?source=content_type%3Areact%7Cfirst_level_url%3Aarticle%7Csection%3Amain_content%7Cbutton%3Abody_link), Course Hero is booming and just raised a big up round. It seems likely that Course Hero will eventually go public, though that may be more of a 2022 event than a 2021 event.
+
+**NextDoor** is less of a play, but there are rumors that it might be taken public via SPAC.
+
+**OZY** is rumored to be doing quite well as well.
+
+Remember, all of these companies are carried at very conservative estimates on the books due to regulatory requirements on how to value private companies.
+
+Lastly, super important point - lots of trades by the CEO of SSSS, who [bought \~$1.25m of stock](https://static.seekingalpha.com/uploads/2020/12/30/957061-16093404324794347.png) on the open market. Clearly, he knows whats building up and aligns his interests accordingly.
+
+Whether we are going to see a major jump following the recent price increase is yet to see, but it's clear that At today’s prices, you’re buying SuRo for a significant discount to its adjusted NAV.
+
+Go get those calls now!_END_OF_POST_PYSTOCK_ Electronic Arts to buy Glu Mobile * Electronic Arts (NASDAQ:[EA](https://seekingalpha.com/symbol/EA?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link)) is set to [buy Glu Mobile](https://seekingalpha.com/pr/18183670-electronic-arts-to-acquire-glu-mobile-creating-new-global-leader-in-largest-and-fastest?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link) (NASDAQ:[GLUU](https://seekingalpha.com/symbol/GLUU?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link)), offering a big expansion to EA's player network of half a billion-plus.
+* Glu trading is halted for the news. [EA](https://seekingalpha.com/symbol/EA?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link) is up 2.3% postmarket.
+* The  deal values Glu at $2.1B in enterprise value; Glu stockholders will get  $12.50 in cash for each share - a 36% premium to Friday's closing.
+* The  combination means a mobile portfolio with more than 15 top live  services with a combined $1.32B in bookings over the past 12 months.
+* On  closing, the deal is immediately accretive to net bookings, EA says,  and is "expected to grow underlying profitability beginning in its first  year."
+* **Updated 4:26 p.m.**: Glu will resume trading at 4:35 p.m.; Glu rival Zynga (NASDAQ:[ZNGA](https://seekingalpha.com/symbol/ZNGA?source=content_type%3Areact%7Cfirst_level_url%3Anews%7Csection%3Amain_content%7Cbutton%3Abody_link)) is up 6.4% after hours.
+* Source: [https://seekingalpha.com/news/3659680-electronic-arts-to-buy-glu-mobile](https://seekingalpha.com/news/3659680-electronic-arts-to-buy-glu-mobile)
+
+============================================================
+
+**My commentary:**
+
+Glu is mobile games developer best known for, as they put it, games enjoyed by female gamers. Their main franchises include Diner Dash Adventures, Kim Kardashian Hollywood and Design Home. Although they also develop sport games that would compliment EA's portfolio well. Their sport games include Tap Sports Baseball, Deer Hunter and others. They also develop licensed games like WWE Universe and Disney Sorcerer’s Arena.
+
+We all know EA so I wont bother. However, important to know that recently EA is having some hard time. They lost Star Wars franchise exclusivity, their loot boxes are facing regulatory pressure in Europe and their first party IPs are recently failing. EAs biggest revenue driver is EA Sports live services revenue which in plain English are FIFA loot boxes. Also, with failing first party IPs EA is at a mercy of their sports games licensors. Not great position to be in. EA has also recently announced quarterly dividend which was understood by some analysts as indication of slowing growth. EA's other recent acquisition was Codemasters who are UK racing games developers. Codemasters games include Dirt, Grid and Colin McRae Rally. However, it seems like EA does not care much for Codemaster's original IPs. Instead they rather wanted to acquire Codemaster's F1 licensing deal. As they have admitted during the last investors call, they see great potential for monetizing F1 franchise in similar ways to FIFA games.
+
+Overall, markets seem to like EA's acquisition of Glu as shares are up post market. I'm more bearish on EA even with gaming sector growing at record speed. I think there are better game developers to invest in. Although, I will admit that current EA's valuation is quite tempting and dividend makes it even more so. Also, whether you like it or not if they manage to monetize F1 franchise and release more casual mobile games these acquisitions could be major revenue growth drivers.
+
+Edit: It seems like many investors are not happy with $12.50 per share offer which they believe significantly undervalues the company. On the other hand this sounds like done deal so not much to be done.
+
+====================================================
+
+Edit: EAs strategic rationale for the acquisition includes: 
+
+Creating a Leading Mobile Portfolio Across Key Genres. The complementary nature of Electronic Arts and Glu’s successful products will create a portfolio that spans many of the biggest and most popular genres of mobile games, including sports, RPG, lifestyle, casual, and mid-core games. The combined organization will have a demographically diverse audience, with significant opportunities for franchise and market expansion. 
+
+Expanding Successful, Scalable Live Services. Both Electronic Arts and Glu have proven success creating mobile live service games that deeply engage large communities over many years and deliver strong recurring revenue. The combined expertise of the two organizations unlocks potential for further success. Glu’s franchises like Design Home, Covet Fashion, and MLB Tap Sports Baseball will benefit from Electronic Arts’ global licensing and distribution capabilities to bring them to new markets and more players. Glu’s expertise in building and monetizing sports and casual mobile games, combined with Electronic Arts’ industry-leading IP in sports and beyond, will accelerate the creation of exciting new experiences for broad audiences. 
+
+Experienced Creative Leadership & Enhanced Team Capabilities. Glu brings a talented team including more than 500 mobile game developers (and nearly 800 total employees), adding significant scale to Electronic Arts’ mobile-focused organization. Glu’s creative leaders are established and well-known to Electronic Arts, with similar focus on creating highly successful mobile games with longevity. The combination of proven mobile leadership, deeply talented teams, genre expertise, long-running franchises and IP, and technology across the two organizations will be a catalyst to delivering new experiences and further growth. 
+
+Accelerating Growth. The combination of Electronic Arts and Glu will be a mobile growth engine. With strong, recurring revenue across a leading portfolio of live services, strength in key mobile genres, a deep roster of owned and licensed IP, access to a large-scale and growing player network, and ability to reach into new regions and markets, the acquisition will be immediately accretive to EA’s total net bookings and is expected to grow underlying profitability beginning in its first year._END_OF_POST_PYSTOCK_ Potential stocks for long term/dividend play Hi guys. I have been looking to add some “boring” stocks to my portfolio for long term hold and dividends. What are your thoughts on 
+
+ARCC
+
+KO
+
+I currently have some apple stock and it has been so stagnant... not sure what’s going on with it recently. 
+
+I also have Bristol Myers Squib and that’s been one big bleed. Insane because it is way cheap, got some patents recently and overall a decent company in a booming sector. 
+
+I am trying to see if ARCC and KO can be possible replacements or additions to my long term holdings._END_OF_POST_PYSTOCK_ Creating Multigenerational Wealth The "Easy Way". Creating multigenerational wealth is likely a goal for a lot of investors, and if not then most still have the desire to leave something to their kids or family. Under those assumptions, why don't people set their families up to create or build extreme wealth overtime? For example, following the assumption that most reasonable investments will double every 8 years; why doesn't a family or individual simply set $100k aside in some form of low risk investment and let it build until it's so large that the family would have little or no fear of ever running out (under reasonable spending habits). Only then releasing it via a family trust or other suitable agreement to be used only under strict circumstances or for specific purposes, such as for education? In 80 years that $100k would have likely doubled 10 times and would be worth over $500 million, that seems like enough to ensure the education (or other similarly important things) for future generations of family. 
+
+Why don't people do this? Is it because a family might grow at a faster rate than the investment and thus become so diluted it doesn't matter? Is it impossible to create a will, trust, or similar thing that would create that scenario? Or, is it simply just that people don't care to and aren't often concerned with the idea of creating something that won't effect them and even 3-4 generations after them?
+
+EDIT:  For those of you getting fixated on how $100k is still a lot of money, instead apply the same logic above to just starting with $1000 initially. Starting with just a $1000 initial investment would only delay the process by about 56 years. I would argue that in the grand scheme of generating that much wealth, another 56 years is insignificant._END_OF_POST_PYSTOCK_ Quantum computing is it worth me researching further or do some of you more knowledge people have reason to discredit it . Thanks ! Delete if not allowed. 10 years back I used to be big into quantum physics and watched/read a little about quantum computing the and the speed it can process data. Sorry to sound lazy I’m very busy with uni and know there is ppl far more intelligent than myself on this sub 
+. I found a ETF for quantum computing but what do you guys think ? I’m willing to much more research but guess I just wanna know if it’s worth while or it it’s a dead cause to invest in for a 10/20 year investment or longer.
+Thanks , Delete it not allowed just a young investor who’s main strategy rn in momentum trading on hype stocks._END_OF_POST_PYSTOCK_ Landos Biopharma - LABP - New IPO Company IPO'd just last week, with an investment company RTW investments making a 10% purchase at $16.00 
+
+Source: ([http://openinsider.com/insider/Rtw-Investments--LP/1493215](http://openinsider.com/insider/Rtw-Investments--LP/1493215))
+
+5 Preclinical candidates for range of different treatments that includes rheumatoid arthritis to alzheimers disease with INDs to be filed in the second half of 2021 (Q2 hopefully) 
+
+[https://landosbiopharma.com/product-candidates/preclinical-candidates/](https://landosbiopharma.com/product-candidates/preclinical-candidates/)
+
+3 Drugs currently in drug trials with their BT-11 and NX-13 small molecule candidate currently scheduled for phase 3 trials 
+
+[https://landosbiopharma.com/product-candidates/our-pipeline/](https://landosbiopharma.com/product-candidates/our-pipeline/)
+
+BT-11 is the most exciting candidate as it's been worked on for quite some time. They successfully found the candidate using AI-based drug screening trying to find candidates that target the LANCL2 protein as it shows binding to this leads to anti-inflammatory responses in mice.  
+
+[https://docdro.id/JCxECyy](https://docdro.id/JCxECyy) \- Paper outlining the drug discovery 
+
+[https://docdro.id/9bZCT2A](https://docdro.id/9bZCT2A) \- Paper outlining the phase 1 trial 
+
+&#x200B;
+
+The volume is so low right now that if this catches wind it will surly drive the price up. I feel like with the inital offering at $16.00 there is lots of money to be made here with some news incoming soon. I picked up the ticker by monitoring the open insider then doing to DD to see what was going on. I have a position as of today. Anyways thought I'd share_END_OF_POST_PYSTOCK_ Actual profits in stock markets Greetings! While researching some stuff about domestic financial products and looking for historical data on stock markets and inflation, I found this very interesting read that claims to dispel a few common beliefs about the stock market. I want to share it with you and I'd love to see the opinions of people more knowledgeable about investing and economics than me.
+
+Unfortunately, the text is only available in German, so with the help of [DeepL](https://www.deepl.com/translator) I translated it. You can find the original text and the table about the relationship between profits and volatility that is referenced here: https://fairvalue-magazin.de/aktien/
+
+Translation (formatting/emphasis was kept the same as in the original):
+
+---------------------------------------------------------
+
+
+# Six facts about stocks that will puzzle you
+
+**Hardly any general insights can be derived from most studies on stocks. They usually focus on only one country or are based on time series that are too short. Historical price data from 23 country stock exchanges going back to 1900 paints a more realistic picture of the stock markets and dispels supposed certainties.**
+
+Researchers Elroy Dimson, Paul Marsh and Mike Staunton are a financial market institution. The researchers constructed time series for major asset classes based on historical sources dating back to 1900. The data show, for example, what returns equities have yielded over 118 years in 23 different countries. In turn, the financial market researchers used the country data to develop a world equity index that represents more than 90 percent of globally tradable stocks, as measured by market capitalization.
+
+The data offers investors a more realistic view of the characteristics of stocks and dispels several myths. This is because market studies are usually either based on performance over only a very short period of time, or they focus solely on the U.S., the largest and best-documented stock market in the world today.
+
+But this approach distorts reality. After all, short periods of a few years or decades are hardly meaningful, and stock market development in the U.S. is a unique success story whose results cannot be transferred to other countries.
+
+Thus, long-term market data from 23 countries paints a different picture of international stock markets that will turn many investors' perceptions upside down.
+
+## 1. High real interest rates are followed by higher stock returns
+
+"Rising interest rates are poison for stock markets," is a truism among investors and journalists. It is based on the observation that stock prices often fall when interest rates rise unexpectedly. But that is a very incomplete view of what happens in the stock market over the longer term. Historical stock price trends in 21 countries point in the opposite direction: real stock returns, which are **returns** net of inflation, were low when real interest rates were low and they were high when real interest rates were high.
+
+If real interest rates were 9.4 percent or more in any one year over the past 118 years, real stock returns added up to an average of just under 11 percent per year over the following five years. When real interest rates were minus 11 percent or less, investors made losses of 5.5 percent a year on stocks over the following five years.
+
+During periods of very high negative real interest rates, inflation was also high in the last century. Today, nominal interest rates are at historic lows, but real interest rates are not, because consumer prices are also rising at a low rate.
+
+The fact that the longer-term relationship between real interest rates and stock returns has been positive is no surprise to financial market researchers. After all, this is exactly the result that theory suggests. According to this theory, the short-term real interest rate for bonds with maturities of less than one year is the so-called risk-free interest rate. For risky investments such as stocks, investors demand a premium, the risk premium. The real return on equities therefore consists of the risk-free interest rate and the risk premium. If the real interest rate falls, the return on equities must also fall if the risk premium remains the same.
+
+Conclusion for investors: there is no need to get anxious if real interest rates rise. In the short term, stock prices may fall. But over the longer term, investors can expect higher real returns from equities.
+
+## 2. Stocks are riskier than most investors believe
+
+The financial industry and many media outlets that have been taken in by it, or are themselves part of it, like to promote equities. In times of record low interest rates, this high-yield asset class is indispensable for asset accumulation. After all, share certificates in companies are not that risky in the long run, they often say.
+
+As an example, the propagandists cite, among other things, the yield development of the German stock index DAX. Anyone who invested in the index at any time between 1949 and 2017 and held the investment for at least 15 years always achieved a positive return.
+
+These data are impressive and illustrate that stocks are a long-term investment. But they gloss over risk and exaggerate returns because they tell only half the story:
+
+1. The time period chosen excludes the much worse decades before 1949.
+2. The returns are nominal, i.e., not adjusted for inflation.
+
+For investors, nominal returns are just smoke and mirrors. They say nothing about the actual growth or loss of assets. Only real returns, which are adjusted for inflation, provide information on this. They show how an investor's purchasing power has developed. If, for example, the nominal return is positive but the inflation rate is higher within a given period, the real return is negative. This means that an investor's real assets and purchasing power are declining.
+
+Since 1900, consumer prices in countries with developed stock markets have tended to rise, interrupted by only a few episodes in which inflation declined. Nominal returns are therefore higher than real returns, from which inflation has been removed.
+
+As only nominal returns are quoted by the financial industry and in the media, the impression conveyed by these figures is distorted. Investors are led to believe that their assets have grown more than they actually did. Losses are also lower on a nominal basis than in real terms as long as inflation is rising.
+
+Looking at the full story of German equities unearthed by researchers Elroy Dimson, Paul Marsh and Mike Staunton, the world no longer looks quite so rosy. Their data set spans from 1900 to 2017, so it also includes the two world wars, the period of hyperinflation and the crash on Wall Street in the early 1930s.
+
+During World War 2 and in the years that followed, German stocks lost a total of 96 percent of their value in real terms. From 1900 to 1954, investors made no profit on German stocks. The accumulated real return after 54 years was minus 3 percent. A buy-and-hold strategy during this period would therefore only have preserved purchasing power, but would not have led to any real increase in wealth.
+
+The stock markets of other countries such as France and Japan also had to endure similarly long lean periods. The longest period without real asset growth on the world stock market was less than half as long. It was only 22 years (1910-1931). This underscores how incredibly important it is to diversify a portfolio internationally and not to get too involved in a single country stock market.
+
+Measured against the world stock market, the two world wars were by no means the worst periods that shareholders had to endure. The losses after the stock market crash in the 1930s, the oil price shock in the early 1970s, the bursting of the Internet bubble at the turn of the millennium and after the financial crisis of 2008 were considerably higher.
+
+From 1900 to 2017, investors in German equities achieved an average annual nominal return of 8.4 percent. In real terms, however, i.e. after deducting inflation, the return on equities was only 3.4 percent.
+
+It is true: German equities, as well as those of other countries with developed stock markets, have risen over the long term. However, the lean periods that investors had to endure were considerably longer than time series show, which only cover the sunny side of the 20th century and are not adjusted for inflation. For from 1950 to the end of 1999, the real return on the world stock market was an impressive 8.6 percent per year, while investors from 1900 to 1949 achieved only 2.7 percent after deducting inflation.
+
+## 3. Economies with high economic growth do not deliver above-average returns on shares
+
+Many banks suggest to their customers that where the economy is booming, there are particularly high profits to be made on stocks. As proof, they like to cite the rapid economic growth in emerging economies such as India and Brazil and the fabulous returns that have been achieved there since the turn of the millennium compared with the slower-growing industrialized countries. Especially in the years before the outbreak of the global financial crisis in 2008, banks were beating the drum for investments in the so-called emerging markets, when stock returns there were literally skyrocketing.
+
+But returns over short periods of time raise false hopes. If you want to know something about the true character of the stock markets in the emerging markets, you have to take a closer look at the long-term development. And it looks less glorious than many investors probably expected.
+
+While stocks in developed countries such as the U.S., the U.K. and Germany returned an average annual gain of 8.4 percent from 1900 to 2017, inclusive, the figure for fast-growing emerging markets was just 7.4 percent.
+
+One percentage point may not seem like much, but over 118 years, this difference leads to a huge difference in total wealth: In the industrialized countries, one invested U.S. dollar increased to $12,877, while in the emerging markets, according to calculations by financial market researchers Elroy Dimson, Paul Marsh and Mike Staunton, the figure was just $4,367.
+
+At the beginning of the 20th century, the stock markets of the developed countries were sometimes ahead, sometimes those of the emerging countries. At times, they rose in parallel. But after World War 2, the emerging markets crashed. In Japan, which was not yet an industrialized country at the time, the stock market lost 98 percent of its value, measured in U.S. dollars. In China, investors suffered a total loss after the communists came to power and the stock markets were closed in 1949. In other emerging markets such as Spain and South Africa, stocks performed poorly because of the aftermath of World War 2.
+
+It was not until 1950 that emerging markets picked up again. By the end of 2017, they averaged 12.1 percent returns per year compared with 10.8 percent in the developed world. But the annual lead of 1.3 percentage points on average over the past 68 years was not enough to fully make up the shortfall from the 1940s. Over the entire 118-year study period, the established, slower-growing industrialized countries delivered the higher stock returns.
+
+For their study, Dimson, Marsh and Staunton ranked the individual countries according to a simple rule that has become widely accepted among providers of stock indices. According to this rule, countries with a per capita economic output of at least $25,000 a year are considered developed countries. Countries that generate lower GDP per capita are considered emerging markets.
+
+The data show that, contrary to what the financial industry often claims, there is no positive correlation between economic growth and stock returns. Other studies tended to find higher stock returns in countries with weak growth, i.e. a negative correlation.
+
+There is no clear evidence as to why this is the case. Researchers discuss various possible explanantions:
+
+1. **High valuations**. When investors prefer to invest in countries with high economic growth, share prices there rise, and with them valuations. The result of high market valuations is often below-average returns.
+2. **Global instead of local**. Many listed companies operate globally. Economic growth in their home country is not decisive for them. In other words, even in real economic terms, there is not necessarily a correlation between GDP growth and corporate performance.
+3. **Dilution effects**. High economic growth must also be financed. Many listed companies finance their expansion by issuing new shares. While profits may rise, they are spread over more and more shares. This results in a dilution effect that leads to lower returns.
+
+Investors should therefore not be impressed by high growth data and forecasts. They are not an indication of above-average stock returns in the future. These tend to be offered by slow-growing countries with undervalued stock markets.
+
+## 4. Shares are no hedge against inflation
+
+There is a persistent belief among many media professionals that stocks are a good hedge against inflation. The argumentation they use to support this (unfortunately untenable) thesis goes something like this: If inflation rises, companies can raise their prices to adjust to the new level. This increases their profits, which in turn leads to rising stock returns.
+
+This argument does not hold water for several reasons. Perhaps the most important is that the numbers show the exact opposite. Stocks are not a hedge against inflation.
+
+What professional investors expect from a hedge is immediate and, if possible, equivalent compensation as soon as the event of loss occurs. This means that if, for example, inflation rises from 2 and 4 percent, the nominal return on equities should also rise by at least 2 percentage points at the same time. That would be a 100 percent hedge. The real return, i.e. the return after deducting inflation, would remain unaffected by inflationary spikes.
+
+But this example is no more than wishful thinking. For as inflation rises, the real returns on equities fall - and vice versa. International equities as an asset class therefore offer a hedge against deflation, but not against inflation. The financial market researchers Elroy Dimson, Paul Marsh and Mike Staunton prove this on the basis of 21 countries whose data series go back to 1900.
+
+According to these data, investors in international equities achieved the highest real returns (11 to 12 percent) in the past when the inflation rate remained below 2 percent. In the past, a 10 percent increase in inflation led to a decline in real stock returns of about 5 percent.
+
+If the extreme cases of hyperinflation (Germany, 1922-23, Finland 1918, Italy 1944, Japan 1946) are included in the calculation, equities perform somewhat better. Real returns fell by 3.5 percent when inflation rose by 10 percent.
+
+Other studies support these findings. They also show that the relationship between real stock returns and inflation is negative. However, economists are still unable to provide a clear explanation as to why this is the case. What is clear, in any case, is that in the short term, stock prices do not necessarily follow corporate profits, which may determine returns in the long run. In the short term, it is rather factors such as monetary policy and investors' risk appetite that are decisive.
+
+Because the latter usually falls when inflation rates rise, investors demand higher risk premiums for stocks, which depresses their prices, according to one theory. This theory is supported by the negative correlation between stock valuations measured by price-earnings ratios (P/E ratios) and inflation. American stocks, for example, were highly valued between 1970 and 2010 when inflation was low and vice versa.
+
+Even though real stock returns decline as inflation rises - the bottom line has historically been positive as long as inflation has not exceeded 19 percent. So, on average, nominal stock returns have been higher than inflation. But this does not equate to an effective hedge against rising consumer prices (see above).
+
+## 5. Less risk, more return
+
+The more returns investors want to achieve, the higher the risks they have to take, is a widely accepted financial market theory. An empirical comparison of individual asset classes confirms this correlation. Since 1900, stocks have been the asset class with the highest return. At the same time, however, the risk measured in terms of volatility was also the highest. Government bonds of more than one year generated lower gains, but fluctuated less. Government bonds with maturities of less than one year, so-called money market paper, were the safest, but also the least lucrative.
+
+However, if we look at individual countries within the equity asset class, the relationship between risk and return is no longer so clear. Rather, the data point in the opposite direction. In countries whose stock markets fluctuated comparatively less, investors tended to generate higher returns (see charts). A good third of the returns can be explained by volatility, as the regression analysis shows.
+
+**Equity markets with low volatility tended to generate higher returns**
+
+[Table on the linked website]
+
+## 6. Dividends are the main source of return on shares in the long term.
+
+Speculators hoping to make quick profits on the stock markets pay particular attention to the price performance of shares. In the short term, share prices can fluctuate enormously. Within a year, for example, a 40 percent gain or loss is possible.
+
+But these capital gains and losses, which determine real stock returns in the short term, play only a minor role for serious investors who want to build up and increase their assets over the long term. The longer the investment period, the more important reinvested dividends become. According to calculations by financial market researchers Elroy Dimson, Paul Marsh and Mike Staunton, dividend yields have contributed around 80 percent to total returns on the world stock market since 1900. In the U.S., it was about two-thirds, and in Germany it was as much as 100 percent, because the annual capital gain was negative at minus 0.23 percent.
+
+---------------------------------------------------------
+
+Specifically, this part confuses me:
+
+>Because the latter usually falls when inflation rates rise, investors demand higher risk premiums for stocks, which depresses their prices
+
+Isn't the price (minus the risk-free interest) exactly the risk premium in case of stocks? I don't see how the risk premium can increase while the price decreases.
+
+Also, while the text was updated in 2020 and the referenced study is from 2018, it feels like it disregards modern developments like tech companies. On the other hand, "this time it's different" might also apply here in the sense that current tech innovation might not be permanent growth guarantee just like innovation in the 20th century wasn't._END_OF_POST_PYSTOCK_ LMND - Legit or a Future Failure I’ve seen mixed comments about Lemonade, some say that their current business model can’t succeed, and that the CEO is just running a pump and dump. Others say they are hated just because they are a young company, and will compare it to how Tesla was hated years ago. I’m asking this because I am a shareholder and conflicted on what to do and want to hear some people’s opinions on the company. Personally I am leaning towards taking my profit and putting it in a safer option.
+
+Any input is appreciated._END_OF_POST_PYSTOCK_ I have been investing in a fidelity mutual fund. Now I've been doing some research and I'm beginning to think I need to invest in etfs I've been investing in a mutual fund for about a year now and I have been unimpressed with the returns I've been getting. I had all my money in a fidelity mutual fund. The returns on that were about 8%. I didnt like those returns so I chose a different one. I got 7% in a few months. I have been doing more research and noticed other etfs that perform 100% better. I was specifically talking about all the ark funds. I have been thinking about taking my money out and reinvesting it into arkk. I'll just leave it there while I keep my monthly investing into that instead of the mutual fund. What are some of your thoughts?_END_OF_POST_PYSTOCK_ $ZOM Speculation Could Be Favorable Three days ago I had started my first foray into stocks and investing (so I apologize for not knowing all the lingo). I started with a little bit of money, knowing I'm quite ignorant of the market and not having a lot available to me in the first place. I dabbled in a few stocks, some admittedly memestocks though at only a couple shares in each to see how that plays out. However, there was one stock that I looked at seriously and decided to buy into, and that was $ZOM.
+
+I now own 50 shares of this stock, and over the past three days have watched it start to go really high and as of this writing is sitting at 26% and climbing growth (44% for today). I was surprised, because I decided to invest in it due to the nature of their business: bringing a much needed diagnostics service to the Veterinary industry to help all the cute puppies and kittens out there. This has spurred me to look more into why this stock is taking off as it is. 
+
+My Google inquiries brought me to this news article: [https://investorplace.com/2021/02/zom-stock-is-less-speculative-than-you-might-think/](https://investorplace.com/2021/02/zom-stock-is-less-speculative-than-you-might-think/)
+
+Some of the points they mention appear to be reasonably sound:
+
+&#x200B;
+
+>The market for these services is large, and expected to grow. In a press release, Zomedica cites “the diagnostics segment of the global companion animal market is expected to reach $2.8 billion by 2024.” To put that in context, that’s a nearly 10% compound annual growth rate. 
+
+This is a relatively new field that is expected to grow. They also point out that since Covid, there has been a rise in pet ownership, all of whom will need veterinary care for their beloved animals.
+
+&#x200B;
+
+> ...once TruForma is ready, Zomedica is taking steps to make sure it can get the product in the hands of veterinarians as soon as possible. The company has [signed a distribution agreement](https://investors.zomedica.com/news-releases/news-release-details/zomedica-signs-truformatm-distribution-agreement-miller) with Miller Veterinary Supply. Miller, supported by the company’s sales reps will cover the U.S. from Maine to Texas. 
+
+Their TruForma diagnostics is a sure thing to be released, and it looks like they already have the product's distribution secured. These various elements and it's continued stock growth, I admit have me a bit excited.
+
+What are your thoughts about this stock? Do you think it really has potential in the long run? Do you have the same or a different analysis? I look forward to hearing from everyone!_END_OF_POST_PYSTOCK_ Objective speculation/ getting past "the missed train" Firstly, I want to thank the community for sharing their knowledge and experiences. As there are a lot of new people coming to investing (like myself), what are your perspectives on "missing the train"? For example, last year was THE time to invest. However, when you look at the jump from $10 to $50 over a year, how to you objectively justify folding that stock into your portfolio? Do you weight if it will still grow beyond ATH or look for other dips?
+
+
+Thank you all again for sharing your knowledge._END_OF_POST_PYSTOCK_ First time ETF portfolio set up I have some cash on the side, and I'm looking to invest it in something more stable than individual stocks. 
+
+After looking at what to invest in, ETF speaks to me, and I understand it somewhat (I hope :D).
+
+I am thinking of splitting my ETF portfolio into five parts.  
+
+The most significant part would be MSCI World 30% combined with MSCI World momentum 20%. I think that momentum would be a good addition for me because I don't plan to own any of the big stock (Amazon, Apple), and with this, I would have a bigger investment into companies that are doing good. 
+
+iShares Core MSCI World UCITS ETF USD (Acc) **30%** [https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983](https://www.justetf.com/de/etf-profile.html?isin=IE00B4L5Y983)
+
+Xtrackers MSCI World Momentum Factor UCITS ETF 1C **20%** [https://www.justetf.com/en/etf-profile.html?isin=IE00BL25JP72](https://www.justetf.com/de/etf-profile.html?isin=IE00BL25JP72)
+
+I would also have Emerging Markets **20%**.
+
+iShares Core MSCI Emerging Markets IMI UCITS ETF (Acc) **20%** [https://www.justetf.com/en/etf-profile.html?isin=IE00BKM4GZ66](https://www.justetf.com/de/etf-profile.html?isin=IE00BKM4GZ66)
+
+Because with World Core/Momentum and EM, I would have a tiny part of EU in my portfolio, I was thinking about adding Europe Small Cap. I was looking between the Xtrackers and Ishares ETF. The Xtrackers is cheaper at 0,30%, but the Fondswährung is USD. I don't know how can this is a bigger risk for EU citizens. The iShares, on the other side, is more expensive, with 0,58%. Is this cost worth it having a Fondswährung in EUR?
+
+iShares MSCI EMU Small Cap UCITS ETF (Acc) **15%** [https://www.justetf.com/en/etf-profile.html?isin=IE00B3VWMM18](https://www.justetf.com/de/etf-profile.html?isin=IE00B3VWMM18)
+
+Xtrackers MSCI Europe Small Cap UCITS ETF 1C **15%** [https://www.justetf.com/en/etf-profile.html?isin=LU0322253906](https://www.justetf.com/de/etf-profile.html?isin=LU0322253906)
+
+&#x200B;
+
+The last one would be Clean Energy because the USA will stimulate this sector. 
+
+iShares Global Clean Energy UCITS ETF **15%** [https://www.justetf.com/en/etf-profile.html?isin=IE00B1XNHC34](https://www.justetf.com/de/etf-profile.html?isin=IE00B1XNHC34)
+
+&#x200B;
+
+If someone sees a basic flaw in my portfolio, please, let me know._END_OF_POST_PYSTOCK_ $RIOT looks appealing but be careful I spotted this randomly the other day on my Etoro app, it had closed up almost 25% on 5th Feb and today (8th Feb) its up over 30%. I was intrigued as to what was causing such a jump so I did some DD.
+
+The company is a Bitcoin mining company that provides investment services to companies participating in the blockchain field. They also have some legacy work with drugs for cows or something so cryptos seems like a weird way for the company to go. 
+
+Seems like a good time to jump in right? What with Tesla buying £1.5bn of bitcoin. I went digging through their financials and found the below:
+
+[https://ir.riotblockchain.com/all-sec-filings/content/0001079973-20-000216/0001079973-20-000216.pdf](https://ir.riotblockchain.com/all-sec-filings/content/0001079973-20-000216/0001079973-20-000216.pdf)
+
+Under risk factors page 10:  "We have a history of operating losses, and we may not be able to achieve or sustain profitability; we have recently shifted our focus to our blockchain and cryptocurrency mining business, and we may not be successful in this business". 
+
+Additionally this one was interesting:
+
+"We, and some of our current of officers and directors, have been named as parties to various lawsuits arising out of, or related to, allegedly false and misleading statements made in prior securities filings, and those lawsuits could adversely af ect us, require significant management time and attention, result in significant legal expenses or damages, and cause our business, financial condition, results of operations and cash flows to suffer." 
+
+I'm not your dad so do what you want with your money but just a word of warning in case you look at this and think it looks like a decent growing company. Make sure you do your DD as I could see this be as volatile as the crypto market itself._END_OF_POST_PYSTOCK_ Discussion: Reversion to the mean for a bifurcated "street" [https://imgur.com/a/DhhDD36](https://imgur.com/a/DhhDD36)
+
+The image in the attached link above show the following:
+
+* X-axis: Households total liabilities to annualized household savings (DPI less PCE); one measure of household balance sheet strength.
+* Y-axis: Commercial banks asset to deposit ratio; one measure of commercial banks potential lending capabilities
+
+This tells me the possibility of seeing housing growth continue for the foreseeable future, as the largest liabilities on household balance sheets are mortgages. 
+
+Additionally, given what you are paying for non-financial corporations relative to their equity and their profit as a percent of their liabilities in an ever-so-slowly, creeping higher, rate environment on the back end of the curve ***and*** current valuations for non-fin corporate business/stocks relative to real estate at market value (specifically, residential), it seems appropriate that the very recent shift in real asset performance, including commodities, continues relative to financial assets, including both equities and fixed income (i.e. USTs).
+
+Open to hear thoughts.
+
+Quick edit: certain equity sectors and industry are likely to perform well, but given total market cap variance between stocks within said sectors/industry and others, rotation could result in an overall stagnant performance for a market cap weighted index. 
+
+Additionally, bank reg and consumer behavior has changed since GFC, so going from the left to the right tail (housing bubble) is not expected; also, then we had  mortgage fraud._END_OF_POST_PYSTOCK_ Qualified Investment Funds For those with significant and unexpected winnings in short-term capital gains and the large taxes incurred, I just found out about Qualified Investment Funds. It is basically a way to invest in an economically depressed zone (within the US) and get a significant tax write-off. For example, keep the investment for ten years, and return on investment is tax-free.
+
+As I understand it, it basically as simple as investing in a fund and then recognizing the gain in 2026. (There is quite a bit of nuance on a 10-15% basis and deferring investment returns after 10 years.) Investments deferred in this manner then count against 2026 taxes, which may be in a lower tax bracket.
+
+Does anyone have experience with this sort of investment? Are they worth dealing with? What sort of investments are any good that qualify for someone with < $250k? From looking around the web, the minimum investment may be high ($250k.)_END_OF_POST_PYSTOCK_ CTRM-Castor Maritime decent potential for growth I bought a few shares of CTRM, 264@ 0.66, 65@ 0.92. I’m new to penny stocks. 
+
+DD: CTRM is a global shipping company. Over the past few years prices have fallen as low as .11 but stock value is steadily rising. Within the first quarter the company has aquired 1 new vessel with another to be delivered. Additionally CTRM was granted a loan of 15M end of January. With the increase in revenue for Q1, additional assets and capital, the stock should have the potential for decent growth. 
+
+(I am not a professional, this is not advice. I just did some reading and thought I’d share it.)
+
+This is my first post, so if I have not done this right, or I’m lacking merit, please explain so I can better understand._END_OF_POST_PYSTOCK_ PSA reminder $CRSR Q420 earnings call is out tomorrow. If it’s anything like their initial reports we’re likely about to see some big action. There’s been plenty of in depth DD on CRSR last week so won’t dive too deep. Quick recap:
+
+- earnings call is out tomorrow pre market  
+
+- based on Corsair published estimates we can expect some excellent numbers that haven’t been priced in yet. 
+
+- New earnings will will contain Q4 holiday sale results. If in line with other retail gaming / computer hardware companies we should expect but things 
+
+- Profitability has been steadily increasing, debt decreasing. Will be something to keep an eye on in the numbers.
+
+- Logi has been making some big moves. Corsair  seems to be currently undervalued in comparison when looking at market caps vs earnings. 
+
+I’m thinking we’re about to see $70-$80 very soon._END_OF_POST_PYSTOCK_ $FIZZ: 1 for 1 stock split in the form of stock dividend. Trying to understand what this means for investors. Announced on Friday, February 5. [https://ca.finance.yahoo.com/news/national-beverage-corp-announces-one-141500332.html](https://ca.finance.yahoo.com/news/national-beverage-corp-announces-one-141500332.html)
+
+" National Beverage Corp. (NASDAQ: FIZZ) today announced its Board of Directors declared a **one-for-one stock split in the form of a stock dividend**. This dividend will be distributed on February 19, 2021 to shareholders of record on February 16, 2021. Trading will begin on a split-adjusted basis on February 22, 2021. "
+
+My understanding is that this is may affect the stock **differently** than a 2 for 1 stock split might (although I see a [Motley Fool article](https://ca.finance.yahoo.com/m/a9eada17-bd44-3d07-a581-fcd035ee7793/national-beverage-plans-a.html) that says its the same) .
+
+For those more knowledgeable, I have some questions:
+
+1. In a 2 for 1 stock split, the price of the stock gets divided in half as well. **But how would a 1 for 1 stock split in the form of a stock dividend affect the stock price?** 
+2. From this [article](https://www.investopedia.com/ask/answers/042215/if-investor-short-dividendpaying-stock-record-date-are-they-entitled-dividend.asp), it says " If an investor is short a stock on the record date, they are not entitled to the dividend.﻿ In fact, the investor is instead responsible for paying the dividend owed to the lender of the shorted stock that they borrowed." **Does this mean if short sellers do not cover before the record date, they will need to return twice the number of stocks they borrowed, even though they only short sold one stock?**
+3. On January 21, they also announced a dividend pay out of $6 per share which was a record high. **From speculating, are these dividend payouts (stock and cash) so close together like this before their earnings date in March bullish or bearish signs? Are they trying to keep shareholders from selling because there is bad news coming?**
+
+Still fairly new at this stuff so learning.  Thanks!_END_OF_POST_PYSTOCK_ Why I'm Bullish on AIM ImmunoTech Inc. ($AIM) AIM ImmunoTech, Inc. operates as a biopharmaceutical company, which  engages in the clinical development of new drug therapies based on  natural immune system enhancing technologies for the treatment of viral  and immune based disorders. Its products include Alferon N Injection and  Ampligen. The Alferon N Injection is a purified, natural source,  glycosylated, multispecies alpha interferon product, composed of eight  forms of high-purified alpha interferon. The Ampligen is used in the  treatment of chronic fatigue syndrome and as a vaccine enhancer for  therapeutic and/or preventative development related to influenza and  cancer treatments.
+
+The reason why I'm bullish on this company NOW is because they have extremely recently released news that makes their immediate future look extremely optimistic. For one, they announced last Friday (Feb. 5th) that they had been able to secure funding for their new nasal-applied COVID therapy.
+
+[https://ca.finance.yahoo.com/news/aim-immunotech-completes-closes-atm-115000689.html](https://ca.finance.yahoo.com/news/aim-immunotech-completes-closes-atm-115000689.html)
+
+With that news alone the requirements are made for both TD Securities and Maxim Group's price target of 5.5 - 6.5$ are met and the immediate future of the company would look bright given the company's robust financial past and ability to have drugs successfully pass the human clinical stage.
+
+However, that's not all. As of this morning the European Union has granted the Orphan Drug Designation for Rintatolimod which is a drug used in treatment for pancreatic cancer.
+
+[https://www.ema.europa.eu/en/documents/committee-report/comp-meeting-report-review-applications-orphan-designation-january-2021\_en.pdf](https://www.ema.europa.eu/en/documents/committee-report/comp-meeting-report-review-applications-orphan-designation-january-2021_en.pdf)
+
+Once the company PR's this news I expect that the price will gain significantly and my own personally Price Target for the company might be as high as 10$.
+
+**DISCLAIMER: I am not a financial professional and this is not financial advice. I just like this stock and see good growth potential in an undervalued company.**
+
+Position: 72821 shares @ 2.63$.
+
+Edit 1: Typos
+
+Edit 2: Added my position._END_OF_POST_PYSTOCK_ After space exploration, Elon Musk goes after the next Big Bang It was scariest enough to me the idea that an unregulated virtual currency, with anonymous owners, and anonymous founder who is potentially the wealthiest person on the planet, existed.
+
+The fact that a listed company invests in it makes this all another level of craziness.
+
+A bitcoin crash can, and will, now affect the real economy besides the greedy people who invested in it.
+
+Gambling at this level should be highly regulated.
+
+
+https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html_END_OF_POST_PYSTOCK_ Altair International (ATAO) may be the next ABML [DD] Who is the most successful lithium battery executive of 2020? Elon Musk? No, it’s Paul Pelosi Jr. That’s right – the son of the Speaker of the House. It is now six months after ABML brought in Paul, and the stock has risen 4800%. In the last Covid relief bill, there were grants for multiple billions of dollars for critical material production, critical material recycling, energy storage recycling, and energy storage tech (download the bill and try ctrl+f “energy storage,” “recycl,” or “critical material”). Those are just the appropriations that I could find in an hour; it is possible, even certain, that there are other funding mechanisms that I missed. Many of these grants will be made available to private industry. It is safe to assume that when Paul Pelosi Jr. is on the board of Altair (ATAO), they will get preferential treatment. Conflict of interest? Maybe, but that is not my concern. Additionally, we are about to get an even larger stimulus bill, and supposedly an infrastructure bill after that. Likely these future bills will also earmark funding to help kickstart ATAO’s recycling process.
+
+But isn’t ATAO just a lithium exploration company? No, Altair recently entered into an agreement with St-Georges Eco-Mining Corp. (SXOOF) “to establish a mutually beneficial partnership for the commercial implementation and output of battery recycling technology.” ATAO and SXOOF will each retain 50% ownership of this venture. 
+
+Why not just buy ABML? I am still holding because it still does have the chance of being the first commercially viable lithium battery recycler. Yes, ABML has roughly 4x the amount of exploratory land as ATAO, but the main draw to ABML has been its recycling process. However, with a market cap of 2B, it seems unlikely to go up another 1000% in the short term. The founder of ABML, Craig Alford, has left ABML and started a new competitor called Barrel Energy (BRLL trading at a mere 10M market cap!), which is also in a partnership with ATAO. Unlike ABML (or even SXOOF), ATAO has not yet experienced a significant price increase. The market appears not yet to have priced in ATAO’s entry into the recycling race. ABML may be further ahead in development, but not years ahead. With an explosion of federal R&D funding, ATAO and BRLL should become major competitors of ABML.
+
+TLDR: Bullish on ABML. Super bullish on ATAO, SXOOF, BRLL._END_OF_POST_PYSTOCK_ Best local investment platforms for non-accredited investors I came across a website called MainVest which allows small local business to raise capital through revenue share notes. I'm a localist at heart and in an ideal world I would do all my investing locally, but due to investor accreditation that's extremely difficult to do. Has anyone had experience with MainVest or any similar websites they could suggest?
+
+I realize the risks of this type of investing are much higher than buy and hold etf trading and other more tested methods, but to me it is worth it. Supporting my local community is my primary goal, ROI is important, but secondary._END_OF_POST_PYSTOCK_ Not sure what to do with my savings while I save for a house Hello, I'm currently saving money for a house. My goal is 60k for a downpayment. I currently have about 30k (16k in an RH account and 14k in savings) and am saving around \~1800 a month. This does not include my 6 month emergency savings.
+
+In November I took $4500 and opened an ~~IRA~~ broker account with RH as my "gambling" account. It was money that I wanted to learn with and could afford to lose. I figured any extra earnings would go towards my house fund. That $4500 is now $16000 (everyones a genius in a bull market). So $4500 was money I could afford to lose but $16000 isn't.
+
+I'm not sure what to do from here. The options I'm considering:
+
+1. Pull out the 10k and put it in a savings account with my other 14k. I heard that you shouldn't invest money you plan on using within a year. It might take a little longer than a year for me to buy a house though.
+2. Invest the 10k into an index fund and keep the other 4.5k in high risk stocks like my original setup.
+3. Take 5k into savings and keep the other 5k in the account to invest in stocks/index funds
+4. Let it ride (JK, not doing this)
+
+I'm currently 30 years old if that makes a difference. Any advice would be appreciated.
+
+Edit: Just realized IRA was not the term I should've been using. It's a regular, not tax advantaged broker account with robinhood._END_OF_POST_PYSTOCK_ $KMPH - KemPharm, Pharmaceutical Company Gents,
+
+Below I'll provide some DD on one of my favorite opportunities over the next few weeks.
+
+KemPharm is a pharmaceutical company located in Florida which focuses on the improvement of proprietary drugs. Right now they have 4 different drugs up for approval in 2021 and various already approved drugs. The big one is their KP415 which is up for PDUFA approval on March 2nd and has shown strong results in their trials. If approved, they've said that this has the potential to be one of the first truly differentiated products launched in the ADHD market. It has a lesser abuse rate and a longer effect duration.
+
+That's the short term but more importantly this company has undergone a massive change in the past few months. Three months ago, they were in debt to Deerfield, a healthcare ecosystem, for over $75 million due in March 2021. As of recently, they paid off this debt and are debt free with a good amount of cash + would get $50 million once the drug is approved putting them way over their cash burn rate.
+
+Secondly, don't just trust me. The current price targets by two different analysts is pegged at $24-$28. For the downside, I didn't have the desire to perform a DCF but WallStreetZen has a $7.5 fair value. It also has about 30% short interest so we'll likely be aided by a squeeze. Not advice just some things I found interesting about the company.
+
+Let me know if you have any contrasting views, I'd love to hear em. _END_OF_POST_PYSTOCK_ Bank based Leverage for active-ETF Hi guys
+
+
+
+Lets say you can get a basically free loan (less than ~3% rate which is common in europe)
+
+I was looking at pros vs cons of taking the money and invest it in active ETF in a lump sum (aka arkk)
+
+
+Pros
+- technically earning more than 2.5% on the investment will make me money
+- If you dont need the money in the near future and you can pay it from your salary youre not exposed to the “margin call”
+- Basically free money
+
+Cons
+- ETF might go down, not necessarily as the rate of an index ETF (may be even greater)
+-no DCA as its one sum
+- You can just invest monthly,DCA and lose of some potential gains 
+
+
+Anything Im missing will be gladly appreciated,
+Couldn’t find anything about external leveraging of active ETF here._END_OF_POST_PYSTOCK_ Need feedback on investment strategy Hi my dudes,
+
+My aim here is to get feedback on a viable investing strategy to meet my goals of retiring at 55 years old - more on that later.
+
+**Financials (my wife and I) -**
+
+*\*I included my wife's financials, too, since we have some merged accounts\**
+
+* Age (me): 28
+* Age (wife): 28
+* Total work income / yr (me): $120,000
+* Total work income / yr (wife): $62,000
+* Contributions to 401k (me): 13%
+* Contributions to 401k (wife): 15%
+* Total amount in 401k (me): $96,000
+* Total amount in 401k (wife): \~$50,000
+* Total amount in savings account or emergency fund (combined): $50,000
+* Total amount saved per month net all expenses (combined): \~$1,700 (*we save $1,700 a month that I throw into a vanguard account for stocks. I do not put money in our savings account since we already have our emergency fund liquidated and do not need more cash on-hand)*
+* Total value of brokerage account (combined): $38,100
+* Equity in house (combined): \~$60,000
+
+As mentioned above, I am looking to retire at 55 years old. I have been reading a lot of Roth IRA accounts for both my wife and I, and while we can both max out our accounts with some more to spare, I am wondering if this is a viable investment strategy to meet my retirement goal. Personally, being eligible to pull from your retirement accounts at 59 1/2 with no penalty is pretty daunting for me. I want to enjoy my money early in life, not wait until I am almost senior citizen age.
+
+Is there something about a Roth IRA I am missing, or is the only viable early retirement strategy to invest in individual stocks in a brokerage account? As for my brokerage account, I am heavily invested into VOO and ARKK, and have recently made a good amount on GameStonk which I donated most of it to a friend in need. For the long-term, I plan to continue heavily investing into VOO and ARKK, and using a small amount  for fun trading.
+
+Another question that I have is if it is a viable strategy to max out 401k and a Roth IRA and just take on the penalty whenever I want to retire prior to 59 1/2.
+
+Appreciate the feedback!_END_OF_POST_PYSTOCK_ SNPR, or Volt, is a new SPAC to be considered given the EV Battery Tech and what the SPAC has done previously We love EV, right? I'm really excited for a new SPAC to be listed as SNPR. This company is called Volta and is an industry leader in commerce-centric electric vehicle ("EV") charging networks.
+
+Volta competes with Beem, EV Go, and Blink charging. This stock has more connections than Blink charging. They also have advertising revenue... guess who will win in the long run.
+
+Tortoise Acquisition Corp invested in another stock earlier this year... Hyliion, or HLYN, and since is up 400%. They look to be investing in top companies who will be leaders in the EV and energy efficient space. The investor and exec backgrounds are impressive.
+
+News:
+
+"Shares of Tortoise Acquisition Corp. II spiked as much as 47% on Monday after the special purpose acquisition company (SPAC) announced a merger deal with the EV charging station manufacturer Volta Industries. Volta will net $600 million from the transaction including a $300 million investment from BlackRock, Fidelity Management & Research, and Neuberger Berman Funds that will be used to accelerate the company's charging network buildout. The combined entity will be listed on the NYSE under the ticker "VLTA" and is valued at over $2 billion, according to regulatory filings."
+
+"SPAC Tortoise Acquisition (NYSE:SHLL), which announced a merger agreement with electrified powertrain solutions for class 8 commercial vehicles manufacturer Hyliion in June 2020, is up almost 400% since its inception."
+
+Source:
+
+https://finance.yahoo.com/news/volta-industries-inc-tortoise-acquisition-115600815.html
+
+I'll be buying shares, April calls. I can't believe it's still so cheap and no one is talking about it._END_OF_POST_PYSTOCK_ Asset mis-pricing and efficient market hypothesis can both be true at the same time No one can predict the future with 100% certainty. Even the weather forecast which only relies on the laws of physics and is many times simpler to model than financial markets has a large degree of inaccuracy.
+
+So continuing this analogy, predicting the financial markets is like predicting the weather. Active funds with all their advanced models are like the professional weather stations. Efficient market hypothesis and "priced-in" is akin to aggregating the consensus of all weather stations. Their advanced physics models and computer simulations could still incorrectly predict the weather though, but they're still much better than the average person looking at the sky. As with weather, the price of assets converge to reality as time approaches; today's weather forecast is much more accurate than next week's, and yesterday's weather forecast is 100% accurate.
+
+For the vast majority of retail investors, investing in the EMH through index funds is still the best option because weather stations are still damn accurate. However, even with EMH there's still a large degree of inaccuracy, and there are plenty of profits to be made if you can come up with a better model at predicting the weather.
+
+Another relevant analogy is predicting elections. The stock market is a voting machine in the short term and weighing machine in the long term. In the short term, predicting the markets is similar to predicting elections (hype, momentum, polling, etc.), while in the long run, it's more similar to predicting the weather._END_OF_POST_PYSTOCK_ Insider Trading and Securities Fraud Enforcement Act of 1988 (ITSFEA) The integrity of our industry requires that all investors have access to the same information when making trading decisions. Using information not available to the public to profit or avoid a loss is one of the most serious violations in the industry because it undermines its integrity.
+Although the Securities Exchange Act of 1934 prohibited the use of insider information in making trades, the (ITSFEA) expanded penalties for insider trading and securities fraud. An insider is any person who has access to nonpublic information about a company.
+
+Inside information is any material information that has not been disseminated to, or is not readily available to , the general public.
+The act prohibits insiders trading on or communicating nonpublic information. Both tippers ( the person who gives a tip) and tippees (the person who receives a tip) are liable, as is anyone who trades on this information that he knows or should know is not public or has control over the misuse of this information. No trade need be made for a violation to occur; even a personal benefit of a non-financial nature could lead to liability under the rules.
+
+So, the key elements of liability under insider trading rules are as follows:
+1.) Does the tipper owe a fiduciary duty to a company/its stockholders? Has he breached it?
+2.) Does the tipper meet the personal benefits test ( even something as simple as enhancing a friendship or reputation)?
+3.) Does the tippee know or should the tippee have known that the information was inside or confidential?
+4.) Is the information material and nonpublic?
+
+Take Note: Even a slip of the tongue by a corporate insider could create liability under these rules. 
+The SEC ACT of 1934 defines an insider as an officer,director,or stockholder owning more than a 10% of a company's outstanding voting equity._END_OF_POST_PYSTOCK_ COCA-COLA CO (KO) Seasonal Investing COCA-COLA (KO) - Historically has traded higher from around Feb. 25 to about Jul. 12. These dates are suggestions only to when to be in and out of the stock. I start looking for buying signals in the month of Feb. and sell signals by Jul. KO has a 86% win rate, hold time 95 days, Avg Profit 12%, Risk:Reward 1:2.0, Avg Draw -6%, Max Draw -36%, Biggest Profit 71%, Years 51, Total Wins 44, Total Loses 7, Industry Beverages.
+
+Technicals I use when the market trends are very positive, buy very fast and sell slow.
+
+Weekly Charts
+
+MACD (6,19,9) for buying (below "0")
+
+MACD (12,25,9) somewhat more reliable (below "0")
+
+MACD (19,39,9) for sell signal (rise above "0")
+
+RSI (6, 70, 30), RSI (12, 70, 30), RSI (19, 70, 30)
+
+Momentum 6 day, 12 day, 19 day
+
+Happy Investing!_END_OF_POST_PYSTOCK_ Oil output in North Dakota fell y-o-y by ~300 thousand b/d in December, the worst drop in the history of the state. Oil production in North Dakota  continued its fall to 1.15 million bo/d in December (before revisions).  Almost 600 wells were completed in 2020, fewer than half compared with  the previous year (1,270) and the lowest number since 2009. This was  obviously not sufficient to maintain output and the loss year-over-year  was almost 300 thousand bo/d. 
+
+[https://community.oilprice.com/blogs/entry/1334-north-dakota-%E2%80%93-update-through-december-2020/](https://community.oilprice.com/blogs/entry/1334-north-dakota-%E2%80%93-update-through-december-2020/)_END_OF_POST_PYSTOCK_ VanEck Moat ETFs ($MOAT, $GOAT) - Morningstar Wide-Moat Index Funds Hi all,
+
+I see little to no discussion about these two funds, despite $MOAT (US-only) having more than $4B under management. Moat investing is based on a simple concept: Invest in companies with sustainable competitive advantages trading at attractive valuations.
+
+I know that the absolute majority of active managed funds do not outperform the market over time. However, the key argument is always the high cost of active management. With a TER of 0.47-0.52%, however, these funds are drastically cheaper than your average active fund as they track their respective Morningstar Wide-Moat Focus indexes.
+
+So far, the US-Version actually outperformed SPY over long-term rolling periods with less max drawdown despite being underweight in Tech:
+[Wide Moat Investing: Built for the Long Term](https://www.vaneck.com/special/moat/wide-moat-investing-built-long-term/)
+
+$GOAT is a newer fund and applies the same methodology on a global level. However, VanEck only managed to attract around $15M investor money in a little over two years. I‘m holding it as a core part of my portfolio. Just a little worried about the low fund size long-term.
+
+What do you think about these funds in general?_END_OF_POST_PYSTOCK_ Best broker to transfer Roth IRA I have a Roth IRA with New York life but to be honest I can’t stand them – they are very antiquated and it made me sending paper checks when I want to increase my deposit amount, call them when I want to update my automatic monthly transfer amount, and overall the user interface and experience with them has been nothing but sluggish and feels like something out of the 90s. I have several different accounts for several different things (401k, some inheritance, ESPP, taxable trading account) and am working to consolidate into less brokers (it happened over time - 401k through one company, trading through another, etc).
+
+I have to look at a broker to broker transfer, and am asking for any experience on transferring/consolidating holdings (avoiding penalties/fees/etc)?  I’m sure it has been done by plenty of people but the process makes me uneasy.
+
+I like fidelity and chase_END_OF_POST_PYSTOCK_ AGEN has a huge potential for investment.  "The drugmaker reported "positive" preliminary results from its early-stage trial of iNKT cell therapy in patients with moderate to severe symptoms of COVID-19. The company said preliminary data showed that of the four patients dosed to date, three patients were extubated and released after treatment while two of the patients were extubated within 24 hours of dosing. Agenus said it expects to complete dose escalation in the first half of this year for an initiation into a mid-stage trial with data readouts expected in Q4 this year."
+
+Do further research and make a decision._END_OF_POST_PYSTOCK_ An excellent OPY-rtunity in a small cap finance company ^(Note: This is the first DD I've ever written. I'm normally hesitant about recommending stocks to people because I would feel responsible if they concurred with my opinions and then bought stock and lost a lot of money. However in this case, I have a lot of conviction in this pick. Since this is my first DD, I'm sure there might've been some things I've overlooked, misunderstood, or misrepresented. If so, this was unintentional. I'd appreciate any and all feedback. Cheers.)
+
+# Key takeaway.
+
+Oppenheimer Holdings (OPY) is extremely undervalued by any metric. Don’t be put off by its 22% rise since the end of January – it’s still playing catch-up to its fair valuation (based on historical metrics). Even without taking into account its impressive track record of growth, a fair valuation for OPY would be $79.00. If we also consider its growth trajectory and compare it to its peers, its value could surpass even that.
+
+Disclaimer: I’m not a certified financial advisor, nor do I provide personal investment advice. This post is informational in nature only, and the information within this post represents my own opinion. This is not investment advice.
+
+Positions: 100 shares at $38.02; 10 Jun18 35 CALLS 
+
+&#x200B;
+
+# Company profile.
+
+Oppenheimer Holdings is a small-cap investment bank, market maker, and financial services company that’s been in operation since the late 1800s. They’re active mostly in the US, although they have branches in Europe, China, and Tel Aviv. They offer wealth management, brokerage services, and advisory services, and act as underwriters for IPOs. They were involved in the IPOs of AirBnB, DraftKings, and Fubo. They’ve been targeted for acquisition a number of times in the distant past, but the deals have never been realized.
+
+As a small-cap stock, they’re woefully under-covered. The latest Seeking Alpha article is from 2016, and there aren’t any analyst ratings for the stock. This lack of coverage represents an opportunity, as OPY appears to be severely undervalued since it is so overlooked. They could also be a target for acquisition in the future, but I’m not factoring this into my thesis.
+
+# Performance.
+
+OPY benefited in 2020 from a high-volatility trading environment that oversaw an increase in retail and institutional commissions. Their investment banking and underwriting branches saw record numbers this past year. 
+
+Furthermore, Oppenheimer has been undergoing sustained growth since some dismal earnings in 2016. Take a look at its EPS:
+
+Net income per share (diluted):
+
+|2013|2014|2015|2016|2017|2018|2019|2020|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|$1.77|$0.62|$0.14|\-$0.09|$1.67|$2.05|$3.82|$9.30|
+
+2020’s incredible earnings put OPY’s P/E at roughly 4.04. That means that if the company’s earnings stay stagnant and neither grow nor decline, and if the stock price stays exactly where it is, it will take roughly only four years for the company to earn enough cash equivalent to the current value of the company. That’s an amazing deal. 
+
+So, how does OPY’s low P/E compare to its historical P/E?
+
+&#x200B;
+
+# Historical P/E ratios.
+
+&#x200B;
+
+|2018|2019|2020|Avg. of past 3 yrs|Current|
+|:-|:-|:-|:-|:-|
+|8.5|10.7|6.3|8.5|4.05|
+
+To revert to its historical average P/E, OPY would have to more than double in share value. [We can even see that OPY's P/E right before earnigns was 6.35](http://Ycharts.com/companies/OPY/pe_ratio). In light of recent earnings, OPY’s P/E was recalculated to 3.39, and has continued to climb to 4.05 as the market has been pricing in these exceptional earnings. But even in spite of the reduced risk of post-earnings, and in spite of the company's excellent earnings and growth track, and in spite of the stock's climb, OPY is still nowhere near its average P/E of 8.5. The only time its P/E was any lower was in 2012, 2016, and 2017, when the company had a loss per share. To reach its average P/E of the past three years, OPY would either have to double in price, or it would have to suffer substantial negative growth next year -- and I don't see any potential catalyst for the latter.
+
+&#x200B;
+
+# Current P/E comparison to competitors.
+
+That's all well and good, but how does OPY compare to its closest competitors and their P/E? Maybe *all* financials currently have a low PE?
+
+Competitors:
+
+|Oppenheimer (OPY)|Cowen|Piper Sandler|Berkshire Bank|TrustCo Bank Corp|Century Bancorp|
+|:-|:-|:-|:-|:-|:-|
+|4.05|6.8|37.15|17.76^(\*)|11.98|14.52|
+
+^(\*Avg of previous five years as they took a loss last year)
+
+Even when compared to its competitors, OPY is still undervalued -- and when taken in context of the market as a whole, that undervaluation is even more evident: the average P/E of the S&P is around 19.45 (although it's currently around 35.5). OPY is trading at a fraction of this.
+
+&#x200B;
+
+# Other points to consider.
+
+# Share buybacks.
+
+Oppenheimer has also been buying back shares since 2016. Although their 10-K hasn’t yet been posted on the SEC website, they have posted an presentation containing their [unaudited 2020 results](https://www.oppenheimer.com/_assets/docs/earnings/2020/2020-8kq4-pr.pdf):
+
+They bought back 718,522 shares in 2020. They currently have 13,217,335 shares outstanding.
+
+This float is exceptionally low, so once the stock picks up momentum, it can really start making moves. The stock has low short interest, however, so don’t anticipate a squeeze of any sorts. It's also not a sexy company like "dude weed lmao" or fintech, so meme momentum probably won't send it higher. It's simply a stable, strong company that's currently underpriced, and the moves over the past couple of weeks indicate that the market *may* be starting to realize this.
+
+# Dividends.
+
+Oppenheimer has an annual dividend of $0.48, up from the previous years’ dividend of $0.44. Personally, I see this as detrimental to the stock, considering I’m taxed at a high rate on dividends, albeit not on capital gains. Others might view this as a boon to the stock. The dividend does also represent a nice cushion against any financial hardship – they can always cut the dividend if they start taking a loss. Its upcoming ex dividend date is Feb 11.
+
+They also issued a special dividend of $1.00 as recently as 23 Dec 2020. Again, not beneficial for me. I’d prefer they do buybacks.
+
+# Long-term Debt.
+
+So what's the catch? The company must be heavily indebted, and are kicking the can down the street, right? Not so.
+
+|2018|2019|2020|
+|:-|:-|:-|
+|199m|149m|125m|
+
+OPY’s debt to equity ratio is 18.2% -- exceptionally low. Keep in mind that OPY had a net income of $82m in 2020 – enough to pay down more than half of their debt from just one year's earnings. Insolvency doesn’t appear likely.
+
+&#x200B;
+
+# Bearish considerations.
+
+In all honesty, I can't see many that wouldn't apply to other financial stocks and the stock market as a whole -- a black swan event, terrorist attack, that sort of thing. If the IPO market starts to cool off, or volatility starts to wane, or a plurality of hedge funds go defunct – all of these things could weigh on OPY’s stock. Of course, these risks are inherent to other investment banks as well, which already command a higher P/E ratio more representative of reality. If anyone has some compelling bearish arguments, I'd like to hear them.
+
+I suppose a realistic concern is that, in the near term, momentum could dry up and the stock could take a dip. In that case, I'll be buying more with both hands. Furthermore, and though the two are often connected, the P/E ratio isn't something that inherently dictates the movement of a stock. It's entirely possible for the P/E ratio of the company to persist for a long period below 1, as the market overlooks and misprices this company.
+
+&#x200B;
+
+# Summary of bullish thesis.
+
+\-Revenues and EPS growing YoY
+
+\-Historically undervalued (on the basis of P/E)
+
+\-Undervalued compared to comps
+
+\-Conducting share buybacks
+
+\-Low debt
+
+\-Low float could lead to outsized moves
+
+\-Currently in an uptrend
+
+&#x200B;
+
+# Conclusion.
+
+OPY’s stock had been in a slow, sustained uptrend since September, and recently saw a drastic jump on some stellar earnings. It has been undergoing sustained and impressive growth since 2016, and has a low amount of debt. And yet, it still appears to be undervalued. Its P/E is extremely low compared to its historical average and compared to its competitors. In the short-term, OPY still needs to make up – and currently *is* making up – a lot of ground if it wants to revert back to its historical P/E. To do that, its share value would have to double. Even if it did double, I believe the company still offers good value in the long term, as its earnings have improved substantially over the past few years._END_OF_POST_PYSTOCK_ Ubiquiti – UI – Momentum stock with Potential Short Squeeze or Leveraged Buyout Ubiquiti Inc. develops networking technology for service providers, enterprises, and consumers.
+
+On 2/5/2021 they announced another quarter that exceeded expectations with strong global demand for their products. The growth/adoption of their products into the enterprise demonstrate that the company continues to gain traction against the likes of Cisco (CSCO).
+
+For those that read a headline and act: A couple of items to be aware of.
+
+1. While the stock has a 20.8B market cap, it only trades a little over 100k shares a day or about 1.5% of the available float. This means using limit orders when buying or selling might be best. Otherwise the MM’s will take advantage of you.
+2. The liquidity/spreads in the option market are horrible. Outright buying the stock is likely the way to play this stock
+
+**A Little Background**
+
+Ubiquiti was founded by Robert Pera and went public in 2011. This is the same Robert Pera that owns the Memphis Grizzlies. I like to think of him in the same light as Mark Cuban. He is a disruptor by nature and has an anti-establishment approach. He is not always conventional in his methods when engaging with the media and public which likely results in less overall hype around Ubiquiti.
+
+As of 12/31/2020 there were 62.8m shares outstanding. Founder Robert Pera owns 56.2m shares or 89.6% of the company.
+
+The company has been aggressively buying back shares, reducing the shares outstanding by over 2m in 2020. As of 12/31/20 they still had $385.2m authorized under the “2020 May Program” which facilitates the company’s repurchase program.
+
+According to [Fintel.io](https://fintel.io/), institutions own 6.9m shares, resulting in over 100% ownership between Pera and institutions. Some percentage of these institutions represent index funds that are not actively managed. The institutional ownership may be overstated as a result of stale data and/or the company’s repurchase of 309,133 shares in the last 3 months of 2020.
+
+Then there are the retail investors that own some small slice of this company. Some of the retail investors are self-declared Ubiquiti “Fan Boys” such as myself that have owned the stock for years and have deployed their equipment in our homes and across the enterprise’s where we work.
+
+The end result is a float of 6.5m shares of which some percentage that is owned by index funds or owned by “Fan Boys” and not actively traded.
+
+The company just declared another $0.40 dividend. With $1.60 in anticipated dividends over the next 12 months, Pera will be taking home an estimated $90m per year in dividends. Why is this relevant? Pera is is able to generate cash from his Ubiquiti ownership, without the need of selling shares. He just holds his current shares while increasing his ownership percentage through the company’s stock repurchase program.
+
+**Now for the Shorts**
+
+As of 1/15/21 there were 1.04m shares short which represents 15.94% of the float. We will have to see how these change when the 1/31 numbers are released this week. The low daily average volume results in a Short ratio of 10.38 as calculated by Yahoo finance as of 1/15.
+
+With a great quarter behind them, a growing business, fewer COVID-19 related supply chain risks and combined with insiders who generally do not sell, where will the shorts get shares to cover their bets if the stock continues to move against them?
+
+Pera has not shown a desire to sell.Mid-Cap index funds are not actively managed.“Fan Boys” are not selling anytime soon.The Company continues to repurchase shares.
+
+I believe short covering could result in a monumental short squeeze if the stocks momentum continues an upward trajectory.
+
+**Why not a leveraged Buy-out**
+
+Now I am certainly not an expert on leveraged buy-out’s, but what would it take for Pera to decide to take the whole thing private. Like Michael Dell taking his namesake company private in 2013 before going public again in 2018.
+
+The company is generating great cash flow, actively reducing the number of shares available and is predominantly owned by a multi-billionaire.
+
+With $385.2m still available to repurchase shares, at a current market price of $330, this could remove another 1.16m shares from the float, making it that much easier to buy-out the company.
+
+Is the stock repurchase program a precursor to something bigger?
+
+**Conclusion**
+
+You could conclude this continues to be a growth story of a company looking to disrupt the status quo. They are profitable, growing, pay a dividend and demonstrated good cash flow all the while repurchasing their stock.
+
+This could be a massive, short squeeze in the making as the short ratio is 10.38 and float continues to be reduced as a result of the share repurchase program.
+
+The endgame could be a leveraged buy-out that sees Ubiquiti taken private resulting in a handsome reward for Pera’s loyal followers.
+
+I Love Ubiquiti’s products and this stock.
+
+I have been long since 5/22/2014 and have added to my position as recently as 2/5/21
+
+This Content is for informational purposes only, you should not construe any such information or other material as investment or financial advice.
+
+&#x200B;
+
+Edit1: Clarification based on a comment.  Leveraged Buyout may be the incorrect term for my thought process.  I intended to imply that Pera could just take the company private as he owns a significant percentage of the outstanding shares and is reducing the percentage he does not own through the stock repurchase program._END_OF_POST_PYSTOCK_ Due Diligence on BUR - Burford Capital - Litigation Finance **Due Diligence on BUR - Burford Capital - Litigation Finance** 
+
+Litigation financing is an asset class that few have talked about here. It is, however, very lucrative. Returns are lumpy but significant. The business model is rather simple. Find someone with a claim, that (a) has little money or is (b) risk averse. Have smart lawyers look at the case details and evaluate the chances of winning the case (due diligence). If you think you can win: offer to pay for his lawyers and costs. In return get a share of the profits (usually 30% or more) if you win. Burford Capital is the biggest player in this game.
+
+I believe BUR is significantly undervalued. I put my money where my mouth is and have invested >100k. I will diamond hand this to USD 100+.
+
+BUR has been attacked by the Short Seller Muddy Waters in 2019. Using phony made up scare tactics and the now well known ladder attacks, this has tanked the shareprice. Following the attack, one of the bigger investors in BUR (Neil Woodford) was forced to sell, further killing the sp. However, the company has completely [refuted](https://www.burfordcapital.com/media-room/media-room-container/response-to-short-attack/) the allegations and has brilliant prospects. I consider the risks to be limited, especially since BUR has been deeply scrutenized before their dual listing in the US in 2020.
+
+While the stock price has recovered a great deal, it is far from its all time high of GBP 20 (=23 USD), currently trading at 9 USD. I think it can reach its all time high quickly and go far beyond that. With Brexit and Covid disrupting the economy, new legal cases will arise. This should lead to an expanding client demand.
+
+Hard facts: P/E > 13; Price to Book: 1.06. Which is ridiculous based on a cumulative historic ROIC of 88% (!). Those returns are completely uncorrelated to the overall market (courts decide independent of economy). The business model is hard to copy, as you need years of market activity to convince lawyers that you are reliable. So there are significant barriers to entry.
+
+The company has currently USD 820 million USD deployed in ongoing assets. This is deployed in a large and diversified portfolio, the largest in the industry, having many cases helps mitigating the risks of losing any one case. It does not prevent you from losing cases, but on average, you will win more cases than you lose.
+
+There are realistic possibilities for an amazing ROI.
+
+\- The Peterson Case alone (that was already profitable for BUR bought at 20 million and already sold stakes in the case for 236 million, retaining 61.25% of its original entitlement) has now entered a late stage of the proceeding with the judge in NY being quite sympathetic to BURs claim. That claim could be up to 13 billion, 61% of which would be 8 bn (6x the market cap). Anyone should invest on these grounds alone. I have taken this bet, I believe that BUR has a > 50% chance of winning.
+
+\- VW and Trucks Cartel Cases have the potential of yielding USD 1.2 bn on a USD 30 million investment.
+
+This is quite legendary, especially knowing that all the other cases of BUR (see graph attached) tend to win big. I think we have a winner here. The Lit-Financing asset class is not well known, so investors should have a great potential before the mainstream storms in.
+
+I think price to book should be at least 3. I can see the book value land on USD 10 billion on invested capital. Market cap should be USD 30 bn. 219 million shares. Fair value USD 136 per share.
+
+This is my personal opinion and not financial advice.
+
+TD;DR: BUR should be worth USD 30 billion+._END_OF_POST_PYSTOCK_ Long-Term Margin Investment with ETFs 1. Assuming my investment strategy is holding one hundred percent S&P500 ETF (e.g. VOO) for long periods of time (15 years+).
+2. What's the possible disadvantages of using IBKR's low margin rate for IBKR Pro accounts (around 1%), and reinvesting that back into the same ETF? (Assuming I'll use a 30% margin of my portfolio value).
+3. Disadvantage #1: If the ETF drops close to 70% (since I'm taking a 30% margin) -> IBKR will start selling off some of my ETF.
+4. Disadvantage #2: Tax-related considerations
+5. Is there anything else I might be missing here?_END_OF_POST_PYSTOCK_ Golden Nugget Online Gaming Reports Record 2020 Revenue Golden Nugget has been flying under the radar in my opinion. Between Tilman Fertitta's sports connections owning the Houston Rockets and gaming connections with multiple casinos, I think this one has huge potential!
+
+
+Total Revenue of between $90.0 and 91.0 million compared to $55.4 million in 2019, an increase of approximately 63%,
+
+Gross Gaming Revenue[1] of between $101.0 and $102.0 million, compared to $60.9 million during the same period in 2019, an increase of approximately 67%, and
+
+Operating Income of between $23.0 and $24.0 million (between $28.0 and $29.0 million before approximately $4.0 to $5.0 million in costs related to the business combination with Landcadia Holdings II, Inc.), compared to $17.6 in 2019, an increase of approximately 38% (or approximately 62% before business combination costs).
+
+
+https://www.prnewswire.com/news-releases/golden-nugget-online-gaming-reports-record-2020-revenue-sees-strong-momentum-in-michigan-strengthens-leadership-team-301223714.html_END_OF_POST_PYSTOCK_ Microstrategy CEO Michael Saylor and others are using their influence to spread lies about Bitcoin at the expense of other CEOs and retail buyers. The distinction between consensus based supply and truly fixed supply is where the fraud happens. Michael Saylor, founder of Microstrategy and an MIT alumni, has been aggressively promoting Lyn Alden's [BTC bullish thesis](https://www.lynalden.com/invest-in-bitcoin/) which can be summarized as follows:
+
+&#x200B;
+
+1. Bitcoin has a supply cap of 21M coins
+2. Bitcoin has an advantage over other cryptocurrencies because of its network effect
+
+These 2 properties, according to Lyn, will help BTC perform like digital gold in a *quantitatively eased* covid world. The first statement, however, is inaccurate in the sense that Bitcoin does not have a supply cap and is not scarce in the same way as silver and gold are. Bitcoin's scarcity/supply cap is defined via a consensus similar to the one that regulates the supply of fiat currencies, that is a consensus that can be changed or can be manipulated. Whether by sheer ignorance, or tacit collusion, the promoters of this thesis should/may one day be held accountable in court for spreading a lie in order to lure in buyers at progressively higher prices.
+
+# Why BTC does NOT have a supply cap
+
+Supply in Bitcoin is regulated by an algorithm that limits the amount of new coins issued and defines the rules by which these newly minted coins are distributed. To mine *a coin* in BTC a miner has to solve a puzzle after which the blockchain is updated to increase the balance of his address by 1 unit. This would be a *mined coin,* since it did not come from another address through an incoming transaction.
+
+According to today's algorithm there cannot be more than 21 million coins, and the amount of coins minted for every puzzle solved (which corresponds to *block found* in bitcoin lingo), is 12.5. This is known as the *block reward.* According to the same algorithm the block reward is supposed to halve every 4 years.
+
+It is important to emphasize here that **we are speaking of an algorithm**, not a natural law. Such *algorithm* (which is part of bitcoin's protocol) is used by today's BTC miners. This algorithm seems to be sufficient for Michael Saylor (and Lyn Alden) to promote Bitcoin as a currency with *limited supply* and capable of fulfilling its role as *digital gold*. However, it is not.
+
+Michael Saylor is a billionaire engineer, who seems to have a deep knowledge of the bitcoin community. At the same time, he seems to not be able to tell the difference between a natural supply cap and a supply cap set by social (or decentralized) consensus. It is exactly by glossing over such distinction that newcomers are lured to believe that BTC's supply is set in stone, and invest/buy as if BTC's supply is set in stone, when in fact that's not the case.
+
+A natural supply cap is independent of political or social consensus. Even if the most powerful/influential leaders, policymakers, scholars, economists, engineers and so on of the world came together and agreed that there needed to be more silver on Earth, there is nothing they could do to change the total amount of silver. They could not because silver's supply is fixed.
+
+A supply cap set via consensus, on the other hand, can be lifted or modified if the underlying consensus changes or is manipulated. This is the case of fiat currencies, where we have seen the consensus shift towards accommodative monetary policies that were unthinkable 4-5 decades ago.  And this is also the case with Bitcoin, the only difference between Bitcoin and fiat currencies is that today's consensus in Bitcoin veers towards sticking to the original 21M supply. While it is true that bitcoin's supply is defined by an algorithm, this *algorithm* can be changed. Therefore Bitcoin is not scarce, at least not in the same way as precious metals like gold and silver whose supply is independent of any form of consensus.
+
+# Consensus shifts in Bitcoin's 10 year history
+
+In Bitcoin's history there have already been instances of changes in consensus that have impacted its properties. For example in its early years Bitcoin was defined as digital peer to peer cash because it could be used as peer to peer cash, thanks to subcent fees, even for micro payments. But as adoption picked up, transaction fees increased and BTC's performance as cash deteriorated. The general consensus then started to favor digital gold over peer to peer cash. As this transition occurred, the *community* split in two camps that would clash with each other for years to come trying to reaffirm their own view as the *consensus view*. In this *fight for consensus* each side resorted, among others, to censorship, ad hominem attacks and industrial scale DDOS attacks in a proper cyberwar fashion. In the end small blockers (proponents of Bitcoin as digital gold) prevailed, while big blockers forked into BCH. This series of events matters because it proves that the same thing can/will happen one day with bitcoin's supply. Today the *let's increase supply* camp already counts some prominent BTC figures, like ex Bitcoin Core developer [Peter Todd](https://www.trustnodes.com/2019/03/26/peter-todd-advocates-raising-the-21-million-bitcoin-limit-hence-the-blocksize-constrain).
+
+# Conclusion
+
+There is no difference between BTC and fiat currencies like the US dollar technically speaking. The only difference is who is in charge, in BTC it is the Bitcoin Core developers while in the case of a fiat currency it is a central bank. Right now *consensus* in BTC is that the cap should stay at 21M. But if this consensus changes, then just like with fiat currencies, a lot of retail buyers who used BTC as digital gold would have to passively accept the change. This *risk* is what distinguishes a fixed supply currency from an inflationary currency. Not the consensus in a particular point in time._END_OF_POST_PYSTOCK_ Tired of hearing about all these meme stocks? I handpicked the most popular posts, tickers, and DD from the last week. Here are the results! Hello!
+
+I went through all the hot posts in popular sub-reddits and selected the top posts for the week. I excluded meme stocks because I'm sure everyone is experiencing fatigue at the moment on why ThE SquEeZe iS nOt SqUoZe. You might think this is very subjective to what I think is "popular" or a quality post, so here were my requirements to be included.
+
+1. The post must have reached the hot section at any point during the week.
+2. Post types that WERE included: news, discussion, due diligence
+3. Post types that were NOT included: memes, YOLOs, shitposts, gains, losses, etc
+4. The post was included if it met a certain amount of engagement (upvotes, comments).
+
+These are listed in no particular order. If this is something you guys like I will continue posting this, maybe weekly or bi-weekly.
+
+&#x200B;
+
+|Post Title|Tickers|
+|:-|:-|
+|[AMZN Amazing interview of Jeff Bezos before becoming famous](https://www.reddit.com/r/StockMarket/comments/lba6t3/amzn_amazing_interview_of_jeff_bezos_before/)|AMZN|
+|[ZACKS upgrades $BB (BlackBerry Limited) price target from 14$ to 29$](https://www.reddit.com/r/stocks/comments/ldwfm2/zacks_upgrades_bb_blackberry_limited_price_target/)|BB|
+|[BB is probably not the next GM3, it's probably the next TSLA](https://www.reddit.com/r/options/comments/l8wdmf/)|BB|
+|[What I got out of Palantir Demo Day](https://www.reddit.com/r/investing/comments/l61uln/what_i_got_out_of_palantir_demo_day/)|PLTR|
+|[Palantir rises from 52nd to 34th holding in ARKW](https://www.reddit.com/r/stocks/comments/l6m2t9/palantir_rises_from_52nd_to_34th_holding_in_arkw/)|PLTR|
+|[I draw with crayons so you don't have to. The grind up continues. Tickers on the watchlist this week: U, PTON, BB](https://www.reddit.com/r/options/comments/letar1/i_draw_with_crayons_so_you_dont_have_to_the_grind/)|U, PTON, BB|
+|[CRSR Corsair DD - The Q4 results are basically already out and nobody is talking about it!](https://www.reddit.com/r/investing/comments/lbnqg1/crsr_corsair_dd_the_q4_results_are_basically/)|CRSR|
+|[Best Call Play? $SPCE, $APHA, $CRSR](https://www.reddit.com/r/options/comments/leqej4/)|SPCE, APHA, CRSR|
+|[AMD smashes revenue and EPS estimates](https://www.reddit.com/r/stocks/comments/l5o033/amd_smashes_revenue_and_eps_estimates/)|AMD|
+|[Well done to you all; but don't sleep on NIO.](https://www.reddit.com/r/stocks/comments/l6n7g7/well_done_to_you_all_but_dont_sleep_on_nio/)|NIO|
+|[Rocket Companies (RKT) - DD on an Undervalued Gem!](https://www.reddit.com/r/thetagang/comments/les0ok/rocket_companies_rkt_dd_on_an_undervalued_gem/)|RKT|
+|[PLUG POWER EXCEEDS 2020 GUIDANCE AND RAISES TARGETS FOR 2021 AND 2024](https://www.reddit.com/r/stocks/comments/l5cvvr/plug_power_exceeds_2020_guidance_and_raises/)|PLUG|
+|[Facebook now trading at only a forward P/E of 20.5](https://www.reddit.com/r/investing/comments/l76st8/facebook_now_trading_at_only_a_forward_pe_of_205/)|FB|
+|[Check out the Present and Future of $BCRX. JP Morgan Healthcare Conference presentation below. #BioWar ](https://www.reddit.com/r/StockMarket/comments/l9q8ot/check_out_the_present_and_future_of_bcrx_jp/)|BCRX|_END_OF_POST_PYSTOCK_ Tesla (TSLA) bought 1.5 billion worth of Bitcoin (BTC) >In January 2021, we updated our investment policy to provide us with more flexibility to further diversify and maximize returns on our cash that is not required to maintain adequate operating liquidity. As part of the policy, which was duly approved by the Audit Committee of our Board of Directors, we may invest a portion of such cash in certain alternative reserve assets including digital assets, gold bullion, gold exchange-traded funds and other assets as specified in the future. Thereafter, we invested an aggregate $1.50 billion in bitcoin under this policy and may acquire and hold digital assets from time to time or long-term. Moreover, we expect to begin accepting bitcoin as a form of payment for our products in the near future, subject to applicable laws and initially on a limited basis, which we may or may not liquidate upon receipt.
+
+https://www.sec.gov/Archives/edgar/data/1318605/000156459021004599/tsla-10k_20201231.htm_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ IBKR Margin not working on my account Hi all
+
+I recently signed up to an IBKR Margin account. It says "Margin" account rather than cash or portfolio margin in my account type.
+
+However I don't think the margin is actually working? Is it possible the accounts set to cash account but says margin on accident?
+
+So to give you an example, I have 30,000 in stocks and 100,000 in cash. If I try to buy 101,000 worth of TSLA Shares it said it won't go through. However at anything sub 100,000 it'll allow me to purchase them. This makes me think I have basically 0 margin. Has anyone ever seen a bug like this? it seems a bit wierd to be reading margin account but not actually allow me to buy anything past my cash reserves?
+
+EDIT:  
+It seems like there are some stocks like AAPL NVDA PYPL. That are allowing the margin to function properly. It just seems like TSLA stock is the only one I cannot purchase on margin. I understand different stocks have different risks and as a result some may not be able to be leveraged as much however it's a bit wierd to go as far as TSLA cannot be bought on margin at all?_END_OF_POST_PYSTOCK_ The bear case for KemPharm (KMPH) I recently learned about this company from a comment on this subreddit. They produce prodrugs: modified versions of existing medications that become active after being metabolized in the body. This can have some beneficial effects, chief amongst them being longer periods of activation and lower abuse potential. People are pretty excited about a new product of theirs, serdexmethylphenidate, which is undergoing FDA approval as a medication for ADHD, and which has potential as a medication for stimulant use disorder too.
+
+As someone with ADHD I was pretty excited about this; there's definitely room for improvement in the existing medication regimes. But, after looking into it for a bit, I'm not sure that this company deserves the hype and attention that it's received in a few corners of the internet.
+
+I would like to be a voice of sanity and reason.
+
+I'll first summarize the bull case for KemPharm, and then I'll explain why I think the bull case is overblown and that caution is advised.
+
+# The bull case for KemPharm
+
+The bull case for KemPharm can be broken down into two parts:
+
+**Serdexmethylphenidate is the next Vyvanse**
+
+Vyvanse (lisdexamfetamine) is an ADHD drug that was approved in 2007. Lisdexamfetamine is a prodrug of dextroamphetamine; it has the same psychoactive effects as dextroamphetamine, but it lasts longer and you can't increase the potency of it by injecting it or snorting it, because its activation is limited by how quickly the body can metabolize it. It's been very successful because it is longer-lasting and can be marketed as being abuse-resistant.
+
+There are two first-line ADHD treatments: amphetamines and methylphenidates. Amphetamines work better for some people, and methylphenidates work well for others. Vyvanse is a prodrug for amphetamines, but there is currently no prodrug for methylphenidates. Serdexmethylphenidate would fill that gap; whereas Ritalin (methylphenidate) lasts for about 4 hours, serdexmethylphenidate would last for about 13. And, like Vyvanse, you can't increase the potency by injecting it or snorting it. 
+
+Vyvanse currently brings in $2 billion in revenue *per quarter* (pg 55 of the [Takeda quarterly report](https://www.takeda.com/490228/siteassets/system/investors/quarterly-announcements/fy2020/qr2020_q3_qfr_en.pdf)). KemPharm has a market cap of $85 million. If serdexmethylphenidate can do for methylphenidates what Vyvanse did for amphetamines then the company is probably very undervalued. The CEO of KemPharm, notably, was the same guy who developed Vyvanse.
+
+**Serdexmethylphenidate is the new Suboxone**
+
+KemPharm is also investigating Serdexmethylphenidate as a treatment for stimulant use disorder. The idea here is that a recovering stimulant addict could take serdexmethylphenidate in place of (for example) cocaine or methamphetamine in order to avoid experiencing serious withdrawal symptoms during recovery. Clinical trial data (figures 1 and 3 in [this poster](https://kempharm.com/wp-content/uploads/2019/01/APSARD-2019-KMPH-KP415-A01-Oral-HAP-Poster-2019_0118-FINAL.pdf)) shows that serdexmethylphenidate scores only slightly higher than placebo in measures of "drug liking" and "feeling high", which suggests that it can be used by recovering addicts without further incentivizing addictive behavior. 
+
+Unlike opiates, for which there are treatments like suboxone, there are currently no FDA approved drugs for treating stimulant substance abuse. If this works out then KemPharm would have that market to itself.
+
+# The bear case for KemPharm
+
+Based on the data I've seen so far, I think it's definitely true that serdexmethylphenidate could be a very useful treatment for ADHD. I'd certainly try it if a doctor offered it to me. The potential efficacy of the medication does not necessarily translate into profound business opportunities, though. The people who point to the success of Vyvanse or Suboxone are missing important nuances in the situation that I think should make anyone take a pause before going all in.
+
+**There isn't necessarily a lot of room for more ADHD medications**
+
+Pharma companies love ADHD: roughly 5% of the population has it, people who have it tend to be medicated for life because there's no cure for it, and there's plenty of opportunity to patent new drugs by making iterative improvements to effective, already-established therapies, specifically methylphenidate and amphetamine. As a result there's a veritable zoo of ADHD medications available. There's already an option in this zoo for almost every use case: short-acting, long-acting, less-easily-abused, dermal patches, liquid medications, take-it-the-night-before, etc. Many of these are available in generic formulations, meaning that they are very cheap.
+
+In order for people to use a new ADHD medication, they need to be unable to find a workable therapy in existing, generic medications. There are several reasons to think that there may not be that many people willing to pay out for serdexmethylphenidate.
+
+* **We already have Concerta.** I compared Serdexmethylphenidate to Ritalin above, but Concerta is the better comparison. It is a methylphenidate pill that claims to last for about 12 hours and which is claimed to be less easy to abuse than Ritalin. In actual experience Concerta tends to last more like 9 hours, but that's still pretty good. And here's the thing: serdexmethylphenidate probably doesn't last any longer than Concerta does. Figures 1 and 2 of [this poster](https://kempharm.com/wp-content/uploads/2018/01/Poster_KP415.109_Braeckman_FINAL.pdf) show the blood plasma concentration of medication vs time for both Concerta and several formulations of serdexmethylphenidate. Concerta produces roughly the same blood plasma concentration of active medication over a 14 hour period that serdexmethylphenidate does, and - notably - it produces a substantially higher concentration in the afternoon. This is by design: Concerta was specifically designed so that blood plasma concentration would increase throughout the afternoon, [which has been shown to be more effective for treating children than a decreasing profile is](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/207174). KemPharm claims to have produced Serdexmethylphenidate specifically for treating children, but it probably won't work as well for children as Concerta does. And you can get Concerta as a generic medication for about $10 per month.
+* **Mydayis isn't doing amazing.** In 2017 Takeda (which also makes Vyvanse) received approval for Mydayis, another new ADHD medication. It's basically a better version of Adderall XR; it lasts longer and produces less variation in blood plasma concentration than Adderall XR does. But if you look at page 55 of the same [Takeda quarterly report](https://www.takeda.com/490228/siteassets/system/investors/quarterly-announcements/fy2020/qr2020_q3_qfr_en.pdf) that I got the numbers for Vyvanse from, you'll see that Mydayis isn't producing enough revenue yet for Takeda to even bother breaking it out; revenue from Mydayis is included along with revenue from several other medications under "other". There's a simple reason for this: although Mydayis is objectively better than Adderall XR, it is also horrifically expensive (around $300 per month I think?). Adderall XR, on the other hand, is available as a generic medication for about $10 per month. No doctor, and certainly no insurance company, is going to give someone Mydayis without first having them try Adderall XR, and Adderall XR will work just fine for most people. This is probably what will happen for Concerta vs serdexmethylphenidate.
+* **Vyvanse goes off patent in 2023.** Probably the principle selling point of prodrug ADHD medications is that you can't get high by snorting or injecting them; this puts the minds of anxious parents at ease (even though it probably isn't very important in practical terms). If you want a cheap, generic prodrug that works well for treating ADHD then you need only wait until 2023, when Vyvanse may become available as a generic. This means that KemPharm will only have about 2 years before it sees serious generic competition for serdexmethylphenidate. That's not a lot of time to make a lot of money; Vyvanse is a powerhouse now, but it was first released 13 years ago in 2007, and it was promoted for a long time with a fairly aggressive marketing campaign. How much of a foothold can serdexmethylphenidate get in 2 years?
+
+**Treatment for stimulant use disorder is a wildcard at best**
+
+I don't have any experience with addiction or addiction treatment, so I can't comment on this issue in great detail. There is just one important nuance I'd like to point out, though: the purported substance abuse resistance of ADHD prodrugs isn't really true. You can't rapidly increase your blood plasma concentration of amphetamine by injecting or snorting Vyvanse, but you *can* do that by taking 5 or 10 pills instead of taking just 1. A drug addict with unfettered access to Vyvanse will manage to get high, if they're so inclined. The substance abuse resistance angle is mostly a marketing tactic for selling ADHD medication to parents who are fearful of amphetamines because their understanding of those drugs is informed primarily by popular culture.
+
+One of the things that makes suboxone useful for treating opiate addiction is that you actually can't get high with it, no matter how much you take. The same is almost certainly is not true of serdexmethylphenidate: we know only that people don't get high from taking it *at normal therapeutic doses*. But, as with Vyvanse, you can almost certainly get high with it if you take a large enough dose by eating multiple pills. 
+
+The FDA may none the less decide to approve serdexmethylphenidate for stimulant use disorder; I don't know enough about treating that to be able to say with confidence what the outcome will be. But I think the reasons I gave above are a good reason to have doubts.
+
+# Summary
+
+KemPharm is popular in some circles because of the promise of its new ADHD drug serdexmethylphenidate. This is probably a good medication, but expectations that it will be spectacularly profitable (a la Vyvanse) are probably very overblown: the most natural customer for it is probably an adult with ADHD who prefers methylphenidates over amphetamines (most adults are the opposite), but who dislikes the fact that Concerta is more active in the afternoon (also unusual), and who also has a lot of money to shell out for medication. That's not a large market segment. The prospect of using serdexmethylphenidate for treating stimulant addiction is very uncertain, especially in light of the fact that its purported substance abuse resistance is likely more of a marketing tactic than medicinal fact.
+
+I am neither long nor short KemPharm. I'd like to be long, if anyone can convince me that I'm wrong about the above._END_OF_POST_PYSTOCK_ Fidelity Nasdaq Composite Fund Just came across Fidelity’s Nasdaq Composite Fund (FNCXM). It seeks to track the entire Nasdaq Composite Index and not just the Nasdaq 100 like what QQQ does. Seems like this would be a good Innovation Fund since it covers over 2,400 stocks in the Nasdaq and all market caps. It is still very top heavy (top ten holdings account for 44% of the fund) but there is more diversification here than what QQQ offers. It has a low turnover (17%) and low expense ratio (0.29%) too. Any thoughts?
+
+Fact sheet: https://fundresearch.fidelity.com/mutual-funds/fundfactsheet/315912709_END_OF_POST_PYSTOCK_ $HAS is undervalued and their latest product is a winner Hasbro will announce earnings pre-market tomorrow. My prediction based on the below is that they will announce a great quarter.
+
+I am an amateur but I have been following Hasbro since quite some time. It has not fully discounted the supply chain damage due to covid but should be in full recovery by now, and the impact of toyRus should be already past.
+Most analysts focus on their main products, toys, which has only one big competitor (mattel) and it is rather stable business despite some loss due to paused entertainment of marvel and star wars brands. No reason to doubt that they will be going well long term.
+
+The big insight I have is that their gaming portfolio is severely undervalued - with magic the gathering sperheading a large revenue stream that could eventually overshadow everything else.
+Magic The Gathering online game arena is a big winner and it is growing steadily quarter to quarter and finding constant new avenues of monetization. Moreover they are going mobile for the first time this month with first reviews of the android app being very positive. 
+They are cross-relating magic with dungeons and dragons for the first time in 30 years with the next expansion which will likely drag a new nerdy and reasonably wealthy user base. And magic is coming as a series in netflix which will further expand the user base.
+
+If you try to play the game you can infer how many users they have by studying the distribution of waiting times to find an opponent across different game options. Moreover, if you study the end-year report statistics related to your player profile that they send in december they disclose in what quantile your frequency of plays ends up. From these two data you can build up an approximate revenue model. Based on my analysis I think Hasbro has a golden goose that is defensible and with very positive outlook._END_OF_POST_PYSTOCK_ Gold can continue its victorious march to $ 2.5-3 thousand per ounce in 2021-2022 What is ... gold
+
+ Although gold looks like a metal, in terms of its properties it is more likely the oldest currency or financial asset.  Less than 10% of the gold produced in the world is used in the industry, while the majority is used for investment, savings and jewelry production - also a kind of savings.  At the same time, gold as a financial asset has several characteristics that are interesting from an investment point of view.
+
+ First, it generates zero real returns.  That is, you bought an ingot of gold, and a year later it is the same ingot of gold.  In the ordinary world, zero profitability is very little.  But in a world where trillions of dollars in debt yields negative nominal yields, 0% yields are taking on new colors.  Therefore, investment demand for gold is growing and has every chance of continuing to grow in the foreseeable future.
+
+ Second, gold mining is limited by the production capacity of gold miners.  In 2020, the United States printed 20% of the dollars already available at the beginning of the year.  And usually a textbook on macroeconomics suggests that in such cases, the value of the currency should fall.  This is what is happening, and therefore the value of all assets that bring dollar returns will continue to fall.
+
+ Gold production in the world in 2020 amounted to approximately 3.3 thousand tons, or about 1.5% of the total amount of precious metal mined in the entire history (about 200 thousand tons).  This means that the emission of this currency - gold - occurs at a rate of 1.5% per year, which is much lower than the average rate of emission of the dollar and euro over the past ten years (for example, 7% in dollars).  Therefore, we should expect that the rate of gold against the dollar and the euro will grow.
+
+ Thirdly, no country in the world has a monopoly on the printing of this ancient currency.  The "printing press" for gold is the mining and metallurgical companies that mine it all over the world.  Therefore, no one will be able to use this currency as a geopolitical tool to put pressure on other states.
+
+ This leads to a growing demand for gold from the central banks of countries that do not issue such reserve currencies as the dollar and euro.  Over the past ten years, the world's central banks have bought 15% of the world's gold production, and this trend can be expected to continue.
+
+ By the way, in many ways, the properties listed above are also suitable for bitcoin - limited emission, lack of control over emission by any state, zero profitability - which makes bitcoin interesting for investors in a world with printing presses.
+
+ What's next?
+
+ The past 2020 has been a good year for gold, with prices up more than 20% over the year, which coincides with the difference between the increase in the dollar money supply and the increase in the gold supply.  At some point, the metal price was above $ 2 thousand per ounce, but now it is consolidating at $ 1.8-1.9 thousand, which may become a good entry point into the market for investors who missed this year's rally.
+
+ 2021 has every chance of becoming no worse than 2020.  In the last weeks of last year, the rise in inflation expectations resumed, and the strongly accelerated growth in commodity prices suggests that expectations will soon materialize in inflation statistics.
+
+ At the same time, the rhetoric of the US Federal Reserve and the European Central Bank suggests that interest rates will remain zero or negative, and monetary policy is soft for at least several years.  Therefore, it is likely that real rates will fall deeper into the negative zone, which will force investors to return to gold.
+
+ Expectations are also positively affected by the continuing devaluation of the dollar, and the recovery of the global economy with the start of mass vaccination will lead to the recovery of another important component of demand for gold - the jewelry market.
+
+ If in the first few months since the beginning of the pandemic, the demand for gold from the jewelry sector fell by 50% year-on-year, over the past few months it has been actively recovering and will continue to recover in 2021.  All these factors indicate that gold can continue its victorious march to $ 2.5-3 thousand per ounce in 2021-2022._END_OF_POST_PYSTOCK_ Please explain the short fee rate and rebate rate I have seen the [definition](https://www1.interactivebrokers.com/en/software/tws/usersguidebook/thetradingwindow/shortable_fields.htm) and [example](https://ibkr.info/node/41).
+
+My understanding is that: 
+- fee rate is the rate I pay to the lender
+- my short sale proceeds are collateralized by the lender's broker which earns an interest and rebated to me
+- rebate rate is the netted rate, interest rebate - borrow rate (negative if I pay, positive if I am paid)
+
+Assuming the above is correct, why is NFLX showing fee rate 0.25% and rebate rate -0.45%?  
+Even if the cash collateral doesn't earn or get rebated any interest at all, why do I have to pay 0.2% over the borrow rate? It is not (*yet*) that we are in a negative interest environment.   
+Is it because IBKR takes a haircut off the interest even when the interest is **nil**, bringing the post-haircut rate to negative?_END_OF_POST_PYSTOCK_ Investing with Life Insurance I am a entrepreneur in my late twenties. I am more then comfortable managing my own money and have been doing so for several years.
+
+The financial advisors that setup my employee retirement plans convinced me to get a Indexed Universal Life policy. After doing some research, and being slightly older and wiser, I am regretting that decision.
+
+The advisor sold me on I “could diversify my portfolio” and “grow my investment tax free”. I do not need the insurance, it was simply pitched as a “well-to-do-man’s” investment vehicle.
+
+The annual premium is $40k. I have invested $120k into the policy. Forgive me if I can’t get too technical because truthfully I don’t understand this policy (lesson #1 don’t invest in something you don’t understand). But honestly, from what I have read, most of the people selling policies like this don’t even understand it as it is a complex product.🙄
+
+Originally the advisor told me I could contribute $40k for 5 years and then “he would reduce the benefit..?” so I didn’t have to put any more in, and the original 5 year investment would be enough to carry out the cost of the policy and give me X amount of money per year for the rest of my life after twenty years or something like that.
+
+At this point I’m just trying to get some clarity on what I got myself into. How big of a scam is this? And what are my options to exit. Should I take the loss now? Year 5 surrender value is showing $50k on $200k invested. Can I count that $150k difference as a loss on my taxes?
+
+My main worry with this product is I have seen people say the cost of insurance in this policy can rise and eventually eat away any value I contributed to it..?
+
+I also wanted to post this to help other young investors who get into these situations. Honestly, I think you are better off putting your money in an index fund and using that as an “insurance” policy if your loved ones ever need cash. 
+
+There will be some people who sell insurance that comment on this and say otherwise.. but the people who sell these policies are usually sharks and tug at your heart strings by saying “don’t you care about your family?” Feeling frustrated I got played but maybe someone else can learn from this.
+
+Learn from my mistakes! And hopefully someone older and wiser can help a young guy out._END_OF_POST_PYSTOCK_ Crowdstrike Investment Idea Not financial advice.
+
+Someone please tell me why investing in Crowdstrike (CRWD) for the long term is not a good idea.
+
+Macroeconomic support - operating in an industry that isn’t cyclical or heavily impacted by political cycles.
+Need for cyber security will be ongoing and increasing.
+It has grown revenues by about 17%/quarter over the last 10 quarters. Quarters, yes...not years but Quarters (Insane)!
+
+I think the company can get to $1T by end of the decade (maybe sooner), which would be 20x from where it is now.
+
+Competition is high but the space is big enough for more than one fish.
+
+Am I missing something obvious?
+Thoughts?_END_OF_POST_PYSTOCK_ SUMO eats the market (DD) Having seen a couple of posts about Sumo Logic it seems nobody really has an understanding about what they do so I thought I’d help break things down for the common layman. There has been enough commentary about the conservative multiple so I will instead try to discuss the market dynamics and technology shifts. I hope this helps bring awareness to this segment of the market and look forward to a discussion around these points.
+
+**Disclosure: I work in enterprise software and am long 10,100 shares @ $22 (**[screenshot](https://imgur.com/jqbb94X)**)**
+
+**TLDR: In a future where an infinite amount of machine data is being generated, only Sumo has the architecture that makes sense.**
+
+# Overview of the logging market
+
+Let’s begin by understanding what logs are. All digital machines generate data, everything from status updates from a server, traffic levels on the network, battery levels of your phone, and even temperature readings from your HVAC system. The amount of machine data generated will continue to grow exponentially, particularly as more and more IoT devices come online (smartwatches, cars, fridges, etc.).
+
+All of these logs need a central repository to be stored, upon which analysis can be performed. Historically logs have mostly been from on-prem systems like firewalls, routers, databases, etc. however as more and more systems migrate to the cloud, these new cloud environments are generating logs as well.
+
+These logs are important to the IT organisation of any company, to be able to track and answer questions such as:
+
+* How are traffic levels trending on my website?
+* Is my AWS instance still alive? How is the application performing?
+* Are my Windows machines patched and up to date?
+* Is there any unusual activity on my network?
+
+This culminates into a single pane of glass, where companies can monitor the health and status of all their systems in one place. In addition to that, large companies are mandated to store logs for:
+
+* **Compliance:** Companies need to store immutable logs for a certain period of time as a form of record keeping.
+* **Security:** Logs are reviewed during threat forensics after a cybersecurity breach. The security team needs to inspect their firewall/access logs to identify how and when they got breached. ie. who accessed this file and when?
+
+As a result, we can expect the logging market to continue to exist over the long term. The only question is, **who is best positioned to meet this need for the future?**
+
+# The current players
+
+While there are many nuances and buzzwords around SIEM, observability, APM, IoT, etc. I will keep things simple and talk only about a relatively established and mature market – logging. It is a crowded market with a lot of players including LogRhythm, Loggly, Logz.io, Rapid7, IBM, Exabeam, etc. I will look specifically at the companies built for serving the Fortune 500, as this enterprise segment is where the greatest share of wallet is. Datadog deserves a mention, however their core competency is APM. Their log solution was through a startup acquisition and has a pretty negligible run-rate so we’ll ignore them in this discussion.
+
+|Company|Founded|Type|Multitenant|Market Cap (as of 02/21)|
+|:-|:-|:-|:-|:-|
+|ArcSight|2000|On-prem (1st gen)|No|Acquired|
+|Splunk|2004|On-prem (2nd gen)|No|28B|
+|Elastic|2012|Open Source|No|15B|
+|Sumo Logic|2010|Cloud SaaS (1st gen)|Yes|4B|
+
+The original pioneer of the logging market is ArcSight, who were then acquired by HP and subsequently spun off to Microfocus. They are now dying a slow death, while Splunk is the current de-facto solution for most companies.
+
+A CIO today has 2 main choices when wanting to implement a logging solution, they can either Buy or Build.
+
+1. **Buy:** Pay Splunk to help deploy in your datacentre. And then pay them professional service fees every year to help maintain and manage the software. And pay them based on the amount of data you send to them.
+2. **Build:** Get a bunch of your developers to build a solution inhouse using an open source Elastic stack (ELK). They then have to actively manage the system themselves to keep it alive and manually scale it up and down accordingly.
+
+# Architecture matters
+
+**The shift from on-prem to cloud**
+
+A lot of the latest high-flying SaaS companies haven’t really been that innovative. They are solving the same age-old problems, except doing it in the cloud instead. A few examples are shown below. In fact, a lot of these are done by the exact same people. Crowdstrike was founded by ex-McAfee guys, Zoom was founded by ex-Webex, and so on. No different with Sumo, which was founded by ex-ArcSight guys. The reason for this phenomenon is because these people understand their industry inside out and have experienced the challenges first-hand. They see where things are headed and want to do things a better way. Another common trend amongst all of these new hot stocks is that they were founded AFTER the inception of the cloud (AWS began in 2006).
+
+The shift is both a technological one (on-prem -> cloud) as well as a business model shift (license -> SaaS). Sumo is in a similar position to capture this technology lifecycle shift, as workloads shift from on-prem to cloud. Naturally, logging and analysis should also occur in the cloud. This kind of scale is what the cloud was made for.
+
+|Incumbent|Cloud SaaS|Market|
+|:-|:-|:-|
+|McAfee|Crowdstrike|Endpoint security|
+|Siebel|Salesforce|CRM|
+|Oracle|Workday|ERP|
+|Webex|Zoom|Video conferencing|
+|Remedy|ServiceNow|ITSM|
+
+While Splunk no doubt has a more mature product that can serve a broader range of edge cases, Sumo has managed to demonstrate product maturity by gaining a client like Macquarie Bank, a bank in Australia (case study available on YouTube). Anyone who works in enterprise software sales knows that cracking the FSI vertical is the holy grail, as they are super conservative, with lots of red tape and requirements. It’s one thing to convince a forward-thinking cloud native company (like JFrog or PagerDuty) to use your software, it’s another thing to convince a bank to send their sacred data to a third-party cloud.
+
+**A structural advantage: Multitenancy and Elasticity**
+
+Given the volume heavy nature of this type of business, architecture really matters particularly as the amount of data grows exponentially. The advantage with multitenancy ultimately manifests itself either in the form of better gross margins, or reduced costs to customers.
+
+We know that this is where the market is heading, not just because every other SaaS vendor is multitenant, but also because Splunk is throwing big dollars in trying to reposition for the cloud. Splunk doubled their R&D budget, spending over $600m in R&D alone last year, which is probably more than Sumo has spent in its entire lifetime. They are desperately trying to catch up, but multitenancy is not a feature you can add overnight, as it involves rearchitecting your entire product. It is especially hard when you already thousands of customers using your platform, it gets even harder once you’ve bolted on a few acquisitions over the years. It is akin to trying to convert a regular combustion car into an electric car, while someone is driving it.
+
+It took a long time for Splunk just to achieve the basic separation of storage and compute, a milestone they achieved last year. This is what happens when you’re trying to refactor code written in 2004, and throwing 10x more money doesn’t necessarily accelerate things by 10x. Frank Slootman (Snowflake CEO) had a fairly eloquent way of describing this:
+
+>You can put 1000 mothers on the task of creating a baby, but it’ll still take 9 months.
+
+Splunk Cloud in its current form is simply a hosted solution, meaning that instead of hosting the software yourself in your data centre, you’re paying Splunk (who pays AWS) to host it. This is very different from a true cloud native SaaS solution (which is what Sumo is).
+
+# Asymmetric risk and incredible upside
+
+**Massive TAM**
+
+Sumo is backed by the crème de la crème of VCs: Accel, DFJ Growth, Greylock, IVP, Sequoia, Sutter Hill Ventures, Battery Ventures. Usually you see 1 or 2 of these names in any winning company, you almost never see all of them together. And even if you did, you definitely wouldn’t be able to get it at prices close to theirs. These people spend all day thinking about the future, TAM and competitive dynamics. And they allowed Sumo to make a big long term bet and spend 10 years developing the next generation platform. By putting their money where their mouth is, these people have validated the market and investment opportunity for you, and you’re able to participate in the upside at a price not too distant from theirs.
+
+The last VC pricing round in May 2019 for Sumo was at $12 (\~3x). For comparison, Snowflake’s last VC price in February 2020 itself was $39, and they are now trading around $300 (\~8x). Typically, the majority of the gains are captured by the VCs pre-IPO, but in this case there is still plenty of room for retail investors to participate in the upside. Sumo is also barely scratching the surface with market penetration. Only 15% of their revenue is coming from outside the US, there is so much room for international expansion. Mature software companies usually see around 50% of their revenue from international sources.
+
+**Multiple Expansion**
+
+Prior to COVID, Sumo had a pretty solid and consistent growth rate. It doesn’t seem unreasonable to expect it could revert to the mean and get back closer to 50% once the macroeconomic outlook improves. There are many notable growth companies that have missed a couple of quarters, I remember when ZScaler had a quarter with 18% billings growth and the stock tanked, presenting an incredible buying opportunity for those who believed in the long-term vision and market opportunity, rather than quarter to quarter execution. Similarly in 2010, people back then were debating whether Apple’s stock was overpriced, based on whether they were going to sell 8m or 10m phones that quarter, which in hindsight seems a little silly and didn’t really matter.
+
+**Sumo Revenue Growth Rates:**
+
+* FY2019: 53%
+* FY2020: 50%
+* FY2021E: 30% (COVID)
+* FY2022 and beyond: ???
+
+If Sumo can get back closer to 50% growth rates, the stock could see significant multiple expansion. For perspective, other SaaS companies at 50% growth rates are currently trading closer to a 40x multiple, which would put Sumo closer to a valuation in the 12B range (roughly $120 share price). In addition, the risk reward here is asymmetric, given they are already priced in for a low growth rate. Meaning that if they do deliver a low growth rate, nothing much will happen and the downside is limited. Whereas if they manage to execute, deliver positive surprise during earnings and become the cloud leader for logs, the upside is incredible.
+
+In the current rate environment and frothiness within software stocks, it is not unreasonable to expect that their market cap could easily go from 4B -> 40B within 3 years. What we have is a company that was good enough to go public during a pandemic, but was conservatively priced due to the short-term execution issues. While Sumo has had weak execution over the past 12 months, they are well positioned for the future due to the architecture they’ve spent 10 years building. In investing you want to spend more time thinking about what the future could bring, rather than what happened the past 2 quarters.
+
+# So why has the stock been floundering?
+
+This is what I have been asking myself ever since the flopped IPO. In addition to the growth deceleration causing multiple compression, I think the real challenge Sumo has faced is that they may have been too early to the market. It wouldn’t be the first time that VCs were too forward thinking, the reality is that these large companies are relatively slow moving and trends take a long time to play out. Even across the broader cloud story, we are still in the very early innings.
+
+More specifically, Sumo has been struggling with:
+
+* Inability to acquire net new customers
+* Competing against vendors with much larger scale
+* A less than articulate CEO. Granted he came from a product background as opposed to a sales background, so we’ll cut him some slack. I originally thought he seemed a little burnt out but having watched his older videos, that’s just the way he is.
+
+As they say, you want to be either the number 1 or 2 in any market. Sumo is not that (but has the potential to be).
+
+# The bottom line
+
+**Splunk is slipping**
+
+When your marketing team is busy pushing t-shirts, that’s how you know you’ve hit rock bottom and really have nothing good to talk about. It is also evident that Splunk has become a bureaucratic political beast. Their cloud team has had a different leader every 2-3 years. With those kinds of dynamics, it is very difficult to execute on a long-term vision and see the development through. Execs get paid on short term quarterly performance, and nobody wants to risk cannibalising their cash cow. There has also recently been a massive exodus within their sales team, which began with their CRO leaving, and this is usually a leading indicator that the party is over.
+
+**Elastic is a wildcard**
+
+The wildcard here is Elastic, as they have demonstrated product market fit and strong momentum within the developer community. They have been taking share from Splunk and may end up becoming the provider of choice, instead of Sumo. However if you zoom out, the idea of every company building and managing their own log solution just seems silly. This simply isn’t the way software was meant to be built, particularly since logging a common requirement across companies, and the devices generating these logs are also the same.
+
+**A better way to do things**
+
+My view is that any software that requires the buyer to maintain it, is garbage software. This is the case with Splunk and ArcSight where customers have to pay professional service fees every year for consultants to tweak and maintain it. And it’s the same case with Elastic which requires you to provision a team of people on keeping the system alive. With Sumo it’s pretty straight forward, you install connectors which route the logs into Sumo. From there Sumo processes the data and generates dashboards, etc.
+
+**Watch out for Q4 earnings in March**
+
+The most important thing obviously is that Sumo can actually deliver on the vision. A few important things are happening next month when they announce earnings, here are some things to watch:
+
+* Q4 growth performance – is the chart moving up and to the right?
+* FY2022 guidance – how healthy is their pipeline looking?
+* Lockup comes off – are VCs dumping the stock?
+
+Sumo needs to demonstrate a reacceleration in growth, and to signal confidence in the future. If they can guide >30% growth for FY2022, then a 10 bagger within 3 years is in sight. Any less than that and it deserves to trade like a donkey. Trade it if you want to bet on positive surprise next quarter, hold it if you believe in the long-term vision.
+
+**Final thoughts**
+
+I think that companies are going to move from Splunk -> Sumo when they get sick of getting ripped off, and as more of their workloads shift to the cloud. I think that companies are going to move from Elastic -> Sumo, when they get sick of needing to manage a solution, or when it gets too complex. I think that at the end of the day all markets experience margin compression and get commoditised, and that Sumo has a cost advantage due to their architecture. Only a true cloud native, multi-tenant SaaS platform makes sense for a world generating an infinite amount of data.
+
+**The One True King: SUMO**
+
+Edit: Here is a screenshot of my position [https://imgur.com/jqbb94X](https://imgur.com/jqbb94X)_END_OF_POST_PYSTOCK_ Hyundai now says it’s not in talks with Apple to develop autonomous electric car https://www.marketwatch.com/story/hyundai-now-says-its-not-in-talks-with-apple-to-develop-autonomous-electric-car-11612747205?mod=home-page
+
+Hyundai Motor Co. said Sunday that, contrary to multiple reports, it is not in discussions with Apple Inc. to develop an autonomous electric car.
+
+In a regulatory filing, the South Korean auto maker said it wanted to clarify “rumors” about a joint effort with Kia Motors Corp. to work with Apple AAPL , and said it has received “requests for cooperation” from a number of companies seeking to develop self-driving electric vehicles.
+
+“We are not conducting consultations with Apple on the development of autonomous vehicles,” Hyundai said in the filing, according to a translation.
+
+Hyundai said its various talks about an autonomous electric vehicle were in the early stages and nothing has been decided yet._END_OF_POST_PYSTOCK_ Crude oil prices at highest level since pre-pandemic, BP in my opinion is the most oversold and undervalued play. Full disclosure, I already entered my position last Friday mornings dip after researching charts for my next swing trading move the night before.
+
+I noticed BP's 3 month chart was at its previously tested resistance levels, and dug a little deeper noticing rocketing crude oil prices and found that bp just reported their first loss in earnings in a decade.
+
+Hardly surprising.
+
+I looked at Royal Dutch Shell and Exxon too and out of the 3 companies BP looked to me to be the most undervalued and thats why I'm in. Wouldn't be at all surprised to see this one up 10% by the end of the week and >50% by the beginning of summer. BP have a large dividend coming mid-feb too.
+
+Exxon and Shell rallied last Friday while BP lost a further 1%. BP is out of favour with Oil company investors for their green energy commitments which in my opinion just makes them even more of a bargain right now for the short to mid-term trader. Demand for oil will soon be back and I can't see crude oil prices slowing down just yet.
+
+Would be interested to hear anyones thoughts._END_OF_POST_PYSTOCK_ Newsletter DD on Tractor Supply Co (TSCO) I found this newsletter's value case for TSCO interesting: [https://valuestockgeek.substack.com/p/tractor-supply-tsco](https://valuestockgeek.substack.com/p/tractor-supply-tsco) 
+
+ 
+
+>**Can the stock deliver a 10% CAGR over the next decade?**  
+>  
+>While  the stock can potentially deliver a 10%+ return, that requires that it  maintains its current growth rate and the multiple can’t compress. Those  are assumptions that I am not comfortable making.  
+>  
+>**Fail.**  
+>  
+>**Has the business delivered consistent results over a long period of time?**  
+>  
+>TSCO  has consistently been able to grow revenues, earnings, and cash flows  over the last 20 years. It has also been able to maintain strong gross  margins and returns on capital over a long period of time. The company  has a strong long-term track record.  
+>  
+>**Pass.**  
+>  
+>**Does return on equity consistently exceed 10% without the use of heavy leverage?**  
+>  
+>The  average return on equity has been 29% over the last 10 years. This is  aided by leverage, but it is primarily driven by the pricing power of  the business. ROIC has averaged 29% over the last 10 years, as well.  
+>  
+>**Pass.**  
+>  
+>**Is management sketchy?**  
+>  
+>Management  is transparent and honest. The CEO, Hal Lawton, is an excellent choice  with a strong track record at eBay, Home Depot, and Macy’s. Management  has been consistently honest and transparent. Management’s track record  of strong growth and high returns on capital also shows that they are  competent. They pass my easy hurdle of “not being sketchy” and go far  beyond that. They strike me as excellent managers of the company and  stewards of shareholder interests.  
+>  
+>**Pass.**  
+>  
+>**Is the company financially healthy?**  
+>  
+>Debt/equity  is high, but the company is still in a position of strong financial  strength. The Altman Z-Score is 5.2 and the interest coverage is 35.  
+>  
+>**Pass.**  
+>  
+>**Has the company consistently generated returns for shareholders? Is the industry in secular decline?**  
+>  
+>Tractor  Supply has generated excellent returns for shareholders. It has  delivered a 27% CAGR since 2000. This is not a “buggy whip” company that  is in secular decline. They have a strong relationship with their  customers & a geographic/cultural niche. I don’t think this is  easily disrupted by a competitor or technological change.  
+>  
+>**Pass.**  
+>  
+>**Has the company survived previous recessions?**  
+>  
+>The  company remained profitable through the GFC. Operating profit declined  for one year (2008) when it declined from $160 million to $136 million.  It didn’t report a loss and weathered this storm well. By 2009, the  company posted a then-record $192 million in operating profit. They have  not posted an annual EPS loss in the last 20 years.  
+>  
+>**Pass.**  
+>  
+>**Does the company have a moat?**  
+>  
+>Tractor  Supply has a moat. The moat is derived from its niche. It builds its  stores close to its rural customers and supplies them with niche  products. This gives them an edge with these customers over more  generalized retailers like Home Depot, Lowe’s, or Petsmart. It seems  unlikely to me that a competitor will invade TSCO’s turf and try to  disrupt it.  
+>  
+>**Pass.**  
+>  
+>**Is the stock cheap on an absolute and relative basis?**  
+>  
+>From  a free cash yield and shareholder yield basis, the company is fairly  valued. Most of its multiples are in the higher range of the stock’s  history. The price isn’t absurd, and it seems reasonable if one expects  the high rate of growth to continue into the future. However, I don’t  like to count on a 20% EPS growth rate to continue. I would not describe  this as “cheap,” or a wonderful price. I would rather remain patient  for the company to trade at a more attractive price.  
+>  
+>**Fail**.  
+>  
+>**If I was forced to hold the stock for 10 years, would I be comfortable?**  
+>  
+>I  would not be terrified to hold the stock for 10 years. They have a  strong moat and I think they are unlikely to be disrupted. However, I  think that multiple compression is likely from these levels and the  stock could suffer a significant drawdown if the economy entered a  difficult period. Based on the valuation, I wouldn’t be comfortable  holding this 10 years without the ability to sell.  
+>  
+>**Fail.**  
+>  
+>**Conclusion:  I am passing on this stock for valuation alone. It doesn’t strike me as  a wonderful price. However, it’s on my crash wishlist of wonderful  companies if Mr. Market ever decides to offer it up at a bargain price.  It trades in a reasonable enough area right now where I think it would  become extremely attractive if the larger market took a dive.**
+
+&#x200B;
+
+tl;dr solid company but as it's at ATHs the author would pass on it - but buy it if it ever drips, making this a long term play._END_OF_POST_PYSTOCK_ Float vs Outstanding shares. The start of learning DD. Am I reading this correctly, that the float is 58m and outstanding shares is 82m meaning that there is more sold or in contracts than exist?
+
+https://ibb.co/2WdbVFT
+
+I'm just starting DD for this company and don't want to make a mistake. It's not one of the latest fad stocks on the hype train in other groups. 
+
+A quick search shows a small bounce back in price but overall very much down from last year for obvious reasons. 
+
+Two statements from 'Motley Fool'
+"The failure of so many retailers appears to have boosted others in the sector, perhaps because investors think they can shine in a less crowded market"
+But... 
+"share price is now 85% lower than its early 2018 high, with a £237m market cap. With so much negativity stacking up against retailers, I don’t feel too confident about its future."
+
+
+
+Thank you for your time._END_OF_POST_PYSTOCK_

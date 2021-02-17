@@ -1,0 +1,1549 @@
+ Investment DD: Payoneer (FTOC)  I updated the post below to reflect the current valuation and provide a context for evaluating FinTech companies.
+
+\*\*\*\*\*\*\*\*\*
+
+The majority of my DD was based on the company’s IR presentation ([link](https://www.payoneer.com/investors/)). IMHO the key for the company is to explain the customer ROI at the unit level and why investments now make sense from a CLTV sense. The company also needs to address flattish margins on 25% revenue growth and negative EBITDA after 15 years of operations. That said, this looks like a great LT hold if they don't get taken out first. The acquisition is expected to close within the first half of 2021.
+
+**Payoneer (FTOC)**
+
+**Summary:** Payoneer is Paypal for B2B global commerce, particularly outside North American and Europe. Payoneer offers investors exposure to mobile and digital commerce, particularly cross-border transactions, at an attractive entry point. What makes the investment compelling is that Payoneer has been around for 15 years, which removes a fair amount of execution risk related to growth, i.e., the team know what they're doing. The company is also investing in providing additional services for its customer base which should contribute to growth and strengthen its competitive position.
+
+**Company:** Payoneer, acquired by FTOC (SPAC), provides B2B services for millions of SMB and enterprises. In 2020, the company recognized $345mn of revenue (31% Y/Y growth adjusted for the pandemic) on $44bn of transactions. The company was founded 15 years ago and operates in over 190 countries (basically the whole world).
+
+**Customers:** Enterprises and SMB. The ideal customer is a small but growing SMB doing business all over the world which needs currency, compliance and business services. Payoneer is an obvious candidate to handles these needs given its global network.
+
+**Industry and market opportunity:** B2B global marketplace. The attractiveness of FinTech can be summarized in a few words, namely, “scale” and “network effects”. From the metrics Payoneer shared, it looks like they’re benefitting from these dynamics. Analysts estimate the global B2B market at over a trillion $ and cross-border payments at $300mn. Obviously, the pandemic only accelerated these trends.
+
+**Management team:** Betsy Cohen led FTOC and has extensive expensive in the FinTech space, including leading previous SPACs and founding Bancorp Bank. Scott Galit has experience at Mastercard and First Data.
+
+**Business model:** Volume and customer growth drives revenues. Volumes grew over 53% in 2020 (67% adjusted for the pandemic) and is expected to grow at 38% in 2021 and 2022, which translates into 25% annual revenue growth for the next two years. The key here is that these growth rates are higher than the overall market so Payoneer appears to be taking share but again more DD is needed.
+
+While the transaction margins have been growing, the company forecasted margins to remain flat at 72% for the next two years. I believe this forecast is due to a change in the blended take rate but unfortunately the company really didn’t elaborate here. I would have expected the revenue growth to drive some incremental margin expansion but I’m clearly missing a piece of the story. This may be an issue for investors. That said, the CFO offered long-terms targets of +20% revenue growth and +20% EBITDA margins. I was also surprised the company wasn't EBITDA positive given how long it's been around but I need to see how much of the costs were investment or subscriber acquisition related.
+
+**Valuation:** FinTech companies such as PayPal, Square, and Payoneer are valued on subscriber growth, which includes subscriber acquisition costs. The key metric which the analysts will judge the company on is customer lifetime value (CLTV), which is an NPV of the total cash flows from each customer over his/her lifetime. (Analysts apply a similar approach to wireless companies and data center REITs where each new subscriber or data center build is viewed on a payback and NPV basis. Investors took a somewhat similar approach to Amazon in its early years if slightly less precise.) Counterintuitively, once the company reaches a certain scale and growth slows, the margins and FCF will improve but the analysts will become concerned that growth is moderating even though the financials are improving. (That's when the smart money will bail.) Again, CLTV is the name of the game and is the primary way to evaluate companies such as Payoneer. There's a reason why the company included different cohort growth rates and mentioned a less than 12-month customer payback in the presentation. These are the metrics that matter.
+
+Based on FTOC's current share price of $13.50, Payoneer is currently trading at roughly $6bn, which assumes 430mn total shares outstanding.\* (This is a SWAG as management did not include a pro forma cap table with shares. I guess $91mn in bankers' fees only buy so much.) This valuation implies an enterprise value (EV) to revenue multiple on 2021 revenue in the mid-teens, which is much closer to global payment processors such as First Data than digital payment and ecommerce companies such as PayPal, Square, and Shopify. FTOC shareholders will own 19.2% at closing. Finally, there is a management earn-out of 30 million shares at the $15 and $17 mark.
+
+* The initial transaction assumed an enterprise value (EV) of $3.3 billion, which equates to 7.6x EV to 2021 revenue. Just to clarify, FTOC was negotiating a CASH investment, i.e., the $750mn raised at IPO and held in trust, not an acquisition with its shares as currency. FTOC's pro forma ownership of 19.2% for a $750mn equity investment roughly equates to the pro forma market cap of $3.8bn mentioned in the presentation. Yes, there is some dilution from the sponsor's shares and the 30m share earn-out but I would argue that FTOC got a fair price for its investment as evidenced by the fact that FTOC shares are trading 30% above NAV.
+
+**Investment Thesis**
+
+**1.** **Majority of traffic stays within the network.** In my opinion, this is the key company metric because it reflects how valuable the network is to its customers. This metric continues to increase for Payoneer.
+
+**2.** **Exposure to digital commerce and mobility trends.** As everyone realizes, this is a big and growing market which the pandemic accelerated.
+
+3. **Global network provides network effects and is difficult to replicate.** The benefits of network effects cannot be overstated as Paypal has proven. As a company acquires more customers, the value of its network increases. Payoneer’s business model leverages this same dynamic. Moreover, its network would be very difficult to replicate. The company’s global platform includes over 80 banks and clearing partners in over 100 countries. The company also provides customers data about its transactions, which I believe will be increasingly useful and sticky.
+
+4. **Playing the long game.** The company’s focus on investing for future services is actually what gets me most excited as it may ward off near-term investor interest and improves its competitive position. It’s also a sign of a mature management team. The opportunity to provide additional services such as working capital, compliance and tax services seems like an obvious strategic move to drive growth. Expect M&A to figure into the company’s strategic plans as well.
+
+**5.** **Attractive valuation:** Payoneer’s valuation is much closer to global payment processors than digital payment and ecommerce companies. The negative EBITDA, flattish transactional margins, and "adjusted" revenue are certainly issues and need to be addressed. However, as noted above, Payoneer needs to be viewed in the correct context to value it appropriately. While the company doesn't merit PayPal's multiple given it doesn't have its growth or scale (yet), the company is certainly benefitting from scale/ network effects and deserves a multiple which reflects this. I expect the valuation multiple to rise (or "expand" in WS parlance) as the business becomes better understood within the investment community and the company posts a few solid quarters of earnings results. I feel like this is more "a when rather than if" issue. Thus, the current valuation represents an attractive entry point for current investors.
+
+**Risks:**
+
+1. **Competition:** Paypal is a giant and only getting stronger as 4Q results testifies. The company has leveraged network scale effects to achieve a market cap rivaling Mastercard. Skrill is also well known in this space. Mastercard and Visa certainly play in cross border transactions but I don’t think they provide the level of services Payoneer does. Definitely need to do more DD here.
+2. **Customer risk:** Related to the previous point, if Payoneer loses a large customer like AMZN, the stock will take a hit (cf AMEX walking away from CostCo).
+3. **Regulatory:** Payoneer needs to navigate every country’s regulatory environment. The company has certainly done a good job but as the FAANGS can testify, the larger you get, the bigger target you become, e.g., Europe is trying to displace MA and V.
+4. **Crypto currency:** At this point, everyone in FinTech better have a crypto currency even its just to allowing transactions in BTC. Crypto currency was made for seamless cross-border currency transactions.
+5. **FX exposure:** I’m sure the company has a world class FX hedging team but I feel like this needs to be flagged given the scale of the business. Investors could unintentionally have FX exposure.
+
+**TLDR:** Payoneer is a proven company in a great space with a solid management team that is playing the long-game. IMHO, it is shaping up to be a very attractive investment for LT investors at the current valuation with the caveat that more DD is needed around competition and the financial model. I also would not be surprised if PayPal took them out given their puny $4bn market cap vs. PayPal $300bn. It would be a very nice complement to PayPal's existing business. Regardless, my advice is to load up.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+I am not a financial advisor.
+
+Positions: 1,000 FTOC shares and 10 February /December CC @ 12.50/17.50_END_OF_POST_PYSTOCK_ What causes this weirdness on the order books. Webull L2.  
+
+Hi all-
+
+I've been watching this stock very closely today and I'm curious about these orders that have been popping up all day. I'm using WeBull Desktop with L2.
+
+[https://imgur.com/gallery/9JS7VqW](https://imgur.com/gallery/9JS7VqW)
+
+Other stock tickers are not doing this, only the one on the photo.  I've also seen a few times where the buy column is almost completely empty and there were 5 and 10 dollar buys at the bottom.
+
+On the ask side, I've seen numbers from 100-65000 at the bottom. What would cause this? I'm new to trading._END_OF_POST_PYSTOCK_ Lucria Health inc. At home covid testing IPO dropping 2/5/2021 IPO dropping tomorrow 
+November 17, 2020
+Lucira COVID-19 All-In-One Test Kit Lucira Health, Inc.
+Intended to detect the novel coronavirus SARS-CoV-2 that causes COVID-19. This test is for prescription home use with self- collected nasal swab specimens in individuals aged 14 and older who are suspected of COVID-19 by their healthcare provider.
+This test is also authorized for use at the point of care (POC), in patient care settings operating under a CLIA Certificate of Waiver, Certificate of Compliance, or Certificate of Accreditation, with self-collected nasal swab specimens in individuals aged 14 and older, and in individuals aged 13 and under when the specimen is collected by a healthcare provider at the POC.
+This test utilizes a molecular amplification technology for the detection of SARS-CoV-2 RNA in individuals with known or suspected COVID-19.
+
+What is everyone’s opinion on this particular IPO that’s about to drop?? 
+One trick pony or a long term investment?_END_OF_POST_PYSTOCK_ Sabre $SABR is poised for a breakout Sabre is a leading technology solutions provider to the global travel industry. It trades on NASDAQ under the ticker $SABR and currently has a share price of $12.73 with a market cap of $4.04 billion. Sabre holds the number-two share of global distribution system air bookings (38.8% as of the end of 2019 versus 37.1% in 2018). The global distribution system segment represented 73% of total 2019 revenue. The company also has a growing IT solutions division (27% of revenue) that focuses on the airline, hospitality, and travel agent end markets. Transaction fees, which are tied to volume and not price, account for the bulk of revenue and profits. Beyond just being a good short squeeze opportunity, I think this company has potential to be a great long-term hold given its trading at ~45% bellow COVID-19 highs.
+
+
+Thesis 1) Potential Short Squeeze Opportunity:
+
+Keeping with our current theme, the biggest catalyst Sabre has is the fact that it currently has a 19.45% short interest. It has 274,710,000 shares outstanding with 61,700,000 shares being shorted. Due to its moderate volume, the short interest ratio / days to cover is 7 days making it a prime candidate for a short squeeze. Given some positive catalysts such as their recently announced Google Partnership as well as the fast vaccination rollout in the U.S., I think now is an excellent time to start buying the stock.
+
+
+Thesis 2) Newly Forged Google Partnership:
+
+On January 21, Google Cloud announced it has joined forces with Sabre Corporation to help digitally transform the traveler’s experience and co-create the future of travel. The 10-year-strategic partnership between Google and Sabre will enable the travel provider to improve operational agility while developing new services and creating a new marketplace for its airline, hospitality and travel agency customers. I think this a great initiative from management and the company, and it will reap the benefits from this partnership. 
+
+• Improving Sabre’s technology capability: Sabre will begin the process of migrating its IT infrastructure to Google Cloud’s highly available and secure services. The partnership provides Sabre advanced support and greater flexibility to meet its technology objectives. 
+
+• Using Google Cloud tools to enhance and optimize travel: Google Cloud’s data analytics tools will enable Sabre to enhance the capabilities of current and future products. They will provide Sabre with insights to help them improve operational efficiency and create and optimize travel options, improving both loyalty and revenues for its customers. 
+
+• Driving a broader innovation framework: The two companies have aligned upon a framework that leverages talent and assets of both companies to imagine, develop and deploy future capabilities that will advance the travel ecosystem, benefiting all market participants.
+
+
+Thesis 3) Vaccination Roll-Out:
+
+Finally, travel should recover to pre-COVID levels once vaccines are rolled-out. Luckily for America, it has been doing a pretty good job at it. In the U.S., more Americans have now received at least one dose than have tested positive for the virus since the pandemic began. So far, 35 million doses have been given, according to a state-by-state tally. In the last week, an average of 1.34 million doses per day were administered. In the U.S., the latest vaccination rate is 1,335,310 doses per day, on average. At this rate, it will take 11 months to cover 75% of the population with a two-dose vaccine. All in all, before the year is out we should see a meaningful progress towards achieving full immunity which means we can go back to travelling! This increase in travel will obviously benefit Sabre as well as the broader airline and travel adjacent industries.
+
+
+In conclusion, I think now is a great opportunity to pick up some Sabre shares which is a fundamentally strong business that is trading at a steep discount (deep value anyone?). It has several favorable catalysts that will help share prices in the short term while also being a great long-term holding due the fundamental strength of the business. I’m long
+
+
+Disclaimer: I am not a financial advisor, and this is not financial advice. Do you own due diligence._END_OF_POST_PYSTOCK_ GME and meme stock an expensive lesson to learn. I started trading stocks last year when corona happened just like other people did. I'm a university student who got laid off due to the pandemic and have yet to find a job since. When meme stocks blew up (BB, AMC, NOK, and GME or BANG) I jumped on the bandwagon thinking it's a fast way to make gains overnight instead of waiting for a company to grow organically. I spent 80% of what I have to my name and bought out shares of BANG, unfortunately, I have now lost 75% of my initial investment. Really expensive lesson but now I've learned and will grow from this and come back stronger. Luckily, I made a deal with my mom when I started university so I don't have any bills to pay other than phone bill, gym membership, netflix, spotify etc. Just the basic stuff so I can still live off of what I left myself with for at least a few months. I'm also in the last semester for a Computer Information System degree so I'm hoping that I can get a job and get back what I lost. I will be holding my meme stocks until I die as a reminder of my very expensive mistake. If they go up great, if not it's no big deal as I have come to finally accept that I lost. Just something I wanna get out of my chest to be at peace with myself.  
+  
+edit: Really thankful that you guys are really supportive. For everyone on this thread who also said they lost money on GME hopefully we all bounce back from this stronger than ever._END_OF_POST_PYSTOCK_ Portfolio Margin Borrowing for LP Private Equity Capital Calls (Interactive Brokers) Hi all, 
+
+I'm a first-time Limited Partner in a private equity fund. Given IB's attractive borrowing rates, I'm planning on using my portfolio account borrowing on margin to help cover the periodical, and time-sensitive, cash required for the lumpy capital calls the fund will solicit over the next 3-5 years. I'll be holding my IB money in ETS/broad markets, not necessarily single stocks, for risk reduction. 
+
+I've been telling myself that this feels like a fairly low risk strategy. Especially given the periodic distributions/capital returns over the course of the funds life as portfolio companies begin to see their exits. This provides the ability to reduce margin pressure, sort of acting as a revolving line of credit. 
+
+In theory, it feels solid. But tell me if I'm crazy, or if there is anything that I'm not thinking through. 
+
+Thanks guys. Much appreciated._END_OF_POST_PYSTOCK_ $HNS - Handshake Protocol DD (crypto) **$HNS - Handshake Protocol**
+
+**Introduction**
+
+This is one of my favorite crypto projects. I believe HNS will be one of the foundational pillars of the decentralized web. If you have any reservations about if the decentralized web will actually happen just look at the incidents in the past couple of months. Decentralization and censorship proof solutions are the future.
+
+**What is the Handshake Protocol?**
+
+Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone with the goal of creating an alternative to existing Certificate Authorities and naming systems. Names on the internet (top-level domains, social networking handles, etc.) ultimately rely upon centralized actors with full control over a system that is relied upon to be honest, as they are vulnerable to hacking, censorship, and corruption. Handshake aims to experiment with new ways the internet can be more secure, resilient, and socially useful with a peer-to-peer system validated by the network's participants.
+
+Handshake is essentially a **base layer for the decentralized internet**. The internet is arranged in layers, to decentralize the internet, HNS is starting at the lowest layers of the stack. Secure naming ensures user agents are talking to the right endpoints.
+
+Traditional top-level domains like .com are already one of the most valuable pieces of digital real estate available. HNS names will be the de facto way we navigate the decentralized web and give people an opportunity to actually own their own names across the web.
+
+[handshake.org](https://handshake.org/)
+
+**Institutional Investors**
+
+**Handshake** raised $10.2 million from a group of venture funds and individuals, including **a16z, Founders Fund, Polychain Capital, and Draper Associates**. These **investors** purchased the rights to 7.5% of the initial HNS supply, pricing pre-launch tokens at $0.10 and valuing the network at $136 million.
+
+Also, **Coinbase** reportedly invested in [Namebase.io](https://namebase.io/) an easy to use HNS domain registrar built on top of the protocol.
+
+**Closing Statement**
+
+Dweb will be the next evolution of crypto and unlike many projects, it will directly affect the lives of the average person. HNS will likely be one of the main pillars on which this new internet will stand. It is only a matter of time until this change happens and $HNS is thrust into the public eye. As for the future market cap of the coin I will not speculate. But if they are able to cement themselves as a foundational pillar of the defacto new internet the upside will be huge.
+
+\-GreekTycoon_END_OF_POST_PYSTOCK_ The Tinley's Beverage Corporation The Tinley’s Beverage Company
+
+CSE: TNY
+
+OTC: TNYBF
+
+The TLDR:  Tinley is a combination US & Canadian cannabis beverage play, while simultaneously attacking the zero alcohol category with the same drink minus the THC.  On top of their own brands, Tinley is securing revenue at their industry leading California bottling facility using it as a platform for other companies that want to tap into the THC beverage market.  Tinleys is an acquisition target for big alcohol or bigger THC companies looking to get into beverages.  Valued at only $50M, there is a lot of room to grow considering the exit valuations of other successful startup beverage brands, and existing THC beverage partnerships.
+
+Why Beverages?
+
+* Raw leaf is a commodity that when competition increases usually ends up with profit margins racing to the bottom.  Final products like beverages hold brand value which allow them to maintain high profit margins.  Humans consume beverages socially, and the fact that thc has a similar effect as alcohol but without the calories or hangover, it is very likely to replace a decent % of the alcohol industry, especially for people who have to go in to work the next morning.
+
+On their leadership team, Tinley has a lineup of former executives from massively successful brands. Their roster is deeper than your wife’s boyfriend’s favourite sports team.
+
+Mark Benadiba, Advisory Board
+
+* Former CEO of Cott Canada, EVP Cott USA
+
+Ted Zittel, Director & Brand Manager
+
+* Former President of Cott’s Retail Brands International
+
+Richard Gillis, President Western USA
+
+* Former Executive vice president of Coca Cola, Western USA.
+
+Jeff Maser, CEO Co-Founder
+
+* Former Cott corporation
+* Banking experience
+
+Andrew Stodart, Advisory Board
+
+* Launched Crystal Head Vodka,
+* Oversaw Dan Aykroyd Wines
+* Former International brand manager for Black Velvet Whiskey (Constellation Brands)
+
+Baron Davis, Advisory Board
+
+* Former 2x NBA all star
+* Early investor in Vitaminwater
+* [Brought in to develop branding partnerships with celebrities and sports icons.](https://thedeepdive.ca/tinley-beverages-adds-nba-all-star-and-vitaminwater-early-stage-investor-to-advisory-board/)
+
+Curt Marvis, Director
+
+* MTV Lifetime Achievement Award recipient,
+* Former President, Digital Media, Lionsgate Entertainment (NYSE:LGF.A)
+
+Douglas Fulton, Director
+
+* LA-Based, European Emmy Award-winning television executive
+* Co-Founder of LA Christine, a line of premium skincare products
+
+Ricky Talati, Head of Operations
+
+* Senior Commercialization Manager, Senior Technical Program Manager and Senior Manager, Supply Chain Integration, Pepsico Beverages
+* Led 10 startups to launch 30+ products in California.
+* Manager, Alvarez & Marsal Private Equity – implemented performance improvements for portfolio companies.
+* MBA, NYU Stern School of Business; MS, Chemical Engineering, Colombia University.
+
+Sven Stalley, General Manager
+
+* Partner, Critical Mass Group, a Los Angeles-based agency specializing on building emerging beverage brands by providing outsourced sales force management, sales execution, distribution management, beverage formulation and manufacturing
+* 10 years in digital branding
+
+**Tinley’s THC line:**
+
+They are now licensed to [bottle & sell THC beverages in California](https://www.globenewswire.com/news-release/2020/07/02/2056890/0/en/Tinley-s-Long-Beach-Facility-Receives-Cannabis-Manufacturing-License.html?fbclid=IwAR0IKVpZKV3irhZNwA9sFkSW85r9swPM2a5iPJo9VzBesRo0gnHqr6cNHa0), and have already applied to Health Canada for their license to do the same in Canada.  They also have plans to expand to Nevada in the medium term.
+
+The drinks have [great reviews](https://growthbuster.com/blogs/liftoff/we-tried-8-non-alcoholic-cocktails-for-dry-january-here-s-what-happened?utm_campaign=later-linkinbio-growthbuster&utm_content=later-13990246&utm_medium=social&utm_source=instagram&fbclid=IwAR39Fb_lgTw99jysHAlabF-vEIOX9i1_RMP_Twob7vbKdIKCKA-sBuPrZBU), and apparently taste amazing, having [already won awards](https://www.globenewswire.com/news-release/2019/12/17/1961810/0/en/Tinley-Takes-Top-Two-Infused-Beverage-Prizes-at-Emerald-Cup.html).
+
+They use a Sativa strain which supposedly gives you a more uplifting euphoric feeling, rather than a glued-to-the-couch feeling.  I haven’t tried it myself, but the reviews online all seem positive.
+
+Without speculating why, research suggests that people are moving away from alcohol over time.  On the other hand, cannabis use grows & many experts believe that THC beverages will make up a large % of the total Cannabis market share.
+
+“Molson president and CEO Mark Hunter told analysts that although it's difficult to provide a number because cannabis beverages were illegal at the time, he believed the total cannabis market in Canada to be about $7 billion to $10 billion in size, with beverages accounting for anywhere from 20% to 30% of the total, or as much as $3 billion. Even on the low end that's a $1.5 billion opportunity.”
+
+Big companies have already made bets on this, like [Constellation Brands taking a 4 Billion stake in Canopy Growth Corp](https://www.beveragedaily.com/Article/2020/05/05/Constellation-Brands-increases-stake-in-Canopy-Growth-Corp#:~:text=Constellation%20Brands%20has%20increased%20its,Canopy%20Growth%20Corp%20to%2038.6%25.) to develop THC beverages and [Molson Coors starting a joint venture with Hexo.](https://mjbizdaily.com/hexo-molson-coors-launch-truss-cannabis-beverage-portfolio/) [AB InBev & Tilray invested $100 million Joint Venture into THC beverages](https://www.fooddive.com/news/ab-inbev-and-tilray-invest-100m-to-study-cannabis-based-drinks/544836/) creating the Fluent Beverage Company.
+
+**Tinley’s non-infused non-alcoholic Beckett’s line:**
+
+Their non-infused, non-alcoholic brand “Becketts” is currently in the trial phase in Costco, BevMo, Ralphs & Kroger, which appears to be going well as they have made reorders.  Though it’s essentially the same taste as their THC beverage, they treat their Beckett’s brand as a separate entity to avoid the red tape associated with the THC line.  They are essentially attacking two growing categories at once with essentially the same drink, which also gives cross-brand awareness & additional revenue.
+
+Beckett’s has recently partnered with [Todd Chrisley](https://www.instagram.com/toddchrisley/), the patriarch of the Chrisley Family with an audience of over 2M instagram followers who has the successful reality television show “Chrisley Knows Best” that also has an audience of 2M.
+
+I don’t really have a lot to say about Becketts, as I don’t know a lot about the non-alcohol industry other than according to data it is a growing industry.  I don’t really care about it that much either, because to me Beckett’s is just a cherry on top - this beverage line is literally just duplicating their THC beverages and taking out the THC and calling it a product.  It seems like a smart move to increase their revenue without reinventing the wheel.  A lot of other Tinley investors seem to think it will be a short term catalyst for the SP as it gets carried in more and more mainstream store locations.
+
+**Co-packing deals:**
+
+Their bottling facility allows for a multitude of different styles of beverages & different concentrations of THC.  From single serve bottles, to mini-shots, to multi-serve bottles, carbonated or not carbonated, and with a variety of different flavors.
+
+They announced late last year that they already have at least 12 co-packing clients, 2 of which they have just press released, with 10 more to come in short order.  This means that investing now is a great time to take advantage of the information disparity before their blockbuster deals get announced.
+
+Copack deal1: [SIP Elixirs](https://www.globenewswire.com/news-release/2021/02/01/2167151/0/en/Nevada-s-1-Cannabis-Drink-to-be-Produced-at-Tinley-s-California-Facility.html?fbclid=IwAR3dvQvHT_1_7xVHxcOGmXxkZkJoWDe8usFEF0JfOjgGit-GVh72UtLKbr4)
+
+Copack deal2: [Cannabis Quencher’s](https://www.globenewswire.com/news-release/2021/02/03/2168951/0/en/Cannabis-Quencher-to-be-Produced-at-Tinley-s-California-Facility.html?fbclid=IwAR3-jc9K6-AkbJ4m6pZj16JME_UNq1dFJRwPnO1NphYfdPqH7_IK8Of0bJY)
+
+There’s rumors the CEO has already rejected offers to acquire the company, but the way the company is set up to allow other brands to use them like a turn-key beverage platform is screaming for some whale to come in and buy them out at a premium.  This licensing process takes years, and Tinley is among the first-movers.  For example, Molson & Hexo announced Truss Beverages in 2018, but they only received their license to produce THC beverages at their belleville facility in 2020.
+
+Currently Tinley’s has no debt, and is positioned well in the THC bev space to act on both  Canadian and US markets.  To give you an idea, [they use the same distributor as Aphria](https://www.globenewswire.com/news-release/2019/11/04/1940629/0/en/Tinley-Signs-with-Great-North-Distributors-for-Canadian-Distribution.html) for Canada and [have already received demand from the provincial cannabis boards across the country have given strong indicative interest in carrying Tinley’s products.](https://www.globenewswire.com/news-release/2019/11/04/1940629/0/en/Tinley-Signs-with-Great-North-Distributors-for-Canadian-Distribution.html)
+
+I’m currently in BALLS DEEP at $0.43/share_END_OF_POST_PYSTOCK_ Rebound Opportunity - SRPT Dipped in January due to bad luck in phase 2 trial, but is starting to climb back Someone else posted in January about a big SRPT sell off (Around 50%) after their phase 2 data was hit with some "bad luck" according to their CEO. This article lays out things -
+
+[https://www.barrons.com/articles/sarepta-stock-gains-as-ceo-explains-setback-for-gene-therapy-51610395871](https://www.barrons.com/articles/sarepta-stock-gains-as-ceo-explains-setback-for-gene-therapy-51610395871)
+
+&#x200B;
+
+The stock seems to be picking up slowly over the past 2 days or so and I could see this continuing its trend upwards. I'm just learning about stocks, so I wouldn't be able to give any advice (nor would I) but I just wanted to make people aware of this opportunity in case you liked the looks after doing your own DD._END_OF_POST_PYSTOCK_ The Case for BSM going +30% in 2-3 months (plus a quick primer on MLPs) **What is this company?**
+
+Black Stone Minerals LP (BSM) is a Master Limited Partnership (more on that below) that specializes in buying and holding oil and natural gas assets, with over 20 million acres currently in their possession. Rather than doing the drilling themselves, they lease out the assets to other companies, collecting the lease payments without having to invest capex into the actual drilling equipment.
+
+**So what is an MLP anyways?**
+
+(Hint: it's not /r/mylittlepony)
+
+A Master Limited Partnership (MLP) is a type of corporate structure that has some unique benefits and considerations. First, it is a partnership that is publicly traded, so each stock (technically a "unit") gives you a direct ownership interest in the MLP. Second, an MLP pays no corporate tax, meaning its cost of capital is lower compared to a regular corporation. Instead, all tax liabilities and cash flows are passed through directly to unitholders (aka you if you decide to buy). Because of this, there are some interesting tax considerations. The distributions you receive from the MLP are not taxed like regular dividends, despite being called that by your broker. Instead, they are applied directly to your cost basis, meaning the tax is deferred until you sell the MLP units, at which point the distributions are taxed at the regular income tax rate. The capital gains from the price of the stock going up are taxed at the regular capital gains rates.
+
+What does this mean for you as a buyer of BSM? The main thing is that it WILL complicate your tax filing. MLP gains have a special tax form, a K-1, that you will have to take into account when filing your taxes. However, with some quick research, you should be able to deal with this with no problem.
+
+More info: https://www.investopedia.com/investing/benefits-master-limited-partnerships/
+
+So why buy BSM?
+
+**Bull Case:**
+
+* *Oil/natgas demand recovering* - this is the biggest factor working in BSM's favor. Because they only own the assets, rather than actually working them, they don't have to deal with the capital costs of extracting the resources. This means that as oil/natgas prices go up, BSM will go up.
+* *Strong financials* - BSM has been doing debt reduction the past year and has good, steady cash flow. Since this is an MLP, this means more money distributed to you. Plus, 30% profit margin ain't nothing to sneeze at.
+* *Dividend* - If you're a dividends type of person, BSM pays 6.5% annually (roughly, and it varies with income because it's an MLP). However, even if you don't care, BSM's next dividend (for unitholders of record on 2/16) is up to $0.175 from $0.15 previous quarters. This is bullish.
+* *Good analyst ratings* - Yes, analysts aren't super useful most of the time, but I want to point out that BSM is currently below the mean analyst PT, and the newest PT revision to come out bumps that analyst's PT from $12 to $13.
+* *Strong trend* - BSM has been on a roar since the beginning of this year, it's been nothing but up, it's already up 42% YTD, and the momentum seems to be holding. Continuing the trend (past performance etc etc, but just as a thought exercise), BSM should hit $12.50 within 1.5-3 months, a 31% increase from today.
+
+**Risks:**
+
+* *Oil/natgas market drops* - The most obvious risk to any energy sector company, lower prices = less revenue
+* *More complicated tax structure* - Like I mentioned above, MLPs complicate your taxes. You'll have to spend more time doing them, and do some learning about how MLPs work.
+* *Regulations on oil/natgas* - With Democrats now in power in DC, there is a higher potential for climate action or other political news that could impact the O&G sector.
+
+Overall, BSM is a company that seems to have a strong short-term future, with good financials and good potential for price improvement. Due to its strategy of buying assets and leasing them out, it has lower debt and costs compared to other O&G companies. I would consider this a short-term play (long-term I think/hope that fossil fuels are on their way out), with a timeframe of a few months. If you want to buy, do it before 2/16 so you can take advantage of the next dividend distribution. **My price target is $12.50, which was the price pre-COVID. This may be conservative, as the company's financials have improved since then.**
+
+**TLDR: Oil/gas demand recovery + strong financials + current uptrend = potential +30% in a few months**
+
+Position: 200x BSM @ 9.30_END_OF_POST_PYSTOCK_ Danaos ($DAC) looks very promising. Some small and bastardized DD $DAC is looking extremely good right now. 
+
+* [Their PT was raised to $40 from $18](https://snapshot.fidelity.com/fidresearch/snapshot/landing.jhtml#/news?symbol=DAC&storyid=202102040944MIDNIGHTUSEQUITY_A2350924&provider=MIDNIGHT&product=USEQUITY)
+* [They have an earnings report on 2/8/2021 and have crushed their earnings every quarter since Q4 2018](https://eresearch.fidelity.com/eresearch/evaluate/fundamentals/earnings.jhtml?symbols=DAC)
+* [Their 6 month chart looks phenomenal with a 783% increase since August 2020. Today ended with a 13.33% increase ($29.00 open/$32.36 close)](https://finance.yahoo.com/quote/DAC/chart?p=DAC#eyJpbnRlcnZhbCI6ImRheSIsInBlcmlvZGljaXR5IjoxLCJ0aW1lVW5pdCI6bnVsbCwiY2FuZGxlV2lkdGgiOjguODY3MTg3NSwiZmxpcHBlZCI6ZmFsc2UsInZvbHVtZVVuZGVybGF5Ijp0cnVlLCJhZGoiOnRydWUsImNyb3NzaGFpciI6dHJ1ZSwiY2hhcnRUeXBlIjoibGluZSIsImV4dGVuZGVkIjpmYWxzZSwibWFya2V0U2Vzc2lvbnMiOnt9LCJhZ2dyZWdhdGlvblR5cGUiOiJvaGxjIiwiY2hhcnRTY2FsZSI6ImxpbmVhciIsInN0dWRpZXMiOnsi4oCMdm9sIHVuZHLigIwiOnsidHlwZSI6InZvbCB1bmRyIiwiaW5wdXRzIjp7ImlkIjoi4oCMdm9sIHVuZHLigIwiLCJkaXNwbGF5Ijoi4oCMdm9sIHVuZHLigIwifSwib3V0cHV0cyI6eyJVcCBWb2x1bWUiOiIjMDBiMDYxIiwiRG93biBWb2x1bWUiOiIjZmYzMzNhIn0sInBhbmVsIjoiY2hhcnQiLCJwYXJhbWV0ZXJzIjp7IndpZHRoRmFjdG9yIjowLjQ1LCJjaGFydE5hbWUiOiJjaGFydCJ9fX0sInBhbmVscyI6eyJjaGFydCI6eyJwZXJjZW50IjoxLCJkaXNwbGF5IjoiREFDIiwiY2hhcnROYW1lIjoiY2hhcnQiLCJpbmRleCI6MCwieUF4aXMiOnsibmFtZSI6ImNoYXJ0IiwicG9zaXRpb24iOm51bGx9LCJ5YXhpc0xIUyI6W10sInlheGlzUkhTIjpbImNoYXJ0Iiwi4oCMdm9sIHVuZHLigIwiXX19LCJsaW5lV2lkdGgiOjIsInN0cmlwZWRCYWNrZ3JvdW5kIjp0cnVlLCJldmVudHMiOnRydWUsImNvbG9yIjoiIzAwODFmMiIsInN0cmlwZWRCYWNrZ3JvdWQiOnRydWUsImV2ZW50TWFwIjp7ImNvcnBvcmF0ZSI6eyJkaXZzIjp0cnVlLCJzcGxpdHMiOnRydWV9LCJzaWdEZXYiOnt9fSwiY3VzdG9tUmFuZ2UiOm51bGwsInNldFNwYW4iOnsibXVsdGlwbGllciI6NiwiYmFzZSI6Im1vbnRoIiwicGVyaW9kaWNpdHkiOnsicGVyaW9kIjoxLCJpbnRlcnZhbCI6ImRheSJ9fSwic3ltYm9scyI6W3sic3ltYm9sIjoiREFDIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6IkRBQyIsInF1b3RlVHlwZSI6IkVRVUlUWSIsImV4Y2hhbmdlVGltZVpvbmUiOiJBbWVyaWNhL05ld19Zb3JrIn0sInBlcmlvZGljaXR5IjoxLCJpbnRlcnZhbCI6ImRheSIsInRpbWVVbml0IjpudWxsLCJzZXRTcGFuIjp7Im11bHRpcGxpZXIiOjYsImJhc2UiOiJtb250aCIsInBlcmlvZGljaXR5Ijp7InBlcmlvZCI6MSwiaW50ZXJ2YWwiOiJkYXkifX19XX0-)
+* [Hidden in the recent 6-K SEC filing is the expected income results for the quarter. Expected income of $42-44 million (~$2.1 per share) and EBITDA of 82-84 million for the quarter (~$4.2) per share. Yet another great quarter for DAC](https://www.sec.gov/Archives/edgar/data/1369241/000110465921008465/tm213303d2_6k.htm)
+* [ZIM IPO landed them at $1.5b market cap. that's $150m in value added to DAC, almost 30% of their current market cap](https://i.imgur.com/faN9oH8.png)
+
+Thoughts?_END_OF_POST_PYSTOCK_ Unity's price has consolidated, just in time for earnings Keeping this short and sweet: Today after closing bell, **Unity (U) announces their second earnings since IPO**, and are expected to be a beat, with long-range plans beginning to nest.  Bullet points:
+
+* Unity reaches [over 2.5B users, developers, and ad customers](https://www.youtube.com/watch?v=MGEleGvhYIs)
+* Their Q3 loss narrowed, and is expected to narrow further Q4. 
+* Year over year [growth has been 35-45% three years in a row](https://loupventures.com/unity-the-next-great-creative-software-company/)
+* [Snapchat partnership](https://investors.unity.com/news/news-details/2020/Unity-and-Snap-Inc.-Partner-to-Extend-Ad-and-Tech-Reach/default.aspx) is a huge synergistic ad-improvement relationship that could take earnings to the next level, with access to Snapchat’s 249 million daily active users.
+* [Unity's three revenue streams](https://loupventures.com/unity-the-next-great-creative-software-company/) will serve as foundation for its visionary, impending new market entrances, including 3D scanning, AR shopping, and EV navigation and design
+* Dollar based net expansion rate is a critical indicator for the software tools industry, and [they are killing it with a robust 132% increasing to an astounding 144% last quarter](https://finance.yahoo.com/news/unity-software-u-post-q4-130901716.html#:~:text=Unity%20Software%20U%20is%20set,currently%20pegged%20at%20%24203.9%20million.)
+* The price is excellent, [with clear triangle consolidation](https://www.barchart.com/stocks/quotes/U/interactive-chart), sitting a few bucks over a very hard support at $145
+
+Just wanted to give you guys a heads up before earnings drop. [proof that I'm beating the Unity game](https://i.imgur.com/hlCyFeN.png)_END_OF_POST_PYSTOCK_ Extremely high automatic dividend reinvestment prices on Fidelity Hello
+
+Is anyone else experiencing this as well? I have been going through my purchase history of my assets and I have been noticing that my automatic dividend reinvestments are being purchased at ridiculously higher prices compared to the price of the asset that day. 
+
+For example, on Decemeber 24th, 2020, VOO paid a dividend that was reinvested at a cost basis price of $352.50, but the price of VOO on that day was around $338 that day. This is happening to all of my assets where the dividend reinvestment price is way higher than the actual current market price. Am I missing something? What is going on?_END_OF_POST_PYSTOCK_ $VGAC and their merger with 23&Me I saw news today about $VGAC (SPEC founded by Richard Branson) planning a merger with 23&Me to take them public that’s expected to close during the second Q of 2021. It went up ~17% today because of this news and I think it’ll keep going up not only because of how popular 23&Me is but also since 80% of 23&Me’s database opt in to provide their info to genetic research &amp;amp; thats a huge sector rn. 23&Me currently is in a 4 year 300 mil contract with GSK for all the genetic data (which has already yielded great results in cancer research) but once that contract expires all that data is up for grabs and can be sold for much higher. 
+
+Current market cap: 1.03B, Put/Call 30 day ratio is 0.1 so the sentiment seems bullish, 
+It’s forecasted to rise 29.43% in the next 3 months acc to stockinvest.us (is this a good source?). Also has a super high trading volume which is another indicator to me that people are bullish on it. SeekingAlpha contributed James Coleman also rated it a worthy investment for high risk/reward profiles and there’s speculation that ARK is going to buy ME when it starts trading on NYSE. 
+
+I’m not sure how good it’ll be for long term but I think based on all of this that it may spike in the next few months at least, what do you think? Would appreciate feedback &amp;amp; always welcome arguments against it if I’m missing something.
+
+Edit: About me- pretty new to trading (not an expert by any means, do your own DD if you’re looking into this stock). Have been investing in mainly index ETFs for safety for a couple years now. Looking to diversify ~10% of portfolio into a slightly riskier profile._END_OF_POST_PYSTOCK_ Rite Aid - Balance Sheet Query. I have been reviewing **Rite Aid (RAD)** and have noticed on there balance sheet that they had an incredibly large increase in **Capital Lease Obligations** \- 
+
+Capital Lease Obligations
+
+**2020**       3,219,834
+
+**2019**       24,064
+
+**2018**       51,446
+
+**2017**       44,070
+
+&#x200B;
+
+Does anyone know what this potentially could be?   
+
+
+I do not have any open positions in Rite Aid but am contemplating opening a decent sized Leap although the option prices are slightly steep due to the IV but that seems to be a running theme in many stocks at the moment._END_OF_POST_PYSTOCK_ Air Canada and Spirit Airlines Spirit at its highest today since pre-Covid. Anyone know why?
+
+It hit about $30.77 for the day's high, wanting to get some other people's thoughts on this stock. I did own it, until this afternoon, couldn't resist not selling it at that price. I think it should come back down, really hoping that it does so I can buy back in. They have a good amount of cash on hand but are still reporting losses, NASDAQ has their estimated earnings report for Q4 less than Q2 and Q3 of 2020. So again I'm just trying to wrap my head around how this SAVE is sitting above $30 right now.
+
+On another note, would love to hear some thoughts on Air Canada. Apparently, they just suspended all flights to Mexico and the Caribbean which is in effect until the end of April. Where do you see this stock going in the long run? I think it should come back as the vaccine gets distributed more, although time is of the essence. If summer travel is not safe, Airlines will lose one of the more profitable times of the year, and most likely we will see bankruptcy become much more of a possibility than it already is. Air Canada's Q4 earnings will be released on February 12th, this will tell us what to expect in the coming months. One thing about Air Canada though is that they provide so many jobs for Canadian citizens and inevitably have a major impact on Canada's economy. I think if the Airline can survive the road to the majority of the population being vaccinated, then most likely the stock will become very profitable for investors._END_OF_POST_PYSTOCK_ Selling call/put option. What happens to the writer. Doing my own research and I am confident in reading an options chain and understand the concepts except one thing. 
+
+If I buy a an option and then resell it before expiry, who is responsible for the shares in the even it becomes ITM. In other words, does the original writer of an option stay as the writer until it's expiry/printing or is whomever last sold the option now potentially the bag holder. 
+
+I have a little $ to play with and don't mind trading options as a product in themselves but do not want to become responsible if one I sold becomes way monied._END_OF_POST_PYSTOCK_ Here's why Oshkosh Corp. ($OSK) is a buy Oshkosh specializes in producing specialty vehicles such as military vehicles, heavy duty vehicles, construction vehicles, etc. They own 9 brands that each have their own specialty vehicle they produce. They have multiple contracts with the US government (1) (2), and they also own 26 manufacturing facilities worldwide and have been around for over 100 years. 
+
+Why is this important? Sounds like a boomer stock? Not exactly. The reason I read further into this stock because they were apart a PIPE investor in Microvast (THCB). (3) Microvast is the only company on the globe that specializes in batteries for heavy duty vehicles. Along with the PIPE investment to help them raise cash for their IPO, they also announced a partnership too. Further, Microvast is building a factory in Tennessee that is set to start production in 2022. Guess who also owns a giant factory in TN? $OSK does! you can see it at (4) 
+
+So $OSK invests in a company that can put their battery in any heavy duty vehicle. Why does this matter? Because $OSK has the production capability to electrify their fleet. They are in bed with the US gov, and can be a huge part of the electrification of American vehicles over the next 10 years.
+
+I bought a small position here as I see the play and what OSK is planning to do. It's "easy" now to pick a winner in the EV space. Every bodies apparently a market genius now. Did you know that 100s of companies went bankrupt when society was adopting vehicles? Only a few companies won. Now this is of course different as it will be a multi-company effort to electrify all vehicles. It's not a winner takes all situation. However, those with the first mover advantage can occupy a significant amount of the market. I believe that Oshkosh is in a position to do this with heavy duty vehicles, as it appears as though they are the only one with the means to do so.
+
+Also multiple directors bought stock today. You can find those filings on the SEC website. GLTA!
+
+(1) [https://apnews.com/press-release/business-wire/business-government-business-and-finance-government-contracts-north-america-wisconsin-6dfef293a1e74ace8d6d88f5a14ca71f#:\~:text=The%20Oshkosh%20Defense%20JLTVs%20will,contract%20value%20of%20%24911%20million](https://apnews.com/press-release/business-wire/business-government-business-and-finance-government-contracts-north-america-wisconsin-6dfef293a1e74ace8d6d88f5a14ca71f#:~:text=The%20Oshkosh%20Defense%20JLTVs%20will,contract%20value%20of%20%24911%20million).
+
+(2) [https://www.defense.gov/Newsroom/Contracts/Contract/Article/2085466/](https://www.defense.gov/Newsroom/Contracts/Contract/Article/2085466/)
+
+(3) [https://investors.oshkoshcorp.com/news/news-details/2021/Oshkosh-Corporation-partners-with-Microvast-to-strengthen-electrification-capabilities/default.aspx](https://investors.oshkoshcorp.com/news/news-details/2021/Oshkosh-Corporation-partners-with-Microvast-to-strengthen-electrification-capabilities/default.aspx)
+
+(4) [https://www.knoxnews.com/story/money/business/2018/07/12/oshkosh-corporation-jefferson-city-factory/780575002/](https://www.knoxnews.com/story/money/business/2018/07/12/oshkosh-corporation-jefferson-city-factory/780575002/)_END_OF_POST_PYSTOCK_ $MWK Mohawk Group DD - significantly undervalued, still flying under the radar. Mohawk Group is quietly becoming a leading consumer products company that currently sells mostly on the Amazon platform. With 11 brands and over 1000+ product SKU’s, Mohawk is on pace for a record 2021 of projected $370m in annual sales. The company uses data from multiple sources, including Amazon, where most of its sales come from, along with other third party sources. Their strategy is straightforward: find categories where there is no clear leader, improve the product by addressing pain points in negative reviews, and automate marketing and logistics to become the leading seller within the category. The goal is to do this across categories, **internationally and even on other marketplace platforms.** They are already successful with product lists on Shopify and Walmart, in addition to Amazon.
+
+WHAT THEY WANT TO DO: Mohawk’s goal is to find annuity like categories/products that require limited annual refining. For example, a mini fridge between now and a couple of years from now will likely need minimal version changes.
+
+WHAT THEY DO NOT WANT TO DO: Mohawk wants to stay clear of short term trending categories or products that expose them to product listing displacement. For example, portable headphones like AirPods change every 6 months. That is not what they want.
+
+SO HOW
+
+The answer is AI Mohawk eCommerce Engine, or "AIMEE". This internal software solution unifies idea generation, inventory, automated marketing, warehousing, and logistics. Most single sellers use single point solutions for all these essential business functions with little interoperability (Jungle Scout or Helium 10). For example, can you successfully automate marketing and pricing if your marketing engine does not know how much inventory is in stock? It seems unmanageable at scale and therefore single point software solutions limit product expansion. This is why API's were prioritized by companies like Salesforce with their acquisition of MuleSoft to aggregate data.
+
+AIMEE is utilized in 3 ways.
+
+**First is product discovery and creation.** And it works. See it: type "countertop refrigerator" or "dehumidifier" into Amazon, and you can see Mohawk's hOmeLabs brand on the top labeled as "bestseller" with editorial recommendations and thousands of reviews above 4.5 star average. Note - this is **digital real estate moat**. Each product carries its own moat. Digital version of physical real estate.
+
+They have plans of 8-12 product launches each month. They have targets of $1-1.5m in annual sales for products, with a contribution margin target north of 10-15% now. **Approximately 80% of the company’s products became profitable within three months of launch**. The company defines such profitability by a positive “contribution margin” which accounts for all variable costs associated with a product, such as manufacturing and marketing but not fixed costs.
+
+**The second is automation capabilities**, which bring inherent efficiency to the business. MWK has been able to keep its headcount nearly flat while maintaining high revenue growth - as of FY19, they had 144 workers (61 employees and 83 independent contractors). That's $792000 revenue per worker in FY19; and then for FY20, they guide 185 million revenue with only 150 workers ([https://pbs.twimg.com/media/EpR8AGRXIAIRBli?format=jpg&name=medium](https://pbs.twimg.com/media/EpR8AGRXIAIRBli?format=jpg&name=medium)), which yields $1.23 million per worker!
+
+**Third, AIMEE allows Mohawk to discover acquisition targets based on category killers.** Management knows they can't compete within all categories, and instead, they can acquire these category leading products at an enterprise accretive 2-4x EBITDA today.
+
+This accretive acquisition success is continually confirmed even as of this week:
+
+>Feb 2, 2021 Alliance Global Partners analyst Brian Kinstlinger raised the firm's price target on Mohawk Group and reiterates a Buy rating on the shares following the company's acquisition of Healing Solutions. The "solid" acquisition validates Mohawk's strategy, Kinstlinger tells investors in a research note. The analyst sees Mohawk as a "rare business that can buy companies on the cheap and easily integrate, while creating instant shareholder value given its relatively high valuation (like an arbitrage)."
+
+Other growth potentials: **Platform as a Service, or PaaS.** Mohawk could provide AIMEE as an end to end software solution for product discovery to support functionality, along with an on ramp to multi party warehousing and logistics. We can think about potential users, and potential revenue per user. Single point solutions like Jungle Scout generate \~$300-400 in average revenue per user, while Amazon’s marketplace supports over 3 million sellers worldwide. This space could resemble what Snowflake and other multi-cloud vendors are doing in cloud, creating a platform on top of platforms. If Mohawk were to enter this in the future, expect the stock to be valued like SaaS and its forward price to sales ratio should explode even higher.
+
+**VALUATION**
+
+Management guides conservatively and constantly raises outlook, and analysts will be raising price targets continually:
+
+>Feb 2, 2021 For full year 2021, the Company expects net revenue to be in the range of $340M to $370M, **up from** $290M to $320M, reflecting the addition of the Healing Solutions business. The Company is establishing a net income estimate for the year ended December 31, 2021, which it expects to be in a range of $1M to $5M due primarily to quarterly interest expense, net and stock-based compensation expense. The Company is also establishing an Adjusted EBITDA estimate for the year ended December 31, 2021, which it expects to be in the range of $28M to $32M.  
+>  
+>Feb 3, 2021 Roth Capital analyst Matt Koranda raised the firm's price target on Mohawk Group to $37 from $16 and keeps a Buy rating on the shares. The analyst notes that Mohawk has announced the acquisition of Healing Solutions and increased/introduced 2021 revenue/adjusted EBITDA guidance, **which both appear highly conservative.**
+
+Current Mohawk market cap as of writing: $831 million at $31.8 per share
+
+Revenue growth rate: expected to be >50% (FY20 guided to 185M, FY21 current guidance at 370M). They have a revenue CAGR of 79% since 2016 (Mohawk reported revenues of $73.3 million in 2018, up 101% from 2017, with the top-line doubling each year since 2015)
+
+3Q 2020 results showed operating income increased to $0.1 million compared to an operating loss of $(14.1) million in the third quarter of 2019.
+
+Contribution margin improved to 19.1% from 8.0% in the third quarter of 2019.
+
+Current NTM EV/Sales: 1.8x
+
+I firmly believe the stock should be valued **at least** 5x NTM EV/Sales by the end of 2021, if they continue to execute. This is based on management's conservative guidance, continued insane growth rate, increasing margins, massive TAM, future international growth potential, future potential SaaS opportunities. MWK can be viewed as blend of CPG and a software/machine learning company where comps for latter trade at even higher multiples.
+
+I would therefore not be surprised if share prices hit $120 at the end of this year ($3 billion market cap valuation)
+
+OTHER POSITIVES:
+
+Strong company culture. Cofounder Yaniv Sarig. Strong visionary. CEO interview: [https://www.youtube.com/watch?v=-KFDAbkirUg](https://www.youtube.com/watch?v=-KFDAbkirUg)
+
+Glassdoor reviews are positive and average 4 stars.
+
+Lots of insider buying on the open market when it dipped hard in the summer 2020 and the stock is heavily insider owned.
+
+More institutions buying in: [https://fintel.io/so/us/mwk](https://fintel.io/so/us/mwk)
+
+**RISKS:**
+
+\-Some consider Amazon Basics as a competing risk, but I wouldn't think so. $295 billion of products were sold on Amazon in 2020. That's expected to grow to $500 billion in the next five years. Amazon cannot be the best in every subcategory on its *massive* marketplace, and Amazon would prefer sellers put their own capital at risk. **Jeff Bezos knows this (see link below), and himself said he wants third party sellers to succeed.** He wants the marketplace to grow which in the long run makes Amazon more money over customer's spending lifetime, than trying to take short term gain by elbowing sellers off the marketplace platform. He knows he can't win every category. As of December 2020, the amount of Amazon Basics products in the top 10 of their categories fell to near February 2018 levels. This figure peaked to nearly 500 in July of 2019 and has trended lower ever since to 346 products.
+
+\-Small cap, which means volatility. Volume is still low, only \~1.3 million shares get traded even on big news days. This means if you are a very emotional investor, you might panic sell - I would expect frequent dips to occur that are unrelated to the fundamentals of the company.
+
+\-Geopolitical risks: any major escalation in a china trade war or black swan event (another pandemic or such) that disrupts supply chains would be a huge negative.
+
+\-To fund more acquisitions they need to raise more capital. I expect share dilution to occur later this year with secondary offerings.
+
+Bezos letter [https://www.sec.gov/Archives/edgar/data/1018724/000119312519103013/d727605dex991.htm](https://www.sec.gov/Archives/edgar/data/1018724/000119312519103013/d727605dex991.htm)
+
+Avory research memo (much of the above post was taken from here): [https://docsend.com/view/hmvxfxyrfgdyq547](https://docsend.com/view/hmvxfxyrfgdyq547)
+
+Mohawk's investor presentation as of Feb 2021:
+
+[https://ir.mohawkgp.com/static-files/b5122a4a-139b-4645-820b-f61e36286a5b](https://ir.mohawkgp.com/static-files/b5122a4a-139b-4645-820b-f61e36286a5b)
+
+Also: a tweet today from one of their cofounders
+
+[https://twitter.com/asherdelug/status/1357443269941166084?s=21](https://twitter.com/asherdelug/status/1357443269941166084?s=21)
+
+>$MWK as of today a billion dollar co. Took 7 years. $10 bil could take < 2, thanks to the extreme talent & dedication of u/sarig_yaniv and the team, nearly infinite TAM and high model repeatability. E-commerce vendor consolidation is in 1st inning and we are positioned perfectly_END_OF_POST_PYSTOCK_ DD. Why $CGC is one of the most underrated weed stocks. Hello there friends, 
+
+Here is some organic matter to read 
+
+Weed stocks amiright? Anywho, I think CGC is one of the most under rated weed stocks out of the top majority out there. Before the previous weed bubble burst around September-Oct 2018 Canopy Growth was trading at around 48$usd... close to the same price it is trading at currently (44$usd around the time of this post) 
+
+Since this time Canopy Growth (CGC) has acquired numerous businesses. From there pairing with Spectrum Therapeutics in 2019, to their partnership with BioSteel. Lets take a closer look at BioSteel shall we? 
+
+BioSteel is now being packaged with all eco friendly packaging that was recently started in December of 2020. They have multiple sports partnerships with the Brooklyn Nets, Toronto Raptors and Philadelphia 76'ers and from partnering with people like Erin Andrews, Deandre hopkins & PATRICK MAHOMES II. Biosteel is already set up in multiple states which helps the expansion into the United States much easier for CGC's growth. BioSteel uses all natural products and is sugar free, what also helps is their use of Reyes Beer Division which helps distribution a lot in my books. 
+
+[Link#1  Biosteel](https://www.newswire.ca/news-releases/biosteel-rapidly-expands-u-s-footprint-with-mega-distributors-for-new-ready-to-drink-beverages-810248091.html)
+
+[Link#2 Biosteel](https://technical420.com/cannabis-article/canopy-growths-acquisition-of-biosteel-is-starting-to-look-insanely-shrewd/)
+
+&#x200B;
+
+Now back to Spectrum Therapeutics, remember them? Spectrum is already set up around the world, which once again helps CGC'S expansion incredibly since that 2018 September 48$ stock price. Spectrum partnered with Canopy in 2019 and is set up in Australia, South America, Africa and Europe. 
+
+[Spectrum Link#1](https://investingnews.com/daily/cannabis-investing/spectrum-therapeutics-announces-support-for-wounded-warriors-canada-and-its-mental-health-services-for-veterans-and-first-responders/)
+
+&#x200B;
+
+Moving on, Canopy also has other partnerships.... yes more! They own Tokyo Brands which had recently bought Van Der Pop, which is a huge Mom branded cannabis business. 
+
+[TOKYO SMOKE](https://www.globenewswire.com/news-release/2017/02/08/1331434/0/en/Tokyo-Smoke-acquires-Van-der-Pop-Seattle-s-preeminent-female-focused-cannabis-lifestyle-brand.html)
+
+Honestly, it just goes on and on since the CGC of 2018 September. Constellation brands, aka corona beer also has some warrants that they can exercise on Feburary 9th. This will have the stock price move up drastically. Not only this but.... Martha Stewart. Drake. Hiku Brands and ACREAGE Holdings if weed becomes legal in the US. 
+
+[MARTHA!!!!!!!!!!!!!](https://www.shopcanopy.com/en/martha-stewart-cbd)
+
+It's time to get in. 
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+tldr. buy CGC. now._END_OF_POST_PYSTOCK_ West Fraser Timber WFT appears heavily shorted This Canadian headquartered company has most of it's the production and sales in the US.  Since completing it's merger with OSB this week it is now both the largest lumber producer and the largest osb producer in the world.
+
+It is now listed on NYSE with symbol WFG.  Lumber demand is high, housing is forecast to remain stronger for several years (listen to conference call from any major home builder DHI, TOL,, etc)
+
+Canadian lumber companies have traded at lower multiples than US peers so this is undervalued.
+
+Will earn in the high teens, as in $ per share over the next year.
+
+Earned $4+ last quarter, estimates are the same this quarter, reporting soon, and are for $5+ the following quarter.
+
+According to last Canadian securities short data I can find for the middle of January, short interest was 10%, with about 20 days to cover  
+
+...I have come back to edit this with additional info >> See comments below_END_OF_POST_PYSTOCK_ $SPWR: Long-term growth basic DD $SPWR is all set to be a dominant high-margin force in individual solar power solutions, yet its stock, after better than QUINTUPLING since September, has been on a decline.
+
+**"Why, tho?" BECAUSE IT'S AT** **57.4% SHORT INTEREST!..... "Okay, but why is that?" BECAUSE THE SHORTERS ARE USING OUTDATED EARNINGS ESTIMATES!..... "Huh?" MAXEON SPLIT AFTER A $298M INVESTMENT BY by** [**Tianjin Zhonghuan Semiconductor Co.**](https://en.tjsemi.com/)**, SO THE NEXT EARNINGS WILL BE THE VERY FISRT QUARTER UNDER SUNPOWER'S REVISED BUSINESS FOCUS! The shorters are, shall we say, SHORT-sighted!\*\***
+
+&#x200B;
+
+I'd love for someone to tear apart my logic here and show me where my reading of the tea leaves ignores other, less-obvious realities.  Have at it!_END_OF_POST_PYSTOCK_ DBEH: How to get hedge fund exposure without the fees I  found this ETF the other day and have been researching it some more--it uses statistical methods to replicate hedge fund strategies and returns, except it is highly liquid as it's an ETF and does not have the hedge fund fees (0.85% expense ratio vs 2 and 20). It's still relatively small (only $17  MM in the fund right now). It is a monster alternative to hedge funds and could possibly turn into a sanctuary for all of the massive outflows from hedge funds from 2020 and 2021 ([2020 was def not a growth year for HF](https://www.hedgeweek.com/2020/11/26/292760/investors-flee-equity-and-macro-hedge-funds-2020-heralds-career-defining-moments)).
+
+Some stats: in the March 2020 coronabust, it had a -17% return compared with  market of 35%+, but over the last year has given 30%+ return compared  to market \~20%+. READ: smaller drawdowns and higher upside than the market. [DBEH](https://finance.yahoo.com/quote/DBEH/)
+
+This would be a good diversification to any portfolio--typical exposure for wealthier people is 5-10% in an alternative investment fund, so this makes it accessible to those of us with less than the millions.
+
+If you're interested in the research behind it: [https://www.dynamicbeta.com/the-case-for-replication-of-equity-long-short-hedge-funds/](https://www.dynamicbeta.com/the-case-for-replication-of-equity-long-short-hedge-funds/); [https://www.dynamicbeta.com/generation-two-liquid-alternatives/](https://www.dynamicbeta.com/generation-two-liquid-alternatives/)_END_OF_POST_PYSTOCK_ Faith of blackberry stock Hello fellow investors! 
+Do you think Blackberry stock will return to those levels before it crashed ($25-$30) or even higher? I really hope so because I entered at around $19.
+ 
+• The company has announced a collaboration with amazon from what I’ve read, they will work on self driving AI together, also they won the Facebook lawsuit and sold some of their old phone patents to Huawei. 
+I personally have long term faith in the company though I don’t completely understand why it went down (I think maybe because of bug restrictions and people panic selling) 
+
+Anyways write your thoughts about this in the comments._END_OF_POST_PYSTOCK_ Best brokerage firms in 2021 With all of the controversy over brokers in the last few weeks, it has got my thinking about my own firm. I currently use TD Ameritrade and it is definitely the best I’ve used so far, but it has its issues. I’m really looking for a very reliable broker (little to no outages) with superb tools (mobile app, desktop platform), zero commissions, good execution price/speed (no payment for order flow would be ideal), a wide range of investment choices (stocks, bonds, ETFs, mutual funds, options, forex, futures, good selection of shortable stocks), and has good customer service. Anyone have any suggestions? I’m US based btw._END_OF_POST_PYSTOCK_ Please rate this portfolio I built for myself Please let me know what you think of this portfolio. This account is a rollover IRA from an old job and separate from my current employer's IRA, which I am maxing my contributions and using index funds. Therefore, I am taking a much more aggressive approach with this account, of similar size.
+
+MGNI--130 at 41.0 (16%)
+
+SPCE--100 at 28.0 (15%)
+
+APHA--300 at 16.5 (14%)
+
+DKNG--75 at 62.5 (13%)
+
+CRSR--100 at 38.5 (12%)
+
+SPWR--100 at 43.0 (12%)
+
+GNRS--200 at 10.8 (6%)
+
+GOEV--120 at 19.1 (6%)
+
+SEAH--200 at 10.4 (6%)
+
+Thanks in advance!_END_OF_POST_PYSTOCK_ CRDF new catalyst possible short squeeze  
+
+CRDF Receives "Study May Proceed" from FDA to Initiate Phase 2 Trial of Onvansertib in Metastatic Pancreatic Ductal Adenocarcinoma (PDAC). The market size for Pancreatic & Colorectal cancer market size is $18.3B / $35.2 O.S = $518; scaled to $52 pps.
+
+Institutional ownership (69.8% or 24.4M shares); Float: 27.61M shares; Shares shorted: 5.85M shares; Insider owned: 7.7M shares; Available remaining shares: Float - Institutional = 27.61M - 24.6M = 3M shares. short % high with small amount of available shares_END_OF_POST_PYSTOCK_ I'm looking to learn about how to create a diversified portfolio after having gambled away 1500$ I'll start off by saying that, yes, I got pulled into the GME hype. I knew about all that since it was at around 40$, but only got in around 300$. I haven't sold anything yet, since I believe I can at least cut my losses if I hold into the long term due the big changes the company will do moving forward. I only put in money I didn't care if I lost and am not angry about what I could lose if I sell.
+
+I recently bought a couple books about investing and I'm currently reading The Little Book of Common Sense Investing. From what I've read so far - and it makes a lot of sense - I should look into buying low-cost ETF's. 
+
+Now, what I still don't know is how to choose a good ETF, how many to buy, etc. Since I'm really young, I could pick sum more risky ETF's, but I don't know if it's still important to hold bonds and low risk stocks or ETF's. Also, I would still like to allocate a percentage of my portfolio to individual stocks, where I would do research about the company and decide what to buy specifically. From what I've read here so far 80% ETF'S/20% stock would be good?_END_OF_POST_PYSTOCK_ Xero anyone? (XROLF), based out of New Zealand ***Disclaimer+Disclosure:*** *I own the stock, and it is very thinly traded in the USA.* ***NOT INVESTMENT ADVICE.*** *Do your own DD*
+
+The premise: Most of the cloud based SW companies (SaaS) sell at ridiculous valuations. So, I sought a name that was not domiciled in the USA, had a US presence, and good/excellent numbers
+
+I ended up with Xero. They are New Zealand based, and what they lack in breadth of offerings (compared to Intuit or Microsoft), they make up for, in focus
+
+Conclusion: If listed in the USA (like Atlassian $TEAM is), they'd likely be worth a lot more
+
+Final words: My investing time frame is 3 to 5 years. If anyone cares to comment on Xero, I welcome their thoughts_END_OF_POST_PYSTOCK_ Swing Trader Tax Expenses Hey everyone...
+
+I've been trading/investing? now for about 8 months and I've made some pretty substantial money, enough that I would really like some write offs (in the future).
+
+I am going to be opening an LLC and trading from now on under that entity. I don't think I'll be eligible for TTS because I am a swing trader, not a day trader. I talked to an accountant and they said they don't think I am eligible for many write offs, even office space rent? I have a lease starting this month on an office for about $3,000 a month (I live in NY). I can't imagine I wouldn't be able to write this amount off in full. If that's the case, please let me know.
+
+\*Not a professional trader (unlicensed)
+
+\*Not eligible for TTS
+
+\*Full-time trader, no other income. Only from trading.
+
+\*All gains are (sadly) short term capital gains._END_OF_POST_PYSTOCK_ The validity of memeing as a form of financial analysis  
+
+I’ve been reading this sub and other finance subs for a while now, and it seems like retail investors like us primarily do two types of analysis: fundamental analysis and technical analysis. Fundamental analysis seems like a subset of statistical arbitrage where you try to find “valuable” companies by looking at their financials and comparing it to other companies in same sector. Technical analysis seems like it’s trying to gauge investor sentiment graphically. However, I’m not sure how relevant these forms of analyses are in the world of quantitative easing, low interest rate, and quantitative hedge funds. With quantitative easing and low interests rates, it seems like the context has changed too much for value investing to be relevant. We always joke that the stock will go down because the company had a blowout earnings report and justify it by saying "it's priced in". With bots, quantitative hedge funds can look at fundamentals faster, look at a wider set of companies, better define relevant companies to compare against, and develop more intricate models rather than simply looking at P/E ratios. So, whatever fundamental analysis we do will always be at a disadvantage.
+
+In the aftermath of a certain stock fiasco, I think information arbitrage using memes is a legitimate form of analysis, maybe better than fundamental and technical. For those that don’t know, information arbitrage is when we use alternative data other than a company’s financials to evaluate a company. For example, quantitative hedge funds use AI to read through news articles to gauge sentiment, satellite images to track shipping, web-traffic data to predict which retails will have the best quarter. Although we can’t do these tasks as fast as computers, I think humans have an edge, albeit small and fading, in understanding language and especially memes. Language changes quickly on social media, and humans adapt to the evolution of language much more quickly and with less supervision than AI. Meme formats change and evolve quickly online, and we’re able to understand the underlying meaning with few examples whereas AI need lots of heavily curated data to learn the same thing. By the time they learn one meme, the format may change invalidating the older model. It’s true that we have our own problems when we get sucked into echo chambers and personal feelings, but I think we have a smallish window before AI catches up to analyzing public sentiment through memes, and we shouldn’t discount the “meme analysis” as a legitimate form of financial analysis for now.
+
+Do you think it’s still relevant for us retail investors to do fundamental analysis and technical analysis? What are your thoughts on meme-ing as a form of financial analysis?_END_OF_POST_PYSTOCK_ Some actual GameStop DD (Not positive) Disclaimer: Not financial advice, just my opinion on the current drama. I lost about $300 on GME trying to catch the knife, but made a ton on AMC. (Bought at 4.5, sold at 14.) I still own 137 AMC Shares and no GME.
+
+Here’s some actual DD on GameStop: These are the point I personally used to make the decision not to go all in on GameStop. (The price is currently sitting at 2x what it was when I made this list, but I stand by my decision.)
+
+You think they’re going to pivot into being some massive online retailer? They’re not.
+
+**Remember ThinkGeek?** It used to be an amazing place to buy cool, niche nerd stuff. They designed and sold their own products, along side some licensed products. I still have a bunch of awesome stuff I purchased in its heyday. It was the place to go for anything not mainstream.
+
+Gamestop purchased ThinkGeek in 2015. The first thing they did was sell out to Disney. The store became a crap-fest of Star Wars and Minecraft merch.
+
+After purchasing ThinkGeek, GameStop opened some ThinkGeek-branded retail stores. Again, the company you think is going to pivot to online turned a successful website into a failing junk shop in the mall.
+
+ThinkGeek shut down in 2019. The only remnant of ThinkGeek are those racks in GameStop stuffed with shitty Minecraft plushes and water bottles.
+
+Two takeaways: -GameStop isn’t able to competently assess what consumers want. -GameStop doesn’t know how to have an online presence. -GameStop can't even keep a profitable business running even if it's handed to them.
+
+**GameStop Revenue:**
+
+40% of GameStop’s revenue comes from screwing over children on used game buybacks. If GameStop decided to move away from Video Games, they lose a huge revenue stream.
+
+\-The GameStop business model is not agile enough to change significantly.
+
+**Computer Parts:**
+
+GameStop employees are incompetent. In 2018, I purchased a White Wii U from a GameStop. The clerk told me he didn’t know the Wii U came in white.
+
+Selling PC parts would require more space. At the average GameStop’s current size, they would struggle to have a significant inventory of computer parts. Becoming something like MicroCenter would require GameStop to invest in real estate to get enough room to grow.
+
+\-If GameStop sells computer parts, they will have only a handful of items in store and the clerks will not be knowledgeable enough to help people decide which part to buy.
+
+**Cohen:**
+
+Making money off dog food is very different than Video Games. Pet supplies are one of those products categories that people buy regularly and always buy the same thing. I'm not sure the skills transfer._END_OF_POST_PYSTOCK_ DD on Finding Value in Brick and Mortar and Long Term Hold (BBW Play) DD on Build a Bear (BBW)
+
+Strong Brick and Mortar retailer that's fundamentally undervalued (current market cap of \~80 million) with huge name brand recognition.
+
+In its most recent 10Q filing ([https://ir.buildabear.com/node/17626/html](https://ir.buildabear.com/node/17626/html)), the company is operating cash flow positive despite Covid’s deleterious impact on brick and mortar, and its plans to add TikTok talent and build out a stronger online presence will strongly bolster sales with Valentine’s coming up, and strengthen the EPS in Q1 2021 (street average is $0.16; it already beat last quarter's -$0.04 with reported $0.11, and the potential for Build a Bear to go viral on TikTok is huge). 
+
+[https://buildabear.gcs-web.com/news-releases/news-release-details/build-bear-radio-brings-innovative-programs-and-tiktok-talent](https://buildabear.gcs-web.com/news-releases/news-release-details/build-bear-radio-brings-innovative-programs-and-tiktok-talent)
+
+Their CEO, Sharon Price John, also oversaw the rebranding and strengthening of Hasbro's Nerf Brand, and I'm confident in her ability to generate tremendous growth, now that she's already guided BBW through its turnaround.
+
+Furthermore, with the trend towards retail investing and stock picking (along with a rotation out of GME, AMC, BB et al.), I think this is a great value play that can gain social media traction and attract individual investors;  its low market cap and current low liquidity especially signals the possibility for huge upside. Thoughts?
+
+Disclamer: 9/17/21 $15 Calls_END_OF_POST_PYSTOCK_ Why you should buy Ford stock for 2021 made a similar DD around 8.50 earlier this year, and its only been getting more bullish as the year goes on.
+
+Originally, there's a few main takeaways:
+
+1. New CEO is phenominal.  Car industry his whole life.  He is making meaningful change to Ford and can show he can keep his promises.  This can be seen by the insane turn around even during a pandemic and his ability to increase profits even now.  They released Janaury numbers, and overall outpacing sales in the industry by 4% and growing.  I expect strong 2021 outlook.
+
+2. The CEO is focused on PROFITS rather than simple revenue.  Paying down debts, closing massively unprofitable brands, reinvesting in more profitable brands.  For example; earlier this year, they closed a brazil plant but reinvest 1.1 billion in South Africa. 
+
+3.  The Truck market specifically is exploding right now and that will only get better with the Electric f150.  They are hyping it up and in general doing a good job hyping up alot of their brands.  This will be the biggest thing for ford in a while.
+
+4.  They have 2 other extremely promising aspects.  First, their mustang, and more importanly their fleet vans.  Ford fleet vans have basically a monopoly in the area.  The only real competition is the mercedez amazon vans you see around, but even then, its not a big deal.  Ford has announced plans to get fully automated self driving fleet vans to market.  
+
+5.  The electric mustang might not seem like a big deal but they did it for a reason.  Its controversial, but thats ok, and maybe even good.  Most have looked into it, some have bought it.  They have basically instantly sold out everytime they released selling them.  They might only have a few thousand to sell due to chip shortages, but that will be remedied shortly, and they plan on producing their own chips anyway, which could be massive.
+
+6.  Rivian.  The details havent been fully announced but most speculate about a 15% stake in the company when it was only worth about a billion dollars.  Their most recent valuation puts them at 45 billion.  They made several billion on that investment alone.
+
+7.  One of first things The CEO has announced at the top of their to do list is quality control.  They want vehicles more reliable and less lemons.  As they rebrand themselves, this will be massive and critical.  People like nice cars and Tesla has raised the bar.  This can be seen through their recent google partnership to basically overhaul the tech aspects of their cars.
+
+Other side notes: Bronco will be massive and already doing well.  Yes, theyre less concerned with revenue so its dropping, but still, doubling profits but less revenue is fine.  New administration will likely invest heavily in Ford for EV's and even wrote a letter encouraging it to the prez._END_OF_POST_PYSTOCK_ ROTH IRA (holdings/strategies) I’ve been investing for about a year now and am looking to start a conversation about ROTH IRA strategies. 
+
+I’m a partial Boglehead and hold mostly VTI in my ROTH and mostly VOO in my retail. I also hold a little bit of QCLN, PHO, SPEM, NOBL, DRGW in my ROTH. 
+
+I’m wondering what other people are doing with ROTH holdings? I’m also interested in learning more about the dividend strategy. Not being taxed on dividends is attractive, but the expense ratio of high yielding dividend ETF’s is quite high compared with VTI/VOO. It seems like the dividend expense ratio versus the compounded growth from passively managed funds may cancel each other out? That’s just a wild guess. Interested to hear your thoughts! Again, particularly on holdings/overall strategy._END_OF_POST_PYSTOCK_ what to buy v when to buy: Timing is everything I've been trading this low float stock, MTBC, for 3 years now, like clockwork. Indicators line up, I buy, I sell a portion of my position for profit, the indicators line back up and I buy again, and repeat. It's just been about patience - just waiting for the right opportunity to buy. This stock has moved over 100% this year and over 1000% for the past 5 years. it only has 7.65m shares of free float, its got price targets expecting it to double, and it's operational growth has been incredible. All this is with an average 3 month volume of 164k... can you imagine if, the next time this touched the 100 day MA people bought this in mass, this stock that is already doubling YoY? I never hear anyone talk, post, tweet, twit about this stock but I keep on buying like clockwork.
+
+Edit: I am long MTBC and have maintained a position for 3 years now. I add to my position at opportune times and sell at opportune times, while still maintaining my core position, for a number of reasons including:
+
+1. I like to maintain a good balance of cash in my trading accounts for new opportunities and for unseen contingencies
+2. I am diversified across different investments and take profits when I feel it is the time to do so
+
+&#x200B;_END_OF_POST_PYSTOCK_ Aphria (APHA) Merger with TLRY Possibly Creating Arbitrage Opportunity Merger between APHA and TLRY finalizes in Q2 of 2021 per company disclosures. Shareholders of APHA will convert their shares to TLRY stock at .8381 per share. New Company will keep TLRY name and stock symbol.
+
+Here is the math as of last nights close
+
+&#x200B;
+
+10 shares of AHPA @$16.60 = $166.00 invested
+
+ONCE MERGER COMPLETED APHA SHARES CONVERT TO TLRY SHARES AT THE .8381 RATIO:
+
+10 X .8381 = 8.381shares of TLRY which closed yesterday at $26.60 per share...
+
+&#x200B;
+
+**10 APHA x .8381 = 8.381 shares of TLRY @ 26.60 = $222.93 -- that's an additional $57.93 in principal balance invested. A built in buffer against loss or just pure profit.**
+
+as long as this spread between the stock remains the value appears to be very significant. Going off of yesterdays close:
+
+&#x200B;
+
+Approximate.....
+
+10 shares = $57 additional profit
+
+100 shares = $570 additional profit
+
+1000 shares = $5,700 additional profit
+
+10,000 shares = $57,00 additional profit
+
+&#x200B;
+
+ If this trend continues there is a built in buffer against loss as well a significant upside if TLRL and APHA keep trending upward and the spread remains the same. I am surprised more people have not jumped on this especially with the news on how US appears to be position cannabis legalization nationally and APHA is one of the first cannabis companies to actually produce a profit at the last earning report in 2020! I am not an investment advisor, but this seems like a great deal to me. Definitely check my math._END_OF_POST_PYSTOCK_ LOOKING AT OPENDOOR (OPEN) TLDR - OPEN likely to move higher over the next couple of months. Main drivers of revenue are strong. Market took down $700Mn issuance yesterday and the stock still traded up on the day. Issuance shows that the model is catching on in markets. US home sales + prices are rising quick, driving revenue. **Targeting $60 after earnings.** Chart looks a lot like SPCE, PLTR early days, market is sleeping on OPEN. Options pointing to a big move.
+
+**Positions**
+
+Feb 19 - 28 calls
+
+Feb 19 - 30 calls
+
+Feb 19 - 35 calls
+
+Mar 19 - 27 calls
+
+Plan to role my febs into march on dips.
+
+**What is OpenDoor?**
+
+OpenDoor is a principal dealer in the real estate market. Instead of hiring a real estate agent to sell your house charging 3-5% commission and having to deal with the showings and negotiations, Opendoor will buy the house right off the seller for cold hard cash. Not only that, the Company will provide ancillary services to clients including refis, and possibly home credit lines in the future.
+
+Ultimately, as the primary point of contact for a buyer and seller, OpenDoor not only disrupts the embedded real estate industry cabal, but also the banking cabal. By providing financing/brokerage and other ancillary services we believe that the $1.6Trn TAM presented by the Company is low.
+
+**Why Now?**
+
+Yesterday, OpenDoor announced a 24Mn share raise equating to approximately $700Mn. The market took it down no problem and the stock traded up on the day which is strange because raises usually result in price declines due to dilution of existing shareholders. The underlying strength in the stock gives us confidence that we trade much higher over the coming weeks.
+
+On the press release of the raise, OpenDoor said the issuance will be used for "increasing existing market penetration and to expand into new markets, and for working capital and general corporate purposes." They have essentially told us that they ran out of cash buying so many homes and needed an additional raise to further expand the business. Given that one of the main bear views has been that most sellers would rather go to the market to attempt to get a better sale value, the raise shows the market that this point of friction is actually not as significant as many believed, likely the reason why the stock traded higher.
+
+**Key Drivers**
+
+With the new leverageable cash (we estimate total $2Bn of levered cash) we expect OpenDoor to announce entry into new markets including Detroit, San Diego, Chicago, San Francisco/San Jose, Seattle, New Orleans, Albuquerque, Ft. Lauderdale and Miami in the near future. We believe that movement into these markets alone would double the revenue opportunity.
+
+U.S. home prices are rising quickly. According to the CoreLogic Home Price Index, December showed home prices spiking 9.2% annually, which was the fastest annual increase since 2014. Month-over-month, prices were up by 1%. Given that OPEN makes most of its money on the s/t gains in housing prices, this data suggests that OPEN will likely blow out sell-side expectations over the next two quarters.
+
+**Prices and sales rising quickly**
+
+Also, home sales are increasing rapidly. COVID is pushing city dwellers to move from major metro areas to the suburbs and other smaller cities where OpenDoor has inventory. Easy monetary policy is further supporting homebuying which will likely drive revenue for the foreseeable future.
+
+**Setup**
+
+OPEN has been battling with the $28-29 resistance for four months, with rising support. If we break to the upside with volume, we could see a move similar to September (\~65%) and October (\~70%).
+
+Yesterday, there was a lot of call buying and a spike in implied vols potentially foreshadowing a big move in the future.
+
+In sum, OPEN is a great business and the stock has a great setup. We expect the stock to be higher over the coming months.
+
+Source: We = Me and your dad. Not investment advice. Do your own DD and consult financial professionals, unlike myself._END_OF_POST_PYSTOCK_ $DKNG and the NFL expand Partnership to Canada There have been many eyes on $DKNG lately due to the recent ARK investment. The latest is the move into Canada with the NFL partnership has me super excited for what's to come. Their Q4 earnings come out later this month, which will include data from the bulk of the NFL season and the NBA finals. This is not financial advice, I own this stock and am excited about its future. 
+
+The sports betting market is set to grow exponentially. Many of the Nov ballots included sports wagering on them, where nearly all were successfully passed through majority voting. The people have spoke, the sports are coming, and the betting landscape is expanding.
+
+[https://www.globenewswire.com/news-release/2021/02/04/2169833/0/en/DraftKings-and-NFL-Expand-Exclusive-Daily-Fantasy-Partnership-to-Canada.html](https://www.globenewswire.com/news-release/2021/02/04/2169833/0/en/DraftKings-and-NFL-Expand-Exclusive-Daily-Fantasy-Partnership-to-Canada.html)_END_OF_POST_PYSTOCK_ The AstraZeneca Share Price Hi guys, I'm new here.
+
+I was just wondering if anyone could please explain why the AZ share price seems to be on a downward trend and doesn't seem to be recovering. The share price is actually less now than it was a year ago before this whole pandemic, so I'm really surprised.
+
+I know there were some issues with efficacy data last year, but they've since been resolved. Quite a few countries have placed orders and it's recently been approved by the EU.
+
+I know Macron tried to say that the vaccine wouldn't be effective for over 65s, but that's been fact-checked to be a misinterpretation.   
+Considering the world is in the middle of a pandemic and vaccines are needed, and the fact that AZ has considerably easier vaccine storage than the Pfizer/BioNtech one, why is it still on a downward trend?  
+Novavax shot up in value when the UK gave approval, as did the other companies, so why hasn't AZ?_END_OF_POST_PYSTOCK_ The Ultimate SPAC Spreadsheet Good morning r/investing,
+
+Its been awesome to see all the new members joining recently. It's a great time to be in the SPAC game. With that said, there's tons of spacs out there, and it can be difficult to keep track of them all. That's why my good friend u/KujMasterFresh & I have created the spreadsheet below. 
+
+We will be continuing to update and improve our spreadsheet, so if you have any feedback, please let us know. Otherwise, we hope this helps you keep track of all things SPAC!
+
+[https://docs.google.com/spreadsheets/d/1dZOPswJcmPQ5OqTw7LNeTZOXklnmD-n7fyohbkRSsFE/edit#gid=0](https://docs.google.com/spreadsheets/d/1dZOPswJcmPQ5OqTw7LNeTZOXklnmD-n7fyohbkRSsFE/edit#gid=0)_END_OF_POST_PYSTOCK_ The APPLE EV CAR playbook Hey all, we all know it’s coming (2024), and we know when it comes it is going to be fucking huge. It’s the **mf** Apple car, icar, Siri mobile, or whatever Apples upcoming EV will eventually be called. 
+
+I’m not gonna type out a huge wall of text, because why trust a goon like me? I just ask you please check out these links and see if you end up connecting the same dots as me...
+
+**Hyundai and Apple:**
+
+https://www.google.com/amp/s/www.marketwatch.com/amp/story/apple-may-build-a-fully-autonomous-electric-car-with-hyundai-kia-report-11612394804
+
+https://www.google.com/amp/s/www.cnbc.com/amp/2021/02/03/apple-and-hyundai-kia-driving-towards-deal-on-apple-car.html
+
+**Hyundai and Canoo:**
+
+https://www.google.com/amp/s/www.theverge.com/platform/amp/2020/2/11/21133461/hyundai-canoo-electric-cars-partership-kia
+
+https://www.hyundainews.com/en-us/releases/2982
+
+**Apple and Canoo:**
+
+https://www.google.com/amp/s/www.theverge.com/platform/amp/2021/1/12/22225026/apple-canoo-acquisition-investment-electric-car-goev
+
+https://www.google.com/amp/s/appleinsider.com/articles/21/01/12/apple-discussed-partnership-with-ev-startup-canoo-in-2020/amp/
+
+**Blackberry and Canoo:**
+
+https://blogs.blackberry.com/en/2020/08/blackberry-to-power-autonomy-systems-in-canoo-next-generation-electric-vehicles
+
+
+
+https://www.prnewswire.com/news-releases/blackberry-to-power-autonomy-systems-in-canoos-next-generation-electric-vehicles-301099333.html
+
+
+And finally, Canoos website,  the B2B “skateboard” platform which I think will be the base of the apple car :
+
+https://www.canoo.com/b2b/
+
+My thoughts:
+**Apple (APPL)** brings the premium brand name, **Hyundai-Kia (GDR)** brings the automotive industry experience, distribution, and maybe some marketing, **Canoo (GOEV)** brings their B2B skateboard EV platform/ hardware, and **Blackberry (BB)** will play a significant role in the software/ tech security with their QNX system. 
+
+In my opinion this collaboration of companies will bring us: **THE  A P P L E  C A R**
+
+Please let me know your thoughts and feel free to dispute my “thesis”, as I’ve devoted most of  my portfolio based upon this_END_OF_POST_PYSTOCK_ Hindenburg Research - Clover Health: How the “King of SPACs” Lured Retail Investors Into a Broken Business Facing an Active, Undisclosed DOJ Investigation >Today, we reveal how Clover Health and its Wall Street celebrity promoter, Chamath Palihapitiya, misled investors about critical aspects of Clover’s business in the run-up to the company’s SPAC go-public transaction last month.
+
+>Our investigation into Clover Health has spanned almost 4 months and has included more than a dozen interviews with former employees, competitors, and industry experts, dozens of calls to doctor’s offices, and a review of thousands of pages of government reports, insurance filings, regulatory filings, and company marketing materials.
+
+>Critically, Clover has not disclosed that its business model and its software offering, called the Clover Assistant, are under active investigation by the Department of Justice (DOJ), which is investigating at least 12 issues ranging from kickbacks to marketing practices to undisclosed third-party deals, according to a Civil Investigative Demand (similar to a subpoena) we obtained.
+
+
+
+https://hindenburgresearch.com/clover/
+
+https://twitter.com/HindenburgRes/status/1357317294473547777_END_OF_POST_PYSTOCK_ NOK Q4 2020 earnings: EPS beaten by 29.67% [https://www.nokia.com/system/files/2021-02/nokia\_results\_2020\_q4.pdf](https://www.nokia.com/system/files/2021-02/nokia_results_2020_q4.pdf)
+
+The Finnish telecom network firm reported earnings per share of EUR 0.26 ($0.31) for the full-year 2020 compared with EUR 0.22 ($0.26) for full-year 2019.
+
+For Q4, EPS stood at EUR 0.14 ($ 0.17) compared with EUR 0.15 ($0.18) in the same period last year.
+
+The company’s October-December revenue declined 5% to EUR 6.57 billion ($7.89 billion) on a YoY basis, beating a consensus figure of EUR 6.42 billion ($7.71 billion), according to Refinitiv Eikon data [reported](https://www.reuters.com/article/us-nokia-results/nokias-fourth-quarter-revenue-beat-expectations-idUSKBN2A40N0?il=0) by Reuters._END_OF_POST_PYSTOCK_ Buy US MSOs not Canadian Cannabis Companies Federal prohibition prevents MSOs from:
+
+1) Using banks (or taking credit cards).
+     They literally sit on piles of cash. 
+
+2) Listing on major exchanges
+
+3) Moving product across state lines
+
+4) Taking any tax breaks
+
+The Canadian companies are running right now based on name recognition and the US based MSOs are lagging despite them having stronger financials and already being in the US which means less regulatory hurdles when federal prohibition ends. Not only are the financials currently more attractive but the end of the above regulatory issues will all lead to gains in efficiency. I also believe Canadian is outperforming MSOs due to robinhood not allowing OTC trading. If you want to get in on Robinhood buy the ETF $MSOS. If you want to dive deeper check out it's top holdings. 
+
+GTBIF
+TCNNF
+CURLF
+CRLBF
+TRSSF	
+AYRWF
+IIPR
+GRWG
+JUSHF
+HRVSF
+
+I've been investing in cannabis for 3 years, I rode the crash down and kept buying. I'm currently 1/3 Canadian and 2/3 US._END_OF_POST_PYSTOCK_ Impact of Fiscal Policy Regime Change As someone expecting investments in inflation hedges to do well the next few years. I found Jesse Livermore's research paper
+
+ [Upside-Down Markets: Profits, Inflation and Equity Valuation in Fiscal Policy Regimes](https://osam.com/pdfs/research/Upside-Down%20Markets%20-%20September%202020.pdf)
+
+To have important counterpoints on why investments in inflation hedges might not turn out as expected.
+
+[TL/DR: 22 Things to Know From the Paper](https://stevenlmiller.me/2021/01/26/how-to-understand-the-impact-of-fiscal-policy-regime-change/)
+
+Have you invested in inflation hedges?_END_OF_POST_PYSTOCK_ 10 interesting and useful ETFs with less than $1b AUM I've been doing a lot of ETF research lately and wanted to share this list because I think that smaller ETFs fly under the radar all too often.  Here are 10 ETFs with less than a billion dollars under management, but that I think are interesting and possibly useful, with reasons why:
+
+1. THNQ: ROBO Global Artificial Intelligence ETF, [https://roboglobaletfs.com/thnq](https://roboglobaletfs.com/thnq) .  The process-based management of THNQ's holdings targets heavy exposure to companies leading development or execution with artificial intelligence and machine learning.  My only issue with it is that for some reason they don't include Facebook in its holdings (and FB is famous with PyTorch and related work).  Competitors in this thematic space include Global X's AIQ and iShares' IRBO.  A newer ETF, THNQ has performed very, very well since inception, easily beating many other growth ETFs.  Certainly a theme to watch for the coming decade.
+2. SFY: SoFi Select 500 ETF, [https://www.sofi.com/invest/etfs/sfy/](https://www.sofi.com/invest/etfs/sfy/) .  This ETF is... highly intriguing.  It has a 0.0% expense ratio, yes, free, waived until at least end of June 2021 (at which point it might go up to 0.19%).  They're waiving the fee to draw in AUM.  Its performance over the past trading year is +20%, so it beats the S&P 500 (easily).  What they do is take the top 500 US stocks by market cap, then weight them according to a set of equations based on net income and sales growth as per the methodology.  Not market-cap weighted, which is very unusual and thus nice to have as a tool in your toolkit.  The ETF ends up with more weighted overlap with the S&P 500 than other large-cap growth ETFs such as VUG, IWZ, JKE, etc., because the "value" companies are still in there -- they're just not weighted as highly as they are in SPY or VOO.  The usual suspects are still in the top 10: AAPL, AMZN, MSFT, TSLA, GOOGL, FB.   SQ comes in at #15, which I think is very nice, and SQ is missing from an S&P 500 ETF.  Granted, if the ER wasn't 0.0%, this ETF would be significantly less attractive.  Index methodology here: [https://www.solactive.com/wp-content/uploads/2019/03/Solactive-SoFi-US-500-Growth-Index-Guideline.pdf](https://www.solactive.com/wp-content/uploads/2019/03/Solactive-SoFi-US-500-Growth-Index-Guideline.pdf)
+3. DSTL: Distillate U.S. Fundamental Stability & Value ETF, [https://distillatefunds.com/dstl](https://distillatefunds.com/dstl) .  Its methodology is in the prospectus, [https://distillatefunds.com/dstl/prospectus](https://distillatefunds.com/dstl/prospectus) .  Essentially, they try to combine "quality" and "value" factor investing. The fund's weighted overlap with SPY is only 20% according to [etfrc.com](https://etfrc.com). So it's not simply the S&P. It's also not the first ETF to use free cash flow as a factor (see also: COWZ, TTAC, neither of which I really like). Its ER is only 0.39%, which is reasonably low for small-ish specialty ETFs. But how does it perform? Well, since inception over 2 years ago it has kept pace with or outperformed the S&P 500 and iShares' US quality and value factor ETFs every step of the way.  Gotta admit, I'm kinda impressed. Their top holdings right now are: JNJ, UNH, INTC, WMT, GOOGL, HD, PG, CSCO, AMGN, and AVGO. Surprisingly, compared to SPY, they're most underweight in financials. I would've thought they scored well on those cash flow metrics but maybe the banks score poorly on their debt metric and they don't compensate for banks having a different business model than, say, JNJ.  Really neat non-market-cap weighted ETF!
+4. SDG: iShares MSCI Global Impact ETF, [https://www.ishares.com/us/products/283378/ishares-msci-global-impact-etf-fund](https://www.ishares.com/us/products/283378/ishares-msci-global-impact-etf-fund) . This fund tracks an index that seeks to "Obtain exposure to global stocks aiming to advance themes related to the United Nation’s Sustainable Development Goals, such as education or climate change."  ARK Investing may also be launching an ETF with this theme in the future (see: [https://www.youtube.com/watch?v=kfhgbZBWgBE&t=30m53s](https://www.youtube.com/watch?v=kfhgbZBWgBE&t=30m53s) ).  Methodology here: [https://www.msci.com/msci-acwi-sustainable-impact-index](https://www.msci.com/msci-acwi-sustainable-impact-index) .  It's nice to have a fund you can feel good about investing in.  It has also easily outperformed the S&P 500 over the past year!
+5. FRDM: Freedom 100 Emerging Markets ETF, [https://freedometfs.com/frdm/](https://freedometfs.com/frdm/) . It's a very new emerging markets ETF that is not market-cap weighted and filters countries based on human and economic freedom scores.  Top holdings include TSMC, Samsung, and CD Projekt Red.  If you're concerned about international tensions and based in North America, this could be something you'd like.  Also a rare way to get very high weight to tech outside China in an emerging markets ETF.  Very unusual and a neat tool to have in your emerging markets investing toolbox!
+6. EMXC: iShares MSCI Emerging Markets ex China ETF, [https://www.ishares.com/us/products/288504/ishares-msci-emerging-markets-ex-china-etf-fund](https://www.ishares.com/us/products/288504/ishares-msci-emerging-markets-ex-china-etf-fund) . Also an ex-China emerging markets fund, but otherwise it follows a broad MSCI mark-cap weighted index.  Very top-heavy in Korea, Taiwan, India, and Brazil.  It's another tool to stay in emerging markets but specifically tailor your China exposure through some other portfolio choice (or have none at all).  Like in FRDM, you get heavy exposure to TSMC and Samsung.
+7. IMTM: iShares MSCI Intl Momentum Factor ETF, [https://www.ishares.com/us/products/271538/ishares-msci-international-developed-momentum-factor-etf](https://www.ishares.com/us/products/271538/ishares-msci-international-developed-momentum-factor-etf) .  One of the few ways to get exposure to trending stocks in developed non-US markets.  Really heavy on tech and luxury.  If you're bored of holding EFA or VEA and want greater returns from non-US developed markets, check this out, it may be something you like.  High exposure to Shopify, Sony, Nintendo, LVMH.
+8. SWAN: AMPLIFY BLACKSWAN GROWTH & TREASURY CORE ETF, [https://amplifyetfs.com/swan.html](https://amplifyetfs.com/swan.html) .  Treasuries plus SPY LEAP options.  Its performance in 2020 was great -- saved you during the crash, and gets you most of the S&P 500 upside during "normal" times.  Kind of a barbell strategy; an interesting conservative ETF.  Probably of greater interest to people near or in retirement.  Amplify has a whole set of thematic ETFs, much like Global X.
+9. NTSX: WisdomTree 90/60 U.S. Balanced Fund, [https://www.wisdomtree.com/etfs/asset-allocation/ntsx](https://www.wisdomtree.com/etfs/asset-allocation/ntsx) .  Another fund that deals with both US large caps and treasuries.  But in this case, it uses treasury futures as leveraged exposure to get 90% equities, 60% treasuries total exposure.  Quite a clever package and designed for long-term holding with reduced volatility, while likely outperforming a 60/40 balanced fund.  There's a huge thread on bogleheads.org about it with a lot of people who like its design.
+10. IGBH: iShares Interest Rate Hedged Long-Term Corporate Bond ETF, [https://www.ishares.com/us/products/275397/ishares-interest-rate-hedged-10-year-credit-bond-etf](https://www.ishares.com/us/products/275397/ishares-interest-rate-hedged-10-year-credit-bond-etf) .  This is an interest-rate hedged long-term corporate bond ETF.  You see, when treasury yields rise, as is expected the next year or two, corporate bond yields also rise.  But that means the price of the bonds goes down -- bad for bond ETF values.  Hedging the rates allows you to still collect distributions and have lower volatility than equities, but avoid the interest-rate risk.  A whole lot of money has flowed into this and its sister ETF, LQDH, in the past 6 months because of historically low treasury yields.
+
+ok, here's a bonus #11:
+
+11. PPA: Invesco Aerospace & Defense ETF, [https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PPA](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PPA) .  This is a broad defense industry ETF, and may have some deep value right now as the industry has lagged for the past year.  But the world is still a dangerous place and if war breaks out these companies will benefit; a good ETF to have watchlisted.  US and allied defense spending keeps chugging along.  Also, many of these companies may be in Cathie Wood's ARKX. ITA is an alternative but lacks $HON, which is an important company in the sector.
+
+Disclaimer: this is not financial advice and I currently have no position in any of those ETFs at time of posting, but that may change at any point in the future.
+
+What do you guys think?  Any of those look like something you might invest in?  Anyone else want to comment on a personal favorite small/medium sized fund?
+
+&#x200B;
+
+edit, 6 hours after OP: wow, this post blew up!  I'm so happy many people are finding this discussion informative.  Thanks for the awards and comments._END_OF_POST_PYSTOCK_ this looks like it will have massive returns in a short period of time  
+
+Alpine  4 Technologies ($ALPP) is a holding company, with multiple  subsidiaries, and you've probably seen it in this sub multiple times,  and with good reason. I'll try to use bullet points for you to follow  along much easier.
+
+* Backed by the founders of $TSLA
+* Low share structure
+* 2 Drone Subsidiaries
+* Contracts with the goddamn US Air Force
+* Apple is a customer
+* Acquiring 3-4 new subsidiaries this year alone
+* Just made $1M in 1 month from ONE of their many subsidiaries supplying their Silicon Valley EV customers
+* Will unload a whopping $170M into the Drone and EV sectors (the obviously hottest sectors of 2021)
+* Projecting over $100M+ revenue for 2021, excluding their $170M war chest from before.
+* NASDAQ uplist this month (organically, no r/S!)
+* American  manufacturing + no Chinese competition due to an executive order signed  by Trump last year  (ALPP has 9 US operating subsidiaries)
+
+**Comparing it to UAVS**
+
+UAVS current SP \~ $11,5  
+ALPP current SP \~ $3.6  
+UAVS  is mostly a drone company, that reported  $1.2 million of revenue. UAVS  hit $15 pps  with only $2M of revenue. ALPP generated $26.6 millions!
+
+In  January 2021QCA, only ONE of ALPP's subsidiaries (1 out of 8) reported a  revenue of +$1 million. Like I said previously, they will unleash a War  Chest of $170M, and UAV'swar chest is only $25M. ALPP is severely  undervalued, especially compared to UAVS.
+
+**Conclusion**
+
+Last week, stockinvest ( I think, could be another), predicted this stock to reach 15-23$ in 3 MONTHS!  
+I'm  not one to tell you what to do with your money, just wanted to share  some details about this amazing company. The future is bright_END_OF_POST_PYSTOCK_ Rebalancing a ROTH IRA with A Shares I've had a Roth IRA since 2003 with American Funds and have been consistently contributing to it.  What a great decision in my 20's by the way.  I am now 41 and can really see it's growth start to take off.  Anyways, I just have everything allocated to a target retirement fund with Class A shares and they have like a 4% sales load.  I'm considering rebalancing to something with less expense ratios  and wondering if the Class A Share sales load applies to the rebalancing.  I have to think "No" or that would just be greedy from the brokerages.  Can anyone confirm my assumption?  Please and thank you._END_OF_POST_PYSTOCK_ DD ON $SGLB LONG TERM HOLD DD on SGLB
+
+The standard for Quality Assurance for Additive Manufacturing
+
+-So first of all, what is additive manufacturing?
+Additive manufacturing is the production of three dimensional precision metal parts.
+
+-Why is it important?
+Additive manufacturing is the future of technological building materials using 3-D printers.
+
+Companies who currently use 3-D printers fail to have reliability and quality.
+The solution is Sigma Labs ($SGLB)
+
+Sigma Labs offers proprietary technology which takes the human error out of quality assurance. With their IPQA technology they can monitor the manufacturing process in real-time, while quickly and efficiently makes changes to protect the integrity of the product.
+
+Sigma’s proprietary software addresses the inherent challenges of in-process quality assurance:
+
+-Eliminating the traditional trial and error approach to quality assurance for additive manufacturing.
+-Manufacturers don’t just look for defects or discover them after it’s too late. They help build quality into the part. Quality cannot be inspected into the part.
+-Reducing the cost associated with today’s “make-and-break” approach to certifying AM part quality by seeing and analyzing the structure of a 3D-printed part while it is being made.
+
+SGLB is significantly undervalued for the growth potential it has.
+They have 4 major contracts at the moment with Mitsubishi, DMG MORI, Additive Insustries, and Materialise
+They currently hold 11 patents and 33 are more are pending. They are currently cash positive after $4.5 mil public offering. Insider buying is up in recent months. Ceo has bought 20,000 shares recently as well as other executives.  
+My conservative price target is $5 short term.
+Long term with contracts in place $15-$20+
+
+Overall great company, proof of concept, insider buying up, contracts in place, cash flow positive, and undervalued (imo)._END_OF_POST_PYSTOCK_ Investing for long term growth: undervalued EV stock $RIDE (Lordstown Motors) https://www.globenewswire.com/news-release/2021/01/28/2165668/0/en/Lordstown-Motors-Releases-Business-Updates-Prepares-Ohio-Factory-to-Begin-Building-Betas-Next-Month.html
+
+Here is an article on their recent updates and plans going forward. I bought this stock earlier in the week and I plan to hold it for a long time. It’s a young company so could be a bit volatile, but very impressed at what they’re doing in such a short time, and they have a genius CEO who founded workhorse too. 
+
+If you look at the analysts covering the stock, there is a median price target of $33 with a high price target of $50. 
+
+Nikola is valued at $9 billion+ and Lordstown is only valued at $4.5 billion. Oh yeah... and Lordstown has a REAL product, a REAL manufacturing plant (a massive one they bought from GM in Ohio), and a partnership with Camping World to make electric RV’s.
+
+They are beginning production this year and there’s no reason they should be valued under $5 billion currently with 100,000 pre-orders for their $50,000 truck ($5 billion alone) and the potential for military fleet contracts. See this link as well:
+
+https://www.google.com/amp/s/www.wkbn.com/news/local-news/lordstown-motors-stock-rises-after-biden-vows-to-replace-us-fleet-with-electric-vehicles/amp/_END_OF_POST_PYSTOCK_ Time to look at some real value, Gazprom There's been a lack of discussion regarding real value companies in this sub. You know they exist, right?
+
+
+PROS:
+
+-Lowest cost producer of natural gas with the largest reserves in the world.
+
+-Immense infrastructure in pipelines and facilities, hundreds of billions of $ have been invested into it. Europe, China, all bases covered.
+
+-If the anti-nuclear sentiment holds, nat gas is the only viable option left after coal is phased out. It's prudent to hedge this assumption by holding some uranium miners as well.
+
+-Balance sheet is strong.
+
+-Valuation is a joke. P/E is often around 3, P/B .2 or something.
+
+-Good dividend policy, 50% of profits will be paid out in dividends. Will probably yield around 10-15% going forward.
+
+-Is doing research into producing green hydrogen from natural gas.
+
+
+CONS:
+
+-Russia; geopolitics, sanctions, owned >50% by the government
+
+-Nord Stream 2 might still take a few years to finish. A minor nuisance.
+
+-If a green revolution of a magnificent scale really happens. I'm talking about a solution to the baseline power problem of rebewables.
+
+
+I've been long this stock for years. While my cost basis is around the current stock price, I've been reaping large divvies and have no problem waiting for the valuation to correct, while collecting a juicy dividend in the meantime. Don't care if it takes years or decades.
+
+Anyone else like this stock? Or hate it? I would be very interested in hearing a bear case for this._END_OF_POST_PYSTOCK_ Someone informed on downgrades to OTC/Q (not seeking advice) Not looking for financial advice on what I should do, but merely information on how downgrading works (and to lift my confusion).
+
+To give some context,
+
+I bought stocks in VALARIS:VAL a long while ago and this company has filed for chapter 11 bankruptcy months ago, bringing down my holdings to -95%. It seems that their new ticker is VALPQ, but what I want to know is if my holdings of VAL have been re-issued into VALPQ automatically or if I am stuck on their closing price on the previous ticker? Would they have sent out an email to shareholders about what they want to do with their holdings and what is the usual default if the shareholders don't respond (I can't find any emails from them).
+
+My broker has sent me a holdings summary and on that sheet the listed ticker/description is " VAL.N - VALARIS CL A ORD " and there is a discrepancy between the brokers current value (0.33USD) and VALPQ 's value @ 0.11USD. So I've gotten confused.
+
+I want to know this info because if there is a extreme slight chance they could recover out of chp 11 then I want to hold on to the stock cause it's already down so much and I don't need the money tied to it. But if I am stuck with the old shares, and won't automatically be holding the new shares IF they recover then there is no point in holding the investment in there.
+
+((This and GTX are the only two shares in my portfolio in the red, and badly in the red and both of them share a similar issue (GTX @ 2.01USD ticker to GTXMQ @ 6.48USD; but also discrepancy from broker - GTX facing class action). My other holdings have made up for these losses more than enough, but I need to make an informed decision whether or not to hold them or if they won't move ever anyway.))
+
+I haven't experienced this before and am a relatively new investor since 2 years ago. Any info would be amazing._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Short is good or evil, give your opinion Good day! Shorts can really destroy companies, look at the great PFIZER (PFE) company, they save the world from a pandemic, they had a great annual report and look at the shorts pushing them down, is that fair? I saw yesterday. how there were tens of millions of dollars in sales in the order book, and before the report, insiders raised it a lot and in about five minutes they brought everything down, funds steal from ordinary people with information and a picture of stock positions, this is not fair. They create shitty reports and then gain positions for them._END_OF_POST_PYSTOCK_ (DD) $VLDR - Velodyne Lidar: autonomous vehicle tech and Apple Car news  
+
+*I am no financial advisor nor any kind of advisor for all that matters. Just do your own DD and buy the stocks you like.*
+
+While everyone is with their focus on GME and all surrounding it, some other interesting things still happening.
+
+Velodyne Lidar is, you gussed, a company specialized in LiDAR technology. What's that? Well, for those who spent the lockdown playing iRacing or other fancy racing simulator you should have heard that they use LiDAR to model the tracks. LiDAR has plenty of uses and one hot topic recently is their application in autonomous vehicles. You can check a bit about it here: [https://en.wikipedia.org/wiki/Lidar](https://en.wikipedia.org/wiki/Lidar?wprov=sfla1)
+
+So, it happens that Apple doesn't know what to do with the piles of cash they're sitting in and they are thinking to throw a few billions in making an EV car. The problem is they really don't know how to make one so to solve this small problem they're in talks with Hyundai/Kia group and they close to reach to an agreement now: [https://www.marketwatch.com/story/apple-may-build-a-fully-autonomous-electric-car-with-hyundai-kia-report-11612394804?siteid=yhoof2&yptr=yahoo](https://www.marketwatch.com/story/apple-may-build-a-fully-autonomous-electric-car-with-hyundai-kia-report-11612394804?siteid=yhoof2&yptr=yahoo)
+
+It happens that Velodyne already has a partnership with Hyundai and they actually use it. Hyundai also invested 50M in this company "to mass-produce lidar system in 2021 for level 3 autonomous driving" [https://www.businesswire.com/news/home/20191022006225/en/Hyundai-Mobis-Invests-in-and-Forms-Partnership-with-Velodyne-Lidar](https://www.businesswire.com/news/home/20191022006225/en/Hyundai-Mobis-Invests-in-and-Forms-Partnership-with-Velodyne-Lidar)
+
+You've also should have heard about LiDAR with Luminar. While LAZR has a much cooler ticker, VLDR is already profitable and have a nice list of costumers. Even without the Apple Car they can survive and have a bright future.
+
+Anyway, the recent news about the Apple/Hyundai partnership may be the trigger for some crazy run in VLDR but in my opinion this should be seen mostly as a long play.  
+
+
+TL, DR: rumors intensify of an Apple Car with a partnership Hyundai group. Hyundai has a stake in VLDR which owns important technology for electric autonomous vehicles and may beneffit but in short and long term plays._END_OF_POST_PYSTOCK_ Gamestop and its implications for the future [https://www.youtube.com/watch?v=rWEPSKkkdKQ](https://www.youtube.com/watch?v=rWEPSKkkdKQ)
+
+I was listening to this podcast with Chamath and his friends talking about what happened with Gamestop and I thought it brought up two key ideas.
+
+&#x200B;
+
+The value of the stock is not based on the value of the company but what someone is willing to pay for it in the future. I know Mark Cuban also mentioned this in his call with CNBC that companies haven't paid dividends for years and that proves that the valuation of a stock is detached from the fundamentals. What does this say about fundamental investing? Does more emphasis need to be placed on the vision of a company as a measure of valuation?
+
+&#x200B;
+
+They also mentioned that decentralization is needed in a system, they focused more on social media but I believe it applies to financial markets too. Brokers, clearing houses, DTCC are all limited entryways to the financial markets and when it gets too crowded, there is failure like we saw this week. Will there be changes made to our financial system? Personally this has also made me understand the value thesis of cryptocurrency better. Before, I thought it was worthless because it was connected to no underlying asset but maybe decentralization is an important enough asset?
+
+&#x200B;
+
+There's lots of people smarter than me here so I wondering what you guys think._END_OF_POST_PYSTOCK_ Tilray Inc. and Aphria Inc observation + mathematics Hi,
+
+As some of you already know Tilray and Aphria are going to merge in Q2, with Tilray becoming the surviving Company.
+
+Now the fun thing about it:
+
+Aphria stockholders are to obtain 0.8381 of one share of Tilray for each Aphria share they own.
+
+[https://www.fool.com/investing/2020/12/16/tilray-and-aphria-to-merge-creating-largest-marija/](https://www.fool.com/investing/2020/12/16/tilray-and-aphria-to-merge-creating-largest-marija/)
+
+\-
+
+Aphria Stock: [finance.yahoo.com/quote/APHA?p=APHA&.tsrc=fin-srch](https://de.finance.yahoo.com/quote/APHA?p=APHA&.tsrc=fin-srch)
+
+Tilray Stock: [https://finance.yahoo.com/quote/TLRY?p=TLRY&.tsrc=fin-srch](https://finance.yahoo.com/quote/TLRY?p=TLRY&.tsrc=fin-srch)
+
+They move pretty similarly, almost identically.
+
+\-
+
+With the price in mind lets do math:   **16.60$** /  **26.31$** = **0,631** (**63**%)
+
+so Aphira is only **63**% compared to every Tilray Stock
+
+now considering we are getting **0,8381** for each Aphria Stock:  **26.31$ \* 0,8381** = **22,050$**
+
+Feel free to prove me wrong,but for me it looks to me like you'll get around 6$ - after the merger -for free just for owning Aphria stock._END_OF_POST_PYSTOCK_ Gamestop Big Picture: Evolution of a Trade  *Disclaimer: I am not a financial advisor. This entire post represents my personal views and opinions, and should not be taken as financial advice (or advice of any kind whatsoever). I encourage you to do your own research, take anything I write with a grain of salt, and hold me accountable for any mistakes you may catch. Also, full disclosure, I hold a net long position in GME, but my cost basis is very low, and I'm using money I can absolutely lose. My capital at risk and tolerance for risk generally is likely substantially different than yours.*
+
+So.. I mentioned possibly doing a 'post mortem' on my GME trade, and apparently that was in high demand.  That being said, I'll call it an 'evolution' instead, as we still don't yet know what will happen next.
+
+Rather than going through a full narrative, I made a [crazy annotated chart](https://u.teknik.io/xg2HJ.PNG) to chronicle some of the key points in my trade decisions.
+
+Strangely enough, I think it might better convey how the week went from my perspective a little better than a full narrative.  If you catch any inconsistencies between the chart, or my writing below, please point it out.  It's very easy to ex post facto ascribe to yourself the benefit of 20/20 foresight and overlook mistakes you made at the time.
+
+I'll walk through my thought process for newer traders.  Keep in mind I'm trading my hobby account, not a self-directed IRA, so the stakes are a lot lower and tolerance for risk is much higher:
+
+1. I would probably trace the initial origins of this trade for me back to November.  I wasn't a genius like DFV finding GME at that point, but once the Pfizer and Moderna vaccine efficacy data came out, I decided to go rummaging through XRT (retail)  and other unloved sectors for value that should rebound on the sector rotation to the 'reopening trade' given the nosebleed multiples in QQQ (the NASDAQ/big tech companies that dominated the market in 2020).  Figured I'd mostly ride the SMH (semiconductor index) and a few other favorites while digging around.  Looking at unloved sectors is the value/long term investor version of 'buy the dip' (typically the dip might last years, but I figured in this case the evolution would be much faster because it would be driven by progress against COVID).
+2. ID'd GME for the short list because of an unusually regular pattern on the daily chart RSI.  In hindsight I would probably attribute that to one of the hedge funds trying to stealthily unwind its short position veeeeery slowly, but GME being a dead corner of the market, it shows up in the data like a lighthouse beacon, in a channel upward just bouncing off RSI 70.  Someone is gradually accumulating a big long position or covering a big short position.  TJX's looks better, but valuation too high already (over-loved).
+3. Deep dive DD, including DD from WSB just makes me think this is exactly what I've been looking for.  Better buy in before it escapes completely.  
+4. Ok..it made some massive moves already, but with the bonus of the short interest anomaly this is too good..  and it comes with awesome memes--can't say no to the package deal. $38 (my first buy) is pretty good, but I'll write April $40 cash-secured puts to net me a better entry (or additional profit if they go unexercised).  This is a common technique investors can use to get either a better entry than they otherwise could get, or some participation in the upside if the price runs away--I find it easier to do this than setting an aggressively low GTC limit buy and keeping my fingers crossed.
+5. Digging deeper into the short squeeze thesis tells me it's practically mathematically guaranteed to go off any moment.  I take off some cash-secured puts, liquidate a lot of the rest of my portfolio, etc. because if things get as crazy as I think they might, it's better to have almost nothing else in your portfolio to complicate matters.  This is especially true as margin requirements start rising.
+6. Volatility starts going crazy.  You almost can't see it on the daily chart with the scaling of the 500+ peak, but if you focus on the 1/21 to 1/26 timeframe there were a few brutal Eiffel tower moves (parabolic up then down).  All kinds of misinformation about what is going on starts flying.  People start FOMOing into those moves only to despair out on the other side for a loss.  Few if any seem to be willing to talk about the situation in a way that newer traders can understand.  I start posting a bit here and there, just getting a feel for reddit.
+7. On 1/25 I see a few heated discussions regarding whether the gap up over the weekend, then crash down that day in fact WAS the squeeze, and I try to jump in and correct the record a bit.. people are panicking out on the downside of that move because they're being told the squeeze is over.  That motivates me to write my first article in the series.  Don't finish it that evening, decide to finish it in the morning.  It drops on this sub essentially as what we now know was the squeeze is achieving liftoff.
+8. Looking at my posts from 1/25 to 1/29, I'm probably too tuned in to the hype, but tuning in to sentiment is important in sentiment-driven momentum trading.  I do try to consistently try to warn new traders from FOMOing in, but that doesn't stop me from trying to help them understand what is going on.
+9. One thing I've learned the hard way--don't carry a sentiment-driven momentum trading position through a weekend.  That usually does not end well.
+10. The weekend gives me time to step back and resume a more analytical approach and you may notice my writing style reflects that at that point.  Looking back, I notice a lot of sloppiness and some outright errors in my realtime read of the situation.  I try to point some of those out if I feel they might be material to others' trading decisions.
+11. At this point I'm thinking the squeeze has been mostly squoze (but for a few 'technically it's still possible' type scenarios).  I figure since so many of the regular readers/commentators on my posts are going to ride it, I'll keep a position on to ride it with them too.  We'll see where we go from here!
+
+I actually did really well on the trade overall.  Could have done much better had I just stuck to my trades rather than reading and writing on Reddit, but the numerous comments I've seen where I or other commentators in this sub were able to provide good, level-headed feedback and advice helped people make better decisions make it worthwhile to me.  I guess it just bothered me too much to see the vacuum of real information and willingness of people to push their trade on others.  I didn't see that kind of behavior in WSB even just the week prior when I first joined.
+
+Also, while it turned out very well, I have to be completely intellectually honest and admit that I could have lost it all too.  This was a crazy volatile trade with more twists and turns and unexpected developments than I could have imagined, and that's even given that I actually believe it when I say that I don't know what will happen next.  This is something anyone knowingly walking into this type of situation should realize and plan for.
+
+Each person has a different tolerance for risk, though I will say that while I was and am willing to take significant risks with my hobby trading account, I try to never take entirely irrational risks.  I also actively put at risk a relatively small percent of even my hobby trading capital (\~20%).  It may not seem like it, as you've seen my writing on a high volatility play, but my overall capital disposition is very conservative and low-risk/low-volatility in aggregate.  It's because I know that most of it is safe that I can feel comfortable and controlled making very high risk plays.
+
+I've seen people put it all on the line and totally clutch trade big momentum--I wish I could, but I know that's not me.
+
+There are a few sayings that traders have as almost jokes, but with an undercurrent of dark humor in many cases:
+
+1. **Rule #1: never lose money.** From Warren Buffett, value investing legend.  I'm a little more flexible with this for myself, and amend it to "always have a plan that guarantees you can never lose more money than you intended to put at risk."  If you are in the red on this trade, realized or unrealized, don't feel bad--I'm very confident that most people are in the same boat.  Try to think of it as tuition for one of the most intense, and hopefully intellectually productive seminars ever, held only once every decade or so.
+2. **No one ever went bankrupt taking profit, or pigs get fat, hogs get slaughtered.** (counterpoint: tons of people have gone essentially bankrupt riding profits right back into the ground--particularly in climactic late bubble market action, like the dotcom bubble).  To those of you feeling bad that you could have made more, be glad that you were in the green.  It's something to celebrate.  You traded a black swan event and came out ahead.
+3. **Buy low, sell high.**  MUCH harder to do consistently than it seems.  Particularly if you initiate a [trade from FOMO](https://www.reddit.com/r/investing/comments/l5l413/gamestop_big_picture_the_short_singularity/gkyxdqv/?context=3).  For those of you who did this, try to remember what that was like, and think of ways you can manage those emotions in the future, or ensure you never put yourself in a similar position if you'd rather not have to.  Either approach will be healthier for both you and your wallet in the long run.
+
+Alright, this post is long enough as is.  We'll see where the rocket takes us tomorrow.
+
+Good luck in the market!_END_OF_POST_PYSTOCK_ I'm overwhelmed by all the new money I've made I'm 20 years old and I started investing in index funds in 2018 and in 2020 I got more serious about learning dd, trends, technical analysis, and options. 
+
+As I started making better trades, my account went from about -2k to currently about 3k of realized gains and 15k of unrealized gains. (up over 100%)
+
+It feels like just about every day I'll see another $1,000 gain on my account and it really emotionally overwhelms me. I'm young and too some of you this may not be a lot, but to me this is the most money I've ever had and I've just made as much money in the last 6 months as I have probably since I started working. 
+
+I feel a constant rush when things go well and I sometimes feel the urge to splurge on eating out or buying myself gifts, but that's something I usually never do. I'm the kind of guy who usually saves everything, but this money makes me want to spend it. 
+
+It feels too good to be true but here I am. I have the feeling in my gut that this can't last forever but my analysis is that things will still be bullish for my portfolio. 
+
+That said I do have a bit of margin debt (4.5k on a 30k account) and some call options that are in the money. I've also never really had to worry about capital gains tax yet. 
+
+Is this a feeling that you get used to with experience? Is it okay to have some degree of lifestyle inflation? 
+Do you have any general advice or wisdom?
+
+TLDR
+I made about 15k and I'm so excited by it that I'm afraid I won't be thinking straight and I don't want to mess this up now
+
+It feels like I won the lottery and I don't know what to do with the money._END_OF_POST_PYSTOCK_ Face Book Stock Price Target-$400 End of 2021 **Disclaimer:**
+
+I am not a financial adviser, I hold FB stock and and some options. I am small investor
+
+**FB -Stock Price prediction-End of 2021-$360-$400**
+
+*Facebook is giant in online advertising , monetizing ad space on Facebook, Instagram and Whatsapp, Online advertising is still a percentage of traditional media advertising.Online adverting is still predicted to grow at 30% rate for next several years, Facebook*  *2020 fiscal year revenue is about $86 Billion. Facebook net income for2020 is about $29 Billion and grew at a rate of 56%annually*
+
+***Pros:***
+
+· *Advertising revenue expected to grow at 30% growth rate for many years to come*
+
+· *Facebook /Instagram partnering with ecommerce retailers* *providing online market place for selling product*  *and earning commissions from merchants*  *making margin on every sale*
+
+***Cons:***
+
+· *Data privacy laws such as GDPR,*
+
+· *Digital Tax Proposal*
+
+· *IOS 14 apple changes to let consumers know of FB tracking*
+
+***P/S valuation***
+
+*Facebook Revenue grew annually at 22% in 2020 , its most recent Q4 grew at 31% , Historically it has grown at 36%. Assuming a conservative growth rate of 30% its annual revenue is projected to grow from* *$86B to $111B.Giving an average P/S ratio of 9 the projected Market Cap at end of 2021 is about$ 1 Trillion. It has about 2.8 Billion out standing shares*  *that give per share price of*  *$360* *by end of the year 2021*
+
+***P/E valuation***
+
+*Facebook 2020 EPS is 10.09 assuming a net income growth of 55% based on 2020 growth rate its earnings per share are expected to grow to $15.6 .Giving it a conservative P/E multiple of 26 it is expected to grow to $406.*
+
+***Price prediction for End of 2021-$400***
+
+***Price prediction for before June-2021-$350***_END_OF_POST_PYSTOCK_ A Rough Analysis On Teradyne and a reflection on Sony analysis last week \*Disclaimer, my IQ is very low and subhuman. This is not financial advice, in fact its more akin to a drunk dog howl.
+
+**Teradyne**
+
+**MASSIVE AMOUNT OF TECHNOLOGY DEMAND.**
+
+Everything requires semi-conductors now. The huge technology boom has led to an unprecedented increase in demand for semi-conductors:
+
+\- Smart devices, cars now require massive processing power to compute automated “smart/enhanced” driving features. 
+
+\- Car media technology is no longer just analog, everything is Digital.
+
+\- Consumer devices are “smarter” than ever. Speakers, headphones.
+
+\- “Connected” devices running on networks are growing more complex, 5G is a good example. 
+
+Even without covid **supply cannot keep up**. All the major electronics companies are in a race to build new factories and update to the latest equipment.
+
+Teradyne Provides the **AUTOMATION** equipment for almost all of them. 
+
+* 50% Of semi conductor tests are $TER
+* Biggest customers 
+   * Intel
+      * 7 Billion new factory 2020
+   * TSM
+      * 12 Billion new factory 2020
+   * Samsung
+      * 25 Billion new factory 2020
+* The biggest issue with semi-conductors has always been a shortage of supply due to whatever reason.
+* New Technology Paradigms that could force rapid production development.
+   * Automotive technology explosion
+   * 5G technology explosion
+   * Space technology Growth
+* Shortage of supply for existing products
+* By the numbers:
+   * Industrial automaton sales declined in 2020 due to covid
+   * 43% Growth in System Test segment
+   * 10% Growth in 5G segment. Expected to ramp up in 2021.
+* Large increase in capital expenditure to keep pace with growth of client demands. (37%)
+* Relatively high EPS and revenue expectations
+   * Justified by the gigantic demand in semiconductor in the coming decade.
+   * Demand is not issue, massive amounts of expenditure needed to keep up with pace of industry. 
+* 67% Growth in operating income
+* 33% Growth in gross profit
+* 64% Increase in EPS
+* 31% Increase in cash equivalents, 10% increase in liabilities
+* 50% Cash flow growth
+
+**Reflection on Sony**
+
+>!Long term outlook still remains positive. Playstation 5 console sales will plateau, but licensure and sale off first party titles will increase as more titles are released. I believe PS5 will be the most profitable console generation yet from SNE. !<
+
+>!EV technology looks very promising, I suspect one of the Japanese car makers will swoop the technology up or a partnership deal will be announced in the future.!<
+
+>!SNE looks very competitive in the supplier niche for automotive, few other automotive suppliers come close in terms of cutting edge tech.!<
+
+>!Electronics division regaining consistent growth is a good sign.!<
+
+>!Pictures looks like it will be the next possible growth sector of the company with the purchase of crunchyroll, SNE might make a monopoly play in the anime streaming world, carving out a hefty niche.!<
+
+>!I maintain overall that Sony is undervalued for the size and scope of the industry it is in. Very positive outlook on the near term and long term future. !<
+
+**tl;dr** 
+
+$TER is a good long term hold, semiconductors may be cyclical but I believe we're entering the growth territory where demand vastly exceeds supply. The amount of new tech needs lots of chipsets to fuel it's consumption and TER is happy to help manufacturers produce them. At 120$ price after earnings I will be purchasing a long position.
+
+I'll be cleaning this up when I have time._END_OF_POST_PYSTOCK_ GME a simple understanding This is very simple, for all the hype it’s easy to explain exactly what happened and what’s happening. Nikola, a company who has never produced a product and is widely believed to be outright fraud has a marker cap of ~$8.3B as of Feb 3rd, 2021. GameStop, a company with ~40k employees in the growing industry of video games has a market cap of ~$6B. A few months ago a dynamic businessman, Ryan Cohen bought millions of shares of GameStop, and then joined the board with other former Chewy executives (an online pet supply store worth ~$40B). People who had long believed GameStop has more value than the market was giving it (a low of ~$250M total market value at one point), along with new people who now saw potential in this businesses turn around, bought stock in the business. That should be the end of the story.
+
+It’s because hedge funds on Wall Street have again been so greedy that they risked the entire United States financial system. See, these hedge funds “shorted” the stock, 140%. How can you have 140% of an entire companies stock? You can’t but they did. And the risk, which they never considered in their infinite wisdom, is infinite losses. Infinite losses? Yes, a stock price can go to $0 and the shareholders lose all their money and the company is bankrupt. But a stock has no top dollar amount, and when you’re short a stock, you bet it goes to 0, but if you’re wrong it can go as far up as any stock has ever gone for any reason. A good reason would be, the stock went up for fundamental reasons but the short positions couldn’t unwind because you can’t undo 140%, you could only undo 100%. Therefore, in using market manipulation to drive a company into bankruptcy they were suddenly faced with infinite losses, something that would send catastrophic ripples through the financial industry.
+
+So, Robinhood. We all thought they were cool but like Facebook they’re fucking evil because they’re free, so instead of paying $6 a trade we pay $0, which was cool until last week when we found out that in spite of their name Robinhood, they are actually in the business of selling financial data to hedge funds. They take your trade order, and let the hedge funds know so their High Frequency Trading can arbitrage pennies on every trade by “beating” it to the order, millions of times a day. Ok, fuck us millennials, ok yeah but also, a little consumer protection, maybe? Ok - this is where it gets fucked.
+
+What we learned Thursday is that Wall Street and the stock brokers do not have America’s interest their interest is to hedge funds and banks. Trading was restricted, whether it was Robinhood, the brokers, the Market Makers, we may never know but it’s not that important because it reveals that the system is fundamentally and structurally aligned to protect the few existing billionaires against Americans interest. This is a fatal sin against our democratic capitalism and risks everything we stand to be.
+
+Moreover, they did it for a reason, the same people that control our stock markets, the barons of our nations wealth, also risked destroying them with infinite losses. How do you cover -140% to infinity? This would alter the value of every equity in America, so they shut it down.
+
+Now, as we try to piece this together, one wrong is repairing the damage done to individual investors but the bigger change needs to be structural, prosecuting the criminals we allow to run our economy and rebuilding an equitable market to allow the American dream to prosper._END_OF_POST_PYSTOCK_ Real Estate Ghost Stories and Their Revivals Equity REITSs are finally back at fair value, or close to it. These companies are range-bound for the time being. I have been piling up shares in triple net lease companies because I believe public REITs can exercise a lot of strength in this cycle due to cheap debt and billion dollar acquisition targets to grow FFO--and this is for the REITs that don't even bother with mall space.
+
+Tell me your ghost town commercial real estate ghost stories! First, I will tell you mine.
+
+When I was a kid the 100 Oaks Mall in Nashville was nice. It died. It was revived. Now its top floor is reserved for Vanderbilt medical space. Valuable real estate, like a vacuum, is not left void for long, whether that space is reserved for retail or sold to a private developer for a profit. The majority of the real estate market is private, but I think the public markets will serve the space equally well given its access to a theoretically unlimited capital market.
+
+No short squeeze nonsense, no mortgage REIT penny stock nonsense... I want to know how commercial real estate has changed where you live and how that would inform a bull or bear answer in terms of investing in it as a small shareholder in public equity REITs._END_OF_POST_PYSTOCK_ Why I think Hedge Funds are digging themselves deeper and deeper holes with GME The last few day of GME have been rough. It was chopped down constantly. Then today it rallied. It rallied?!?!?! Well good news came out about more experienced knowledgable executives getting a spot to lead GME. This is what GME needed last week to trigger the squeeze. 
+
+Why I think this is wildly bullish is simply the fact that it was being bought! 90 dollar price range was low enough for people to buy! I was expecting a vicious decline in price. In terms of the current fundamentals a price around 15-20 is a fair price. I figured it would tank straight down. People are truly holding the line. Volume has been relatively low. If everyone was running for the door then volume would be through the roof. It is not. 
+
+But this is why I think the hedge funds are digging themselves deeper and deeper. I think they were not lying when they said they covered their shorts. I just think that wasn't the whole story. The hedge funds had strong control over price after Robinhood and others restricted trading. I think they rolled over their shorts at a price target of 5-10 bucks into shorts with a price target around 400-500 bucks. They needed a way to make money off this. They are not Warren Buffet or other great investors who will admit their mistakes. They are hedge funds where only the numbers matter and its about being in the club. So the reason why the SI may not have been lowered by much is because they just rolled over their shorts. 
+
+Now the kicker of all this is that they need the price to be much lower to cover their short positions. If they started to cover their shorts the price is going to skyrocket. They need it to go from 5 to 50 during the squeeze not 90 to 900. Because lets not forget, Institutions own over 100% of the shares. Boom there goes all the shares. Every share held not in a institution is essentially a synthetic share. Which is every share retail owns. They will never be able to cover their shorts if retial never sells out hard._END_OF_POST_PYSTOCK_ $CYTH: Low-Float 32M Cap vs $SAVA $3B Market Cap Hey all. First time posting here but thought it was about time I did my first DD post.
+
+$CYTH is a low-float (1M shares tradeable) pharmaceutical company with a $34M market cap. They are on a fast track designation for Phase III drug for NPC (Niemann-Pick Disease Type C) which is a $550M market cap.
+
+And they are planning on applying to the FDA to get a green light for Phase II Alzhiemer trials ($200M market cap).
+
+Their investor presentation goes into details ( [https://d1io3yog0oux5.cloudfront.net/\_5962373eb7a3261f004d798cebf4c8a3/cyclotherapeutics/db/5/30/pdf/Investor+Presentation+210203.pdf](https://d1io3yog0oux5.cloudfront.net/_5962373eb7a3261f004d798cebf4c8a3/cyclotherapeutics/db/5/30/pdf/Investor+Presentation+210203.pdf) )
+
+$CYTH is presenting Feb 8-10 at the World Symposium Conference.
+
+Their next closest competitor, $SAVA has a market cap of $3 Billion.
+
+$24M vs $3B.... It would take $CYTH share price to hit $1k to match $SAVA market cap. I don't expect that to happen but the sky is the limit on this low-floater.
+
+TLDR:
+
+$CYTH - $8.25 share as of 2/3. $34M market cap. 1M shares tradeable. On track for FDA designations. Similar to $SAVA  who has a $3B Market cap. Potential explosive low-float play.
+
+Edit: Forgot to mention Insiders are also very bullish on the stock and have been buying shares: [http://openinsider.com/CYTH](http://openinsider.com/CYTH)
+
+Thoughts? Worth playing a short-float? Or is it too much of a gamble?_END_OF_POST_PYSTOCK_ $IBM Nearly 100% guaranteed 5.5% return yearly through Jan 2023 strategy? I have an idea on where/how to park some cash (currently accruing peanuts in savings) and hoping somebody on this thread can point out what's wrong with it...
+
+Background:  
+IBM stock closed at $119 today.  
+Dividend payout is $1.63/qtr or 6.52/annually (5.5% yield)  
+Jan 2023 LEAP $85 Call is trading for $35.00 x $36.70 currently (bid x ask)
+
+Idea:  
+Buy 100sh of IBM stock at market ($119): -$11900 paid  
+Sell 1 Jan 2023 LEAP $85 Call for $35  
+Hold through Jan 2023 expiry and collect all the dividends along the way: +1304 (8qtr x $1.63 x 100sh)  
+In Jan 2023, let the stock get called away @ $85
+
+The only two things that would hurt this strategy is if:  
+1: IBM slashes its dividend (which I think is extremely unlikely given their history)  
+2: IBM price drops down below $85 at expiry, but given the dividend yield would be \~7.5%, seems like it'd be an amazing buying opportunity anyway...
+
+I wouldn't care about $IBM stock price going up since shares will be called away, but we would have upside if $IBM increases its dividend amount in the next two years...
+
+What am I missing that would make this a bad idea as a use of spare cash (versus the 0.45% APY in my savings account)?
+
+Also, it looks like Interactive Brokers margin rate is only 1.53% for <$25k accounts currently ...  We could net +5.5% on the initial outlay then \~4% on the borrowed funds by leveraging 2x...
+
+Just brainstorming.  Feedback welcome._END_OF_POST_PYSTOCK_ The future of GME sustainment I have been watching the crazy run of GME and will currently try to explain how long I think it will go on. Please note that I am just some engineer with too much time on his hands, not a financial adviser and this is not financial advice.
+
+&nbsp;
+
+First we need to know how much fuel GME bulls have. 
+
+&nbsp;
+
+In order to try and estimate this value, I did some rough calculations. I took the number of sub members (currently 8.4 million) and assumed that 35% of all members were willing to invest. I also assumed that for each member there are another four non-members who are making the same play. I also assumed that each member and their counterparts are willing to invest $10,000. By multiplying these all together, I come out to about $148 billion in buying power. 
+
+&nbsp;
+
+Number of Members - 8,464,258
+
+Percentage Buying GME - 35
+
+Multiplier - 5
+
+Average Investment - $10,000
+
+Total Buying Power - $148,124,515,000
+
+&nbsp;
+
+Now I needed to know how much had been spent leading up to this point. In order to do this, I am going to take the volume traded each day and multiply it by a rough daily average price [(high + low)/2]. The further back I start counting, the more buying power is used up, so to be conservative with my estimate, I will start at open 1/13/2021. This will prevent the big players positions opened before 1/13 from reducing the buying power remaining. 
+
+&nbsp;
+
+Date | Volume | Low | High | (Low + High)/2 | Money Spent
+------|----------|------|------|-------------------|----------------
+1/13/2021 | 144,501,700 | $20.03 | $38.65 | $29.34 | $4,239,679,878
+1/14/2021 | 93,717,410 | $33.05 | $43.06 | $38.06 | $3,566,416,038
+1/15/2021 | 46,866,360 | $34.01 | $40.75 | $37.38 | $1,751,864,537
+1/19/2021 | 74,721,920 | $36.64 | $45.52 | $41.08 | $3,069,576,474
+1/20/2021 | 33,471,790 | $36.06 | $41.19 | $38.63 | $1,292,847,889
+1/21/2021 | 57,079,750 | $37.00 | $44.75 | $40.88 | $2,333,134,781
+1/22/2021 | 197,157,900 | $42.32 | $76.76 | $59.54 | $11,738,781,366
+1/25/2021 | 177,874,000 | $61.13 | $159.18 | $110.16 | $19,593,710,470
+1/26/2021 | 178,588,000 | $80.20 | $150.00 | $115.10 | $20,555,478,800
+1/27/2021 | 93,396,670 | $249.00 | $380.00 | $314.50 | $29,373,252,715
+1/28/2021 | 56,601,641 | $112.25 | $483.00 | $297.63 | $16,846,063,403
+1/29/2021 | 50,397,132 | $250.00 | $413.98 | $331.99 | $16,731,343,853
+2/1/2021 | 37,382,150 | $212.00 | $322.00 | $267.00 | $9,981,034,050
+2/2/2021 | 78,183,070 | $74.22 | $158.00 | $116.11 | $9,077,836,258
+2/3/2021 | 41,862,342 | $85.25 | $113.40 | $99.33 | $4,157,977,119
+
+&nbsp;
+
+If I add all of the money spent up, it comes out to a total of about $154 billion. That means the bulls are $6 billion in debt, that can't be right...
+
+That's where covering shorts comes in.
+
+&nbsp;
+
+Not everyone buying from 1/13 - 2/3 was on the bull side. Based on the S3 Partners Short Interest graph below, the shorts covered a lot of positions. These covers need to be factored in to see how much run is really left.
+
+&nbsp;
+
+https://twitter.com/S3Partners/status/1357075843386904582/photo/1
+
+&nbsp;
+
+Since this chart doesn’t have date points, I will be eyeballing some points so there is a level of error here based on that. Going into 1/13/2021, there were about 69 million shares shorted. Going into 1/28 there were about 62 million shares shorted. There are currently (end of day 2/3) 26.39 million shares shorted. I can estimate the cost to cover those shares by averaging the stock price at the time and multiplying it by the number of shares covered. Although there are minor changes, I am going to say that the number of shorts from 1/15 - 1/28 were constant. 
+
+&nbsp;
+
+Shares Covered 1/13-1/15: 7,000,000
+
+Shares Covered 1/15-2/3: 35,610,000
+
+Total Covered Shares: 42,610,000
+
+&nbsp;
+
+Cost to Cover 1/13-1/15: $244,475,000
+
+Cost to Cover 1/15-2/3: $10,642,820,050
+
+Total Cost to Cover: $10,887,295,050
+
+&nbsp;
+
+This means that of the $154 billion spent over the period of time, about $11 billion was spent by shorts covering their positions. This means that only $143 billion was spent by the bull side out of their $148 billion buying power. 
+
+&nbsp;
+
+Unfortunately, this is not a perfect estimate of the buying power used because it does not factor in people who buy, sell, and then buy back in with the money they gained from selling. That being said, the goal here is to better understand what is happening and hopefully predict what will happen in the future. I have tried to be conservative in my estimates, but there is always the possibility that my assumptions are way off. 
+
+&nbsp;
+
+Looking forward:
+
+Now that the price has come down, the amount of money being spent each day to buy-buy-buy has reduced. The amount spent today was just over $4 billion and that could likely be the cost that holders pay every day to buy up the shares of  traders who decide they want to exit their positions. If my calculations are accurate, there is not much buying power left to make those plays and the price of the stock should slowly start to come down. It could be a few days or a few weeks depending on the accuracy of the assumptions that I have made.
+
+&nbsp;
+
+TLDR:
+
+While holding is free, buying the shares of people exiting their positions is not. Based on some assumptions regarding the buying power of the bull side of GME, I estimate that funds are running low and the stock will start to fall in the near future.
+
+&nbsp;
+
+Again, I am not a finance guru, just an engineer so if I have made assumptions that are way off or if there is something that I have overlooked please feel free to let me know.
+
+&nbsp;
+
+Edit: For transparency, I do not own any shares of GME. I do own some $50 2/19 puts._END_OF_POST_PYSTOCK_ Dollars in the economy and stock prices So heres what’s on my mind. How can the stock market (shares or market cap) keep going higher and higher if there’s only x amount of dollars in the economy (obv not rn since the fed is printing but like when they stop/ before the fed). Like we see more and more 1 trillion dollar companies , and in the future they might go to 10 trillion or even more in 30 years. How can they reach such a level if there isn’t enough money to cause it to go up like that. Like having 20 companies each worth 10 trillion is a lot of money that needs to be in the economy. 
+Or is it the wealth is just being transferred to those companies and everyone else is becoming poorer? Like is there no cap on how high things can go. Can Amazon be worth 20k a share and google worth 50k a a share? Isn’t that too much lol wouldn’t there be a cutoff or that much more money needs to be in the economy to make sense. But there isn’t (assuming fed doesn’t print/stops printing)_END_OF_POST_PYSTOCK_ T-mobile: mid band 5G leader T mobile owns the most mid band spectrum available right now, thanks to their merger with sprint. On top of that, they basically have the only functional mid band 5g network right now, because the rest of the available spectrum was just recently auctioned off, so at&t and Verizon still need to build their networks. Once more phone makers release mid range 5g phones, 5g demand is likely to increase alot, creating a huge opportunity for T-mobile to grow its user base. 
+
+Price/brand:
+
+T-mobile also has brand recognition (think UnCarrier), and has taken on the image of a low price brand that is disrupting the industry with great deals. People love it when brands offer them value, even if the value is exaggerated by the brand. This is another plus for t mobile
+
+Downsides:
+Debt. T mobile took on alot of debt, especially during the bidding wars for 5g bandwidth. If something happens that hurts T-mobiles revenue, they could be at risk. Also, while t mobile acquired alot of midband spectrum, at&t got the most low band, which is better for rural areas since it has a long reach. So at&t might be able to use revenues from their low band network to make their midband network competitive.
+
+What do you guys think? If you disagree with anything I wrote i would love to discuss it in the comments._END_OF_POST_PYSTOCK_ Apple - Hyundai - Canoo (GOEV) speculation OK this is not meant to be a pump post, but rather a timeline of events and some speculation that there is a good chance GOEV's skateboard platform could actually end up being the base for the Apple car. I think Canoo is an awesome company in it's own right, but just presenting some potentially interesting info for folks here.
+
+**Timeline:**
+
+* **July 2019** –Hyundai is developing an electric vehicle platform called E-GMP ([https://www.electrive.com/2019/06/25/hyundai-is-developing-an-ev-platform/](https://www.electrive.com/2019/06/25/hyundai-is-developing-an-ev-platform/))
+* **Feb 2020** – Canoo and Hyundai co-developing skateboard for Hyundai's and Kia's future EVs / PBVs ([https://www.hyundainews.com/en-us/releases/2982](https://www.hyundainews.com/en-us/releases/2982))
+* **Aug 2020** \- Investor presentation restates Hyundai/Canoo partnership and also mentions a tech company using Canoo as base platform for it's smart car / AV (potentially Apple?)
+* **Dec 2020** – Canoo executive chairman says Apple entering market is a “very good thing” ([https://finance.yahoo.com/news/why-apple-entering-the-ev-market-is-a-good-thing-113808559.html](https://finance.yahoo.com/news/why-apple-entering-the-ev-market-is-a-good-thing-113808559.html))
+* **Dec 2020** – Hyundai presents e-gmp at a digital event, which does not look like Canoo tech ([https://www.electrive.com/2020/12/02/hyundai-presents-e-gmp-electric-car-platform/](https://www.electrive.com/2020/12/02/hyundai-presents-e-gmp-electric-car-platform/))
+* **Jan 2021** – Hyundai and Apple confirmed to be working on Apple car; Kia to manufacture ([https://www.cnet.com/roadshow/news/apple-car-kia-hyundai-work/](https://www.cnet.com/roadshow/news/apple-car-kia-hyundai-work/))
+* **Jan 2021** – Several sources reveal Apple attempted to buy Canoo and was turned down; when asked to comment on it the exec chairman says “Canoo doesn’t openly comment on strategic discussions, relationships or partnerships unless deemed appropriate,” (potentially nothing but interesting choice of verbiage) ([https://www.theverge.com/2021/1/12/22225026/apple-canoo-acquisition-investment-electric-car-goev](https://www.theverge.com/2021/1/12/22225026/apple-canoo-acquisition-investment-electric-car-goev))
+* **Feb 2021** – Analyst says “initial” Apple car will be based on e-gmp platform; car won’t be released until 2024/2025 ([https://seekingalpha.com/news/3657363-apple-will-team-with-hyundai-for-first-apple-car-model-says-noted-analyst](https://seekingalpha.com/news/3657363-apple-will-team-with-hyundai-for-first-apple-car-model-says-noted-analyst))
+* **Feb 2021** – Apple to invest 3.6B in Kia for EV partnership (likely manufacturing capacity) and partnership confirmed through multiple sources ([https://www.bloomberg.com/news/articles/2021-02-03/apple-to-invest-3-6-billion-in-kia-to-make-evs-donga-says](https://www.bloomberg.com/news/articles/2021-02-03/apple-to-invest-3-6-billion-in-kia-to-make-evs-donga-says))
+
+**My** **rationale:**
+
+Hyundai was already building the E-GMP platform in 2019 and was still actively seeking partners to develop future tech for skateboard and formed a partnership with Canoo to do exactly that. They indicated that this co-developed platform would be used in future vehicles. The E-GMP platform they eventually released seems way less advanced than Canoo's platform in the photos (e.g. it has struts vs Canoo's with leaf spring suspension), so the E-GMP platform could be the intermediate step until the co-developed platform is ready.
+
+Apple tried to buy Canoo for it’s skateboard platform in 2020 and was turned down by Canoo. This makes a lot of sense for Apple because Canoo platform is really advanced (steer-by-wire, leaf spring suspension, crash test incorporated into skateboard, batteries incorporated into structure, very modular and fast development times/costs) and lets Apple focus on what they excel at, which is tech and quick development cycles.
+
+Apple eventually forms a manufacturing partnership with Hyundai and it's rumored they're using Hyundai skateboard in the "initial" version, which is important because it signals they still want to use 3P skateboard. It seems that while they are likely using the E-GMP platform for the first iteration, the 2024 timeline easily puts them in line to use the new Canoo/Hyundai platform when it is done, which is consistent with the fact that Apple has already tried to purchase Canoo specifically for it's skateboard platform.
+
+**tl;dr -** seems very possible that the Apple car will use the Canoo skateboard as the foundation_END_OF_POST_PYSTOCK_ How $GME and $AMC can benefit from soaring stock prices. With valuation. [The Price-Value Feedback Loop: A Look at GME and AMC!](http://aswathdamodaran.blogspot.com/2021/02/the-price-value-feedback-loop-look-at.html)
+
+[His YouTube video.](https://www.youtube.com/watch?v=tDjw9IB8zvs&feature=emb_logo)
+
+Blogpost and YouTube video by Aswath Damodaran who teaches corporate finance and valuation at the Stern School of Business at New York University.
+
+TL;DR 
+
+1. Lenders/Bondholders are more likely to cut the firm some slack and/or renegotiate debt.
+2. Attracting and keeping new employees becomes a little easier.
+3. convertible debt converts to equity, at a higher price, reducing distress/default risk.
+4. Existing employees see a rise in the value of their stock-based compensation, making them more likely to stay.
+5. Issuing new stock at a higher price augments the value per share.
+6. Cash proceeds from the issuance can be used to change business models (new investments & acquisitions).
+
+[(EXCEL FILE DOWNLOAD!) Valuation of GameStop ( with Feedback loop for stock issues)](http://www.stern.nyu.edu/~adamodar/pc/blog/GameStop2021BaseCase.xlsx)
+
+[His website for much more stuff like this.](http://people.stern.nyu.edu/adamodar/New_Home_Page/home.htm)_END_OF_POST_PYSTOCK_ Reuters: Cryptocurrency Ethereum hits record high ahead of CME futures launch Ethereum hit all-time highs on Wednesday, breaking above $1,500, as traders bought the cryptocurrency ahead of the launch of ethereum futures on the Chicago Mercantile Exchange next week
+
+Ethereum has seen year-to-date gains of around 120%, compared with bitcoin’s 30%, and hit a new high of $1,576.7 in early London trading on Wednesday.
+
+“The listing of ethereum futures on a regulated exchange should serve to enhance the crypto market structure by allowing investors to gain exposure to the second most important cryptocurrency as a diversifier to bitcoin, or for simply hedging existing ethereum exposures,” wrote JPMorgan strategists in a note to clients.
+
+“It may be that this week’s listing of ethereum futures contracts will be followed by negative price dynamics by enabling some holders of physical ethereum to hedge their exposures,” they added.
+
+https://www.reuters.com/article/us-crypto-currency-ethereum-idUSKBN2A320J_END_OF_POST_PYSTOCK_ This metric suggests there's an economic boom ahead — and possibly inflation From the article: As Washington squabbles over stimulus, the bond market is already counting on lots of fiscal spending and an economic bounce back. In an extreme case, inflation might be a risk.
+
+The metric the bond market is watching is the Treasury yield curve, or the difference between rates on various maturities, now at its steepest level since May 2017.
+
+A steepening curve is typically viewed as a positive sign for the economy, the stock market and corporate earnings, while a flattening one is a warning for economic weakness.
+
+The widely watched yield curve shows the difference between short- and long-term interest rates.
+
+In this case, looking at the 2-year yield, now at 0.11% and the 10-year yield at 1.12%, the spread is 1.01 and edging higher with the rising 10-year yield. Rates move opposite “It’s being driven by the fact that policy, fiscal and monetary, is allowing there to be stronger economic growth for longer, without the Fed getting in the way, and that basically is allowing the economic cycle to extend further into the future,” said Jim Caron, head of global macro strategies on the global fixed income team at Morgan Stanley Investment Management.
+
+There are expectations of rising inflation, and this is being priced into the market, he said.
+
+
+https://www.cnbc.com/2021/02/03/this-metric-suggests-theres-an-economic-boom-ahead-and-possibly-inflation.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard
+
+Any thoughts on this?_END_OF_POST_PYSTOCK_ Looking for somewhat comprehensive list of popular ETFs I've been around this sub for a decent amount of time. I got burned on GME and am currently beating myself up because I took very good gains and waited too long and ended up losing money by the end of it all. So now I'm looking into more secure/smart/real investing that generally outperforms SPY. Naively, I would be fine with FAANG because I generally think they lead the way in growth, but am also open to putting funds in many growth sectors which is why I find ARK funds attractive. Anyway, here are a list of ETFs and the corresponding sectors that I have heard of/found. If others have recommendations I'll add them to the list.
+
+ARK(K/G/F/W/Q) - Disruptive Technologies for varying 'future' sectors. Amazing returns last year. Focuses range from electric vehicles, technology, robotics, genomics, fintech 
+
+ICLN/TAN/QCLN - Renewable energy with good expected growth under new USA administration
+
+XLK/VGT - Index tracking the technology sector. Dividend yield roughly 0.85%
+
+VOO/SPY - Index tracking S&P500. Dividend yield roughly 1.6%
+
+VTI - Index tracking entire market. Dividend yield toughly 1.71%
+
+SOXX/SMH - Index tracking semi-conductors. Also had good returns. Dividend yield roughly at 0.7%
+
+SKYY/CLOU - Cloud based computing and internet of things
+
+JETS - Airline industry. Good if bullish about airline recovery from covid
+
+QQQ - Tracks the Nasdaq. Dividend yield roughly 0.55%
+
+MTUM/IMTM - Tracks Momentum index.
+
+Every Vanguard Stock (VTI, VUG, etc) - A lot to keep track of but just seem like large index funds that generally track entire market?
+
+Edit:
+
+SCHD and DGRO - Schwab and iShares Dividend Growth ETF. Dividend yield roughly 3%
+
+VONE/VTWG - Vanguard's Russell 1000 and Russell 2000 ETFs respectively. Dividend yield roughly 1.2%
+
+MOTO - New transportation ETF
+
+MSOS - Cannabis ETF, similar to MB, YOLO, TOKE (I think)
+
+Resources for exploring investors: 
+
+ETFdb.com - A database for searching for ETFs within certain sectors or otherwise just popularly traded ETFs
+
+ETFBreakdown.com - Has great information on the top holdings of any given ticker as well as the overall performance. Seems to be able to track portfolio growth and development as well._END_OF_POST_PYSTOCK_ Luna Innovations Summary/DD [Original Article from Seeking Alpha](https://seekingalpha.com/article/4391397-luna-innovations-underfollowed-and-unloved-17-revenue-growth-and-40-ebitda-growth-to-come)
+
+Luna Innovations: Underfollowed And Unloved, 17% Revenue Growth And 40% EBITDA Growth To Come
+
+Luna Innovations is a unique, high-margin business with no competitors in many of its markets.
+
+Forward revenue growth of 17% and operating leverage lead to 40% EBITDA growth.
+
+160% upside to a 20x EBITDA multiple in 2023.
+
+
+Luna Innovations (LUNA) is a unique business with abundant revenue growth and operating leverage. It currently trades at a value multiple and should rerate as its results show its inherent growth and profitability. Currently trading at a $265 million market cap with $26 million in net cash on the balance sheet, the company is underfollowed by Wall Street with only 2 analysts covering the name. LUNA trades at an Enterprise Value to Revenue (EV/R) ratio of 2.5x on 2021E revenue of $96 million, and an EV/EBITDA ratio of 13.7x on 2021E EBITDA of $17.5 million. I believe these multiples are very low relative to the sustainable 15%+ top-line growth and 40% EBITDA growth of the company going forward.
+
+Luna is a fiber optic testing company that uses fiber in a unique way. As such, it lacks head-to-head competition in many of its markets. This lack of competition is obviously a boon to pricing and margins but is also detrimental as no Wall Street analysts are incentivized to cover the company as it has no peers to amortize the coverage effort over or to compare to on a valuation basis. Luna’s business is split into two divisions, Lightwave and Luna Labs. In the September 2020 quarter, Lightwave comprised 73% of the total while Luna Labs made up 23%.
+
+
+The Lightwave division sells fiber optic testing products and is itself split into two parts, Sensing and Non-Destructive Testing and Communications Test and Photronic Control. The Sensing business uses fiber optic strands as sensors and can measure strain, temperature, acceleration and vibration, and thickness over long distances. These capabilities can be used in many applications. For example, when the Polcevera Viaduct bridge in Genoa, Italy, was rebuilt after being destroyed in an earthquake, it was outfitted with fiber optic sensors and measurement systems from Luna to enable real-time health monitoring of the bridge. Luna works on a handful of similar projects each quarter but this pace could accelerate rapidly if a long-awaited infrastructure bill is passed in the United States. Smart infrastructure is topical now and Luna would likely benefit from any incremental projects in this area.
+
+Another example of Luna’s Sensing technology was announced on 10/15 where Luna, in partnership with Shell’s (NYSE:RDS.A) (NYSE:RDS.B) GameChanger early-stage-technologies program, developed, for the oil and gas industry, an “innovative concept for measuring in-situ stresses in subsurface rock using its fiber optic sensing solutions. When deployed, this technique would provide critical measurements with unmatched consistency and depth resolution, allowing safer and more efficient well operations.” While at a very early stage, this is a large opportunity for the company.
+
+The company has a partnership with Meggitt (OTCPK:MEGGF), a large aerospace component supplier, to develop a fire sensor to be used on commercial and defense aircraft. Starting with new Airbus planes, these sensors will likely be retrofitted into the existing aircraft fleet over time. This opportunity has been pushed out somewhat due to Corona’s impact on the aerospace industry. While this is a long-term opportunity, it shows the breadth of industries that can take advantage of Luna’s technology.
+
+Luna’s sensors are also used to detect material thickness in composite materials. In the B-22 Stealth Bomber, the anti-radar coating thickness must be uniform to work properly. Luna’s sensors can detect micron thickness abnormalities that would cause the bombers to show up on radar.
+
+Luna also recently inked a deal with Land Rover where every new Land Rover Defender has a handful of Luna sensors on it to detect corrosion over time in different environmental conditions. This is an example of Luna’s sensors being used in production vehicles, not just test cases.
+
+
+These Sensing examples demonstrate the wide range of end cases of Luna’s technology. This breadth results in 20%+ growth in this segment each year. The breakout opportunities include more production deals like Land Rover and Meggitt and the result of an infrastructure buildout in the US.
+
+The Communication test business can detect and pinpoint flaws in fiber optic networks to the millimeter. Lockheed Martin (NYSE:LMT) uses Luna’s OBR 6200 to test the complex fiber optic networks on its F-22 fighter jets. While Lockheed has used a few of these testers in the past, it just placed an order for over 100 testers to be delivered this year. At a $65,000 ASP per tester, this amounts to an order of over $6 million, definitely enough to move the needle at a small company like Luna. There remains a large opportunity at Lockheed for testers to be used with its other aircraft and additional opportunity for testers to be used at other defense contractors such as Northrop Grumman (NYSE:NOC).
+
+Financial firms that facilitate high-speed trading are also customers of Luna. Luna’s testers can measure the exact length of the fiber route used in trading and also can detect any latency in such networks.
+
+Luna’s testers are also important in the production of silicon photonics. These chips combine silicon circuitry with optical capability and are becoming more prevalent in optical networks. Luna can test these chips during their fabrication as well as when they are complete to ensure they perform up to specification.
+
+Luna’s other division is called Luna Labs. Luna Labs uses government funding to research material science to produce innovative products that Luna can then use in its Lightwave division. This business is about 25% of Luna’s entire business.
+
+Luna is experiencing a positive mix shift as its Lightwave business grows faster than its Luna Labs business. Gross margins in the Lightwave division are about 62% while gross margins in the Luna Labs business are about 28%. Lightwave is growing about 20% and Luna Labs is growing about 7%. Thus, over time, overall gross margins will rise as Lightwave becomes a bigger piece of the business. Also, overall revenue growth will improve as the faster-growing Lightwave business becomes a larger part of the overall pie.
+
+What is the right way to think about valuation for this business? Without any true comps, it is necessary to look at absolute valuation for a growth company. We forecast revenue to grow at a 17% clip for the next few years and EBITDA to grow much faster, at a 40% rate as the company leverages its fixed cost structure. These assumptions result in $33 million in EBITDA in 2023 on a $131 million revenue base. Applying a growth multiple of 20x to that EBITDA gets you to a $21 share price, or about a 160% return from current levels.
+
+Disclosure: I am/we are long LUNA. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it. I have no business relationship with any company whose stock is mentioned in this article._END_OF_POST_PYSTOCK_ This post was found on twitter: Whether Sorrento Therapeutics could benefit from a short squeeze.  New out  
+
+
+Whether Sorrento Therapeutics Could Benefit From A Short Squeeze  
+Feb. 03, 2021 9:58 AM ETSorrento Therapeutics, Inc. (SRNE)2 Likes  
+Simone Francesco Sala profile picture.  
+Simone Francesco Sala  
+22 Followers  
+Bio  
+Follow  
+Summary  
+
+
+Sorrento Therapeutics has recently disclosed positive results in anti-COVID allogeneic adipose stem cells research.  
+Sorrento Therapeutics is among the Nasdaq stocks with the highest short interest at 26.8%.  
+I believe that the combination of a strong research pipeline with high short interest can lead to interesting returns.  
+The GameStop (GME) short-squeeze drama has turned the spotlight on small- and mid-cap stocks with a high level of short interest. Heavily shorted stocks could become the target for so-called social trades by retail investors, who look to set off sharp price increases in these names and put pressure on short sellers, who need to buy shares they sold short to cover their positions.  
+
+
+Retail traders are now looking for other stocks with similar characteristics to GME: a short interest standing at over 20% of the total float, a market cap of over $1 billion and a stock price of possibly $20 per share or less.  
+
+
+I analyzed the Nasdaq looking for stocks that met those parameters and, among them, Sorrento Therapeutics (SRNE) stood out.  
+
+
+Company overview  
+Sorrento Therapeutics is a clinical-stage and commercial biopharma company. The Company operates in three main areas: Immune-Oncology, Non-Opioid Pain Management and COVID-19.  
+
+
+SRNE operates in the Immune-Oncology therapeutic area, leveraging its G-MAB antibody library and targeted delivery modalities to create the next generation of cancer therapeutics. These modalities include chimeric antigen receptor T-cell therapy (CAR-T), dimeric antigen receptor T-cell therapy (DAR-T), antibody-drug conjugates (ADC), as well as bispecific antibody approaches. Additionally, Sorrento Therapeutics' effort in the Immune-Oncology segment led to the development of Sofusa, a drug delivery technology that delivers biologics directly into the lymphatic system to potentially achieve improved efficacy and fewer adverse effects than standard parenteral immunotherapy._END_OF_POST_PYSTOCK_ Incoming Market correction/ancient history. Your opinion on where we are and where we are going. I could be VERY wrong but I feel we are not far off from a significant Market correction.  I think there is no doubt at this point we are in a bubble and no matter what anyone may say they are still classic rules of finance, investing, many other things including  laws of the universe that apply to any situation, stocks included.
+
+Where do you think we are/where are we headed.  If you were around for the dot com crash what Similarities are you seeing/what are you looking out for.  Do you plan to hold or sell at the first sign of SERIOUS volatility and buy back in whilst trying to time the bottom?  Purely hypothetical but I like this type of stuff.  
+Thanks._END_OF_POST_PYSTOCK_ NUMINUS WELLNESS - Ticker: NUMI - Deep Dive started, seeing what others think. NUMI - Psilocybin (GLOBAL acceptance happening)
+
+1) Noticed a beautiful upwards wedge on the 1h chart. Let's look at some stats. 
+
+Current price: 1.43 = ATH: 133
+
+Total shares out = 121M
+
+daily volume today (Feb 3rd) = 2M
+
+Market cap = 172.9M
+
+ Gross profit 2020 - 88.047 
+
+&#x200B;
+
+2) Believed to be added to ETF $PSYK in Canada. (Which I suspect will be the TESLA of Cathie woods ARK.)
+
+3) Unbelievable numbers coming in about lifechanging events after taking as a medicine. ex Depression/Anxiety, traumas etc.
+
+4) Notable event: December 14th - 18M shares bought.
+
+5) Legalization -  The company is also the owner of a dealer’s license under which it’s allowed to “import, export, possess, test and distribute MDMA, psilocybin, psilocin, DMT, and mescalin.” TheDeepDive 
+
+&#x200B;
+
+DISCLOSURE: I own 1069 shares, will accumulate on dips.
+
+I'm reading more, just found a nice pattern on the chart for a possible 10-20X in a short timeframe. 
+
+&#x200B;
+
+&#x200B;
+
+Deep Dive source:
+
+[https://thedeepdive.ca/numinus-wellness-hot-damn-ive-never-invested-in-a-psychedelics-company-before/](https://thedeepdive.ca/numinus-wellness-hot-damn-ive-never-invested-in-a-psychedelics-company-before/)_END_OF_POST_PYSTOCK_

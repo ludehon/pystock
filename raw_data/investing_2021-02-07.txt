@@ -1,0 +1,483 @@
+ On finding good DD retrospectives for investing Right now I'm trying to look for any resources that cover solid, no-bullshit retrospectives on folks who did their DD, can chart step-by-step how they did their research, and then either with a win or a loss, came back to write about where they got it right and where they got it wrong.
+
+I don't care if it comes from amateurs or professionals, is gorilla-mindset or PhD material. I'm interested in learning how people make their analyses, what they examined, what they ignored, and how it went right or wrong with them. The less confirmation bias, the better.
+
+Since this is /r/investing, I can omit the "inb4 Sir, this is a casino" part, but yes, I did check out RoaringKitty's DD and videos. I'm interested in others, e.g. "here's how this investor figured out how the Asian bond market in 20XX would implode, here's why, here's what supported the thesis, and here's how he hedged risk."_END_OF_POST_PYSTOCK_ How do you guys make decisions on when to exit a trade. I had a couple of stocks earlier this year that I sold way too early.  In two cases tens of thousands . I was following several other stocks that I did not buy and they did extraordinarily well. The ones I hold too long I lost my butt. It seems like every decision I make is exactly the wrong one. Here are some examples. 
+
+I bought CHK at $3.25 in 2015 and held it all the way to delisting. I held 1500 shares. 
+
+I bought CHGG around the same time around $4.50 and sold at $7 held 1K shares. 
+
+This year I had 6K shares of RIOT at $2.68 and sold at $3.90. 
+
+I had 1k of PLTR at $27.50 and sold for at $25 after the Citron scare and a week later it’s in the mid 30’s
+
+I’ve made money but I just keep doing exactly the wrong thing._END_OF_POST_PYSTOCK_ A Correction is a Matter of Time. Invest in Defensive and Dividend-Paying Companies  As of February 5, 2021, the US market capitalization is worth double the level of GDP.
+
+It’s not a question of if we’ll see a correction – it’s a matter of *when.*
+
+The US stock market has seen astronomical growth since March 2020 when the S&P 500 tanked 30% due to COVID-19. **The level of growth we have seen is unprecedented and unsustainable.**
+
+The technology sector is what experienced the majority of this growth. Nearly every major technology company on NASDAQ is at all time high levels.
+
+Low interest rates and even negative interest rates have caused the bond market to dry up. Investors are moving their funds into the stock market where they can still earn a positive return.
+
+We have also seen a significant flow of capital into the market from retail investors thanks to the increasing popularity of commission-free platforms.
+
+We do not insist on liquidating positions, but rather to proceed with caution.
+
+Consider allocating a decent proportion of your holdings into defensive companies – companies that produce products or services that will always be in demand and will be less impacted when capital flows out of the stock market and back into the bond market when interest rates inevitably rise – given the current economic situation this will likely be a while.
+
+**Consider increasing your proportion of dividend-generating equities.**
+
+When will interest rates rise? When unemployment is at reasonable levels and the world starts recovering from COVID-19. When will this happen? Your guess is as good as ours, but it will eventually happen, so prepare for it.
+
+&#x200B;
+
+Taken from here: [https://www.rizkcapital.ca/post/a-correction-is-a-matter-of-time-invest-in-defensive-and-dividend-paying-companies](https://www.rizkcapital.ca/post/a-correction-is-a-matter-of-time-invest-in-defensive-and-dividend-paying-companies)_END_OF_POST_PYSTOCK_ Vertu Motors: Still Cheap Auto Dealership Complete post at [https://netosnotes.blogspot.com/2021/02/update-thoughts-on-vertu-motors.html](https://netosnotes.blogspot.com/2021/02/update-thoughts-on-vertu-motors.html)
+
+I invested in a business called Vertu Motors, a company with several UK car brands. The auto dealership industry is one of the most basic industries in the world. The dealerships serve as the manufacturers’ parts and services distributor. The OEMs decentralize this part of the ‘value chain’ to not only simplify their operations but to reduce the amount of capital invested in the business – which is already huge in the manufacturing of cars. When I bought the business in August of 2020 the equity was selling for under £90 million and it had net cash of about £10 million. In other words, if you were buying the whole business you were effectively paying £80 million for the business itself.
+
+Now that very same business I bought for £80 million pounds began in 2006 as a roll-up strategy, founded and managed by Robert Forrester, of poorly performing auto-dealerships (family-owned, etc.) and now boasts around 150 outlets. In 2019 the company did £3 billion in sales. In the auto business, around 10% will be gross profit, and 90% of gross profit represents expenses (most personnel), which leaves 10% of gross profit as profit, which translates into over £20 million in after-tax profit.
+
+I paid £80 million for a business that did £20 million in 2019. A growing business. This is an industry where 40 years ago there were 10,000 dealerships and now there are 4,600, yet the number of new cars sold has doubled. And looking at 2019 new car sales compared to the 20-year average leading up to that, 2019 was slightly below average in terms of car sales (and average car age in Great Britain is +8 years). +£20 million is not a top-of-the-cycle number. Furthermore, this is also an industry where the ten largest dealers account for only 25% of industry revenue.
+
+To put it in context, Pendragon paid over £500 million for Reg Vardy’s 97 dealerships. Robert Forrester used to work at the Reg Vardy, another auto-dealership that was sold in 2006. And whilst the pandemic did naturally affect Vertu, it’s still going to manage to report pre-tax profits of about £18 million. Total new car sales in 2020 were still 1.6 million versus an average of 2.4 million over the last 20 years- that’s the lowest number in a very long time.
+
+The issues surrounding Vertu were basically Brexit and the fact that Vertu had issued significant amounts of stock until a few years ago. Now we know Brexit, one way or another will happen, despite the direction in which Brexit goes people are still going to need cars. And the stock issuance does not seem like a problem any more considering, (1) Vertu’s size and (2) their balance sheet.
+
+I will close by saying that Vertu is a well-managed and well-positioned business in terms of the brands they carry and the share those brands have in terms of new car sales in the UK. The market has seemed to start to understand that and now appraises Vertu at an equity value of +£130 million. Even assuming they have no net cash (which they have) and that equity value equals enterprise value, this still puts the price at less than 6.5x earnings. Cheap, one might say.
+
+Whilst academics might say that to increase returns one needs to increase risk; I must respectfully disagree. With Vertu I increased returns and decreased risk by paying a very low price. Vertu could very well sell for much, much higher prices in the future.
+
+Joel Greenblatt usually says “let’s take a look at the most followed market in the world, that would be the United States, let’s look at the most followed stocks within the most followed mark in the world, those would be the S&P 500 stocks (…) from 1997 to 2000 the S&P 500 doubled from 2000 to 2002, it halved, from 2002 to 2007 it doubled from 2007 to 2009, it halved, and from 2009 today it’s roughly tripled”. I will add that from February 2020 to March 2020 it lost a third of its value and from April 2020 to now it is up 70%. That is his way of saying the market is crazy._END_OF_POST_PYSTOCK_ Reporting Obligation of Privately Held Company / Shareholder Rights Hi Investors and Entrepreneurs,   
+Does anyone know or can point me in the direction of where to find what I'm legally entitled to as a shareholder in a privately held company?
+
+I own a small stake in a startup and I haven't heard anything since I left the company a few years ago. 
+
+Of particular interest is that they changed their name and I want to know if they are a DBA or if it something more.  Before I reach out to the new CEO & President I want to know what they are legally obligated to tell me. 
+
+If there is a better subreddit to post this on please let me know.
+
+Thanks in advance for your help.
+
+Zig_END_OF_POST_PYSTOCK_ Ocugen hype and valuation I'm not a seasoned investor or anything but have been following OCGN for the past few week.
+
+So OCGN stock soared about 180% in the past 5 days due to their recent deal with Bharat Biotech to potentially bring Covaxin, a COVID-19 vaccine to the US market. The first news about the potential collaboration surfaced around second week of December 2020. Their market cap rose from 50.23M on November 30th to 850M to Friday closing.  It is not clear if they have to conduct trials here in US and if they will get an emergency use authorization. Other than Covaxin partnership  they are working on gene therapy based treatments for retinal diseases, all in pre-clinical phase (not profitable yet). I'm trying to make sense of their valuation, if is it sensible even if everything works out favorably for Ocugen?
+
+* Ocugen will share 45% share of potential profits and can only sale Covaxin within US. 
+* Covaxin is priced at about 400 Rupees (5.5 USD) per dose.  So Ocugen's profit share could be $3
+* Even if they get about 1/3rd of the US market share that's about 330M (110\*3)
+* Again this might not be a recurring source of income for them as it is not clear if we need to get vaccinated for COVID annually and they cannot sell outside US
+* So isn't the potential upside already factored in their stock price? I have seen many people claim that they can reach 20, 50 and even 100 if they get an emergency use authorization to use Covaxin in US. Am I completely missing something here?_END_OF_POST_PYSTOCK_ Opinions on these Stocks: RYCEY, SNDL, CLNE In full disclosure, outside of just putting some money into a ETFs monthly I don't have a whole lot of experience trading. Now that I'm in a position financially to invest, I started researching some potential stocks.   
+
+
+I'm asking for opinions on the following stocks to supplement my own research. So please don't think that I'm looking for anyone to do all of the hard work for me. At the end of the day it is my money and I will weigh all of my options and make what I feel is the best investment. I'm reading and watching video tutorials on how to do both technical and fundamental analysis.  So here goes:  
+
+
+CLNE - With the current administration there is buzz around clean energy. Looking at the chart, I kind of feel like I missed the party on this one. BUT, I've read on the forums that this stock has potential to go up to $50 by the end of the year. I'm very interested in clean energy so it's on my watch list.   
+
+
+RYCEY - Rolls royce has been around for a long time. Apparently they're planning a two week shutdown to help cut losses. But do we think that they will bounce back towards the end of the year? As the vaccine rolls out and people start traveling again for summer and the holidays, will their air plain maintenance services get busy again? Will they need to be bailed out?
+
+&#x200B;
+
+SNDL - I really know nothing about weed stocks.  I just know that people have been doing very well with them as of late. This is another one that I feel like I kind of missed the party with, but do we think it's overvalued where it currently sits? Are there other weed stocks that are worth looking into? It's on my watch list and I still have a lot more to learn.   
+
+
+Any opinions or insights will be greatly appreciated! Thank you to all in advanced who read this and are helping educate me in the world of investing._END_OF_POST_PYSTOCK_ Buffet Indicator and Trading Volume I’m fascinated with how the Buffett Indicator has done so well to predict an over valued market leading to a crash in the past.  But the Buffett Indicator has been saying we should be crashing for the last several years. Even when you correct for inflation and trend line, it’s still predicting a crash. So what gives?  Hopefully someone smarter than me can weigh in. But one thing I noticed is that the trend line of trading volume is higher now than when the Buffett Indicator was doing a good job. Does the Buffett Indicator need to be normalized to trading volume?
+
+Edit: I can’t spell_END_OF_POST_PYSTOCK_ GOEV, and an Amateur's shot at Technical Analysis The following is extremely speculative. Furthermore its extreme speculation by someone not qualified to speculate. Further further more, ive been doing technical analysis for a period of 2 days so Im serious about the amateur bit. This is not financial advice.
+
+Canoo ($GEOV) is an electric vehicle company focused on delivery vans and particularly ugly consumer vans. Its really hard to tell if Canoo is a good long term investment, id imagine alot of EV companies will be wiped out as the market matures over the next couple years. In the short term they have gotten some good news, but thats not what this post is about.
+
+$GOEV is, as far as i can tell, caught in a large Symmetric Triangle pattern. With a difference between the top and bottom of the pattern at its start  \~ $10. Given $GEOV is currently trading at 17.63, this would represent over half of the stocks total value. If the stock trends upward coming out of the pattern that would mean a target price of 27-28 dollars and nice profit on some rampant speculation. I consider this fairly risky and not recommend anyone actually attempt it.
+
+If anyone here is more familiar with TA, any critiques on my reasoning?
+
+EDIT: Image of chart here: [https://ibb.co/wQ8Htwf](https://ibb.co/wQ8Htwf)_END_OF_POST_PYSTOCK_ A case for buying Treasury Inflation-Protected Securities (TIPs) I was looking at many different asset classes, and so many of them look overvalued, or are close to being overvalued.  However, something I have never invested in before ,Treasury Inflation-Protected Securities (TIPs), caught my attention. They have been providing nice returns over the last 2-3 years and the volatility is small compared to stocks. 
+
+* The main reason for TIPs to go higher over the next \~5 years is US demographics (just look at  the US population pyramid). Large portion of US population is close to retirement ,and gradually their investments will be pushed more into safer asset classes (bonds). This is especially true due to large target date funds and other passive investment vehicles which automatically re-balance investor's portfolio based on their age
+* For existing bond holders, TIPs are better option than just bonds because they also protect again inflation (due to stimulus packages, money being printed like crazy)
+* In case of gradual stock market correction, TIPs will be one of the safety assets for preservation of capital (stock market over valuation is disputable) 
+* On another note, rising interest rates could drive TIPs to go down
+
+Don't get me wrong, TIPs will not make your rich but 10-20%  of your portfolio in TIPs would not hurt. 
+
+What are your thoughts on this?_END_OF_POST_PYSTOCK_ Comprehensive DD on $CTYX: The OTC Biotech Stock of the Decade That Is Being Slept On \[Connectyx (OTC-PINK: CTYX). Will change to Curative Biotechnology with ticker $CURB in Q1 2021.\]
+
+Full Disclosure: I have a $6k initial position in this stock at a cost average of $.06. The stock is now at $0.155 (as of 2/6/21) with my position at $15.5k and movement is just starting.
+
+*I am not a financial advisor. I am simply a broke graduate student interested in investing and fucking retiring early. This post represents my personal views and should not be taken as financial advice. Do your own damn research and stop pumping your hard-earned cash into trending stocks on Reddit posts that are nothing but hype, rocket emojis, and a mob chat jerking each other off. Also, not a doctor! The medical content below should never be a substitute for professional medical advice.*
+
+With that said, $CTYX is going to fucking Pluto 🚀🚀🚀🚀🚀🚀 🌑
+
+**Price Target: $0.5 by May 1, 2021; $1.25 - $3.00 (\~10x) within 2 years with credible potential to be listed on NASDAQ.**
+
+This company is absolutely solid on all sides: healthy financials, an experienced & reliable management team, favorable market conditions with a reasonable business model, a solid lineup of products in its pipeline, and many large announcements anticipated within the next 3 months. Simply put, there is extreme asymmetric upside.
+
+$CTYX or Connectyx was taken over by its current team led by CEO Paul Michaels around Feb 2020. Within a year, this CEO has kept every promise he's made and established the infrastructure for growth. The company specializes in bringing orphan drugs (more on this below) through clinical trials and then to market. Paul and his team have decades of experience in big pharma, biotech research, finance, and drug licensing/development (in-depth description in the Management Team section below). They've vetted 3 promising drug candidates in under a year and promised to start clinical trials by mid-2022. If any one of these pass phase 1/2 trials, the market cap grows by hundreds of millions. They also have a reasonable chance to obtain a Priority Review Voucher (PRV) from the FDA that is worth $100-$300M from their strategic picks. They have a clean balance sheet, acquired non-dilute bridge financing while putting these drugs through trials, and have plans of additional deals in the near future.
+
+Why orphan drugs? Orphan drugs are therapeutics that treat rare diseases (defined as illnesses affecting less than 200k Americans per year). From the \[Orphan Drug Act\]([https://www.wikiwand.com/en/Orphan\_Drug\_Act\_of\_1983#:\~:text=The Orphan Drug Act of,residing in the United States.)](https://www.wikiwand.com/en/Orphan_Drug_Act_of_1983#:~:text=The%20Orphan%20Drug%20Act%20of,residing%20in%20the%20United%20States.)), there are multiple incentives given by the government to develop orphan drugs: (1) significant tax credits (2) longer market exclusivity after approval (3) waiver of certain FDA fees (4) easier & faster approval process. In 2019, the global orphan drug market is estimated to be valued at $151B. By 2027, this is projected to reach [$340.84B](https://www.fortunebusinessinsights.com/industry-reports/orphan-drugs-market-100088) (10% compounded annual growth). This the cornerstone of their [business model](https://connectyx.com/about-us/). By gathering a group of experts, they can cheaply vet high potential candidates to add to their development pipeline and then commercialize them from reduced fees as well as fast-track benefits from the FDA.
+
+So why the hell is it call Connectyx? It is just the old name of a software services company which the team acquired. The company has filed for a name change that will be granted within the next 2 weeks to Curative Biotechnology Inc. with a new ticker $CURB. In addition, the CEO himself has hinted at an uplisting to $OTCQB (a certification upgrade from current pink sheet status), merger/acquisition announcements, and $100M in non-dilutive funding. The official FINRA announcement of the name change will be the catalyst for the additional news.
+
+Some quick notes about the charts. The 15x jump in the past couple of months is only the beginning. There is a clear trend of resistance breakthroughs and medium-term consolidation after each announcement. Volatility is low, the number of outstanding shares is small, and there is limited dilutive potential for an OTC.
+
+Let's dive deeper into this hidden gem.
+
+All-Star Management Team
+
+**CEO Paul Michaels**
+
+Curative BioTech lucked out with a CEO with 25 years of experience in investment banking with a focus on life sciences. Paul has an impressive record, starting as the Executive Vice President and board member of [Global Capital Group](https://gcgam.com/) (a Wall Street wealth management firm). He also got extensive experience in big Pharma through \[Inabata & Co. Ltd's\]([https://www.wikiwand.com/en/Inabata\_%26\_Co.,\_Ltd.)](https://www.wikiwand.com/en/Inabata_%26_Co.,_Ltd.)), a subsidiary of a large Japanese drug company, [Sumitomo Chemical Group](https://www.wikiwand.com/en/Sumitomo_Chemical), which totaled $21.8B in revenue in 2013 and employs over 30k people. While serving as Inabata's CFO, Paul licensed American drugs (some from Gilead) for the Asian market. After, the guy helped create [Nobelpharma](https://www.nobelpharma.co.jp/en/), an orphan drug company, which licenses drugs for rare diseases and got over $35M in initial capital.
+
+In February 2020, Paul took over Connectyx (a software services company at the time) and made it an orphan drug company. It is extremely rare for pink-sheet companies to have such high-caliber, established talent as a leader: decades of experience with finance and leadership positions in multi-billion dollar pharmaceutical companies. He helped build up Inabata and Nobelpharam (both thriving today), and I am confident in his ability to do it again with Connectyx.
+
+**VP Communications Pam Bisikirski**
+
+Recently, Curative announced Pam as the new Vice President of Communications. She previously served as the director of marketing of [National Vision](https://www.nationalvision.com/) for 21 years. National Vision ($EYE) is a huge optical retail, eye care, and eye-ware company that is trading near a $4B market cap on NASDAQ.
+
+**Scientific Advisory Board**
+
+[Dr. Michael Grace](https://www.linkedin.com/in/michael-grace-7753a314/) \[[news](https://markets.businessinsider.com/news/stocks/connectyx-welcomes-dr-michael-grace-and-dr-ronald-bordens-to-the-company-s-scientific-advisory-board-1029182268)\] - Ph.D. in Biochemistry and BS in Chemistry from the University of Nebraska. 30 years of experience in BioPharma with top roles in names like Procter & Gamble, Schering-Plough, Bristol-Myers Squibb, NPS Pharma, and Advaxis Immunotherapies. Lead 6 products to registration and commercialization.
+
+[Dr. Ronald Bordens](https://www.linkedin.com/in/ronald-bordens-2395a216/) \[[news](https://markets.businessinsider.com/news/stocks/connectyx-welcomes-dr-michael-grace-and-dr-ronald-bordens-to-the-company-s-scientific-advisory-board-1029182268)\] - Ph.D. in Biotechnology with over [26 publications](https://www.researchgate.net/scientific-contributions/Ronald-Bordens-35309715) and over 2000 citations. 40 years in biotech and big pharma in research & development. Had a fruitful 26-year career at Schering-Plough Research.
+
+[Richard Garr](https://www.linkedin.com/in/neuralstem/) \[[news](https://markets.businessinsider.com/news/stocks/connectyx-welcomes-i-richard-garr-esq-to-company-s-scientific-advisory-board-1029215535)\] - Serves as Director and CEO as well as President of Neuralstem Inc. (now Seneca Biopharma, Inc. which is listed on NASDAQ as $SNCA) for 20 years. Advocate for right to try treatments in the US and Europe. Founded Access Hope CRO (contract research organization) which dedicates itself to this cause. Was founder and current Board Member of the First Star Foundation Mid-Atlantic chapter which focuses on ill children (including pediatric brain cancer).
+
+Robust Drug Pipeline
+
+Keep in mind this company became a biotech firm in Feb 2020 and they already have 3 drugs in the pipeline along with exclusive rights licenses. Insane.
+
+**1) IMT504 immune therapy to treat late-stage rabies.**
+
+(11/23/2020 Announcement implies IMT504 rabies license deal is complete)
+
+[Strategic relationship](https://markets.businessinsider.com/news/stocks/connectyx-technologies-holdings-group-inc-announces-strategic-relationship-with-mid-atlantic-biotherapeutics-inc-for-treatment-of-symptomatic-rabies-1029540377) with Mid-Atlantic BioTherapeutics, Inc. announced on 8/27/2020. Acquired all rights for development of this patented immunotherapy to treat late-stage rabies (a disease with 100% fatality rate after the treatable period, \[kills 59k\]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613553/#:\~:text=about this topic%3F-,Each year%2C rabies causes approximately 59%2C000 deaths worldwide%2C including approximately,of postexposure prophylaxis (PEP).)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613553/#:~:text=about%20this%20topic%3F-,Each%20year%2C%20rabies%20causes%20approximately%2059%2C000%20deaths%20worldwide%2C%20including%20approximately,of%20postexposure%20prophylaxis%20(PEP).)) globally per year).
+
+Now, the value of this may not be in the drug approval itself (although passing trials would be a huge asset of course). The value is the potential in CTYX obtaining a [Priority Review Voucher](https://www.wikiwand.com/en/Priority_review#/Priority_review_voucher_program) (PRV). These coupons are handed out by the FDA each year to incentivize research into rare diseases. Exercising the coupon means diminishing the approval process from 10 months to 6 after trials. Further, you can freely sell these on a secondary market to other companies! Historically, these have been sold between $100M to $300M each. If obtained, this is an instant 2x-6x increase to its current $50M market cap. There's more.. notice that the FDA has added Rabies to its PRV-eligible tropical diseases list. Currently, there is only a handful of rabies therapies being researched. This means there's actually a good chance of CYTX getting rewarded a voucher, despite the relatively low count of vouchers distributed annually. PRVs are also possible for all other drugs in the pipeline.
+
+**2) CURB906 monoclonal antibody cytotoxic conjugate for the treatment of Glioblastoma.**
+
+(10/16/2020 NIH gives a grant of license for worldwide rights)
+
+The [second license](https://markets.businessinsider.com/news/stocks/connectyx-in-licensing-discussions-for-novel-monoclonal-antibody-to-treat-pediatric-glioblastoma-1029369107) was filed near July 2020 for a novel monoclonal antibody conjugate to treat brain cancer. Glioblastomas are aggressive brain tumors with poor survival rates in children. Recent studies (e.g. [s1](https://pubmed.ncbi.nlm.nih.gov/28675164/), [s2](https://www.nature.com/articles/nrclinonc.2017.95?WT.feed_name=subjects_neurology)) have shown different combinations of chemo-therapy and antibody-drug conjugate (ADCs) therapeutics were effective in both mice and human models. ADCs are innovative methods that attach a cytotoxic compound (one meant to kill cancer cells) to an antibody that specifically attaches to certain cancer cell receptors, thus delivering therapies to their targets. There is great promise and lots of potential in these therapeutics. Exclusive Evaluation and Commercialization Option License Agreement with the National Cancer Institute (NCI) has been granted.
+
+**3) Metformin repurposed to treat retinal degeneration.**
+
+(2/4/2021 NIH gives a grant of license for worldwide rights)
+
+This is probably the ace in the hole and the largest reason behind the recent stock surge. On 2/4/2021, CTYX [announced](https://markets.businessinsider.com/news/stocks/connectyx-announces-grant-of-exclusive-worldwide-license-from-national-institutes-of-health-for-repurposing-metformin-to-treat-degenerative-eye-disease-1030044728) they received an NIH grant for exclusive worldwide rights to adapt a diabetes drug, Metformin, to treat retinal degeneration. Not only is Metformin proven safe (it is a widely used drug to treat Type1 Diabetes since 1995), there are many studies (e.g. [s1](https://iovs.arvojournals.org/article.aspx?articleid=2731001), [s2](https://techtransfer.cancer.gov/availabletechnologies/e-227-2018), [s3](https://pubmed.ncbi.nlm.nih.gov/32525055/)) that hint at its effectiveness for retinal diseases. The recently granted license not only covers pediatric retinal generation (in the form of [Stargardt Disease](https://www.wikiwand.com/en/Stargardt_disease)), it covers treatment in adults as well and includes macular degeneration. This promising treatment potentially covers 2/3 of the US population (2/3 of Americans are pre-diabetic, 1/10 are diabetic, and 11 million have some form of macular degeneration; why care about diabetes? diabetes causes retinopathy).
+
+Huge Upcoming Announcements
+
+The announced name change is the opening of the flood gates for all upcoming news. Additional licenses, uplistings, and deals with be done under the new company name. Expect many of these announcements following FINRA approval. These are some forward-looking implications:
+
+1. (Within 2 weeks) FINRA approval of name change to Curative Biotechnology Inc. and ticker $CURB.
+2. (Within weeks of name change) Following the name change, there will be an uplisting to OTCQB. [OTCQB](https://finance.yahoo.com/news/otcqx-vs-otcqb-vs-pink-171211773.html) is a tier up from Pink Sheets and must adhere to stricter management certifications, undergo annual audits, and are more stringent in their financial reporting. Connectyx is currently working to become fully reporting OTCQB; to that end, the Company appointed Jonathan D. Leinwand, PA as Legal Counsel.
+3. (Within weeks of name change) Talk of multiple upcoming drugs (if the Metformin announcement was one of them, we should see at least one more).
+4. (Within weeks of name change) Hints at $100M of non-dilutive funding for clinical trials.
+5. (Within months of name change) Mergers, acquisitions, and partnerships with other firms for licensing and commercialization.
+
+Downsides
+
+Before we get ahead of ourselves and dream about retiring in 3 months while riding this into space, we gotta ground ourselves and discuss the downsides. Remember: in life, there are no solutions, only tradeoffs. There are always downsides and risks.
+
+Risk 1) This is currently a pink sheet. That itself should make you more cautious because there is reduced regulation, more "flexible" rules, and less scrutiny/transparency.
+
+Risk 2) High risk, high reward. If all 3 drugs flop (assuming no additional therapeutics are added) and they don't get a PRV (priority review voucher), then this company is worthless. Granted, the chances are low, but still a possibility to consider.
+
+Risk 3) Share dilution and raising capital. Because clinical trials often require obscene amounts of capital (\~$400M investment for normal drugs), there is a risk that managers might dilute the stock in order to raise money or to take profits in general. There are currently 322M outstanding shares with 1.1B authorized shares. Read the share disclosures, do the math, gauge the risks. Note that orphan drug trials are a lot less costly as well.
+
+Risks and unknowns are certainly there. However, the upside potential is too big to ignore. Buy at pennies, sell for dollars. Do the research and take advantage of any dips that might come on Monday from 2 days of green explosions.
+
+\------------------------------------------------------------
+
+TL;DR.
+
+* You should fucking read it, because this Phoenix has a high probability of rising from ashes to become the OTC stock of the year/decade with effortless 10x upside in the short-term.
+* $CTYX will change to $CURB (Curative BioTech) soon. Business strategy: (1) bring together financial experts, veterans in big pharma, accomplished biotech researchers, and world-class grant writers to vet orphan drugs (2) make deals and obtain licenses for these drugs to help get them through clinical trials (3) take advantage of special FDA benefits for orphan drug approval (faster approval process, fee waivers, etc) and commercialize them after with longer exclusive rights.
+* **Finance**: company has no problematic debt, clean sheets, non-dilutive funding, and a small number of outstanding shares for an OTC (322M).
+* **Products**: 3 promising drug candidates in the pipeline within a year. Multiple exclusive license grants approved by the NIH.
+* **Upcoming Announcements**: (1) name change (2) uplisting to $OTCQB from pink sheets (3) more non-dilutive funding (4) additional drug(s) in pipeline (5) mergers, acquisitions, and deals with other pharma companies.
+* Current market cap: $50M. **Upside**: (1) +$100M - $300M if awarded a priority review voucher (PRV) (2) +hundreds of millions in market cap if any of the 3 promising drugs goes past phase 2 \~end of 2022 (3) +millions in speculative capital if new drugs are announced in pipeline (4) potential future merger with large pharma or uplisting to NASDAQ (other biotech companies are listed with half the number of products).
+
+Resources
+
+Again, these are just my thoughts. For your own research, I've linked some relevant forums, analysis, grant listings, company resources, insider profiles, and other sources. Happy digging.
+
+**Company**
+
+[Company Website](https://connectyx.com/) (new website coming soon w/ new company name)
+
+[Yahoo Finance](https://finance.yahoo.com/quote/ctyx?ltr=1) (has all their press releases, financial summaries, and prospectives)
+
+["Prospective" Grant Listings](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=connectyx) (all grants listed have been approved)
+
+[CTYX Financial Filings](https://www.otcmarkets.com/stock/CTYX/disclosure)
+
+[CTYX Share Structure and Security Details](https://www.otcmarkets.com/stock/CTYX/security)
+
+**Insider Personel**
+
+[CEO LinkedIn](https://www.linkedin.com/in/paul-m-michaels/) (Paul M Michaels)
+
+[CSO LinkedIn](https://www.linkedin.com/in/barry-a-ginsberg-73388/) (Barry A. Ginsberg)
+
+[VP Communications](https://www.linkedin.com/in/pam-bisikirski-7bb6428/) (Pam Bisikirski)
+
+[Chairman of Audit Committee of Board](https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=C8242120E42F0C830B30A46E3F24F30C) (Michael K. Fish)
+
+**Forums / Discussions**
+
+[https://stocktwits.com/symbol/CTYX](https://stocktwits.com/symbol/CTYX) (\~200 followers right now)
+
+[https://investorshub.advfn.com/Connectyx-Techs-Hldg-CTYX-15134/](https://investorshub.advfn.com/Connectyx-Techs-Hldg-CTYX-15134/) (warning: UI is god awful)_END_OF_POST_PYSTOCK_ What’s the best way to incorporate the “quality” factor (ie 5 factor Fama-French model) in screening stocks 
+So I’d like to try my hand at building a portfolio based on the Fama-French model. I’ll primarily focus on size (market cap), value (pe ratio, price/book ratio, etc) and quality. I will largely ignore momentum as a factor since it requires too much active management. My problem is that I don’t really understand the quality factor except that it appears to relate to profitability. Can anyone help me understand the most effective way to screen for quality in stocks?
+
+If anyone is interested, this was partially inspired by the a finance journal article excellently titled “Size matters if you control your junk” 
+
+https://www.aqr.com/Insights/Research/Working-Paper/Size-Matters-If-You-Control-Your-Junk_END_OF_POST_PYSTOCK_ Post-pandemic times, future views and btc  I  expect BTC value to only grow in the coming years for these reasons, so decided to start monthly BTC saving using fiat to get them. Thoughts?
+
+1. BTC is becoming mainstream and institutions, big companies are acquiring them
+2. There  is split every few years and cap on maximum coins. This means  there's scarcity of coins and if demand continues even satoshis will  become worth something
+3. because  of 2) BTC is very lucrative target to invest in case of hyperinflation -  for example if there's global recession and support packages are not  enough to keep the coin afloat despite spawning money and devalvation starts..
+4. BTC  value is highly volatile so i think it's better to span the buys over a  period of time in case there is favorable price drop like in most  januaries this far._END_OF_POST_PYSTOCK_ Companies with low PE & high PB ratio I often look at PE & PB ratio to judge whether the company I am interested in, is rightly valued as per my investing strategy.
+
+If I look at Apple, its PE ratio is 37 & PB ratio is 34. To me this sounds like an unusual case. A very high PB ratio indicates that the current price of a stock is high (very high in this case) compared to its book value. However, Apple's PE ratio is not insanely high at the same price.
+
+This means that Apple is able to generate a lot of revenue & profits with fewer assets that make up book value. Would this inference be correct? If yes, does this somehow pose a problem for Apple's business in future?  
+
+
+My understanding is that since Apple outsources all of its production not just to another country but also to another company, this is what is leading to a very low book value._END_OF_POST_PYSTOCK_ potential 30-baggers for this decade OPEN OZON BFI Opendoor (OPEN) has demonstrated it can achieve over 10% market share in some cities and is now going national.  As it scales up, it's becoming an achievable target to grow its valuation from $15B to $450B.
+
+OZON is the Amazon of Russia and recently IPO'd.  Or it's the Alibaba (BABA) of Russia.  Either way, OZON is way underestimated.  OZON was one of the top 15 IPOs of 2020 yet received far too little press.
+
+BurgerFi (BFI) has a modest 125 restaurants yet is lining up growth funding with potential to be bigger than Sonic (3,500 locations).  Yet BFI is also becoming a 'delivery-only' disruptor in some markets selling on Grubhub, Doordash and others without a physical location._END_OF_POST_PYSTOCK_ For those who are buying company stocks to avoid ETF fees in ARK The most frustrating part of getting into any of the 5 main ARK Etf's was sitting every week waiting for a 5% pullback when it keeps going up 8% the previous few days.  After this kept happening i finally decided to just pull the trigger last week and am now in Arkk, Arkf, and Arkg and am very happy about it. While i dont expect YOY gains of 100% Like last year i think over 20% will be no problem.
+
+Now could you every night get their news letter on what they invested in and do it the next morning instead of paying the 0.75 fee, sure but your a day late on the market and that could be half the fee and the time etc is the other half so i think especially on what all have returned in the last few years the fee is fair._END_OF_POST_PYSTOCK_ Swing Trader’s Delight For Next Week On CNBC's "Mad Money Lightning Round," Jim Cramer said Upwork Inc (NASDAQ: UPWK) is a terrific idea. He recommended the stock as a buy.  3D Systems Corporation (NYSE: DDD) is real and it is back, said Cramer. I’ve been in these two stocks for three weeks now and all indications point to new highs and bigger gains.  Even “Cramer” said Friday that both stocks will scream to new highs. Upwork Inc and 3D Systems are both poised to continue on their trends upward. Check em out at your fav bus news site (mine is Yahoo Finance) and put both of em in your basket.  You can thank me later._END_OF_POST_PYSTOCK_ G1 Therapeutics (GTHX) - A layman’s explanation February 15th is the upcoming deadline for the FDA to decide the fate of trilaciclib, G1’s breakthrough therapy for cancer. It’s always more risky to buy a company before their product is approved. Risk-adverse investors may wish to wait for the headline. Investors with risk tolerance have one week to accumulate before the official deadline, but may find that the decision comes early.
+
+G1 has two drugs in its pipeline
+1. Trilaciclib
+2. Rintodestrant
+
+Trilaciclib works by preserving healthy cells during chemotherapy. This upcoming decision is centered around small cell lung cancer, but is generally considered the doorway for all other cancers that need chemotherapy. G1 hopes to make Trilaciclib the standard of care for cancer patients by 2025, which would substantially raise their value along the way.
+
+Rintodestrant, by comparison, is a much less lofty opportunity. It is aiming to address a specific type of breast cancer. Although it is less exciting, it could be another near-term win that helps with profitability.
+
+Needham’s analyst, Chad Messer, believes that positive results for both drugs this year could lead to $74 per share. Looking longer-term, Israel Englander, the man who turned $35 million into $40 billion with his savvy picks, revealed his fund accumulated 555,937 shares in a recent 13F filing.
+
+Disclaimer: I am not a registered investment advisor, and I am long on GTHX._END_OF_POST_PYSTOCK_ Those interested in EV vehicles this one is a winner. TTM Over 10 billion $ in revenue last qtr. Yes Quarter. Owner of land rover and jaguar. They are just getting started with EV. Sold around 5K EV cars. Small portion of revenue but a huge focus area. TTM is like GM of India but part of a larger   **Those interested in EV vehicles this one is a winner. TTM Over 10 billion $ in revenue last qtr. Yes Quarter. Owner of land rover and jaguar. They are just getting started with EV. Sold around 5K EV cars. Small portion of revenue but a huge focus area. TTM is like GM of India but part of a larger business house which owns over 80 companies and very tightly integrated with Indian economy. Very well known and trust worthy brand. Rumour has it Tesla might partner with TTM for India. Total market cap only $10B. I think this is a sure winner. Last qtr board approved huge buy back.**_END_OF_POST_PYSTOCK_ Gamestop Big Picture: The Bigger Picture *Disclaimer: I am not a financial advisor. This entire post represents my personal views and opinions, and should not be taken as financial advice (or advice of any kind whatsoever). I encourage you to do your own research, take anything I write with a grain of salt, and hold me accountable for any mistakes you may catch. Also, full disclosure, I hold a net long position in GME, but my cost basis is very low, and I'm using money I can absolutely lose. My capital at risk and tolerance for risk generally is likely substantially different than yours.*
+
+I'll cover many things that I think will be generally beneficial for newer traders and investors first, but if you're just looking for my current observations on GME, write about it and the end, so feel free to skip the wall of text in the middle if that's what you're here for :).
+
+One thing I would suggest for newer traders, particularly following the Robin Hood fiasco, is to transition to a more powerful broker/platform.  As I've mentioned a few times, I use TD Ameritrade's thinkorswim platform (see very recent review [here](https://www.stockbrokers.com/review/tdameritrade)).  They don't pay me to promote it or anything, other than that I can say that my portfolio performance has been greatly enhanced by the capabilities the thinkorswim platform provides.
+
+I've gotten many questions and comments requesting guidance on educational materials.  I haven't responded because I am honestly not the best person to ask about that.  I will say that the resources listed in this sub (to the right of the list of posts) look to be fairly comprehensive and excellent in quality.
+
+# Awareness, Ideas, Thesis, Due Diligence
+
+Most common question I got since my last post about my process for identifying trading and investing opportunities.
+
+At a high level, it all starts with awareness and various ideas about how the world around us is likely to change, and what the market currently anticipates (you will commonly hear phrases like 'X is already priced in', or 'the market is already discounting the fact that', etc.).
+
+Regarding GME, the idea I had was that some struggling retail and other businesses, which had been left for dead by the market, would actually rebound fairly quickly, and perhaps benefit from pent-up demand as the vaccines rolled out.
+
+Ok, that makes sense, but how, in fact, do you take your awareness of the world, take some of those ideas, and actually do something with them?
+
+I tend to start with running a screen (screen as in a sieve, not screen as in what you're staring at right now) in thinkorswim.  Other platforms have similar tools.  [tradingview.com](https://tradingview.com) is also excellent for a web-based tool.  These allow you to filter stocks by various types of criteria.
+
+As an example, I might start by filtering for:
+
+* Stocks in the retail sector
+* Market cap >65mio, <3bn (I find that to be a good range for minimally stable micro cap to smaller mid-cap that is likely insufficiently covered by analysts, and therefore more likely to be substantially mis-rated by the broader market)
+* PE < 7 (nothing magic about 7, that's just what I decided to use as a relatively but not ridiculously low PE multiple)
+* Fixed Charge Coverage Ratio >1 (i.e. they can cover fixed costs out of earnings, so imminent bankruptcy risk is likely lower).  Note that if you're looking ultra deep value you might actually specifically want to find companies at risk of bankruptcy at first glance, to dig through in detail to find ones that look more likely to turn themselves around from the brink for some reason.
+
+Etc.  It takes longer to think about what kinds of filters to use than anything else.  Once I've set those criteria up, you just run the scan (click a button in thinkorswim) and out pops a list of stocks that match the criteria in less than second.  On 2/6/2021 running the above scan gives me 9 names (of which, funny enough, Express--apparently another meme stock short squeeze play based on just looking at its chart for 2 seconds--is one).  For those who are curious, the list I got was: ANF (Abercombie & Fitch), GES (Guess Inc), PLCE (children's Place), DBI (Designer Brands inc), GCO (Genesco), CAL (Caleres Inc), CHS (Chico's FAS INC), CATO (Cato Corp), EXPR (Express Inc)
+
+At that point I might quickly check the charts to see what the daily action has been like for the past year, looking for patterns that might be interesting.  I'll pick PLCE for this example, since it is breaking out strongly, and looks to be about to smash through resistance of the price on the eve of the pandemic crash.  It also apparently blew out its last earnings estimates, which doesn't hurt.
+
+At this point I might proceed to check their SEC filings (lots of insider buying a few days ago, Blackrock increasing stake, recently new CFO, etc.), whale wisdom, company news etc.  I found an [interesting article](https://finance.yahoo.com/news/childrens-place-other-retailers-catch-133301579.html) from earlier last year that seems particularly positive--they have apparently been a leader in the retail sector in developing their digital omnichannel, with a large and foresighted investment made over 3 years ago, which made them particularly well-positioned to deal with the challenges of the pandemic (at least as far as bricks and mortar retail goes) and indicates very good things about the strategic vision of their management team and board.
+
+It was a ridiculous bargain in November, but may still have room to run even today.  Not an endorsement or telling you to go buy some of the stock, but that's my quick read.
+
+With the above 30 minutes of research done, I might make the decision that it warrants further investigation.
+
+As you dig deeper, you start to build a working thesis or theory on how the company is going to deliver performance, or get enough attention from the investment community to warrant a re-rating outsized gains in share price (the bull case).  Then you try to find all the reasons and evidence as to why that isn't going to happen (the bear case).
+
+From that point on you iterate as many times as seems prudent to you, depending on how much of your portfolio you intend to invest.  Since we're all here already, summarizing and posting your due diligence to this sub seems like a no-brainer.  It is very likely you'll get good feedback to help you refine your thesis even further, or perhaps stop you from making what might be a big mistake.
+
+Even if I decide not to make an investment at the moment, at the very least I might add that stock to a watch list, etc.  I can actually set thinkorswim to give me an alert if any new companies pop up that match those criteria from now on.  This type of feature is pretty common with screening tools.  This might happen if, for example, a struggling retailer gets its cash flow in order and crosses from <1 FCCR to >1 FCCR.
+
+A process very much like the above is how I found GME to begin with, and subsequently found my way to Reddit since there was so much GME-related traffic.
+
+The Market is so much bigger than GME, so I highly encourage you to use the knowledge, tools, and techniques you've learned about or been exposed to to explore that bigger picture.
+
+# You, The Market, The Trade
+
+If you've found something that looks interesting enough to warrant actually investing, it's worth spending some time to further think about precisely how you think you should do so before you just hit the buy button.
+
+If your thesis and time horizon are longer-dated, then stocks are likely your best bet.
+
+If instead you have a very specific time window in which you're interested, or have reason to believe the stock will move by a certain date, then options might be much more capital-efficient with a higher return (though a much higher risk of greater or total losses as well).
+
+There are many ways to express your ideas or bet on your thesis.  In fact, your thesis about a particular company might lead to trades on an entirely different company.  If your due diligence on a key industrial company that primarily supplies parts to a certain car company shows major investment in technology and production efficiency, that might also bode well for their customer, and thus warrant an investment there as well or instead.  My DD on oil storage capacity getting full back in April led to me taking some speculative positions in oil tanker stocks, as another example.
+
+You may also modify the way you position your trade based on market conditions.  Jon Najarian (a CNBC regular who focuses on options trading) recently described how he is transitioning his portfolio using a stock replacement strategy.  This means using various options strategies to try to mimic the performance of stocks, but without holding stocks directly.  The reason for this is that he is increasingly concerned that we may have a large market correction in the near term, and would like to have a defined limit to potential losses (a feature of many options strategies).  I don't know if he's correct, but his moves make sense as a way to address his concerns.
+
+Another thing I've referenced a few times in my post is writing cash-covered puts to essentially bet against the price falling vs betting that the price is going to rise.  This comes with the added wrinkle that 'losing' (i.e. the stock price in fact falls below the strike price of the put) comes with the added feature that you end up owning stock.  For this reason I commonly use this as a strategy on high-confidence stocks as a way to gain some revenue if the price goes higher, and effectively buy the dip if it goes down first.
+
+How you express your thesis in terms of the specific trades you make can greatly impact the likelihood and magnitude of your returns, and the profile of your risk.  Buying the stock you like, while straightforward and with a very intuitive risk/reward profile, may not be the best way forward.
+
+That being said, it is critical that you do understand the trade before you execute, so I would highly recommend practicing via paper/simulated trading--which, by the way, is a built-in feature of thinkorswim--before you execute a complex multi-leg option play.  Ok, I'll stop shilling for the rest of this post at least :).
+
+# Back to GME
+
+On Thursday and Friday what I believe we saw was despair-driven selling compounded by the tug of war between shorts that entered at $150+, and shorts still piling into the trade.
+
+Overall short-side sentiment is more cautious at this point than at the highs despite supposed sentiment among short-side players that GME is a $10 ($20 at best) stock.  This is reflected in Ortex data showing utilization dropping below 100% for the first time in months (i.e. shorts are no longer borrowing every single share they can get their hands on), and short interest stabilizing over the past few days.  As of Thursday utilization was 69.3%, and free float on loan was at 44.1%. Data for Friday should become available just before Monday market open.
+
+The reason for the above, I believe, is that while shorts seem to believe current prices are still a good entry point, they need to be concerned about getting blown up if a short that entered at the squeeze highs decides to cover and lock in profits.  The removal of restrictions on GME by Robin Hood adds another element of risk.
+
+The lower the price, the likelier that deeply profitable shorts cover, spiking price while doing so at the expense of the newest shorts, and the easier it is for retail sentiment to move price, so we're in a sort of very fragile equilibrium until the larger shorts that entered at the higher price points have covered.
+
+I'm not sure how to estimate when this would be, other than to say that the lower the price goes, and the more days that pass, the lower the incremental profit potential and higher accumulated interest cost for the short position holders, so I don't expect them to hold those squeeze high short positions for very long.  It is possible that the spike on Friday was a push to cover a fair bit of those positions before the weekend.  I would also expect that they will move to cover if somehow momentum seems to turn to the long side, which would accentuate and accelerate the the inflection of momentum greatly.
+
+I'm not sure what I'm going to do with my last 130 shares of GME at this point.  It's possible I hold them for a while to watch how things play out for the next few weeks, but I wanted to give everyone reading my post fair warning that going forward I may make an intra-day decision to sell part of all of the position.  I will, however, keep open the cash-secured put position, as an automatic entry back into GME at an effective $30 price point if the price is <$40 by April.  I may open new positions based on developments as well.
+
+On a different note, I took some time to once again review my thoughts and decisions over the course of the trade.  While doing so I was reading back through my posts from 12 days ago (only 12!?  feels like it's been at least 3 weeks...) reminding me that I had previously begun building a position in [AMC as a value play](https://www.reddit.com/r/stocks/comments/l4j5y0/amc_short_squeeze_potiential/gkotklz/?context=3) (via a couple of march $3 strike calls) on rumors of imminent rescue/turnaround financing.  I was originally planning to build a better position once I had time to study the potential trade structure better, but instead unloaded them at \~1000% profit for a net \~$2000 gain to concentrate further on GME when I was re-positioning my portfolio, not even realizing at the time that AMC was another stock with a legitimate short squeeze momentum thesis (LOL, I really should pay more attention to social media).  I just glossed over the profit as about what I was expecting off the bounce from market rerating the stock from "bankruptcy is imminent" to "holy cr\*p, the studios need AMC for their movies to make money!".  I should have realized when I was getting so many messages from people asking me to do for AMC what I was writing for GME.  I didn't even do any DD on the short interest there(!) and ignorantly advised people that they should only pay attention to the value thesis as I [channeled my inner Charlie Munger](https://www.reddit.com/r/stocks/comments/l4j5y0/amc_short_squeeze_potiential/gkp2b73/?context=3).
+
+I guess it just goes to show that you only have time to look so far into so many things at once.  As I've mentioned previously, trading is a hobby of mine, and something I do in my spare time.  I'm not sure if I would have been able to coherently manage momentum trading two stocks that were basically printing money in overdrive at the same time to take full advantage of either trade, especially while writing daily posts.  Try to keep that in mind if you choose to pay attention to what I write :).
+
+Also, apologies if you've messaged me and haven't gotten a response.  I will sometimes try to respond if I have time (and a good answer), but if you have a good question it would probably be better to either post as a comment or your own post so that you can get a broader range of responses, and also so that the responses can be seen by (and therefore benefit) everyone.
+
+Hope you're having a good weekend, and good luck in the market on Monday!_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Interest in 3d printed buildings construction Hi,
+I have done very well investing in 3d printing companies (vjet, xone, prlb) . It occurs to me the the greatest 3d printing growth will be in construction. For example the German company PERI has started 3d printing full apartment complexes.
+
+https://www.peri.com/en/media/press-releases.html
+
+I know that PERI is privately owned. Does anyone know of any 3d printing construction companies or companies that seem likely to invest in 3d printing IP that are publicly traded?
+
+I will update this post if I learn of any opportunities._END_OF_POST_PYSTOCK_ Ehang $EH A once in a lifetime to buy best in class of a new industry If you’re after a once in a lifetime stock; This is it. The transportation industry hasn’t been disrupted this majorly since the Wright brothers. 
+
+I see a lot of comments regarding the current price as lofty. At a market cap of 4.5b, this couldn’t be further from the truth.
+
+What you have in EHANG is a once in a lifetime opportunity to buy the best in class leader of an entirely new industry. Think about that for a second.
+
+The automotive industry as we know it is worth $2trillion. Morgan Stanley has estimated the autonomous air mobility addressable market to be worth $1.5tn by 2040. As the first mover and the only EVTOL operator with a commercialised product, the growth prospects of ehang are immense. Ehang is currently the ONLY manufacturer, driver, regulator, air infrastructure builder, mechanic and more of this soon to be massive industry. But the most exciting prospect is in EHANGS smart city management platform.
+
+We are talking about ehang’s business model pivot towards UAM command and control centres. Ehang has the technology to autonomously operate hundreds, thousands (don’t believe me check out their YouTube), one day millions of drones simultaneously. 
+
+Drones will be utilised for logistics (provide cheaper, faster and greener delivery), firefighting (can reach hundreds of m higher than trucks), passenger ferrying (decongesting rds and providing safer/faster transport), food delivery (warmer than your Uber driver can) medical transportation (already carrying organs for US listed United therapeutics). You name it and drones will be doing it. 
+
+Now in the future Ehang won’t be manufacturing these drones like every man and his dog, but they’ll be acting as urban air traffic control in cities globally to ensure all these other companies drones whizzing around aren’t crashing into each other. You can bet the house they’ll be clipping the ticket on each flight too. They’ll be an effective monopoly on the 3D infrastructure required for cities to harvest all the benefits afforded by urban air mobility. Check out their geofencing tech that keeps drones out of restricted airspace and the command and control centres they have already built in China and Azerbaijan with more to come. 
+
+Also to note:
+- A current director is CEO of DHL express china.
+- Their product has had regulatory breakthrough in China, Austria, Canada, South Korea already.
+- They are part of AMU-LED and SAFIR-MED UAM projects in Europe across multiple cities.
+- They’re developing an air ambulance.
+- They have the most patents of any automomous aerial company at 147 according to Lufthansa research.
+- Carmignac (large investment fund) just invested a significant sum on behalf of their funds - first signs of institutional support.
+- Possible candidate for ARKX by cathie woods. Drones featured heavily in the psospectus and throughout ARKs big ideas 2021 doc.
+
+Anyway. Rant over. Thank me later if you buy 100 shares now and retire a millionaire in 10 years time.
+
+Here’s a link to their December presentation:
+
+https://ir.ehang.com/static-files/f4671ab0-12f3-4381-88c9-e815fe08cd2b
+
+Annnnnd a white paper on the market:
+
+https://www.ehang.com/app/en/EHang%20White%20Paper%20on%20Urban%20Air%20Mobility%20Systems.pdf_END_OF_POST_PYSTOCK_ Shorting Bonds/Long Commodities as a deficit hedge I've been thinking quite a bit about how much debt the US is having to issue (which I don't disagree with necessarily) means that the US is either likely going to have to allow bond rates to rise or the Fed is going to have to keep monetizing Treasury bonds.
+
+I saw in a recent interview Druckenmiller talking about setting up a position where he shorts US bonds in case interest rates rise and is long commodities in case the Fed allows inflation to run hot instead. What do you all think of this? I'm curious how you guys would set this up if you think it's a good idea._END_OF_POST_PYSTOCK_ Why I'm confident LMND is going to be a 10-100x investment in the long term "The level of ambition of the CEO determines the potential of a company. Their ability to execute and properly build the company culture determines the size."
+
+At one point analysts believed AMZN was overvalued at a 30 bn market cap, TSLA at 80 bn, and SQ at 20 bn. Because they just looked at the balance sheet and not the CEO of the company.
+
+I also think people are making the same mistake with LMND. People are scratching their heads, at the current valuation and why shorting the company doesn't work. Once again those people are overlooking the fact that LMND is in a 4 trillion dollar addressable market, and that they have an insanely ambitious and competent management team.
+
+**Proof that the management team has the ability to execute:**
+
+So far Lemonade has high employee satisfaction, is ranked #1 in customer satisfaction for insurance, they already have a product that's arguably 10x better than the incumbent's (1/10 the time to process claims and onboard customers), they're achieving \~100% YoY growth, and they're currently releasing new insurance products every 6-8 months.
+
+When Daniel Schreiber said the biggest bottleneck to their growth is being very careful and selective on who they hire into the company, that pretty much sold me that they will most likely become a very valuable company in the future.
+
+The CFO also mentioned that it only takes 2 years for a customer to pay for him/herself. After that it's purely profits. Furthermore when a customer goes through highly predictive life cycles and eventually graduates from renter's insurance to home insurance, the revenues generated from that customer 6X's. That means they can continue pouring money into marketing, and will also most likely be able to keep up their insane revenue growth rate going into the future even as customer acquisition slows down.
+
+I put a good amount of my portfolio in LMND when it was at $60. It makes up 30% of my portfolio now. I'm still not going to sell a single share, unless Schreiber or any of the management team decides to quit._END_OF_POST_PYSTOCK_ Impact of 401K retirement plans on stock market Millions  of Americans are getting paid every other week, and at the same time they get their 401k contribution and the company match (if any) invested into large cap, target  date fund or something similar. 
+
+Therefore,  number of jobs where employees can contribute to their 401k has direct  impact on the demand side of the stock market . Am I missing something? How come this never comes up as topic of  conversation when discussing stock market?
+
+Couple of other points on the same topic:
+
+\-I understand that 401k funds are eventually withdrawn at the old age, but they have been "sitting" invested for years 
+
+\-US population has been growing in the last couple of decades, so it makes me believe that , after 401k introduction, growth of population (and jobs with this retirement plan) has only increased demand for stock prices 
+
+\-the above assumes that the total number of companies people can invest in is steady (actually it may be even declining since the 90s) 
+
+Does anyone have data on this topic? I could not find any good articles published recently_END_OF_POST_PYSTOCK_ $TSM I am bullish on this long-term, but interested to hear some bear cases Got in at TSM at low 50s and is one of the few stocks where I add to my position cost averaging up. They aren't able to keep up with demand so in the best case scenario is that they raise their prices? And if not then worst case scenario is they maintain their current revenue and profits. Just seems like a safe play to me as there're no reason their financials would be in any trouble. I'd just like to hear some bear cases where you think TSM might go downhill.
+
+Btw not worried about temporary corrections or pullbacks especially if it stays above 200EMA_END_OF_POST_PYSTOCK_ KDOZ INC. $KDOZF The world’s fastest-growing content discovery and recommendation platform $KDOZ currently @ $0.39
+
+**KIDOZ is the world’s fastest-growing content discovery and recommendation platform for kids, reaching over 100 million children worldwide. Started by a father who wanted to create a better way for his daughter to safely play online, KIDOZ has become the global network leader, helping millions of kids find content they love while enabling hundreds of brands and developers to monetize and distribute content to kids around the world.**
+
+**The kids’ mobile space presents 3 significant challenges:**
+
+* Kids are constantly looking for new games and videos but often end up with irrelevant and inappropriate content.
+* Brands are looking to recapture kids’ engagement; needing to reach an audience they once strongly connected with through linear television channels and are now scattered throughout thousands of apps.  
+* App developers who create amazing apps for kids, yet earn minimal revenue, are looking for a way to compensate their work.
+
+**The KIDOZ Network unites all players in one safe platform.**
+
+**KIDOZ for App Developers:**
+
+We help app developers and device makers generate revenue from their work in a COPPA-compliant way that respects their values, using sponsored content recommendations. The KIDOZ SDK serves as a leading COPPA-compliant solution for thousands of kid focused apps to monetize their traffic in the safest user environment for kids.
+
+**KIDOZ for Brands:**
+
+The leading mobile network for kids 13 and under allows brands to reach millions of engaged kids and parents on every continent, through one focal point – delivering the highest performance results in the kids mobile industry.
+
+**KIDOZ for OEM’s:**
+
+KIDOZ Mode is the official kids’ safety solution for over 40 top tier OEM’s, carriers and kids brands who power their youth-dedicated products. (LENOVO, PBS Kids, Sprout TV Cubby Tablet, Acer, T-Mobile, US Cellular and others).
+
+Growth highlights from 2020 include:-- Kidoz Safe Ad network reach increased from 100 million to 300 million users worldwide
+
+\-- Over 1 billion paid impressions were delivered recording 40% growth YOY
+
+\-- Over 325 million completed video views recording 45% growth YOY
+
+\-- US$3.5M paid to sales channels recording 45% growth YOY
+
+\-- 50% growth in rich media playable ads purchased
+
+Recent Kidoz Inc. highlights include:-- Q3 2020 Total Revenue of $1,919,973 - growth of 261% compared to Q2 2020Total Revenue of $736,827
+
+\-- Cash of $1,136,999 and working capital of $2,094,123 at September 30
+
+Returning to year-over-year quarterly revenue growth of approximately 50% is a huge achievement
+
+Check out the APP on the App Store. A lot of growth potential here!  
+[https://kidoz.net/](https://kidoz.net/)_END_OF_POST_PYSTOCK_ I am so bored of hearing your DD in some random stock Why does nobody here talk about anything except ETF’s and growth stocks? I see nobody talking about any of the hugely successful, extremely large companies and why they are doing well. If all you read is how some weed company is poised for growth or why an ETF is a great idea, we’re not going to see what DD on actually successful companies looks like. And I don’t listen to anything on here as investment advice, but it makes for a boring comparison. Everything will look the same. So it’s either all going to look like pump and dumps to you or it’ll all look like fantastic opportunities, but still. Boring._END_OF_POST_PYSTOCK_ Very confused about a stock Hey everyone. Im currently looking into investing in a stock but this stock is a small-cap stock with a price target 5-7 times its current value. The stock has 4% short interest and 50% institution held (11 total hedge funds). So, the hedge funds are definitely betting on this stock to do well. So, what I'm asking is: do these hedge funds know something we don't, and what do these insane price targets mean for this stock? Thank you everyone!
+
+&#x200B;
+
+\*\*edit: Some people have gave me permission to name the stock. If this is not allowed please let me know ASAP. The ticker is $AGTC Thank you! Obviously, I am not a financial advisor, please do your DD on this stock.\*\*_END_OF_POST_PYSTOCK_

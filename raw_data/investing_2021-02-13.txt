@@ -1,0 +1,550 @@
+ Accounting adjustments for acquisitions Company A buys out Company B and A realises a large boost to CFFO and would, therefore, see a large increase in FCF. Company B's financial statements are in Company A's 10K. Company A's statement of cash flows reflect the new working capital additions from Company B but the boost is obviously unsustainable because you can't buy the same company twice. Since Company B's financial statements are in Company A's 10K, would it be smart to subtract out Company B's additions to Company A's working capital? I imagine you would do this to see how the company would've looked without the acquisition and you can adjust Company A's balance sheet and statement of cash flows accordingly. But is this process the right way to go about understanding how the acquisition affected Company A?_END_OF_POST_PYSTOCK_ Long term industry recommendation algorithm results from past year Hello everyone, over the past few years, I've been working on an algorithm for choosing stocks. I think I finally found something that works, but it is unusual.. It recommends a diverse set of investments that should last several months (for potential long term capital gains.)
+
+I have backtested this many decades back and it works better than investing 100% into VTI. That was my simple goal.
+
+It takes a long time to run through the history of hundreds of funds.. I've spend several months worth of time to speed it up using various tricks, but still it takes a good 30 or so minutes to give a day's recommendation. To speed things up, instead of looking at individual stocks, I have it look through various sector and subsector/industry ETFs.
+
+Here is the simplified version of sectors/subsector recommendations it has provided for the past year:
+
+## January, 2020
+
+1. High Yield Junk Bonds / Gov Bonds
+2. Mortgage Real Estate / Broker Dealers / Technology / Aerospace & Defense / Utilities
+3. Semiconductors
+
+## Mid-March, 2020
+
+*Stock market recovery*
+
+1. Software
+2. Medical Devices / Semiconductors
+
+## May, 2020
+
+1. Technology (High percentage)
+2. Software
+
+## Mid-September, 2020
+
+1. Technology (Significantly lower percent than in the previous months.)
+2. Software
+3. Clean Energy
+
+## End of October, 2020
+
+*Coronavirus vaccines pass phase III testing*
+
+*Biden winning election*
+
+1. Clean Energy
+2. Software
+3. Medical Devices
+
+This last recommendation hasn't changed since October.
+
+The recommendations look kind of obvious in retrospect.. "Of course it was good to invest in technology right after the crash!".. but it wasn't obvious when the crash first happened, nor was it obvious if the crash "ended" yet.. That's what I like.. in times of uncertainty, I can look up to this algorithm to show me what are the next steps.
+
+Note the combination of funds are meant to compliment each other. Buying just the number one listed fund wouldn't be as effective.
+
+What I love about these recommendations, other than the potential long term gains, is that I think the results can be shared with everyone, and it won't stop working.
+
+It makes me wonder if I can set up some kind of subscriber system where anyone who wants to see the results of my algorithm can sign up and get emailed or something when there is a recommended change...
+
+The algorithm should provide better results than VTI in the long term, but you may suffer losses in the short term.
+
+But.. I am afraid if I start giving out the detailed recommendations, then someone will leverage their life savings based on my recommendations, lose a bunch of money in a week, then sue me for their losses..
+
+Anyway, I am not sure if something like this is already available as an etf or something.. The recommendations seem to be based on momentum, only looking at historical prices, not fundamentals. Yet, the recommendations change when some major event / news happens._END_OF_POST_PYSTOCK_ Future of retail investing w/ETFs & Index Funds As someone who was investing prior to the March market downturn, and has made some sizable returns off of buying individual stocks or ETFs at incredibly low prices, I started to think about what has taken place. 
+
+With the insane amount of returns many of us have seen, and the historically high prices we are seeing now for securities, are people worried about future % return potential?
+
+Like for someone getting into investing today who wanted to get into an ETF like VTI that has gone up considerable following COVID, would they be able to see sizable gains over the next 10 years?
+
+I don’t want to be one of the people screaming “bubble”, but as someone who has always been happy with their passive gains through ETFs I am starting to worry that this may not be viable in the future. 
+
+Thoughts?_END_OF_POST_PYSTOCK_ Why Canadian Oil is Set to Soar This post will outline why I believe that Canadian Oil stocks could double (or more) in the next year. \*Disclosure I am not a financial advisor....do your own DD 
+
+**Background**
+
+The Canadian oil industry has been depressed since 2016 due to slumping oil prices and lack of egress to international markets. This has resulted in a lack of investor interest in the sector, and thus being severely undervalued. The stock prices of many companies has not matched the commodity pricing recovery we have seen in recent months.
+
+98% of crude oil exports from Canada go to the USA. There are 3 major hydrocarbons that are produced from the Western Canadian Sedimentary Basin: Bitumen (oil sands), Condensate, and Natural Gas. Bitumen is mined or produced with steam, Crude/Condi and Nat gas/NGL are mostly produced with frac'ing. 
+
+Much of the condensate that is produced through frac'ing is used as diluent to ship bitumen through pipelines, so as long as heavy oil is in demand from the United States, condensate will also be in strong demand. The mixture is normally 25% condensate, 75% bitumen. Canada currently ships about 3.5 million barrels of day of crude south of the border. 
+
+Because of the lack of pipeline egress, Canada takes a bit of a discount to WTI on their crude which can range from 10% to as much as 60%. Recently, the gap has been closing rapidly due to increased demand in from Gulf Refineries. Mexico & Venezuela are main competitors for heavy oil in the US, and their exports have been declining. Venezuela (sanctions and political unrest), and Mexico (more refining done domestically). Currently WCS is sitting at about $46/bbl with WTI at $59/bbl. This is the highest WCS has been since April 2019. 
+
+**The Perfect Storm**
+
+With COVID-19 vaccines being distributed around the world and the belief that North America will be completely vaccinated by Q4 2021, demand is set to explode for petroleum products. Anecdotally I know there is serious pent up demand for airplane/cruise travel. People will begin returning to their office commutes, and industrial activity will ramp up again. Experts are predicting a commodity super cycle in the next 2-5 years where oil could break $100/bbl. 
+
+WTI is already trading at $60/bbl, inventories are being drawn down around the world. China's imports of crude oil grew by 18% month over month to almost 12 million bbl/day in January. Oil demand is sitting at approximately 90% of pre-pandemic levels, with most white collar workers still working from home and international travel still stifled. 
+
+The United States production has also been declining, and is down 17% from the highs in March last year. Several financial institutions are turning their back on lending to American shale due to the losses incurred across the sector last year. This could all result in a demand shock that the oil industry is not ready for, and will take a few years to catch up.
+
+**The Financials**
+
+Canadian oil has needed to be much more capitally disciplined compared to their American peers in the last 5 years, due to lack of access to cheap capital and depressed oil prices. Because of this lack of debt servicing, most companies are poised to generate significant free cash flow at $60/bbl WTI. 
+
+An analysis done by Ninepoint Partners evaluated the ability of dozens of Canadian companies to buyback all their outstanding shares and pay off all debt. 
+
+**The results: The average company could pay off all debt and buy back all outstanding shares with their FCF in 6.5 years at $60WTI. Some were as low as 3 years.** 
+
+[**https://www.youtube.com/watch?v=fCB0kBREGhA**](https://www.youtube.com/watch?v=fCB0kBREGhA)
+
+Some of these companies are trading at multiples <1x sales and <2x earnings. If there is any sustained $50-60/bbl prices these companies will return tons of capital to shareholders. 
+
+**Companies**
+
+Here is the current state of some attractive companies and their revenue/earnings the last time oil sustained at current prices. As you can see, these companies were posting significant earnings in 2019.
+
+All currency in CAD.
+
+|Company|Price ($CAD)|Price (PreCOVID)|Mkt Cap (2021) ($B)|Revenue (2019) ($B)|EBITDA  (2019) ($B)|
+|:-|:-|:-|:-|:-|:-|
+|**SU**|22.89|45.00|27.5|38.3|14.1|
+|**CNQ**|34.15|42.00|40.3|24.9|11.4|
+|**CVE**|8.90|13.20|17.3|21.3|4.2|
+|**NVA**|1.67|3.20|0.38|0.56|0.15|
+|MEG|5.60|7.90|1.70|3.96|0.91|
+
+There are plenty more companies to look at above are just a few examples. 
+
+**Egress**
+
+Canada is set to have 2 new international pipelines coming online by the end of 2022 resulting in increased throughput of 1.0M bbl/day. This is without the Keystone XL pipeline that was cancelled by Biden in January.  
+
+**Risks**
+
+* 3rd wave of Covid or variants could force lockdowns again resulting in lower than projected demand
+* Joe Biden could lift sanctions on Venezuela resulting in increased competition for Gulf Refinery space and a higher WTI/WCS differential 
+* OPEC could flood the market with oil again resulting in a price crash, however I don't believe they will do this as it is in their best interests to keep prices propped up. 
+
+Thanks for reading. Appreciate any comments._END_OF_POST_PYSTOCK_ Semiconductor shortage for automakers GM + VW + others GM apparently had the chance to place an order for  semiconductors but decided to wait and see demand . When they went back to make their order too late. Huge issue IMO
+
+General Motors is sounding the alarm over an ongoing semi-conductor chip shortage that may force it to limit its production output in the future.
+Today’s vehicles use an abundance of semiconductor chips for their various electronic systems, including powertrain control systems, advanced safety systems and in-car entertainment, among more. Automakers must compete with companies in the consumer electronics sector for the limited global supply of semiconductors, however, which may cut into their ability to maintain regular production output of certain vehicles.
+
+According to The Detroit Bureau, GM, Renault, Nissan, Mercedes-Benz, Volkswagen and other major automakers have recently expressed concern over the worsening semi-conductor shortage. Additionally, Bosch, the world’s largest automotive supplier and a major manufacturer of electronic automotive components, has acknowledged that has been receiving “significantly fewer” chips than expected in recent months.
+Other major suppliers, like Valeo and Continental, have expressed similar concerns as well, The Detroit Bureau reports.
+
+
+
+https://gmauthority.com/blog/2021/01/general-motors-concerned-over-semi-conductor-chip-shortage/_END_OF_POST_PYSTOCK_ Using leveraged ETF's for a less volatile higher return portfolio I was wondering if it was possible to create a portfolio with leveraged ETF's to create a higher Shape Ratio portfolio. The goal was to use a lower allocation to funds uncorrelated to SPY, because I only care about them for reducing volatility. I'm aware of decay of UVXY, but in times of panic it goes parabolic. **Please tell me why this is a horrible idea.**
+
+[Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=2000&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=100000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=SSO&allocation1_2=75&symbol2=SPY&allocation2_1=100&symbol3=UBT&allocation3_2=10&symbol4=TLT&symbol5=TIP&symbol6=UVXY&allocation6_2=5&symbol7=VXX&symbol8=UGL&allocation8_2=5&symbol9=GLD&symbol10=CASHX&allocation10_2=5)
+
+&#x200B;
+
+|Ticker|Name|Allocation|
+|:-|:-|:-|
+|SSO|ProShares Ultra S&P500|75%|
+|UBT|ProShares Ultra 20+ Year Treasury|10%|
+|UVXY|ProShares Ultra VIX Short-Term Futures|5%|
+|UGL|ProShares Ultra Gold|5%|
+|CASH|Cash|5%|
+
+&#x200B;_END_OF_POST_PYSTOCK_ Akamai Technologies Bullish Thesis Shares of the CDN and cloud security company have dipped about 20% from its January 27th high of $121/share following weaker than expected guidance for 2021 (forecasting 6% growth in revenue).
+
+When I saw that growth estimate I immediately thought they were sand bagging. All of their segments except the web division saw double digit growth in 2020. The first question on the latest analyst call asked why they were forecasting low growth and their CFO said it was due to expectations that their customers in the travel and hospitality division were asking for extended payment terms. I get the concern but that still doesn’t indicate there are any types of default/missed payments looming on the horizon. That sector will make a comeback.
+
+Akamai continues to see a ton of growth in their cybersecurity segment which exceeded $1 billion in revenue for 2020, or 25% YoY growth. Media and carrier division was up 15% YoY. That makes up more than 60% of their revenue. 
+
+I understand Fastly and Cloudfare are taking market share and growing at ridiculous 40-50% comps but to me both are getting a little bit overvalued and that was evident following NET’s drop after earnings. Same will likely happen to Fastly next week when they report.
+
+Overall, this looks like a solid value play with Akamai currently trading at 11x EV/EBITDA for the next 12 months. Historically it trades closer to 15x which would put it around $120/share.
+
+Made a quick analysis between the companies factoring in growth and EV for 2021. The lower EV/Sales to growth, the better.
+
+EV/Sales to Growth
+AKAM: 0.76
+NET: 1.10
+FSLY: 0.95
+
+
+Would love to hear insight from those in the industry! Not really talked about much on investing forums. Seems like most people think AKAM is a legacy/boomer company and that’s why I am a bit hesitant to invest. 
+
+
+Latest quarter earnings report for Akamai:
+
+https://www.ir.akamai.com/static-files/08c77f3c-ec9c-418c-acb3-184c7afbd4d3_END_OF_POST_PYSTOCK_ Am I missing something $AIV So I’m invested in a REIT called $AIV. I’m confused as to if I’m missing something . They split from another company in December causing the stock to go from around $50 to under $5. They’re a residential income company that invests in suburban areas. On paper they look good though they have 97% occupancy and 95% collection and it looks like the Dems are gonna push through a stimi with rental assistance and back rent. They’re P/E is under 3.5 and the lowest estimated fair value I’ve seen reading about them was around $39 a share. Is this a good find for a long term investment? I’m new to investing I used to say trade and then got reinspired  by a combination of listening to investment and money management youtube and audio books and WSB’s recent  gambit. I know people don’t give advise here but thoughts would be great and if your holding or have passed it up I’d love to hear opinions. Thanks for your time_END_OF_POST_PYSTOCK_ Deutsche Bank Quietly Plans to Offer Crypto Custody, Prime Brokerage Deutsche Bank has joined the growing ranks of large financial institutions exploring cryptocurrency custody, with aspirations to offer high-touch services to hedge funds that invest in the asset class.
+
+The Deutsche Bank Digital Asset Custody prototype aims to develop “a fully integrated custody platform for institutional clients and their digital assets providing seamless connectivity to the broader cryptocurrency ecosystem,” according to a little-noticed report by the World Economic Forum, host of the annual gathering of muckety-mucks in Davos, Switzerland. 
+
+In a passage buried on page 23 of the December 2020 report, Germany’s largest bank says it plans to create a trading and token issuance platform, bridging digital assets with traditional banking services, and managing the array of digital assets and fiat holdings in one easy-to-use platform._END_OF_POST_PYSTOCK_ Michael Burry appears to shift focus to clean energy via Nuclear Energy. Here is his [tweet](https://twitter.com/michaeljburry/status/1359915892272816128?s=20):
+“If the government is going to spend $2 trillion, there is no better use than converting the US to nuclear.”
+
+
+In his pinned tweet, Michael Burry appears to be bullish on nuclear energy. He links his post to the following WSJ article:
+[MINI NUCLEAR REACTORS OFFER PROMISE OF CHEAPER, CLEAN POWER](https://www.wsj.com/articles/mini-nuclear-reactors-offer-promise-of-cheaper-clean-power-11613055608)
+
+
+Here’s my research on Nuclear ETFs:
+
+Nuclear energy ETFs invest in companies involved in the uranium mining industry, the construction of nuclear power facilities, the generation of electricity from nuclear sources, and service providers of the nuclear power industry.
+
+With 3 ETFs traded on the U.S. markets, Nuclear ETFs have total assets under management of $414.16M. The average expense ratio is 0.72%. Nuclear ETFs can be found in the following asset classes:
+
+Equity
+The largest Nuclear ETF is the Global X Uranium ETF URA with $325.06M in assets. In the last trailing year, the best-performing Nuclear ETF was URNM at 114.79%. The most recent ETF launched in the Nuclear space was the North Shore Global Uranium Mining ETF URNM on 12/03/19.
+
+Tickers:
+
+URA
+
+URNM	
+
+NLR	
+
+[Nuclear ETF Channel](https://www.etf.com/channels/nuclear)_END_OF_POST_PYSTOCK_ I want to teach my younger sibling financial literacy as she enters job market. Please check my list My younger sibling is 21 and she just got her first job. She doesn't have any investments, credit cards, credit history, etc. 
+
+I didn't have any financial education or mentor, and as I checked my own history - it took me 3 years in the job market to start basic investing. And full 7 years until I learned about covered calls, selling puts, put credit spreads, crypto, business tax deductions, inverse ETFs, etc. I'm definitely still learning constantly, but I want to give her a head-start. 
+
+I made this step-by-step list so she can progress and make as few mistakes as possible. I will only move on to the next item once she completes her research, homework and I think she got it: 
+
+1. Rough spreadsheet to calculate how much you need for a perfect life if money is not a problem. 
+
+2. Open a no-annual-fee credit card, set up Mint or similar, budget tracking, etc. Learn how credit history works and set reminders to pay off your credit card. 
+3. Research what is a stock market, brokers, fractional shares, etc. Open an account and invest 5% of your savings in QQQM. 
+
+4. Setup recurring investments from your paycheck into QQQM, ideally 20%. Research Bid-Ask spreads, after-hours trading, etc. 
+
+5. Read books such as Rich Dad, Poor Dad. Watch Warren Buffet's yearly meeting and few episodes of recent ARK-invest, Mad Money, how the economic machine works by Ray Dalio, etc. Read Big Ideas 2021 by ARK. 
+
+6. Learn more about ETFs, inverse ETFs, commodity ETFs, basic options (buy a call or buy a put) 
+
+7. Once 100 shares of QQQM acquired - learn & sell a covered call each week to generate $30-40/week. This alone will let you buy 1 QQQM every 3 weeks (2x every 5 years). 
+
+8. Once 300 QQQM acquired - move over to QQQ. Learn about selling puts to do so. 
+
+9. Once 100 QQQ acquired - diversify into individual stocks, learn how to value a company based on fundamentals such as revenue, growth, profit, margins, etc. 
+
+10. Learn technical analysis in tools such as Trading View. Moving averages, trading bands, oscillators, etc. Follow opinions on StockTwits, etc 
+
+11. Don't diversify to more than 10 companies, and for your top 3 - listen to all quarterly ER calls/webinars. 
+
+12. After all previous steps are done - it's a good time to diversify into crypto, real estate, commodities such as gold, other currencies, emerging markets, art, startups, etc. No single asset or category should be over 20% of your net worth. 
+
+13. Schedule a call with the tax advisor to learn and optimize for the upcoming taxes. 
+
+
+Let me know what you all think. Especially if there are extra steps in between those. Hopefully, I can learn something along the way too  
+Cheers
+
+*Edit 1:* I do expect everything to take more than a couple of years, with plenty of time, months at a time, to adapt
+
+*Edit 2:* I will adapt to her. If she shows interest and does un-asked research - I will keep pushing along. Otherwise, I will stop as long as she knows what is S&P500 and NASDAQ in general._END_OF_POST_PYSTOCK_ Where to look in the event of a market crash/bubble. I am looking for some ideas of where to turn to in the event of a market crash. Somewhere to protect all my cash as best as possible, with the least downside. I came across NYCB which seems very stable, but wanted to get different thoughts/opinions. Ideally, everyone would time their move perfectly out of prone stocks before the big drop but I am thinking theoretically here. 
+
+Not necessarily seeking stocks that soar during recessions, but stocks that won't lose tremendous value in one. I understand that bonds, CD's, and money markets are also an option but don't want my money tied up in one of those for too long.
+
+Open to any and all ideas._END_OF_POST_PYSTOCK_ Some valuations are absurd - I am going 10% short **Microsoft was a great company in 1999. It posted record revenues of $20bn, record net income of $8bn, and soared to a market cap of $615bn.**
+
+**With that being said, if you had invested in Microsoft at the top of the dot com bubble you would not have seen a return on your investment until 2016.**
+
+I believe we are now in the midst of a similar timeline. Some valuations are through the roof without any grounding in reality. It is hard to know when it will correct but I am convinced that at some point investors will once again begin valuing companies as the value of their future free cash flows + a risk premium.
+
+For this reason I am adapting my personal investment strategy from 100% long to **110% long and -10% short** with some select picks.
+
+I will be diversifying my shorts and limiting their initial notional value, wary of irrationality continuing. I expect this to be an investment strategy I can stick to for at least 1 year.
+
+**I'd love to hear any contrarian views to my thesis and any thoughts on my short picks or suggestions.**
+
+---
+
+My picks (each will be -1% of my portfolio):
+
+**1. TSLA** Not much needed to be said. Great company, love their products and direction. $800bn valuation is ludicrous.
+
+**2. SHOP** $180bn valuation for $2.5bn revenue in 2020. 70% growth rate is great but where is my risk premium for my investment today?
+
+**3. UBER** $113bn valuation with a -$22bn accumulated deficit. Gave up on self driving (their roadmap to profitability?) back in December. Propped up by SoftBank.
+
+**4. ZM** $126bn valuation with $2bn TTM revenue and $400m net income. Guys, this is a company who offer video communication software. 0 MOAT or risk premium.
+
+**5. SNOW** $85bn market cap, $489m TTM revenue and -$400m net income. For a data cloud service (hello have you heard of AWS/Azure/etc.?)
+
+**6. DASH** $65bn market cap, $2bn revenue, -$200m net income. Financials aren't the most atrocious on this list but food delivery services (like ride sharing) are too location specific. No roadmap to global domination here.
+
+**7. LMND** $10bn market cap for a "tech" insurance company with less than $100m revenue, -$100m net income. Their S-1 is filled with talk about their AI. Their "chatbot AI" on their website is a web form with a photo of a woman. Seriously?
+
+--- 
+Picks I am less bearish on but still considering going short.
+
+**8. ABNB** $128bn market cap, $5bn revenue pre-covid. This one is hard for me. I like this company and think they have potential as a global business. Also a great pick post-covid. But I think $128bn is still too insane. Could be convinced otherwise.
+
+**9. NIO** $94bn for the Chinese Tesla. Close to bankruptcy pre-2020 EV hype. Now has some momentum but $94bn worth? China growth can be scary though...
+
+**10. SPCE** $13bn valuation. Richard Branson's pet project run rampant with a Chamath SPAC. Space, very cool. Return on investment is where sorry?_END_OF_POST_PYSTOCK_ TFFP has a game changing technology for drug delivery. The opportunity may be huge. TFFP has a potential game changing technology for drug delivery
+
+This is not investment advice.  Just me, in between watching South Park reruns, offering an overview of a company you may wish to check out.  Do your own due diligence.  Do your own homework boys and girls.   
+
+Full disclosure:   I own a bunch of shares. 
+
+TFFP (Thin Film Pharmaceuticals) has a special proprietary process for making just about any substance into tiny dry powder particles.    Many drugs are not solvent, have low  bioavailability, and the thin film matrix powder is much more readily absorbed by the human body.  Or, so the scientists say in peer reviewed published journals.   Lots of lab and some clinical studies published.   Data looks great.   
+
+Why is this important?   
+1).  There are many drugs that have awful side effects, adverse effects, that could be delivered much more safely with TFF delivery.  A smaller dose delivered directly to the lungs offers potentially way less adverse effects.  No stomach, kidney, liver absorption, for example.   
+2).  There are many drugs that are super powerful in the lab but not so effective in the human body due to low absorption. Niclosamide is one example.  Powerful anti-viral but not easily absorbed.   TFF delivery could make this drug way more useful.  It’s an approved off patent drug so wide open to explore TFF delivery, eh.  Opportunity?   I think so.   
+  Other drugs they are exploring include Tacrolimus and Voriconazole.   Either of these can seemingly be very well enhanced by TFF delivery.   The company has clinical trials underway and hopes doe approval doe both of those by early 2024.  Seems far away ?  Biotech stocks usually rise in anticipation and as clinical trials progress.  Usually.  Who knows.   It’s a stock.  Anything can happen.  
+3).  In addition to their internal drug development they have many big pharmaceutical companies evaluating TFF delivery to enhance existing or future products.    Exciting.   License dollars abs royalties could be big big, if successful.  Who knows.  I’m hopeful. 
+4).  They have one cannabis customer / partner announced but not yet launched. Theoretically TFF delivery for cannabis will be much safer than vaping.  Abs maybe better than edibles or smoking.   Even a small market share in this huge market would be game changing for tiny TFFP.   
+4). They have research work underway with the US Army to innovate in the field dry powder therapeutics to protect troops.  Very prestigious group called USAMRIID game them the research contract    
+5).  They are working with a university consortium to explore TFF delivery for a universal influenza vaccine.   Exciting.  
+6).   The TFF dry powder is very stable.  No cold chain logistics.  This is a key cost saving abs headache saving for nearly any vaccine.  But recent the covid vaccine Cole chain logistics problems have been in the news.  Opportunity???  Time will tell.  
+
+Do your own work.  The company has presentations on their website abs many news releases.   Do your own due diligence.     
+
+Long and strong
+
+Excuse any typos please.  Thanks_END_OF_POST_PYSTOCK_ DD: Beware of RIOT, only hearing bad things. Quotation from a  [morgan9471](https://www.tradingview.com/u/morgan9471/) on TradingView, all the real DD goes to him:
+
+&#x200B;
+
+>This is my first idea I'm publishing to TradingView, so I'm eager to hear your thoughts/criticism.  
+>  
+>The  premise starts by stating that RIOT is highly correlated to  BTC  /USD,  given how the business model is  BTC   mining that seems fair. As such,  with the recent increase in  BTC  /USC RIOT has gained also, but  sometime on Feb  9th   it started diverging from  BTC  /USD and has only  increased the divide since then. Why? There hasn't  been a single  catalyst coming from inside the company and it doesn't  hold any  BTC    and is a money losing operation while trading at 1288 times last  quarter's  earnings . So my guess is that there's no reason to sustain  this diverges and thus we'll go down from here.  
+>  
+>I'm not going to say it's going bankrupt, but it should revert back to being tightly correlated with  BTC  /USD.
+
+Note:  Other comments suggest that the current boom is due to a press release  stating RIOT has begun using a newly acquired haul of bit mining  hardware.
+
+Source: [https://seekingalpha.com/news/3661232-riot-blockchain-stock-climbs-as-new-miners-to-boost-capacity-to-1-ehs](https://seekingalpha.com/news/3661232-riot-blockchain-stock-climbs-as-new-miners-to-boost-capacity-to-1-ehs)
+
+&#x200B;
+
+>My prediction/guess - it reverts back to $33/share level.I've  dug deeper into RIOT since I saw some comments about their  historical  price. The company goes back to the year 2000, which seemed  odd for a  blockchain company. **After  reading their 2016 10-K report I  learned that up to later 2017 it was a  failing biotech company called  Bioptix (also having gone by the names  Venaxis and Aspen Biopharma).  They were going out of business but then  in 2017 the CEO rebranded it to  RIOT and started mining bitcoin.**  
+>  
+>**There  was even an SEC investigation (dropped in February 2020) into the   company. The investigation was due to possible securities fraud given  how they pumped their stock by adding "blockchain" to their name.**
+
+Second page of RIOT's annual report: [https://ir.riotblockchain.com/annual-reports?page=2](https://ir.riotblockchain.com/annual-reports?page=2)
+
+Quick search of "RIOT SEC investigation", bullet point from CNBC:
+
+>The SEC charged 20 people and entities in September for what it called “classic pump-and-dump schemes.”
+
+Source: [https://www.cnbc.com/2020/01/21/former-riot-blockchain-ceo-to-settle-for-alleged-market-manipulation.html](https://www.cnbc.com/2020/01/21/former-riot-blockchain-ceo-to-settle-for-alleged-market-manipulation.html)_END_OF_POST_PYSTOCK_ Broad market update on tech stocks, semiconductors, and metals The Nasdaq has clearly broken out of it's long-term channel and has entered into the final bubble phase. Semiconductors and mega-cap tech will lead the final blow-off top higher as they break out of their recent consolidations.
+
+Silver and gold remain stuck, but have extreme potential. In a market where everything is taking off it is extremely hard to wait for a move that is lagging. Will patience pay off?
+
+Read my full post on my strategy in stocks and what I am watching for next week in stocks and metals.
+
+[**https://relativestrengthpro.com/weekend-update-stocks-metals/**](https://relativestrengthpro.com/weekend-update-stocks-metals/)_END_OF_POST_PYSTOCK_ I'm thinking about getting some $HEXO shares Hi, I was following weed regularization speculation in USA and I take a look into HEXO, I looked also SDNL and TLRY but I don't see them as competent as HEXO.
+
+Pros✅
+
+Spectacular 2020 turnaround and Canadian Cannabis dominance [https://staticproduction.s3.amazonaws.com/financial-statements/2021/Q1+FY21+MDA+FINAL.pdf](https://staticproduction.s3.amazonaws.com/financial-statements/2021/Q1+FY21+MDA+FINAL.pdf)
+
+Rute to expansion to EU and USA 
+
+[https://finance.yahoo.com/news/hexo-corp-appoints-general-manager-113000774.html](https://finance.yahoo.com/news/hexo-corp-appoints-general-manager-113000774.html)
+
+Focusing on Cannabis more elaborated products with higher barrer entrance than growing plants(vape, oils,  beverages...)
+
+[https://technical420.com/cannabis-article/hexo-corp-is-putting-all-of-the-pieces-in-place-to-lead-the-canadian-cannabis-beverage-category/](https://technical420.com/cannabis-article/hexo-corp-is-putting-all-of-the-pieces-in-place-to-lead-the-canadian-cannabis-beverage-category/)
+
+A pretty decent directors and executives: [https://www.hexocorp.com/home/management/](https://www.hexocorp.com/home/management/)
+
+This is pretty amazing but!
+
+&#x200B;
+
+**Risks❌**
+
+Posible backfire of EU and USA expansion due to regulations
+
+Derivates could fail hard
+
+Fail to dominate USA more competitive market as they dominate Canada 
+
+...
+
+**I need you to point me more posible Risks and posible Dangers of HEXO Corp.** 
+
+&#x200B;
+
+\*\*Disclamer: I don't own any share of HEXO **right now**. This is not financial advise just a debate_END_OF_POST_PYSTOCK_ The real economics of investing Everybody understands the fundamentals of investing, you buy your stocks, the price goes up, over time it's worth more and you retire rich.
+
+But where does this money come from? Is it magic?
+
+The fundamental reason is that there is more going into the pot than there is being taken out.
+
+So surely the factors at play are population increase and the popularity of investing?
+
+For example:
+
+you have a small population of just 1,000 people who are the same age, they invest $10 each
+
+If the population doesn't increase they can only take out what they put in when they sell to the next generation of 1000 people. Of course early sellers will be able to make more but that will leave the rest out of pocket, my point is, money isn't made magically. 
+
+Imagine the population increases to 1billion who all invest and dont withdraw, those 1,000 people could then sell their stocks for a huge profit and live happily ever after, isn't that the current model? 
+
+The population increase and popularity of investing has always been high but in recent times the US has had its slowest population growth in over 100 years.
+
+It's also possible in the future that there will be alternative ways to invest money and the stock markets could crash.
+
+Am I wrong?
+
+Are we really guaranteed returns on our S&P 500 tracker funds over the next 50 years?
+
+Are there any existing studies and what other factors are at play?
+
+(I understand there are a million factors that may contradict my examples somewhat, dividends and buybacks can play a small part for example but I believe the above is the real driver behind the stock market and without those there would not be any value, I may be wrong.)_END_OF_POST_PYSTOCK_ Best high risk / high potential ETFs 2021 Hi, I'm new (ish) to investing.
+
+Of the two, which would you choose :
+
+1) A mutual fund touted as "aggressive growth".
+
+OR
+
+2) Purchasing a riskier ETF such as ARKK or BTCC?
+
+Planning to go long, say 15-20 years.
+
+ARKK has had great year so far but will the momentum die?
+
+BTCC is pretty speculative, but bitcoin seems to be on a tear lately.
+
+So my (maybe not so rational question) is: What sounds better? Purchase mutual funds and forget about it for the next 15-20 years OR Trade ETFs that are on the riskier side of the scale for the next 15-20 years.
+
+Are there any other good ETFs that are in same category (innovation / high growth) as those listed above that you can recommend?
+
+Thanks you and sorry if I'm not making much sense.  I'm the lay-man but learning !_END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ UiPath goes public soon, let's talk Hello all,
+
+
+UiPath, a software company that imo is a hidden gem, has it's IPO soon and I want to see what is the overall opinion about them.
+
+I'm not a financial expert but I'm a software developer and I'll try to explain a bit their product and why I think it brings a lot of value into the software world.
+
+UiPath's product is an RPA(Robot Process Automation) UI platform, easy to use, aiming to send repetitive computer tasks into history. I strongly suggest you to have a look at their product demo video on YouTube. 
+
+"Process automation? Nothing new, we have it in the industry for ages", very much true BUT... UiPath takes this concept and makes it available to people that are not necessarily software developers. There are a lot of automation tools, frameworks and libraries out there but they are meant to be used by people with software development background. Adding a high amount of usability to an existing concept is something that defines the success of some big tech players we currently have in the market.
+
+"Are there so many out there that actually need this?", a big YES. Think about how many age old processes are out there,  any job that is related to data operation is a possible subject for RPA. In fact, I'm absolutely sure that any of you at some point in life had to deal with a super boring repetitive task, like copy-paste from a website into a spreadsheet. Now imagine how many companies atm have operators that do exactly this kind of jobs and how appealing would be for these companies to say goodbye to the human operator and welcome a "robot" instead. Let's leave aside the moral part of the story for now.
+
+As a company, I know that these guys take good care of their employees, this is a very strong point in the software industry. Most of their current customers are banks. Talking about old processes and outdated software solutions and I think banks are one of the "leaders", Win XP based ATMs say hello.
+
+My biggest concern about their IPO is that it will be very "priced in" judged by the amount of investments they got recently and if you get in too soon you may end up holding the bag for a while but I honestly believe that long term it is very likely to be a good investment.
+
+So what do you think about them and most importantly, do you see it as a good investment? What are, in your opinion, their strong points and weaknesses?_END_OF_POST_PYSTOCK_ The next growing market is AAV (autonomous aerial vehicle) I will start with an excuse for my english, as you will probably see english is not my native english so sorry for the mistakes and misunderstanding.
+
+Usually people focus their attention to the EV as the next big thing ( and ofcourse it will be), but meanwhile another market that is getting bigger and bigger is the AAV market.. Is it going to be a blust like EV, Or will have a small effect on our daily lives.
+
+United airlines order 50 flying vechiles taxis to use for tranfer people in and back from the airport and it seems companies starts to imbrace the flying aircrafts as well.. people will be mobile by aircrafts very soon(The link i tried to attach was banned by the mods but you can just have a quick search in google and find all the topics)
+
+Of course the AAV market is not only to transfer people, but this is in my eyes the last line and the top goal of this indusry.
+
+Will be happy to hear more thoughts regarding this :)_END_OF_POST_PYSTOCK_ The next high growth blue chip stock: Paypal Previously, I've made my case for Fiverr, a company for freelancers, only last week. Since my recommendation, the stock has grown from 270 to 320 as time of writing. That's an \~20% increase. I believe the future of work will also be 'online' as opposed to traditional 'in office'. The last year, the coronavirus has only accelerated the shift to online-work.
+
+I now propose another stock, PayPal. What's my reasoning for this?  When you look at growth stocks, you also look at their suppliers.  For Tesla, for example, you look at who's supplying the batteries for electric cars and can bet on that as well.   The rise of Tesla and electric cars has created a halo effect, and the rise in their stocks for all of the industry.  
+
+Now, when you think of Fiverr, and the rise of companies based on online work, payment processing companies will benefit.  When you transact with freelancers half way across the world, we are looking at payment processing companies that serve as a method of  payment for your transaction.  The likes of Visa, Mastercard, and Paypal stand to benefit. Why specifically PayPal? 
+
+Basically not only will PayPal stand to benefit from increased transactions as outlined above,  Paypal also looking to get into anything related to digital payments.  To quote,  PayPal has jumped into the mobile payments space with Venmo, which is now the most widely used mobile peer-to-peer payments app out there.  PayPal has also delved into cryptocurrencies, and now accepts cryptos on its payment platform. What’s more, the payments company is also jumping into more direct shopping and stock trading. 
+
+Basically, it’s doing it all.  PayPal is turning into an all-in-one digital wallet for consumers. They are looking at doubling it's user-base and hence revenues.  It's parallel is Alibaba's Ant Financial. It's massive in China, and before the Chinese government clamped down on the IPO, it was looking to the biggest IPO in all history.
+
+If you are looking to place a blue-chip stock in your portfolio, I believe Paypal will the next best bet._END_OF_POST_PYSTOCK_ Plays For The Possible Approach of a New Commodity Supercycle As many of you know there has been some talk of the next super-cycle of commodities getting under way. This is all just talk and I want to preface that but looking at the past, it seems like a very reasonable hypothesis. I am personally going to begin investing in nickel as lithium ion batteries are composed of around 70% nickel. I am also looking into other ways to target innovative industries through commodities. 
+
+What are some of your plans for the commodities markets in 2021? Specific companies or overall markets are welcome!_END_OF_POST_PYSTOCK_ Robinhood doesn’t allow me to take money out of the account and I don’t know why. I just received an email from Robinhood saying the following : 
+Hi Felix,
+A withdrawal restriction has been placed on your brokerage account. This means you cannot transfer money from Robinhood to other accounts using any method, and any transactions using your Robinhood debit card or ACH account and routing number will be declined.
+Please note that you can still deposit funds into your brokerage account.
+
+Why did this happen and will I not be able to take the money back to my bank account? 
+I’m obviously new to the whole investing thing and I’m scared that I fucked something up and that I won’t be able to get that money back. All the bank transfers went through properly and I’m not in the negatives so I haven’t got a clue what’s going on. Any help would be appreciated. Thanks
+
+Edit: I never tried withdrawing anything and I got the email out of nowhere yesterday. I was dealing with high volatility stocks and I do have an account that’s less than 2 weeks old. I tried putting it in the same bank I deposited from and no matter the amount it won’t let me. Yes I’ll switch to fidelity after this mess is sorted out.
+
+Edit edit: there isn’t any personal info but if it helps shed light here is some trading info. https://imgur.com/a/ibc0Tv4_END_OF_POST_PYSTOCK_ Chinese construction stocks Hello,
+
+I am planning to buy stocks from Chinese construction companies which build roads, railways, buildings and other stuffs in Africa.
+
+Here are some companies I looked up at:
+
+[CHINA CMNCTNS CONSTRUCT.CO.LTD](https://www.bloomberg.com/quote/1800:HK)
+
+[CHINA RAILWAY CONSTRUCTION](https://www.bloomberg.com/quote/1186:HK)
+
+[CHINA STATE CONSTR.INTL HLDGS](https://www.bloomberg.com/quote/3311:HK)
+
+[SICHUAN EXPRESSWAY CO-H](https://www.bloomberg.com/quote/601107:CH)
+
+&#x200B;
+
+Now first of all is it a good idea to buy Chinese stocks in general (especially penny stocks) or are they just memes?
+
+Should I consider to invest also in other companies which compete with the Chinese ones in Africa?
+
+I am new and I have almost no knowledge. Thank you in advance._END_OF_POST_PYSTOCK_ Novavax will fall as quickly as it rose Management is clearly historically incompetent and loves diluting shareholders. I'm not too sure what's happening with Nanoflu but I know they have failed miserably trying to bring vaccines to the market.
+
+I don't trust management at all and will load up on puts with a 2023 expiration and $45 strike - clearly very bearish. Only thing is vaccine hype could easily continue into fall 2021 and even 2022. The only two components that will allow Nvax to sustain itself or prevent a collapse going into 2022-2023 is
+
+1. does the world still need a Covid vaccine?
+2. can Novavax provide a Covid vaccine?
+
+The company has been getting grants lately so I'm not too sure how that changed their balance sheet lately. I know it was absolutely garbage pre-Covid and the company was on the verge of bankruptcy after Resvax failed. Their technology is very weak and outdated, though if the vaccine proves to work I do not think this will effect the bear thesis to much. Regardless, it is priced to absolute perfection right now and I can not see how it sustains itself in the long term. The company has Covid vaccine hype, yes, but building a company takes years of time and effort. I do not see Novavax magically turning a new chapter in a couple months. The CEO has also tried to take advantage of previous pandemics to inflate his stock price. It's a shady business_END_OF_POST_PYSTOCK_ Small town Kentucky gets a big business Appharvest (APPH) just made their flagship warehouse in rural Kentucky where I went to college so I’ve heard from a number of people that big things are happening in a small town. I think there are a lot of positives behind these guys. 
+
+- High yielding food production / sq. ft. 
+- Positive green footprint and sustainability
+- Organic food with no pesticides 
+- Strong board of directors and investors 
+- American company. Reduced cost on shipping. 
+- Cheap land and a local workforce eager for industry
+
+These are just things that I see on the surface and don’t know how to get into the nitty gritty. 
+
+In no way am I giving advise or asking for it just sharing my thoughts._END_OF_POST_PYSTOCK_ ARK vs Berkshire Hathaway Does anyone think Cathie Woods is the new Warren Buffet ? Could getting into an ARK etf be like investing in BH years ago ? What happens to BH when buffet passes ?  Does BH plummet upon any negative news of WB health ? Good time to buy because the underlying fundamentals are still there ? 
+Are ARK ETFs a bubble waiting to burst ? Is the move to clean energy and the current administration going to give ARK a boost? 
+
+Not really.looking for an answer just want to hear peoples thoughts. 
+Please.delete if not allowed._END_OF_POST_PYSTOCK_ Jeremy Grantham GMO Comment on Current market  Jeremy Grantham of Boston GMO who speculates we are currently in a 1929 esque epic bubble. Interviewed by Bloomberg: [https://www.youtube.com/watch?v=RYfmRTyl56w](https://www.youtube.com/watch?v=RYfmRTyl56w) (Well worth a watch)
+
+"Jeremy Grantham, co-founder and chief investment strategist of Boston’s  GMO, believes U.S. stocks have become an epic bubble and will burst in a  collapse rivaling the crashes of 1929 and 2000. In this interview, he  explains why, discusses the futility of Federal Reserve policy,  criticizes the state of American capitalism, and shares his thoughts on  gold, Bitcoin, emerging markets and climate change"
+
+He  mentions Emerging Markets as a good place to decant some wealth, but he doesn't specify any names.
+
+Can anyone suggest any Emerging Market stocks and the exchanges they trade on?_END_OF_POST_PYSTOCK_ Why Cathie Wood might be right, and why TSLA is actually STILL fairly or even undervalued at these levels. "Analysts have been calling the stock “overvalued” since the day they went public, because they all keep comparing it to other car companies. I wish I had a dollar for every analyst who pointed out how “*every other car company sells ten times as many cars*”. 
+
+ I’ve also repeatedly bumped into some lazy analysis that Tesla is expensive because its current P/E is 1,270x or forward P/E is 204x. However, I’ve hardly ever seen a Tesla bear put out a detailed valuation in support of their bearish thesis which makes me wonder if a lot of people are simply dismissing Tesla in arrogance.
+
+But the thing is, they’re all making the same mistake:
+
+**Tesla isn’t a car company.**
+
+They’re an energy and technology and SaaS company that makes cars.
+
+Once you realize what Tesla really is, you start to see what their place in the market is going to be in the years to come.
+
+They acquired Grohmann Engineering. They acquired Perbox. They acquired Maxwell Technologies and Hibar Systems. And of course everyone remembers the Solar City acquisition back before dropping Motors from their name. They didn’t acquire these companies because they thought they were cool. They did it so nobody else could.
+
+* There are 25,000 EV charging stations in the United States. 20,000 of them are owned by Tesla.
+* Tesla is currently the #1 li-ion battery manufacturer in America, and #5 in the world.
+* Tesla has secured the rights to large supplies of lithium, and has developed their own internal process for extracting lithium deposits inexpensively from other sources.
+
+These segments of the energy space — battery production and EV charging — are a market sector that’s going to grow 50 fold in the next 15 years as consumer demand for EV’s increases. All of the major auto manufacturers have declared they’re shifting towards electric cars.
+
+Where are they going to get the batteries? How are their customers going to charge them?
+
+The answer: Tesla.
+
+Musk has made it clear from the beginning that their intent is to supply batteries for the entire EV *industry*, not just their own cars, and has also more or less come out and said that he’s open to letting other auto manufacturers access their Supercharger network. That puts them squarely in the energy business as the single most capable distributor.
+
+There’s also been chatter about licensing their self-driving technology, and using their self-driving technology as a recurring revenue generation, which would be a very attractive value-add for the other OEM’s. And all of these things don’t even begin to cover the expected growth in residential energy with products like rooftop solar, Powerwall, etc."
+
+&#x200B;
+
+**People making the claim that Tesla is an overvalued car company are making the same mistake they made saying Amazon is an overvalued retail company. Back in 2010, after it was clear how big AWS and cloud computing was going to become.**_END_OF_POST_PYSTOCK_

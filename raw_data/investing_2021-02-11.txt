@@ -1,0 +1,673 @@
+ Surge by Disney+ to nearly 95 million subscriptions leads to surprise profit [https://www.marketwatch.com/story/disney-earnings-surge-in-disney-subscriptions-leads-to-surprise-profit-11613078561?siteid=yhoof2](https://www.marketwatch.com/story/disney-earnings-surge-in-disney-subscriptions-leads-to-surprise-profit-11613078561?siteid=yhoof2) 
+
+“Disney+ has exceeded even our highest expectations,” Chapek said in a [conference call with analysts](https://edge.media-server.com/mmc/p/snvice4i) later, noting it stood at 26.5 million subscribers in the same-quarter a year ago. He also noted spikes in usage for ESPN+ (up 83% to 12.1 million) and Hulu (up 30% to 35.4 million).
+
+Disney’s Media and Entertainment Distribution, which includes Disney+, brought in $12.66 billion for the quarter, a decline of 5% from the same quarter a year ago before the pandemic swept across the country. The Disney Parks, Experiences and Products unit took in $3.6 billion, down 53% year-over-year as many Disney parks and its cruise line remain closed. The flagship Disneyland Park in Anaheim, Calif., and Disneyland Paris will stay closed in the current quarter, Disney Chief Financial Officer Christine McCarthy said during the analyst call.
+
+The sustained strength of Disney+ has impressed Wall Street analysts despite stiffening competition from Apple Inc.’s [AAPL](https://www.marketwatch.com/investing/stock/AAPL?mod=MW_story_quote) Apple TV+, Netflix Inc. [NFLX,](https://www.marketwatch.com/investing/stock/NFLX?mod=MW_story_quote) AT&T Inc.’s [T](https://www.marketwatch.com/investing/stock/T?mod=MW_story_quote) HBO Max, Comcast Corp.’s [CMCSA](https://www.marketwatch.com/investing/stock/CMCSA?mod=MW_story_quote) Peacock, Amazon.com Inc.’s [AMZN](https://www.marketwatch.com/investing/stock/AMZN?mod=MW_story_quote) Prime Video, and others._END_OF_POST_PYSTOCK_ Investing Amidst Inflation/Hyperinflation I'm a pretty new investor who has (naively) kept most of my assets in cash. After reading the Boggleheads book, I'm more committed to investing my cash holdings. Now I know, I know the adage "It's not timing the market, it's time in the market" and to insulate yourself from all of the finance news and predictions, **BUT** given the uniqueness of COVID and the resulting cash injection from governments, the recent speculation of inflation or even hyperinflation is hard to look away from.
+
+I've been trying to read up on what are the best places to put your money during an inflationary regime. It seems like debt is number one (so buy a house) and next up is TIPS funds. I've seen both good and bad reasons for having money in the stock market during inflation. I don't want to buy a house (don't want to be tied down, plus I'm single) and the stock market is at an all-time high right now. So process of elimination says a fund like VIPSX or VTIP would be a good spot to park my money, *at least* until post-COVID life shakes itself out, then I can rebalance to a more ambitious distribution (90+% stocks). What are your thoughts on investing if you anticipate inflation/hyperinflation? It seems the worst that can happen by putting your money in a TIPS fund is that you lose out on potential gains of the stock market, but at least your assets will keep up with inflation. Is that correct?_END_OF_POST_PYSTOCK_ Stock holding during a merger I am interested in hearing about what the process of holding stocks in companies going through a merger looks like. 
+
+**Acquiring Company Holdings:**
+
+What happens to the stocks you own in the acquiring company when the merger goes through? 
+
+How does the price of the targeted company’s stock at the time of merging affect the movement of the acquiring company’s stock post-merger?
+
+**Targeted Company Holdings:**
+
+What happens to the shares held in the target company?
+
+Do you have the choice of converting your stock to the acquiring company stock, or is that dictated in the merger process?_END_OF_POST_PYSTOCK_ RIGL Pharmaceutical sand a critique on my DD/FA Hey everyone!  Thanks in advance for taking the time to read this; I've been eyeing Rigel Pharmaceuticals (ticker: [RIGL](https://www.google.com/finance/quote/RIGL:NASDAQ?sa=X&ved=2ahUKEwjs1ejg2eLuAhXhMVkFHTeHBN8Q3ecFMAB6BAgHEBk) ) and wondering why Yahoo Finance has it set as a strong buy (1.7 on the recommedation rating).  I decided that this would be a good first time time to try some FA and exercise some financial DD.  I also have some positions for RIGL that I bought just for shits and gigs (8 shares @ $3.45).
+
+Intro:Rigel Pharmaceuticals is a biotechnology company dedicated to discovering, developing and providing novel small molecule drugs that significantly improve the lives of patients with hematologic disorders, cancer and rare immune diseases.  They are headquarter in South San Francisco, CA.
+
+Products and its uses:Based on their website ([https://www.rigel.com/pipeline/](https://www.rigel.com/pipeline/)) they have 6 products in the pipeline, but they seem to be putting all their efforts on  TAVALISSE® (fostamatinib disodium hexahydrate) tablets, which has been designated by the FDA as first-in-class medication.  This is important since this drug will have the market cornered for its specific use until 2032 (per their investor relations January 2021 presentation: [https://d1io3yog0oux5.cloudfront.net/\_bef6964e32b3f4ed8a2db9acc82022c3/rigel/db/708/6000/pdf/Rigel+Corporate+Presentation-January+2021.pdf](https://d1io3yog0oux5.cloudfront.net/_bef6964e32b3f4ed8a2db9acc82022c3/rigel/db/708/6000/pdf/Rigel+Corporate+Presentation-January+2021.pdf))
+
+Fostaminib is the first drug of its kind to manage ITP ( chronic immune thrombocytopenia), but has other uses too (I'm only naming 2 because these are the only ones I could fully understand from their presentation).
+
+1. It is currently in phase 2 and 3 studies to determine that it can help prevent a type of cell death exclusively found in covid19 patients.
+2. They will potentially be the first to market therapeutic for wAIHA (Warm autoimmune hemolytic anemia), which is currently on its phase 3 study.
+
+My personal insight into this business and investing in pharma:
+
+Per Investopedia ([https://www.investopedia.com/articles/markets/051316/industry-handbook-pharma-industry.asp](https://www.investopedia.com/articles/markets/051316/industry-handbook-pharma-industry.asp)), any sort of analysis on any pharmaceutical company needs to rely heavily on any readily available info regarding the drugs they have in their design pipeline.  And despite Tavalisse being designated as a first-in-class, you also need to be wary of up and coming innovator companies who are looking at blockbuster drugs and their manufacturers, and ultimately letting them pave the way so that said innovator can just follow in their footsteps and bring a better drug to market.  This includes
+
+1. Getting rid of any sales inhibiting side effects
+2. Following the established set of FDA required tests and trials that the first company had to deal with
+
+Looking at some hard financial numbers (pulled from Yahoo finance)
+
+Sales/Revenue	
+
+TTM	 $102,425,000.00 
+
+12/31/2020	 $61,700,000.00 
+
+12/31/2019	 $59,288,000.00 
+
+12/31/2018	 $44,509,000.00 
+
+12/31/2017	 $4,484,000.00 
+
+	
+
+Operating income	
+
+TTM	 $(29,686,000.00)
+
+12/31/2019	 $(69,091,000.00)
+
+12/31/2018	 $(72,683,000.00)
+
+12/31/2017	 $(79,616,000.00)
+
+	
+
+Operating Margin	
+
+TTM	-29%
+
+12/31/2019	-117%
+
+12/31/2018	-163%
+
+12/31/2017	-1776%
+
+	
+
+Net income	
+
+TTM	 $(28,053,000.00)
+
+12/31/2019	 $(66,894,000.00)
+
+12/31/2018	 $(70,480,000.00)
+
+12/31/2017	 $(77,992,000.00)
+
+	
+
+Free cash flow	
+
+TTM	 $(45,719,000.00)
+
+12/31/2019	 $(42,965,000.00)
+
+12/31/2018	 $(59,932,000.00)
+
+12/31/2017	 $(77,721,000.00)
+
+&#x200B;
+
+So in other words, they're getting better at what they do and soon, they won't have to operate at a loss, assuming all goes well with Tavalisse/Fostaminib.  They did recently get granted some money by the DoD to fast track the phase 3 clinical trials for Covid19 treatments.
+
+(so this is wear my FA gets funky).
+
+Based on some FA articles I read, this is where we can get into the meat and potatoes of evaluating the price of a company.
+
+First, I determine how much net cash the company has based on the difference between the current amount of cash/cash equivalents/ST investments they have and their total debt.
+
+September 2020 cash/cash equivalents/ST investments: $72.8 millionSeptember 2020 debt: $41.1 million
+
+Net cash = $31.70 million
+
+Next up: assume the amount of money the company will make given a determined (or maybe even arbitrary) rate of return that would make you feel comfortable investing in them. For me, I used the discounted cash flow model and weighted average cost of capital rate to quantify this assumption. I also assumed that their net cash would increase by 2 million every year.
+
+So, I modeled out the cash flow by using the discounted cash flow function on excel; I used 10.53% as the hurdle rate (or WACC) via [gurufocus.com](https://gurufocus.com) ([https://www.gurufocus.com/term/ROIC/NAS:RIGL/ROIC/Rigel%2BPharmaceuticals%2BInc](https://www.gurufocus.com/term/ROIC/NAS:RIGL/ROIC/Rigel%2BPharmaceuticals%2BInc)) and made an assumption that a competitor would be coming in by 2026 with their own product (Note - I also know about the terminal value concept, but I didn't have the stomach to go through the formula derviation at this point in my FA, so I assumed that 2026 would be the end of Rigel's exclusivity on this treatment).
+
+&#x200B;
+
+|Year|2021|2022|2023|2024|2025|2026|
+|:-|:-|:-|:-|:-|:-|:-|
+|Present Value of cash flow|$28.7 million|$30.8 million|$32.6 million|$35.3 million|$38.9 million|$43.4 million|
+
+So the sum of the cash flows, inlcuding the net cash, is around $241.3 million.
+
+Again, based on my quantified assumptions on how much money this company will make, I will now determine how much I should be willing to pay via a share price.
+
+As of February 2021, there are 168,980,000 outstanding shares of this company.
+
+So dividing the sum of cash flows by the # of outstanding shares landed me on $1.43 per share, which is vastly underpriced compared to what it's trading at.
+
+SO! Despite my the errors known (application of the DCF model) and unknown (I didn't look at any potential sources of competition), this share price still makes sense to me because this company only has 1 major product in the pipeline that may (or may not) even work out, despite the DoD covid19 grant.
+
+Additionally - a drug getting the first-in-class designation isn't necessarily a good sign if you consider cases where blockbuster drugs were eventually overtaken by a better alternative (Viagra to Cialis, for example).
+
+So if there are any investors at this point that want to point out where I'm lacking in this FA and what I'm missing, I welcome any and all feedback!!
+
+TLDR: I decided that RIGL is currently overvalued and is not even worth the long hold.
+
+Disclaimer: I am not a qualified financial advisor and I won't be held responsible for any errors in this post, for which I'm sure there are plenty of!! I just want to see where I can improve my FA._END_OF_POST_PYSTOCK_ Playboy is going public, and CEO says potential ‘is endless’ Playboy is returning to the stock market Thursday after 10 years as a privately held company, but the iconic brand looks far different than it did when it left in 2011.
+Founder Hugh Hefner died in 2017, the company stopped printing its famous men’s magazine last year and current CEO Ben Kohn has repositioned the firm as a consumer-products company rather than a publishing business.
+“We’re not trying to be a magazine company. That doesn’t make sense to me,” Kohn, who will be one of the firm’s largest shareholders, told Seeking Alpha in an exclusive interview. “What makes sense to me is being the lifestyle platform that this business originally was.”
+Playboy recently agreed to merge with special purpose acquisition company Mountain Crest Acquisition Corp. (MCAC) in a SPAC deal that values the company at about $381 million. The stock will begin trading Thursday on the Nasdaq under the ticker “PLBY.”
+MCAC raised some $50M through an initial public offering in June, and its shares rose more than 30% since the IPO to close Wednesday at $13.34 (see chart below).
+
+As for Playboy, the firm still offers articles, adult pictorials and videos via Playboy.com, but Kohn said consumers also buy $3 billion a year of Playboy-branded products that the firm sells on its own or through licensees. He said that even in Playboy’s heyday as a men’s magazine, the company owned or licensed consumer businesses that ran the gamut from casinos to cufflinks that featured its iconic rabbit logo.
+Kohn, who helped that Playboy private in 2011, said that when he first met the company’s legendary founder, “Hef said to me: ‘I might not be the best editor or the best publisher, but I am goddamn the best marketer.’ I think that’s what we’ve brought back to the company, which is really [to be] an aspirational lifestyle business.”
+Despite the print magazine’s demise, 68-year-old Playboy remains one of the world’s best-known brands, with 97% of people around the globe recognizing the rabbit logo. Some 90% of customers are under 40, and women make up more than 40% of e-commerce sales.
+Playboy-branded products sold online range from underwear to calendars to sex toys. Offline, a Chinese company operates more than 2,500 brick-and-mortar Playboy clothing stores in the Asian nation, while a partnership with Caesars Entertainment (NASDAQ:CZR) runs the Playboy Club London casino.
+The revamped Playboy operates in four verticals:
+
+Sexual Wellness. This includes products like Playboy condoms and sex aids. The company also recently signed a $25M deal to buy Lovers, a chain of 41 U.S. brick-and-mortar “sexual-wellness” shops.
+
+Style and Apparel. The Playboy name is one of China’s top men’s fashion brands, sold through brick-and-mortar stores and more than 1,000 e-commerce sites.
+
+Gaming/Lifestyle. Beyond its London casino, Playboy has partnerships with online-gambling software companies Microgaming and Scientific Games Corp. (NASDAQ:SGMS). The company is also working on online sports gambling, while in the lifestyles arena, Playboy sells furniture via Wayfair (NYSE:W).
+
+Beauty and Grooming. Kohn said Playboy “has been an arbiter of beauty for 68 years,” and currently sells or is developing perfumes, skincare products and cosmetics.
+
+The CEO said that simply by tapping into the growing direct-to-consumer trend, the company can get a bigger share of the existing $3B revenue pie for Playboy-branded products while growing sales organically.
+“We can drive the lifetime value of our consumers up because we can offer them multiple different products, whereas a licensee can only offer them one product,” he said.
+
+Playboy recently released earnings for 2020’s third quarter and first nine months that showed big year-over-year gains. For instance, the company reported that net revenues rose 86% year on year in the third quarter to $35M, allowing the Playboy to turn a $1.3M profit vs. a $3.4M loss during the same 2019 period. And for 2021, the company is guiding to more than $160M in revenues and $40M of EBITDA.
+Kohn said that when you add in more than $100M in working capital from the SPAC transaction and $180M of prior years’ carried-forward losses that will cut taxes, he sees big opportunities for growth ahead.
+“The runway that’s in front of us is really endless,” he said.
+
+
+
+https://seekingalpha.com/news/3661149-playboy-stock-is-going-public-and-ceo-ben-kohn-says-potential-is-endless_END_OF_POST_PYSTOCK_ Historically it's way better to invest at market close than at market open, most gains occur overnight Found this 2018 article, interesting/fun fact: [The Stock Market Works by Day, but It Loves the Night](https://www.nytimes.com/2018/02/02/your-money/stock-market-after-hours-trading.html)
+
+* If you had bought the SPY at the last second of trading on each business day since 1993 and sold at the market open the next day — capturing all of the net after-hour gains — your cumulative price gain would be 571%
+* On the other hand, if you had done the reverse, buying the ETF at the first second of regular trading every morning at 9:30 a.m. and selling at the 4 p.m. close, you would be down 4.4%
+
+Chart: [https://i.imgur.com/YPTjg3v.jpg](https://i.imgur.com/YPTjg3v.jpg)
+
+Disclaimer - I'm not posting this to endorse the above strategy, I prefer to buy and hold._END_OF_POST_PYSTOCK_ Is our housing market about to crash?  
+
+## Coronavirus UK – Will Our Housing Market Crash 2020?
+
+Until very recently, the UK housing market was at its strongest before the EU referendum.
+
+It is good to be optimistic, however, that said we must not delude ourselves to the reality we face.
+
+Few commentators, nevertheless, are making upbeat predictions for our housing market performance for the next 12 months.
+
+Now there is a contraction of first-time buyers who are stung by the difficulty in getting low-deposit mortgages and the looming rise in unemployment.
+
+However, Boris Johnson has recently said he would “turn generation rent into generation buy” via a return to 95% mortgages for first-time buyers.
+
+This can only happen if the mortgage regulations are relaxed or as an alternative by providing direct government subsidies for first-time buyers adding to the various help-to-buy schemes.
+
+### Things are getting worse and not better
+
+Several months living with COVID-19 we are now seeing a clearer picture of the impact of COVID-19 has had on house prices. With the government intervention like the ongoing stamp duty holiday and the possibility of another national lockdown, the housing market could fluctuate in the months ahead.
+
+The Land Registry’s UK House Price Index is a reliable barometer for house prices which is based on sold properties. It works on a two-month lag, so the latest available figures are for August.
+
+The HM Land Registry figures reveal the price of a property in the UK increased by 0.7% month-on-month and 2.5% year-on-year in August 2020, to reach £239,196.
+
+This might not last as the steam runs out of the broader economy. Experts believe the market (including house price growth) is likely to slow down once the government’s COVID-19 financial support to businesses employers, employees and the stamp duty cut comes to an end.
+
+The Halifax says our housing market will eventually feel the effects of the economic downturn, with ‘greater downward pressure on house prices in the medium-term’.
+
+The Nationwide opinion is that the winding down of government support schemes could ‘dampen housing activity’.
+
+The Centre for Economics and Business Research (CEBR) predicts house prices could fall by 14% in 2021.
+
+If we look at the broader picture now, things are getting worse and not better.
+
+Many countries are already predicting a downturn in their housing market. At the bottom of this page, I have placed links to articles for 4 significant economies as a point of reference.
+
+If we study the previous UK housing market crashes, we may get an idea of how serious the current crisis could get.
+
+A 2020 housing market crash could be the worst market correction ever seen in the UK, according to Mr Richard Woolnough.
+
+The Mr Woolnough, a bond manager at M&G’s, believes house prices went up significantly ahead of the downturn. There is a chance they could decline to record lows, worse than seen in previous housing market crashes.
+
+Mr Woolnough said: “History suggests that when the UK housing market crashes, it tends to fall about 25%-30% from peak to trough in real terms, but given that UK house prices rose about 270% from 1995 to end of 2007, there is a risk that this crash could be worse,”.
+
+### IMF says UK housing 30% above model
+
+“How far could UK house prices fall? The IMF said last autumn that UK house prices were 50% above where models suggested they should be, although this month, the IMF reduced that to 30%,”.
+
+“Nobody knows how far prices could fall, as there is a considerable margin for error on long- term economic predictions.
+
+“I believe this projection is likely to worsen because the banks are becoming increasingly reluctant to lend, which means mortgage approvals, and therefore house prices, could fall much further,” he said.
+
+Recent data reveals that properties in London remain the most expensive at an average of £477,000, compared to the average of £247,000 in England._END_OF_POST_PYSTOCK_ Phase I pharmaceutical and biotechnology bubble I am one of those who think that a very important bubble is coming in the pharmaceutical and biotech companies. 
+
+This so-called bubble has already been started by the oracle Warren Buffet investing for the first time in his history in companies in these sectors. 
+
+As happened in the year 2000 (coinciding with my first years in the market) the expectation promises prices never seen before. In those years it was normal to see all technology stocks above $100 a share. It was what was called the technology bubble. Now the first phase of the biotech and pharmaceutical bubble is complete. 
+
+
+Why? 
+
+Because you can no longer find any stock in that sector below $1 a share. 
+
+What is the next phase? 
+
+The next phase you will see that there is no longer any stock in that sector below $5 per share with a high inflow of institutional investors. 
+
+We will talk about this in my next post about this._END_OF_POST_PYSTOCK_ The intrinsic value of gold I've been wondering about what would be a reasonable definition of the intrinsic value of gold and how could it be measured. Here's my current thinking / brainstorming
+
+Gold is bought for two purposes, as an "investment" and for consumption (jewelry, electronics, healthcare, food). If all of the existing invested gold would disappear and people stopped buying gold as an investment, the market price of gold would give the intrinsic value.
+
+Perhaps there's a way to estimate the amount of new gold production that is bought as an investment and use it to somehow estimate the hypothetical market price of gold, if the demand would be lower. This could be estimated by assuming some reasonable supply and demand curves based on available data. What do you think this intrinsic value would be compared to the current market price, perhaps 50% lower?
+
+BTW, one thing related to this question that wasn't immediately obvious to me is that if the global wealth allocated to gold is stable over time (which may or may not be true), it means that gold doesn't just store its value but it appreciates._END_OF_POST_PYSTOCK_ Potential American firms that can produce semiconductor chips desperately needed to produce EV's GM, Ford, solar companies, everyone is complaining about a chip shortage. I'm not entirely sure if they are just semiconductors in general or if they are specific to one component like the inverters needed to convert DC to AC.
+
+**The govt announced it is looking into giving incentives to american companies that can manufacture these components. Anyone aware of US firms worth investing in that could potentially do this?**
+
+There's also a shortage of semiconductors used to make high end video cards, although im not sure if this is the same thing affecting the EV industry._END_OF_POST_PYSTOCK_ New advice on call options for profit I just started getting into purchasing stock and I have 2.5 shares of Tilray right now. I was trying to research and understand call options to see how that would work with trying to earn profit. I have about 100 dollars in cash banked and I'm contemplating on if I should add more from tips, and I wanted to see what would be the best choice in a call option  for the next month but I'm not sure what to even consider.
+
+Basically I'm a rookie who would take any advice on where to direct my cash, whether it be doing another stock purchase or actually making an option trade. I know I'm starting small, but I hope to make some decent money, even to help save for a house down payment._END_OF_POST_PYSTOCK_ Tesla long term prospects Just today I read that a board member of Tesla sold almost all his shares and purchased LEAPs with exercise prices of $52.38 and $68.56 with a expiry in June 2022 and 2025. So is this a clear signal that Tesla is over valued? Or am I getting something wrong?
+
+Here's the link: https://finance.yahoo.com/news/elon-musk-younger-brother-sells-020053001.html
+
+(Bloomberg) -- Kimbal Musk, the younger brother of Elon Musk and a Tesla Inc. board member, sold $25.6 million of shares in the electric-car maker, according t..._END_OF_POST_PYSTOCK_ BNY Mellon to offer bitcoin services, a validation of crypto from a key bank in the financial system https://www.cnbc.com/2021/02/11/bny-mellon-to-offer-bitcoin-services-a-validation-of-crypto-from-a-key-bank-in-the-financial-system.html
+
+Bank of New York Mellon, the nation’s oldest bank, said Thursday that it will begin financing bitcoin and other digital currencies.
+
+The custody bank will eventually allow digital currencies to pass through the same financial network it currently uses for more traditional holdings like U.S. Treasury bonds and equities after months of analysis of its prototype digital asset framework.
+
+“BNY Mellon is proud to be the first global bank to announce plans to provide an integrated service for digital assets,” Roman Regelman, CEO of asset servicing and head of digital at BNY Mellon, said in a press release.
+
+“Growing client demand for digital assets, maturity of advanced solutions, and improving regulatory clarity present a tremendous opportunity for us to extend our current service offerings to this emerging field,” he added.
+
+The BNY Mellon executive added that, pending product analysis and approvals, the bank should begin offering the services to its customers later this year. The Wall Street Journal first reported the bank’s cryptocurrency announcement._END_OF_POST_PYSTOCK_ Mergers Outside of USA/Europe  
+
+Does anybody have any thoughts or experiences on mergers in Asia?
+
+If we look at mergers in the USA and Europe for example, we will often have Company A (share price 100) and Company B (share price 50)
+
+When  company A shows interest in buying company B, the share price of B will  go up to 60 or something like this. Then maybe a buyout is confirmed at  65 and the price settles at 62.50 until the merger is completed. In contrast, company A share price will usually drop until the merger is completed.
+
+&#x200B;
+
+In Asia, things seem to work a lot differently from what i've observed.  Mergers, or a company going private are often lowball offers below the value of a company, or only a little higher.
+
+These can sometimes cause companies to crash and other weird things to happen  such as the price to trade significantly below fair value or significantly below possible aquisition value.
+
+Some recent examples I have are Vedanta which was trading at 6\~, buyout was offered  at 4.50 (unsucessful) and then the price went up to 8\~ after failure, now it's currently at 10 but some of this is macroeconomic impact imo.
+
+CCRC has had a lowball buyout offer of $5.37 and is currently trading at  $4.55. Seems quite ridiculous as even if the merger fell apart you  wouldn't be too unhappy just holding a fairly solid company trading at 4 P/e with low debt.
+
+Could anyone explain or give me ideas as why this is?_END_OF_POST_PYSTOCK_ Some under appreciated risks to valuations Troy asset management are a U.K. firm who focus mainly on preserving capital as well as growing it over the long run.... pretty interesting thoughts from one of their managers 
+
+Quote:
+“She believes the premium that investors should be demanding for the wide range of economic outcomes should be higher: “We really don't know how long this virus is going to be with us, that's incredibly uncertain. On top of that, you've got fundamentals that we know that we can be very sure of.
+
+“The corporate sector has taken on a lot more debt, we’ve taken a huge economic hit from Covid and the ramifications of that are going to be here for some time to come.
+
+“You've got the fact that in the corporate world margins in many cases have expanded to levels that are probably unsustainable, a prioritisation of wage inflation from the Biden administration could put pressure on margins, and we also know that tax rates certainly in the US have a risk of rising.
+
+“All these things should today command to higher risk premium for a lot of equity prices.”
+
+[link to story here](https://www.trustnet.com/news/7466714/troys-yonge-the-three-big-risks-that-markets-face-today)_END_OF_POST_PYSTOCK_ If you missed the electric vehicle train... Here are some ideas if you did.
+
+RMO ~ An electric vehicle battery and retrofit company. This is a good entry point after yesterday's drop. If anyone was interested in joining the electric vehicle train but missed the start, now is your chance. This company recently went public via SPAC IPO. It initially jumped but has since settled. I see it taking off again soon. With a small market cap it could potentially be a 10-20 bagger.
+
+Alternative similar company: XL ~ Same deal as above, just more focused on commercial electric vehicle fleet retrofits rather than battery tech. Also recently gone public via SPAC IPO.
+
+The electric vehicle revolution is upon us, and while these aren't pure electric vehicle plays in the TSLA or NIO sense, they still have a lot of potential. There are a ton of existing commercial vehicles that need to be electrified.
+
+Happy Trading!_END_OF_POST_PYSTOCK_ "The worst stocks are doing the best" [https://finance.yahoo.com/news/worst-stocks-are-doing-the-best-morning-brief-110238013.html?.tsrc=fin-notif](https://finance.yahoo.com/news/worst-stocks-are-doing-the-best-morning-brief-110238013.html?.tsrc=fin-notif)
+
+Any thoughts on this? The article states what I'm feeling for quite a while now. As an example, AstraZeneca published a doubling of their 2020 profit, meanwhile the stock's average declines and it hardly moves on the news, as if real profit doesn't matter any more.  (I have no stake in AstraZeneca)_END_OF_POST_PYSTOCK_ I'd never thought of ETFs this way and their risks to global equities In this article by the FT the idea that ETFs will probably cause the next big downturn in global equities is new to me.  This is the takeaway:
+
+  ETFs inflows pay a big premium to buy stocks and since they must buy when they get inflows this is by definition. As globally the AUM that ETFs manage is increasing at monstrous levels it poses a big threat to the equities market. If the markets turn sour, or if there's a shock that makes ETFs flows negative it is going to produce a downward spiral, big time. People/institutions if they want to unwind their investments in ETFs they must withdraw and thus the selling power will drive the market even lower.
+
+  Here's the article:
+
+ https://www.ft.com/content/dbfc69df-7dbc-4338-a475-1432ffdc4056_END_OF_POST_PYSTOCK_ Critique my Portfolio Please 
+Hi Everyone, could use some help and constructive criticism on my portfolio before I rebalance today, just sent across the Cash Deposit to the brokerage and will buy in new positions.
+
+**ME:**
+
+34/M- 2 Kids under 5, stable Job (Grateful)
+
+Pakistani, Non-US Resident or Citizen. Living in UAE (Tax Free?)
+
+Brokerage used - Interactive Brokers.
+
+Portfolio Intent - Long Term - 10 to 15 years - Retirement Savings /Kids Education.
+
+**Portfolio Today:**
+
+&#x200B;
+
+|BND|9%|
+|:-|:-|
+|BNDX|9%|
+|VOO|43%|
+|VTI|36%|
+
+**Indented Portfolio:**
+
+&#x200B;
+
+|BND|9%|
+|:-|:-|
+|BNDX|9%|
+|VOO|41%|
+|VTI|30%|
+|ARKK|10%|
+
+&#x200B;
+
+**Questions:**
+
+1. A bit Unsure on ARK given the high Expense ratio, but also the really high returns. What are the questions I should ask myself before committing to a 10% ?
+2. BNDX vs BND - Both or One, I have very little knowledge on how these work/tax implications but I do understand there are Taxable dividents - Could someone ELI5 ?
+
+&#x200B;
+
+Thank you very much all
+
+Note: Both Tables dont add up to 100% simply because 1-3% is stocks of companys i like that im holding on to. Dont intend to add/subtract from those positions as yet._END_OF_POST_PYSTOCK_ Are we in times of placeholders companies I kinda wish that I was  some talking head on Bloomberg or CNBC, because I would term the end of this bull market the placeholder era. Essentially the companies that are performing well are the ones that have stronger footings than others in a space rather than their underlying fundamentals. With long tech equities being the 2nd most crowded position (from a BofA survey of money managers for Jan) a lot of the subsectors like gene editing, electric cars (tech. auto), battery companies, and EV companies are performing because they have invested years in the technology. 
+
+In conclusion, if this is the case then companies are more like research institutions then they are profit-making machines (normal framework under Freidman). With research institutions the more money and time you "throw" at a project the closer you get to getting it done. If we are really in placeholder era then companies should look at giving companies the most amount of capital they can take, as it is the only variable we can control. 
+
+I was wondering if you guys agree to this idea and the idea of treating companies like research institutions._END_OF_POST_PYSTOCK_ Multiple Reported EPS numbers I'm trying to understand reported earnings per share numbers and am getting super confused. Let's use $AMPY's latest earnings per share as an example. I've looked it up on various websites and they all report different numbers. Take the earnings reported on 11/05/2020 for fiscal quarter ending Sep 2020. Nasdaq, Seeking Alpha, and Macrotrends show -.09, .34, and -.47 respectively.
+
+Furthermore I can find 3 other sources of info matching all 3 of those metrics. [Finnhub.io](https://Finnhub.io)'s API pull matches Nasdaq's -.09, AlphaVenture's API pull matches Seeking Alpha's .34, and the fundamentals tab in TD Ameritrade's ThinkOrSwim matches Macrotrends -.47.
+
+TD Ameritrade specifies that it's a TTM (trailing twelve months) metric so that could be the difference between it and the other 2 numbers. But what else could be the difference between the remaining numbers? I always thought this was just a metric with no ambiguity.
+
+Links to the specific earnings numbers and mentioned websites:
+
+[https://www.nasdaq.com/market-activity/stocks/ampy/earnings#:\~:text=Earnings%20announcement\*%20for%20AMPY%3A%20Mar%2004%2C%202021&text=According%20to%20Zacks%20Investment%20Research,quarter%20last%20year%20was%20%240.15](https://www.nasdaq.com/market-activity/stocks/ampy/earnings#:~:text=Earnings%20announcement*%20for%20AMPY%3A%20Mar%2004%2C%202021&text=According%20to%20Zacks%20Investment%20Research,quarter%20last%20year%20was%20%240.15).
+
+[https://seekingalpha.com/symbol/AMPY/earnings](https://seekingalpha.com/symbol/AMPY/earnings)
+
+[macrotrends.net/stocks/charts/AMPY/amplify-energy/eps-earnings-per-share-diluted](https://macrotrends.net/stocks/charts/AMPY/amplify-energy/eps-earnings-per-share-diluted)
+
+[https://finnhub.io/](https://finnhub.io/)
+
+[https://www.alphavantage.co/](https://www.alphavantage.co/)
+
+[https://www.tdameritrade.com/home.page](https://www.tdameritrade.com/home.page)_END_OF_POST_PYSTOCK_ "When a stock really pops I take my original investment out and just let the rest ride" - The House Money Effect is the most prevalent fallacy in investing today The number of times I see somebody post something like this on Reddit, other forums or Discord every single day is staggering. The house money effect - the idea that money you have made on a bet (or investment) is somehow different than the rest of your money - is something casinos depend on to skew the odds in their favor. The house always wins is only true if people keep playing, and one way to encourage people to keep playing is to let them believe that money they have recently won should be set aside in a pot they can feel better about risking.
+
+The house money effect is the mirror opposite of the break even effect (I am just going to keep playing until I get back to my initial stake) that creates bagholders. They are logical fallacies and have no place in an investor's toolkit. They are extremely psychologically challenging to overcome. Even making this post I know I have personally succumbed to this faulty reasoning just earlier today. However, we should strive to be better and not recommend these flawed strategies to others.
+
+Every dollar you have is equivalent to every other dollar you have. Every dollar you lose is equivalent to every other dollar you lose. When you "let it ride" on a stock it is no different than if you purchased that stock at its current price. Would you buy it at this price? If not, it's time to let it go. If so, why are you selling half of your position?_END_OF_POST_PYSTOCK_ A rough Analysis on Toyota Motors **$TM Toyota Motors**
+
+\*\*Full disclosure: I own 75k in Toyota calls. I also own a Porsche and Audi (no Toyota products). I’m also not good with investing. So don’t listen to me.
+
+Wow, some of the best plays truly are right in front of you, because Toyota is hilariously undervalued now that they’ve decided to enter the EV market.
+
+Toyota, is an engineering and business legend. Nobody engineers better than Toyota, nobody optimizes businesses and Toyota.
+
+When I went through business school we studied Toyota in almost ever classroom. Toyota practically invented modern business practices and engineering practices.
+
+If you haven’t heard of Toyota as a professional in business or engineering, you should probably be fired.
+
+The following statements may sound like opinions, I’m pretty sure they’re facts.
+
+\- Dominates the manufacturing supply practice. Nothing is wasted in Toyota’s business, everything runs **LEAN and AGILE.** During economic downturns Toyota will always come out on top simply  because they’ve **perfected** the art of **efficiency**.
+
+\- The finest engineers work at Toyota. Everything Toyota produces is an engineering marvel. Products optimized perfectly for each single demographic to be as affordable and reliable as possible  while being practical and usable.
+
+Today, Toyota officially entered the EV business. The company with a perfect supply chain, the company with the highest amount of consumer trust, the company that has the finest engineers in the entire automotive industry and a practically infinite amount of wealth…has entered the room. So let’s look at their positioning.
+
+\- Toyota is bound to be a huge recipient of the Biden’s plan to supply the federal government with EVs.
+
+\- Fun fact, the top “American” companies are asian. The big three make most of their junk abroad.
+
+\- Toyota is planning on being the **first** to deploy the **SOLID STATE BATTERY.**
+
+**- MASSIVE Energy density** compared to existing technology.
+
+\- Solid state batteries can easily reach **500+ mile range.**
+
+\- **Much** faster charge time.
+
+\- Have already begun the production process
+
+\- Toyota plans on unveiling the first solid state powered EV this year with release soon after.
+
+\- Toyota produces over 10,000,000 vehicles a year. Tesla reached 500,000 this year with a goal of 20% growth a year.
+
+\- Toyota is the most trusted brand internationally in the automotive world.
+
+So Toyota, a manufacturing behemoth is switching to fully electric with aims of putting their world class engineers to produce the world’s first solid state battery commercial vehicle. Nice.
+
+Let’s talk about some numbers:
+
+\- Price to book ratio of 1.137. Anything under 3 is considered undervalued. Tesla is around 40.
+
+\- PE ratio of 17.17. Anything under 20 is undervalued, Apple is at 37 and **Tesla is 1301.**
+
+**-** Expected to increase margin from 5.5 -> 7.2
+
+* 121% increase in operating income from China
+* 24% Increase in cash/cash equivalents since Apr 2019. Impressive considering covid
+* Relatively stable/balanced asset/liability ratio, has barely budged since covid).
+* Has somehow decreased cost and expenses by 16% during covid.
+
+If Tesla is the King Kong of the EV world, then Toyota is Godzilla, a nuclear powered dinosaur of a company from outer space. He’s landed and he’s gonna blow up your bubble. Yes I’m aware of the “Not just a car company” phrase, but as Burry said, “Enjoy it while it lasts”, because no company should be trading with a century of growth priced in.
+
+**Tl;dr**
+
+Toyota is here and it’s going to devour the EV market. Good long term purchase, but I have 75,000$ in calls.
+
+Not a Toyota fanboy( I drive a Porsche and Audi). Don't take my advice._END_OF_POST_PYSTOCK_ Ideal portfolio ratio with a 1-year horizon to withdraw 50% Asking for friendly advice and opinions.
+
+My non-retirement investments have always been driven on steady earnings to eventually afford a house down payment. My strategy was to put most money in mutual funds, a good chunk in bonds, and another good chunk in stocks I like. 
+
+Well, 2020 was a windfall like it was for a lot of people. My ratio has been thrown off and I am torn between holding/riding the enthusiasm of the bull market...or selling off individual stocks to rebalance or even lock in that down payment with something extremely safe. As it currently stands, half of my portfolio would cover a down payment in my area.
+
+What would be your strategy in a vacuum? How does that change in today’s environment?_END_OF_POST_PYSTOCK_ Update on my Short Positions: Long Volatility Strategy It's been a month since my original post and I figured I'd give an update.
+
+From January 21st to 27th the VIX had a move from 21 to 37.
+
+My portfolio rose in value significantly and I've rolled my positions into leaps.
+
+I've diversified my VXX position into other markets to get the Volatility exposure that I desire for another 2 STD+ Move
+(Long VXX & UVXY Leaps)
+
+I've been tracking treasury futures and I believe that the back end of the yield curve is drastically underestimating the probability of a rate hike due to the risk premium in the markets.
+(I'm long TLT, if you're a futures trader, (Long /ZN, /ZB, Short /ZF, /ZT)
+https://i.imgur.com/DRxykhr.png
+
+I'm also adding risk on top of my bond position by shorting the US Dollar through buying leaps on metals.
+(Long GLD & SLV)  Gold Futures 180 Day 4Hr:
+https://i.imgur.com/6lBHKzd.png
+
+To top if off, I've tracked the spreads between US stock index futures and I believe if we were to see this 2 STD+ move, the Nasdaq would be most affected by the underpricing of IV compared to HV.
+(Long QQQ Tail Risk)
+https://i.imgur.com/4PJVQYV.png
+
+I will look to take the rest of my gains from the original VXX position and add to these positions so l can have my full clip size on by the end of the first quarter.
+
+I don't know for sure what will happen but this should be interesting.
+
+Look at how the S&P reacted to the 1 STD Level today on the 30 day hourly:
+https://i.imgur.com/FG9ULtY.png
+
+Here are my positions:
+https://i.imgur.com/wsh1Mvz.png
+
+Let me know what you guys think._END_OF_POST_PYSTOCK_ Observation: Potential cycle shifts in relative asset performance (real vs financial) given current trends and household balance sheet https://fred.stlouisfed.org/graph/fredgraph.png?g=AZ6C
+
+This link is to a chart which appear to show cycles related to real assets (housing, property) and financial assets (cash, fixed income, mutual funds, equities, pensions, etc) on household balance sheets. This includes nonprofits, but this is minimal relative to households. Edit: The chart itself is financial assets as a percentage of total assets on HH/NP balance sheets, thus the remaining percentage is in real assets. 
+
+Financial asset growth relative to real assets tends to be more aligned with periods of higher CPI relative to PPI (post 2008, years leading to tech bubble) and investments in financial products/securities, particularly, equities (60s, 90s, post 08).
+
+Real asset growth relative to financial assets tend to be a function of higher PPI relative to CPI (70s/80s, post tech bubble), higher inflation rate (70s/80s), and household debt accumulation/tolerance relative to savings (housing bubble). 
+
+I made a post recently about the health of the household balance sheet and the capacity of commercial banks to lend to households should debt tolerance grow. This would primarily be in the form of mortgage lending.
+
+At the same time, the ratio of PPI to CPI is moving higher and other inflationary gauges along with it, e.g. 5y TIPS vs nominal treasury yields.
+
+While continued fiscal stimulus in the form of economic impact payments are to benefit the financial asset category of the household balance sheet, how that money is used or utilized may be a catalyst for a shift in the performance of real vs financial assets; even so, should we move from what appears to be a consensus reflationary environment to an inflationary environment, this tends to bode better for real assets.
+
+This is not a call of real assets outperforming financial assets, but simply observing the current cycle and possible dynamics that may indicate a change in cycle. 
+
+Additional charts below.
+
+CPI to PPI ratio: https://fred.stlouisfed.org/graph/fredgraph.png?g=AZ8k
+
+Equities as a percentage to total financial assets: https://fred.stlouisfed.org/graph/fredgraph.png?g=AZ8s
+
+Mutual fund shares as a percentage of total financial assets: https://fred.stlouisfed.org/graph/fredgraph.png?g=AZ8w
+
+Real Estate Market Value (households and non profits) as a percentage of non-financial corporate business equity (market value): https://fred.stlouisfed.org/graph/fredgraph.png?g=AZ8F
+
+Household vs Non-Financial Corporate Business Total Liabilities; Ratio: https://fred.stlouisfed.org/graph/fredgraph.png?g=AZ8W_END_OF_POST_PYSTOCK_ Discounted Cash Flow Analysis Issue  
+
+Hello Everyone,
+
+Not sure if this belongs here or not so I apologize if this is in the wrong place.
+
+For the past few days, I have been trying to learn more about DCF calculations in an attempt to get better at evaluating my own portfolio and analyzing stocks that I own and would like to purchase in the future. Currently, I have been watching a few videos and trying to practice calculations with Walmart and I am running into trouble when I am trying to calculate my future free cash flows for the company. In the video that I am watching the guy is taking free cash flow and dividing by net income and then using the most modest result to project future free cash flows. However, in my practice dividing Walmart's free cash flows by net income gives me three wildly varied percentages that I do not think will work for the rest of the calculation or lead me to an inaccurate result.
+
+So with all that being said is there anyone here that could give me some advice on what I should do or a better way to estimate future free cash flows for a company?_END_OF_POST_PYSTOCK_ American Battery Metals: The long game I've slowly been doing some DD on American Battery Technology Company (ABML<ABTC), and it occurred to me that I knew almost nothing about the patents that Ryan Melsert, their Chief Technology Officer, has filed with the USPTO. I have been interested in this company for quite some time, as I had heard that they have an idea that will make recycling not only possible in today's US EV market, but profitable! If they can pull it off, they will be in a league of their own.
+
+
+Join me, as I do my best at translating the science of recycling.
+
+
+For this DD, I will focus on: THERMOELECTRIC POWER GENERATION AND MINERAL EXTRACTION FROM BRINES Patent Application (Application #20200279987). 
+
+
+The novelty of this extraction method is exciting. Most methods today rely on brute force techniques such as acid baths or pyrolysis (using high temperatures to break down materials[dissolution]). What this patent details is a way to collect electricity as well as refine minerals through a series of hydrophobic membranes (thin filter sheets that allow some materials to pass through but not others) to separate desired products.
+
+
+According to the patent, a thermoelectric (TE) module is used with one of the membranes to capitalize on the temperature differential and potentially generate electricity⚡. This means that the process of extracting lithium will yield energy, lowering the cost required for refinement.
+
+
+*Ryan Melsert's patent mentions geothermal energy for base-load power generation. Could ABML<ABTC be eyeing geothermal in the future? Is that possible around their first proposed plant in Fernley, NV?*
+
+
+*I had recently read about some of the new tech that went into recovering shale oil products was slowly migrating into the rare earth metal mining industry. This patent mentions using 'brine from a well' to generate electricity and recover minerals. Being able to utilize injection fluids (the stuff that gets pumped down wells to loosen minerals and then gets sucked back to the surface to be refined) will be key.*
+
+
+*I am concerned about the durability of ceramic permeable membranes. How expensive are they and who has the ability to manufacture them? Can they be cleaned and reused? Are they easily fouled by macromolecules such as bacteria, proteins, or polysaccharides?*
+
+
+Disclaimer: This isn't financial advice. Be a responsible trader._END_OF_POST_PYSTOCK_ Investing in employee options sale through third party sites like equity zen Other than EquityZen, where can accredited investors buy employee stock options for final stage pre-IPO companies? There are some companies that are planning IPOs in the next year or two, and sometimes employees know they won't be keeping their jobs there long term and want to unload their options. This happened to a friend of mine who was working for a company that investors knew would probably be going public in a year or two and that company sent them an introduction email explaining how those offers work. It's an interesting concept to me and I'm aware of the risks involved. 
+
+I've seen some companies on the Equityzen website but are there any other websites that also offer this service? I understand the entry price-point for these kinds of transactions._END_OF_POST_PYSTOCK_ Oil companies and EV charging infrastructure  
+
+EVs will make up less than 10% of the U.S. market by 2025. US still will need a lot of EV charging stations. Biden's plan outlines 500,000 new EV plugs across the U.S by the end of this decade. With Biden's EV push, it is not surprising that investors have a very rosy expectation about EV charging business. As a result, a flourish of EV charging companies were brought to the market through SPAC mergers. 
+
+I don't know what is the profit margin for EV charging stations, but one operating company Blink claimed to operate over 20,000 charging stations around the country, but that translated into less than $5 million in revenue over the past year. It currently has a market cap over 2 Billion dollars. Another EV charging company is offering Level 2 charging for free, and make their money from ads posted at their charge station.
+
+Oil companies have a lot of experience in operating gas stations, so they have a good understanding of the kind of profit margins you can get from "charging" stations. For many gas stations, 75 percent of their profits comes from the sale of other products, such as food, medicine and accessories. I don't expect the stand-alone EV charge stations can have a high profit margin.
+
+Oil companies and EV charging: Oil companies have started their carbon zero move. However, they are waiting in the wings milking their gas station infrastructure, until there are sufficient demand. Oil companies are not just sitting there waiting. Most of the European Oil companies have started their transition because Europe have a lot more EVs on the road today (Norway has more than 50%). In the US, Chevron has tried to convert a few gas stations in California to have EV charging stations, most likely to gain some experience and to gather market and profit margin data. Exxon is "considering", but has not moved yet._END_OF_POST_PYSTOCK_ A Look at the FDA Approval Process and How it Affects Your Investments I’ve been wanting to do a post like this for a long time now. Now that healthcare has basically been the hottest thing for the last year (and somehow still getting even hotter), I thought it would be a good time. Many people try to buy into pharmaceutical companies around FDA approval targets without truly understanding what they’re getting into. Full disclosure, I am a doctor, but I will try to write this in layman’s terms as much as possible. If I get anything wrong, I’ll be sure to edit the post. To the best of my knowledge, everything I am about to say is researched (and therefore correct).
+
+I’m going to go through the entire FDA approval process as a timeline, and then at the end, talk about other things to consider when investing in pharmaceuticals (i.e., more nuanced stuff that requires/applies healthcare understanding). One caveat here is people use “phases” in multiple ways. The way I will use it is the way I see most often being used in press releases and DD on reddit.
+
+**Preclinical**: to begin, you must submit a proposal that basically states why you think a biologic compound will work. Without getting too technical, the preclinical is basically where you demonstrate a proof of concept. 
+
+Here is a very generic example: Let’s say that HIV binds to GME receptor on cells. I have been doing petri dish experiments on a compound I created that prevents anything from binding to GME (this is *in vitro* if you ever see that term tossed around). I submit this evidence to the FDA and say that I think my compound will work in theory. TONS of things work *in vitro* and never progress beyond that. At this point, the FDA says, “okay we think your compound might work too, you can start human trials.”
+
+> Investor takeaway: the results of this phase mean absolutely nothing. If a drug failed in this phase, that would truly mean the company is incompetent in both their ability to assess the science, and in their ability to provide meaningful news to generate investor buzz. 
+
+**Phase 1**: Anything that passes preclinical is ready for human trials. We are talking very small trials, like less than 100 people. For smaller companies, this is their chance to get some hype about their pharmaceutical. For anyone who understands the process, this is truly meaningless. Again, working in vitro does not (and likely will not) translate to working in humans. This phase typically lasts several months and is primarily designed to ensure that the drug is safe.
+
+Here is a real life example, one that has already garnered a lot of attention: Atossa Therapeutics (ATOS) and their new breast cancer drug. Here is where medical knowledge (or solid research) can really help you. Their new breast cancer drug is called endoxifen. There are already multiple analogues (drugs that work in exactly the same way with minor differences in their chemical structures) on the market. Given the number of safe analogues on the market, it is likely (but not certain) this drug will be safe for human use. It is important to note here that phase 1 trials may be done on healthy participants without any disease, solely to test for safety. Accordingly, passage through phase 1 still may not demonstrate proof of concept on humans who have a particular disease.
+
+Let’s say that ATOS had announced its intention to start testing breast cancer treatment and initiate phase 1 trials. Like I said, the likelihood of success is pretty high given the success of previous analogues. On the other hand the downside is huge. Companies can essentially go bankrupt at this stage if their “sure thing” drug or medical device fails. Always be sure to look at risk vs reward. A drug that enters phase 1 only has around a **14% likelihood** of making it all the way to FDA approval. Certain categories of drugs like those that treat cancer have even lower success rates (3.4%). While FDA drug approval does appear to be increasing **more than 80% of drugs that enter this stage will never see market.**
+
+>Investor takeaway: the road from here is super long and passing this phase really can’t tell you anything about its success in further stages. Many drugs are analogues and breeze through this phase, it is important not to get too hyped on them for that reason. 
+
+**Phase 2**: Unlike phase 1 that focuses on drug safety, phase 2 tests the efficacy of the drug you are studying. This phase will typically have less than 1,000 participants, but they will all have the disease of interest. In this phase, we are looking to ensure that the drug works (provides statistically significant improvement) and is relatively safe as far as side effects. To limit research bias, sometimes we will divide the participants and give some the drug and keep some as the control group (they may get a placebo or no drug at all).
+
+This is a pretty straightforward stage and lasts anywhere from months to years. It really depends on the drug being studied. I would never really expect a mainstream drug to get through this stage in under 6 months. The only conditions in which that would be logically feasible are either: 
+
+1. COVID (solely because of the politicization of the process) or 
+2. drugs treating conditions with extremely high mortality (because people won’t survive more than 6 months).
+
+Lots of companies like to start releasing press releases close to FDA review of phase 2 results. Always be wary of those results. If my breast cancer drug was successful in 600 people and failed in 300, then while the numbers look good, the data may not be there. There is a lot that goes into statistical analysis and it isn’t quite as simple as more people did well than did poorly. 
+
+It’s also important to realize that side effect profile is really important. Let’s say the aforementioned breast cancer agent ends up prolonging life in 80% of the study participants that received the drug. However, there’s also this nasty little side effect of developing a pulmonary embolism in 15-20% of people. That’s not insignificant and it is up to the FDA to decide whether or not the risk outweighs the benefit. Sometimes the FDA will order companies to redo this phase if the data are inconclusive. With cancer agents, this is common because the drugs are so toxic to so many parts of the body, so it really is about risk/benefit analysis.
+
+The important thing to look at in this phase when comparing the results of the treatment group to the control group is what is called the p-value. For those of you who took stats, you should know what this is. For those that didn’t, just know that in healthcare, results with a p-value >0.05 are considered insignificant. It’s also important to note that clinical and statistical significance are also key things to remember. Sometimes the benefit of the drug is so minimal that the side effect profile outweighs the benefits and the FDA will prevent the drug from moving forward. It’s also important to remember that if this is a drug entering a market where there are competitors, the FDA will look and see if this drug provides enough benefit over existing drugs before making a decision. 
+
+One more nuance that pharmaceutical companies love to do is change the primary target. In the statistics world, that’s a pretty big no-no. If my initial proposal was that the breast cancer agent would prolong the life of my patients, and then suddenly I start talking about how it actually increases their pain-free time, this is a huge red flag. You can deduce that they likely didn’t meet their primary target and pivoted to something else they could meet. In any study you can find specific characteristic that makes you look good. 
+
+>Investor takeaway: this is the first phase that companies can really release “meaningful” information. Because of this, many companies try to raise funds at this time to capitalize on the hype, be wary of the words used in their press releases and marketing. 
+
+**Phase 3**: Phase 3 is basically a repeat of phase 2, but bigger. It’s used to determine real efficacy of a drug. In raw numbers, we are looking at about 300-3,000 participants and up to 4 years of data. Phase 3 looks at the exact same things as phase 2: efficacy and side effects observed among a treated group (and sometimes compared to a control group).
+
+Statistical significance, that is, the thing that tells you whether the drug worked, is based heavily upon power. If you want to increase power, you can increase the sample size. In phase 3, the FDA is giving the drug a chance to sink or swim. They are once again looking to make sure you don’t discover any new, obscure side effects and to ensure that the phase 2 results were not a statistical anomaly/the drug really does work.
+
+Beyond sample size, the biggest difference between phases 2 and 3 is that we are observing a longer period of time for adverse events. Note the maximum time differences: up to 2 years for phase 2, and up to 4 years for phase 3. There are side effects that don’t manifest within the first 2 years. 
+A very simple example is, actually cancer agents that cause cardiac fibrosis or pulmonary fibrosis after years of use. These are things that may have been masked in the phase 2 study because the duration. 
+
+The other thing is that we may discover rarer, more deadly side effects in this phase. Let’s say in phase 2, we found that 2 of our 1,000 participants developed brain cancer. The phase 2 data may show that this was statistically insignificant and cannot be attributed to the drug (remember, sample size is very important). Maybe the phase 3 study will suddenly show that another 8 people developed brain cancer and it was due to the drug. 
+
+>Investor takeaway: many drugs fail here, and not because they don’t work. They fail because they aren’t significantly better than what is available or the benefit is not enough to outweigh the risks. FDA approval isn’t simply contingent upon a drug working, there are many, many factors that come into play. 
+
+**Phase 4**: this is the big phase, thousands of participants, possibly multiple hospitals around the country/world. This phase further increases the power of the data and shows that the drug really, really does work and is actually safe. Getting to phase 4 is actually a pretty big deal.
+
+At this point, the company will apply for FDA approval including all of the information they have gathered at this point. In this stage, we are considering not only efficacy and safety, but also simplicity of use, and drug abuse potential. Drug abuse potential is a pretty hot topic right now because, well, opioid epidemic. Many opioids in the last few years have not received FDA approval solely because they are too easily abused. This entire application process takes 6-10 months for the FDA to review all the evidence and decide what happens.
+
+It is not uncommon for the FDA to request more data before approving a drug or further review. Many times they will request the company conduct a new study of x to determine y. This is normal but can seriously impede the approval timeline of a drug. This is where you have to remember opportunity cost. After approval it goes to market, yay!
+
+>Investor takeaway: you may think once the drug receives FDA approval that you are out of the woods in terms of your investment. You would be wrong. 
+
+**Making it to market**: When a drug finally hits market, there are two major things for investors to consider. Let’s start with the scary one, removal from the market. Remember how many times I’ve mentioned power, and sample size above? That becomes super relevant here. Depending on the drug, when it finally reaches market we may have many-fold more “participants” with which we can study the side effects of the drug. 
+
+Sometimes drugs are pulled from the market because certain side effects emerge that flew under the radar during clinical trial phases. Sometimes the FDA sticks a black box warning on the drug (which really makes doctors stop prescribing it unless they have to). In either care, share prices tend to drop. They will plummet, though, if the FDA removes it from market.
+
+**Market earnings**: The last “opportunity” for investors in the approval process is the sales data after the first quarter of marketing. This is where the company shows their revenue from the sale of the drug. If you have medical knowledge, you can really thrive here. If you don’t, you are likely to get screwed because you probably won’t understand the nuances in what drives physicians to prescribe drugs and avoid others. 
+
+Just because a drug works super well doesn’t mean it will ever be used. Examples of that are ACRX’s new sufentanil agents. Those will likely see poor sales data because from a clinical perspective, even though they are approved, and work, they will almost never be used. You would  not know that without understanding the specifics of post-operative pain management.
+
+And finally, a disclaimer. Anything I said here, I can be totally wrong. Sufentanil could become the most popular agent on the market for reasons I don’t understand or couldn’t fathom. Maybe ACRX will have an insanely good marketing team. I am simply talking about making the best decision based on the available knowledge. Stock prices are fickle beasts and they don’t always respond the way we expect.
+
+**A message to those who tend to hold on to their bags to gamble on FDA approval:**
+
+> Yes, this really is gambling. Look at the statistics of how often drugs make it past each stage. You lost 40% on ATOS, you know what would be worse? Somehow their drug fails and now you have lost 80%. You see a drug running before FDA decision deadline, don’t buy it. No one knows how the FDA is going to respond and you are just as likely to lose your money than you are to make it.
+
+> Honestly, you are more likely to lose money because there are three outcomes, and two cause you to lose money, one of which will potentially bankrupt your position. The FDA could either approve the drug (yay!), outright reject the drug (oof), or ask for more information. That last one is kind of misleading because it may not mean the drug has failed, but it definitely will destroy the hype built up and tank the share price. The extra information requested could take forever to get and you would, once again, have to consider opportunity cost.
+
+If there is anything else you think I should have discussed, just let me know and I will try to add it._END_OF_POST_PYSTOCK_ Rebalancing advice for long term holds Quick summary: 30's, single, own a condo(no other debts), stable job, max my Roth, Roth and Rollover IRA are near equal in value. Just wanted to get a little feedback on my allocation and what my potential allocation will be. I'm of the mindset keep it simple as you'll see. Have held AAPL since 2014, PLTR since Nov, and everything else has been added to in time. QQQM is most recent addition.
+
+I look for medium and long term holds on individual stocks since my job requires pre clearance to trade, I am leaving 3% in cash for potential Databricks or Roblox as my next picks once they IPO. If they are outside my range, I would just reinvest into my current holdings.
+
+Any and all advice/critique is welcome.
+
+[Imgur of Holdings](https://imgur.com/YM8RXGS)_END_OF_POST_PYSTOCK_ Salesforce Work From Home, Investing Opportunities Salesforce recently announced that it will be rolling out a program for "Flex" scheduling. Stating that employees can work from home indefinitely, even after the pandemic passes. I believe Google as made this announcement as well a few months back. I'm sure other companies will follow suite as well. 
+
+It seems as though this pandemic has opened the eyes of upper management to the fact that WFH is possible, with minimal losses to productivity. What I suspect this will lead to in the future is a downsizing of corporate/business offices. Why pay for all the space when half your staff doesn't come in to the office anyway? Couple this with cloud computing/hosting, there is an increasing lack of need for physical office space over the next 5-10 years. 
+
+&#x200B;
+
+**Other considerations**
+
+While this business sector is downsizing it's real estate footprint, so too is the retail market. As companies struggle to compete with Amazon and online selling, it is becoming hard to justify keeping a physical stock on hand, in display, in multiple stores across the nation and world. Couple this with infrastructure and logistics of shipping to and from warehouses, liquidated unsold product, you name it. 
+
+So the question I pose to you is this: When businesses in general reduce their real estate footprint, what happens to that physical land? And is there a way to invest in it's restructuring? There are plenty of shopping plazas across the US that lay barren, as all the shops have closed up. The landlords on that property are now running at a loss with no tenants. Shopping malls are closing, and have been for quite a few years. I believe that the corporate real estate world will start to follow in coming years. I don't believe it will be a complete desolation, but a definite downsizing. 
+
+&#x200B;
+
+**Where to park your money**
+
+The only thing I would think would take their place is housing. Things like apartment buildings mostly. I have noticed an uptrend in a very specific kind of apartment complex becoming popular. A sort of 'mini downtown/city center' high-end luxury apartment. They will build about 3-4 stories tall, and leave the bottom floor available for business such as dry cleaners, small restaurants, or coffee shops. Although these are far from any city center, and act as a standalone building. It's actually quite weird. 
+
+I am asking you all your opinions on the coming real estate market in these various business sectors. Do you know of any groups/companies/ETFs that could potentially stand to benefit and grow because of it? 
+
+&#x200B;
+
+Thank you_END_OF_POST_PYSTOCK_ Retired but still would like to grow my portfolio I’m in my early 50’s and retired from medical career on LTD and employer pension. My income is more than enough to meet my expense and this income is supposed to continue till the end. But I still like to build my portfolio to a more comfortable number at-least for my peace of mind and to pass it on to the next generation. Currently my investments are split into 25% in individual stocks , 20% in VTSAX and the rest in VFORX ( 2040’target date fund ). Do I hve it right or should I be moving it around ? I have no debts except less than 30k in mortgage which will be paid off in 2024._END_OF_POST_PYSTOCK_ Seeking insight regarding Merger Arbitrage I read an article discussing merger arbitrage today, can anyone expand on this concept for me and give me your opinion on the idea? 
+
+
+From what I gather, the idea is this: 
+
+Assume a merger agreement exists between A and B and for every 1 stock of B, shareholders of B will be issued 0.8 of A upon merging. 
+
+A gap between A and B exists today where A is 1.5x the price of B. 
+
+You decide to short 0.8x of stock A, and buy 1x of B to cover the shorts upon merger. 
+
+This allows you to pocket the difference of (0.8 A - 1 B) at the current price of the transaction (today). 
+
+In other words, you pocket (total short A - total long B) immediately, and your shorts will be covered upon merger so you have nothing to worry about even if prices change, because you will have the shares to cover (assuming the merger does happen as agreed).  
+
+
+Am I correct? 
+
+
+
+Seems too easy to be true — what are the risks here? 
+
+
+*For anyone guessing, yes I’m referring to Tilray/Aphria. I removed the stock names because I want to understand the concept apart from any potential bias in this situation._END_OF_POST_PYSTOCK_

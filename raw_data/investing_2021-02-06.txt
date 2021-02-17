@@ -1,0 +1,507 @@
+ A bullish case for Regeneron Pharmaceuticals (REGN) **Overview**
+
+Regeneron Pharmaceuticals, Inc., a biotech company that develops and commercializes medicines for treating various medical conditions worldwide. Its pipeline of products include:  EYLEA injection that treats several edemas; Dupixent injection to treat atopic dermatitis and asthma in adults; Praluent injection for clinical atherosclerotic cardiovascular disease in adults;  Kevzara solution for treating rheumatoid arthritis in adults;  Libtayo injection to treat locally advanced cutaneous squamous cell carcinoma; ARCALYST injection for cryopyrin-associated periodic syndromes;  ZALTRAP injection to treat metastatic colorectal cancer.  
+
+The point is that REGN has a strong and diversified pipeline of products. 
+
+Meanwhile, REGN is also developing various product candidates for treating patients with eye diseases, allergic and inflammatory diseases, cancer, cardiovascular and metabolic diseases, neuromuscular diseases, infectious diseases, and other diseases. The company has collaboration and license agreements with Sanofi; Bayer; Teva; Mitsubishi Tanabe Pharma; Alnylam Pharmaceuticals, Inc.; Roche Pharmaceuticals; and Vyriad, Inc., as well as has an agreement with the U.S. Department of Health and Human Services. It has collaborations with Zai Lab Limited; Intellia Therapeutics, Inc.; and BioNTech
+
+**Fundamentals** 
+
+Despite operating in unprecedented circumstances of a global pandemic, REGN delivered strong commercial and financial results. For the full year 2020, Regeneron grew revenues by 30% and earnings by 28%, with an increasingly diversified set of revenue and earnings streams. In fact, more than 80% of revenue growth came from products and revenues, other than EYLEA. Also, the company discovered and developed a novel antibody cocktail against COVID-19 known as REGEN-COV.   Most recently, the company showed promising data suggesting that REGEN-COV reduces transmission of the virus and prevents infections in patients at high risk of contracting the virus.  With that discovery, a new supply agreement was established with the United States government for an additional 1.25 million treatment doses for up to $2.6 billion. 
+
+**Technicals**
+
+Although REGN price rose 34% in 2020, in the last 2 quarters it decreased nearly 20% from its 664$ peak in July 2020. While REGN's price reached its 6-month bottom at 477$, the company continued to perform extremely well amid the complicated situation of the pandemic. RSI(14) level points to 44.57 which indicates that the stock is becoming slightly oversold. 
+
+**Conclusion**
+
+The company is entering 2021 with strong momentum across its entire business. REGN is expected to generate a number of exciting catalysts this year, including a series of important launches for Libtayo in lung cancer and basal cell cancers, Dupixent data readouts and launches and milestones for other products that will further enhance the  diversity of sales and earnings and position the company for sustained financial growth. 
+
+Thus, because of the misalignement between stock price and company performance, I believe that REGN is extremely undervalued and presents a strong buy opportunity for 2021._END_OF_POST_PYSTOCK_ Struggling to jump the first hurdle as a UK trader.  Looking to move away from my current Broker due to awful App and Reliability.
+
+I am from the UK and just looking for a broker that isnt awful.
+
+\- Etoro: Limited stocks available.  
+\- Trading212: Questionable Downtimes + Withdrawing Issues  
+\- Hargreaves Lansdown (current) : Awful App. Huge Fees.  
+\- IG : Trading Hours limited to opening times. Account creation currently Down  
+\- Trade Station: Awful Customer Service & Extremely long wait time for setup.
+
+I just would like an Web Broker & App that has  
+\- Cheap or 0 commisions  
+\- Relatively easy setup (not waiting 2 weeks)  
+\- Options available  
+\- Not limiting trading during Closing hours  
+\- Crypto currency as a bonus.  
+\- Decent charting software..
+
+There seems like theres so many good US Brokers but they arent accepting UK accounts when ive tried.
+
+Is there anyone here from the UK that can recommend me a good broker to use?  
+They all seem to be broken in some way._END_OF_POST_PYSTOCK_ Amazon orders 700 trucks that run on natural gas - Good news for RDS? Reuters released this exclusive story:
+
+[https://www.reuters.com/article/us-amazon-engines-natural-gas-exclusive/exclusive-amazon-orders-hundreds-of-trucks-that-run-on-natural-gas-idUSKBN2A52ML?il=0](https://www.reuters.com/article/us-amazon-engines-natural-gas-exclusive/exclusive-amazon-orders-hundreds-of-trucks-that-run-on-natural-gas-idUSKBN2A52ML?il=0)
+
+This development could bode well for energy majors such [Royal Dutch Shell (RDS-A/B)](https://finance.yahoo.com/quote/RDS-B?p=RDS-B&.tsrc=fin-srch) that have invested heavily in Liquified Natural Gas (LNG) and have yet to see major returns on it. Now, just Amazon ordering a few hundred trucks would not swing the sector significantly by itself, but this could set a precedent for other companies to follow suit. As more and more companies set low carbon targets I wouldn't be surprised to see more stories about this. LNG is a less carbon intensive fuel than gasoline and diesel.
+
+A bit more on RDS: I've been long RDS through the COVID epidemic and its shares have been (in my opinion) very discounted over the last year primarily because it took an early, drastic step in re-basing (lowering) its dividend. Shell is taking some noteworthy steps in restructuring the business model, with plans to only have SIX refineries in its portfolio by 2025 all of which are integrated with chemicals, biofuels, lubricants, or provide strong footing for its trading business. It's trimming its upstream assets to only a handful of cost advantaged fields and is planning on using cash generation there to bolster investments in what it has clearly outlined as its growth sectors (IE renewables). 
+
+RDS has taken a different approach compared to a lot of energy majors in that it is investing in what it views as intermediate fuels versus full on electric: LNG, Hydrogen, Biofuels, etc and its plan is to leverage its large retail arm to deliver these products efficiently to customers. I see this as a decent moat as these are sectors that are harder to break into versus electricity (everyone and their mother has invested in solar and wind farms lately). Shell is [hosting a strategy day](https://www.shell.com/media/news-and-media-releases/2021/advance-notice-strategy-day-2021.html) to outline its plans going forward in which it is expected to discuss its business streamlining and plans for renewables. It may be worth a watch.
+
+RDS has certainly taken a beating during COVID, as have all energy companies, but with Shell's unique portfolio and real steps towards preparing for the energy transition I wouldn't be surprised if it comes out as a very strong player over the next decade. It has plans to raise its dividend soon and has kept its balance sheet in nice tidy order through the stresses of COVID.
+
+Risks I see:
+
+* Can energy majors shake off the stigma of being "oil and gas" companies and receive due attention for investors?
+* Will advancements in electric vehicles be significant enough to leap frog intermediate renewable fuels?
+* Will divesting significant portions of its traditional oil and gas business leave it more cash strapped than expected?
+* What is the actual timeline for seeing significant returns on its renewable investments?
+
+What are your own thoughts on RDS? Or other oil majors making serious steps towards an energy transition? 
+
+This post is not investment advice, its for entertainment only. I'm not a financial advisor._END_OF_POST_PYSTOCK_ Stock tracker and analysis spreadsheet Hey everyone,
+
+I've been working spreadsheet to track tickers, automatically pull data and analyze fundamentals.
+
+Here's a copy: [https://docs.google.com/spreadsheets/d/10MRjupIWNNAO4fdKkgW9QM\_IUpPrduHtKz\_JiS8JUUA/edit#gid=1116024769](https://docs.google.com/spreadsheets/d/10MRjupIWNNAO4fdKkgW9QM_IUpPrduHtKz_JiS8JUUA/edit#gid=1116024769)
+
+It consists of two sheets:
+
+1. Tracker: A way to track various stocks and automatically pull financial ratios and data.
+2. Fundamental Analysis: Pulling financial statement data, ratios and key metrics for individual tickers for analysis.
+
+Everything is automated, the only things you have to change are the tickers and data points you want to pull. Look at the "Guide" sheet, you'll see it's a simple tool to use.
+
+Enjoy!
+
+Edit: *Well,* this really blew up! Thanks for the upvotes and awards!
+
+I made a fix to the sheet: now fmpCloud1 & fmpCloud2 will pull the ticker from funamendalAnalysis._END_OF_POST_PYSTOCK_ Nasdaq vs S&P 500 Next Decade The last decade Nasdaq had a huge performance, roughly 400% returns. S&P 500 had about 200% returns. There is a lot of overlap, basically tech outperformed.
+
+My main brokerage account is heavily weighted towards tech, my retirement and 401k accounts are boring VTSAX or S&P500 - 10% returns will get me to my retirement goals. Obviously in hindsight I wish I had higher tech weight in my retirement accounts since I do tend to believe more in those companies.
+
+The business model of heavy tech companies are in many ways superior. You can generate massive margins with a smaller labor and capital investment given that software is built to scale.
+
+However, now you have to pay a big premium for tech. Really for any company to succeed in the 21st century they need to be able to harness and utilize modern technology, so even if a company isn't 'tech' they need to be good at technology. It feels like many up and coming tech companies are being priced as next FANG potential when this probably not the case.
+
+Do you expect another decade of tech outperformance?_END_OF_POST_PYSTOCK_ Best long term investment in the world is in water (desalination business) Hi guys,
+
+I  gave it a little thought and to me logically, obviously, factually etc.  the best long term investment (at least 20-30 years) in the world is in  water. I might have been slightly inspired by the ending of The Big  Short where it's revealed that Michael Burry invests mostly in water -  he is also short in TSLA :). I was also inspired by Netflix's Rotten documentary series - the episode Troubled Water. 
+
+Specifically I am talking about investing in companies dealing with the desalination of seawater business.
+
+Facts supporting my claim/analysis:
+
+Human  population doesn't stop growing and the planet is already overpopulated (around 2-3 billions more than it can normally support). This only means more and more water consumption. Population growth will reduce in 2050 or around that time but my idea is achieving growth until then.
+
+It's projected that many areas around the world have medium to high water shortage risk around 2040.
+
+Long term investments like Bitcoin and Gold cannot save you from dehydration if there is no water  to buy/drink. If two commodities (not essential to keeping you alive)  have trillions of $ of market cap, imagine what market cap could the  drinkable water reach if it becomes globally scarce.
+
+Still  most water we use is freshwater found in nature - this water is  exponentially decreasing due to the industry demands, the pollution and  the increase in population. Global climate change probably helps as  well. There are also rains but not all rain water is drinkable. Sometimes they are also acid.
+
+Literally almost everything  costs thousands of liters of water to make but we don't notice it  because there is still a lot of free/cheap and easily accessible water  for use. A cup of coffee takes 150 liters to produce. A kilogram of meat  takes 5000 - 20000 liters. 1 kg of chocolate takes 17 000 liters. Sure  not all of that is drinkable water but it's not dirty water as well so  water treatment plants will benefit from the need of such water.
+
+Desalination  of seawater is a way to turn most of  the planet's water into drinkable water. The freshwater sources took  probably thousands of years to form and we almost depleted them mostly  in the last two centuries! Many people pointed out it's expensive and not economical but they don't consider the labor value if water becomes several times more expensive. Desalination plants wouldn't change much in price but the underlying product will which could make it an economically efficient investment.
+
+The  desalination business is growing steady and is still very small which looks like a great investment opportunity. Market cap is just $32  billion. The global desalination capacity increased by 65% between 2010  and 2015 without any major global water events. Even in California it's  already a perpetual water crisis without an easy solution. With the fast  depletion of water everyone around the world will be forced to look for  alternatives and they could turn to desalination plants as there are not much alternatives.
+
+At present there are **35 desalination plants** only in the UAE. They have no other efficient ways to get potable water as there are simply no freshwater sources around.
+
+How to invest?
+
+The  only almost perfect company I managed to find is CWCO (Consolidated  Water). I have stocks in it but I cannot make a very good recommendation  as I haven't discovered alternatives and I might be misleading  potential investors. I call the company almost perfect because it deals  with everything related to the business. But one issue is that currently  it heavily relies on tourism due to the location of it's plants. Do you  know of other 100% desalination companies?
+
+Most  of the currently available investments in water are overall a joke -  water ETFs/indexes contain mostly water supply/utility/sewage companies  and/or companies which use a lot of water which is very non optimal if  one expects the price of water to increase in time. Think about it. If  you know that gold will increase in price would you invest in a company  which finds gold or in one which sells shovels for digging of gold (and  other minerals)...
+
+Edit: I've corrected some initial wrong claims for which my apologies. Thanks a lot for the feedback and suggestions! I've added also my second inspiration._END_OF_POST_PYSTOCK_ $TSMC - a newbe sort of DD Since last December worldwide production of microchip is running low. Automotives market is the first sector where it's gonna reflect the most. Financial Times and IHS Markit said car production of Honda, Toyota, FCA, GM and Ford will slow down and lots of money are going to be lost. Companies that can produce new generation microchip (7 and 5 nm) are INTEL, SAMSUNG and TSMC. Between the three Intel is the one who's struggling the most. Other than those three, Apple, Arm, Nvidia and Qualcomm play a big part in the game, but they actually design the chips and make TSMC to produce them. Trenforce, mentioned by Bloomberg, said that 56% of the gains from microchip worldwide income has been generated by TSMC. That's due to commercial war between US and China.  To prevent sanctions and duties, companies cancelled orders to China making workload of other companies outside China raised (or raising? I'm not english). Sony, Microsoft  are saying that market is slowing down a bit for them aswell. Meanwhile TSMC has announced in the past weeks that they've managed to increase their productive power.
+
+I use DEGIRO and I'm not allowed to buy TSMC. If I could, I would to it. TSMC it's cheap. But you might be interested and I just wanted to be part of this give and take game
+
+Hugs_END_OF_POST_PYSTOCK_ High After New High - GRWG Still Going Up Why GRWG still has legs beneath it. Friday, GRWG hit another new high at $58.14 and in the last 3 months has grown well over 100% continuing its climb up from $23.04. The reasons for this are not hard to see. In the fledgling Health-Marijuana industry, GRWG has been at or near the top for almost a year. They grew by 23% just in the last month alone.
+
+Analysts are predicting that they will next post earnings of $0.06 per share. This will make Y/Y growth of 700%. The consensus quarterly revenue estimate is $61.25 million, also up 141.33% Y/Y. The next earnings posting will come on 03/26/21, seven weeks away. With the wind at its back, GRWG will easily extend its upward run even as the market struggles to stay in its bullish ways_END_OF_POST_PYSTOCK_ Canadian National (CN) Rail 
+**Disclaimer**: This is not a fulsome DD analysis but is meant to spark an interest. I encourage everyone to do their own research
+
+Ya like trains?
+
+Seriously though, rail is a solid investment and Canada’s largest freight rail line is a great candidate. Formerly a Canadian Crown Corporation, CN has been publicly traded since 1995 and Bill Gates is currently its largest shareholder.
+
+Especially if you’re a commodities investor, you must acknowledge that rail, and particularly CN, is essential for moving commodities around Canada and virtually the only option for moving goods and commodities efficiently to and from Canada’s major shipping ports in Halifax, Vancouver and Montreal. The Canadian government has a vested interest in investing in and supporting CN for the good of the Canadian economy overall https://tc.canada.ca/en/corporate-services/policies/rail-transportation
+
+CN has seen slow, steady growth for years and pays a quarterly dividend of $0.575 CAD per common share. Speaking of CAD, CN might look like a good option for American investors given the $CAD/$USD disparity. 
+
+In exciting news, CN has plans to open a massive new naval/rail port in 2024: https://www.cn.ca/en/stories/20191129-port-of-quebec/
+
+For Americans (and investors), Union Pacific also looks like a good bet, but today I’m calling all aboard the maple syrup train_END_OF_POST_PYSTOCK_ Canadian REITs: Niche, but poised for growth and paying dividends I keeps an eye on Canadian markets for a number of reasons, one thing that has been interesting to watch: Canadian REITs. 
+
+While there are some caveats (many don’t have shares that trade in the US, FX issues), they seem like a great value. And if your broker let’s you get to international markets (like Interactive Brokers) this is less of an issue. 
+
+Many have great leadership and Trustees. They have solid dividends. Current assets are valued at a discount compared to private market real estate transactions. Balance sheets are great, too. 
+
+An example: Granite (GRT.UN). It’s an industrial REIT. Net debt is less than ~30%. Rent collections have been essentially 100% during covid. Yield is 4%. The dividend was just raised. And the units trade on the NYSE. 
+
+Here’s a recent article on Canadian REITs from the [Globe and Mail](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-beaten-down-reits-could-see-negative-sentiment-reverse-quickly-as/). Thoughts?
+
+Anyone want to take a deeper look with me?_END_OF_POST_PYSTOCK_ Investing in antidepression/therapy So as everyone is aware, depression and mental health issues have been on the rise massively with lockdown and the virus in general.
+
+A few months ago I made a good investment with a company called Compas pathways, which are developing  anti depressants from psilocybin (magic mushrooms). However that is quite a niche and risky investment. Menewhile companies that make standard anti depressant drugs are larger companies such as Eli Lilly which arnt as specialised. 
+
+I was woundering if anyone knew of any good general depression therapy companies which the general public could invest in(and have you had any success with them) ? I belive that there is massive investment potential but I don't know of any specific companies_END_OF_POST_PYSTOCK_ Why you should put BEAM on your watchlist Some of you may have noticed that there’s a new player in the CRISPR gene editing field, Beam Therapeutics, which IPOed last year and has rocketed from ~$20 a share to currently about ~$120 a share. Suddenly Cathie Wood of ARK is adding it to her ARKK and ARKG funds
+
+Meanwhile they make no money and have no real “product”. So is this a big bubble? What’s going on?
+
+My belief is that BEAM has the longest runway for the development of new therapeutics based on CRISPR technology because they have the BEST technology.
+
+The CRISPR technology that EDIT, CRSP, and NTLA use is essentially first generation CRISPR which cannot be targeted everywhere in the genome and has off-target effects.
+
+BEAM is the brainchild of David Liu, a Harvard scientist who utilizes forward evolution to engineer next-generation CRISPR. BEAM is specifically licensed to use Dr. Liu’s CRISPR technology, specifically his “base editors” and “prime editors.” Making a long story short, BEAM has the technology to edit anywhere in the genome with less off-target effects than the tech of NTLA, EDIT, and CRSP. Also, as you may know, EDIT, NTLA, and CRSP have had longstanding patent battles over their technology. BEAM has no such issue.
+
+So what’s BEAM’s plan?
+
+ 1. They can correct the ACTUAL sickle cell mutation that is present in patients. CRSP and the others are using their technology to turn on fetal hemoglobin production to bypass the mutation.
+
+ 2. In a collaboration with Verve, they showed they could correct the PCSK9 mutation in primates and PERMANENTLY lower blood cholesterol for the prevention of cardiovascular disease.
+
+ 3. They also show data correcting the actual patient mutations in several liver diseases.
+
+4. David Liu just had a paper in Nature showing they could correct the mutation that causes progeria, which is the disease where you rapidly age. 
+
+Is the stock a bubble that may collapse? I hope so. I’ll buy the dip.
+
+David Liu also has an agriculture company called Pairwise Plants in which they want to use the technology to gene edit crops, etc. If it goes public, I’ll be all over it.
+
+I am LONG BEAM. This is a little primer for the stock. Happy to discuss more in-depth._END_OF_POST_PYSTOCK_ Hollysys automation (HOLI) What do you guys think about Hollysys automation company? it received merger proposal of 17,1 USD and it trades at significant discount at arround 15USD per share. Furthermore management recently announced that they will buy shares from public for 50M USD. Lastly its seem pretty sound company with current assets 1.25 B USD and little debt that means that current assets alone are like all market cap. Lastly it's profitable company and actual PE is something \~8 ( if we adjust for goodwill charge that will no happen in the future) 
+
+Given a possibility for a merger and significant discount it seems perfect short term bet, even with no merger long term value seems much higher._END_OF_POST_PYSTOCK_ GME, Mob Mentality, and the irresponsibility of Reddit hype. This isn't new, but the extremes have moved significantly.  Never before have I seen so many people lose so much out of sheer ignorance. 
+
+**First and foremost I want to establish a fact: Short squeezes are not permanent.**
+
+I made a post a week ago telling everyone that short squeezes were not permanent.  GME opened at over $300 that day.  By Friday it would close at $63.  The mechanics of a short squeeze make this an inevitability.  They are, by definition, a short term event fueled by a sudden spike in demand, an unsustainable spike in demand driven by short covering.  That demand is necessarily going to end.  So, when you see a stock skyrocket from the 20s to over 300 in the matter of a week taking a long position is a less constructive use of your money than just burning cash for heat.
+
+**What this isn't: an "I told you so".**
+
+  I don't really care about that.  The red on the ledger is enough for people to eventually learn they were wrong.  Sure, they'll grovel about conspiracies for a bit, Janet Yellen called Vlad and told him to fuck the retail investors.  Hedge funds had a "short ladder attack" (for why that's not a think, [see here](https://www.reddit.com/r/investing/comments/lbib0x/the_myth_of_the_short_ladder_attack/) or [here](https://www.institutionalinvestor.com/article/b1qdq0y5b79rzb/Wallstreetbets-Conspiracy-Theorists-Claim-a-Short-Ladder-Attack-Brought-Down-GameStop-Short-Sellers-Have-No-Idea-What-They-re-Talking-About).  They'll claim that the DTC intentionally stopped out retail order flow, despite retail orders being [net sells](https://www.bloomberg.com/opinion/articles/2021-01-29/reddit-traders-on-robinhood-are-on-both-sides-of-gamestop) for most of this endeavor.  Whatever, so you're going to see a lot of blame on anything but the fact that it's obviously not smart to go long at the top of a goddamn short squeeze.  This is the financial equivalent of doing 150MPH on a dirt road then blaming the tires, the loose gravel, the 2mph headwind, or interstellar radio waves altering your tire pressure when you crash.  No, you shouldn't have been doing 150MPH on a dirt road. 
+
+_______
+
+**What this is: reflecting on the mob**
+
+The shameful part of this is that in your foaming at the mouth rabid need to believe in this story you downvoted and ridiculed anyone who brought up risks, you attacked news agencies who called it irresponsible, you barraged threads and subreddits with hype posts.  For the first time in this sub's entire history we actually had to restrict posting to manual approval only.  
+
+I spoke with a reporter for a major publication working on this story, and he relayed that he recently interviewed a homeless man who bought three shares at $315 hoping to get himself out of poverty.  do you know how much $945 can do for a homeless person??  There's [this post](https://www.reddit.com/r/investing/comments/la3bft/emotional_involvement_has_never_been_this_high/glob1kf/?context=3), where a disabled man on government support hopes to build a house with GME gains, again buying in near the top.  These are two examples, but there are hundreds if not thousands more.
+
+20 year old middle class kids blowing their beer money for the month on GME doesn't bother me.  who cares.  But these are people who cannot afford to lose even a few hundred dollars.  These are setbacks that could have equated to months worth of food, new wardrobes, necessary medical attention, etc. 
+
+We can never prevent those in poor financial situations from making poor decisions, but we can and absolutely should hold ourselves to the standard that we will at least not foster an environment that encourages poor decisions.  Many of you will lay blame elsewhere, but if you downvoted a post discussing risks of GME, accused someone of being a shill, encouraged someone to buy without first understanding their situation, etc. then you are culpable here.  
+
+------
+
+**You can, but should you?**
+
+Much has been said about Reddit's ability to affect the outside world, and now just like with the Boston bombing everyone dove in head first without bothering to examine the risks, the drawbacks, the losses, and the ramifications for those who can't afford them.  
+
+**So, what did Reddit accomplish here?**
+
+Ultimately, nothing aside from transferring a lot of retail wealth to institutional funds, again.  Sure, we can jerk off all day to Melvin's down month.  Perhaps they were hedged and they'll have a monster January, perhaps they were not.  But all of the other funds that took the long end of this early on, with managers that understood the kindergarten aspects of short squeezes - they bailed out in the 200-300 range selling some to short and some to unwitting retail investors engaged in a fervent and ultimately useless battle against some imaginary foe.  
+
+This wasn't social justice, it wasn't some populist uprising, and I don't care how much AOC, Ted Cruz, Mark Cuban, or the Pope wants to dogpile in on this.  There was nothing that happened here aside from a bunch of retail traders who didn't know what they were doing encouraging a whole lot of other retail investors who couldn't afford it to give away money they didn't have to institutions.  
+
+Next time y'all want to effect change just have a charity drive for UNICEF, or send money to a PAC focused on fighting inequality.  Write your senator, picket congress (peacefully, no mob bullshit), organize a sit in, whatever.  But let's not encourage broke people to give their hard earned thousands to hedge funds.  
+
+**And most importantly, the next time this happens, because it will happen again, for the love of Christ try to understand what the fuck is going on before jumping on the hype train.  And stop downvoting and ridiculing people that do understand what is happening with an opinion you don't like.**
+
+.
+
+Thank you for listening to my Ted^X Talk^I ^look ^forward ^to ^hearing ^about ^how ^much ^this ^hurt ^everyone's ^feelings ^in ^the ^comments._END_OF_POST_PYSTOCK_ Prosus(PRX) IS SUPER UNDERVALUED Prosus is a holding company that owns tencent and has a 40% discount to NAV. 
+
+In 2001 they took a stake in Tencent for 30mn. That stake is now worth 270bn 😩. If you don't know what tencent is, they are pretty much all you would ever want in a stock. They are the second video game producer in the world and have stakes in hundreds of sick companies ( JD, Epic games etc).
+
+Prosus uses the dividends from tencent to invest in world class companies. Some of these companies include udemy, delivery hero and many more. 
+
+Prosus is becoming the berkshire of the future. You get tencent at a discount and get the rest of their portfolio for free. 
+
+They just issued a massive share buyback of 5bn._END_OF_POST_PYSTOCK_ Daily Advice Thread - All basic help or advice questions must be posted here. If your question is "I have $10,000, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!_END_OF_POST_PYSTOCK_ Using SEC Forms to pick stocks I recently discovered the SEC's Schedule 13G or 13D forms (used to report a party's ownership of stock which exceeds 5% of a company's total stock issue). Don't these forms kind of tell us what moves the big institutional traders are doing (almost like looking into the dark pools)?
+
+&#x200B;
+
+For example, this [form](https://sec.report/Document/0000834237-21-007409/) tells that Blackrock obtained 5.2% of MT's stock yesterday. Wouldn't this tell me as an investor that Blackrock is bullish on MT? (Although it's possible that Blackrock purchased these shares for its index/mutual/exchanged traded funds). Another [example](https://sec.report/Document/0001193125-21-030951/) is Spotify buying 21.1% of TME's stock yesterday as well. 
+
+&#x200B;
+
+Why not use these forms to pick stocks? A large institutional trader would not buy a significant portion of a company's stock if they were not bullish on the company's performance, right? Also, institutional investors who purchase more than 5% of a company's shares will probably be doing it through dark pools, so it wouldn't affect the security's price (which means you could potentially buy it after the filing becomes public and still make money)._END_OF_POST_PYSTOCK_ $IMMR Immersion Corporation DD February 2021 NASDAQ: IMMR
+
+Immersion Corporation
+
+Price $13.36 Market Cap $359.68M (Monday 1st February)
+
+**Introduction**
+
+Immersion is the world leading innovator of touch feedback technology, also known as haptics. The company provides haptic technology to create immersive and realistic experiences that enhance digital interactions on mobile devices. Immersion's technologies have been adopted in more than 3 billion digital devices that, along with mobile, include automotive, gaming, medical and consumer electronics. 
+
+**Financials** 
+
+Cash in the bank, zero debt 
+
+Net income increased to $2.9M in Q3 2020
+
+Gross margin +99%
+
+31.30% insider ownership
+
+Earnings came in way ahead of expectations with GAAP EPS ($0.11) and non-GAAP EPS ($0.15) both $0.10 better than expected.
+
+Q3 revenue: 74% mobile 12% automotive 14% gaming
+
+Short percentage of float 7.18% 
+
+**Next earnings date; Thursday 5th March 2021.**
+
+*Sourced from income statement and balance sheet - September 30 2020.*
+
+**Why go long?**
+
+The global haptic technology market is expected to grow from USD 2.6 billion in 2021 to USD 4.6 billion by 2026, at a CAGR of 12.0%. Other forecasts suggest it could grow as high at $10B with increasing integration of haptics into consumer devices is the primary factor driving the market growth.
+
+Immersion holds around 3,500 patents in their industry. The [protection](https://en.wikipedia.org/wiki/Immersion_v._Sony) of their tech is a key factor in the long term prospect of this stock. IMMR has previously successfully sued both Sony and Microsoft over vibration technology installed in their console controllers.
+
+The September 2020 earnings call highlight forecasted growth through 2021 of 214% largely tied to IMMR’s licensing agreement with Sony for PS5’s. Earnings are obtains per units sold, both on consoles and controllers. PS5 sales are booming with demand outstripping supply, resulting in Sony upping their 2021 sales targets and raising production by 50%.
+
+Of potentially greater long term significance is the rumoured partnership with $TSLA. Tesla have announced they are working on a [new steering column and center console ](https://electrek.co/2020/02/06/tesla-new-steering-wheel-touchscreen-gear-stalk/?source=content_type:react%7Cfirst_level_url:article%7Csection:main_content%7Cbutton:body_link)which will include haptic technology. The reality is IMMR are most likely the only serious candidate. 
+
+IMMR are perfectly portioned with their existing patents to continue to dominate their market, very limited completion and advance patented technology allows for their products to be licensed for greater margin, than traditional development contracts.
+
+**Considerations**
+
+Insiders have been selling most recently William C Market (Director) and Eric Singer (Director). In total $43,296,960.21 worth of shares have been dispositioned over the last 12 months.
+
+**Conclusion** 
+
+Immersion is well positioned to be a great medium to long term buy. Most attractive is its modest market cap suggesting a great upside. The comprehensive catalog of unique intellectual property and high margin licensing strategy is critical in delivering value going forward. Royalties from PS5 sales will likely boost revenue ahead of March’s results. Lastly 5G technology boasting mobile sales and the chance of a huge automotive partnership suggests that there is plenty of value in the company.
+
+**Positions** (for full disclosure)
+
+May 21 ’21 12.5C
+
+53 Shares_END_OF_POST_PYSTOCK_ IDRA huge upside very soon < IDRA > Idera Pharma - Phase III data next month 
+
+\*Huge upside may very soon \* Bakers Brothers largest holding\* 
+
+\* Next month PH-3 advanced anti-PD-1 refractory melanoma data expected. Total market US & EU together \~1B but  currently IDRA  trading at \~200m Valuation
+
+\* FDA granted  Orphan designation  preparing for the accelerated approval 
+
+\* Enough cash in hand until Q1 of 2022 and current float is only 38m
+
+\* \~ 140m additional Private placement from  two of the largest investors (BB and Pillar ) in place for the product launch 
+
+\* MSS-CRC ph-2 data expected in Q3 2021
+
+\* Collaboration with Abbvie for Head & Neck data expected  anytime
+
+\* Most advanced and undervalued TLR-9 company in the market , compare to CMPI MC of >300m with only Ph1/Ph2
+
+\* Pancreatic Cancer trial  in progress
+
+\*  IMO-2125  Ipi and Nivo in Patients With Advanced Cancers (PRIMO) 
+
+\* IMO-2125 in Pathological  Tumor Stage (p) T3-4 cN0M0 Melanoma (INTRIM)
+
+JPM 2021
+
+[https://jpmorgan.metameetings.net/events/healthcare21/sessions/35499-idera-pharmaceuticals/webcast?gpu\_only=true&kiosk=true](https://jpmorgan.metameetings.net/events/healthcare21/sessions/35499-idera-pharmaceuticals/webcast?gpu_only=true&kiosk=true)_END_OF_POST_PYSTOCK_ What do you think about my new strategy what are some flaws 
+So my strategy is based on the rocket stocks book written by Matthew kratter. You start by looking for stocks that are hitting New 52 week highs I usually do this on barchart because it will also tell you the volume for that day. After you've found a stock that's had a new 52 week high.  Check to make sure it's gapping up in volume. After both those two are checked look to make sure that the current price is above the 50-day moving average and the 50-day moving average is above the 200-day moving average. It's not required but it is helpful if the cap is under five billion. It also helps if the float is low. 
+
+Risk management: I would only put 10% of my portfolio into one stock. I would also have a stop loss at 10% of that stock so in total I would only be risking 1% of my portfolio. I would sell if I made 100% or higher profits, or if the price crossed below the 50-day moving average
+
+
+With the strategy and the risk management out of the way what are some downsides to this strategy in your opinion?_END_OF_POST_PYSTOCK_ Any contrarian analysis on Hyzon... Hi all,
+
+I’ve been investing in the hydrogen space for over a year now. I’ve learned to take media articles and corporate websites with a grain of salt, especially after the Nikola debacle. Luckily, I didn’t buy into the hype of that one. 
+
+I’m just wondering if anyone has any interesting analysis on Hyzon? I’d welcome any negative analysis.
+
+They seem to be in a better place than Nikola, as they actually have a functioning product and don’t stage their marketing materials....
+
+Thanks a lot!
+
+Happy investing..._END_OF_POST_PYSTOCK_ confusion relating to transferring brokers After recent events, I've begun transferring my RH account to Fidelity and im trying to understand a few things. 
+
+Namely, my RH account is just now showing a margin related deficit for the first time. I'm assuming I will need to settle this.
+
+Additionally,  during trading hours, my holdings showed up on both platforms, but with fractional shares and their dollar amounts missing in Fidelity. (For example, I show 3.3 shares of $AMZN in RH and 3 in Fidelity) 
+
+At this point, the Fidelity account is back to showing only my initial $750 deposit, with RH showing no change other than the deficit announcement. The transfer is 3 days into the process so im sure the process is still moving, but my id prefer to be proactive so i don't end up chasing fractional shares, and exasperating the learning curve. 
+
+Hold times are wild, and I had to move on after more than an hour. Any help is appreciated._END_OF_POST_PYSTOCK_ A story about the Dot Com bubble, some profit taking, exit strategies and money vs capital 
+[ Bot hates me so here is a link](http://www.bloomberg.com/news)
+
+In the late 90's we had a similar Tech/Digital stock rally (this is not nearly as bad though, so chill, companies are actually destroying the estimates and profits are strong).
+
+Back then it was web page development and internet providers, now it's mainly electric vehicles and some parts of tech. 
+
+“St0nks” were only going up, up and up. You heard things like - Dude, its a new economy, this is the new normal. This is the future, you can't use old models to define value. Die all boomers and burn traditional stocks (ok I might be exaggerating on this one). 
+
+Anyway, I was a finance major at a prominent university in London, UK. I was destined for greatness and a trainee spot at Deutsche Bank's analyst desk. My friend - let's call him Eli, because his name was actually Eli - was a stock genius. 
+
+Everybody is a genious in a bull market, you put some money in to a company in IT and BAM, the new Buffett (or Cathie).
+
+Eli was good for about 350kUSD at one point, not bad for a student. Or I should say, 350kUSD nominal value in stocks. Because, its not money until you sell. Eli learned the hard way.
+
+The "dip" came. Eli figured "st0nks only go up" - I'm gonna "buy the dip". The dip became a slide, then a vortex and finally evolving in to a capital sucking black hole (not an anus ok).
+
+Eli bought and bought, he also had a debt position of about 25% of his portfolio. This increased to 50%. The bank called, Hey Eli - that collateral isn't so hot anymore, pay up dude. Eli paid up. One year later he had -13kUSD on his account for accrued interest rates and trading fees.
+
+
+
+So what's there to learn. Well, depends on how risk averse you are, but I see a lot of new investors that ask about when and how to take home profits. There is no rule or best practice, but here's at least an strategy that I'm using myself.
+
+
+1. I don't let a stock grow beyond 20% of my portolio, if it does I automatically start scaling back profits and weight to other, new opportunities. 
+
+Compound that interest, bitch.
+
+2. I always keep a 10-15% cash position so I can take advantage on dips or other opportunities. This capital has had a ridiculous payback over the years. This is not money, this is capital. I have a savings account with 3 months salary. That’s money. 
+
+3. For every 20% growth I take home for example 20% of the profit. So in G-ME for example I started buying early and by $90 I only had profits invested. By 300 I had sold about 2/3 and on the way down I dropped the last stocks at 115. 
+
+So let’s say a stock grows from 100 to 120. I take back 4. Then it goes to 140, I take back another 8 so now I have taken 12 total. 
+
+Obviously there is some flexibility here, but use it for inspiration. For more secure stocks you may wanna hold on more and longer, but for me it’s a lot about maintaining that cash position.
+
+
+So what do I do with my profits? Well, I do a few things. 
+
+
+1. I reinvest them in to other stocks, so I make sure I have a short list of alternatives at all times.  For example, my G-ME winnings (yes it was a casino) paid for 300 PayPal stocks at $231. They’re now up 15%. 
+
+Compound that interest, bitch.
+
+
+2. I put them in the cash position so I can be opportunistic (but still max 15%). Life saver in March, pure rocket fuel baby. 
+
+
+3. I buy my wife or kids presents, I get a nice Rolex or refurbish the house.  I turn it in to money. I have money so I can spend it, use it. 
+
+
+
+Moral of the story or TLDR;
+
+Make money, you probably won't see another opportunity like the one of the past 6-10 months. Its not coming back for a while. 
+
+Don't step out of the market, pick your stocks wisely, keep some cash to pounce on some disappointing earning calls or dips and remember: IT IS NOT MONEY UNTIL YOU SELL.
+
+Disclaimer 2: I was a licensed financial advisor as in a securities analyst, but do your own research. This is not advice, it’s inspiration.
+
+PS Eli went on to be a very successful entrepreneur and has started a few companies. I believe one of them is going to IPO soon DS
+
+Edit: clarified advisor part
+
+Edit 2: this completely blew up, thanks for all the awards and upvotes but spend the money on stocks instead!_END_OF_POST_PYSTOCK_ Why I think PBF Energy is undervalued 
+PBF energy is a independent oil refiner that has had it's stock price crushed over the past year, where it dropped from $30 pre pandemic to $9.50 now. It seems as if that drop may be justified since the company is currently posting -8.75 EPS and has accumulated a decent amount of debt.
+
+Despite these challenges, I truly believe that PBF energy presents itself as a fantastic turn-around play, assuming the fact that oil demand can recover. Downstream companies like PBF energy are different fundamentally from E&P companies since they don't necessarily rely on high oil prices to generate a profit. Compared to E&P companies, refiners have low operating leverage, and profit from their refinery margin, which is the difference between crude oil and refined products. Because of this, I think the safest oil bets are within the Downstream sector, since they are least affected by the price of oil, and only rely on the return of oil demand.
+
+Part of the reason that I think PBF energy is such a good investment opportunity is because it has a lot of intangibles that aren't being reflected by the market. Before the pandemic, it acquired the Martinez refining facility, but never had the chance to integrate the facility to generate profit. On top of of this, PBF Energy's refineries have some of the highest Nelson Complexity Ratings in the country. This puts PBF at an advantage compared to other downstream companies, since it can refine Heavy/Sour Crude blends more efficiently than other Refiners. Heavy/Sour blends often trade at a discount to more Light/Sweet blends, so PBF has more of an opportunity to take advantage of the price disparities between different kinds of blends.
+
+Before the Pandemic, PBF exhibited extremely strong fundamentals, by showing strong growth in Revenue and Cash flow while maintaining growth in Capital Expenditures. As of right now, it is trading at a bout half of it's book value. Some hidden assets that the balance sheet may not reflect is PBF's 51% ownership in PBF Logistics, which handles PBF's Midstream operations. Another factor that may facilitate PBF's turnaround is that it has a huge Net Operating Loss Carry forward, where it's revenue for the next year may come tax free.
+
+Overall, I think PBF energy presents itself as a worthy Turnaround play._END_OF_POST_PYSTOCK_ Investing opportunities in seaweed Hello, I have been looking for investment opportunities in seaweed farming as I believe it is a fast growing cash crop. 
+
+There were reports earlier this year that the implementation of seaweed in cows diets can reduce methane emissions. With a world focused on reducing greenhouse gases I see opportunity here. 
+
+When researching, I didn’t come across many opportunities except those that were massive companies where seaweed cultivation is only a small part. 
+
+Any help in finding opportunities to get exposed to this sector is greatly appreciated._END_OF_POST_PYSTOCK_ Compare stock portfolio performance to SP500 benchmark Hi. If I am buying individual stocks every month, how do I compare the performance of my stock selection to the SP500 index. I could do a spreadsheet, but it gets complicated since my account already has some stocks and index funds. Is there a website where I can put in my monthly buys and it gives a comparison to SPY or something similar? Essentially, what I want to see is a comparison between DCA into SPY vs my stock selection. 
+
+I would like to add that I am aware that it is unlikely my stock portfolio will beat the benchmark in the long run. I do put the majority of my savings in index funds every month. However, I like researching stocks, it is fun and more like a hobby. Thanks._END_OF_POST_PYSTOCK_ Applied Genetic Technologies (AGTC) New here so sorry if I get this post wrong and please let me know if I do. Thanks!
+
+(AGTC) Applied Genetic Technologies Corp is a clinical-stage biotechnology company. They use a proprietary gene therapy to treat patients suffering from rare and debilitating diseases including blindness.
+
+I really like this stock for the short and mid-term. So much in fact, that I got in today and it is now the 3rd strongest position in my portfolio.
+
+A lot of analyst see AGTC going much further based on what I've been reading from multiple sources. Definitely do your own research, but I'll include some links from what I've found.
+
+Investors Observer 52 week outlook range from 42.59% to 565.40% [https://www.investorsobserver.com/symbols/agtc](https://www.investorsobserver.com/symbols/agtc)
+
+Tip Ranks 52 week outlook 311.2% [https://www.tipranks.com/stocks/agtc/forecast](https://www.tipranks.com/stocks/agtc/forecast)
+
+Like I said, do your own research too before deciding what to invest in. We all know the risk, yada yada. I do a lot of research before I want to buy something. Of course I can't possibly buy everything that looks good. That's where it starts to matter how I feel about the company and how I feel in my gut about the investment. I have to say I feel good  about this one on both of those accounts. It honestly reminds me of how I felt about UMC last summer and I am up over 300% on that investment now._END_OF_POST_PYSTOCK_ The curios case of QTT (3.74/share)  QTT is a Chinese news aggregator, basically personalized news the way Google sometimes does on its homepage. It's currently at 3.74 a share and could jump big time in the near future. Of course this is a volatile Chinese penny stock so please invest carefully. Don't do Calls/Options. But if you want 1,000 shares of something, it could be this one. Chinese stocks should be 20-30% of your portfolio due to how fast they can go up. In China, they know how to do one thing well; generate income (much better than the USA). Sometimes their stocks can seem scammy but other times they are as solid as anything else in your portfolio._END_OF_POST_PYSTOCK_ Stocks relating to diabetes technology I am a young investor and do not know all the ins and outs of stocks, but I do know that diabetes technology is rapidly advancing and companies creating these technologies are having stocks that rise exponentially. For example, Dexcom, a company that has made new, popular devices to test blood sugar,  had one of the highest returns per share of stock in the last decade. I have been researching some companies that have been creating or are in the making of selling more advanced technology for testing blood sugar such as Nemaura Medical Inc ($NMRD) and Tandem Diabetes Care Inc ($TNDM). I would love to hear older, more experienced traders let me know what they think about these stocks and overall buying stocks realting to the vastly increasing diabetes technology. Comments are greatly appreciated._END_OF_POST_PYSTOCK_ $VSAT - Why I like it as a recovery trade. I like $VSAT 
+[Viasat.com](Viasat.com)
+
+Reasons: 
+-It’s on a big climb and still hasn’t hit 2020 levels yet. 
+
+-Demand for internet is up globally - including rural communities and developing nations that rely on satélite services. 
+
+-Elon, Branson, Bezos sat internet isn’t avl yet.  
+
+-They provide wifi internet for planes, cruise ships, yachts. People love being able to browse Reddit while they are on vacation!
+
+-They are expected to launch new satélites in the not too distant future.
+
+-They play nice with SpaceX.
+
+-Recent $50M contact with USAF.
+
+-Recent in flight wifi contract with Delta air, summer 2021 rollout. 
+
+I like $VSAT not as a hype stock but as a solid company with already rising stock and indicators of future growth. 
+
+Hesitations: 
+
+-WHEN the next generation of satélite internet providers get online, I can only assume public attention may shift. 
+
+Disclaimer: 
+This is not financial advice. I know nothing about stocks. This is all stuff I found browsing google. Do your own research and let us know what you think. Maybe someone who knows numbers can give us a rundown._END_OF_POST_PYSTOCK_ Westport Fuel Systems (WPRT) WPRT had a huge after-market spike today after they announced a deal with Amazon to provide them 1,000 compressed natural gas truck engines in an effort to reduce pollution. The stock jumped 42% after-market after the news hit. I got in back when the stock was at $4.00 anticipating a Biden green energy bump and it closed at $12.26 after hours today. It has seen an increase in value of 492% over the past 3 months. 
+
+A partnership with Amazon could be very big for them going forward as they have an immense trucking fleet. The company is banking on compressed natural gas engines as being the cleaner bridge between fossil fuels and an electric trucking fleet. They are headquartered in Vancouver, BC and have been around since 1995. What does everyone think about the company going forward? I would love to hear people's thoughts.
+
+https://www.nasdaq.com/articles/exclusive-amazon-orders-more-than-1000-natgas-engines-for-u.s.-truck-fleet-2021-02-05_END_OF_POST_PYSTOCK_ Purchase Warrants expiry date change... how is this legal? I was the owner of some Husky shares when it was purchased by Cenovus. As part of the transaction, Husky share owners were to receive 0.0651 of a Cenovus share purchase warrant in exchange for each  Husky common share. You can see this agreement here:
+
+[https://www.cenovus.com/news/news-releases/2020/10-25-2020-cenovus-and-husky-combine-to-create-a-resilient-integrated-energy-leader.html](https://www.cenovus.com/news/news-releases/2020/10-25-2020-cenovus-and-husky-combine-to-create-a-resilient-integrated-energy-leader.html)
+
+The warrants were issued with a 4 year expiry date, but this was just changed to less than a year. Please see the letter I received regarding this.
+
+[https://imgur.com/a/D0CdRQt](https://imgur.com/a/D0CdRQt)
+
+Now my question is how is this possible and how is this legal? This seems like an arbitrary change. Could they not change the expiry date to tomorrow's date and make the warrants worthless? (well not quite but you get my point).
+
+Finally, I'm not familiar with purchase warrants at all. Am I misunderstanding things?
+
+&#x200B;_END_OF_POST_PYSTOCK_ Churchill Capital Opened a new stock CCV BIG NEWS FOR CCIV Today Friday 2/5, Churchill Capital opened up a new ticker CCV aside from their already known ticker CCIV. What is the big deal you may ask? Well if you haven't been living under a rock, somewhat likely rumors about a merge between Churchill Capital and LUCID Motors may be underway. The reason why CCV being opened is such big news is that there may have been a deal struck between Churchill Capital and LUCID which is why Churchill capital needed to open a new ticker to replace the old one, as their original stock CCIV will be renamed with whatever the LUCID ticker will be. This is massive news and probably the reason why CCIV rose almost 15% today despite there being no confirmed news of a merge. What's also rumored is a super bowl commercial presented by LUCID Motors that will confirm the merge between the 2 companies. That one may be a stretch because it seems a bit late to reserve space for a commercial but only time will tell.
+
+Keep in mind this is speculation. What I am saying isn't guaranteed to happen but I am very convinced personally that this will happen. Enjoy everyone.
+
+&#x200B;
+
+Edit\*
+
+Seems like this post is picking up a small bit of attention so I'd like to be clear in no way do I consider myself a financial expert, I'm just some college kid sharing some thoughts for some internet points._END_OF_POST_PYSTOCK_ FVRR: A Diamond in the Rough in plain sight Fiverr is a site for **freelancers to offer their work online**.  That's a very simple statement, it's doesn't seem to offer groundbreaking value like a tech plays and at first glance, it doesn't seem to offer any reasoning why you should invest, bear with me and listen. I'll just outline a few reasons why Fiverr has been an extremely undervalued case an worthy of your investment:
+
+(1) Fiverr has been extremely undervalued and **mispriced by at least half the Wall-street Analysts**, save for a few top ones, and its seems to be glossed over by many investors out there due to a fundamental misunderstanding of the nature of the business. Even the top Wall Street analysts on buy ratings seem to have glossed over the most important reasoning to buy the stock.  (As a side note, please note that the stock has **grown over 700%** in the past year.)
+
+It is fundamentally, a **groundbreaking new Human Resources solution for SMEs**. It allows a marketplace for SMEs to find value talent, that would be impossible for them to source, both due to geographical and limited budgets.  Say, if I run my business in a small town, how can I find talent to do my artwork for my advertisement?  Fiverr provides me with the solution by offering ,say,  extremely talented individuals half way across the world in less developed countries for one-tenth of the price. To be blunt, it allows SMEs to source talented individuals in less developed countries for a value play.
+
+(2) **Fiver has close to 0 true competitors in this space**.  Their so-called closest competitor 'Upwork' are targeted towards different markets.  Upwork is geared towards at the higher end of the market at large corporates while Fiverr is geared towards SMEs.  If you look at the way the platform is set up, they charge a much higher rate and the focus is on more complex projects.  I believe there is much more talent on Fiverr that is drawn across countries and geographies which would otherwise be very very difficult to access for SMEs.
+
+To summarize, the Fiverr platform seems to shift **whole industries** online to provide value talent which would otherwise be extreme pain points for SMEs. **In short, this is the Alibaba of HR solutions for talent sourcing.**
+
+(3) Now, lets talk about the valuation.  Fiverr is currently valued at approximately, 9 billion market cap, with 35 million shares and 20 million on float.  It's at the time of writing, at $270.  If you look at similar comparable, such as Etsy, both sites that offer work online, it is worth 27 billion.  That's three times the market cap of Fiverr.  In fact, I argue that Fiverr has a potentially larger market size than Etsy, the website offers work across a range of industries, from computing, all the way to advertising.  **That's potentially a 300%+ return** if you are looking at a long term investment.
+
+(4) Why its good to get in now.  If you look at the amount of Fiverr stock Hedge funds have in their portfolio, a lot of them have none. There are a just a few hedge-funds with Fiverr in their portfolio (last time I check there were around \~10) and this has given them outsized gains. It doesn't help the fact that half the Wall Street analyst think that Fiverr is "just" a platform offering remote work opportunities and its only gaining steam now because of the coronavirus. That's fundamentally a mis-analysis in the true value of Fiverr. _END_OF_POST_PYSTOCK_
